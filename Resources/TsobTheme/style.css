@@ -1,0 +1,91 @@
+body {
+    background-color: #535185;
+    font-family: Verdana, Sans-Serif;
+}
+
+.main-head {
+    grid-area: header;
+    height: 180px;
+    border-radius: 12px;
+    background-image:  url("./img/headerImg.png"), linear-gradient(#fffe0a, #c48a17);
+    background-size:     contain;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+.content {
+    grid-area: content;
+    background-color: #a6a6c2;
+    padding: 30px;
+    border-radius: 12px;
+    min-height: 390px;
+}
+
+.side {
+    grid-area: sidebar;
+    background-color: #535185;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.main-footer {
+    grid-area: footer;
+    background-color: #535185;
+}
+
+.wrapper {
+    display: grid;
+    gap: 20px;
+    grid-template-areas:
+    "header"
+    "content"
+    "sidebar"
+    "footer";
+}
+
+.menu {
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    margin-bottom: 1em;
+    display: inline;
+}
+
+
+@media (min-width: 500px) {
+    .wrapper {
+        grid-template-columns: 2fr 7fr;
+        grid-template-areas:
+        "sidebar  header"
+        "sidebar content"
+        "footer  footer";
+    }
+
+    .topleft {
+        height: 180px;
+        background-image: url("./img/BenPurpleGold.JPG");
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    .menu {
+        text-align: right
+    }
+
+    .menu ul li {
+        display: block;
+    }
+
+    .content, .main-head {
+        margin-right: 20px;
+    }
+}
