@@ -5,9 +5,15 @@ import Plot
 // This type acts as the configuration for your website.
 struct Theskinny: Website {
     enum SectionID: String, WebsiteSectionID, CaseIterable {
-        case posts
         case home
-        case about
+        case blog2
+        case pages
+        case photoGalleries
+        case dailyPhotos
+        case videos
+        case adopt
+        case extras
+        case others
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -28,7 +34,7 @@ extension Theme where Site == Theskinny {
     }
 }
 
-// This will generate your website using the built-in Foundation theme:
+// This will generate the website
 try Theskinny().publish(withTheme: .tsobTheme)
 
 
