@@ -7,13 +7,14 @@ struct Theskinny: Website {
     enum SectionID: String, WebsiteSectionID, CaseIterable {
         case home
         case blog2
-        case pages
-        case photoGalleries
-        case dailyPhotos
-        case videos
-        case adopt
-        case extras
-        case others
+        case haikus
+//        case pages
+//        case photoGalleries
+//        case dailyPhotos
+//        case videos
+//        case adopt
+//        case extras
+//        case others
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
