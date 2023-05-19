@@ -10,7 +10,7 @@ import Publish
 import Plot
 
 extension TsobHTMLFactory {
-    func makeItemHTML(for item: Publish.Item<Site>, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
+    func makeItemHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         HTML(
            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
            .body(.tsobHeader(for: context),

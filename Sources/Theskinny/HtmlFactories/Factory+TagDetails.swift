@@ -10,7 +10,7 @@ import Publish
 import Plot
 
 extension TsobHTMLFactory {
-    func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Site>) throws -> HTML? {
+    func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Theskinny>) throws -> HTML? {
         HTML(.head(for: context.index, on: context.site),
              .body(
                 .tsobHeader(for: context),

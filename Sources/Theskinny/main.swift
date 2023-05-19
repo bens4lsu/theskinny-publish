@@ -18,15 +18,16 @@ struct Theskinny: Website {
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
-        // Add any site-specific metadata that you want to use here.
+        var id: Int
     }
 
-    // Update these properties to configure your website:
     var url = URL(string: "https://theskinnyonbenny.com")!
     var name = "The Skinny On Benny"
     var description = "Personal Website, Ben Schultz, Baton Rouge"
     var language: Language { .english }
     var imagePath: Path? { "img" }
+    
+
 }
 
 extension Theme where Site == Theskinny {

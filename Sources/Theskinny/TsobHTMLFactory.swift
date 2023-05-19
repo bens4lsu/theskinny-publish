@@ -8,8 +8,8 @@
 import Publish
 import Plot
 
-struct TsobHTMLFactory<Site: Website>: HTMLFactory {
-    func makeIndexHTML(for index: Publish.Index, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
+struct TsobHTMLFactory: HTMLFactory {
+    func makeIndexHTML(for index: Publish.Index, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         // make index html = home html
         let sections = context.sections
         let section = sections.first(where: { $0.id.rawValue == "home" })!
@@ -26,16 +26,20 @@ struct TsobHTMLFactory<Site: Website>: HTMLFactory {
 //        HTML(.text("Hello item"))
 //    }
     
-    func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
-        HTML(.text("Hello page"))
-    }
+//    func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
+//        HTML(.text("Hello page"))
+//    }
     
-    func makeTagListHTML(for page: Publish.TagListPage, context: Publish.PublishingContext<Site>) throws -> Plot.HTML? {
+    func makeTagListHTML(for page: Publish.TagListPage, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML? {
         HTML(.text("Hello tag list"))
     }
     
 //    func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Site>) throws -> Plot.HTML? {
 //        HTML(.text("Hello tag details"))
+//    }
+    
+//    func makeHaikuPage(for page: Publish.Page, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
+//        HTML(.text("haiku page hello"))
 //    }
     
 
