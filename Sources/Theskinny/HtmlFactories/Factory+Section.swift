@@ -29,7 +29,7 @@ extension TsobHTMLFactory {
     
     func makeHaikusHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
         let haikuArray = section.items.map { item in
-            Haiku(title: item.content.title, date: item.content.date, content: item.content.body.html, id: item.metadata.id)
+            Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
         }
         let haikus = Haikus(items: haikuArray)
         let pageMain = AnyPageMain(mainContent: haikus, site: context.site)

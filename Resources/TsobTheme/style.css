@@ -32,6 +32,7 @@ body {
 .main-footer {
     grid-area: footer;
     background-color: #535185;
+    text-align: center;
 }
 
 .wrapper {
@@ -60,6 +61,26 @@ body {
     display: inline;
 }
 
+.menu ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h3 {
+    color:#4C4C4C;
+    font-size:85%;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+
+
+.footer-text {
+    border-radius: 12px;
+    background-color: #a6a6c2;
+    display: inline-block;
+    padding: 20px;
+}
 
 @media (min-width: 500px) {
     .wrapper {
@@ -89,3 +110,17 @@ body {
         margin-right: 20px;
     }
 }
+
+
+.haiku-single-entry {
+    padding-bottom: 40px;
+}
+
+.haiku-single-entry a {
+    text-decoration: none;
+}
+.haiku-single-entry a h1 {
+    color: #000;
+    margin: 0;
+}
+

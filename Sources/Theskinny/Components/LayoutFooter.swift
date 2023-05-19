@@ -16,13 +16,15 @@ struct LayoutFooter: Component {
     var body: Component {
         Footer{
             Div {
-                Text("© 2004 - \(currentYear) \(site.name)")
-            }
-            Div {
-                Text("Generated using ")
-                Link("Publish", url: "https://github.com/johnsundell/publish")
-                Text(".  Written in Swift")
-            }
-        }
+                Div {
+                    Text("© 2004 - \(currentYear) \(site.name)")
+                }
+                Div {
+                    Text("Generated using ")
+                    Link("Publish", url: "https://github.com/johnsundell/publish")
+                    Text(".  Written in Swift.")
+                }
+            }.class("footer-text")
+        }.class("main-footer")
     }
 }

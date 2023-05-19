@@ -12,7 +12,7 @@ import Publish
 struct Haiku: Component {
     var title: String?
     var date: Date
-    var content: String
+    var content: Content.Body
     var id: Int
     
     var dateString: String {
@@ -23,7 +23,7 @@ struct Haiku: Component {
         Span {
             H3(dateString)
             Text("")
-            Text(content)
+            content
         }
     }
     
@@ -41,18 +41,23 @@ struct Haiku: Component {
                 H1(title ?? "_")
             }
             bodyMain
-        }
+        }.class("haiku-single-entry")
     }
 }
 
 struct Haikus: Component {
     var items: [Haiku]
     
+    let listStyle = HTMLListStyle(elementName: "") { listItem in
+        Div(listItem)
+    }
+    
     var body: Component {
-        Article {
+        let items = self.items.sorted{ $0.date < $1.date }
+        return Article {
             List(items) { item in
                 item.bodyWithLinks
-            }
+            }.listStyle(listStyle)
         }
     }
 }

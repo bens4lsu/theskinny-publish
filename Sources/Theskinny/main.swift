@@ -22,7 +22,7 @@ struct Theskinny: Website {
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!
-    var name = "The Skinny On Benny"
+    var name = "theskinnyonbenny.com"
     var description = "Personal Website, Ben Schultz, Baton Rouge"
     var language: Language { .english }
     var imagePath: Path? { "img" }
