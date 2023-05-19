@@ -37,7 +37,7 @@ struct Haiku: Component {
     var bodyWithLinks: Component {
         let idStr = "00000\(id)".suffix(2)
         return Div {
-            Link(url: "/x/tc\(idStr)") {
+            Link(url: "/haikus/tc\(idStr)") {
                 H1(title ?? "_")
             }
             bodyMain

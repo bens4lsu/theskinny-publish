@@ -7,7 +7,7 @@ body {
     grid-area: header;
     height: 180px;
     border-radius: 12px;
-    background-image:  url("./img/headerImg.png"), linear-gradient(#fffe0a, #c48a17);
+    background-image:  url("/img/headerImg.png"), linear-gradient(#fffe0a, #c48a17);
     background-size:     contain;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -72,7 +72,7 @@ body {
 
     .topleft {
         height: 180px;
-        background-image: url("./img/BenPurpleGold.JPG");
+        background-image: url("/img/BenPurpleGold.JPG");
         background-repeat: no-repeat;
         background-position: center center;
     }

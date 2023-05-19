@@ -12,11 +12,12 @@ import Plot
 extension TsobHTMLFactory {
     func makePostsHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
          HTML(
-            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
-            .body(.tsobHeader(for: context),
-                  .postContent(for: section.items, on: context.site),
-                  .tsobFooter(for: context.site)
-            )
+//            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
+//            .body(.tsobHeader(for: context),
+//                  .postContent(for: section.items, on: context.site),
+//                  .tsobFooter(for: context.site)
+            
+            .text("makePostsHTML not implemented")
         )
     }
 }

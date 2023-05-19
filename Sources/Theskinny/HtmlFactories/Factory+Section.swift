@@ -32,14 +32,11 @@ extension TsobHTMLFactory {
             Haiku(title: item.content.title, date: item.content.date, content: item.content.body.html, id: item.metadata.id)
         }
         let haikus = Haikus(items: haikuArray)
+        let pageMain = AnyPageMain(mainContent: haikus, site: context.site)
 
         return HTML(
            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
-           .body(.tsobHeader(for: context),
-                 .wrapper(.article(
-                    .component(haikus.body),
-                 .tsobFooter(for: context.site)
-           )
-        )))
+           .body(.component(pageMain))
+        )
     }
 }
