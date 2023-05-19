@@ -9,6 +9,10 @@ import Foundation
 import Plot
 import Publish
 
+fileprivate struct TopOfPageComment {
+    static var text = "Content created by Tyler Cummings from 2005 - 2008.  A truer poet there never was."
+}
+
 struct Haiku: Component {
     var title: String?
     var date: Date
@@ -28,7 +32,11 @@ struct Haiku: Component {
     }
     
     var body: Component {
-        Article {
+        let linkInfo = TopNavLinks.LinkInfo(text: "Back to full list", url: "/haikus")
+        
+        return Article {
+            TopNavLinks(leftLinkInfo: linkInfo)
+            H3 { Text(TopOfPageComment.text) }
             H1(title ?? "")
             bodyMain
         }
@@ -55,6 +63,7 @@ struct Haikus: Component {
     var body: Component {
         let items = self.items.sorted{ $0.date < $1.date }
         return Article {
+            H3 { Text(TopOfPageComment.text) }
             List(items) { item in
                 item.bodyWithLinks
             }.listStyle(listStyle)

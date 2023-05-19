@@ -11,9 +11,11 @@ import Publish
 
 struct LayoutAside: Component {
     
+    var custPersonImageClass: String?
+    
     var body: Component {
         Aside{
-            Div { }.class("topleft")
+            Div { }.class("topleft \(custPersonImageClass ?? "")")
             Menu()
         }.class("side")
     }

@@ -13,11 +13,13 @@ struct AnyPageMain: Component {
     
     var mainContent: Component
     var site: any Website
+    var custPersonImageClass: String?
+    var custHeaderClass: String?
     
     var body: Component {
         Div {
-            LayoutHeader()
-            LayoutAside()
+            LayoutHeader(custHeaderClass: custHeaderClass)
+            LayoutAside(custPersonImageClass: custPersonImageClass)
             mainContent.class("content")
             LayoutFooter(site: site)
         }.class("wrapper")

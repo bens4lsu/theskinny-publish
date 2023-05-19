@@ -11,7 +11,9 @@ import Publish
 
 struct LayoutHeader: Component {
     
+    var custHeaderClass: String?
+    
     var body: Component {
-        Header{  }.class("main-head")
+        Header{  }.class("main-head \(custHeaderClass ?? "")")
     }
 }

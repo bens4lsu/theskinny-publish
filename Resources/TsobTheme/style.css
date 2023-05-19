@@ -13,6 +13,10 @@ body {
     background-position: center center;
 }
 
+.header-tc {
+    background-image: url("/img/headerImgTC.png"), linear-gradient(#fffe0a, #c48a17);
+}
+
 .content {
     grid-area: content;
     background-color: #a6a6c2;
@@ -73,13 +77,24 @@ h3 {
     margin-top: 5px;
 }
 
+.content > h3 {margin-bottom: 60px;}
+
+a { color: #9E2606; }
+
+.top-nav-links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:50px;
+}
+
 
 
 .footer-text {
     border-radius: 12px;
     background-color: #a6a6c2;
     display: inline-block;
-    padding: 20px;
+    padding: 12px;
+    font-size: 75%;
 }
 
 @media (min-width: 500px) {
@@ -96,6 +111,10 @@ h3 {
         background-image: url("/img/BenPurpleGold.JPG");
         background-repeat: no-repeat;
         background-position: center center;
+    }
+    
+    .topleft-tc {
+        background-image: url("/img/tyler-corner.jpg");
     }
 
     .menu {

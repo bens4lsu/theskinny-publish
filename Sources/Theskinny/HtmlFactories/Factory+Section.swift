@@ -27,12 +27,12 @@ extension TsobHTMLFactory {
     }
     
     
-    func makeHaikusHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
+    fileprivate func makeHaikusHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
         let haikuArray = section.items.map { item in
             Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
         }
         let haikus = Haikus(items: haikuArray)
-        let pageMain = AnyPageMain(mainContent: haikus, site: context.site)
+        let pageMain = AnyPageMain(mainContent: haikus, site: context.site, custPersonImageClass: "topleft-tc", custHeaderClass: "header-tc")
 
         return HTML(
            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
