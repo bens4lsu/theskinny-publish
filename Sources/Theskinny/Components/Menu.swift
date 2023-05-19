@@ -13,15 +13,38 @@ import Publish
 struct Menu: Component {
     
     var body: Component {
+
         Div {
             List {
-                ListItem("Item 1")
-                ListItem("Item 2")
-                ListItem("Item 3")
-                ListItem {
-                    Link("Tyler's Haikus", url: "/haikus") 
+                Collapser(text: "From Others", elementId: "rowCt", name: "#e").component {
+                    ListItem {
+                        Link("Tyler's Haikus", url: "/haikus")
+                    }
+                    ListItem {
+                        Link("NJ Dispatch", url: "/njdispatches")
+                    }
                 }
             }
         }.class("menu")
     }
+    
+    private struct Collapser {
+        var text: String
+        var elementId: String
+        var name: String
+        
+        func component(@ComponentBuilder inside: @escaping ()-> Component) -> Component {
+            ListItem {
+                //<a class="sbtop" href="javascript:showHide(document.getElementById('rowCt'), document.getElementById('imgStandardCt'));" name="#e">From Others </a>
+                Link(text, url: "javascript:showHide(document.getElementById('\(elementId)', document.getElementById('imgStandardCt'));").attribute(named: "name", value: name)
+                List {
+                    inside()
+                }
+            }
+        }
+        
+    }
+    
 }
+
+

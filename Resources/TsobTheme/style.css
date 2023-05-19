@@ -77,6 +77,11 @@ h3 {
     margin-top: 5px;
 }
 
+h2 {
+    font-size: 100%;
+    font-weight: bold;
+}   
+
 .content > h3 {margin-bottom: 60px;}
 
 a { color: #9E2606; }
@@ -87,7 +92,8 @@ a { color: #9E2606; }
     margin-bottom:50px;
 }
 
-
+.content img {margin: 10px;}
+.content .padded-line {margin-bottom: 1.25em; }
 
 .footer-text {
     border-radius: 12px;

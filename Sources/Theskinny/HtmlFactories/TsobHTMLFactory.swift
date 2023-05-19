@@ -37,10 +37,7 @@ struct TsobHTMLFactory: HTMLFactory {
 //    func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Site>) throws -> Plot.HTML? {
 //        HTML(.text("Hello tag details"))
 //    }
-    
-//    func makeHaikuPage(for page: Publish.Page, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
-//        HTML(.text("haiku page hello"))
-//    }
+
     
     
     

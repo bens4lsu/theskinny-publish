@@ -11,10 +11,10 @@ import Publish
 
 extension Node where Context == HTML.BodyContext {
     
-//    static func tsobAside<T: Website>(for context: PublishingContext<T>) -> Node {
-//        .aside(.class("side"),
-//               .div(.class("topleft")),
-//               .tsobMenu(for: context)
-//        )
-//    }
+    static func tsobAside<T: Website>(for context: PublishingContext<T>) -> Node {
+        .aside(.class("side"),
+               .div(.class("topleft")),
+               .tsobMenu(for: context)
+        )
+    }
 }

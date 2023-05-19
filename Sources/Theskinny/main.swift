@@ -8,7 +8,7 @@ struct Theskinny: Website {
         case home
         case blog2
         case haikus
-        case njDispatches
+        case njdispatches
 //        case photoGalleries
 //        case dailyPhotos
 //        case videos

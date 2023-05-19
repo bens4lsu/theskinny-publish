@@ -16,6 +16,8 @@ extension TsobHTMLFactory {
             return makePostHTML(for: item, context: context)
         case "haikus":
             return makeHaikuHTML(for: item, context: context)
+        case "njdispatches":
+            return try makeNJHTML(for: item, context: context)
             
             //        case "home":
             //            return try makeHomeHTML(for: context.index, section: section, context: context)
@@ -44,7 +46,16 @@ extension TsobHTMLFactory {
            .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
            .body(.component(pageMain))
         )
-        
+    }
+    
+    fileprivate func makeNJHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let dispatch = NJDispatch(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
+        let pageMain = AnyPageMain(mainContent: dispatch, site: context.site, custPersonImageClass: "topleft-sw", custHeaderClass: "header-sw")
+
+        return HTML(
+           .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
+           .body(.component(pageMain))
+        )
     }
     
 }
