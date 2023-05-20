@@ -16,8 +16,8 @@ struct TsobHTMLFactory: HTMLFactory {
         let title: String
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
-        let stylesheetPaths = [Path]()
-        let scriptPaths = [Path]()
+        let stylesheetPaths: [Path] = ["/TsobTheme/style.css"]
+        let scriptPaths: [Path] = ["/scripts/menu.js"]
         let additionalNodes = [() -> Node<HTML.HeadContext>]()
         
         var node: Node<HTML.DocumentContext> {

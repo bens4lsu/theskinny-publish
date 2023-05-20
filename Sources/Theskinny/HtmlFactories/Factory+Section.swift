@@ -30,6 +30,7 @@ extension TsobHTMLFactory {
     
     
     fileprivate func makeHaikusHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Tyler's Haikus on theskinnyonbenny.com")
         let haikuArray = section.items.map { item in
             Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
         }
@@ -37,12 +38,14 @@ extension TsobHTMLFactory {
         let pageMain = AnyPageMain(mainContent: haikus, site: context.site, custPersonImageClass: "topleft-tc", custHeaderClass: "header-tc")
 
         return HTML(
-           .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
-           .body(.component(pageMain))
+           //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
         )
     }
     
     fileprivate func makeNJHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Shelly's NJ Dispatches on theskinnyonbenny.com")
         let dispatchArray = section.items.map { dispatch in
             NJDispatch(title: dispatch.content.title, date: dispatch.content.date, content: dispatch.content.body, id: dispatch.metadata.id)
         }
@@ -50,8 +53,9 @@ extension TsobHTMLFactory {
         let pageMain = AnyPageMain(mainContent: dispatches, site: context.site, custPersonImageClass: "topleft-sw", custHeaderClass: "header-nj")
 
         return HTML(
-           .head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
-           .body(.component(pageMain))
+           //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
         )
     }
 }

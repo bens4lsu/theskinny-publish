@@ -10,22 +10,16 @@ import Publish
 import Plot
 
 extension TsobHTMLFactory {
-    
-    
-    
-    
+       
     func makeHomeHTML<T: Website>(for index: Index, section: Section<T>, context: PublishingContext<T>) throws -> HTML {
-        let location = context.index
-        let headerInfo = HeaderInfo(location: location, title: "Home")
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "theskinnyonbenny.com")
+        let pageContent = Article { index.body }
+        
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
+
         return HTML(
-            headerInfo.node,
-            
-            .body(.wrapper(
-                .tsobHeader(for: context),
-                .tsobArticle(for: context),
-                .tsobAside(for: context),
-                .tsobFooter(for: context.site)
-            ))
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
         )
     }
 }

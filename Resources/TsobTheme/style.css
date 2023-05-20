@@ -109,7 +109,7 @@ a { color: #9E2606; }
         grid-template-areas:
         "sidebar  header"
         "sidebar content"
-        "footer  footer";
+        "deadzone  footer";
     }
 
     .topleft {

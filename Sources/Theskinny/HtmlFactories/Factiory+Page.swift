@@ -10,33 +10,27 @@ import Plot
 import Publish
 
 extension TsobHTMLFactory {
-    
-
-    
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
-        HTML(
-            Node.head(for: page, on: context.site, stylesheetPaths: ["style.css"]),
-            
-                
-                
-                .body(.wrapper(
-                .tsobHeader(for: context),
-                
-                .component(articleContent(for: page)),
-                .tsobAside(for: context),
-                .tsobFooter(for: context.site)
-            ))
+        var pageTitle: String {
+            switch page.path.string {
+            case "pgHome":
+                return "Daily photos on theskinnyonbenny.com"
+            default:
+                return "theskinnyonbenny.com"
+            }
+        }
+        
+        
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        let pageContent = Article { page.body }
+        
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
+
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
         )
     }
     
-    fileprivate func articleContent(for page: Publish.Page) -> Plot.Component {
-//        if page.path.string.prefix(11) == "x/haikus/tc" {
-//            let haiku = Haiku(title: page.title, date: page.date, content: page.body.html, id: page.id)
-//            return haiku.body
-//        }
-        
-        
-        return Text ( "page code not implemented" )
-    }
     
 }

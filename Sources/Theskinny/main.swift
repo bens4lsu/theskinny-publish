@@ -26,6 +26,7 @@ struct Theskinny: Website {
     var description = "Personal Website, Ben Schultz, Baton Rouge"
     var language: Language { .english }
     var imagePath: Path? { "img" }
+
     
 
 }

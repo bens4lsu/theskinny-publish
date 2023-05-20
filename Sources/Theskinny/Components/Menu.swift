@@ -16,6 +16,14 @@ struct Menu: Component {
 
         Div {
             List {
+                Collapser(text: "Photo Galleries", elementId: "xxx", name: "#3").component {
+                    ListItem {
+                        Link ("Daily photos", url: "/dailyphoto")
+                    }
+                    ListItem {
+                        Link ("Photo collections", url: "/pgHome")
+                    }
+                }
                 Collapser(text: "From Others", elementId: "rowCt", name: "#e").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
