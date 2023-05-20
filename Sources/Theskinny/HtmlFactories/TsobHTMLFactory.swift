@@ -9,6 +9,45 @@ import Publish
 import Plot
 
 struct TsobHTMLFactory: HTMLFactory {
+    
+    struct HeaderInfo {
+        let site: any Website = Theskinny()
+        let location: Location
+        let title: String
+        let rssFeedPath: Path? = .defaultForRSSFeed
+        let rssFeedTitle: String? = nil
+        let stylesheetPaths = [Path]()
+        let scriptPaths = [Path]()
+        let additionalNodes = [() -> Node<HTML.HeadContext>]()
+        
+        var node: Node<HTML.DocumentContext> {
+            .head(
+                .encoding(.utf8),
+                .siteName(site.name),
+                .url(site.url(for: location)),
+                .title(title),
+                .description(site.description),
+                .twitterCardType(location.imagePath == nil ? .summary : .summaryLargeImage),
+                .forEach(scriptPaths, { return .script(.src($0.string)) as Node<HTML.HeadContext> }),
+                .forEach(stylesheetPaths, { .stylesheet($0) }),
+                .viewport(.accordingToDevice),
+                .unwrap(site.favicon, { .favicon($0) }),
+                .unwrap(rssFeedPath, { path in
+                    let title = rssFeedTitle ?? "Subscribe to \(site.name)"
+                    return .rssFeedLink(path.absoluteString, title: title)
+                }),
+                .unwrap(location.imagePath ?? site.imagePath, { path in
+                    let url = site.url(for: path)
+                    return .socialImageLink(url)
+                }),
+                .forEach(additionalNodes, { addNode in
+                    addNode()
+                })
+            )
+        }
+    }
+        
+    
     func makeIndexHTML(for index: Publish.Index, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         // make index html = home html
         let sections = context.sections
@@ -17,26 +56,12 @@ struct TsobHTMLFactory: HTMLFactory {
         return try makeHomeHTML(for: index, section: section, context: context)
     }
     
-//    Moved to file under HtmlPages
-//    func makeSectionHTML(for section: Publish.Section<Site>, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
-//        try makePostsHTML(for: section, context: context)
-//    }
-    
-//    func makeItemHTML(for item: Publish.Item<Site>, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
-//        HTML(.text("Hello item"))
-//    }
-    
-//    func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Site>) throws -> Plot.HTML {
-//        HTML(.text("Hello page"))
-//    }
     
     func makeTagListHTML(for page: Publish.TagListPage, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML? {
         HTML(.text("Hello tag list"))
     }
     
-//    func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Site>) throws -> Plot.HTML? {
-//        HTML(.text("Hello tag details"))
-//    }
+
 
     
     
