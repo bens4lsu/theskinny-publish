@@ -192,3 +192,6 @@ a { color: #9E2606; }
     margin: 0;
 }
 
+iframe {
+    width: 100%; height: 100%;
+}
