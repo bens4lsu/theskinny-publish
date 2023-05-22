@@ -24,3 +24,17 @@ $(document).ready(function() {
     
     
 })
+
+function receiveMessage(event) {
+    if (! isNaN(event.data)) {
+        var iframe = document.getElementById('tsob-fullpage-iframe');
+        iframe.style.height = iframe.height = event.data + "px";
+    }
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+}
+    
+if(typeof window.addEventListener != 'undefined'){
+    window.addEventListener('message', receiveMessage, false);
+} else if(typeof window.attachEvent != 'undefined') {
+    window.attachEvent('onmessage', receiveMessage);
+}
