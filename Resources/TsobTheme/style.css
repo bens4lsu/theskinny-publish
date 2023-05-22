@@ -109,6 +109,12 @@ a { color: #9E2606; }
 .content img {margin: 10px;}
 .content .padded-line {margin-bottom: 1.25em; }
 
+a.centered, a.centered img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 .footer-text {
     border-radius: 12px;
     background-color: #a6a6c2;

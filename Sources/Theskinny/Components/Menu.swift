@@ -53,6 +53,14 @@ struct Menu: Component {
                     ListItem {
                         Link("NJ Dispatch", url: "/njdispatches")
                     }.class("li-pagelink")
+                    ListItem {
+                        Link("Sarah's Resignation", url: "/sarahResignation")
+                    }.class("li-pagelink")
+                }
+                Collapser(text: "Extras", elementId: "collapser-others", name: "#f").component {
+                    ListItem {
+                        Link("Dog Door Guide", url: "/speciesGuide")
+                    }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")
             
