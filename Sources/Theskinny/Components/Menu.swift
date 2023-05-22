@@ -12,33 +12,60 @@ import Publish
 
 struct Menu: Component {
     
+    enum MenuLayoutScreen {
+        case narrow
+        case medium
+        case full
+    }
+    
+    private var listItemHome: ListItem {
+        ListItem {
+            Link("Home", url: "/")
+        }
+    }
+    
+    private var listItemDailyPhotos: ListItem {
+        ListItem {
+            Link ("Daily photos", url: "/dailyphoto")
+        }
+    }
+    
+    private var listItemGalleries: ListItem {
+        ListItem {
+            Link ("Photo collections", url: "/pgHome")
+        }
+    }
+    
+    
     var body: Component {
 
         Div {
             List {
-                ListItem {
-                    Link("Home", url: "/")
-                }
+                listItemHome
                 Collapser(text: "Photo Galleries", elementId: "collapser-photos", name: "#3").component {
-                    ListItem {
-                        Link ("Daily photos", url: "/dailyphoto")
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link ("Photo collections", url: "/pgHome")
-                    }.class("li-pagelink")
+                    listItemDailyPhotos.class("li-pagelink")
+                    listItemGalleries.class("li-pagelink")
                 }
                 Collapser(text: "From Others", elementId: "collapser-others", name: "#e").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
-                    }.class("li-pagelink li-fullscreenonly")
+                    }.class("li-pagelink")
                     ListItem {
                         Link("NJ Dispatch", url: "/njdispatches")
-                    }.class("li-pagelink li-fullscreenonly")
+                    }.class("li-pagelink")
                 }
+            }.class("fullScreenMenu")
+            
+            List {
+                listItemHome
+                listItemDailyPhotos
+                listItemGalleries
                 ListItem {
-                    Link("Others", url: "/mobileMenu")
-                }.class("li-mobileonly")
-            }
+                    Link("Other pages", url: "/mobileSitemap")
+                }
+            }.class("mobileMenu")
+            
+            
         }.class("menu")
     }
     
