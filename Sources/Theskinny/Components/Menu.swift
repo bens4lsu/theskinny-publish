@@ -16,22 +16,28 @@ struct Menu: Component {
 
         Div {
             List {
-                Collapser(text: "Photo Galleries", elementId: "xxx", name: "#3").component {
+                ListItem {
+                    Link("Home", url: "/")
+                }
+                Collapser(text: "Photo Galleries", elementId: "collapser-photos", name: "#3").component {
                     ListItem {
                         Link ("Daily photos", url: "/dailyphoto")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link ("Photo collections", url: "/pgHome")
-                    }
+                    }.class("li-pagelink")
                 }
-                Collapser(text: "From Others", elementId: "rowCt", name: "#e").component {
+                Collapser(text: "From Others", elementId: "collapser-others", name: "#e").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
-                    }
+                    }.class("li-pagelink li-fullscreenonly")
                     ListItem {
                         Link("NJ Dispatch", url: "/njdispatches")
-                    }
+                    }.class("li-pagelink li-fullscreenonly")
                 }
+                ListItem {
+                    Link("Others", url: "/mobileMenu")
+                }.class("li-mobileonly")
             }
         }.class("menu")
     }
@@ -43,16 +49,17 @@ struct Menu: Component {
         
         func component(@ComponentBuilder inside: @escaping ()-> Component) -> Component {
             ListItem {
-                //<a class="sbtop" href="javascript:showHide(document.getElementById('rowCt'), document.getElementById('imgStandardCt'));" name="#e">From Others </a>
-                Link(text, url: "javascript:showHide(document.getElementById('\(elementId)', document.getElementById('imgStandardCt'));").attribute(named: "name", value: name)
                 List {
-                    inside()
-                }
+                    Link(url: name) {
+                        Text(text)
+                        Span(" ▶︎").class("span-collapser").id("span-collapser-\(elementId)")
+                        inside()
+                    }
+                }.class("menu-collapser")
             }
         }
         
     }
-    
 }
 
 

@@ -4,7 +4,7 @@
 //
 //  Created by Ben Schultz on 5/15/23.
 //
-
+import Foundation
 import Publish
 import Plot
 
@@ -16,8 +16,8 @@ struct TsobHTMLFactory: HTMLFactory {
         let title: String
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
-        let stylesheetPaths: [Path] = ["/TsobTheme/style.css"]
-        let scriptPaths: [Path] = ["/scripts/menu.js"]
+        let stylesheetPaths: [Path] = ["/TsobTheme/style.css?\(UUID().uuidString)"]
+        let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js", "/scripts/menu.js?\(UUID().uuidString)"]
         let additionalNodes = [() -> Node<HTML.HeadContext>]()
         
         var node: Node<HTML.DocumentContext> {

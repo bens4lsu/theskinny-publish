@@ -130,7 +130,18 @@ a { color: #9E2606; }
     .menu ul li {
         display: block;
     }
-
+    
+    .menu-collapser .li-pagelink {
+        display: none;
+        margin-bottom: 0.4em;
+        margin-right: 1.75em;
+        font-weight: 500;
+    }
+    
+    .menu-collapser .li-pagelink:last-child {
+        margin-bottom: 1.75em;
+    }
+    
     .content, .main-head {
         margin-right: 20px;
     }
