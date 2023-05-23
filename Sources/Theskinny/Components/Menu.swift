@@ -54,12 +54,15 @@ struct Menu: Component {
                         Link("NJ Dispatch", url: "/njdispatches")
                     }.class("li-pagelink")
                     ListItem {
-                        Link("Sarah's Resignation", url: "/sarahResignation")
+                        Link("Sarah's Resignation", url: "/x/sarahResignation")
                     }.class("li-pagelink")
                 }
                 Collapser(text: "Extras", elementId: "collapser-others", name: "#f").component {
                     ListItem {
-                        Link("Dog Door Guide", url: "/speciesGuide")
+                        Link("The Bald Page", url: "/x/bald")
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Dog Door Guide", url: "/x/speciesGuide")
                     }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")
