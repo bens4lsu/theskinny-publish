@@ -173,6 +173,11 @@ ol.quotefile li {
         margin-bottom: 1.75em;
     }
     
+    .menu ul li.todo a, .menu ul li.todo {
+        color: pink;
+    }
+    
+    
     .menu .fullScreenMenu {
         display: block;
         padding-left: 0;
@@ -184,6 +189,10 @@ ol.quotefile li {
     
     .content, .main-head {
         margin-right: 20px;
+    }
+    
+    .content {
+        min-height: 600px;
     }
 }
 
@@ -208,5 +217,11 @@ ol.quotefile li {
 }
 
 iframe {
+    display:inline;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+#tsob-fullpage-iframe {
     width: 100%; height: 100%;
 }

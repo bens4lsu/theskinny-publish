@@ -36,17 +36,45 @@ struct Menu: Component {
         }
     }
     
+    private var listItemBlog: ListItem {
+        ListItem {
+            Link ("Current Page", url: "/blog2")
+        }
+    }
+    
     
     var body: Component {
 
         Div {
             List {
-                listItemHome
+                listItemHome.class("todo")
+                Collapser(text: "Blog", elementId: "collapser-blog", name: "#collapser-blog").component {
+                    listItemBlog.class("li-pagelink")
+                    ListItem {
+                        Text("index by date")
+                    }.class("li-pagelink todo")
+                    ListItem {
+                        Text("tag/category index")
+                    }.class("li-pagelink todo")
+                }
                 Collapser(text: "Photo Galleries", elementId: "collapser-photos", name: "#3").component {
                     listItemDailyPhotos.class("li-pagelink")
                     listItemGalleries.class("li-pagelink")
                 }
-                Collapser(text: "Extras", elementId: "collapser-others", name: "#f").component {
+                ListItem {
+                    Text("Videos")
+                }.class("todo")
+                ListItem {
+                    Text("Adopting the Kids")
+                }.class("todo")
+                ListItem {
+                    Text("Velvet Elvis")
+                }.class("todo")
+                ListItem {
+                    Text("Playlists ♪")
+                }.class("todo")
+                
+                Collapser(text: "Extras", elementId: "collapser-extras", name: "#f").component {
                     ListItem {
                         Link("The Bald Page", url: "/x/bald")
                     }.class("li-pagelink")
@@ -59,6 +87,9 @@ struct Menu: Component {
                     ListItem {
                         Link("Dog Door Guide", url: "/x/speciesGuide")
                     }.class("li-pagelink")
+                    ListItem {
+                        Link("Crystal On Oprah", url: "/x/crystalOnOprah")
+                    }.class("li-pagelink")
                 }
                 Collapser(text: "From Others", elementId: "collapser-others", name: "#e").component {
                     ListItem {
@@ -70,11 +101,21 @@ struct Menu: Component {
                     ListItem {
                         Link("Sarah's Resignation", url: "/x/sarahResignation")
                     }.class("li-pagelink")
+                    ListItem {
+                        Link("Madonna/Esther", url: "/x/madonnaEsther")
+                    }.class("li-pagelink todo")
+                    ListItem {
+                        Link("On Michael Jackson", url: "/x/michaelJackson")
+                    }.class("li-pagelink todo")
+                    ListItem {
+                        Link("Daisy On Honor", url: "/x/daisyOnHonor")
+                    }.class("li-pagelink todo")
                 }
             }.class("fullScreenMenu")
             
             List {
                 listItemHome
+                listItemBlog
                 listItemDailyPhotos
                 listItemGalleries
                 ListItem {
