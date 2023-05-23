@@ -46,6 +46,20 @@ struct Menu: Component {
                     listItemDailyPhotos.class("li-pagelink")
                     listItemGalleries.class("li-pagelink")
                 }
+                Collapser(text: "Extras", elementId: "collapser-others", name: "#f").component {
+                    ListItem {
+                        Link("The Bald Page", url: "/x/bald")
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Quote File", url: "/x/quotefile")
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Shit John Said", url: "/x/shitjohnsaid")
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Dog Door Guide", url: "/x/speciesGuide")
+                    }.class("li-pagelink")
+                }
                 Collapser(text: "From Others", elementId: "collapser-others", name: "#e").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
@@ -55,14 +69,6 @@ struct Menu: Component {
                     }.class("li-pagelink")
                     ListItem {
                         Link("Sarah's Resignation", url: "/x/sarahResignation")
-                    }.class("li-pagelink")
-                }
-                Collapser(text: "Extras", elementId: "collapser-others", name: "#f").component {
-                    ListItem {
-                        Link("The Bald Page", url: "/x/bald")
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Dog Door Guide", url: "/x/speciesGuide")
                     }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")

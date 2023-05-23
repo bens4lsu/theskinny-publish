@@ -115,6 +115,15 @@ a.centered, a.centered img {
     margin-right:auto;
 }
 
+ol.quotefile p {
+    margin-left:5em;
+    margin-top: 2em;
+}
+
+ol.quotefile li {
+    margin-bottom: 3em;
+}
+
 .footer-text {
     border-radius: 12px;
     background-color: #a6a6c2;
