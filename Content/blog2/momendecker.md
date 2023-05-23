@@ -1,5 +1,5 @@
 ---
-date: 2017-10-20 09:41:28
+date: 2017-10-20 09:41
 description: A description of my post.
 tags: uncategorized,young-ruski,music-pop-culture
 id: 2157

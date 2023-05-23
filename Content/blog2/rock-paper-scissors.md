@@ -1,5 +1,5 @@
 ---
-date: 2004-06-16 15:13:38
+date: 2004-06-16 15:13
 description: A description of my post.
 tags: uncategorized
 id: 43

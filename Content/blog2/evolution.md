@@ -1,5 +1,5 @@
 ---
-date: 2008-02-22 06:41:34
+date: 2008-02-22 06:41
 description: A description of my post.
 tags: opinion
 id: 350

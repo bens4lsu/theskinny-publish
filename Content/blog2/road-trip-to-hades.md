@@ -1,5 +1,5 @@
 ---
-date: 2012-08-09 19:02:16
+date: 2012-08-09 19:02
 description: A description of my post.
 tags: travel,young-ruski
 id: 1421

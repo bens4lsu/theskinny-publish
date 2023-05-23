@@ -1,5 +1,5 @@
 ---
-date: 2008-07-23 18:27:12
+date: 2008-07-23 18:27
 description: A description of my post.
 tags: animals
 id: 382

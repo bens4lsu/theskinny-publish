@@ -1,5 +1,5 @@
 ---
-date: 2008-01-02 22:36:41
+date: 2008-01-02 22:36
 description: A description of my post.
 tags: sports,pop-culture
 id: 339

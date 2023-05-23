@@ -1,5 +1,5 @@
 ---
-date: 2008-07-02 13:39:53
+date: 2008-07-02 13:39
 description: A description of my post.
 tags: other-peoples-stories
 id: 378

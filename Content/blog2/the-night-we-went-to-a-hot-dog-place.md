@@ -1,5 +1,5 @@
 ---
-date: 2010-05-20 17:03:10
+date: 2010-05-20 17:03
 description: A description of my post.
 tags: travel
 id: 797

@@ -1,5 +1,5 @@
 ---
-date: 2013-05-11 23:12:26
+date: 2013-05-11 23:12
 description: A description of my post.
 tags: uncategorized,my-youth
 id: 1641

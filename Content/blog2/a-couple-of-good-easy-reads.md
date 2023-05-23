@@ -1,5 +1,5 @@
 ---
-date: 2009-05-28 13:55:11
+date: 2009-05-28 13:55
 description: A description of my post.
 tags: book-reviews
 id: 571

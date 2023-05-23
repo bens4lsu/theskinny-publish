@@ -1,5 +1,5 @@
 ---
-date: 2011-01-14 15:42:21
+date: 2011-01-14 15:42
 description: A description of my post.
 tags: food,my-youth
 id: 980

@@ -1,5 +1,5 @@
 ---
-date: 2005-11-08 15:10:03
+date: 2005-11-08 15:10
 description: A description of my post.
 tags: stories,travel
 id: 155

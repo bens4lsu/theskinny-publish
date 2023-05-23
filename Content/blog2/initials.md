@@ -1,5 +1,5 @@
 ---
-date: 2008-02-26 12:54:06
+date: 2008-02-26 12:54
 description: A description of my post.
 tags: the-office,young-ruski
 id: 351

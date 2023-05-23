@@ -1,5 +1,5 @@
 ---
-date: 2011-03-03 11:13:55
+date: 2011-03-03 11:13
 description: A description of my post.
 tags: animals,stories
 id: 991

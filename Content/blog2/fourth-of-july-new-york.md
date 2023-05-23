@@ -1,5 +1,5 @@
 ---
-date: 2006-07-06 21:01:21
+date: 2006-07-06 21:01
 description: A description of my post.
 tags: travel,pop-culture
 id: 225

@@ -1,5 +1,5 @@
 ---
-date: 2009-04-27 23:12:04
+date: 2009-04-27 23:12
 description: A description of my post.
 tags: food,young-ruski
 id: 552

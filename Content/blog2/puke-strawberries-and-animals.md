@@ -1,5 +1,5 @@
 ---
-date: 2006-04-10 06:45:40
+date: 2006-04-10 06:45
 description: A description of my post.
 tags: animals,stories,pop-culture
 id: 202

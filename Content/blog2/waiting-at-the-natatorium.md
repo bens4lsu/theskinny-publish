@@ -1,5 +1,5 @@
 ---
-date: 2020-01-23 19:02:24
+date: 2020-01-23 19:02
 description: A description of my post.
 tags: uncategorized
 id: 2239

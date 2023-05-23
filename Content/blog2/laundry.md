@@ -1,5 +1,5 @@
 ---
-date: 2009-03-25 08:10:52
+date: 2009-03-25 08:10
 description: A description of my post.
 tags: stories,young-ruski
 id: 519

@@ -1,5 +1,5 @@
 ---
-date: 2009-04-07 05:29:09
+date: 2009-04-07 05:29
 description: A description of my post.
 tags: sports,stories
 id: 537

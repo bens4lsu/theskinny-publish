@@ -1,5 +1,5 @@
 ---
-date: 2020-08-02 09:26:05
+date: 2020-08-02 09:26
 description: A description of my post.
 tags: animals,travel
 id: 2274

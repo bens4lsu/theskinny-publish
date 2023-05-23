@@ -1,5 +1,5 @@
 ---
-date: 2005-03-09 06:05:51
+date: 2005-03-09 06:05
 description: A description of my post.
 tags: pop-culture,current-events
 id: 100

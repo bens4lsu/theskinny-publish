@@ -1,5 +1,5 @@
 ---
-date: 2009-08-25 09:55:48
+date: 2009-08-25 09:55
 description: A description of my post.
 tags: stories,travel
 id: 620

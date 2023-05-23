@@ -1,5 +1,5 @@
 ---
-date: 2009-01-12 18:19:55
+date: 2009-01-12 18:19
 description: A description of my post.
 tags: my-youth
 id: 465

@@ -1,5 +1,5 @@
 ---
-date: 2006-05-16 09:00:58
+date: 2006-05-16 09:00
 description: A description of my post.
 tags: the-office,travel
 id: 211

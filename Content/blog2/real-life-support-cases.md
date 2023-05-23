@@ -1,5 +1,5 @@
 ---
-date: 2007-04-12 04:52:35
+date: 2007-04-12 04:52
 description: A description of my post.
 tags: the-office
 id: 289

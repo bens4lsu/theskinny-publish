@@ -1,5 +1,5 @@
 ---
-date: 2008-01-31 11:34:56
+date: 2008-01-31 11:34
 description: A description of my post.
 tags: current-events
 id: 346

@@ -1,5 +1,5 @@
 ---
-date: 2005-02-07 18:50:22
+date: 2005-02-07 18:50
 description: A description of my post.
 tags: pop-culture,book-reviews
 id: 95

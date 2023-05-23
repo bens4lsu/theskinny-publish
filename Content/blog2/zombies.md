@@ -1,5 +1,5 @@
 ---
-date: 2008-04-03 13:01:07
+date: 2008-04-03 13:01
 description: A description of my post.
 tags: young-ruski,book-reviews
 id: 361

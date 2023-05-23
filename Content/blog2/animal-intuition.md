@@ -1,5 +1,5 @@
 ---
-date: 2009-04-03 04:04:53
+date: 2009-04-03 04:04
 description: A description of my post.
 tags: animals,pop-culture
 id: 526

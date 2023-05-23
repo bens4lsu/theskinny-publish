@@ -1,5 +1,5 @@
 ---
-date: 2006-03-24 08:20:01
+date: 2006-03-24 08:20
 description: A description of my post.
 tags: sports
 id: 198

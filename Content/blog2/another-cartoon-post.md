@@ -1,5 +1,5 @@
 ---
-date: 2010-06-14 11:31:08
+date: 2010-06-14 11:31
 description: A description of my post.
 tags: pop-culture,young-ruski
 id: 824

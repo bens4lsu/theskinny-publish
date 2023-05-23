@@ -1,5 +1,5 @@
 ---
-date: 2009-01-29 12:20:32
+date: 2009-01-29 12:20
 description: A description of my post.
 tags: stories,current-events
 id: 484

@@ -1,5 +1,5 @@
 ---
-date: 2017-01-23 14:17:04
+date: 2017-01-23 14:17
 description: A description of my post.
 tags: young-ruski
 id: 2093

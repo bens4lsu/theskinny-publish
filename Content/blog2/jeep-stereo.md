@@ -1,5 +1,5 @@
 ---
-date: 2018-08-30 15:53:05
+date: 2018-08-30 15:53
 description: A description of my post.
 tags: stories
 id: 2194

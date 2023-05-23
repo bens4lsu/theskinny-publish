@@ -1,5 +1,5 @@
 ---
-date: 2017-05-19 19:27:04
+date: 2017-05-19 19:27
 description: A description of my post.
 tags: other-peoples-stories
 id: 2121

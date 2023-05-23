@@ -1,5 +1,5 @@
 ---
-date: 2007-10-10 09:30:29
+date: 2007-10-10 09:30
 description: A description of my post.
 tags: travel
 id: 329

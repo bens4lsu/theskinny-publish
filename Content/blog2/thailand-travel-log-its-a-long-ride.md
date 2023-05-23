@@ -1,5 +1,5 @@
 ---
-date: 2004-03-31 07:58:10
+date: 2004-03-31 07:58
 description: A description of my post.
 tags: travel,blogs-i-read-once-in-a-while
 id: 22

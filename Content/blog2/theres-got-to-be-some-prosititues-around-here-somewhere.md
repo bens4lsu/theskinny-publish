@@ -1,5 +1,5 @@
 ---
-date: 2008-12-19 13:03:49
+date: 2008-12-19 13:03
 description: A description of my post.
 tags: stories,walk,baton-rouge,lsu,prosititues
 id: 431

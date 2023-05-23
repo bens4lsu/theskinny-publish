@@ -1,5 +1,5 @@
 ---
-date: 2015-03-16 19:10:47
+date: 2015-03-16 19:10
 description: A description of my post.
 tags: stories,music-pop-culture
 id: 1957

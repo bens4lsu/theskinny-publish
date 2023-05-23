@@ -1,5 +1,5 @@
 ---
-date: 2004-08-03 19:44:26
+date: 2004-08-03 19:44
 description: A description of my post.
 tags: animals,travel
 id: 54

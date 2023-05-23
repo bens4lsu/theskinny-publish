@@ -1,5 +1,5 @@
 ---
-date: 2020-02-04 17:44:55
+date: 2020-02-04 17:44
 description: A description of my post.
 tags: sports,stories,sailing
 id: 2246

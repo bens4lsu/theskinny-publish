@@ -1,5 +1,5 @@
 ---
-date: 2009-01-07 22:33:40
+date: 2009-01-07 22:33
 description: A description of my post.
 tags: animals,book-reviews
 id: 451

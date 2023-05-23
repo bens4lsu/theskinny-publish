@@ -1,5 +1,5 @@
 ---
-date: 2004-04-20 20:38:26
+date: 2004-04-20 20:38
 description: A description of my post.
 tags: stories,blogs-i-read-once-in-a-while
 id: 28

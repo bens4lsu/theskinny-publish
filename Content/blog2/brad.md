@@ -1,5 +1,5 @@
 ---
-date: 2012-11-02 06:00:56
+date: 2012-11-02 06:00
 description: A description of my post.
 tags: young-ruski
 id: 1477

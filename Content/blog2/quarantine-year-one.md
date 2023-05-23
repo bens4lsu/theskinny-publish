@@ -1,5 +1,5 @@
 ---
-date: 2020-04-07 11:39:47
+date: 2020-04-07 11:39
 description: A description of my post.
 tags: current-events
 id: 2268

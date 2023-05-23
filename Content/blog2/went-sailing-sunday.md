@@ -1,5 +1,5 @@
 ---
-date: 2014-10-30 12:09:21
+date: 2014-10-30 12:09
 description: A description of my post.
 tags: sailing
 id: 1897

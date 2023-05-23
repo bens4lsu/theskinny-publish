@@ -1,5 +1,5 @@
 ---
-date: 2008-07-22 20:24:27
+date: 2008-07-22 20:24
 description: A description of my post.
 tags: pop-culture,gear-and-gadgets
 id: 381

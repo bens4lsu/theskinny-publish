@@ -1,5 +1,5 @@
 ---
-date: 2005-11-22 09:30:12
+date: 2005-11-22 09:30
 description: A description of my post.
 tags: the-office,sports
 id: 159

@@ -1,5 +1,5 @@
 ---
-date: 2006-08-24 05:59:02
+date: 2006-08-24 05:59
 description: A description of my post.
 tags: book-reviews
 id: 238

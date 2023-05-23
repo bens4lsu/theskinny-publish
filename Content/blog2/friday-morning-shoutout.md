@@ -1,5 +1,5 @@
 ---
-date: 2012-03-09 06:09:02
+date: 2012-03-09 06:09
 description: A description of my post.
 tags: music-pop-culture
 id: 1248

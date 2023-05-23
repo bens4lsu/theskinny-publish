@@ -1,5 +1,5 @@
 ---
-date: 2012-12-11 21:38:41
+date: 2012-12-11 21:38
 description: A description of my post.
 tags: gear-and-gadgets,young-ruski
 id: 1492

@@ -1,5 +1,5 @@
 ---
-date: 2008-12-16 14:43:32
+date: 2008-12-16 14:43
 description: A description of my post.
 tags: pop-culture,music,christmas
 id: 429

@@ -1,5 +1,5 @@
 ---
-date: 2006-06-20 20:04:22
+date: 2006-06-20 20:04
 description: A description of my post.
 tags: my-youth,pop-culture
 id: 222

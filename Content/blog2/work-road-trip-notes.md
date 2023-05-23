@@ -1,5 +1,5 @@
 ---
-date: 2007-02-01 10:51:30
+date: 2007-02-01 10:51
 description: A description of my post.
 tags: the-office,travel
 id: 274

@@ -1,5 +1,5 @@
 ---
-date: 2008-09-11 12:32:35
+date: 2008-09-11 12:32
 description: A description of my post.
 tags: stories
 id: 393

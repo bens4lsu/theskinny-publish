@@ -1,5 +1,5 @@
 ---
-date: 2011-04-28 18:55:19
+date: 2011-04-28 18:55
 description: A description of my post.
 tags: young-ruski,sailing
 id: 1030

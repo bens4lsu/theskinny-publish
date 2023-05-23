@@ -1,5 +1,5 @@
 ---
-date: 2008-05-02 13:27:32
+date: 2008-05-02 13:27
 description: A description of my post.
 tags: sports,food,current-events
 id: 366

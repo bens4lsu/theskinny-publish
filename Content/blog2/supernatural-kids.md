@@ -1,5 +1,5 @@
 ---
-date: 2012-06-15 18:41:00
+date: 2012-06-15 18:41
 description: A description of my post.
 tags: things-i-just-dreamed-up
 id: 1407

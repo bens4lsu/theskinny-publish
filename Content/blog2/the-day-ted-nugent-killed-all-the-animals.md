@@ -1,5 +1,5 @@
 ---
-date: 2004-10-29 12:55:19
+date: 2004-10-29 12:55
 description: A description of my post.
 tags: pop-culture
 id: 71

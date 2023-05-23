@@ -1,5 +1,5 @@
 ---
-date: 2005-12-19 14:02:04
+date: 2005-12-19 14:02
 description: A description of my post.
 tags: gear-and-gadgets
 id: 167

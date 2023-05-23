@@ -1,5 +1,5 @@
 ---
-date: 2020-01-16 17:48:16
+date: 2020-01-16 17:48
 description: A description of my post.
 tags: stories
 id: 2235

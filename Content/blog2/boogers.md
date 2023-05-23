@@ -1,5 +1,5 @@
 ---
-date: 2011-05-11 11:11:06
+date: 2011-05-11 11:11
 description: A description of my post.
 tags: animals,young-ruski
 id: 1042

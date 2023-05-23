@@ -1,5 +1,5 @@
 ---
-date: 2011-04-14 11:06:00
+date: 2011-04-14 11:06
 description: A description of my post.
 tags: sports,sailing
 id: 1014

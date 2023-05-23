@@ -1,5 +1,5 @@
 ---
-date: 2004-04-27 07:51:11
+date: 2004-04-27 07:51
 description: A description of my post.
 tags: pop-culture,blogs-i-read-once-in-a-while
 id: 29

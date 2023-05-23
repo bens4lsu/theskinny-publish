@@ -1,5 +1,5 @@
 ---
-date: 2006-04-14 10:06:07
+date: 2006-04-14 10:06
 description: A description of my post.
 tags: sports,stories,my-youth
 id: 205

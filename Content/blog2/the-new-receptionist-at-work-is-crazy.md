@@ -1,5 +1,5 @@
 ---
-date: 2004-03-25 05:58:18
+date: 2004-03-25 05:58
 description: A description of my post.
 tags: the-office,blogs-i-read-once-in-a-while
 id: 19

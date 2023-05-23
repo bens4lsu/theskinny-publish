@@ -1,5 +1,5 @@
 ---
-date: 2007-03-11 06:37:37
+date: 2007-03-11 06:37
 description: A description of my post.
 tags: stories,food
 id: 282

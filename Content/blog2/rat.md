@@ -1,5 +1,5 @@
 ---
-date: 2014-09-22 18:30:14
+date: 2014-09-22 18:30
 description: A description of my post.
 tags: animals,stories
 id: 1890

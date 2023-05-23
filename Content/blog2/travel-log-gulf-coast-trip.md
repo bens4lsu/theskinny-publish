@@ -1,5 +1,5 @@
 ---
-date: 2014-07-01 23:02:49
+date: 2014-07-01 23:02
 description: A description of my post.
 tags: travel,sailing
 id: 1813

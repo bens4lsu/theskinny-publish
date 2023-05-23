@@ -1,5 +1,5 @@
 ---
-date: 2005-07-20 06:50:25
+date: 2005-07-20 06:50
 description: A description of my post.
 tags: uncategorized,stories
 id: 128

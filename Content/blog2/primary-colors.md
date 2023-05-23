@@ -1,5 +1,5 @@
 ---
-date: 2011-01-06 09:44:18
+date: 2011-01-06 09:44
 description: A description of my post.
 tags: young-ruski,music-pop-culture
 id: 969

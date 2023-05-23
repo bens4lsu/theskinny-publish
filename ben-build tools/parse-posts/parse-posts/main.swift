@@ -49,11 +49,17 @@ struct SinglePost: Codable {
         return dateFormatter
     }()
     
+    static let outputDateFormatter: DateFormatter = {
+        let dateFormatter = Self.formatter
+        dateFormatter.dateFormat = "yyyy-MM-dd HH:mm"
+        return dateFormatter
+    }()
+    
     
     var content: String {
             """
 ---
-date: \(SinglePost.formatter.string(from: postDate))
+date: \(SinglePost.outputDateFormatter.string(from: postDate))
 description: A description of my post.
 tags: \(tagSlugs)
 id: \(id)

@@ -1,5 +1,5 @@
 ---
-date: 2023-05-10 10:42:28
+date: 2023-05-10 10:42
 description: A description of my post.
 tags: pop-culture,things-i-just-dreamed-up
 id: 2321

@@ -1,5 +1,5 @@
 ---
-date: 2007-05-03 06:02:45
+date: 2007-05-03 06:02
 description: A description of my post.
 tags: stories
 id: 294

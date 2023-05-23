@@ -1,5 +1,5 @@
 ---
-date: 2006-02-03 14:37:00
+date: 2006-02-03 14:37
 description: A description of my post.
 tags: food
 id: 184

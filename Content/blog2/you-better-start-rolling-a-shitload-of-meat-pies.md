@@ -1,5 +1,5 @@
 ---
-date: 2020-03-02 18:00:30
+date: 2020-03-02 18:00
 description: A description of my post.
 tags: young-ruski
 id: 2263

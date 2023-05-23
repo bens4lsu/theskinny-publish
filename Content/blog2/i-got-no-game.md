@@ -1,5 +1,5 @@
 ---
-date: 2009-02-18 17:17:03
+date: 2009-02-18 17:17
 description: A description of my post.
 tags: the-office
 id: 494
