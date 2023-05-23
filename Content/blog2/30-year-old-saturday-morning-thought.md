@@ -1,0 +1,7 @@
+---
+date: 2010-11-21 13:09:33
+description: A description of my post.
+tags: pop-culture
+id: 930
+---
+You would think that the people in Hong Kong Phuey's city would figure out his true identity.  I know that if Baton Rouge had one anthropomorphic dog who cleaned the police station, and another anthropomorphic dog who solved crimes, and everyone else is a human, then I might think to ask if we really just had a single anthropomorphic dog in the city.
