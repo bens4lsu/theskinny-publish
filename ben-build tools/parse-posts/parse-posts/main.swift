@@ -66,7 +66,7 @@ tags: \(tagSlugs)
 id: \(id)
 ---
 \(postContent)
-"""
+""".replacingOccurrences(of: "<!--more-->", with: "<span class=\"spanEndPreview\">&nbsp;</span>")
     }
     
 }
@@ -91,7 +91,7 @@ func parseJSON() -> [SinglePost] {
 
 let posts = parseJSON()
 for post in posts {
-    let filename = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content/blog2/" + post.slug + ".md"
+    let filename = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/ben-build tools/output/" + post.slug + ".md"
     let url = URL(fileURLWithPath: filename)
     do {
         try post.content.write(to: url, atomically: true, encoding: String.Encoding.utf8)

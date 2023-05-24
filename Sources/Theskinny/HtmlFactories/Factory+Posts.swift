@@ -20,4 +20,14 @@ extension TsobHTMLFactory {
             .text("makePostsHTML not implemented")
         )
     }
+    
+    func makeMultiPageHTML(for page: Publish.Page, context: PublishingContext<Theskinny>, from posts: BlogPosts, withLinks links: TopNavLinks) -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: page, title: "Blog on theskinnyonbenny.com")
+        let pageMain = AnyPageMain(mainContent: posts.multiPostPageContent(withTopLinks: links), site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain)
+           )
+        )
+    }
 }

@@ -10,9 +10,14 @@ import Plot
 import Publish
 
 extension EnvironmentKey where Value == DateFormatter {
-    static var defaultDateFormatter: DateFormatter {
+    static let defaultDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
         formatter.dateFormat = "MMM dd, yyyy"
         return formatter
-    }
+    }()
+    
+}
+
+extension EnvironmentKey where Value == Int {
+    static let blogPostsPerPage = 12
 }

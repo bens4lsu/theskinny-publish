@@ -109,6 +109,9 @@ a { color: #9E2606; }
 .content img {margin: 10px;}
 .content .padded-line {margin-bottom: 1.25em; }
 
+.content p {line-height: 1.33; margin-block-end: 2em;}
+.spanEndPreview {display: inline; display:none;}
+
 a.centered, a.centered img {
     display:block;
     margin-left:auto;
@@ -225,3 +228,5 @@ iframe {
 #tsob-fullpage-iframe {
     width: 100%; height: 100%;
 }
+
+

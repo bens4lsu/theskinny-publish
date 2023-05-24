@@ -9,7 +9,7 @@ import Foundation
 import Publish
 
 
-extension PublishingContext<Theskinny> {
+extension PublishingContext where Site == Theskinny {
     
     var allBlogPosts: BlogPosts? {
         guard let blog2Section = self.sections.filter({ $0.id == .blog2 }).first

@@ -21,6 +21,16 @@ struct BlogPost: Component {
     var dateString: String {
         EnvironmentKey.defaultDateFormatter.string(from: date)
     }
+    
+    var preview: String {
+        let splitString = "<span class=\"spanEndPreview\">"
+        let contentSplit = content.html.components(separatedBy: splitString)
+        return contentSplit[0]
+    }
+    
+    var linkToFull: String {
+        "/blog2/\(slug)"
+    }
 
     var body: Component {
         return Article {
@@ -29,6 +39,14 @@ struct BlogPost: Component {
             H3(dateString)
             Div(content.body)
         }
+    }
+    
+    var postShortBox: Component {
+        Div {
+            H1(title)
+            Div(preview)
+            TopNavLinks(rightLinkInfo: TopNavLinks.LinkInfo(text: "more...", url: linkToFull))
+        }.class("divPostShort")
     }
 }
 
@@ -49,6 +67,15 @@ struct BlogPosts: Component {
             List(items) { item in
                 return Link(item.title, url: "/blog2\(item.slug)")
             }//.listStyle(listStyle)
+        }
+    }
+    
+    func multiPostPageContent(withTopLinks topLinks: TopNavLinks) -> Component {
+        Article {
+            topLinks
+            List(items) { item in
+                item.postShortBox
+            }
         }
     }
     
