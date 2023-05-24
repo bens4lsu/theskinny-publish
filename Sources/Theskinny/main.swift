@@ -9,12 +9,7 @@ struct Theskinny: Website {
         case blog2
         case haikus
         case njdispatches
-//        case photoGalleries
-//        case dailyPhotos
-//        case videos
-//        case adopt
-//        case extras
-//        case others
+
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -38,6 +33,9 @@ extension Theme where Site == Theskinny {
 }
 
 // This will generate the website
-try Theskinny().publish(withTheme: .tsobTheme)
+try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
+    // TODO:  folder and files for dead link redirects on blog2
+
+])
 
 

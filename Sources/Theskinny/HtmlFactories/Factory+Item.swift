@@ -9,11 +9,18 @@ import Foundation
 import Publish
 import Plot
 
+
 extension TsobHTMLFactory {
+    
+    enum TsobHTMLFactoryError: Error {
+        case contextMissingAllPosts
+        case currentPostNotFoundInContext
+    }
+    
     func makeItemHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         switch item.sectionID.rawValue {
         case "blog2":
-            return makePostHTML(for: item, context: context)
+            return try makePostHTML(for: item, context: context)
         case "haikus":
             return makeHaikuHTML(for: item, context: context)
         case "njdispatches":
@@ -28,11 +35,18 @@ extension TsobHTMLFactory {
         }
     }
     
-    fileprivate func makePostHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> Plot.HTML {
+    fileprivate func makePostHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws -> Plot.HTML {
+     
+        // have to work with all posts in order to get the links at the top
+        guard let allPosts = context.allBlogPosts else {
+            throw TsobHTMLFactoryError.contextMissingAllPosts
+        }
+        guard let post = allPosts.post(withId: item.metadata.id) else {
+            throw TsobHTMLFactoryError.currentPostNotFoundInContext
+        }
         let htmlHeadInfo = HeaderInfo(location: item, title: "Blog on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: item.body, site: context.site)
+        let pageMain = AnyPageMain(mainContent: post, site: context.site)
         return HTML(
-           //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
             htmlHeadInfo.node,
             .body(.component(pageMain)
            )

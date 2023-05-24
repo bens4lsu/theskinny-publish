@@ -59,6 +59,7 @@ struct SinglePost: Codable {
     var content: String {
             """
 ---
+title: \(title)
 date: \(SinglePost.outputDateFormatter.string(from: postDate))
 description: A description of my post.
 tags: \(tagSlugs)
