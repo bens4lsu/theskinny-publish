@@ -18,7 +18,8 @@ extension PublishingStep where Site == Theskinny {
             let factory = TsobHTMLFactory()
             let postsPerPage = EnvironmentKey.blogPostsPerPage
             var numPages = allPosts.count / postsPerPage
-            if allPosts.count % postsPerPage > 0 {
+            let postsOnLastPage = allPosts.count % postsPerPage
+            if postsOnLastPage > 0 {
                 numPages += 1
             }
             for i in 0..<numPages {
@@ -27,17 +28,18 @@ extension PublishingStep where Site == Theskinny {
                 let rightLinkInfo: TopNavLinks.LinkInfo? = (i == numPages - 1) ? TopNavLinks.LinkInfo(text: "next", url: "/blog2/page-\(i+1)") : nil
                 let linkInfo = TopNavLinks(leftLinkInfo: leftLinkInfo, rightLinkInfo: rightLinkInfo)
                 let pageName = i == 0 ? "current" : "page-\(i)"
-                for j in 0..<postsPerPage {
+                let postsThisPage = (postsPerPage >= (i * postsPerPage + postsPerPage)) ? postsOnLastPage : postsPerPage
+                for j in 0..<postsThisPage {
                     includePosts.append(allPosts.items[i * postsPerPage + j])
                 }
                 let posts = BlogPosts(items: includePosts)
-                let page = Page(path: "/blog2/\(pageName)", content: Content())
+                let page = Page(path: "/Output/blog2/\(pageName)", content: Content())
                 let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
                 do {
                     let file = try context.createFile(at: "/blog2/\(pageName)")
                     try file.write(html.render())
                 } catch {
-                    print ("error writing file /blog2/\(pageName)")
+                    print ("error writing file /Output/blog2/\(pageName)")
                     exit(0)
                 }
             }
