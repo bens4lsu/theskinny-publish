@@ -1,11 +1,12 @@
 ---
+title: Monday Night Football
 date: 2006-09-27 13:46
 description: A description of my post.
 tags: sports,stories
 id: 243
 ---
 This past Monday, I had what might have been my personal best football game experience.  If you happened to catch any of the sports networks, CNN, or even Al Jazeera, you will know that the Monday Night Football game this week marked the reopening of the Superdome for the first time since Hurricane Katrina.  A whole day of hullabaloo was scheduled, and I left work at lunch time to check it all out.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 The weather was perfect.  Clear, dry, breezy, and warm but not hot.  The blocks around the Superdome weren't blocked off, but they were rendered useless for all of the foot traffic.  Someone had set up stages for live music and there were beer trucks nearby, so the traffic handlers couldn't have been surprised.  
 
 We stopped by a friend's party nearby.  They've got a new place downtown in a great location.  It was fun to see them (and eat their food and drink their beer), but they had all of the hoopla on TV, and it made me itch to get out in the middle of it.  So I (most rudely) grabbed one more beer, said my thanks, and hit the road.

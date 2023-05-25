@@ -1,4 +1,5 @@
 ---
+title: My Garage is a Wreck
 date: 2005-11-14 12:20
 description: A description of my post.
 tags: stories
@@ -8,7 +9,7 @@ Right now, my garage would do Fred Sanford proud.<br />
 <br />
 I find it damned near impossible to keep my garage and shop clean.  Some -- including the other resident at my address -- will blame my scatter-brained nature, or my disorganization.  But the truth is that my own organizational genius is to blame.  Allow me to elaborate.<br />
 
-<!--more--><br /><br />The garage is small, and extremely full.  It is just barely big enough for one car, and it would have to be a small car, and it would have to be mostly empty.  Through sheer genius, I have a place for everything that makes it seem orderly.  "Everything" includes,<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />The garage is small, and extremely full.  It is just barely big enough for one car, and it would have to be a small car, and it would have to be mostly empty.  Through sheer genius, I have a place for everything that makes it seem orderly.  "Everything" includes,<br />
 <br />
 <ul><li>Random pieces of lumber, siding, plywood, lattice, etc.  There's enough to fill two pickup truck beds.<br />
 <br />

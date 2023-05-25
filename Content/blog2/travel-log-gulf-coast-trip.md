@@ -1,4 +1,5 @@
 ---
+title: Travel Log - Gulf Coast Trip
 date: 2014-07-01 23:02
 description: A description of my post.
 tags: travel,sailing
@@ -7,7 +8,7 @@ id: 1813
 <em>Saturday, June 14</em>
 
 We left Slidell at 6:00 AM under a cover of bugs.  It's been a long time since we've hung with so many gnats and mosquitos, and they stuck with us for at least an hour.  Then, in a scene right out of a cartoon movie, and army of dragonflies showed up and ran them off.  The dragonflies stayed around for a long time too, and there must have been a couple of dozen flying along and resting on the lifelines.  We didn't mind them, and the boys got out the net to practice insect catch and release.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 We sailed all day, nicely if not quickly.  We went South of the Mississippi barrier islands, and spent the day ducking and dodging the fishing fleet.  We had a couple of groups of dolphins come check us out, but none of them stayed around for very long.  It was a very pretty sail.
 

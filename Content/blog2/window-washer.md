@@ -1,4 +1,5 @@
 ---
+title: Window Washer
 date: 2013-05-30 15:01
 description: A description of my post.
 tags: young-ruski
@@ -11,7 +12,7 @@ Today, Baby K noticed this phenomenon for the first time.
 â€œWhassaaat?â€� he asked, pointing at the window.
 
 â€œThatâ€™s just water on the window.â€�
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 â€œMama do that.  Mama wash.â€�
 
 â€œHahahaha.  No, Mama didnâ€™t wash anything.  It just happens by itself.â€�

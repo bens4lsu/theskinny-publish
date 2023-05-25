@@ -1,4 +1,5 @@
 ---
+title: Winning at Roulette
 date: 2005-05-27 15:16
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ My buddy Guido is the king of the grand scheme.  You could give him a pile of si
 Guido was a year ahead of me in the Electrical Engineering program at LSU, but he finally found his true calling a year or two ago as a slumlord in New Orleans.  It's a perfect fit.  Where you or I would see a property that should be bulldozed he sees a decent home for poor people.<br />
 <br />
 
-<!--more--><br /><br />(Actually, that last sentence makes him seem a lot more noble than I think he really is, but that's how it came out, so I'll just leave it alone.)<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />(Actually, that last sentence makes him seem a lot more noble than I think he really is, but that's how it came out, so I'll just leave it alone.)<br />
 <br />
 Anyway, I had heard second hand about a scheme that he had to get over on the big casinos.  I scoffed.  I don't think Guido is going to fit in with the Asian MIT students in their card counting game.<br />
 <br />

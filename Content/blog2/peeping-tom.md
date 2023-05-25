@@ -1,11 +1,12 @@
 ---
+title: Peeping Tom
 date: 2006-04-25 04:39
 description: A description of my post.
 tags: stories
 id: 207
 ---
 It was recently brought to my attention that I have a reputation among the neighbors as a peeping Tom, and I know exactly how that reputation originated.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Two summers ago, I was doing the finish work on the Regal Beagle, the grill/bar area in our back yard.  It was August, and scorching, searing hot outside.
 
 I was up on a ladder, installing some lighting.  The location of the light's junction box necessitated a particular location and angle for the ladder.  It happened to give me a view into the neighbor's back yard, and that view happened to show me nothing but their hot tub.

@@ -1,4 +1,5 @@
 ---
+title: Haikus
 date: 2010-09-23 22:31
 description: A description of my post.
 tags: uncategorized

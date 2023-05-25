@@ -1,4 +1,5 @@
 ---
+title: Sporting Life
 date: 2020-02-04 17:44
 description: A description of my post.
 tags: sports,stories,sailing
@@ -7,7 +8,7 @@ id: 2246
 A couple of weekends ago, we had the annual Louisiana marathon.  I've probably mentioned it somewhere in these pages, but it's a fun day every year.  Our house is somewhere very near mile 23, and we pull out the lawn furniture and turn up some music and spend the morning watching the fit people pass.  Our neighbors have come to join us for the only morning of the year where we have no traffic.
 
 The later in the race you get, the more social the racers, so towards the end, we end up sharing beer and champagne.  This year. we made a couple of pitchers of banana daiquiris which were popular with the athletes.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 <a class="lightview alignright" href="/img/IMG_6403.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/IMG_6403.jpeg" alt="/img/IMG_6403.jpeg" width="350px"><br><span class="caption">Line that was supposed to hold my fat ass.</span></a>
 One lady asked for a beer when we had no more with us at the street.  I jogged inside to grab one from the fridge for her.  When I brought it out to her, I breathed heavy, "I'm so tired.  I ran all that way."  

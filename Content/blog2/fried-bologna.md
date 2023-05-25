@@ -1,4 +1,5 @@
 ---
+title: Fried Bologna
 date: 2006-03-28 15:17
 description: A description of my post.
 tags: food

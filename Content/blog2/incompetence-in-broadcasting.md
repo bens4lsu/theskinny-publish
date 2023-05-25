@@ -1,4 +1,5 @@
 ---
+title: Incompetence in Broadcasting
 date: 2004-10-25 22:26
 description: A description of my post.
 tags: pop-culture
@@ -7,7 +8,7 @@ id: 70
 It might be coincidence, but it seems like this week has brought us more than the usual amount of incompetence in broadcasting.  My standards really aren't high.  I just don't think these broadcasters are trying to entertain me as hard they used to.<br />
 <br />
 First, I have to call out Donald Trump for what's left out of <i>The Apprentice.</i>  No, I'm not crazy enough to believe that we see most of what happens on a reality show.  I don't even think that we get the real story.  Of course they are going to edit the whole thing in a way to make good TV for us viewers.  The successful shows pull it off.  We're entertained, and have a reasonable belief -- rightly or wrongly -- that we know what happened.
-<!--more--><br /><br />Donald Trump and Mark Brunett aren't making me a believer this season.  There's just too much that they leave out.  For example, last week, they got a phone call from the Don's secretary with a short, terse instruction to meet him in Central park the next morning.  They all show up, and somehow, they all knew to wear casual clothes instead of their suits.  Amazing coincidence that they wore those clothes and would be getting dirty?  I think not.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Donald Trump and Mark Brunett aren't making me a believer this season.  There's just too much that they leave out.  For example, last week, they got a phone call from the Don's secretary with a short, terse instruction to meet him in Central park the next morning.  They all show up, and somehow, they all knew to wear casual clothes instead of their suits.  Amazing coincidence that they wore those clothes and would be getting dirty?  I think not.<br />
 <br />
 The worst part has been the obvious voice-overs in the board room the last two weeks.  Donald is talking about what a disappointment one contestant or other is, and the camera goes to their faces for reaction.  Then, in mid sentence, Don's voice will change entirely.  The words carry on like they're logically connected, but you would have to be mostly deaf not to catch it.  The echo from the board room is gone.  And Don goes from a natural speaking cadence to what you can tell is a read.  It's not a bad read.  He does pretty good.  But still, it's not what was actually said.<br />
 <br />

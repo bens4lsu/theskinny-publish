@@ -1,4 +1,5 @@
 ---
+title: Louisiana Waterways:  Atchafalaya Basin
 date: 2004-06-15 09:56
 description: A description of my post.
 tags: food,travel
@@ -10,7 +11,7 @@ Mrs. Skinnyonbenny and I went on an adventure Saturday.  One of the things that 
 <br />
 <br />
 
-<!--more--><br /><br />Before paddling, we went to the Zydeco brunch at Cafe Des Amis in Breaux Bridge.  This activity was recommended by Jim, our former neighbor who can be spotted dancing at many of the local events where there is live music outdoors.  It turns out that the place is pretty happening on Saturday mornings.  There were people packed in there drinking and dancing like it was 11:00 on Saturday night.  The band and the dance floor takes up half of the cafe, and the show was pretty good.  We were about the only table not drinking.  The food can be recommended.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Before paddling, we went to the Zydeco brunch at Cafe Des Amis in Breaux Bridge.  This activity was recommended by Jim, our former neighbor who can be spotted dancing at many of the local events where there is live music outdoors.  It turns out that the place is pretty happening on Saturday mornings.  There were people packed in there drinking and dancing like it was 11:00 on Saturday night.  The band and the dance floor takes up half of the cafe, and the show was pretty good.  We were about the only table not drinking.  The food can be recommended.<br />
 <br />
 <table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/swamppaddle.JPG" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Paddling in the swamp</b></font></td></tr></table><br />
 <br />

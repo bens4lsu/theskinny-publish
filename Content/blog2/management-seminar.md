@@ -1,4 +1,5 @@
 ---
+title: Management Seminar
 date: 2005-12-08 06:55
 description: A description of my post.
 tags: the-office
@@ -9,7 +10,7 @@ Any time I start dreaming about work, I know that it's time for a vacation.  I s
 I was dragged along with a bunch of other middle management types from my office to some sort of feel-good management seminar at a hotel conference room.  It was a real high-fluff, low-content thing from a good speaker who knew nothing about the realities of doing business. <br />
 <br />
 The program was really hokey, but I distinctly remember that Steve Helmke was enthusiastically into it, offering suggestions, asking questions, and adopting their lingo on the fly.  This has nothing to do with my story, but those of you who know Steve will appreciate this part of the dream.
-<!--more--><br /><br />To keep us feeling comfortable and to encourage open communication, the room was furnished with sofas and big easy chairs, scattered around somewhat randomly.  We were also encouraged to dress casually.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />To keep us feeling comfortable and to encourage open communication, the room was furnished with sofas and big easy chairs, scattered around somewhat randomly.  We were also encouraged to dress casually.<br />
 <br />
 As luck would have it, Bob Yowell happened to be wearing a Hawaiian shirt whose print looked almost just like the floral print of the couch that he had chosen for the meeting.  I could only see him from the waist up, because the back of a different couch blocked my view.  So, from my perspective, Bob just looked like a decapitated head, floating above the shoulder rest of his sofa.<br />
 <br />

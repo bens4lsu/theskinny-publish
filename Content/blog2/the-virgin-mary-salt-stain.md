@@ -1,4 +1,5 @@
 ---
+title: The Virgin Mary Salt Stain
 date: 2005-04-22 06:39
 description: A description of my post.
 tags: current-events
@@ -7,7 +8,7 @@ id: 110
 One of the funniest stories I've seen in the last few days is the <a href="http://www.cnn.com/2005/US/04/20/mary.underpass.ap/index.html" target="_blank">story of the salt runoff in Chicago</a>.  You see, some people can see an image of the Virgin Mary in this salt runoff, and they are clogging up traffic to go there and worship.  It seems to be in an underpass or something like that.<br />
 <br />
 Don't get me wrong.  I'm all for whatever makes people feel closer to their creator.  I just have to wonder who first saw the blessed mother in this concrete.  To me, it just looks like an inverted parabola.  Perhaps the shape that salty slush melt water might take as it drains down from the street above, due to no miracle other than that of gravity.
-<!--more--><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/mary_shmoo.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Could this salt stain really be a message from Shmoo, from early crappy cartoon history?</b></font></td></tr></table><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/mary_shmoo.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Could this salt stain really be a message from Shmoo, from early crappy cartoon history?</b></font></td></tr></table><br />
 <br />
 Most of the images that you see of these sorts of apparitions are much better than this one.  I can think of a couple that were -- while still probably a coincidence -- pretty clearly faces.  But still.<br />
 <br />

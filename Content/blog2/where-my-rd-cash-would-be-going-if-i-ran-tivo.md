@@ -1,4 +1,5 @@
 ---
+title: Where My R&D Cash Would be Going if I Ran Tivo
 date: 2008-07-22 20:24
 description: A description of my post.
 tags: pop-culture,gear-and-gadgets
@@ -7,7 +8,7 @@ id: 381
 I saw in the paper today that Tivo is coming out with a thing where you can hit a button and buy a product that you're seeing on TV.  Say John Stewart is interviewing a guest about a book he wrote.  You hit a button on the remote, and a box from Amazon shows up with your book a few days later.
 
 This is a cool feature, and I'll be glad to have it, but to be honest, I won't ever buy something this way.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 If I were a Tivo executive, I would be working with a major hotel change on a hotel room version of Tivo.  Guests would be able to log into web sites, enter their confirmation number, and record shows that would then be available on special Tivo boxes in their rooms.  Guests would also be able to pull programming down from their home Tivo boxes and watch it in their rooms.
 
 If one major hotel chain had this feature, the guests would flock there.  Maybe not in Manhattan or San Francisco or New Orleans, but there are millions of business travelers in boring-ass rooms in boring-ass cities right now who would pay a premium for this feature.

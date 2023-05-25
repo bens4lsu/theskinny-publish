@@ -1,4 +1,5 @@
 ---
+title: Hard Drive Hard Times
 date: 2016-09-01 17:29
 description: A description of my post.
 tags: stories

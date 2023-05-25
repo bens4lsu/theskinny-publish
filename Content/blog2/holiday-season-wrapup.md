@@ -1,4 +1,5 @@
 ---
+title: Holiday Season Wrapup
 date: 2008-01-03 23:46
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 340
 I'm sure that it has a lot to do with having a kid, but we did a lot of very "traditional" things this holiday season.  The most absurd one was the festival of lights in downtown Baton Rouge, where the whole downtown was decked out in full Norman Rockwell Holiday tradition.  Most of my fellow citizens even changed out of shorts and put on long pants so that we could pretend that early December was winter here.
 
 They had a group dancing in costume from <i>The Nutcracker</i>, which entertained the kids.  The girls like ballet by their very nature, and Vanya is a Russian, so he felt the call of his motherland.  I felt him bounce up and down on my shoulders as he watched a bear jump around a girl without any reason that I could fathom.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 <table cellpadding="2" align="right">
 <tr>

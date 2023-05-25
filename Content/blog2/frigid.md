@@ -1,4 +1,5 @@
 ---
+title: Frigid
 date: 2018-01-16 09:14
 description: A description of my post.
 tags: young-ruski
@@ -9,7 +10,7 @@ School is closed today because it's really cold, getting colder, and there's a s
 I've complained in the past about cancelling school because it's "really quite cold and also raining," but the forecast for the next couple of nights is in the teens and twenties. I'll concede that one, Louisiana -- that is really quite cold.
 
 Last <span style="text-decoration: line-through;">winter</span> time this year, we had no winter at all. Some cool nights, but I doubt we had a three day stretch where it was too cold to wear shorts. It's weird that when mother nature cranks up the cold and bullshit, she does it over and over one winter and then forgets about us for several years.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 We had our first snow day all the way back on December 8. I started the day with a social media shot from the upstairs window. Snow was fluttering down over neighbors roofs, and I predicted "No oneâ€™s awake, but I already know today is one that theyâ€™ll remember and talk about for 10 years."
 
 Then, I spent about three hours watching other people's kids playing in the snow on Facebook while waiting for my lazy clan to get moving.

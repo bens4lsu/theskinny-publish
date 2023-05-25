@@ -1,4 +1,5 @@
 ---
+title: It's Mediocre Wednesday
 date: 2017-04-12 10:39
 description: A description of my post.
 tags: uncategorized
@@ -16,7 +17,7 @@ Bishop: We will call that day "Good Friday!"
 Jesus: WTF
 
 </div>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <a class="lightview alignright" href="/img/vanya_porkfest.jpg" data-lightview-caption="An unrelated, although recent, picture of V." data-lightview-group="group1"><img src="/img/vanya_porkfest.jpg" alt="/img/vanya_porkfest.jpg" width="350px"><br><span class="caption alignleft">An unrelated, although recent, picture of V.</span></a>
 
 Speaking of things we all know and never say, V and I were idly watching the cat lick his balls the other day.

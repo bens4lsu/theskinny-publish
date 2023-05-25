@@ -1,4 +1,5 @@
 ---
+title: Things are good in Baton Rouge
 date: 2004-03-23 09:15
 description: A description of my post.
 tags: stories,blogs-i-read-once-in-a-while

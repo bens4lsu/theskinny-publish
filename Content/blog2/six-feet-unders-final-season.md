@@ -1,11 +1,12 @@
 ---
+title: <i>Six Feet Under</i>'s Final Season
 date: 2005-06-17 13:29
 description: A description of my post.
 tags: pop-culture
 id: 125
 ---
 The new season of <a href="http://www.hbo.com/sixfeetunder/about/index.shtml" target="_blank"><i>Six Feet Under</i></a> has started.  I canï¿½t help but reflect that there is no other show in television history that has so many crazy people that you actually pull for.  In fact, just about everyone has at least the occasional conversation with dead people.  On top of that, they all have their own insanities and hang-ups.  There is rarely a scene without at least a hint of someone about to go over the edge.
-<!--more--><br /><br /><table width=100%><tr><td><table ALIGN="left" BORDER=1 CELLSPACING=0 CELLPADDING=8 WIDTH="100%"><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table width=100%><tr><td><table ALIGN="left" BORDER=1 CELLSPACING=0 CELLPADDING=8 WIDTH="100%"><br />
 <tr ALIGN="left" VALIGN="middle"><br />
 	<th>Character</th><br />
 	<th>Why He/She Is Crazy</th><br />

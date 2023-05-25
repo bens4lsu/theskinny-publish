@@ -1,4 +1,5 @@
 ---
+title: Mardi Gras Birthday
 date: 2008-02-05 12:40
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 348
 It's been a half-year of firsts for us:  First Halloween with a kid, first Thanksgiving, first Christmas and New Years, first day of preschool.  Perhaps the most fun has been in the past week, which featured both the first Mardi Gras as well as Vanya's first birthday with us (and second overall).
 
 If you've checked the pictures of the day, you saw that we were the best-costumed, non-prize-winning family in the Baton Rouge dog parade, and that we were holed up at the New Orleans Ritz Carleton with toddler and crazy dogs for a couple of days.  The dog parade was won by who-knows-who, but the fix was in.  The Dille's won one of the places, even though the sponsor was Mr. Dille's employer.  The upside is that the Raising Cane's gift card which was the prize hadn't been loaded with any monetary value.  So a rectangular piece of plastic and an awkward moment at the drive through window was the big prize.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="250" ><img src="/img/vanyaparade.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Begging for Throws</td></tr></table>
 
 Mrs. theskinnyonbenny was supposed to appear in the Muses parade in New Orleans on Thursday night, but thunderstorms, driving rain, and winds that gusted to gale force postponed the parade until Friday.  I stayed with my folks outside of town during the delay days, and drove down late Friday morning.  The dogs were quite pleased to go from accomodations on the floor of an enclosed porch to a luxurious stay in the beds of the Ritz.

@@ -1,4 +1,5 @@
 ---
+title: Improve the Comic Pages
 date: 2008-06-24 09:28
 description: A description of my post.
 tags: uncategorized,stories
@@ -7,7 +8,7 @@ id: 375
 I got an email over the weekend from a guy on a mission.  I initially thought it was spam; there are a lot of spammers who drop comments on a blog post with some generic comment that could apply to anything you might write, but then with a link to a page where you can order erectile dysfunction drugs.
 
 This email's author had done a little homework.  He had specific comments on a couple of recent posts, and he was very complimentary.  Then, he asked for some favorable feedback on a survey.  I took a looksee, and it turns out that his cause is one that deserves my attention.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 It seems that our local <s>newspaper</s> pet cage liner is running <a href="http://www.2theadvocate.com/comicsurvey" target="_blank">a survey</a> to see which comic strips they should run and which ones they shouldn't.  My correspondent is the author of <a href="http://www.deflocked.com/" target="_blank">Deflocked</a>, which looks to be one of several newer strips seeking to replace the tired, old, crappy comics that we're subjected to each weekday.
 
 <table cellpadding="2" align="center">

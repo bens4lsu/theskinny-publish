@@ -1,4 +1,5 @@
 ---
+title: Oscars/Movies
 date: 2006-03-07 09:57
 description: A description of my post.
 tags: pop-culture
@@ -6,7 +7,7 @@ id: 192
 ---
 The biggest question that I always have while watching the Oscar broadcast is, how do they phase out celebrities that no longer make the A-list?
 
-On Sunday, for example, there was old Jack Nicholson, sitting front and center for the whole broadcast, and then being the presenter for the Best Picture award.  Has he been an A-lister so long that he has tenure?  <!--more-->I think it's been a while since he was nominated for anything.  How does he keep his clout?
+On Sunday, for example, there was old Jack Nicholson, sitting front and center for the whole broadcast, and then being the presenter for the Best Picture award.  Has he been an A-lister so long that he has tenure?  <span class="spanEndPreview">&nbsp;</span>I think it's been a while since he was nominated for anything.  How does he keep his clout?
 
 On the other hand, there was no sign of Tom Hanks, other than an appearance in a video segment.  Did he choose to forgo the party?  I would think that he's just as well entrenched.  To think that Tom wasn't invited to be a presenter, but Keanu Reeves was is a bigger leap than my mind can manage.
 

@@ -1,4 +1,5 @@
 ---
+title: Jessica's Quotes
 date: 2004-12-29 05:17
 description: A description of my post.
 tags: the-office
@@ -9,7 +10,7 @@ id: 84
 What reminded me of this is that I just stumbled on an email that I had gotten a few months ago.  One of my coworkers sent me her list of quotes, for my amusement.  It doesn't say so on the page, but I have a couple of rules for my quote file.  First, it's only things I hear, not things that I say.  Second, I have to hear or read it for myself.  That make the web log the appropriate place for this list.<br />
 <br />
 
-<!--more--><br /><br />Jessica Rainey is leaving our company, but we owe her a debt of gratitude for collecting these for us.  I've used my best judgment about whether these people would want to be credited by name or not.  If you happen to be someone who's offended to be included, or offended that you weren't credited, then post a comment.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Jessica Rainey is leaving our company, but we owe her a debt of gratitude for collecting these for us.  I've used my best judgment about whether these people would want to be credited by name or not.  If you happen to be someone who's offended to be included, or offended that you weren't credited, then post a comment.<br />
 <p><br />
 <blockquote>I believe I have plans to stick a fork into my eyeball that day.  I'll be thinking of you all from the emergency room.</blockquote><br />
 -- Ben Schultz, in response to a meeting invitation.  (Note:  I still use a variation on that same response quite regularly.)<br />

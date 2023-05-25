@@ -1,4 +1,5 @@
 ---
+title: Wedding Wrapup
 date: 2010-05-29 08:55
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 805
 Until I got a text message reminding me, I completely forgot that I told my cousin's new husband, "I think it's great that you were willing to marry JJ, given her non-functioning male genitalia and all."
 
 So I think that makes up for the fact that I didn't take a picture of my junk with the disposable cameras at the reception.  But if this bothers you, it might be best to stop reading the recap now.  You can safely check out my pictures <a href="http://theskinnyonbenny.com/pgHome.php" onclick="window.open(&#39;http://theskinnyonbenny.com/pg3.php?spgmGal=061%20-%20JJ%20Wedding%20Weekend&#39;,&#39;061JJWeddingWeekend&#39;,&#39;width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no&#39;);">here</a>.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 We had a good weekend up in beautiful West Monroe, Louisiana.  We arrived late Friday afternoon, and I complained about the 3 1/2 hour drive, realizing mid-complaint that everyone else in the conversation had driven for 8 or 10 or more hours, and with more kids.  I was really complaining about having to slow down to 45 and pass through one shitty little North Louisiana town after another, but I couldn't choke that part out.  So I just mentioned that my 3 1/2 hours felt more like 4, and that we hadn't even stopped at <a href="http://www.fattyscracklins.com/Home.html" target="_blank">Fatty's Cracklins</a> in Mississippi, despite the allure of the cartoon pig on their sign.
 
 (Just typing Fatty's Cracklins makes me need to go poop.  Hang on, and I'll come finish this post in a few minutes....)

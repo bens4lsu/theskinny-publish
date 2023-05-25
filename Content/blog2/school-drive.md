@@ -1,4 +1,5 @@
 ---
+title: School Drive
 date: 2017-08-10 09:58
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 2143
 It's the first full week of August, and school is back underway.  V is a big middle schooler, which to him means the freedom to mill about aimlessly before classes start in the morning, severely limited recess, and authority to use the sandwich press in the cafeteria at lunchtime.  Two positives to one negative -- not bad.
 
 He was initially upset with the combination lock instructions, being given a combination with numbers like 18 and 32, and a lock that DOESN'T EVEN HAVE THOSE NUMBERS!  Once I translated 18 to "go to 20 and then 2 more ticks" and did similars for the other numbers, it was clear as could be.  He worked on it over the off days and had his opening time down to 13 seconds before the first day of school.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <a class="lightview alignright" href="/img/v_firstdayschool.jpg" data-lightview-caption="First day of school picture, 2017" data-lightview-group="group1"><img src="/img/v_firstdayschool.jpg" alt="/img/v_firstdayschool.jpg" width="350px"><br><span class="caption alignleft">First day of school picture, 2017</span></a>
 
 Drop off for his school is through a neighborhood with streets named for tennis stars from an era before I started watching tennis.  I have fond memories of watching BjÃ¶rn Borg and John McEnroe play, so the streets were named a really long time ago.  Ham Richardson is my favorite.  What parents would name their baby boy "Ham?"  

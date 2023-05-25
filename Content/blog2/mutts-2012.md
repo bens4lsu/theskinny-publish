@@ -1,4 +1,5 @@
 ---
+title: Mutts 2012
 date: 2012-01-31 07:00
 description: A description of my post.
 tags: animals,young-ruski
@@ -17,7 +18,7 @@ But I always go into these things thinking that the pain-in-the-ass aspect of it
 We through together a float on Sunday morning.  It was a wagon, turned into a rolling jail.  It was a lot more flimsy and shitty than it was when I pictured it in my head, but since it was housing The Joker, the effect kind of worked.
 
 So yes, the baby was The Joker, and we went back to a set of costumes from a few years ago, with Vanya as Batman, Lily as Robin, and Blossom resurrecting her role as Wonder Woman, in the same costume that I bought for Halloween 2004.  No one can say that we don't get our money's worth out of a Halloween costume.  Why we don't find a cool little place on Government Street and open up a costume shop, I'll never understand.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I have the whole photo gallery posted <a href="/pgHome.php">here</a>, but there are a few pics that go into my folder of all-time favorites.
 
 <div style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="http://theskinnyonbenny.com/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" alt="bloss"></div>

@@ -1,4 +1,5 @@
 ---
+title: The Ko Show
 date: 2019-01-03 09:31
 description: A description of my post.
 tags: young-ruski
@@ -13,7 +14,7 @@ Now that we're home, they both still think they should be able to drive around. 
 "No"
 
 "Why?"
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 "You don't have a driver's license."
 
 So he went into the house and made his own driver's license.

@@ -1,4 +1,5 @@
 ---
+title: Season Kickoff
 date: 2009-09-04 19:39
 description: A description of my post.
 tags: uncategorized

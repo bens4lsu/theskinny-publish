@@ -1,4 +1,5 @@
 ---
+title: Home Cooking
 date: 2006-07-11 15:09
 description: A description of my post.
 tags: my-youth
@@ -9,7 +10,7 @@ Probably the funniest thing about my mom is how she pronounces "potato."  She ch
 "What are we having for dinner tonight?"
 
 "Hamburger patties and baked buhTAtuhs."
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 "BuhTAtuhs?  What on earth is a buhTAtuh?"
 
 Silence.  It's tough to rope mom in.

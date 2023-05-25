@@ -1,4 +1,5 @@
 ---
+title: How Should I Behave at Women's Basketball?
 date: 2005-01-11 08:47
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 87
 As a basketball fan. the main thing that I haven't figured out is how much to heckle the opposition at a woman's basketball game.  This is an important question for me this year, because the LSU men's team just is not that good, and the Hornets are downright godawful.  <br />
 <br />
 This should be the first year since the Hornets have moved to New Orleans that I don't make it down for a few games.  They have won three of about thirty games so far.  Their best players are either injured, begging to be traded, or both.
-<!--more--><br /><br /><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><br />
 They traded their starting off guard for Jim Jackson at the end of December.  He has thus far failed to show up, choosing instead to forgo his NBA salary and perhaps get a start on his janitorial career over playing for the Hornets.<br />
 <br />
 The Saints brass must certainly be happy that just as they showed signs (however slight) of being a competent organization, the Hornets take the baton of inept New Orleans professional sports franchise.<br />

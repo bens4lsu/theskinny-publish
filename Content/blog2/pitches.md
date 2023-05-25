@@ -1,4 +1,5 @@
 ---
+title: Pitches
 date: 2023-05-10 10:42
 description: A description of my post.
 tags: pop-culture,things-i-just-dreamed-up
@@ -7,7 +8,7 @@ id: 2321
 Last night, we watched <i>My Cousin Vinnie</i>.  Probably the first time I've seen it since the 90s, and it turns out that the reason it was so popular is that it's good.  It's still good.  I didn't remember much other than the main plot outline, and it had me laughing.
 
 Not just the big moments -- like when Vinnie came into court wearing the thrift shop suit, but also ones that could go unnoticed if you're playing on your phone while it's on.  In one court scene, the prosecutor mentions "all our little old ancestors bank in England."  As he speaks, the camera panning the jury stops for an extra beat on the face of a black lady who could have had a best supporting nomination just for the look on her face during that 1.5 seconds of screen time.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 How about instead of <a href="https://variety.com/2023/tv/news/matlock-reboot-elsbeth-poppas-house-series-cbs-1235607934/" target="_blank">rebooting Matlock</a>, they back the truck full of money to Joe Peci's and Marisa Tomei's houses and have them revise their characters and solve courtroom crimes somewhere else that they don't fit in?
 
 I have more TV show pitches, y'all.  

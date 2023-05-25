@@ -1,4 +1,5 @@
 ---
+title: Thanksgiving Wrap Up
 date: 2008-12-04 17:27
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ I did something different on Thanksgiving Day this year.  I ordered the steak.
 We had no family obligations, there was no snow on the ground in Colorado, and the forecast scared us away from a sailing voyage.  So we sailed Wednesday, and went down to The Grill Room in New Orleans for Thanksgiving dinner. 
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/thanksgiving08.jpg"></td></tr><tr><td class="caption" width="250">Thanksgiving Dinner at the Grill Room</td></tr></table>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 They had an appetizer bar with oysters, shrimp, huge crab claws, and about four kinds of smoked fish.  They had pates, breads, and cheeses too, but why fill up on those when you can opt for smoked fish and crab claws?
 
 I followed that up with a turtle soup, which is definitely one of my favorite soups, and I think theirs is the best I've had.  It was chock full of reptile meat, and the stock had plenty of seasoning, onion, and sherry.  (I do like it better when I get to pour my own sherry into the soup, though).

@@ -1,4 +1,5 @@
 ---
+title: You Better Start Rolling a Shitload of Meat Pies
 date: 2020-03-02 18:00
 description: A description of my post.
 tags: young-ruski
@@ -7,7 +8,7 @@ id: 2263
 My sweet son V likes nothing more than shopping for trucks.  He apparently took his inquiry a little further this week, and entered his contact information into a form.  As soon as he started getting messages from the dealer, he got a little nervous.  
 
 Here's a text he sent me.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <a class="lightview centered" href="/img/vanyamessage1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/vanyamessage1.jpg" alt="/img/vanyamessage1.jpg" width="450px"><br><span class="caption"></span></a>
 
 I know, he meant was NOT on purpose.

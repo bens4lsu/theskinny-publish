@@ -1,4 +1,5 @@
 ---
+title: The Ashtray
 date: 2005-01-21 13:24
 description: A description of my post.
 tags: uncategorized

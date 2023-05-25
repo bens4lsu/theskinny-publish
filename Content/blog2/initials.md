@@ -1,4 +1,5 @@
 ---
+title: Initials
 date: 2008-02-26 12:54
 description: A description of my post.
 tags: the-office,young-ruski
@@ -7,7 +8,7 @@ id: 351
 My initials are downright trifling.
 
 I started a contract with a company last week, and they set me up on their network and email systems.  Their convention is first initial-last name, so mine should have been bschultz.  Unfortunately, bschultz was already taken, so I got first initial-middle initial-last name.  bmschultz.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 For real, BMSchultz.  That's the first knowledge of me that my new coworkers have.  BM.  And what if I end up working with some client or vendor and have to get them to send me a message?  "Yeah, it's bmschultz at company.com."  How embarrassing.
 
 Obviously, I've never been able to initial anything without all three initials, lest someone assume that I'm inserting editorial opinion rather than my first and last initials.

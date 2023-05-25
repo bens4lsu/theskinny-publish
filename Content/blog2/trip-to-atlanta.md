@@ -1,11 +1,12 @@
 ---
+title: Trip to Atlanta
 date: 2004-07-28 06:42
 description: A description of my post.
 tags: travel,pop-culture
 id: 52
 ---
 Let's start with the good:  the Madonna concert started with Vogue, and the concert could have ended at the end of that number.  We would have said something like, "she could have sung a few more songs, but man, it was really good."  
-<!--more--><br /><br /><table cellpadding=4 cellspacing=0 border=1 align=right><tr><td width=200 bgcolor="#C0C0C0"><font face="verdana, arial, geneva" size=1 color=#000000><b>Lessons Learned</b><ol><p><li>Go ahead and shell out the bucks for floor seats.  The effects were cool, but would have been so much better up close.</li></p><p><li>I support whatever law made them close the bars before the end of the show.  I would have kept drinking more, and God knows that wasn't necessary.</li></p></ol></font></td></tr></table><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=4 cellspacing=0 border=1 align=right><tr><td width=200 bgcolor="#C0C0C0"><font face="verdana, arial, geneva" size=1 color=#000000><b>Lessons Learned</b><ol><p><li>Go ahead and shell out the bucks for floor seats.  The effects were cool, but would have been so much better up close.</li></p><p><li>I support whatever law made them close the bars before the end of the show.  I would have kept drinking more, and God knows that wasn't necessary.</li></p></ol></font></td></tr></table><br />
 <br />
 The show is fantastic.  The stage had elevators moving people up and down.  It had a long Jetson's-style dog walk that slid people from one side of the stage to the other while they sing or dance.  There was a big V-shaped catwalk that stretched out over the floor audience.  There were tons of video effects and costume changes.  There were accrobats on trapezes, and there were bagpipe players.  Fun fun fun.<br />
 <br />

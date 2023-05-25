@@ -1,4 +1,5 @@
 ---
+title: The Middle of the Night
 date: 2005-05-06 07:36
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 114
 I woke up at 2:30 this morning, and within ten minutes, it was clear to me that I wasn't getting back to sleep.  This happens to me from time to time.  Usually, it's nice to have a quiet dark house.  I have enough reading to catch up on and enough hobbies to occupy my time that it usually isn't a problem.<br />
 <br />
 But today, I just wanted to watch TV.  Here's what I did between the time I woke up and the time I went to work.
-<!--more--><br /><br /><b>2:30 - 3:30:</b>  Watched the last hour of OLN's Tour de Georgia broadcast.  <br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><b>2:30 - 3:30:</b>  Watched the last hour of OLN's Tour de Georgia broadcast.  <br />
 <br />
 OLN condensed a six-day stage race down to a two or three hour broadcast.  I had already watched the first few stages, and I accidentally came ac cross an article that spoiled who won for me, but I watched anyway.  <br />
 <br />

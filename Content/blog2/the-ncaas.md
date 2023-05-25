@@ -1,4 +1,5 @@
 ---
+title: The NCAAs
 date: 2005-03-21 13:26
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 106
 At the end of Friday concluded the best two days of the sports year.  32 college basketball games, packed in over 12 hours<br />
 <br />
 <b>The White Trash Award:</b>  This one goes to me.  I came home Tuesday, stripped down to t-shirt and underpants, flopped down in my chair in front of the TV, and asked Mrs. theskinnyonbenny to bring me a beer (she refused).  I stayed right there in front of basketball for at least a few hours.
-<!--more--><br /><br /><b>Innovation Award:</b>  Goes to the scrub at CBS who originally said, "Why don't we just put three scoreboard across the top of the screen instead of one at the top that scrolls."  It's thinkers like him that make this nation great.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><b>Innovation Award:</b>  Goes to the scrub at CBS who originally said, "Why don't we just put three scoreboard across the top of the screen instead of one at the top that scrolls."  It's thinkers like him that make this nation great.<br />
 <br />
 <b>Get that off my Screen Award:</b>  Promos for the made for TV movie about elvis, complete with sound clips, run <i>while the game is going on</i>.  This completely justifies the crime of throwing a Molotov cocktail through the window of one's nearest CBS affiliate.<br />
 <br />

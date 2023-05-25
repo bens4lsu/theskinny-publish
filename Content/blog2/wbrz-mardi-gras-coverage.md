@@ -1,4 +1,5 @@
 ---
+title: WBRZ Mardi Gras Coverage
 date: 2010-02-19 07:00
 description: A description of my post.
 tags: young-ruski

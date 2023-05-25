@@ -1,4 +1,5 @@
 ---
+title: Three quick stories
 date: 2006-06-16 13:00
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 221
 Nothing real to post, but I have a few short stupid but amusing stories.
 
 This first one is from an email I got this week.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <blockquote>From: Stacie 
 Sent: Wednesday, June 14, 2006 3:00 PM
 Subject: Funny Observation

@@ -1,4 +1,5 @@
 ---
+title: Random Notes
 date: 2004-12-14 20:47
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 80
 Sometimes, when I have half a thought but not a full one, I'll jot down a little note.  Sometimes they turn in to a real idea.  Once in a while, I start writing about it, and the idea flows into a whole post.  On the other hand, I have a whole page of half-thoughts that went nowhere.  Here is a collection of some half-thoughts that have no chance of becoming a whole post on their own merit.<br />
 <br />
 
-<!--more--><br /><br /><ul><li>Diarrhea is a hard word to spell.</li><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><ul><li>Diarrhea is a hard word to spell.</li><br />
 <br />
 <li>I have the song "Luckenbach Texas" running through my head.  I wonder where that came from.  (And I wonder what made me write that down?  I have oddball songs running through my head every day.)</li><br />
 <br />

@@ -1,4 +1,5 @@
 ---
+title: Follow up - more details
 date: 2009-11-13 14:55
 description: A description of my post.
 tags: stories,young-ruski
@@ -12,7 +13,7 @@ A few updates on my posts from earlier this week.  First of all, the pics from t
 <a onclick="window.open('/pg3.php?spgmGal=057%20-%20LSU%20vs%20Florida%20Tailgate%202009','057LSUvsFloridaTailgate2009','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');">Football</a>
 
 Going through the Halloween photos confirmed for me that the bug mascot from the zoo was the same as the bug mascot from the museum the next week.  Perhaps that's why Vanya was such a pain in the mascot's thorax the second time they met.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Bug guy did all of the mascot things that you're supposed to do:  gave five, waved, handed out a sucker.  But Vanya wouldn't leave him alone, shouting down the hallway,
 
 "Hey!"

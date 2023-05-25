@@ -1,4 +1,5 @@
 ---
+title: The Porn Fairy
 date: 2005-02-25 09:15
 description: A description of my post.
 tags: my-youth
@@ -7,7 +8,7 @@ id: 97
 My buddy Perv used to refer to the "Porn Fairy" from time to time.  I wasn't sure until recently whether this was a widely known term or just something that he came up with.  It seems to be the latter.<br />
 <br />
 Every boy I knew had experiences where they just come across unexplained pornography for no reason.  For me, it was often a wet matted magazine lying out in the woods where I would play.  There's no explaining how it got there other than as a gift from the porn fairy.
-<!--more--><br /><br /><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><br />
 I remember once in elemetry school, my friend Ryan, my neighbor Tyra, and I came across a dirty magazine.  We were in a large yard leafing through the pictures about 30 yards from the street.  My dad drove by, and rather than play it cool, Tyra snapped the magazine shut and pushed it down into the grass real fast.<br />
 <br />
 Dad asked me later what was in the magazine.<br />

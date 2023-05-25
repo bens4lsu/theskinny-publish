@@ -1,4 +1,5 @@
 ---
+title: From This Year's DC Trip
 date: 2011-08-11 09:00
 description: A description of my post.
 tags: travel,young-ruski
@@ -9,7 +10,7 @@ Theskinnyonbenny family had one long, full day to be tourists in Washington D.C 
 Vanya started the day tired and whiny.  I would complain that it was hotter than hell, except that I'm posting this from Louisiana in August, where the devil himself won't visit a house that has the air conditioning turned off.
 
 After we walked around for a while, we stopped at this little store to load up with cold drinks.  Vanya did some little favor for the cashier, and the man gave him a big, fake hundred dollar bill.  While we were sitting outside and drinking from our plastic bottles, Vanya went back in and did him some other nicety, and he came back with two more over-sized fake bills.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="left"><tr><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/074%20-%20Washington%20DC%202011/data/normal.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Ice cream sandwich in front of the Washington Monument.</td></tr></table>
 
 From there, we started walking toward the White House, and as we got close, he started chirping, "I have some dollars for Washington!"

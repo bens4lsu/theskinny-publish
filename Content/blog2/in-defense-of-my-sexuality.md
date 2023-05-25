@@ -1,4 +1,5 @@
 ---
+title: In Defense of My Sexuality
 date: 2014-09-04 22:31
 description: A description of my post.
 tags: current-events
@@ -11,7 +12,7 @@ Guess how many hours I've spent tracking down and looking at the trove of celeb 
 10?
 
 0?
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 
 0.  Zero.  Haven't checked.

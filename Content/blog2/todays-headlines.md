@@ -1,4 +1,5 @@
 ---
+title: Today's Headlines
 date: 2008-06-04 12:20
 description: A description of my post.
 tags: current-events
@@ -11,7 +12,7 @@ Of course, the headlines in the news reader today show a lot of repetition.  But
 Obama Claims Nomination.  Crowd Goes Bonkers
 					      </div>
 					      
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <strong>New York Times</strong>
 <div style="padding-left:5em">
 Obama Clinches Nomination; First Black Candidate to Lead a Major Party Ticket

@@ -1,4 +1,5 @@
 ---
+title: Music Friday: the Makeup Exam
 date: 2012-05-11 06:11
 description: A description of my post.
 tags: music-pop-culture

@@ -1,4 +1,5 @@
 ---
+title: Rotten
 date: 2018-12-03 11:44
 description: A description of my post.
 tags: other-peoples-stories

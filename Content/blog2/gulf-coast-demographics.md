@@ -1,4 +1,5 @@
 ---
+title: Gulf Coast Demographics
 date: 2010-09-10 17:36
 description: A description of my post.
 tags: uncategorized
@@ -9,7 +10,7 @@ After our vacation in Tennessee, theskinnyonbenny family drove due south, and ma
 This is the only part of this post that I'll devote to the oil spill:  as we drove through, we saw quite a bit of cleanup out in the water, but the water and beaches seemed clean.  But seeming clean is different than being clean.  I seem to be one of few, but oil that is broken into microscopic drops surrounded by chemical dispersant is still oil.  It's not out of the Gulf.  It's just not in a form where we see it.  Is it safe for swimming and eating?  I don't think anyone actually knows the answer to that.  So I'm pleased that it wasn't worse, but I'm still really concerned.
 
 Now that that's off my chest, I'll get to the point that I came to make:  I am now an expert on the different demographics along the coast.  There are several distinct regions with their own tourists, locals, personalities, and amenities.  I'm pleased to provide the first guide (as far as I know) to the different parts of the Gulf Coast.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <img style="display:block; margin-left:auto; margin-right:auto" src="/img/gulfcoast2.jpg" alt="gulf coast map" />
 
 This is a map of the Gulf Cost, with highlights for the distinct geopgraphical and social divisions that I've observed.

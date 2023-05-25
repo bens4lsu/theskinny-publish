@@ -1,4 +1,5 @@
 ---
+title: Musical Promotion
 date: 2010-02-23 14:59
 description: A description of my post.
 tags: music-pop-culture
@@ -7,7 +8,7 @@ id: 733
 Suppose you're a song, and you live on my ipod.  And suppose you're the type of song that would like to be as highly rated as you can be.  In other words, you're an over achiever of the mp3 community.  How do you get that coveted 5-star rating?
 
 If you ever give me cill bumps, that will get you there.  If you've been in the rotation for 25 years and I'm still not tired of you, you have a pretty good chance too.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Today, I decided to promote Van Halen's "Hot for Teacher" from four to five stars.  It might just have the sickest intro  in the history of Rock and Roll.
 
 And who amongst my age-group peers doesn't remember the video fondly?

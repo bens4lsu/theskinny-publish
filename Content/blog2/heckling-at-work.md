@@ -1,4 +1,5 @@
 ---
+title: Heckling at Work
 date: 2006-01-12 12:05
 description: A description of my post.
 tags: the-office
@@ -7,7 +8,7 @@ id: 174
 Last week, I looked up from my desk as a new woman was being led through the office from area to area for the "first day new guy tour."  The proper etiquette, of course, is to nod politely and say, "Welcome aboard," as if we're all happy little shipmates.<br />
 <br />
 For some reason, I was possessed to boo.  I didn't get too obnoxious with it.  It was just a medium-volume, low-pitched booooooooo, similar to what I would do when the opponents come out on court to warm up before a basketball game.
-<!--more--><br /><br />I didn't really think about doing this to the poor woman; it just came naturally.  I didn't realize that I was acting like an ass until I looked up from my keyboard and noticed others staring at me.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I didn't really think about doing this to the poor woman; it just came naturally.  I didn't realize that I was acting like an ass until I looked up from my keyboard and noticed others staring at me.<br />
 <br />
 So I did what any egotist would:  I started laughing at myself.  About a minute and a half later, still laughing, I realized that I should have been apologetic.  I hollered a half-hearted, "Oh, sorry about that.  Welcome aboard!" which probably wasn't heard anyway, since the walking tour had continued on to other areas.<br />
 <br />

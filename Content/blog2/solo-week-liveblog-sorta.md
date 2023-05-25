@@ -1,4 +1,5 @@
 ---
+title: Solo Week Liveblog (sorta)
 date: 2013-07-31 00:09
 description: A description of my post.
 tags: stories
@@ -11,7 +12,7 @@ Note: Scroll down for August 4 update!
 Once upon a time, Mrs. theskinnyonbenny used to go to Las Vegas with the girls every year.  Before kids, I would have the house to myself, and I would stay up late every night watching Chevy Chase movies that I had seen 100 times before.  If anyone asked, I always reported that I sat on the couch naked as a jaybird, eating nonstop potato chips.  If my listener didn't look suitably disgusted, I would add that I filled my belly button with French Onion dip, so as not to have to wash a bowl.
 
 This year, she went during a week that coincides with the kids' week up at Granny's farm.  It's the first time I've had the house to myself for several days straight since -- I think since we adopted V.  Christ, that's a long time.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Unfortunately for my leisure time -- but fortunately for our empty bank account -- I have a couple of extra projects that will keep me busy with work.  Today, I had the most productive work day in a long time.  I started at 5:00 this morning, and kept at it through early evening.  Even during lunch, I picked up a sandwich and ran some tests for a part-time project.
 
 After I signed off for the day, I went on the longest run I've done in a long time.  And by long, I mean amount of time exercising -- not a long distance.  RunKeeper got confused, and had me running in odd zig-zag circles for a mile or more, so when I looked at <a href="http://runkeeper.com/user/bens4lsu/activity/217264571?&tripIdBase36=3lcqez" target="_blank">my results</a>, I about ripped off my shirt to strut about.  Then, I looked at the map, I saw that my stats were bogus, and that I'm still fat and slow.  But then again, it was scorching hot, and I feel good about how I did all the same.

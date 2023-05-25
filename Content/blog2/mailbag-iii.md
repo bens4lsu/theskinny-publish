@@ -1,4 +1,5 @@
 ---
+title: Mailbag III
 date: 2004-07-21 07:46
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 51
 When I got to work this morning, I had a note on my computer that said, "Check in the morning."  I had the sense yesterday evening to write a note, knowing that I would forget to check.  However, I neglected to tell myself what I was checking.  Getting old sucks.<br />
 <br />
 But that's irrelevant to the mail column.  You guys really haven't sent me anything I can use, although I'm happy that there's finally some regular posting on the <a class="mainbox" href="http://theskinnyonbenny.com/stl-web/bulletin/bb/index.php" target="_blank">bulletin board </a>.  Keep it up.  Now to the mailbag.
-<!--more--><br /><br /><BLOCKQUOTE>From: Sarah Schultz <A HREF="mailto:SSchultz@ctbpublishing.com" class="mainbox">SSchultz@ctbpublishing.com</A><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><BLOCKQUOTE>From: Sarah Schultz <A HREF="mailto:SSchultz@ctbpublishing.com" class="mainbox">SSchultz@ctbpublishing.com</A><br />
 <br />
 I was supposed to email you two days ago to clean out your fridge before<br />
 Crystal comes.</BLOCKQUOTE><br />

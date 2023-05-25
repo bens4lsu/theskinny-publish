@@ -1,4 +1,5 @@
 ---
+title: On Miss Mary's Car
 date: 2005-05-10 14:02
 description: A description of my post.
 tags: my-youth
@@ -7,7 +8,7 @@ id: 115
 After I posted my article on the bad things that I had done, I got an email asking me to relate the details of a misadventure that I had glossed over.  I mentioned in that entry that I didn't have the time or space to detail all of the mean things that I had done to our housemother.  So by request, here is one such story.<br />
 <br />
 First, some background information is necessary.  Our house mother is the first -- and to this day the only -- woman mayor of Baton Rouge.  Her husband had been mayor, and when he died, the city apparently decided to name a park after him (Webb park, right down the road from my house), and panic about the succession plan.  Somehow, they just talked his wife into finishing his term.
-<!--more--><br /><br />Of course, that had been a full generation before I ever met Miss Mary.  I have no idea how the intervening decades transformed the mayor of our city into a slightly crazy, chain-smoking house mother who had not a small appreciation for liquor.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Of course, that had been a full generation before I ever met Miss Mary.  I have no idea how the intervening decades transformed the mayor of our city into a slightly crazy, chain-smoking house mother who had not a small appreciation for liquor.<br />
 <br />
 One night, a few of us rolled in late from a night of bar hopping.  Rolling in very late was often a time when we showed Miss Mary some love.  Usually very noisy, disturbing love.<br />
 <br />

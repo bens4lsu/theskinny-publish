@@ -1,4 +1,5 @@
 ---
+title: Steroid Floyd
 date: 2006-08-08 08:29
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 233
 I'm the only person that I know anymore who's truly a fan of professional cycling.  I used to have a couple of buddies at work who kept up with it, but no more.  It's just me spending my July evenings alone with Paul Sherwin and Phil Liggit on OLN.
 
 Because people know I'm a fan, I get asked about the whole Floyd Landis thing a lot.  But before getting to the details, I should disclose that I've never been much of a Floyd Landis fan.  It always looks like he's sneering on the bike, and you never see a sign of really good sportsmanship from him like you do from a lot of the other riders.  Plus, should the name of the winner of the Tour de France evoke memories of the barber in Mayberry?
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/landis.jpg"></td></tr><tr><td class="caption" width="250">Floyd Landis</td></tr></table>
 Even before the second test was in, I didn't think Landis's excuses rang true.  For one thing, the story didn't stay consistent.  At one point, the excuse was "a false positive, caused by a shot of whisky after the previous day's race."
 

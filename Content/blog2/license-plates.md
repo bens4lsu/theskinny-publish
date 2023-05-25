@@ -1,4 +1,5 @@
 ---
+title: License Plates
 date: 2009-04-01 13:13
 description: A description of my post.
 tags: stories

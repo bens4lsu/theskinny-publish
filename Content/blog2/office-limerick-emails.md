@@ -1,4 +1,5 @@
 ---
+title: Office Limerick, Emails
 date: 2008-06-25 09:22
 description: A description of my post.
 tags: the-office
@@ -13,7 +14,7 @@ But don't be alarmed
 It keeps Carla warm
 As she sits and works in her chair</td>
 <td><img src="/img/carla-blanket.jpg"></td></tr></table>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 The background story there is that I happened to be at the urinal at the same time that Tyler was in the bathroom one day.  I looked down, and made an observation.  "There are enough pubes on this thing to knit a sweater."
 
 Tyler pondered that, and fantasized that as a bazillionaire, he would get someone to knit a pubic hair sweater, just for the novelty of it all.

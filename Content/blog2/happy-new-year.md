@@ -1,4 +1,5 @@
 ---
+title: Happy New Year!
 date: 2007-01-03 08:14
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 267
 In a few days, the memory of my burning intestines will fade, and New Year's Day 2007 will be a happy memory of being curled in a chair, half asleep, half awake, watching football, and not passing a single thought through my head the entire day.
 
 We did New Year's Eve at the Regal Beagle, where I drank as if I were still a young man.  I didn't take many pictures to post, and a lot of the fun that I had either doesn't translate into a good story, or it's forgotten forever.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 The night before that, we had hosted our friend Mary Ann, and (read this next part in a Mississippi accent) a guy who goes by name of Skeeter.  They were down from Mrs. theskinnyonbenny's home town.  Maryann (I don't know how she spells it, so I'll try different possibilities.  One will be right.)  had been down for a party once before, and we had run into her in a bar the weekend of Christmas.  They were on their way to New Orleans for New Year's Eve, and agreed to stay Saturday night at our house for a taste of Baton Rouge.
 
 <ul><li>At 11:00, we heard from Shelly and Boobsie, who were celebrating in New York City.  Since it was already 2007 there, I asked the person on the phone to find out if they had hover cars in 2007 yet.  As we all know by now, there is a disappointing lack of hover cars in 2007.  What's taking them so long with that?</li>

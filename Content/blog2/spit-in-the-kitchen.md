@@ -1,4 +1,5 @@
 ---
+title: Spit in the Kitchen
 date: 2008-02-29 16:28
 description: A description of my post.
 tags: stories

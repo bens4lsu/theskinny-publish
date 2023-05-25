@@ -1,4 +1,5 @@
 ---
+title: The Bloodhound Gang Album Cover
 date: 2005-10-19 13:20
 description: A description of my post.
 tags: pop-culture
@@ -8,7 +9,7 @@ id: 149
 <br />
 I think there's a new one to add to the worst cover of all time.  Except now, it's called "cover art" instead of an "album cover," since it actually just comes with the downloaded music files from whichever service you get them these days.<br />
 
-<!--more--><br /><br />The <i>Hefty Fine</i> cover from Bloodhound gang is atrocious.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />The <i>Hefty Fine</i> cover from Bloodhound gang is atrocious.<br />
 <br />
 </div><div><center><img src="/img/bloodhoundgang.jpg"/></center></div><br />
 <br />

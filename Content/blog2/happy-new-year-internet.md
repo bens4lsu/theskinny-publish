@@ -1,4 +1,5 @@
 ---
+title: Happy New Year, Internet
 date: 2020-01-09 09:07
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ Happy New Year, Internet.
 I don't post much any more, but I write a little more often than I post.  I'm boring now.  Kid activities, fixing things at the house or at the boat, food, music, golden age of television -- all of that.
 
 Even though it's mostly boring, I'm going to start posting more of it.  It's a record of what we do.  Something like a photo album.  Maybe my kids will want to read through it one day.  Maybe I'll want to remember what day Clay Clark drunkenly relieved himself at the stall next to Steve Spurrier.  I won't have it all written down, but maybe some of it.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <a class="lightview centered" href="/img/spurriertext.jpg" data-lightview-caption="Here's the sort of quality content you've been missing." data-lightview-group="group1"><img src="/img/spurriertext.jpg" alt="/img/spurriertext.jpg" width="400px"><br><span class="caption">Here's the sort of quality content you've been missing.</span></a>
 
 Speaking of New Year's, I thought this video would be big on the first, but I didn't see it show up on my social media at all.  Theskinnhonbenny family laughed good and hard.  We rewound several times to rewatch too.

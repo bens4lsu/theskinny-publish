@@ -1,4 +1,5 @@
 ---
+title: Old Man/Young Boy
 date: 2015-03-26 10:43
 description: A description of my post.
 tags: stories,young-ruski
@@ -9,7 +10,7 @@ Here are three related things that happened today, all of which indicate that I'
 <li>While brushing my teeth this morning, I tweaked my back.  For you youngsters who don't understand that terminology, the muscles suddenly (and somewhat violently) seize up and become painful and tight.</li>
 <li>To sooth my back, I turned on the seat heater for my morning drive.  This wasn't uncomfortable, because despite being about 70 degrees, it was windy and overcast, and that felt a little cool.</li>
 <li>When I got up around lunch time, my back was really quite stiff and sore.  I decided to walk two blocks to a convenience store to pick up a pack of Aleve.  I walked down, fixed a big giant diet coke, picked up a pack of Cheese-its for good measure, and totally forgot about the Aleve.</li></ul>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 
 Kolya is pretty much past the toddler stage where he has cute mispronunciations of words.  These are the only ones left that I an think of:

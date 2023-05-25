@@ -1,11 +1,12 @@
 ---
+title: My Take on the Olympics
 date: 2004-08-25 08:10
 description: A description of my post.
 tags: sports
 id: 57
 ---
 The lapse between the previous entry and this one is probably the longest gap I've had between online entries.  The reason has to do with the problems that my hosting provider unintentionally dumped on my site, which I only mention in case you blame my natural laziness.  This leaves me with a backlog of topics to explore, some more interesting than others.  I'm going to start with one of the less interesting:  my thoughts on the Olympics.  
-<!--more--><br /><br />Let's start with the pre-Olympic Michael Phelps hype.  NBC practically assured us that he should win 8 gold medals.  In retrospect, it was clearly just to sucker us into watching.  It's now clear that Phelps chose to participate in events that he was less likely to win so that he could race Ian Thorpe head to head.  NBC knew this, and they set up Phelps in the only possible scenario that could make him disappoint Joe American.  Besides, who really cares if an athlete comes back with eight medals or four?  Does eight medals make Phelps a better Olympic athelete than the three Kenyans who took medals in Steeplechase?  Of course not.  It's just that there's only one Steeplechase, and there are about four thousand swim events, as far as I can tell.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Let's start with the pre-Olympic Michael Phelps hype.  NBC practically assured us that he should win 8 gold medals.  In retrospect, it was clearly just to sucker us into watching.  It's now clear that Phelps chose to participate in events that he was less likely to win so that he could race Ian Thorpe head to head.  NBC knew this, and they set up Phelps in the only possible scenario that could make him disappoint Joe American.  Besides, who really cares if an athlete comes back with eight medals or four?  Does eight medals make Phelps a better Olympic athelete than the three Kenyans who took medals in Steeplechase?  Of course not.  It's just that there's only one Steeplechase, and there are about four thousand swim events, as far as I can tell.<br />
 <br />
 Clearly, the number of swims needs to be pared.  I bet anything that I could stage an olympics, race the exact same swim a few days apart with different people, and no one would notice.  And while we're cutting sports, trampoline and synchronized diving are this year's events that I don't remember seeing before, and which I hope never to see again.  The winter Olympics is fortunate not to have this problem.  Not too many people are making up faux sports that have to be played in snow or on ice.<br />
 <br />

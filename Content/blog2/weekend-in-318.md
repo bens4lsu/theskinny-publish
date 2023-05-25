@@ -1,4 +1,5 @@
 ---
+title: Weekend in 318
 date: 2005-11-08 15:10
 description: A description of my post.
 tags: stories,travel
@@ -7,7 +8,7 @@ id: 155
 On Sunday morning, the air was cool as we motored down the Red River.  Not so cool that you were uncomfortable, but just cool enough to raise a few goose bumps when the sun went behind a cloud.  The banks were devoid of houses, so for a couple of hours we had just seen hills, trees, and birds.<br />
 <br />
 "ARE YOU CHECKING FOR LOGS?"
-<!--more--><br /><br />The question came from the front of the boat.  Loudly.  <br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />The question came from the front of the boat.  Loudly.  <br />
 <br />
 Mrs. theskinnyonbenny answered more loudly, with annoyance.  "YES, I'M CHECKING FOR LOGS."<br />
 <br />

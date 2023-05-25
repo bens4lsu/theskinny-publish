@@ -1,4 +1,5 @@
 ---
+title: The Bum at Lowes
 date: 2005-01-05 20:13
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 85
 I went to Lowes tonight to pick up a couple of one by fours and some medium sized wood screws.  I was hopping into my Jeep when the parking lot beggar hurried up and made his pitch.<br />
 <br />
 I've been begged by this guy before.  He's usually after fifty cents or a couple of bucks.  Fairly friendly.  I wonder why I can remember people who beg from me three times in a year, but I can't remember to take out the garbage on Thursdays.  Tonight, he wanted a ride to Tom drive.  It was real close, so what the heck.
-<!--more--><br /><br />He started his hard luck story:  mother just died, car broke down, no one he can call, etc., etc.  He needed nine dollars to get a part for his car.  I noticed that he didn't smell like a beggar.  I actually detected a faint scent of soap.  Both the inside of my Jeep and I smelled worse.  Weird.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />He started his hard luck story:  mother just died, car broke down, no one he can call, etc., etc.  He needed nine dollars to get a part for his car.  I noticed that he didn't smell like a beggar.  I actually detected a faint scent of soap.  Both the inside of my Jeep and I smelled worse.  Weird.<br />
 <br />
 He dropped an ugly racial slur.  What reaction do people expect from a stranger when they do something like that?  I kept quiet, figuring that the absence of any reaction at all was probably the best way to proceed.<br />
 <br />

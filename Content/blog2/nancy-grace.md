@@ -1,4 +1,5 @@
 ---
+title: Nancy Grace
 date: 2005-03-02 14:02
 description: A description of my post.
 tags: pop-culture
@@ -11,7 +12,7 @@ Ozzy Osbourne?  Cose, but no.<br />
 Donald Trump?  Nah-anh.<br />
 <br />
 Dan Rather?  Believe it or not, you're getting warmer.
-<!--more--><br /><br />The most unintentionally funny person on television is CNN Headline News's Nancy Grace.  If you aren't familiar with Nancy, she has been a regular guest on the mother network's <i>Larry King Live</i> for a couple of years.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />The most unintentionally funny person on television is CNN Headline News's Nancy Grace.  If you aren't familiar with Nancy, she has been a regular guest on the mother network's <i>Larry King Live</i> for a couple of years.<br />
 <br />
 Nancy is a lawyer by trade, and her topics always have to do with crime and punishment.  She makes no pretense about being partial; she's always in the camp of the prosecution or police.  The twang in her accent, her sarcastic attitude, and the fact that she always -- and I mean always -- uses her outside voice make her show the most entertaining news program on the air.<br />
 <br />

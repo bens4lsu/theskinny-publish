@@ -1,4 +1,5 @@
 ---
+title: The Pug Purse
 date: 2005-05-11 07:03
 description: A description of my post.
 tags: uncategorized

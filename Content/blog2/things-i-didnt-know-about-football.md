@@ -1,11 +1,12 @@
 ---
+title: Things I Didn't Know About Football
 date: 2005-11-15 07:36
 description: A description of my post.
 tags: sports
 id: 157
 ---
 Here are four things I know about football right now, that I didn't know Saturday morning:
-<!--more--><br /><br /><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><br />
 <ul><li>Until this season, LSU had never beaten Florida, Alabama, and Auburn in the same season.  I know that would have been a rare feat, but it seems amazing that it <i>never</i> happened before.<br />
 <br />
 </li><li>On a similar vein, before now, LSU has never beaten Alabama three years in a row.<br />

@@ -1,4 +1,5 @@
 ---
+title: Notes from the Fourth of July
 date: 2004-07-08 20:36
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 48
 Mrs theskinnyonbenny and I went up to Natchitoches this weekend for the Fourth of July.  Crystal and Brent were in town with all of their kids (they're up to three of them for those who have lost count).  There's nothing too major or exciting to report, and I forgot my cameras until we were an hour out of Baton Rouge.  So all I have are a few disjointed observations.<br />
 <br />
 <li>I had some small moment of concern about Louisiana's new law prohibiting open containers of alcohol.  Previously, it was illegal for the driver of a car to have an open container, but it was fine for passengers.  Now, it will also be illegal for passengers to carry open containers.  I asked the girl about this being bad for business as we picked up daiquiris at a drive through liquor store in Natchitoches.  "No, it's not an open container, since we serve it with the lid on and don't put the straw through."  Well, thank goodness for that.</li>
-<!--more--><br /><br /><p><li>The dumbest thing that I think I saw in the last few weeks was Brent, trying to light -- no, make that actually lighting some major-pow fireworks with a hand torch.  Let's get this straight.  We have a ball of big-time explosives, wrapped in some heavy paper.  Then, instead of lighting the end of the fuse and running like hell, he's after it with a six inch flame.  My heart still races from thinking about it.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><p><li>The dumbest thing that I think I saw in the last few weeks was Brent, trying to light -- no, make that actually lighting some major-pow fireworks with a hand torch.  Let's get this straight.  We have a ball of big-time explosives, wrapped in some heavy paper.  Then, instead of lighting the end of the fuse and running like hell, he's after it with a six inch flame.  My heart still races from thinking about it.<br />
 <br />
 At one point, we went together to try to light three boxes of little screaming rockets at the same time.  He got the first two light, as I struggled to get the fuse to catch from a punk.  It didn't take me too long to run like a little girl, leaving my fuse unlit.  Brent couldn't let that box of rockets go off solo, so he went back with the torch to light my fuse.  Rockets whistled right past his head all the while.  </li><br />
 <br />

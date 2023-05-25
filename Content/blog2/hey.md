@@ -1,4 +1,5 @@
 ---
+title: Hey
 date: 2014-03-21 16:12
 description: A description of my post.
 tags: young-ruski
@@ -12,7 +13,7 @@ Before I reacted, he continued.
 
 "WHO MESSED WITH MY PANKAKES?"
 
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 "You were dreaming little dude.  There are no pancakes."
 

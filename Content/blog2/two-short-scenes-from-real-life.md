@@ -1,4 +1,5 @@
 ---
+title: Two Short Scenes From Real Life
 date: 2010-07-02 10:45
 description: A description of my post.
 tags: young-ruski

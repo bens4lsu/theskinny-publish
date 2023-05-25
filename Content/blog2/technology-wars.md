@@ -1,11 +1,12 @@
 ---
+title: Technology Wars
 date: 2006-10-02 14:19
 description: A description of my post.
 tags: current-events
 id: 245
 ---
 There's been much hubbub on the Apple message boards and on blogs regarding the bugginess of the new release of itunes.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/itunes7bug.jpg"></td></tr><tr><td class="caption" width="250">Blog mentions for "itunes + 7 + bug" as reported by <a href="http://www.Technorati.com">Technorati</a></td></tr></table>
 
 We installed it a couple of weeks ago, and Mrs. theskinnyonbenny did get frustrated with some problems that it had.  Most annoyingly, it tried to re-download everything that we had ever purchased from the itunes store.  Presumably, thousands of users were simultaneously trying to download everything, so the connection timed out from time to time.  The Mrs. just wanted a couple of files, but she couldn't get those to come from all of the timing out over music files that we already had.

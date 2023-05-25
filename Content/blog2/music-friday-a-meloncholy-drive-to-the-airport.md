@@ -1,4 +1,5 @@
 ---
+title: Music Friday: A Meloncholy Drive to the Airport
 date: 2013-01-11 05:40
 description: A description of my post.
 tags: music-pop-culture
@@ -7,7 +8,7 @@ id: 1504
 A couple of weeks ago, I had to meet Shelly at the airport, where she was dropping off her rental car.  (It's a long, holiday season travel story.  If you're interested, rent Planes, Trains, and Automobiles.  It's much funnier).
 
 On the way to the airport, I needed a diet coke to calm my cotton mouth and caffiene-starved nervous system.  Because I'm that type of guy, I called Shelly to see what she would want from the convenience store.  She ordered a Diet Mountain Dew.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 And that brings me to Lana Del Rey, who has a single called Diet Mountain Dew.  And it's not a bad tune, but this one is better.
 
 I was actually lukewarm on Video Games when it came out, but it grew on me during 2012, and now I would put it as one of the top songs of that year.  

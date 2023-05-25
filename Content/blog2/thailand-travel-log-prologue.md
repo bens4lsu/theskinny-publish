@@ -1,4 +1,5 @@
 ---
+title: Thailand Travel Log:  Prologue
 date: 2004-03-29 05:20
 description: A description of my post.
 tags: travel,blogs-i-read-once-in-a-while

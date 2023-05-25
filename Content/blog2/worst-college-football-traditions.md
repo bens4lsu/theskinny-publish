@@ -1,4 +1,5 @@
 ---
+title: Worst College Football Traditions
 date: 2011-01-11 16:57
 description: A description of my post.
 tags: sports
@@ -9,7 +10,7 @@ After last night's national championship game, ESPN went to Auburn, AL, to show 
 Is there a worse tradition in college football?  Toilet papering trees is sooooo white trash.  If I were an Auburn fan, I would just have to shake my head in embarrassment at this most stupid way to celebrate a big win.  
 
 Toomer's corner is the worst of the worst.  Here are the best and the worst college football traditions, straight from the top of my head.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table>
 	<tr>
 		<td>Best</td>

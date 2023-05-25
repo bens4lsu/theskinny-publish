@@ -1,4 +1,5 @@
 ---
+title: Music Friday: Wasted Days
 date: 2013-02-01 11:52
 description: A description of my post.
 tags: music-pop-culture
@@ -9,7 +10,7 @@ id: 1556
 Just about the only thing I've listened to this week is Cloud Nothings's <i>Attack on Memory</i> album.  And the track I keep going back to is Wasted Days.
 
 Back in the 70s, our shelf was full of rock albums with complicated tunes that lasted way longer than anything you would ever get on the radio.  Sometimes, the end of the song didn't sound like the same tune as the beginning, and sometimes it would go through all sorts of complicated permutations and circle back around to something that reminded you of the front.  I remember that Inna Godda Divida took the entire side.  (Homework for the kids: look up what "33 1/3" refers to.) 
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 This tune clocks in at just under 9 minutes, and there's not one second that I would have trimmed if I were the sound mixer.
 <script type="text/javascript" src="http://webplayer.yahooapis.com/player.js"></script>
 <a href="/sound/02WastedDays.mp3">Wasted Days</a>

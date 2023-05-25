@@ -1,11 +1,12 @@
 ---
+title: Superbowl Numbers
 date: 2010-02-10 10:35
 description: A description of my post.
 tags: sports
 id: 719
 ---
 You can read the boxscore for yourself, and you've seen about the TV ratings already.  Here are some stats that you'll only see on theskinny.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table style="border:1px solid gray;">
 
 <tr><td>4</td><td>God's ranking in Louisiana Facebook "likes," behind New Orleans Saints, Black and Gold, and Drew Brees.</td></tr>

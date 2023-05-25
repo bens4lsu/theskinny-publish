@@ -1,4 +1,5 @@
 ---
+title: Jim Holt
 date: 2006-02-26 20:21
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 191
 Next time I get in an accident, I'm gonna get me some "crash cash."
 
 Jim Holt's billboards are everywhere in this city, and I do mean everywhere.  On at least one route that I can take on my 5 mile commute to work, I can see this photo on two bus stop benches and on one large billboard.  I've even seen this image pop up during the pre-preview advertisements at the movies.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table><tr><td>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="650" ><center><img src="/img/jimholt.jpg"/ width="90%"/></center></td></tr><tr><td class="caption" width="650">Jim Holt's Baton Rouge Billboard (one of many)</td></tr></table></td></tr><tr><td>
 

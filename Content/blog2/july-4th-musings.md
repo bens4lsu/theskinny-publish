@@ -1,4 +1,5 @@
 ---
+title: July 4th Musings
 date: 2007-07-04 21:12
 description: A description of my post.
 tags: uncategorized
@@ -9,7 +10,7 @@ I'm just gonna say it again for this year:  I'm not a big fan of 4th of July.
 It's too hot for a holiday where the main event is outside.  And what's so great about fireworks anyway?  The lights are okay, but they are accompanied by the most ungodly racket.  Who needs that?  (and happy 85th birthday to me.  I'll go trim my nose hair now.)
 
 I looked at my <a href="http://theskinnyonbenny.com/blog2/index.php?pagename=archives-page">blog archives</a> to see if I've already posted about not liking Independence Day.  I have.  In <a href="http://theskinnyonbenny.com/blog2/archives/48">2004</a>, I posted about the time Brent lit fireworks with a small blow torch, and I was too ashamed to admit that I was chicken-shit.  Although I see that I didn't word it that explicitly and honestly.  2005 brought nary a mention of the holiday at all.  There was a post <a href="http://theskinnyonbenny.com/blog2/archives/225">last year</a>, but it was mainly how I got drunk and got called a fat-ass.  There were no fireworks in my day.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I can hear neighbors lighting their explosives now.  For once, it's damp enough that I don't have to worry about them lighting the dry leaves in my gutters.  Neither the dogs nor the kid are frightened by the noise, surprisingly.
 
 We went sailing this morning.  Had a good sail going, and the wind started picking up, but the sky got darker as the thunder got more frequent, so we headed in a lot sooner than I would have liked.  Then, we waited for the summer storm to pass.  It never did, so Dad and I went out in the motor boat, and it started raining pretty good right as we reached the lake.  But at least we spent a good bit of the day afloat.

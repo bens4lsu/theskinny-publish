@@ -1,4 +1,5 @@
 ---
+title: iPod
 date: 2014-09-17 22:16
 description: A description of my post.
 tags: uncategorized
@@ -9,7 +10,7 @@ Lost in the big Apple announcement this week is the fact that they've <a href="h
 I don't see anyone else still carrying these around, but mine is indispensable, and I spent the better part of a day distraught that I'm one hard drive failure from not having one any more.
 
 I know:  join the 2010s and stream that shit.  Here's the rub:  I'm out and about most of the time.  The bill for the bandwidth I use with my cell company would make you choke on your own spit.  I don't need to add several gigabytes every month for something I already have now.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <a class="lightview alignright" href="/img/ipodClassic.jpg" data-lightview-caption="May this iPod last for many, many more years." data-lightview-group="group1"><img src="/img/ipodClassic.jpg" alt="/img/ipodClassic.jpg" width="350px"><br><span class="caption alignleft">May this iPod last for many, many more years.
 </span></a>
 

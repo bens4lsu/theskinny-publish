@@ -22,6 +22,13 @@ extension PublishingContext where Site == Theskinny {
         }.sorted(by: { $0.date < $1.date })
         
         return BlogPosts(items: blogPosts)
-        
+    }
+    
+    var allBlogPostsReversed: BlogPosts? {
+        guard let tmpBlogPosts = allBlogPosts else {
+            return nil
+        }
+        let reversedItems = tmpBlogPosts.items.reversed() as [BlogPost]
+        return BlogPosts(items: reversedItems)
     }
 }

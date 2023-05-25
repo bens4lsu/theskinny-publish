@@ -1,4 +1,5 @@
 ---
+title: The Tube
 date: 2009-11-10 15:08
 description: A description of my post.
 tags: uncategorized
@@ -9,7 +10,7 @@ On Thursday of last week, I ran by the bank and put in a couple of deposits.  It
 The bank branch started phoning Mrs. theskinnyonbenny, and they eventually left four messages complaining that I had driven off with their dumb tube.  They threatened a $50 charge to our account to pay for the tube replacement.  If they're going to charge that kind of change, they better have the video ready to prove that the tube rode off with me.  Of course they won't -- I would certainly know by now if I had the damned thing.  
 
 But don't think I won't swing through their drive through, take a tube (without stating who I am -- can I borrow your car?), and come back the next day to return it as the one they think I stole.  Because if they do charge me $50, that's exactly what's going to happen.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Rest assured that I am not the one who took their tube.  Once upon a time, I was a drive-through teller, and every couple of days, some dingleberry would drive off with the tube.  Ususally, it was back within 15 minutes or so, but it meant that we had to close the lane and make all of the lined up people mad.  Would it be too much for each branch to stock a couple of spares?  Because of this, I am exceptionally conscious of returning the tube when I leave.
 
 Today, I called the branch to tell them that they were barking up the wrong tree, but that branch's chief tube detective is already gone for the day, and apparently, the chief tube detective is the only one qualified to deal with this problem.  And by the way, they're closed tomorrow.  The lady started going through a schedule of when I might try to call back when I offered the alternative of leaving my number so that the chief tube detective could phone me as it fits into her busy schedule.  Tracking down missing tubes is a booming job in this tough economy.

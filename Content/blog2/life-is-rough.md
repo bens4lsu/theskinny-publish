@@ -1,4 +1,5 @@
 ---
+title: Life is Rough
 date: 2014-08-19 13:31
 description: A description of my post.
 tags: uncategorized

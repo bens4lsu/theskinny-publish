@@ -1,4 +1,5 @@
 ---
+title: Struggling Through Another Week
 date: 2005-10-28 05:54
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 152
 When I turned on my computer this morning, a program that lives in my task bar took the initiative to go to the internet, find some particular server, and ask it the temperature in Baton Rouge.  It then changed its stock graphic to a bold, black number:  39.<br />
 <br />
 It immediately occured to me that today probably would have been the day where -- having not paid attention to the forecast -- I get in my top-down Jeep wearing short sleeves and no jacket.  By the time I got to work seven minutes (no more, no less), I would have been begging the gods for mercy.
-<!--more--><br /><br />I'm on yet another work trip, and it's nowhere near that cold.  Not that it matters.  I don't have a top to take off of the rental car, and I can pretty much handle whatever temperature I get between the hotel front door and the car, and from the car into the building.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I'm on yet another work trip, and it's nowhere near that cold.  Not that it matters.  I don't have a top to take off of the rental car, and I can pretty much handle whatever temperature I get between the hotel front door and the car, and from the car into the building.<br />
 <br />
 What I have more difficulty with is dressing myself for trips.<br />
 <br />

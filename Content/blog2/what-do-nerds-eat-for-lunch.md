@@ -1,4 +1,5 @@
 ---
+title: What do Nerds Eat for Lunch?
 date: 2010-02-02 10:16
 description: A description of my post.
 tags: the-office
@@ -31,4 +32,4 @@ Let's go to Wikipedia:
 Well, I hope I would be able to hang in the "we'll see where we go from there" part of the conversation, because I don't see myself elaborating on the nuances of Liskov.
 
 Unfortunately, I have something that I have to do at lunch today.  But hey, it's nice to be invited.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>

@@ -1,4 +1,5 @@
 ---
+title: Golf Fashion
 date: 2007-09-04 15:36
 description: A description of my post.
 tags: sports

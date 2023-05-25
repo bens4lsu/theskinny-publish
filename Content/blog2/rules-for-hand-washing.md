@@ -1,4 +1,5 @@
 ---
+title: Rules for Hand Washing
 date: 2011-08-21 10:21
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ We all know that you should wash your hands after using the toilet.  Unsaid, but
 Not surprisingly, the specific rules differ depending on whether you've gone #1 or #2.  (Let's face it, when you go #2, there's just the thinnest, flimsiest piece of material in the world between your hand and poop.)
 
 It's okay to NOT wash your hands, no matter which number you've gone when...
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <ul>
 	<li>You're in a port-a-john.  Obviously, there's not much choice in the matter here.  I'm reminded of one particularly crowded football tailgate.  By game time, one of the port-a-john's was so full, that the fluid was right up to the very top of the seat.  There was even that millimeter of fluid that sticks up even higher than the containing vessel, whatever that's called.  Atop it all floated a giant turd, left by God-knows-who.</li>
 	<li>Right before a shower.  If you're just hopping in the shower anyway, we presume your hands will get clean in there.</li>

@@ -1,4 +1,5 @@
 ---
+title: Fish Story
 date: 2005-06-14 09:04
 description: A description of my post.
 tags: uncategorized,stories
@@ -7,7 +8,7 @@ id: 123
 I went on a fishing trip last week.  We went out to a marsh in the middle of nowhere Wednesday evening, and spent the time fishing off the dock, grilling steak, and drinking beer.  On Thursday, we took a guided charter out around barrier islands and caught fish all morning.  It's a good way to spend a day and a half.<br />
 <br />
 When we got out there on Wednesday, we had company on the pier.  There was a older guy and his new wife, who locked their keys in their car in their excitement to catch fish.  There was also a guy with a little coon ass girl, who started running smack as soon as I started fishing.
-<!--more--><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/EdBeer.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Eddie drinks beer and cooks steak.</b></font></td></tr></table><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/EdBeer.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Eddie drinks beer and cooks steak.</b></font></td></tr></table><br />
 <br />
 (Put that annoying Cajun accent on a little girls voice in your head):  "What you doing?  You killin him," she said, as I tried to dig a deep hook out of the mouth of a trout.<br />
 <br />

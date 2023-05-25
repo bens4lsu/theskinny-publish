@@ -1,4 +1,5 @@
 ---
+title: Thailand Travel Log:  It's a Long Ride
 date: 2004-03-31 07:58
 description: A description of my post.
 tags: travel,blogs-i-read-once-in-a-while

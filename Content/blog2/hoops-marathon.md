@@ -1,4 +1,5 @@
 ---
+title: Hoops Marathon
 date: 2010-11-19 12:00
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 901
 When I saw that ESPN was going to televise 24 hours of straight live basketball, I thought it might make for a good opportunity to blog.  I figured I could work in front of the games, pausing from time to time to make fun of whoever is playing at 2:00 in the morning, tedious overplayed commercials, etc.
 
 I gave it a good go, but hour after hour of games that you don't care about gets pretty old.  Also, it happened on a day where I had a lot going on and a lot of work to do.  But here's what I did write thoughout the 24-hour period:
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <div style="margin-left:4em">November 15, 8:39 PM:  There's almost no chance that I catch the first tipoff at midnight. In fact, I probably won't catch halftime of Monday Night Football. I was up at 4:30 this morning for some unfathomable reason, and I plowed through a busy day and even ran for an hour. An Eagles blowout over the Redskins won't keep me up. 
 
 November 16, 4;19 AM:  Just woke up and turned on the live game. This is really the most interesting time. Who do they get to play at such an awful hour?  Unfortunately, my glasses are in the bathroom, so I don't have a clue. It's a team in black and a team in yellow.

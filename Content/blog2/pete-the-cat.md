@@ -1,4 +1,5 @@
 ---
+title: Pete the Cat
 date: 2007-05-19 08:33
 description: A description of my post.
 tags: stories
@@ -8,7 +9,7 @@ When we were at the French Quarter Festival a few weekends ago, we went into a c
 in places of local interest.  For example, there's one of the cat sitting on the statue in Jackson Square.
 
 There are also some where the cat is added in take-offs of more famous art.  There's the cat stretching his paw to meet God's hand on his take of the Sistine Chapel ceiling.  There's MC Escher drawing himself in the reflective ball with Pete on a chair in the background.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/pete_miscalc.jpg" width="370"></td></tr><tr><td class="caption" width="250">My old gray friend Oscar did this to our armior many years ago (when it was new).</td></tr></table>
 
 I'm writing this post while without internet access (odd, I know), and I don't remember the guy's name.  But he was a super-nice guy, and interesting to boot.  He looks the part of "hippie who never left the 70s," but he's actually a retired electrical engineer.  Educated at Auburn, so probably not a very good electrical engineer (I'm an EE grad from LSU, you know), but one of us nevertheless.

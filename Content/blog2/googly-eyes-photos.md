@@ -1,4 +1,5 @@
 ---
+title: Googly Eyes Photos
 date: 2010-04-15 16:15
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 770
 Suppose you have a four year old in the house.  And suppose that from time to time, your four year old's behavior leads to a punishment where the whole family forgoes television for the entire night.  You might normally end up cooking together and listening to music and having a good night, but sometimes, you might find yourself in need of an activity.
 
 Just on a lark, I found that doing a photo essay of a small toy, placed in oddball positions around the house was a lot of fun.  We started by shooting pictures of the toy on our heads.  Then, we moved him (not it) to different spots in the house.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 "Him" is actually Googly Eyes, a small rubber finger puppet.  He was a gift from Shelly, along with a similar monster finger puppet called Hairy, or perhaps Harry.  I haven't seen Hairy in a while.
 
 This is also a cool way to play around with different camera settings and with different lenses.  If you don't use all those features, you forget how to get back to them when you need them.

@@ -1,4 +1,5 @@
 ---
+title: Questions for the Bald Guy
 date: 2004-08-06 15:40
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ The novelty of me shaving my head has finally worn off.  My hair actually grows 
 When you show up with no hair, everyone's a comedian.  Some questions are good, and some are bad.  The comparisons to other bald people are mostly pretty good.  (More on that in a day or two.  Look for a new page.)<br />
 <br />
 Here are the questions that I'm asked most commonly.
-<!--more--><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=center><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=375><img src="/img/benbald.jpg" width=325 aborder=0 vspace=4/></td></tr><tr><td width=375><font face="verdana, arial, geneva" size=1 color=#666666><b>That there's one ugly son of a gun.</b></font></td></tr></table><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=center><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=375><img src="/img/benbald.jpg" width=325 aborder=0 vspace=4/></td></tr><tr><td width=375><font face="verdana, arial, geneva" size=1 color=#666666><b>That there's one ugly son of a gun.</b></font></td></tr></table><br />
 <br />
 <ol><b><li />Why did you do that ?</b><br />
 <br />

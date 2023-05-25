@@ -1,4 +1,5 @@
 ---
+title: Hurricane Katrina
 date: 2005-08-31 14:37
 description: A description of my post.
 tags: current-events
@@ -12,7 +13,7 @@ Even before the hurricane, I was behind in my posting, but the events in Louisia
 <br />
 Mrs. theskinnyonbenny woke up with an excitement that I haven't seen in weeks.  I don't think anyone enjoys a hurricane party followed by a good storm more than she does.  <br />
 
-<!--more--><br /><br />I spent the day water sealing the new planter boxes that I built.  The weather was beautiful during the day.  The sky was clear, but there was a good breeze.  After water sealing, I fixed the outdoor speakers.  Mrs. theskinnyonbenny and two of our friends filed in through the day with ice, food, and liquor.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I spent the day water sealing the new planter boxes that I built.  The weather was beautiful during the day.  The sky was clear, but there was a good breeze.  After water sealing, I fixed the outdoor speakers.  Mrs. theskinnyonbenny and two of our friends filed in through the day with ice, food, and liquor.<br />
 <br />
 In the evening, we turned on the weather channel, and started the grill.  We had six people outside.  I have to brag that I made some kick-ass hot dogs.  But I was pretty exhausted, and not really in the spirit.<br />
 <br />

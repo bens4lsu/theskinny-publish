@@ -1,4 +1,5 @@
 ---
+title: Walking Miss Daisy
 date: 2004-06-28 18:44
 description: A description of my post.
 tags: animals
@@ -7,7 +8,7 @@ id: 46
 Last night, while I was walking Daisy, my Ipod ran out of juice.  It was a little different with just the sounds of the night rather than the soundtrack that Ipod chooses for me.<br />
 <br />
 Daisy and I usually walk at 9:00.  I sometimes get asked why we walk at such an odd hour.  Well, here are the reasons:
-<!--more--><br /><br /><ol><p><li>  Usually, the after work walkers have to suffer through weather that is hotter than tarnations.  Later is cooler.</li></p><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><ol><p><li>  Usually, the after work walkers have to suffer through weather that is hotter than tarnations.  Later is cooler.</li></p><br />
 <p><li>  You wouldn't know it looking at me, but once in a while, I work out after work.  Factor in a workout, or catching up at work, or a stop at the grocery store, or something like that, fix dinner, eat, clean the kitchen, etc.  Now, it's already nine, without having had to try to delay.</li></p><br />
 <p><li>  The other foot traffic is really light that time of the night.  This means that there is that much less of the dog-tug-of-war, where two dogs pull towards each other (and the center of the street), while their humans pull and try to keep them away.  I don't care for the dog-tug-of-war.  That's just me.</li></p><br />
 <p><li>  I admit it:  since there are fewer people, I don't scoop the poop.  I know, I'm a crappy neighbor (pun unintentional).  But hey, I don't like picking up dog shit.  And hell (addressing my irate neighbors now), at least dog shit is good for your grass.  Justify the cigarette butts and potato chip wrappers you throw out your windows into my yard.</li></p><br />

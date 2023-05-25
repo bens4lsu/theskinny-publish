@@ -1,4 +1,5 @@
 ---
+title: Return of the Hiphopapotamous (and Ginger Balls)
 date: 2008-11-19 21:22
 description: A description of my post.
 tags: pop-culture

@@ -1,4 +1,5 @@
 ---
+title: Why Gangsta Paradise is Stuck In My Head Today
 date: 2023-05-17 12:49
 description: A description of my post.
 tags: stories,pop-culture,music-pop-culture
@@ -7,7 +8,7 @@ id: 2328
 Back before the days of blogs and digital images, Mrs theskinnyonbenny and I got married and took a follow-up trip to Ireland.
 
 We <a href="https://theskinnyonbenny.com/blog2/archives/113">toured around for a bit</a> and happened to end up in Dublin at the same time that then-president Clinton was in town.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 You young uns won't remember, but back in the day, <a href="https://en.wikipedia.org/wiki/The_Troubles" target="_blank">terrorists would occasionally blow up buildings in Ireland</a> in an effort to unite Northern Ireland (which was and is part of the UK) with Ireland.  Clinton was around to get some credit for some treaty having to do with this little spat.  I could probably be less vague if I read the article that I linked there, but I'm not gonna.
 
 Anyway, more than one Dubliner heard our hillbilly American accents, and naturally asked if we were in town with the presidential delegation.

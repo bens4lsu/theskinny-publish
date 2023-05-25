@@ -1,4 +1,5 @@
 ---
+title: Junior Achievement
 date: 2006-10-25 09:00
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 253
 This week, I did my first stint as a Junior Achievement volunteer.  I was assigned a class of 7th graders at a school right down the street from my house.  
 
 All of the junior high stereotypes were in full play:  the boys who were too cool to participate, the class clowns, the smart pretty girl who kissed my butt.  From what I saw, very little has changed in the junior high classroom in the last 20 years.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 The material I was supposed to go over with the kids was about how immigration in the 1800s led to such huge population growth, and to a lesser extent, how adding all those workers to the economy was the first step to our nation's prosperity.
 
 We covered the impact of immigrants from Scandinavia, Germany, Italy, China, and Ireland.  What made them come, where they settled, and we laid some stereotypes about what they came here to do.  

@@ -1,4 +1,5 @@
 ---
+title: Questions for Tom
 date: 2005-03-17 13:25
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 105
 I suppose that some of you know that my employer was recently acquired by Equifax.  This is my first experience working for a big giant company, and I eagerly await the day that this site gets me fired.<br />
 <br />
 Anyway, the new CEO, Tom Chapman came by the office this week to give us the Equifax song and dance and to welcome us into the fraternity.  
-<!--more--><br /><br />I use the word fraternity, because we were all issued pledge pins, and a creed that you can memorize for potential rewards.  I can't wait until initiation when they teach us the Equifax secret handshake!<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I use the word fraternity, because we were all issued pledge pins, and a creed that you can memorize for potential rewards.  I can't wait until initiation when they teach us the Equifax secret handshake!<br />
 <br />
 Anyway, Tom put on a presentation, and then fielded questions.  He did a good job on both, I thought.  But he didn't answer every question.  He didn't answer the ones that we didn't have the balls to ask in the first place:<br />
 <br />

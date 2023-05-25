@@ -1,4 +1,5 @@
 ---
+title: Victory Over Japan Day
 date: 2006-08-14 09:32
 description: A description of my post.
 tags: uncategorized
@@ -11,7 +12,7 @@ I just recently learned that today is a holiday.  Victory Over Japan Day.
 The Philippines?
 
 No.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Guam?
 
 No.  I'll give you a hint.  It's one of the fifty states.

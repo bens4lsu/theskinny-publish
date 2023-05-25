@@ -1,4 +1,5 @@
 ---
+title: What Was With the Brown Guy on the Motorcycle?
 date: 2009-11-18 21:31
 description: A description of my post.
 tags: pop-culture
@@ -17,7 +18,7 @@ Here's a partial list of things that I used to do before I had a kid:
 	</li><li>Maintain a clean house for up to two days at a time</li>
 	<li>Post regularly to my blog</li>
 </UL>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 In the case of lost luxuries, there are substitutes, and one learns to make do.  For example, instead of movies, there are television shows with plots that have conflict and resolution all wrapped up in a tidy hour.  Instead of exercise, there's getting winded from hauling toys up and down one's own staircase.
 
 Instead of reading, I've mostly switched to audiobooks.  This evening, I was shopping for books, and one of the recommendations was <i>The English Patient</i>.  I remember seeing the movie -- back when I did such things -- and I found it long, boring, and baffling.  I've since thought that it must be a good book, and those who knew the story from the book were the ones who were able to follow and enjoy the movie.

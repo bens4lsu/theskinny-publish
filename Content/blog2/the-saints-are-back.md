@@ -1,4 +1,5 @@
 ---
+title: The Saints are Back
 date: 2007-09-26 06:10
 description: A description of my post.
 tags: sports,my-youth
@@ -7,7 +8,7 @@ id: 327
 Whatever fairy dust or pixie magic floated through the New Orleans Saints season last year has officially been dissipated by the heat and rain of a Louisiana summer.
 
 For the second year in a row, I had the fortune of attending the Monday night home opener.  If you care, you've already seen the highlights and heard or read about what happened on the field.  
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 If you don't care enough to have been paying attention, the Saints have started with three straight losses, and none of them were really close.  The million dollar question is why last year's best offense in the league has suddenly become ineffective.  You might have also missed the "when it rains it pours" note that Deuce McAllister is out for the season, and the pessimistic note that an ACL injury for a running back at his age is often the end of a career.  Man oh man.
 
 Yes, the Saints that we know and love are back.  And so for the first time in franchise history, 30,000 people know how it feels to be on the waiting list to spend hundreds of dollars for season tickets to the crappiest team in the history of the NFL.  

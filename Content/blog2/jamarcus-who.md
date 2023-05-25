@@ -1,4 +1,5 @@
 ---
+title: JaMarcus Who?
 date: 2008-11-05 15:18
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 415
 NFL Stat of the Week:  from the <a href="http://www.nfl.com/gamecenter?game_id=29654&season=2008&displayPage=tab_gamecenter&week=REG9" target="_blank">Oakland Raiders box score last Sunday</a>
 
 77 Total yards.
-14 minute and change time of possession<!--more-->.
+14 minute and change time of possession<span class="spanEndPreview">&nbsp;</span>.
 
 That's probably the most pathetic offensive numbers I've ever seen.
 

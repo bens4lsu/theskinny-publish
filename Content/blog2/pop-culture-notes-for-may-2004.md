@@ -1,4 +1,5 @@
 ---
+title: Pop Culture Notes for May 2004
 date: 2004-05-13 19:53
 description: A description of my post.
 tags: pop-culture

@@ -1,4 +1,5 @@
 ---
+title: Reality TV
 date: 2004-03-03 14:38
 description: A description of my post.
 tags: pop-culture

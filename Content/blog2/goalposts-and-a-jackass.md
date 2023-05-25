@@ -1,4 +1,5 @@
 ---
+title: Goalposts and a Jackass
 date: 2005-11-22 09:30
 description: A description of my post.
 tags: the-office,sports
@@ -9,7 +10,7 @@ It's been over a week since I mentioned college football here, so we're long ove
 I've enjoyed just about every LSU game this season, particularly the overtime wins over Alabama and Auburn.  The Bama win is a fresh memory.  The Auburn win will go down in history as "the missed field goal game."<br />
 <br />
 I have an unfortunate tell, which immediately makes apparent to anyone listening to me the fact that I'm full of bullshit.  That's the only reason that I can't make this claim convincingly:
-<!--more--><br /><br /><blockquote>When I was an Electrical Engineering senior at LSU, we started a project where we would put circuits in the goal posts of the football stadium.  These circuits would be able to use electricity and magnetism to crate a force on footballs, which could divert a poorly kicked ball away from the posts, making it more likely that a kick would miss.</blockquote><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>When I was an Electrical Engineering senior at LSU, we started a project where we would put circuits in the goal posts of the football stadium.  These circuits would be able to use electricity and magnetism to crate a force on footballs, which could divert a poorly kicked ball away from the posts, making it more likely that a kick would miss.</blockquote><br />
 <br />
 Any of you have had 10 conversations with me in the last two years has already closed his browser, having heard this story to the point of nauseam.  But, if you look back at the games, it really seems plausible.<br />
 <br />

@@ -1,4 +1,5 @@
 ---
+title: Please Set Your Blackberry on Fire.  Right Now.
 date: 2007-01-16 08:01
 description: A description of my post.
 tags: the-office
@@ -7,7 +8,7 @@ id: 270
 Several years ago, I was a true corridor crawler, spending all day every day going meeting to meeting to meeting.  We reorganized the company a few years ago, and the resulting structure and physical layout eliminated 90% of the internal meetings that wasted the days away.
 
 In the intervening years, some aspects of meeting culture have changed.  Take, for example, a meeting I was invited to this week where there were about 10 to 12 people from our office and 10 to 12 people from corporate headquarters.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 All of the headquarters people sporting the previous-generation Blackberry.  The guy next to me spent the entire hour clicking away at a distracting 40 words per minute, oblivious to the nasty stares of those around him.
 
 These big gadgets are too wide for the average pocket, so they sport them on their belt clips a la Batman and Robin.  I heard one of my coworkers liken them to carrying around a piece of toast.  It would be a very cool look, if it were only 1996.

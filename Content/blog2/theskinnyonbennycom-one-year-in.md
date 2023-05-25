@@ -1,4 +1,5 @@
 ---
+title: theskinnyonbenny.com:  One Year In
 date: 2004-12-12 21:46
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 79
 When I decided that I wanted to write a web log, it was just the because I wanted to write.  Sure, I could have kept a private journal, and I even tried to do that a time or two.  But as much as I like to read, I don't really like to read my own writing.  I know that doesn't make much sense, but that's the way it is.  The idea of writing pages of stuff into a journal that no one would ever read seemed rather silly to me.<br />
 <br />
 My idea to write a web-based journal started a few years ago.  It just stayed at the idea stage for a year or two.  I kept a travel log on my first trip to Thailand, and the few people who read it seemed to like it.  On second thought, I don't really know that, but at least they read the whole thing, so it seemed promising.  For the next year, I had ideas about adding lots of photos and videos and building a site that lots of people would visit.  Last fall, I decided to do it for real.  In December, I bought the "theskinnyonbenny.com" domain, and I went live in January.
-<!--more--><br /><br />One thing that never inspired me is other people's web logs.  I never really looked at any others until very recently.  Mine certainly isn't typical.  The typical site has a professional look and feel that puts mine to shame, but the posts are either short, pointless comments in the dark, or they are a rambling meaningless mess.  Of course there are some exceptions.  I have read some others the weekend that are very good.  <br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />One thing that never inspired me is other people's web logs.  I never really looked at any others until very recently.  Mine certainly isn't typical.  The typical site has a professional look and feel that puts mine to shame, but the posts are either short, pointless comments in the dark, or they are a rambling meaningless mess.  Of course there are some exceptions.  I have read some others the weekend that are very good.  <br />
 <br />
 <table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></td><td width=275><img src="/img/sanjuan.jpg" height=200 width=275 aborder=0 vspace=4></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>This is a photo from my recent trip to Puerto Rico.  It has nothing to do with this post.  I just like having a picture embedded in my blog entry from time to time.</b></font></td></tr></table><br />
 <br />

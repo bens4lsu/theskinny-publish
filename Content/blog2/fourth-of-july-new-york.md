@@ -1,4 +1,5 @@
 ---
+title: Fourth of July, New York
 date: 2006-07-06 21:01
 description: A description of my post.
 tags: travel,pop-culture
@@ -9,7 +10,7 @@ Twice on the Fourth of July, I got called a big fatty.
 The first time, I was handling my gut -- grabbing handfuls and jiggling it up and down while seated.  Putting this in writing makes me realize that it's odd behavior, but I'm sure it was to make some point or other.  Amanda asked, "Goodness, you aren't riding your bike any more?"
 
 The embarrassing part is that I have indeed been riding some.  
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 The other time was even less expected.  I was coming from the front of the house after resetting a song back to its beginning.  I had done that because I had taken too many Pisco Sours (more on that later), and wanted to dance a little, and this song was striking me right.  As I was shaking my tail on the way back to where all of the people were, I crossed paths with Eddie on his way to the bathroom.
 
 He laughed and said, "Man!  You need to lose some damn weight!"  Apparently my gut was bouncing around like Santa Claus after a Krispy Kreme binge.  Honest friends:  at least I have that going for me.

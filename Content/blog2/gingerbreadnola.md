@@ -1,4 +1,5 @@
 ---
+title: Gingerbread/NOLA
 date: 2014-12-16 21:53
 description: A description of my post.
 tags: uncategorized
@@ -8,7 +9,7 @@ Once in a very great while, I site next to the kids while they are calm and quie
 
 (But I have been meaning to tell you all a story about my friend's German neighbor and the phrase "monkey nuts" for a good six months.  Let this be a tease.  I'll try to get that story posted over the Christmas break.)
 
-In preschool a couple of weeks ago,<!--more--> Kolya's class made gingerbread men.  When they went out to play, the teachers hid them, and they told the kids that the cookies came to life, ran around the classroom, and dared the kids to find them.  The kids looked all over, inside and out, and they couldn't find the runaway gingers.
+In preschool a couple of weeks ago,<span class="spanEndPreview">&nbsp;</span> Kolya's class made gingerbread men.  When they went out to play, the teachers hid them, and they told the kids that the cookies came to life, ran around the classroom, and dared the kids to find them.  The kids looked all over, inside and out, and they couldn't find the runaway gingers.
 
 The teachers asked each of us to send a letter reporting a sighting of our kid's men.  Paul did me the favor of penning this one for me to send in.
 

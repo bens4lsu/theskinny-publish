@@ -1,4 +1,5 @@
 ---
+title: Laughing After a Disaster
 date: 2005-09-02 05:45
 description: A description of my post.
 tags: current-events
@@ -7,7 +8,7 @@ id: 137
 There are blogs aplenty if you want to read about how horrible the hurricane damage and evacuation to Baton Rouge is.  And other than mentioning that I still have no electricity, I won't complain today.  Or at least, I won't complain here.<br />
 <br />
 Instead, I want to compile a list of the amusing things that happened this week.  If you have your own story to share, please <a href="mailto:bens@theskinnyonbenny.com">email me</a>, and I'll pass it on.
-<!--more--><br /><br />But first, let me mention that there is a small arena at LSU that gets used for livestock shows, garden shows, and the occasional rodeo.  Now, it is set up as a shelter for all of the animals that people took on their evacuation but aren't allowed to keep wherever they are staying.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />But first, let me mention that there is a small arena at LSU that gets used for livestock shows, garden shows, and the occasional rodeo.  Now, it is set up as a shelter for all of the animals that people took on their evacuation but aren't allowed to keep wherever they are staying.<br />
 <br />
 We went by there last night to take a stack of old newspapers.  It was nice.  The animals are taken care of by Veterinary students, and they are let out to play on the arena floor.  If you're in Baton Rouge and have the time, drop by with your leftover dog food, newspapers, bowls, kennels, or just by the students lunch.<br />
 <br />

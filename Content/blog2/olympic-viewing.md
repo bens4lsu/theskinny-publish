@@ -1,4 +1,5 @@
 ---
+title: Olympic Viewing
 date: 2008-08-21 22:12
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 388
 I heard that Michael Phelps has something like 40 or 50 million dollars worth of endorsements lined up for him when he returns home.  That's an example of marketing dollars badly spent, and I'll tell you why.
 
 First and foremost, 85% of the people in the world will forget all about Phelps as soon as they blow out the Olympic flame at the end of the closing ceremonies Sunday.  The last 15% will forget him altogether four days later, as the king of all sports (college football) kicks off once again.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 That leaves a statistically insignificant number of swimming nerds who might remember Michael Phelps and care what he endorses, and those people have paid enough attention to see that he comes across as a dick.  Not only that, but if you stick around for one of his interviews, you realize that he's possibly as stupid as a career gas station attendant.  He speaks in grunts and all marble-mouthed, and if you're lucky enough to fail to understand his words, you're sparing yourself a large amount of inane blather.
 
 If I were spending millions on someone to shill my product, that person better have Magic Johnson charisma.  Shawn Johnson had that Magic smile and held herself together well in an interview with Bob Costas in prime time.  I think I'd throw my money that way, if I thought I needed an Olympian.

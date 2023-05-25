@@ -1,4 +1,5 @@
 ---
+title: Oatmeal Cookie Chunk
 date: 2004-06-14 06:59
 description: A description of my post.
 tags: food
@@ -6,7 +7,7 @@ id: 40
 ---
 Why donï¿½t any  of the stores carry Ben and Jerryï¿½s Oatmeal Cookie Chunk Ice Cream?  Most of the convenience stores, drug stores, and all of the grocery stores carry Ben and Jerryï¿½s flavors, but for some reason, they select and choose what flavors to carry.<br />
 
-<!--more--><br /><br /><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><br />
 I had the opportunity to tour the B&J facility last summer, so of course, Iï¿½m an expert now.  It turns out that stores can order as few as six pints of a particular flavor.  It seems to me that thereï¿½s no risk in ordering six pints.  If you stuck a Ben and Jerryï¿½s label on a pint of ice cream called ï¿½Cat Litter Swirl,ï¿½ you would still find six people to give it a try.<br />
 <br />
 But Oatmeal Cookie Chunk is no Cat Litter Swirl.  It really does taste like a good oatmeal cookie, with the obligatory milk flavor already there from the sweet ice cream.  It has a good cinnamon flavor, as I recall.  Instead of raisons, it has chunks of chocolate.<br />

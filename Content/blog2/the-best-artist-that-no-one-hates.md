@@ -1,4 +1,5 @@
 ---
+title: The Best Artist That No One Hates
 date: 2018-12-05 11:46
 description: A description of my post.
 tags: pop-culture,music-pop-culture
@@ -7,7 +8,7 @@ id: 2206
 I was at the dentist last week, forced into captive listening to the light rock radio station in town for the first time since the last time my teeth were cleaned.  I like to pretend that the hygenist is a torturerer, trying to get important secrets out of me.  I urge the government to never entrust me with important secrets, because event though the metal hook probing my tender, neglected gums feels kind of good, my brain is still screaming, "I'LL TALK!  I'LL TALK."
 
 The music this particular day started surprisingly good.  We started with Kings of Leon followed by Imagine Dragons.  It had me wondering whether I was such and old dad that I might need to dedicate a preset button to the light rock channel.  I've forgotten who was up third, but I remember thinking that it wasn't bad.  Up fourth was the inevitible airing of Phil Collins's "In the Air Tonight."  No one has been to the dentist and <i>not</i> heard In the Air Tonight since 1987.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I understand that the dentists have to limit their playlists music that no one dislikes.  For the past week, I've been trying to mentally think of the best artist you could choose, with the caveat that no one dislikes the music.  You immediately have to strike,
 
 <ul><li>hard rock (sorry Van Halen and Jane's Addiction -- maybe the best two rock bands period),</li>

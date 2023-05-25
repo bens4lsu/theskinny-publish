@@ -1,4 +1,5 @@
 ---
+title: Pajama Pants
 date: 2004-09-21 15:47
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 62
 For a couple of weeks now, I have failed to mention my fight with a four year old over pajama-bottoms.  No one has ever accused me of being the most mature grown-up in the crowd, but I proved over the Labor Day weekend that I can be as childish as, well, as a real child.<br />
 <br />
 I don't guess it matters how we got into the situation, but Jake needed some clean pajama pants, and I was the one dispatched to get them.
-<!--more--><br /><br />Annika went up to his room with me, purportedly to help me find the pajamas, but in her own mind, her mission was more sinister.  She had a very deep, primal, inner need to keep her brother from putting on clean pajamas.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Annika went up to his room with me, purportedly to help me find the pajamas, but in her own mind, her mission was more sinister.  She had a very deep, primal, inner need to keep her brother from putting on clean pajamas.<br />
 <br />
 First, she tried to distract me.  She wanted to show me something in her room.  I wouldn't bite.<br />
 <br />

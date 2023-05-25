@@ -1,4 +1,5 @@
 ---
+title: West, TX
 date: 2013-04-19 13:58
 description: A description of my post.
 tags: uncategorized

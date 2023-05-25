@@ -1,4 +1,5 @@
 ---
+title: It's What's for Dinner
 date: 2011-04-29 13:42
 description: A description of my post.
 tags: sports
@@ -9,7 +10,7 @@ Several months ago, a journal called <i>Washington City Paper</i> -- which is re
 All of this led to a huge amount of traffic that the paper would have never otherwise received.  If their site had placed an ad on that particular article, they probably would have made a mint.
 
 So theskinnyonbenny.com hereby declares this a researched and factual statement:
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <div style="padding-left:5em; font-weight:bold">Washington Redskins owner Dan Snyder eats the flesh of aborted fetuses.</div>
 
 <div style="display:block; margin:auto, 0;"><script type="text/javascript"><!--

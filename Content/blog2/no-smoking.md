@@ -1,4 +1,5 @@
 ---
+title: No Smoking
 date: 2005-07-20 06:50
 description: A description of my post.
 tags: uncategorized,stories
@@ -7,7 +8,7 @@ id: 128
 <div><br />
 I would like to meet the person who came up with, "Thank you for not smoking," just so that I can call him a pussy to his face.</div><br />
 
-<!--more--><br /><br /><div>Think about it.  Better yet, read it out loud and slow:  "Thank you for not smoking."<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><div>Think about it.  Better yet, read it out loud and slow:  "Thank you for not smoking."<br />
 <br />
 You are actually pretending that the smoker checked to see if smoking was allowed, and even worse, you actually <i>thank</i> the smoker.  <br />
 <br />

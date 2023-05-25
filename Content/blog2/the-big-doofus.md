@@ -1,4 +1,5 @@
 ---
+title: The Big Doofus
 date: 2006-10-24 10:07
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 252
 I have a friend, who works for a guy that I will refer to only as "The Big Doofus" for the remainder of this post.
 
 The Big Doofus works for a company with corporate headquarters in California.  So I guess he has to fly to corporate for meetings every now and then.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 One thing that most Baton Rouge residents know is the availability of flights from our airport.  You can take Northwest to Memphis, Continental to Houston, American to Dallas, or Delta to Atlanta.  That's it.  No other choices.
 
 It just so happens that three of the four --Continental, Delta, and Northwest -- share frequent flyer miles and elite customer programs between each other.  So most of the business travelers in town pretty much stick to these three.  (It doesn't help American that their service really, really sucks in and out of Baton Rouge, and that they want you to pay $2 for your bag of pretzels.)

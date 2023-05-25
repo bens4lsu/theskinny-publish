@@ -1,4 +1,5 @@
 ---
+title: Unintentional Snazziness
 date: 2005-05-13 07:25
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 117
 The other day, I came in to work, and was told that I look "snazzy."  From my perspective, I looked like I always look, but there must have been something different that day.  I like the thought of "unintentionally snazzy" being a phrase to describe me, though.<br />
 <br />
 I think that most men look in the mirror and see an above-average guy looking back at them.  In half the cases (obviously, since we're comparing to average), they are wrong.  In my case, I am oh-so right.
-<!--more--><br /><br />Here's a story to illustrate:  A coworker of mine had posted on the wall of her cube, a nice little drawing of her granddaughter.  One week, while she was out of town, I hung a photograph of myself over that drawing.  She left it covering the little girl's picture for a months.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Here's a story to illustrate:  A coworker of mine had posted on the wall of her cube, a nice little drawing of her granddaughter.  One week, while she was out of town, I hung a photograph of myself over that drawing.  She left it covering the little girl's picture for a months.<br />
 <br />
 <table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/annscube.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Ann's cube wall, in its current state.  That's me on the left, and the picture that I hid for months on the right.</b></font></td></tr></table><br />
 <br />

@@ -1,4 +1,5 @@
 ---
+title: Rock-Paper-Scissors
 date: 2004-06-16 15:13
 description: A description of my post.
 tags: uncategorized
@@ -9,7 +10,7 @@ This morning on Sports Center, we got a three-second snippet on the Rock-Paper-S
 One thing to know about me is that I think mathematically and logically.  And with that thinking, Rock-Paper-Scissors is a fair game of chance.  It should be as predictive and as fair as a coin toss, or cutting for the higher card.<br />
 <br />
 Try as I do to believe that this is the case, my real-world experience with RPS proves this to be false.  
-<!--more--><br /><br />I know this because Mrs. skinnyonbenny and I use RPS to decide who does what undesirable task around the house, and time after time after time, I lose the goddamn game.  Sure two computers will play, and each will win 1/3 of the time, lose 1/3 of the time, and tie 1/3 of the time.  But humans aren't computers.  We have tells.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I know this because Mrs. skinnyonbenny and I use RPS to decide who does what undesirable task around the house, and time after time after time, I lose the goddamn game.  Sure two computers will play, and each will win 1/3 of the time, lose 1/3 of the time, and tie 1/3 of the time.  But humans aren't computers.  We have tells.<br />
 <br />
 So, these losers from all over have figured out that adding a human element to RPS allows you to develop strategy, read opponents, etc.  Believe me, I would be the first to scoff at this as total nonsense if I didn't lose time after time.  I've asked if I silently mouth "P A P E R" in slow motion as I beat my fist on my palm.  I don't think it's that obvious, but it whatever it is, it's pretty darned clear.<br />
 <br />

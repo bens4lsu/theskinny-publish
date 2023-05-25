@@ -1,4 +1,5 @@
 ---
+title: Random Thought
 date: 2016-12-28 11:25
 description: A description of my post.
 tags: things-i-just-dreamed-up

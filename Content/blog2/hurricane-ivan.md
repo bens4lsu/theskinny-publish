@@ -1,11 +1,12 @@
 ---
+title: Hurricane Ivan
 date: 2004-09-16 08:49
 description: A description of my post.
 tags: current-events
 id: 60
 ---
 Gratefully, Hurricane Ivan turned out to be a non-event for Baton Rouge.  Yesterday was the day of anticipation.  The storm was due to hit land in the evening.  I was whipped all day long.  After my 3:30 - 7:30 AM journey to secure Velvet Elvis, I headed in for a full day of work.  Needless to say, I was dragging ass, with red eyes from lack of sleep and dirty contacts.
-<!--more--><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/hurricaneparty.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The Hurricane Party Started Without Me</b></font></td></tr></table><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/hurricaneparty.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The Hurricane Party Started Without Me</b></font></td></tr></table><br />
 <br />
 When I got home, there was a small hurricane party in full swing.  Instead of a nap, I got a cheerful, "now you can cook the burgers!"  Oh well, I drank a beer or two, and started the charcoal.<br />
 <br />

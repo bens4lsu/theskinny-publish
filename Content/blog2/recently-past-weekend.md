@@ -1,4 +1,5 @@
 ---
+title: Recently Past Weekend
 date: 2007-05-22 23:42
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 299
 Mrs. theskinnyonbenny often complains that we don't get invited anywhere.  This isn't true, but it's a complaint that she likes to fall back on when we hit a Friday or Saturday night with nothing to do.
 
 The weekend before we left for Russia (two weekends ago, now) was especially busy.  Not with getting ready to travel, but with stuff that we were invited to do.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 On the previous Friday, we had talked to our friend Elton at a crawfish boil.  He was excited to see Kings of Leon play at the house of Blues next Friday, but didn't know anyone who wanted to go with him.  Mrs. theskinnyonbenny mixed up Kings of Leon with someone else, and proclaimed that I was a big fan, and sure -- we're in.
 
 I knew of KOL, but for some reason, my mind had them filed with the sea of indistinguishable generic alt-rock bands.  Right on in there with Good Charlotte and anyone who's ever been on an American Pie soundtrack.  

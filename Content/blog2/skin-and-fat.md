@@ -1,4 +1,5 @@
 ---
+title: Skin and Fat
 date: 2006-07-24 08:28
 description: A description of my post.
 tags: food
@@ -7,7 +8,7 @@ id: 230
 Have you ever seen the Discovery Channel show, <a href="http://dsc.discovery.com/fansites/dirtyjobs/splash.html" target="_blank"><i>Dirty Jobs</i></a>?  The jist of it is a guy who goes and does really nasty jobs that real people have.
 
 There was a close-to-home episode that premiered last week.  The episode is titled "Skull Cleaner," but before we got to the stripping of skin, tendons, and brains from animal skulls, the host (Mike) went to a couple of those coon-ass meat shops to learn how to cook Louisiana-style.  Mike explained that they were going to make boudin and cracklins.  "Boudin is a kind of... sausage?  Cracklin is...I don't know...."
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Some old guy called Rocky explained that cracklins were fried ham skin/fat, and that boudin was boiled liver stuffed into an intestine.  That made the boudin sound a lot grosser than it rally is.  
 
 Naturally, they highlight the nasty part of a job, but even so, it wasn't really as gross as I had expected.  First, he made boudin.  (For out-of-staters, I would describe it as dirty-rice dressing stuffed into a sausage casing.  Yes ladies, when you eat a good piece of sausage, you are eating intestine.  Don't sweat it.)

@@ -1,4 +1,5 @@
 ---
+title: Old Pictures
 date: 2007-07-24 22:27
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 312
 As I was digging for the photo of me with Bob Barker's star on the Hollywood walk of fame (which may or may not be included on my next post), I found a bunch of old photos from the days before I was digital.  I took some time to scan a handful of them, realizing that it is nothing short of untapped treasure.  They will be posted as photos of the day intermittently through the rest of the summer.
 
 I didn't go through each and every photo in the bin, but I saw enough to know that there were a few themes.  For example, the group photos of the same ladies with some Las Vegas backdrop or other.  If I ever have enough time and inclination, I'm going to create a big panorama of Mrs. theskinnyonbenny, Crystal, Stacie, Lisa, and any additional hangers-on from the particular year, and we can all watch them age, year after year in front of yet another fountain, bar, blackjack table, or alley of decrepit winos.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Similarly, there's the annual (or more frequent in earlier years) picture of Eddie with shirt untucked, spillage everywhere, and eyes bugged out with drunkenness.  If I knew how, I would turn them into an animated gif, and we could all watch drunk Eddie lose his hair in front of our eyes.
 
 And of course, you can watch me age, all the while dressed as hideous looking women on Halloween.  I promise not to spare myself.

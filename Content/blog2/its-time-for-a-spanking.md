@@ -1,4 +1,5 @@
 ---
+title: It's Time for a Spanking
 date: 2004-02-11 18:55
 description: A description of my post.
 tags: stories,favorite-posts

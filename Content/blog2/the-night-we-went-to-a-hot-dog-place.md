@@ -1,4 +1,5 @@
 ---
+title: The Night We Went to a Hot Dog Place
 date: 2010-05-20 17:03
 description: A description of my post.
 tags: travel
@@ -9,7 +10,7 @@ Last night, Mrs. theskinnyonbenny told Vanya to stop doing something or other.  
 That's how I'm feeling about my blog this month.  I've got nothing -- and I mean absolutely nothing -- new going on that would be at all interesting to anyone.  Not that this stops me from writing most other months, but for some reason, it is right now.
 
 On the other hand, I have a few notes on ideas to blog about that have gotten added and ignored for months.  So I suppose I could go back to one of those.  
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 One night when we were in New York, Amanda and Clay took our kid back to the hotel with them, leaving the rest of the grown-ups free to try a bar that Mrs. theskinnyonbenny had heard of.  The bar was called PDT (standing for Please Don't Tell), and going there definitely made you feel like a hotshot.
 
 To get in, you have to phone their unlisted number that afternoon.  You can't call before 3:00, and by 3:15, they're booked up for the night.  Those of my approximate age will remember dialing their university's telephone registration system for scheduling classes.  Redial - busy signal - redial - busy signal - redial - busy signal - redial - busy signal - redial - busy signal.  You got to where the muscle memory was automatic, and then you got three seconds of stupidity, when your brain couldn't figure out what to do when the sound on the line was something other than the busy signal.

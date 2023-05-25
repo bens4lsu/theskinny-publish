@@ -1,4 +1,5 @@
 ---
+title: My Magic Hat
 date: 2004-10-05 18:49
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 65
 I guess the magic in my dirty blue hat is gone.  There's no doubt that the magic existed, but there's also no doubt that it isn't there any more.  Let's review the history of the magic hat.<br />
 <br />
 I bought the hat as a souvenir in Maine last August.  It was a nice hat.  Nothing special, but I liked it.  I had also bought a hat at the track in Saratoga on that same trip.  Again, it was nothing special.
-<!--more--><br /><br />When we returned home, I had to make a decision about which hat would be the one to wear most of the time.  This gives the hat the honor of being on my dome more often, but it also means that it gets caked with dirt, soaked in sweat, and is subject to being used as a napkin for french fry grease or epoxy.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />When we returned home, I had to make a decision about which hat would be the one to wear most of the time.  This gives the hat the honor of being on my dome more often, but it also means that it gets caked with dirt, soaked in sweat, and is subject to being used as a napkin for french fry grease or epoxy.<br />
 <br />
 <table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/magichat.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The magic hat used to be blue, but it appears here in its current color:  dingy.</b></font></td></tr></table><br />
 <br />

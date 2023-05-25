@@ -1,4 +1,5 @@
 ---
+title: Puke, Strawberries, and Animals
 date: 2006-04-10 06:45
 description: A description of my post.
 tags: animals,stories,pop-culture
@@ -7,7 +8,7 @@ id: 202
 I have a little bit of news about things that happened over the weekend, but first, I have an entertainment note.
 
 I noticed a trend in television this week that I doubt any others will point out.  In the course of <i>one</i> week, I have witnessed no less than three realistic-looking vomitings on scripted television shows.  I can't remember which show started the trend (<i>Lost</i> maybe?), but it was followed by last week's episode of <i>Huff</i>, and then capped by a multiple Tony Soprano puking last night.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I know all of these episodes were filmed months ago, so they aren't copying each other.  My theory is that someone in Hollywood came up with a device that allows the simulation of a very realistic looking puke, and successfully pitched it to a lot of TV execs.  I don't really watch too many shows in a week, so if I extrapolate, I have to believe there were more than a dozen characters blowing chunks on TV last week.
 
 Back to my weekend.

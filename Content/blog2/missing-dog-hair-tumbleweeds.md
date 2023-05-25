@@ -1,4 +1,5 @@
 ---
+title: Missing Dog Hair Tumbleweeds
 date: 2013-04-02 10:52
 description: A description of my post.
 tags: animals
@@ -7,7 +8,7 @@ id: 1615
 Hearts are heavy in theskinnyonbenny house today.  For a reason that can't be definitely determined, dumb sweet Blossom's lungs filled with fluid, and made breathing very difficult.  The vets did all they could, but there was nothing they could do to fix her, or even to offer any hope of real improvement.
 
 We drove to the LSU Vet School last night.  Campus was dark and quiet, in the middle of Spring Break.  It was a weird feeling to pass through the scene of 20 years of amazingly good memories, on our way to one of the worst things we have to do.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Blossom was resting in an oxygen cabinet, connected to an IV, with the waveform/beep machine that is familiar to all of us from TV medical dramas.  It took her a minute to sense our smell, and when she identified it, her head popped up.  I know she was happy to have us there.  The end was fast and peaceful.  I just wish there was more that we could have done.
 
 Rest in peace, sweet friend.

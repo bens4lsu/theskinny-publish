@@ -1,4 +1,5 @@
 ---
+title: Thoughts About 3 Songs From The 80s
 date: 2017-05-12 12:00
 description: A description of my post.
 tags: music-pop-culture
@@ -9,7 +10,7 @@ We are driving to school.  Close to being able to drop V off.  We've been side b
 For the 6th or 7th time in the hour, we land on the hip-hop oldies channel.  It's "Banned in The U.S.A" by 2 Live Crew.  We keep it on.
 
 Maybe it's the current state of national affairs.  Maybe it's that I'm a sucker for stories where the little guy sticks it to those who make the rules.  I was tickled pink by <i>The People vs Larry Flynt</i>, <i>Private Parts</i>, and <i>Straight Outta Compton</i>, despite not being a big fan of Hustler or Howard Stern.  (I do like a little N.W.A. now and then.)  
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 But it strikes me that "Banned in the U.S.A" is a really good, and a very patriotic song.  It's much more patriotic in its expression of "no one can trample on our right to free speech in this country" than the song it samples/spoofs.  Politicians love to play the Boss's "Born in the U.S.A." at their events, presumingly having never listened to the lyrics.  For you youngsters, it's an 80s hit about a guy who returns from was just to be shit on by an America who doesn't really care about his sacrifices.  Again, it's hard not to think of current events.
 
 I try to bring my mind back to the 80s. I was a member of the generation whose parents were losing their damned minds over the music.  "Satanic lyrics" was in the news night after night.  Record banning was the cause of the day.  Three kids in West Memphis got convicted of murder with the only real evidence being that they liked to listen to metal and the adults were scared shitless.

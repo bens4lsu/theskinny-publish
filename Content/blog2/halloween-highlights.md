@@ -1,4 +1,5 @@
 ---
+title: Halloween Highlights
 date: 2007-11-06 01:24
 description: A description of my post.
 tags: young-ruski
@@ -7,7 +8,7 @@ id: 333
 As you might have guessed, we did our first kid-Halloween this past Wednesday.  Since our house gets about six groups a year -- and all of those are teenagers without costume -- we drove over to our friends' neighborhood.
 
 It turns out that they live a block away from an area that takes the holiday VERY seriously.  There were people pulling hay wagons full of kids with four-wheelers, lights and moving decorations all over, and enough sugared-up little people to make you look for the beginning of the yellow-brick road.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Vanya enjoyed the crowd and all, but it took him a little while to get the drift of what was happening.  At first, he thought he was just supposed to follow the bigger kids up the walk, and then when they would turn to go back toward the road, he would do the same, missing out on his chance for candy.
 
 After a few houses, he got the idea that whatever the people were dropping in his sack was something to be coveted.  I'm not sure he ever figured out that it was candy.  Always a nice kid, there were a couple of times where he set his bag down, reached in, and pulled out an exchange offer for the grown-up in front of him.

@@ -1,4 +1,5 @@
 ---
+title: Purging My Innermost Complaints
 date: 2015-05-28 08:51
 description: A description of my post.
 tags: uncategorized,stories
@@ -7,7 +8,7 @@ id: 1970
 I keep hearing something that is turning me into a deranged, foamy-mouthed lunatic.  I'm not sure if this has just started, or if I've just started noticing.  But I keep hearing people say "bolth" instead of "both."  Are these maniacs stooges for the "L" lobby?  
 
 It started out on radio shows, where I shrugged it off as an oddity of a local accent somewhere in these United States.  But then, I heard it more and more.  I even had a friend who kept saying it one weekend when we caught up, and it was all I could do not to strangle him in front of his children.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 
 One day, while I was exercising (that should just about narrow it down to one and only one day), I queued up <a href="http://www.slate.com/articles/podcasts/culturegabfest/2015/04/slate_s_culture_gabfest_on_wolf_hall_bruce_jenner_s_interview_and_avocados.html" target="_blank">this podcast</a>.  The guest host was clearly just trying to get me to crack.  BOLTH the book and the movie.  BOLTH of Bruce Jenner's identities.  Thanks to BOLTH of my co-hosts.  I don't know if those specific examples are legit, but he had to have said that 39 times.
 

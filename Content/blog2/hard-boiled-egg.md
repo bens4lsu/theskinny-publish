@@ -1,4 +1,5 @@
 ---
+title: Hard Boiled Egg
 date: 2011-01-14 15:42
 description: A description of my post.
 tags: food,my-youth
@@ -11,7 +12,7 @@ Being the mollycoddled child that I was, I asked my mom to boil an egg for me.  
 "Go boil one yourself."
 
 "Well, okay.  How do you do it?"
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 "Look it up in <i>The Joy of Cooking</i>."  I got the kitchen equivalent of being told to look up a word in the dictionary when you didn't know how to spell it.
 
 Kids of today will first be amazed at our antiquated way of finding the spelling of a word.  Go pull a book off a shelf.  Then, find the word and confirm how it's spelled.  Perhaps they will think about our ultimate frustration -- if we didn't know how it's spelled in the first place, how the hell were we going to find it in the dictionary.  Regular readers will understand what a horrible challenge this must have been for me.

@@ -1,4 +1,5 @@
 ---
+title: Tired and Sore
 date: 2004-08-12 19:36
 description: A description of my post.
 tags: sports,stories
@@ -9,7 +10,7 @@ I have really put this out of shape body through too much in the past week.  Mon
 Let's take a look at just the first half of last weekend:<br />
 <br />
 
-<!--more--><br /><br /><b>Friday:</b>  Sat around all day.  Made plans to go cycling (that's a bicycle, which you pedal rather than a motorcycle which is easier, but noisier) Saturday morning.  Drank a little bit too much beer after work.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><b>Friday:</b>  Sat around all day.  Made plans to go cycling (that's a bicycle, which you pedal rather than a motorcycle which is easier, but noisier) Saturday morning.  Drank a little bit too much beer after work.<br />
 <br />
 <b>Saturday:</b>  Woke up at 3:00 AM.  Thanked Heaven that I had more time to sleep.  <br />
 <br />

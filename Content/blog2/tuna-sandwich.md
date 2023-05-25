@@ -1,4 +1,5 @@
 ---
+title: Tuna Sandwich
 date: 2006-05-25 07:07
 description: A description of my post.
 tags: food
@@ -9,7 +10,7 @@ Yesterday after basketball at lunch, I went to the Subway on Government street. 
 "I dunno... what are you going to have?"
 
 "I'm going to have tuna!"
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/Subwaytuna.jpg"/></td></tr><tr><td class="caption" width="250">A subway tuna sandwich, with too much additional crap on it, in my opinion.</td></tr></table>
 
 "Well, that sounds good."  To the girl behind the counter, "a foot long tuna on wheat."

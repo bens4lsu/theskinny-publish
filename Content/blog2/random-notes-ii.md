@@ -1,4 +1,5 @@
 ---
+title: Random Notes II
 date: 2005-05-03 06:20
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 112
 I have some stories to tell, but too much clutter in my brain to get to them.  Hopefully, this random list will help clear out some of that clutter.<br />
 <br />
 <ul><li>What's going on, folks?  I've had almost 300 hits on <a href="http://theskinnyonbenny.com/blog/archives/00000034.php">this old page</a> in the past two weeks.  I can't explain the sudden surge in popularity.  If you have a clue to who's forwarding this url in email or why, I'm curious to know.</li>
-<!--more--><br /><br /><li>I also got three hits to <a href="http://www.theskinnyonbenny.com/blog/archives/00000060.php">this old entry</a> in the past couple of days, all from search engine results on the phrase "Sandra Day O'Conner."  I have to think that the people searching for that didn't really want to read about her as a potential sex partner.  I'm also guessing that there is a sudden serge on that name, because people are curious about who Laura Bush ran into at Chippendale's.</li><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><li>I also got three hits to <a href="http://www.theskinnyonbenny.com/blog/archives/00000060.php">this old entry</a> in the past couple of days, all from search engine results on the phrase "Sandra Day O'Conner."  I have to think that the people searching for that didn't really want to read about her as a potential sex partner.  I'm also guessing that there is a sudden serge on that name, because people are curious about who Laura Bush ran into at Chippendale's.</li><br />
 <br />
 <li>Speaking of politics, I saw this chart on <a href="http://wonkette.com">wonkette.com</a>.  I wish I had thought to make it.</li><br />
 <br />

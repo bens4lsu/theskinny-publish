@@ -1,4 +1,5 @@
 ---
+title: Garlic, a Haiku, and a Welcome Message
 date: 2006-10-13 13:10
 description: A description of my post.
 tags: uncategorized,food
@@ -7,7 +8,7 @@ id: 250
 I used to go to <a href="http://www.deangelospizzeria.com/" target="_blank">DeAngelo's</a> for lunch a lot.  Invariably, Mrs. theskinnyonbenny would complain about my reeking of garlic after I would eat there. 
 
 I got tired of hearing about my stench, but not tired enough to give up those delicious calzones altogether.  One day after lunch at DeAngelo's, I waited until after work and then went to the gym.  I spent 45 minutes on a stair climber, drenching myself with sweat.  I followed that with a long shower, and then brushed my teeth.  I even went as far as to change into clean clothes.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I drove home and got greeted with, "Uuugh.  You ate garlic at lunch again."
 
 I had gotten out of the habit of going there for lunch, and I can't say how long it's actually been.  It had probably been a year or more until I went there this Wednesday.

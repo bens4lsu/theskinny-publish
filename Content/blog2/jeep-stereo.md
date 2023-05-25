@@ -1,4 +1,5 @@
 ---
+title: Jeep Stereo
 date: 2018-08-30 15:53
 description: A description of my post.
 tags: stories

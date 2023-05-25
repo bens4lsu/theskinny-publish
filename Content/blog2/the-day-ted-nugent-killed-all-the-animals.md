@@ -1,4 +1,5 @@
 ---
+title: The Day Ted Nugent Killed All the Animals
 date: 2004-10-29 12:55
 description: A description of my post.
 tags: pop-culture
@@ -7,7 +8,7 @@ id: 71
 Does anyone besides me like that song, <i>The Day Ted Nugent Killed All the Animals</i>?  The IPOD picked that song for me while I walked the dog last night.  It got me thinking that someone could go out and put out a whole page explaining the cultural references in that tune.  I'll go ahead and do it myself.<br />
 <br />
 <embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/tednugent.mp3" TYPE="video/x-ms-wmf-plugin"  AUTOSTART="0" SHOWCONTROLS="1"  align="right" /><noembed>You'll have to find this song somewhere else.  Your browswer won't allow embedded media.  Sorry.</noembed>
-<!--more--><br /><br /><b>Ted Nugent, also referred to as the Motor City Madman:</b>  Except for you youngsters, you will remember Ted Nugent as a hard rock singer from the 70s.  When I first heard this song, I just figured that they picked a random, former celebrity to make fun of.  But a year or two later, I read <a href="http://outside.away.com/outside/environment/200112/200112under_ted.html" class="mainbox">this article</a> in <i>Ouside</i> Magazine, and as it turns out, Ted is now famous for killing animals.  Who knew?  This article might be hard to read from the web browser, but I really enjoyed it.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><b>Ted Nugent, also referred to as the Motor City Madman:</b>  Except for you youngsters, you will remember Ted Nugent as a hard rock singer from the 70s.  When I first heard this song, I just figured that they picked a random, former celebrity to make fun of.  But a year or two later, I read <a href="http://outside.away.com/outside/environment/200112/200112under_ted.html" class="mainbox">this article</a> in <i>Ouside</i> Magazine, and as it turns out, Ted is now famous for killing animals.  Who knew?  This article might be hard to read from the web browser, but I really enjoyed it.<br />
 <br />
 <b>Greenpeace activists were crying in their hankies...</b>  Greenpeace is an animal rights activist group, most famous for buying boats and disrupting whaling ships in the late 80s.<br />
 <br />

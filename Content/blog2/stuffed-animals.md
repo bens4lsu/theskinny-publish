@@ -1,4 +1,5 @@
 ---
+title: Stuffed Animals
 date: 2007-06-27 15:12
 description: A description of my post.
 tags: my-youth

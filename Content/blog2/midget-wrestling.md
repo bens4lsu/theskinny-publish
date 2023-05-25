@@ -1,4 +1,5 @@
 ---
+title: Midget Wrestling
 date: 2004-02-08 19:31
 description: A description of my post.
 tags: sports,stories

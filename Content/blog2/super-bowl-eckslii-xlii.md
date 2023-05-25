@@ -1,4 +1,5 @@
 ---
+title: Super Bowl Eckslii (XLII)
 date: 2008-02-04 20:01
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 347
 I didn't get too much into Super Bowl pregame hype.  For some reason, that one off weekend made it seem like a month since the conference championship games.  To top that, I didn't have a strong rooting interest in the game, since neither team was local, and since I had no money on the line.  There were bad reasons for me to cheer for either team.
 
 For the Giants/against the Pats,
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <ul><li>  They were always one of those teams that I "Kind of liked" as a kid.  I like that they say things like "The Giant 15 yard line," even though it's exactly the same size as the other 15 yard line.</li>
 
 <li>Boston's had their share of success.  The Celtics are rolling, the Sox have won two recent World Series, and the Patriots have already taken home three Super Bowl titles.</li>

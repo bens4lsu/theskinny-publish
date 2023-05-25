@@ -1,11 +1,12 @@
 ---
+title: <i>Psycho</i> Scares Me for the First Time
 date: 2004-08-26 12:49
 description: A description of my post.
 tags: pop-culture
 id: 58
 ---
 To a sophisticated kid of the 1980's, it turns out to be majorly disappointing when you finally see the move.  It's really not all that gruesome or scary by today's standards, or even not by the standards of movies 20 years ago.
-<!--more--><br /><br />I hadn't really thought about that movie in a number of years prior to last weekend.  I was getting ready to go play cards, shaving my head in the shower.  I was exceptionally filthy that day, so I was using the guest bathroom.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I hadn't really thought about that movie in a number of years prior to last weekend.  I was getting ready to go play cards, shaving my head in the shower.  I was exceptionally filthy that day, so I was using the guest bathroom.<br />
 <br />
 By coincidence, Mrs. theskinnyonbenny had recently put a different shower curtain liner in that bathroom.  It was a little darker than the previous one.  At the same time, I could hear unusual footsteps moving through the house.  Suddenly, it occurred to me that a knife could come crashing down and slice right through my back or neck without my even knowing it was there.  I felt real fear for a few seconds.  Enough fear to call out and make sure that the footsteps could be accounted for.<br />
 <br />

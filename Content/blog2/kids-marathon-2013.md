@@ -1,4 +1,5 @@
 ---
+title: Kids Marathon 2013
 date: 2013-01-22 20:57
 description: A description of my post.
 tags: young-ruski
@@ -7,7 +8,7 @@ id: 1541
 This morning, Vanya wore his new medal to school.  The medal was for completing the 2nd Louisiana Children's Marathon (1.2 miles), and this morning, he was proud of his achievement.  But let's rewind.
 
 I ran this year with Vanya's frield Pierce.  They ran around downtown like a couple of crazy chickens before the race, but they calmed down as we went into the starting chute.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/kidmaratho2.JPG" alt="benny - the link to this image is fucked" /></td></tr><tr><td caption">Clowning before the race.</td></tr></table>
 
 We started at the very back of the pack, so that the starting gun wouldn't freak anyone out.  Once we plodded up to where the pack started to spread out, the kids took off like a pair of frightened deer, and I had to turn on the juice to stay with them. 

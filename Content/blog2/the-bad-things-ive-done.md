@@ -1,4 +1,5 @@
 ---
+title: The Bad Things I've Done
 date: 2005-03-16 11:19
 description: A description of my post.
 tags: my-youth
@@ -7,7 +8,7 @@ id: 104
 I think most people worry from time to time that they need to be better people.  I'm not immune to such thoughts, so I started to take stock in the bad things that I've done.  <br />
 <br />
 I guess the first things that come to mind are that I like to drink, gamble, and eat too many cookies.  But like all drinkers, gamblers, and overeaters, I maintain that these vices cause no harm to others, and I therfore dismiss them from the list of bad things that I do.
-<!--more--><br /><br />In high school, I used to sneak out of the house from time to time.  Mostly, this was to toilet paper another house in the neighborhood. and usually, whoever got it deserved it.  But not always.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />In high school, I used to sneak out of the house from time to time.  Mostly, this was to toilet paper another house in the neighborhood. and usually, whoever got it deserved it.  But not always.<br />
 <br />
 I did lots of mean things to my sister when I was growing up.  If I would yell at her good and loud, I could really put a scare into her.  More evil though, is the time that I swished her toothbrush in the toilet, and then put it back.  I don't know if I ever fessed up to that one.<br />
 <br />

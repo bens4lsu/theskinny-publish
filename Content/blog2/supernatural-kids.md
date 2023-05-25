@@ -1,4 +1,5 @@
 ---
+title: Supernatural Kids
 date: 2012-06-15 18:41
 description: A description of my post.
 tags: things-i-just-dreamed-up

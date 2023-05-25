@@ -1,4 +1,5 @@
 ---
+title: The Democratic National Convention
 date: 2004-07-30 07:17
 description: A description of my post.
 tags: current-events
@@ -7,7 +8,7 @@ id: 53
 The media and my own television have been focused this week on the Democratic National Convention.  Try as I might to write about the only thing going on, it's very hard to find an interesting spin on the proceedings.<br />
 <br />
 Al Sharpton's speech was fun.  I like that the teleprompter worker couldn't find where he should be, because Al was running on his own.  Maybe this is why it was so amusing.  Al's no politician.  He speaks to bluntly and honestly to ever be elected.  And, it's a little frightening, but a lot of what he says makes sense.
-<!--more--><br /><br />  No, I'm not ready to buy 40 acres and a donkey for the next slave descendant that I meet, but I do agree that keeping non-English speakers out of the country is bad.  Weren't almost all of our ancestors non-English speaking immigrants fairly recently in the big scheme of things?  And who are the "lazy Americans" that stagnate the economy, white guys who write web log entries at work, or Hispanics who pick fruit 60 hours a week for a little off the book cash?<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />  No, I'm not ready to buy 40 acres and a donkey for the next slave descendant that I meet, but I do agree that keeping non-English speakers out of the country is bad.  Weren't almost all of our ancestors non-English speaking immigrants fairly recently in the big scheme of things?  And who are the "lazy Americans" that stagnate the economy, white guys who write web log entries at work, or Hispanics who pick fruit 60 hours a week for a little off the book cash?<br />
 <br />
 The "Help is on the Way" slogan that was unveiled is nothing short of offensive.  Americans aren't a bunch of helpless babies waiting on the Democrats to ride in on their white horses and give us the help we need.  I think that's a serious blunder.<br />
 <br />

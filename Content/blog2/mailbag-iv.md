@@ -1,4 +1,5 @@
 ---
+title: Mailbag IV
 date: 2005-01-14 01:00
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 89
 I sure would like to do more posts that just regurgitate email.  It isn't that I'm too lazy to make up new stuff.  It's just that it hurts less when the asinine nonsense in this space isn't a product of my own brain.  I want everyone to resolve to take the time to email me something amusing next week.<br />
 <br />
 Here we go...
-<!--more--><br /><br /><blockquote>I added your site "theskinnyonbenny.com" to a site ring for greymatter users. If you do not want to be in it just let me know and I will take your site out of it.<br><br>have a great day<br>Jim F. </blockquote><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>I added your site "theskinnyonbenny.com" to a site ring for greymatter users. If you do not want to be in it just let me know and I will take your site out of it.<br><br>have a great day<br>Jim F. </blockquote><br />
 <br />
 Man, links from strangers are awesome.  Back atcha:  <a href="http://jdfitz.com" target="_blank">http://jdfitz.com</a><br />
 <br />

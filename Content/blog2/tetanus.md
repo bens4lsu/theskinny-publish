@@ -1,4 +1,5 @@
 ---
+title: Tetanus
 date: 2005-10-11 20:51
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ It's a damn shame, trying to eat a forkful of rice, and not being able to get yo
 That's been just one example of how my mouth has refused to work for the last few days.<br />
 <br />
 It started on Sunday.
-<!--more--><br /><br />No, let's go back a week before Sunday...<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />No, let's go back a week before Sunday...<br />
 <br />
 I went to clean the trash and pump the bilge dry on my poor half-sunk sailboat.  All of the "experts" recommend rubber boots and gloves when going into post-hurricane mud.  They also insist that tetanus shots are a must.<br />
 <br />

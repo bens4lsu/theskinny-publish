@@ -1,4 +1,5 @@
 ---
+title: Practical Math
 date: 2007-07-09 23:07
 description: A description of my post.
 tags: stories
@@ -11,7 +12,7 @@ Say that you go out for pizza.  You want the sun-dried tomato and goat cheese pi
 I don't know how to type equations in a way that they'll show up on a web page, so I just did it in handwriting:
 
 <center><img src="/img/formula.jpg"></center>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 So, a single 14 inch pizza is pretty much the same amount of food as two 10 inch pizzas.
 
 But look at the prices on the menu.  Two 10 inch pizzas is probably a whole lot more expensive than a 14 inch.  

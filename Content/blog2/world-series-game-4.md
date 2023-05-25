@@ -1,4 +1,5 @@
 ---
+title: World Series Game 4
 date: 2005-10-26 07:18
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 151
 I normally don't really care about major league baseball.<br />
 <br />
 The game is too slow, and any particular game in the regular season is too meaningless.  By the time the games are important, it's football season, and regular season football ranks higher on my interest scale than post season baseball.  No question about it.
-<!--more--><br /><br />This week, I've been working with a client in San Antonio, which is full of die-hard Astros fans.  The Stros are in the World Series this year.  I think it's their first trip to the series, but it's certainly their first in many years.  <br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />This week, I've been working with a client in San Antonio, which is full of die-hard Astros fans.  The Stros are in the World Series this year.  I think it's their first trip to the series, but it's certainly their first in many years.  <br />
 <br />
 (A quick internet search would answer that question, but I'm too lazy to conduct such a search.  However, I'm not too lazy to type all of this text about how lazy I am.)<br />
 <br />

@@ -1,4 +1,5 @@
 ---
+title: Music Friday for Jodie Foster
 date: 2013-01-18 05:46
 description: A description of my post.
 tags: current-events,music-pop-culture
@@ -11,7 +12,7 @@ She felt the need to come out publicly, even though her homosexuality is pretty 
 Even Clarice Fucking Starling get spooked by the idea of the potential public backlash!  It's both amazing and sad.  
 
 Given the topic, my song selection this morning is cheesy, but I like the tune, and I would like it if the topic of the lyrics were something more mundane.  But this one brings some strong lyrics.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <i>When I was at church they taught me something else<br />
 If you preach hate at the service those words arenâ€™t anointed<br />
 That holy water that you soak in has been poisoned<br />

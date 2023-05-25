@@ -1,4 +1,5 @@
 ---
+title: This Post About Gamecocks Has Nothing to do With Steve Spurrier
 date: 2013-05-08 23:05
 description: A description of my post.
 tags: stories
@@ -15,7 +16,7 @@ If you're one of those people who <a href="http://theskinnyonbenny.com/dailyphot
 I think V's teacher might be onto me too, because yesterday, his assignment was to think of words ending in -ick, -ack, -uck, and -ock, and then draw pictures of those words.
 
 Are you putting me on?
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I was a model of restraint, suggesting only the cleanest of the four off-color words that popped immediately to mind. I suggested "buttcrack" for the -ack word.  It got my desired laugh while the head shook no.
 
 (And really, it's only the fact that the boy has the sense to reject my suggestions that makes me free to make them in the first place.)

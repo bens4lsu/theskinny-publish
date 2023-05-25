@@ -1,4 +1,5 @@
 ---
+title: The Two Worst Smelling Places in Baton Rouge
 date: 2004-05-25 19:57
 description: A description of my post.
 tags: stories,food

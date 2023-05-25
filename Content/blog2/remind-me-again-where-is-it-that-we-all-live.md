@@ -1,4 +1,5 @@
 ---
+title: Remind Me Again, Where is it that We All Live?
 date: 2007-09-07 08:16
 description: A description of my post.
 tags: young-ruski
@@ -7,7 +8,7 @@ id: 322
 I was cleaning the kitchen last night while listening to a radio show.  As the show came back from break, they played that one chord that everyone can immediately identify as the first note of The Beatles' Hard Days Night.
 
 This single bit of music in a universe of unintelligible talk immediately caught Vanya's attention.  He stopped what he was doing, looked toward the source of the music, and prepared himself to jam a little bit if the music was to continue.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 He's always been a real big fan of music and animals.  The first week he was home with us, he started dancing to the radio.  He seemed especially to like the Ramones.  But I was a little suspicious that he was noticing something about what music I like, and basing his own opinions on me.
 
 So I did a little experimenting.  I pretended to like country music.  He didn't.  I pretended to dislike songs with lots of drumming.  He still liked them.  He's a true punk-rocker.

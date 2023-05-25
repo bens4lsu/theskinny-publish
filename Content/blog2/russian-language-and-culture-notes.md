@@ -1,4 +1,5 @@
 ---
+title: Russian Language and Culture Notes
 date: 2008-01-16 12:39
 description: A description of my post.
 tags: travel,young-ruski
@@ -9,7 +10,7 @@ I recently went back to listening to my Russian language lessons while walking t
 There are two words that strike me as funny.  The first I learned was the word for "Red Square."  It's ÐšÑ€Ð°Ñ�Ð½Ð°Ñ� Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÑŒ in Russian, pronounced something like, "Grassnaya Bloshit."  If I think about what neighbors think if they happen to observe me waking the streets at night, clad in jacket and pajama pants, mumbling "bloshit" over and over -- well, it just breaks me up.  It was several times through this lesson before I could get through without hysterical laughter, which probably made me look even more insane.
 
 The other word that cracks me up is the word for the number sixteen.  It's pronounced almost exactly like the sentence in English, "She snots it."  Say it quickly, and you can say ÑˆÐµÑ�Ñ‚Ð½Ð°Ð´Ñ†Ð°Ñ‚ÑŒ (sixteen) in Russian.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 There are a few funny things about Russia itself that I don't remember posting before.  If it's in my travel blog, please forgive the repetition.
 
 <ul>

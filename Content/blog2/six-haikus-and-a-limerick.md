@@ -1,4 +1,5 @@
 ---
+title: Six Haikus and a Limerick
 date: 2005-01-13 06:00
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 88
 I caught just a minute of the Jim Rome show yesterday, and he had listeners emailing sports-related haikus.  It didn't sound too challenging, so I thought I would make up some about my local sports life.  <br />
 <br />
 <blockquote>Nick Saban is gone.<br>Will we continue to win?<br>Only time will tell.</blockquote>
-<!--more--><br /><br /><blockquote>"Consistency" does<br>Not accurately portray<br>They play of the Saints.</blockquote><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>"Consistency" does<br>Not accurately portray<br>They play of the Saints.</blockquote><br />
 <br />
 <blockquote>Football is over.<br>What will I watch Saturday?<br>Long time 'til August.</blockquote><br />
 <br />

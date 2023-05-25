@@ -26,14 +26,12 @@ struct TopNavLinks: Component {
     var rightLinkInfo: LinkInfo?
     
     var body: Component {
-        Div {
-            if leftLinkInfo != nil {
-                ArrowToLeft(leftLinkInfo!.text, leftLinkInfo!.url)
-            }
-            
-            if rightLinkInfo != nil {
-                ArrowToRight(rightLinkInfo!.text, rightLinkInfo!.url)
-            }
+        let leftside: Component = leftLinkInfo == nil ? EmptyToLeft() : ArrowToLeft(leftLinkInfo!.text, leftLinkInfo!.url)
+        let rightside: Component = rightLinkInfo == nil ? EmptyToRight() : ArrowToRight(rightLinkInfo!.text, rightLinkInfo!.url)
+        
+        return Div {
+            leftside
+            rightside
         }.class("top-nav-links")
     }
     
@@ -66,6 +64,22 @@ struct TopNavLinks: Component {
             Div {
                 Link("\(text) »", url: url)
             }.class("link-arrow-right")
+        }
+        
+        var empty: Component {
+            Div { Text("&nbsp;") }.class("link-arrow-right")
+        }
+    }
+    
+    fileprivate struct EmptyToLeft: Component {
+        var body: Component {
+            Div {  }.class("link-arrow-left")
+        }
+    }
+    
+    fileprivate struct EmptyToRight: Component {
+        var body: Component {
+            Div {  }.class("link-arrow-right")
         }
     }
 }

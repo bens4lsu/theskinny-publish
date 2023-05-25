@@ -1,4 +1,5 @@
 ---
+title: What I was Doing Yesterday Afternoon
 date: 2006-04-27 08:23
 description: A description of my post.
 tags: uncategorized

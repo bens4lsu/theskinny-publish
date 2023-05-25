@@ -1,4 +1,5 @@
 ---
+title: Linnoying
 date: 2012-02-16 12:41
 description: A description of my post.
 tags: sports
@@ -7,7 +8,7 @@ id: 1220
 The media is bound and determined to make me hate Jeremy Lin.  It's tough to do -- a great story, sure.  But I haven't even been watching 24-7 ESPN like I do during football season, and I'm tired of hearing about the guy.
 
 Comparisons to Tim Tebow are nuts, and I think coming from the overzealous Christians looking for a hero.  Tebow was a Heisman trophy winner from a major college who was drafted in the first round.  He's actually <i>supposed</i> to be good.  Lin was undrafted and from Harvard.  No one but basketball die-hards had even heard of him 12 days ago.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Comparisons like that are what will make me hate the kid.  There are two people on earth who I would really like to see pushing daisies.  In one case, it's a personal dislike.  The other case is Tim Tebow.
 
 A better comparison for Lin is Kurt Warner.  He went from bagging groceries to leading one of the most prolific offenses in the history of the NFL in the course of a year.

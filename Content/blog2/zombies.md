@@ -1,4 +1,5 @@
 ---
+title: Zombies
 date: 2008-04-03 13:01
 description: A description of my post.
 tags: young-ruski,book-reviews
@@ -7,7 +8,7 @@ id: 361
 "Why on Earth did I want a boy?"
 
 I never thought I would hear that come from Mrs. theskinnyonbenny's mouth, but sure enough, we had the nastiest, dirtiest kid in Baton Rouge last Sunday, and it got to that point.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 We were outside working in the yard, and he ran around behind us, stirring up dirt, wrestling the dogs, spilling juice all over himself, etc.  And he had a constant lava-flow of thick, yellow snot between nose and mouth.  When he would try to wipe it away, it would just smear a snot-dirt mud mix across the face.
 
 By the end of the day, he had lost one of his two shoes.  His clothes were amuck and filthy, and dirt was from head to toe.  

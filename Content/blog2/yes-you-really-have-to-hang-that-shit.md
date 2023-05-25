@@ -1,4 +1,5 @@
 ---
+title: Yes, You Really Have To Hang That Shit
 date: 2016-12-09 15:21
 description: A description of my post.
 tags: young-ruski
@@ -9,7 +10,7 @@ id: 2066
 I hate to break it to you, but you have to keep hanging that shit forever.  If it makes things any better, I promise you that I hung more ugly mangled garbage than you, especially since you're a fictional construct that I used to get this topic moving.
 
 <a class="lightview centered" href="/img/ornament1.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/ornament1.JPG" alt="/img/Mustang Sally" width="350px"><br><span class="caption"></span></a>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 For example, we have this white popsicle stick, with some random bits glued on, and a puff of cotton hanging down like its big, fluffy scrotum.  I don't even know what this could have been BEFORE it was mangled.  But it's a white popsicle stick where some preschool teacher at some point wrote my youngest son's name on it, so here it hangs for all eternity.
 
 <a class="lightview centered" href="/img/ornament2.JPG" data-lightview-caption="" data-lightview-group="group2"><img src="/img/ornament2.JPG" alt="/img/Mustang Sally" width="350px"><br><span class="caption"></span></a>

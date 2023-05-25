@@ -1,4 +1,5 @@
 ---
+title: Thinking Football
 date: 2017-09-10 09:10
 description: A description of my post.
 tags: sports
@@ -13,7 +14,7 @@ I woke up this morning, and my mind flashed to three questions, in this order:
 3) Is there still such a place as Key West? (Still not quite sure what the answer is.) 
 
 From there, I went through all of the college football scores from yesterday.  There were a lot of good games, and I missed a lot of action.  I was, however, the only person outside of Indiana or Virginia to watch the whole IU/Virginia game.  Indiana is for real, y'all.  That game wasn't nearly as close as the score showed.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I was instrigued by the Tulane 21 - Navy 23 score.  Navy is one of those teams that I pull for, with no real reason.  I like that it's one of the four D-I schools whose name is also a color.  And I like that part of their cirriculum is to get out on Chesapeake Bay in sail boats.  I hope our real navy never gets to the point where we rely on sail any more, but I like that they're getting the kids ready, just in case.
 
 I always check in on Tulane too.  Parltly, because my friend Dave picks Tulane as his underdog as reliably as crazies will wait out a hurricane in Key West, and partly because I just pull for all of the in state schools, assuming none of them ever get good enough to challenge LSU.

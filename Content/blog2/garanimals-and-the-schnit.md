@@ -1,11 +1,12 @@
 ---
+title: Garanimals and the Schnit
 date: 2006-01-04 09:08
 description: A description of my post.
 tags: stories
 id: 170
 ---
 Remember Garanimals?  They were a brand of kids clothes from when I was young.  Every item had some little animal visible, giving 1970s parents across the nation the misguided notion that their kids would look as cool as those kids wearing genuine izods.  Their gimmick was that every piece of clothing with one animal on it would match every other cloth with that same animal.  It's a very good idea (I could certainly use such a system as an adult), but one that was doomed by stretchy cheap polyester as the material of choice.
-<!--more--><br /><br />I haven't really thought about Garanimals until Friday, when they came up twice in one day.  First was when I read a message from Jodie, who wants to do something similar for children's fashion, but with corny food related names rather than animals.  I'll do my best not to give away any trade secrets, but chances are that if you feel like you should put your kid's shorts on top of a bowl of ice cream, that some of your money made it into Jodie's checking account.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I haven't really thought about Garanimals until Friday, when they came up twice in one day.  First was when I read a message from Jodie, who wants to do something similar for children's fashion, but with corny food related names rather than animals.  I'll do my best not to give away any trade secrets, but chances are that if you feel like you should put your kid's shorts on top of a bowl of ice cream, that some of your money made it into Jodie's checking account.<br />
 <br />
 The best part of the exchange was actually this clip, regarding her husband's proposed company name, which left out her initial:<br />
 <br />

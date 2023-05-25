@@ -1,4 +1,5 @@
 ---
+title: The San Antonio Saints
 date: 2005-10-09 20:30
 description: A description of my post.
 tags: sports
@@ -8,7 +9,7 @@ I guess that today was the day that all of our new Saints fans in San Antonio fo
 <br />
 Joe San Antonio was probably settling into his couch at noon, pretty geeked up about his new favorite NFL team.  He went to the game last week, yelled long and loud, and saw his team play pretty well in beating a mediocre Buffalo squad.  Today's game was against 0-4 Green Bay, who was additionally handicapped by multiple injuries to key players.<br />
 
-<!--more--><br /><br />The first couple of series were good.  The Saints stopped the Packers on their first series; they drove for a field goal their first offensive series.  And then they turned into the Saints that Louisiana has always known.  A lackluster, uninspired performance slowly degraded to a humiliation.  Final score:  Packers 52, Saints 3.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />The first couple of series were good.  The Saints stopped the Packers on their first series; they drove for a field goal their first offensive series.  And then they turned into the Saints that Louisiana has always known.  A lackluster, uninspired performance slowly degraded to a humiliation.  Final score:  Packers 52, Saints 3.<br />
 <br />
 That was a little hard to type.<br />
 <br />

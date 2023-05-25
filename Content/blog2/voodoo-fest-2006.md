@@ -1,4 +1,5 @@
 ---
+title: Voodoo Fest 2006
 date: 2006-11-03 13:57
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 256
 Last weekend, we got to New Orleans on Saturday afternoon. Mrs. theskinnyonbenny and I sat in a bar talking to the tourists from Baltimore and keeping an eye on the football games while we waited for our friends to arrive.  We walked around the French Quarter in the evening, and once it was dark, went on one of those haunted house walking tours.
 
 Our tour guide was a chipper octogenarian in a witch costume who called herself "Scary Mary."  She was knowledgeable about the history of the town and of its old houses, but she wasn't at all scary.  She is probably a good guide for the walking tours most of the year, but she wasn't too good for the haunted tour.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 For example, at the LaLaurie house, she gave us the story -- which I had heard -- where Madame LaLaurie was seen chasing a slave girl off the roof, and how the society people looked the other way to get into her lavish parties.  One day her house caught fire, and in trying to save her stuff, her friends and neighbors found an attic where she tortured the slaves.
 
 I was picturing a room where she administered beatings and maybe subjected the slaves to intense attic heat or food deprivation.  That would be bad enough, but Jodie had done a similar tour before, and she knew of the more gruesome details.  I came back to the plugged in world this week, and found that <a href="http://en.wikipedia.org/wiki/Delphine_LaLaurie" target="_blank">the Wikipedia article</a> had the graphic details.  I recommend the read.

@@ -1,4 +1,5 @@
 ---
+title: LSU vs. Tennessee
 date: 2005-09-27 19:47
 description: A description of my post.
 tags: sports
@@ -9,7 +10,7 @@ It's a good thing that college football isn't normally played on Monday night.  
 It's a bad thing that I used up my "way too drunk" tailgate day on a Monday.<br />
 <br />
 
-<!--more--><br /><br />Before Hurricane Rita blew in, we had the mother of tailgate parties planned.  I was heading to campus at 5:00 AM or so, just to make sure we could have the party in the spot that we like,  On Monday, I got out there a bit before noon, and I had to squat right next to another tailgate to get an address in my general tailgate neighborhood.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Before Hurricane Rita blew in, we had the mother of tailgate parties planned.  I was heading to campus at 5:00 AM or so, just to make sure we could have the party in the spot that we like,  On Monday, I got out there a bit before noon, and I had to squat right next to another tailgate to get an address in my general tailgate neighborhood.<br />
 <br />
 It was probably the hottest tailgate I remember, which might (or might not) have something to do with all of the drinking.  It was miserable, but at least I wasn't in costume.  The best I saw was a guy in a white body suit, with purple and gold tiger stripes dyed into the fabric.  He accessorized with cowboy boots, a holster, with whisky bottles in place of sidearms, and a ten gallon hat.  Very stylish.<br />
 <br />

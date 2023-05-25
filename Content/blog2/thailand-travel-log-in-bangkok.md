@@ -1,4 +1,5 @@
 ---
+title: Thailand Travel Log:  In Bangkok
 date: 2004-04-01 14:13
 description: A description of my post.
 tags: travel,blogs-i-read-once-in-a-while

@@ -1,4 +1,5 @@
 ---
+title: Stuff White People Like
 date: 2008-04-23 07:00
 description: A description of my post.
 tags: other-peoples-stories
@@ -9,7 +10,7 @@ A couple of months ago, I started hearing a conversation here, a radio host ther
 Then, I got an email from Timmy B. telling me to check it out.  When I did, I had the feeling that you would have if you took down your bathroom mirror and found a hidden camera there to record your life.
 
 It's much like I thought that the producers of The Office must be spying on APPRO Systems.  The writers of this blog can't be my friends or family.  They have to be spies.  They know more than my friends.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 It's difficult to pick examples, because almost every entry is relevant to me.  But here are some that I enjoyed.  Quoted paragraphs are from the pages referenced.
 
 <table align="center" border=0 cellspacing=0 cellpadding=0 width="90%">

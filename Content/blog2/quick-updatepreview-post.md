@@ -1,4 +1,5 @@
 ---
+title: Quick Update/Preview Post
 date: 2006-12-14 13:04
 description: A description of my post.
 tags: uncategorized

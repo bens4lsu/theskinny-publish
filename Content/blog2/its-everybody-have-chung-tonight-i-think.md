@@ -1,4 +1,5 @@
 ---
+title: It's "Everybody Have Chung Tonight," I Think
 date: 2011-06-02 14:59
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 1049
 Here's a tip for you young people:  if you don't know the words to "Everybody Wang Chung Tonight," then don't walk around singing it out loud.
 
 Monday night, I was sitting at a bar with Mrs. theskinnyonbenny.  We were around the back side, where staff walked to get back to the kitchen.  One of the waiters passed behind us, singing along with the speakers.  He clearly reversed the "Everybody have fun tonight" and the "Everybody Wang Chung tonight" lines.  It's not like those are unimportant lines.  In fact, I couldn't tell you any other line in the song, but I wouldn't botch those.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 This is the main reason that I hold such a place in my heart for this particular lyric.  Besides its own general awesomeness, of course.
 
 <iframe width="425" height="349" src="http://www.youtube.com/embed/o4GtOdJtgL8" frameborder="0" allowfullscreen></iframe>

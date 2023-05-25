@@ -1,4 +1,5 @@
 ---
+title: Little Killjoy
 date: 2012-08-23 23:24
 description: A description of my post.
 tags: young-ruski
@@ -15,7 +16,7 @@ On the way into school this morning, Vanya remembered an incident from the previ
 Recounting the story was getting his dander up.  It must have been quite an argument.
 
 "I'm going to go tell her again!"
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I didn't have the heart to take Marnie's side.  It was just too recently that we were at Disney World, and he was skipping happily around, having met Mickey Mouse, not even considering that he might not be real.  It feels like I have about 10 minutes of childhood left, and if that means acknowledging the existence of dumb-shit Power Rangers, then that's what I do.
 
 It's not really much different from all of you who teach your kids that the Old Testament is real.

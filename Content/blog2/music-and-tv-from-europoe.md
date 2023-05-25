@@ -1,4 +1,5 @@
 ---
+title: Music and TV from Europoe
 date: 2007-07-07 09:00
 description: A description of my post.
 tags: pop-culture

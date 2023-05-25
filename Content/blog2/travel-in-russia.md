@@ -1,4 +1,5 @@
 ---
+title: Travel in Russia
 date: 2007-03-22 19:08
 description: A description of my post.
 tags: travel
@@ -7,7 +8,7 @@ id: 284
 You know how you'll sometimes run into a foreign student and tourist, and they have something about them -- either in appearance or action -- which is incredibly foreign, nerdy, and funny?  The best example I can think of is the wearing of socks with sandals.
 
 When you travel to another country, you can be acting normally, speaking normally, and dressed normally, but still get laughed at for some reason unbeknownst to you.  You're the one to them who's wearing socks with sandals, and you can't even identify what it is that makes you a source of ridicule.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG" width="235"></td></tr><tr><td class="caption" width="250">We got laughed at for some unkown reason at the Roman Holiday restaurant.</td></tr></table>
 
 All part of the fun of travel to another country.

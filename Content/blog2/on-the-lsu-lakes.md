@@ -1,4 +1,5 @@
 ---
+title: On the LSU Lakes
 date: 2004-05-10 21:08
 description: A description of my post.
 tags: stories

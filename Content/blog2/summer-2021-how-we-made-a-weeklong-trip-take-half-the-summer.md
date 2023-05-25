@@ -1,4 +1,5 @@
 ---
+title: Summer 2021 - How We Made a Weeklong Trip Take Half the Summer
 date: 2022-03-08 10:05
 description: A description of my post.
 tags: travel
@@ -11,7 +12,7 @@ I mean, that's a ridiculously long biological feature.
 <a class="lightview alignright" href="/img/john-lennon.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/john-lennon.jpg" alt="/img/john-lennon.jpg"><br><span class="caption"></span></a>
 
 And speaking of ridiculously long features, let me tell you about how long it took us to get to the Bahamas last Summer.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 We planned to leave almost as soon as school was out.  We got a lot of gear stored the weekend before, and then we did a final load of gear and provisions the day before we were set to leave.  I was to get up at first light and head out.
 
 The weather was a long way from ideal.  It was blowing 25 knots, straight from the direction we would be trying to travel.  In fact, it had pushed so much water from the Gulf up into Lake Pontchartrain that we had to wade out to the boat in water that fluctated between shin-deep and waist-deep while walking on the deck out to the boat.

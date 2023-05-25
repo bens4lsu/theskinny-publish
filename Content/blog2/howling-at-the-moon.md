@@ -1,4 +1,5 @@
 ---
+title: Howling at the Moon
 date: 2011-01-25 14:47
 description: A description of my post.
 tags: stories
@@ -10,7 +11,7 @@ Then, I stumbled on a tweet from <a href="http://twitter.com/slate" target="_bla
 
 I started looking at those reviews, which made me chuckle, but which also made me thing, those aren't as good as the reviews for 
 <a href="http://www.amazon.com/Mountain-Three-Short-Sleeve-Medium/dp/B000NZW3J8/ref=sr_1_1?ie=UTF8&qid=1295987292&sr=8-1" target="_blank">the Amazon wolf shirt</a>.  If you haven't read the reviews on Amazon about the wolf shirt, or if you haven't read them lately, stop what you're doing and go read now.  It will certainly be more entertaining than the rest of this blog post.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 And then that reminded me that I actually saw a guy wearing the shirt.  It was on our Las Vegas trip last summer.  I posted pics, but I hadn't really told stories.  What happens in Vegas makes me love you long time.  Or something like that.
 
 Anyway, there was a guy who joined me in the elevator, and he was actually wearing the Amazon wolf shirt.  I wanted to take a picture so much, but he looked like a Native American, and I did a quick estimation and come up with a 94% chance that the guy was an actual werewolf.  So I didn't fuck with him.

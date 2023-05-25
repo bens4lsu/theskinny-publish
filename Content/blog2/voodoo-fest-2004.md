@@ -1,4 +1,5 @@
 ---
+title: Voodoo Fest 2004
 date: 2004-10-20 18:01
 description: A description of my post.
 tags: pop-culture
@@ -7,7 +8,7 @@ id: 69
 I went to <a href="http://www.voodoomusicfest.com/home.htm" target="_blank" class="mainbox">Voodoo Fest</a> this past Saturday.  There was beautiful weather, and it was good to be outside hearing live music.<br />
 <br />
 Let's jump right in with a review of the headliners' performance:
-<!--more--><br /><br /><table width=100%><tr><td><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><table width=100%><tr><td><br />
 <table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=525><img src="/img/voodoo04/greenday.jpg" width=525 aborder=0 vspace=4/></td></tr><tr><td width=525><font face="verdana, arial, geneva" size=1 color=#666666><b>Green Day on the Stage</b></font></td></tr></table><br />
 </td></tr><br />
 <tr><td class=mainbox><br />

@@ -1,4 +1,5 @@
 ---
+title: Random Notes IV
 date: 2005-10-06 17:27
 description: A description of my post.
 tags: uncategorized
@@ -11,7 +12,7 @@ Here is a collection of random observations with the uniting theme that they com
 <br />
 I was sitting on the plane, in my window seat, waiting for it to take off.  There was a tall thin guy wedged into the center seat next to me.<br />
 
-<!--more--><br /><br />I felt a little nasal tickle, and let out a couple of sneezes.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />I felt a little nasal tickle, and let out a couple of sneezes.<br />
 <br />
 "Bless you," said the guy.<br />
 <br />

@@ -1,4 +1,5 @@
 ---
+title: Links/Cleanup
 date: 2008-04-24 07:10
 description: A description of my post.
 tags: uncategorized
@@ -8,7 +9,7 @@ Stacie asked for more about French Quarter Festival in a comment earlier this we
 here</a>.
 
 I only mention it because while we were sitting on that hill, the band on the stage played the song that <a href="http://theskinnyonbenny.com/blog2/archives/360#more-360">I quoted just a couple of weeks before</a>.  Quite a coincidence.  To save you the click, I was impressed by the lyric:
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <blockquote>Lawd I swear
 The perfume you wear
 Were made out of turnip greens

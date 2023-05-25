@@ -1,4 +1,5 @@
 ---
+title: Mailbag and Tailgate Story
 date: 2008-10-21 22:59
 description: A description of my post.
 tags: stories
@@ -17,7 +18,7 @@ now my turn:  tell me how she  differs from George.
 
 something? - anything?
 
-ss</blockquote><!--more-->
+ss</blockquote><span class="spanEndPreview">&nbsp;</span>
 
 &nbsp;
 

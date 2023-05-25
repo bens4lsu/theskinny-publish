@@ -1,4 +1,5 @@
 ---
+title: Three Man
 date: 2004-12-10 21:52
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 78
 It was some time late this football season when we decided that we needed to revive an old drinking game from college.  We remembered "Three Man" being a game with dice that made the players do a lot of drinking.  To be honest, we remembered a dice game called "Three Man" or "Four Man" or "Seven Man," but we couldn't remember which, and we certainly didn't remember all of the rules.<br />
 <br />
 Shelly Williams may have the foulest mouth that I know, but she can do research.  Last time I saw her, she gave me a pack of dice and a laminated copy of the official Three Man rules (so spilled drinks don't ruin the page).  I hereby reprint those rules for posterity.
-<!--more--><br /><br /><blockquote class="caption">Everyone starts off by rolling one die until someone rolls a three.  This person then becomes the three man.  The game then proceeds around the circle with people taking turns rolling the dice.  The dice are only passed when someone rolls something that does not require drinking.  Here is what each roll means:<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote class="caption">Everyone starts off by rolling one die until someone rolls a three.  This person then becomes the three man.  The game then proceeds around the circle with people taking turns rolling the dice.  The dice are only passed when someone rolls something that does not require drinking.  Here is what each roll means:<br />
 <br />
 <table cellpadding="3"><tr><td valign="top" class="caption" align="right">3</td><td class="caption">Whoever is the three man must drink.  If the three man rolls this then he may pass the title to a person of his choosing.</td></tr><tr><td class="caption"  align="right">7</td><td class="caption">Person to the right of the roller drinks.</td></tr><tr><td class="caption" align="right">9</td><td class="caption">Person across from the roller drinks.</td></tr><tr><td class="caption" align="right">10</td><td class="caption">Social...everyone drinks.</td></tr><tr><td class="caption" align="right">11</td><td class="caption">Person to the left of the roller drinks.</td></tr></table> <br />
 <br />

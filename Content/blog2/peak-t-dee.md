@@ -1,4 +1,5 @@
 ---
+title: Peak t' Dee?
 date: 2013-02-26 22:02
 description: A description of my post.
 tags: my-youth
@@ -7,7 +8,7 @@ id: 1601
 Have I mentioned this before? The last time I had to set up a date with a girl, college students had neither email nor cell phones.
 
 The good thing about being a young adult prior to the advent of everyday technology is that the prank phone call wasn't quite extinguished.  A boring hour could be killed by calling a cab company to come pick up a girl whose name you knew at the house next door, and then watching the confusion out of the window.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 When Outback Steakhouse opened, I used to call and put on a cow voice, asking why they killed my mother.
 
 <table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/mamadee.jpg" alt="benny - the link to this image is fucked" width="320px" /></td></tr><tr><td caption">Mama Dee, in her Circle-the-Word heyday.</td></tr></table>

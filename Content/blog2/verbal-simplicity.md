@@ -1,4 +1,5 @@
 ---
+title: Verbal Simplicity
 date: 2013-01-28 16:43
 description: A description of my post.
 tags: young-ruski
@@ -9,7 +10,7 @@ V uses the word "yeah-honh" a lot lately.  At least I think that's how you would
 Try it quietly to yourself.  "Yeah-honh."
 
 It's as definitionally elegant as it is audibly horrifying.  It conveys both, "I assert the positive alternative" and "I disagree with you" in two little syllables.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Look how efficient:
 
 "Can we eat at McDonald's tonight?"

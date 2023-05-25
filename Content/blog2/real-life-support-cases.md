@@ -1,4 +1,5 @@
 ---
+title: A Real Snapshot of My Work Life
 date: 2007-04-12 04:52
 description: A description of my post.
 tags: the-office
@@ -7,7 +8,7 @@ id: 289
 <div>Poorly worded support cases that were actually submitted to us recently.</div><p>&nbsp;</p><p>&nbsp;</p>
 
 <div><center><img src="/img/case1.jpg" /></center></div>
-<!--more--><p>&nbsp;</p>
+<span class="spanEndPreview">&nbsp;</span><p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <div>"This change" being the day they started letting you use a computer?  I think that was yesterday.</div><p>&nbsp;</p>

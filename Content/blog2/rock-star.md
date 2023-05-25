@@ -1,4 +1,5 @@
 ---
+title: Rock Star
 date: 2013-12-05 21:57
 description: A description of my post.
 tags: stories

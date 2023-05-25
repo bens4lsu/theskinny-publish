@@ -1,4 +1,5 @@
 ---
+title: Home Sweet Home
 date: 2007-04-02 13:45
 description: A description of my post.
 tags: the-office,travel
@@ -7,7 +8,7 @@ id: 286
 I did very little of anything this weekend, and boy oh boy is that a welcome change.  Because prior to this weekend, my schedule was like this:
 
 <b>Two Sundays ago, into Monday morning:</b>  18 hours to get home from Russia, then 12 hours actually at home.  Of those, 8 were spent sleeping and two were at the office.  
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <b>Monday during the day:</b>  I started another 12-hour marathon of planes and airports to get to North Carolina.  It shouldn't have taken that long, but delays and bumps routed me through Chicago.  I got to my hotel at 1:00 AM.
 
 <b>Tuesday morning (around 1:05 AM): </b> I opened the suitcase to find a toothpaste explosion.  The main victims were socks and dress shirts.  I try to wash in the sink.

@@ -1,4 +1,5 @@
 ---
+title: Hawaii Dispatch 2
 date: 2006-07-22 04:46
 description: A description of my post.
 tags: the-office,travel
@@ -7,7 +8,7 @@ id: 229
 I'm not gonna lie.  I'm tired.  I've been working long days, and then spending as much awake time as I can trying to enjoy Waikiki.  In other words, I've pretty much kept up the routine that I described in the last post, but I am indeed ready to go home.
 
 There are a few moderately amusing things from the office this week.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <ul><li>One day, there was a power outage.  The power only went off for a few seconds, but it was long enough to turn off people's computers.  When it came back on, there were a few people who just sat there staring at their monitors, which were showing that "check input signal" moving box that they do to show you that there's no video signal coming through.  Loretta -- the technical expert on the floor -- had to leave the room and instruct some of them to power their workstations back on.
 
 No shit.</li>

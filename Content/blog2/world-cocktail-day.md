@@ -1,4 +1,5 @@
 ---
+title: World Cocktail Day
 date: 2011-05-18 12:47
 description: A description of my post.
 tags: stories
@@ -13,7 +14,7 @@ On the way in, I asked what the fundraiser was for.
 Oh.  Fuck Japan, Tuscaloosa, and our neighbors about to be flooded out by diverted Mississippi water.  We have American Cocktails to honor.
 
 I've called Mrs. theskinnyonbenny a cocktail nerd many, many times, and I'll use it here, so I don't want to give the impression that I mean it as an insult.  Over the years, my opinion of the top-tier bartenders has gone from indifference, to admiration, to full-out fanboy.  I don't seek out the famous/creative bartenders in other cities yet, but that would be the last step to becoming a cocktail nerd myself.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 To me, the king of the cocktail nerds is Chris McMillian.  He works the Bar Uncommon in the Pere Marquette hotel in New Orleans.  Mrs. theskinnyonbenny found him when he was at the Ritz Carleton.  She was impressed by how he would bring in his own fresh ingredients, and of course, by the quality of the drinks.
 
 Chris and his wife went on to be instrumental in the inception of the cocktail museum.  When not pouring drinks for tourists who are usually oblivious to the fact that they're ordering from one of the best bartenders in the world, he travels to speaking engagements and cocktail events around the world.

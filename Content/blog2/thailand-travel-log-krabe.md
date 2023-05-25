@@ -1,4 +1,5 @@
 ---
+title: Thailand Travel Log: Krabe
 date: 2004-04-12 06:43
 description: A description of my post.
 tags: travel

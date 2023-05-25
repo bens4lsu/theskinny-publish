@@ -1,4 +1,5 @@
 ---
+title: Mailbag V
 date: 2005-09-23 08:52
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 139
 It's been a long time since I did a mailbag post, and I've been saving up some good ones.  I've used my best judgment about whether to use real names or not.  I have a lot of ones that people forward me from their office, and I don't want anyone to get in trouble.<br />
 <br />
 Keep sending me stuff.  You guys are more amusing than I am.
-<!--more--><br /><br /><div><blockquote><br />
+<span class="spanEndPreview">&nbsp;</span><br /><br /><div><blockquote><br />
 <br />
 >>>>>> Proofreader 2:29 PM >>><br />
 <br />

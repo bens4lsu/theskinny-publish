@@ -1,4 +1,5 @@
 ---
+title: Report on Las Vegas Trip
 date: 2005-02-01 08:59
 description: A description of my post.
 tags: travel
@@ -9,7 +10,7 @@ Anyone interested in how the trip to Las Vegas went?<br />
 I should start by lambasting that stupid "Whatever happens in Vegas stays in Vegas" advertising campaign.  Why don't they just take that last step and advertise. "Hey wives and girlfriends, your men sure are going to enjoy the hookers while you're at home and they're out here!"<br />
 <br />
 We all know that the real reason people go to Las Vegas is to binge drink in that oxygenated air, allowing the party to go all night long with no effort at all.  Sure, there are strippers, but once you've been to <a href="http://www.theskinnyonbenny.com/blog/archives/00000020.php">Super Pussy</a>, the rest all pretty much seem the same.
-<!--more--><br /><br />Here's one funny story, while we're on the topic.  The bachelor of the weekend was getting a lap dance when two other strippers walked up and said, "What's going on here?"  <br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />Here's one funny story, while we're on the topic.  The bachelor of the weekend was getting a lap dance when two other strippers walked up and said, "What's going on here?"  <br />
 <br />
 The used the tone of voice that implied that they were witnessing something shocking and unusual.  This made me laugh, and I had to call them on it.<br />
 <br />

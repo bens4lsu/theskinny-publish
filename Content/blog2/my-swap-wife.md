@@ -1,4 +1,5 @@
 ---
+title: My Swap Wife
 date: 2006-08-09 15:46
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 234
 Reality shows are to television as potato chips are to food.  For a short time, a new reality show can be the most delicious thing on.  But after you've eaten several hands full, you start to feel sick to your stomach.
 
 This is the week that I've officially turned on <a href="http://abc.go.com/primetime/wifeswap/" target="_blank"><i>Wife Swap</i></a>.  For a few weeks in a row, I've found that I uncharacteristically didn't want to watch.  The episodes that were starting looked to be just like other episodes (or maybe the same ones) that I had already seen.  But I've come to realize that pretty much <i>all</i> of the episodes are exactly the same, and that I've had enough.  Just like potato chips.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 If you've somehow missed this show, the basic idea is that they take two women who are as opposite as they could possibly be, and make them switch homes for a couple of weeks.  Hilarity ensues.  A couple of extreme examples include the switching of a bible thumper with a Wiccan and of a black lady with a racist.
 
 Although it would land me a quick trip to divorce court, I like to imagine what kind of swap wife I would get if I signed us up.

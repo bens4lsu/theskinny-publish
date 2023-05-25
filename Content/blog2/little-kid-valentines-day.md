@@ -1,4 +1,5 @@
 ---
+title: Little Kid Valentine's Day
 date: 2008-02-15 08:05
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 349
 Yesterday, we went to a dumb little Valentines day party at Vanya's preschool.  All the toddlers danced around while their teacher sang, and then we watched them eat their lunch.  Then we watched them get grouchy as it came close to nap time.
 
 I had completely forgotten about the elementary school, little crappy valentines that we had to give everyone in the class.  Starting this with two year olds seems a bit silly, but it gives the teachers something different to do that day, I guess.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 We had to go yesterday morning and get a pack of these crappy class valentines.  Like two other of the seven sets of parents, we chose ones with cute dog pictures, but fortunately, they were all different.  (A fourth set of parents had a cartoon dog.)
 
 This whole thing made me remember an event from when I was in 3rd grade.  I hadn't thought of it since, but I recalled it quite clearly.

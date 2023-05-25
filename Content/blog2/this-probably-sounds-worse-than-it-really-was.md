@@ -1,4 +1,5 @@
 ---
+title: This Probably Sounds Worse Than It Really Was
 date: 2009-01-12 18:19
 description: A description of my post.
 tags: my-youth
@@ -11,7 +12,7 @@ Shelly sent me this one from <a href="http://overheardinnewyork.com" target="_bl
 <b>(mother removes pack of cigarettes and lighter from bag)
 
 Husband to wife:</b> You have no shame.</blockquote>
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Boy oh boy, was that every mother in the 70s and 80s or just mine?  For some reason, I've told this story a couple of times recently.  Because it's relevant and because it's on my mind, I'll tell it again.
 
 I was probably about 14 and my sister about 10.  There was a Circle K down at the entrance to our subdivision.  I think we were on our way out of the subdivision when my mom rolled down the window to smoke, and realized that she was out of cigarettes.

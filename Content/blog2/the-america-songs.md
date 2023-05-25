@@ -1,4 +1,5 @@
 ---
+title: The "America" Songs
 date: 2005-08-18 21:06
 description: A description of my post.
 tags: pop-culture
@@ -9,7 +10,7 @@ When MTV2 first hit the air, they showed nothing but videos.  You know, just lik
 For one of their early years, they started playing all of the videos in the MTV library in alphabetical order by song.  They started at the turn of the new year, and the drill lasted all the way into May.<br />
 <br />
 That made for a fun game.  Guess what the next song would be, and wait around to see how many in-between songs that you had totally forgotten.  It would often be dozens.  It was also interesting to see how many versions of a particular song they had.  And, of course, there was lots and lots and lots of crap that you never heard of in the first place.
-<!--more--><br /><br />This year, I started playing the songs on my ipod alphabetically.  Not every time I listen, but every time that I can't decide what to listen to, I just pick up where I left off on the list.  I've worked through all of the songs that start with punctuation or numbers, and I'm well into the A's.  That doesn't seem like much, but it's a couple hundred songs in.<br />
+<span class="spanEndPreview">&nbsp;</span><br /><br />This year, I started playing the songs on my ipod alphabetically.  Not every time I listen, but every time that I can't decide what to listen to, I just pick up where I left off on the list.  I've worked through all of the songs that start with punctuation or numbers, and I'm well into the A's.  That doesn't seem like much, but it's a couple hundred songs in.<br />
 <br />
 I notice that there are some trends:  songs that start with an apostrophe or parentheses are more likely to be jazz or swing.  There are seventeen songs that start with "Ain't," and almost all of them are 60s R&B.  There are six totally different songs called "Angel" and six more that start with "Angel" and are then followed by more words.<br />
 <br />

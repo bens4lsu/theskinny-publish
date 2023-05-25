@@ -1,4 +1,5 @@
 ---
+title: Music Friday:  H.O.V.A
 date: 2012-04-13 08:22
 description: A description of my post.
 tags: music-pop-culture
@@ -10,4 +11,4 @@ So, the story that jumped out at me this week is that <a href="http://www.freep.
 
 So, that said, here's Jay-Z's best of many, many good ditties.
 
-<!--more--><iframe width="560" height="315" src="http://www.youtube.com/embed/1tWmyPMf3wU" frameborder="0" allowfullscreen></iframe>
+<span class="spanEndPreview">&nbsp;</span><iframe width="560" height="315" src="http://www.youtube.com/embed/1tWmyPMf3wU" frameborder="0" allowfullscreen></iframe>

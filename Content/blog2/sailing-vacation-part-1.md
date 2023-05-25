@@ -1,4 +1,5 @@
 ---
+title: Sailing Vacation - Part 1
 date: 2013-07-17 17:05
 description: A description of my post.
 tags: travel
@@ -8,7 +9,7 @@ id: 1653
 
 Before we went sailing, we spent a day and a night in Washington, DC.  Just a couple of monuments and a museum, and it wouldn't be anything to write about if it weren't for the downpour that caught us as we left the White House, walking up toward our hotel.  
 
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130628_151156_4922.JPG" width="250"></td></tr><tr><td class="caption" width="250">Rainstorm picture -- the last with my old camera.</td></tr></table>
 
 The rain came hard and fast.  It was cool, which felt nice after the hot, sweaty walk.  But then, we were drenched pretty quickly.  A stranger stopped her car, handed out a broken umbrella, and said, "Here!  Take it."  We thanked her and gave the umbrella to Vanya.  Mrs. theskinnyonbenny had the diaper bag over her head.  I had Kolya over me, and he had on a large hat.  The two of us were pretty wet.

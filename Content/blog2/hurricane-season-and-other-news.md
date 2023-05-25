@@ -1,4 +1,5 @@
 ---
+title: Hurricane Season and Other News
 date: 2004-06-01 09:02
 description: A description of my post.
 tags: current-events

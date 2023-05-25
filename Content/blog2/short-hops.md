@@ -1,4 +1,5 @@
 ---
+title: Short Hops
 date: 2009-07-08 12:41
 description: A description of my post.
 tags: uncategorized
@@ -13,7 +14,7 @@ I don't know if <a href="http://theskinnyonbenny.com/dailyphoto/2009/page.php?ye
 <center><img src="/img/greenline.gif"></center>
 
 All Michael Jackson, all the time coverage continues.  I noticed that the top selling songs on Itunes have been all MJ songs for two weeks now.  I bet he's making more than he has in years.  His creditors will be grateful.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Shelly wrote him <a href="/x/michaeljackson.php">an interesting obit right after the face</a>, which I've just gotten around to posting.
 
 A wierd and fascinating dude, for sure.

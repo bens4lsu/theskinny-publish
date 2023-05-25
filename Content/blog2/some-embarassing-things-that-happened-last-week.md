@@ -1,4 +1,5 @@
 ---
+title: Some Embarassing Things That Happened Last Week
 date: 2008-05-29 09:30
 description: A description of my post.
 tags: stories
@@ -9,7 +10,7 @@ First of all, let me explain the comment on that last post.
 I was leaving the preschool parking lot, when  PabloHoney (who I like to call Sharples) was pulling into the lot to drop off his kid.  I had the top down on the Jeep, and his window was down, so he stuck a fully extended arm way out of his window, and started giving me the finger.
 
 He held the gesture in place as I pulled into the street, and then, as our cars were as close as they would pass, he yelled, "YOU SUCK!"
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Four or five minutes later, I answered the phone, and he told me that Vanya's teacher was outside the door to witness the whole thing.
 
 I'm not sure if this is coincidental, but they decided to move Vanya up to the next class, which puts him in a different building than Sharple's baby.

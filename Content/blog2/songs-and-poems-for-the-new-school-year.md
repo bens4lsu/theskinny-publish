@@ -1,4 +1,5 @@
 ---
+title: Songs and Poems for the New School Year
 date: 2010-09-01 00:02
 description: A description of my post.
 tags: uncategorized
@@ -7,7 +8,7 @@ id: 854
 Every week I see more and more Facebook updates about the start of school.  Apparently, we started before anyone else, which is fine, because it's too darned hot for the kids to be doing anything else right now anyway.  Vanya started Pre-K4, in which they do a little more learning than they did in Pre-K3.  By the time he starts Kindergarten, he will have exceeded the amount of school instruction that I ever received in Music, Spanish, or Religion.
 
 My nephew started his school year as well.  His mother texted me to let me know what he thought about it:
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <img style="display:block;" src="/img/textthread20100815.jpg" alt="text message thread" />
 
 If I understand it correctly, the last two comments are passed on from Sam.

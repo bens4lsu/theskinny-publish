@@ -1,4 +1,5 @@
 ---
+title: Mel Gibson's Rules for Good Living
 date: 2010-07-05 15:11
 description: A description of my post.
 tags: current-events

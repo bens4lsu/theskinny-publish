@@ -1,4 +1,5 @@
 ---
+title: Overheard in Casa theskinnyonbenny
 date: 2006-10-20 07:21
 description: A description of my post.
 tags: stories
@@ -23,7 +24,7 @@ id: 251
 "Well let me report it as missing next time."
 
 "Okay."
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <center><img src="/img/greenline.gif"></center>
 
 "We could retire a lot sooner if we would just quit spending money like banshees."

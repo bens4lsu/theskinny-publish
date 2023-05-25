@@ -1,4 +1,5 @@
 ---
+title: Nads
 date: 2013-09-15 21:05
 description: A description of my post.
 tags: young-ruski

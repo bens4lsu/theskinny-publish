@@ -1,4 +1,5 @@
 ---
+title: Heartbreak Songs
 date: 2006-10-26 17:04
 description: A description of my post.
 tags: stories
@@ -7,7 +8,7 @@ id: 254
 On my quest to listen to all of my music alphabetically, I'm up to the songs that start with "Heart."  You might not be surprised to hear that there's a lot of country music in this section.  Lots of country music writers out there with heartache.
 
 So how do I make sure that I listen to all of the songs?
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 I have a playlist on my ipod that gives me all of the songs that I haven't rated.  They're sorted alphabetically, and I just start playing at the start of the list when I'm in the mood to make progress on this little project.  As I hear a song, I select a rating for them.  This gives me the added benefit of having ratings associated with songs, which I can then use to build other playlists (for example, "Give me all of the songs by Shaggy with 4 stars or better."  or "Give me all of the one star songs, except for those by Barbara Striesand or Bette Midler.")
 
 For the sake of full disclosure, I have both Barbara Striesand and Bette Midler in my music library.  I keep them off of the actual ipod.  They got there because Mrs. theskinnyonbenny borrowed the entire CD library from our friend Stacie, and ripped them all to disk with no censorship at all.  This action accounts for 75% of what I would generously refer to as "crap" in my music collection.

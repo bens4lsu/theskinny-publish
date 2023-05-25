@@ -1,4 +1,5 @@
 ---
+title: So now I'm blogging....
 date: 2004-01-26 22:36
 description: A description of my post.
 tags: uncategorized

@@ -1,4 +1,5 @@
 ---
+title: Office Place Strippers
 date: 2007-02-02 16:09
 description: A description of my post.
 tags: the-office
@@ -7,7 +8,7 @@ id: 275
 Many years ago, I was fairly certain that Scott Adams had a secret camera in our offices, and used it to grab the easy pickings for Dilbert strips.  Now, I've gotten to be fairly certain that he loaned the tapes to the group of people who write episodes of <i>The Office</i> for NBC.
 
 I can recollect a lot of episodes that were plucked right from APPRO in the past few years: the annual review, having to do layoffs, outing the gay employee, and -- most like our own office -- having "funny awards" presentations.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 Last night, the producers once again went to their pile of Baton Rouge videocassettes and landed on one where the boss brought a stripper to work.
 
 Several years ago, I was working at my desk.  I was backed up and annoyed with whatever I was doing, and I got a phone call from someone who could only want me to do something for her -- never the other way around.  For some reason, I picked up the phone.

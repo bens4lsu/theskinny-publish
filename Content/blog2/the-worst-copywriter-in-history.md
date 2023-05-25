@@ -1,4 +1,5 @@
 ---
+title: The Worst Copywriter In History
 date: 2017-05-19 19:27
 description: A description of my post.
 tags: other-peoples-stories
@@ -7,7 +8,7 @@ id: 2121
 My sister recently left a job where she worked for a real nut. &nbsp;Their business was butt wipes. &nbsp;Pretty simple.
 
 Below is the text from an email that boss man sent the advertising agency describing a commercial he wanted to make. &nbsp;All wording and grammer are exactly as he sent them, with the excitation that I've replaced the brand name with blanks.
-<!--more-->
+<span class="spanEndPreview">&nbsp;</span>
 <div style="margin-left:2.5em;">
 Seen 1
 
