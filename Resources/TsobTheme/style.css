@@ -147,6 +147,11 @@ ol.quotefile li {
     margin-bottom: 0;
 }
 
+.divPostShort h1 a {
+    color: #000;
+    text-decoration: none;
+}
+
 .divPostShort .top-nav-links {
     margin-bottom: 0;
 }

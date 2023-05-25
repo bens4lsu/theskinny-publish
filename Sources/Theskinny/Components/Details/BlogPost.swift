@@ -39,7 +39,9 @@ struct BlogPost: Component {
     
     var postShortBox: Component {
         Div {
-            H1(title)
+            H1{
+                Link(title, url: linkToFull)
+            }
             H3(dateString)
             Div(description)
             TopNavLinks(rightLinkInfo: TopNavLinks.LinkInfo(text: "read", url: linkToFull))

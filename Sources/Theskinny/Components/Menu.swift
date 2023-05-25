@@ -38,7 +38,7 @@ struct Menu: Component {
     
     private var listItemBlog: ListItem {
         ListItem {
-            Link ("Current Page", url: "/blog2")
+            Link ("Current Page", url: "/blog2/current")
         }
     }
     
@@ -48,7 +48,7 @@ struct Menu: Component {
         Div {
             List {
                 listItemHome.class("todo")
-                Collapser(text: "Blog", elementId: "collapser-blog", name: "#collapser-blog").component {
+                Collapser(text: "Blog", elementId: "collapser-blog").component {
                     listItemBlog.class("li-pagelink")
                     ListItem {
                         Text("index by date")
@@ -57,7 +57,7 @@ struct Menu: Component {
                         Text("tag/category index")
                     }.class("li-pagelink todo")
                 }
-                Collapser(text: "Photo Galleries", elementId: "collapser-photos", name: "#3").component {
+                Collapser(text: "Photo Galleries", elementId: "collapser-photos").component {
                     listItemDailyPhotos.class("li-pagelink")
                     listItemGalleries.class("li-pagelink")
                 }
@@ -74,7 +74,7 @@ struct Menu: Component {
                     Text("Playlists ♪")
                 }.class("todo")
                 
-                Collapser(text: "Extras", elementId: "collapser-extras", name: "#f").component {
+                Collapser(text: "Extras", elementId: "collapser-extras").component {
                     ListItem {
                         Link("The Bald Page", url: "/x/bald")
                     }.class("li-pagelink")
@@ -91,7 +91,7 @@ struct Menu: Component {
                         Link("Crystal On Oprah", url: "/x/crystalOnOprah")
                     }.class("li-pagelink")
                 }
-                Collapser(text: "From Others", elementId: "collapser-others", name: "#e").component {
+                Collapser(text: "From Others", elementId: "collapser-others").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
                     }.class("li-pagelink")
@@ -130,12 +130,12 @@ struct Menu: Component {
     private struct Collapser {
         var text: String
         var elementId: String
-        var name: String
+        //var name: String
         
         func component(@ComponentBuilder inside: @escaping ()-> Component) -> Component {
             ListItem {
                 List {
-                    Link(url: name) {
+                    Link(url: "javascript:void(0);") {
                         Text(text)
                         Span(" ▶︎").class("span-collapser").id("span-collapser-\(elementId)")
                         inside()
