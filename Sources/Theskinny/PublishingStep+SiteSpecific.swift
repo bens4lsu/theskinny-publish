@@ -33,10 +33,10 @@ extension PublishingStep where Site == Theskinny {
                     includePosts.append(allPosts.items[i * postsPerPage + j])
                 }
                 let posts = BlogPosts(items: includePosts)
-                var page = Page(path: "blog2/\(pageName)", content: Content())
+                var page = Page(path: "blog2/\(pageName).html", content: Content())
                 let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
-                page.content.body.html = html.render()
-                context.addPage(page)
+                let file = try context.createOutputFile(at: page.path)
+                try file.write(html.render(indentedBy: .spaces(4)))
             }
             
         }
