@@ -40,7 +40,7 @@ Three interesting observations:
 <p>But the real embarrassment is that there was one part of the parade that was supposed to shower the teams in ticker tape.  That's what you do when you win the championship, right?  Have a ticker tape parade?  I'm almost positive I've heard of that.
 </p>
 
-<a class="lightview alignright" href="/img//img/PoorTownsTickerTape.jpg" data-lightview-caption="Baton Rouge Celebrates the Southern Jaguars with Toilet Paper" data-lightview-group="group1" style="width:350px;"><img src="/img//img/PoorTownsTickerTape.jpg" alt="/img//img/PoorTownsTickerTape.jpg"><br><span class="caption">Baton Rouge Celebrates the Southern Jaguars with Toilet Paper</span></a>
+<a class="lightview alignright" href="/img/PoorTownsTickerTape.jpg" data-lightview-caption="Baton Rouge Celebrates the Southern Jaguars with Toilet Paper" data-lightview-group="group1" style="width:350px;"><img src="/img/PoorTownsTickerTape.jpg" alt="/img/PoorTownsTickerTape.jpg"><br><span class="caption">Baton Rouge Celebrates the Southern Jaguars with Toilet Paper</span></a>
 
 <p>I did kind of wonder where ticker tape would come from.  Certainly, there aren't any stock tickers any more.  Would it really be cash register tape?  That would make sense.  Maybe we could spot the pink dye on the edge that indicates the end of the roll.
 </p>

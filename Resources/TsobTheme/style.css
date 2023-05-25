@@ -156,6 +156,23 @@ ol.quotefile li {
     margin-bottom: 0;
 }
 
+a.lightview {
+    text-decoration:none;
+}
+
+.alignright {
+    display: inline-block;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.caption, a .caption {
+    font-weight: bold;
+    color:#4C4C4C;
+    font-size:80%;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;
