@@ -51,23 +51,18 @@ body {
 
 .div-home-wrapper-inner {
     display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr;
     grid-template-areas:
     "main"
     "blog"
     "dailyphoto";
-    gap: 20px;
 }
 
 .div-home-main-mess {
     grid-area: main;
     height: 300px;
     border: 1px solid green;
-}
-
-.div-home-tweets {
-    grid-area: tweets;
-    height: 700px;
-    border: 1px solid blue;
 }
 
 .div-home-latestblog {
@@ -80,12 +75,6 @@ body {
     grid-area: dailyphoto
     height: 440px;
     border: 1px solid yellow;
-}
-
-.div-home-shelly {
-    grid-area: shelly;
-    border: 1px solid purple;
-    height: 35px;
 }
 
 .menu {
@@ -149,7 +138,7 @@ a { color: #9E2606; }
 .content .padded-line {margin-bottom: 1.25em; }
 
 .content p {line-height: 1.33; margin-block-end: 2em;}
-.spanEndPreview {display: inline; display:none;}
+.spanEndPreview { display:none;}
 
 a.centered, a.centered img {
     display:block;
@@ -227,6 +216,8 @@ blockquote {
     }
     
     .div-home-wrapper-inner {
+        display: grid;
+        gap: 20px;
         grid-template-columns: 1fr 2fr;
         grid-template-areas:
         "main main"
@@ -234,7 +225,20 @@ blockquote {
         "tweets dailyphoto"
         "shelly shelly";
     }
-
+    
+    .div-home-tweets {
+        grid-area: tweets;
+        height: 700px;
+        border: 1px solid blue;
+    }
+    
+    .div-home-shelly {
+        grid-area: shelly;
+        border: 1px solid purple;
+        height: 35px;
+    }
+    
+    
     .topleft {
         height: 180px;
         background-image: url("/img/BenPurpleGold.JPG");

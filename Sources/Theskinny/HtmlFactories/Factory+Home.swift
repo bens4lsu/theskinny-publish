@@ -13,8 +13,7 @@ extension TsobHTMLFactory {
        
     func makeHomeHTML<T: Website>(for index: Index, section: Section<T>, context: PublishingContext<T>) throws -> HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "theskinnyonbenny.com")
-        let pageContent = Article { index.body }
-        
+        let pageContent = HomePage()
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
 
         return HTML(
