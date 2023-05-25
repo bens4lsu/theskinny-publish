@@ -7,15 +7,15 @@ id: 8
 ---
 It started with an email last Wednesday from Shelly:
 
->Friday Feb. 6th at Tippatina's. Interested? I think it would make some interesting photos for the skinny on benny web page.<
+<blockquote>Friday Feb. 6th at Tippatina's. Interested? I think it would make some interesting photos for the skinny on benny web page.</blockquote>
 
 Followed by an almost immediate response from Heather:
 
->YES!<
+<blockquote>YES!</blockquote>
 
 Followed, about 10 minutes later by Stacie:
 
->I think that they prefer to be called "little people," Miss Williams.<
+<blockquote>I think that they prefer to be called "little people," Miss Williams.</blockquote>
 
 So, with that amount of planning, we had plans to see midgets wrestle.
 
@@ -25,8 +25,8 @@ She went on to ask about whether a dwarf was real, and if so, what the differenc
 
 The actual wrestling was pretty much what I expected.  The people had a normal sized wrestling ring set up in the middle of the bar.  Miller High Life was on special, but they were out of that by 11:00.  Shortly after 11:00 a lone midget entered the ring, and worked some tired material full of f-bombs on the crowd.  He would get the DJ to stop and start music, and when the DJ would be too slow, ask the people, "Who wants to see a midget fuck up a DJ?"  That was kind of funny, but by far his best line.
 
-<a class="lightview alignright" href="/img//img/MidgetDown.JPG" data-lightview-caption="A midget wrestler waits for another midget to climb the ropes, then pretend to fall on them.
-" data-lightview-group="group1" style="width:350px;"><img src="/img//img/MidgetDown.JPG" alt="/img//img/MidgetDown.JPG"><br><span class="caption">A midget wrestler waits for another midget to climb the ropes, then pretend to fall on them.
+<a class="lightview alignright" href="/img/MidgetDown.JPG" data-lightview-caption="A midget wrestler waits for another midget to climb the ropes, then pretend to fall on them.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/MidgetDown.JPG" alt="/img/MidgetDown.JPG"><br><span class="caption">A midget wrestler waits for another midget to climb the ropes, then pretend to fall on them.
 </span></a>
 
 When we finally got midgets in the ring to wrestle, it was unbelievably goofy and fake.  I suppose the bogus fighting was no less fake than professional wrestling on TV, but they had no fancy music, smoke, lighting, or costumes to distract you from the fake fighting.  It was still kind of funny, just because the people fighting were "little people," as Stacie put it.

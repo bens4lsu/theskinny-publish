@@ -173,6 +173,11 @@ a.lightview {
     font-size:80%;
 }
 
+blockquote {
+    border-left:4px solid #4c4c4c;
+    padding-left: 2em;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;
