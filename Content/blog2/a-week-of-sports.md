@@ -1,0 +1,51 @@
+---
+title: A Week of Sports
+date: 2007-01-13 07:41
+description: A description of my post.
+tags: sports
+id: 269
+---
+I started several posts this week, but never had the time to go back and look over what I read, fix the really dumb mistakes, and get them posted.  There were a lot of sports-related topics on my mind this week, so I've combined a few different false-starts into a single weekly sports post for today.
+<span class="spanEndPreview">&nbsp;</span>
+<center><img src="/img/greenline.gif"></center>
+
+The king of all sports is over for the year.  Sigh.  I've got nothing to say about Florida's pasting of Ohio State.  It always feels weird during the bowl games to pull for the conference rivals that I hope to see beaten and/or seriously injured during the regular season, but I'm glad to see the national championship back in the SEC where it belongs.
+
+I remember when LSU won its first of the three recent Sugar Bowl victories after the 2001 season.  The happiness for the BCS win is the same this year, but I'm missing the disbelief that comes with a BCS win after a decade of being a fan of a bad football team.  I remember being really upbeat about Independence Bowl wins.
+
+After that game, someone asked me how many College World Series championships I would trade for a single Sugar Bowl win.  (Three.)  Given the state of our baseball program, I think that a lot of LSU fans figured out how to make such deals with the sports gods.
+
+I wonder what Florida had to trade the sports gods for championships in football and basketball?  I liked how the announcer last night threw in Dancing With the Stars as a third championship.
+
+Now that college is done, I'm very much looking forward the Saints game Saturday night.  There's such a random quality about any NFL game.  Did you know that underdogs actually won more games outright than they lost during this NFL season?  If the Saints and the Bears both win, I'm definitely going to Chicago for the NFC championship.  I suppose I should pull for the Seahawks, so that the Saints could have the NFC championship at home.  But how much fun would it be to go to a Soldier Field (or whatever corporation it's named for now) playoff game in January?
+
+The main thing is going to be keeping Jeff Garcia from getting loose and having the chance to make creative plays.  They defended similar quarterbacks (Tony Romo, Michael Vick) very well this season.  I can't wait to see how it goes, and I can't bear to read or watch another minute of prognostication.
+
+<center><img src="/img/greenline.gif"></center>
+
+I haven't mentioned the Nick Saban thing because there isn't much to add to what all of the columnists have already written.  I do think it's interesting that he's replaced TO as the representation of all that is wrong with sports.  I don't really begrudge the guy for going to Bama, although I wish he had "followed his heart" back to another conference.  
+
+I did feel sorry for Huizinga, the Dolphins owner.  Saban left him to face the Miami media all by himself, and I thought he was going to break down and cry up there.  He even asked the reporters for suggestions on how to build a winning franchise.  I think it's time for him to hang it up as an owner.
+
+<a href="http://sports.espn.go.com/espn/page2/story?page=simmons/070105
+" target="_blank">Bill Simmons had a really good column this week</a>, and he did a good job of summarizing the common sense take on Saban's move.
+
+<blockquote>Hearing the news that Nick Saban was headed to Alabama. Yippee!!!!!! The Patriots just lost the biggest coaching threat in their division!!!!! You'll hear no "Nick Saban is a lying scumbag" comments from this guy. For one thing, coaches pull this crap all the time -- they switch schools, switch teams, jump back and forth from college to the pros, and only remain loyal to themselves and their bank accounts. So this shouldn't have been a surprise to anyone. When we go more than three months without a visible coach boning over a pro team or a college, let me know.
+
+But here's why I enjoyed this particular bone job so much: Last spring, Saban was deciding between Drew Brees and Daunte Culpepper and ended up signing the wrong guy. Huge mistake on about 20 different levels, but the important thing to remember is that one decision killed Miami's entire season. And he made it. Anyway, the season finally ends and Saban says to himself, "Well, I can kill myself working 16 hours a day trying to make it work in a tough division with Culpepper, Joey Harrington and Cleo Lemon as my QBs ... or I can get a fresh start with the most famous coaching job in college football for $32 million guaranteed. Hmmmmmm."
+
+I mean ... OF COURSE he was going to leave! Did you really think he was sticking around? I'm surprised he didn't leave treadmarks. So Saban rides off into the sunset, never to be seen again, and the poor Dolphins fans wake up tomorrow and they're still stuck with Culpepper, Harrington and Lemon. How is that fair? I hope the Dolphins fans band together and break the record for "most turd sandwiches ever FedEx'd to one person."</blockquote>
+
+<center><img src="/img/greenline.gif"></center>
+
+While I'm doing a sports post, I might as well make a couple of basketball notes.
+
+First of all, Tack Minor played something like 20 minutes against UConn this weekend without a single turnover.  Despite the fact that it seems like Minor is into his sixth or seventh year of college basketball (didn't he replace TJ Pugh as point guard in the early 90s?), I doubt he has ever had a turnover-free game before.  He's the college basketball equivalent of Devry Henderson -- he either makes a huge play, or drops a wide-open pass.
+
+I'm gonna go ahead and make the call that the Hornets should move permanently to Oklahoma City.  They brought out 16,000 fans in an ice storm last night to see a team devoid of all its stars.  Desmond Mason led the team in scoring.  They will <i>never</i> have that sort of support in New Orleans, no how rebuilt and prosperous the city becomes.
+
+For the first time since the Michael Jordan era, I find myself looking for games where I have no regional rooting interest.  I'm looking for the Suns.  The way they move the ball around is unlike any NBA team that I've seen, and it's amazing to watch.  I've always been a fan of the assist and have occasionally gotten chill bumps at a perfectly executed bounce pass through traffic.  The Suns do it all the time.  I was watching Sports Center Friday morning, and out slipped an "Oh my God!"
+
+Mrs. theskinnyonbenny caught it in her half-sleep all the way back in the bedroom and responded with a loud concerned, "What's the matter?"
+
+She was unimpressed with my description of an amazing behind the back pass from Steve Nash.  He ended up with 21 assists for that game, by the way.

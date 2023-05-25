@@ -14,6 +14,7 @@ struct Theskinny: Website {
 
     struct ItemMetadata: WebsiteItemMetadata {
         var id: Int
+        var description: String?
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!
@@ -35,7 +36,6 @@ extension Theme where Site == Theskinny {
 // This will generate the website
 try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     // TODO:  folder and files for dead link redirects on blog2
-    // TODO:  post preview pages
     .writePostPages(),
 ])
 

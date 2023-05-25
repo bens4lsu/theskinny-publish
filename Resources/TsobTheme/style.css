@@ -135,6 +135,22 @@ ol.quotefile li {
     font-size: 75%;
 }
 
+.divPostShort {
+    border-radius: 12px;
+    background-color: #a6a6a6;
+    padding: 14px;
+    margin-bottom: 14px;
+    border: 2px solid #000;
+}
+
+.divPostShort h1 {
+    margin-bottom: 0;
+}
+
+.divPostShort .top-nav-links {
+    margin-bottom: 0;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;

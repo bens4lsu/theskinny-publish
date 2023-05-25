@@ -15,17 +15,13 @@ struct BlogPost: Component {
     let date: Date
     let content: Content.Body
     let id: Int
+    let description: String
     var linkToPrev: TopNavLinks.LinkInfo?
     var linkToNext: TopNavLinks.LinkInfo?
     
+    
     var dateString: String {
         EnvironmentKey.defaultDateFormatter.string(from: date)
-    }
-    
-    var preview: String {
-        let splitString = "<span class=\"spanEndPreview\">"
-        let contentSplit = content.html.components(separatedBy: splitString)
-        return contentSplit[0]
     }
     
     var linkToFull: String {
@@ -44,8 +40,9 @@ struct BlogPost: Component {
     var postShortBox: Component {
         Div {
             H1(title)
-            Div(preview)
-            TopNavLinks(rightLinkInfo: TopNavLinks.LinkInfo(text: "more...", url: linkToFull))
+            H3(dateString)
+            Div(description)
+            TopNavLinks(rightLinkInfo: TopNavLinks.LinkInfo(text: "read", url: linkToFull))
         }.class("divPostShort")
     }
 }
@@ -55,27 +52,18 @@ struct BlogPosts: Component {
     
     var count: Int { items.count }
     
-    
-    
-//    let listStyle = HTMLListStyle(elementName: "") { listItem in
-//        Div(listItem).class("padded-line")
-//    }
-    
-    var body: Component {
-        let items = self.items.sorted{ $0.date < $1.date }
-        return Article {
-            List(items) { item in
-                return Link(item.title, url: "/blog2\(item.slug)")
-            }//.listStyle(listStyle)
-        }
+    let listStyle = HTMLListStyle(elementName: "") { listItem in
+        Div(listItem)
     }
+    
+    var body: Component { return Div { } }
     
     func multiPostPageContent(withTopLinks topLinks: TopNavLinks) -> Component {
         Article {
             topLinks
             List(items) { item in
                 item.postShortBox
-            }
+            }.listStyle(listStyle)
         }
     }
     

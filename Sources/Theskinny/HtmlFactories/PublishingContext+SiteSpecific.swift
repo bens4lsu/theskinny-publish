@@ -18,7 +18,7 @@ extension PublishingContext where Site == Theskinny {
         }
         let blogPosts = blog2Section.items.map { item in
             let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
-            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id)
+            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id, description: item.metadata.description ?? "Description not provided")
         }.sorted(by: { $0.date < $1.date })
         
         return BlogPosts(items: blogPosts)
