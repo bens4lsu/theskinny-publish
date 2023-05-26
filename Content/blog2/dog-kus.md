@@ -14,31 +14,31 @@ The subtitle, which is difficult to read, is "Very Clever Haikus Cleverly Writte
 <center>The paperboy comes
 He wants to murder us all
 Bark! Bark! Bark! Bark! Bark!</center>
-<br /><br /><br />
+<br /><br />
 I also like this one, because it could have been about Blossom:
-<br /><br /><br />
+<br /><br />
 <center>I am a Dachshund
 My middle is really really really really too long for this poem but
 My legs and head fit.</center>
-<br /><br /><br />
+<br /><br />
 I asked my dogs for their contributions.
-<br /><br /><br />
+<br /><br />
 <center>Where should I poop?
 They think this place is a yard?
 I want some grass.</center>
-<br /><br /><br />
+<br /><br />
 I never knew that was such an issue.
-<br /><br /><br />
+<br /><br />
 <center>I sneak up behind,
 Wrap my arms and start to thrust.
 I like to hump cats.</center>
-<br /><br /><br />
+<br /><br />
 Lily then noted that she likes to hump Blossom and humans as well, but the structure of the haiku denied her the syllables to express her boundless joy in the subject.  She also thinks that she has arms.
-<br /><br /><br />
+<br /><br />
 <center>Who is this Ceasar?
 And why do those dogs cower,
 When he just says ffffttt?</center>
-<br /><br /><br />
+<br /><br />
 There's more comprehension of the television than I realized.
 
 I haven't read it page by page.  I just open it up and read where I land from time to time.  The good thing is that I find new ones every so often.  Here's one from the book that I never saw until tonight.

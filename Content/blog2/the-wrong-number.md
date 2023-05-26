@@ -5,18 +5,18 @@ description: A description of my post.
 tags: the-office
 id: 107
 ---
-Here's an amusing thing that just happened to me.<br />
-<br />
-Cell phone rings.<br />
-<br />
-Ben: Hello.<br />
-<br />
-Male Voice:  HEY THERE BIG BOY.<br />
-<br />
-Ben:  Umm, hey.<br />
-<br />
-Voice:  Oh, is this Frank?<br />
-<br />
-Ben:  No, this is your other big boy.<br />
-<br />
+Here's an amusing thing that just happened to me.
+
+Cell phone rings.
+
+Ben: Hello.
+
+Male Voice:  HEY THERE BIG BOY.
+
+Ben:  Umm, hey.
+
+Voice:  Oh, is this Frank?
+
+Ben:  No, this is your other big boy.
+
 Voice (laughing):  Sorry, I have the wrong number.
