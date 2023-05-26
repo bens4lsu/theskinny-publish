@@ -1,7 +1,7 @@
 ---
 title: Why Gangsta Paradise is Stuck In My Head Today
 date: 2023-05-17 12:49
-description: A description of my post.
+description: Back before the days of blogs and digital images, Mrs theskinnyonbenny and I got married and took a follow-up trip to Ireland.  We toured around for a bit and happened to end up in Dublin at the same time that then-president Clinton was in town.  You young uns won't remember, but back in the day, terrorists would occasionally blow up buildings in Ireland...
 tags: stories,pop-culture,music-pop-culture
 id: 2328
 ---
@@ -19,7 +19,7 @@ This week, I see headlines pop up about the Inflation Reduction Act (which I kno
 
 And that, my friends, is why I can't get Gangsta Paradise out of my head this week.
 
-<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+<img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 
 In some alternate universe, I started music blogging in 2004 instead of writing about asinine things that I had on my mind back then.  In that universe, I can was on for hours about the genius of some indy band that no one ever heard of, and I have a show on Sirius XMU that airs at 2:00 AM every Sunday.
 

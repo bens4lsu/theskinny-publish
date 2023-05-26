@@ -60,6 +60,31 @@ struct BlogPosts: Component {
     
     var body: Component { return Div { } }
     
+    var indexByDate: Component {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "MMMM, yyyy"
+        
+        let formatterLong = DateFormatter()
+        formatterLong.dateFormat = "EEEE, MMM d, yyyy"
+        
+        var curMonthString = ""
+        var result = ComponentGroup(members: [
+            H1("Index of Blog Posts by Date")
+        ])
+        
+        for item in items {
+            let itemMonthString = formatter.string(from: item.date)
+            if itemMonthString != curMonthString {
+                result.members.append(H2(itemMonthString))
+                curMonthString = itemMonthString
+            }
+            let formattedItemDate = formatterLong.string(from: item.date)
+            result.members.append(Paragraph{ Link(formattedItemDate + ":  " + item.title, url: item.linkToFull)}.class("p-indented") )
+        }
+        return Article { result }
+        
+    }
+    
     func multiPostPageContent(withTopLinks topLinks: TopNavLinks) -> Component {
         Article {
             topLinks

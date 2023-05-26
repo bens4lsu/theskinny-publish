@@ -16,8 +16,11 @@ struct AnyPageMain: Component {
     var custPersonImageClass: String?
     var custHeaderClass: String?
     
+    var debug = false
+    
     var body: Component {
-        Div {
+        //if debug { print (mainContent.render(indentedBy: .tabs(1))) }
+        return Div {
             LayoutHeader(custHeaderClass: custHeaderClass)
             LayoutAside(custPersonImageClass: custPersonImageClass)
             mainContent.class("content")

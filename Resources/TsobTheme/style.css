@@ -122,7 +122,14 @@ h3 {
 h2 {
     font-size: 100%;
     font-weight: bold;
-}   
+    color:#4C4C4C;
+}
+
+.content p.p-indented {
+    margin:  0.25em 0 0 2em;
+    margin-block: 0 0;
+    line-height: 1.75;
+}
 
 .content > h3 {margin-bottom: 60px;}
 
@@ -145,6 +152,8 @@ a.centered, a.centered img {
     margin-left:auto;
     margin-right:auto;
 }
+
+
 
 ol.quotefile p {
     margin-left:5em;
@@ -186,6 +195,10 @@ ol.quotefile li {
 
 a.lightview {
     text-decoration:none;
+}
+
+a.lightview img {
+    max-width:100%;
 }
 
 .alignright {
@@ -324,7 +337,7 @@ iframe {
     width: 100%; height: 100%;
 }
 
-.greenline {
+img.greenline {
     display: block;
     margin:auto;
 }
