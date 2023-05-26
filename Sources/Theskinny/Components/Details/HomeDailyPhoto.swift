@@ -13,7 +13,13 @@ struct HomeDailyPhoto: Component {
     
     var body: Component {
         Div {
-            
+            H1("The Daily Photo")
+            Image("https://dynamic.theskinnyonbenny.com/dp/currentImgBinary")
+            Div {
+                Text("Have you seen them all?  Check the ")
+                Link("daily photo page", url: "/dailyphoto")
+                Text(" to be sure.")
+            }.class("div-dp-message")
         }.class("div-home-dailyphoto")
     }
 }
