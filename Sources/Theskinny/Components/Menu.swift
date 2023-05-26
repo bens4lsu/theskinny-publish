@@ -51,8 +51,8 @@ struct Menu: Component {
                 Collapser(text: "Blog", elementId: "collapser-blog").component {
                     listItemBlog.class("li-pagelink")
                     ListItem {
-                        Text("index by date")
-                    }.class("li-pagelink todo")
+                        Link("Index by Date", url: "/blogArchiveByDate")
+                    }.class("li-pagelink")
                     ListItem {
                         Text("tag/category index")
                     }.class("li-pagelink todo")

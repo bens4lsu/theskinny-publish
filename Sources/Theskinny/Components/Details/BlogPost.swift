@@ -65,7 +65,7 @@ struct BlogPosts: Component {
         formatter.dateFormat = "MMMM, yyyy"
         
         let formatterLong = DateFormatter()
-        formatterLong.dateFormat = "EEEE, MMM d, yyyy"
+        formatterLong.dateFormat = "EEEE, MMMM d, yyyy"
         
         var curMonthString = ""
         var result = ComponentGroup(members: [
@@ -79,7 +79,11 @@ struct BlogPosts: Component {
                 curMonthString = itemMonthString
             }
             let formattedItemDate = formatterLong.string(from: item.date)
-            result.members.append(Paragraph{ Link(formattedItemDate + ":  " + item.title, url: item.linkToFull)}.class("p-indented") )
+            result.members.append(
+                Paragraph {
+                    Link(formattedItemDate + ":  " + item.title, url: item.linkToFull)
+                }.class("p-indented")
+            )
         }
         return Article { result }
         

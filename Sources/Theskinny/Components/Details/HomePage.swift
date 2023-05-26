@@ -11,10 +11,16 @@ import Plot
 
 struct HomePage: Component {
     
+    var context: PublishingContext<Theskinny>
+    
+    init(_ context: PublishingContext<Theskinny>) {
+        self.context = context
+    }
+    
     var body: Component {
         Article {
             Div {
-                HomeMainMessage()
+                HomeMainMessage(context)
                 HomeTweets()
                 HomeBlogPost()
                 HomeDailyPhoto()

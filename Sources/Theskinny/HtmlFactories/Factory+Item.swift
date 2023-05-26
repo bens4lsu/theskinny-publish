@@ -15,6 +15,7 @@ extension TsobHTMLFactory {
     enum TsobHTMLFactoryError: Error {
         case contextMissingAllPosts
         case currentPostNotFoundInContext
+        case currentPostMissingIDInMetadata
     }
     
     func makeItemHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
@@ -22,9 +23,9 @@ extension TsobHTMLFactory {
         case "blog2":
             return try makePostHTML(for: item, context: context)
         case "haikus":
-            return makeHaikuHTML(for: item, context: context)
+            return try makeHaikuHTML(for: item, context: context)
         case "njdispatches":
-            return makeNJHTML(for: item, context: context)
+            return try makeNJHTML(for: item, context: context)
             
             //        case "home":
             //            return try makeHomeHTML(for: context.index, section: section, context: context)
@@ -42,7 +43,10 @@ extension TsobHTMLFactory {
         guard let allPosts = context.allBlogPosts else {
             throw TsobHTMLFactoryError.contextMissingAllPosts
         }
-        guard let post = allPosts.post(withId: item.metadata.id) else {
+        guard let id = item.metadata.id else {
+            throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+        }
+        guard let post = allPosts.post(withId: id) else {
             throw TsobHTMLFactoryError.currentPostNotFoundInContext
         }
         let htmlHeadInfo = HeaderInfo(location: item, title: "Blog on theskinnyonbenny.com")
@@ -54,9 +58,12 @@ extension TsobHTMLFactory {
         )
     }
     
-    fileprivate func makeHaikuHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> Plot.HTML {
+    fileprivate func makeHaikuHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws ->  Plot.HTML {
+        guard let id = item.metadata.id else {
+            throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+        }
         let htmlHeadInfo = HeaderInfo(location: item, title: "Tyler's Haikus on theskinnyonbenny.com")
-        let haiku = Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
+        let haiku = Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: id)
         let pageMain = AnyPageMain(mainContent: haiku, site: context.site, custPersonImageClass: "topleft-tc", custHeaderClass: "header-tc")
 
         return HTML(
@@ -66,9 +73,12 @@ extension TsobHTMLFactory {
         )
     }
     
-    fileprivate func makeNJHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> Plot.HTML {
+    fileprivate func makeNJHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws -> Plot.HTML {
+        guard let id = item.metadata.id else {
+            throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+        }
         let htmlHeadInfo = HeaderInfo(location: item, title: "Shelly's NJ Dispatches on theskinnyonbenny.com")
-        let dispatch = NJDispatch(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
+        let dispatch = NJDispatch(title: item.content.title, date: item.content.date, content: item.content.body, id: id)
         let pageMain = AnyPageMain(mainContent: dispatch, site: context.site, custPersonImageClass: "topleft-sw", custHeaderClass: "header-sw")
 
         return HTML(

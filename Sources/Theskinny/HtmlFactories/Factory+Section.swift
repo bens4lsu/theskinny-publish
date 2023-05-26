@@ -31,8 +31,11 @@ extension TsobHTMLFactory {
     
     fileprivate func makeHaikusHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Tyler's Haikus on theskinnyonbenny.com")
-        let haikuArray = section.items.map { item in
-            Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: item.metadata.id)
+        let haikuArray = try section.items.map { item in
+            guard let id = item.metadata.id else {
+                throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+            }
+            return Haiku(title: item.content.title, date: item.content.date, content: item.content.body, id: id)
         }
         let haikus = Haikus(items: haikuArray)
         let pageMain = AnyPageMain(mainContent: haikus, site: context.site, custPersonImageClass: "topleft-tc", custHeaderClass: "header-tc")
@@ -46,8 +49,11 @@ extension TsobHTMLFactory {
     
     fileprivate func makeNJHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Shelly's NJ Dispatches on theskinnyonbenny.com")
-        let dispatchArray = section.items.map { dispatch in
-            NJDispatch(title: dispatch.content.title, date: dispatch.content.date, content: dispatch.content.body, id: dispatch.metadata.id)
+        let dispatchArray = try section.items.map { dispatch in
+            guard let id = dispatch.metadata.id else {
+                throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+            }
+            return NJDispatch(title: dispatch.content.title, date: dispatch.content.date, content: dispatch.content.body, id: id)
         }
         let dispatches = NJDispatches(items: dispatchArray)
         let pageMain = AnyPageMain(mainContent: dispatches, site: context.site, custPersonImageClass: "topleft-sw", custHeaderClass: "header-nj")

@@ -1,6 +1,7 @@
 import Foundation
 import Publish
 import Plot
+import Files
 
 // This type acts as the configuration for your website.
 struct Theskinny: Website {
@@ -13,7 +14,7 @@ struct Theskinny: Website {
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
-        var id: Int
+        var id: Int?
         var description: String?
     }
 
@@ -38,5 +39,4 @@ try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     // TODO:  folder and files for dead link redirects on blog2
     .writePostPages(),
 ])
-
 
