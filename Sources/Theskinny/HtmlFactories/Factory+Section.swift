@@ -12,8 +12,8 @@ import Plot
 extension TsobHTMLFactory {
     func makeSectionHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
         switch section.id.rawValue{
-//        case "blog2":
-//            return try makePostsHTML(for: section, context: context)
+        case "blog2":
+            return try makePostsHTML(for: section, context: context)
         case "haikus":
             return try makeHaikusHTML(for: section, context: context)
         case "njdispatches":
