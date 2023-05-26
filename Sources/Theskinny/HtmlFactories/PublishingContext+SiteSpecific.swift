@@ -16,12 +16,18 @@ extension PublishingContext where Site == Theskinny {
         else {
             return nil
         }
-        let blogPosts = blog2Section.items.map { item in
-            let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
-            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id, description: item.metadata.description ?? "Description not provided")
-        }.sorted(by: { $0.date < $1.date })
-        
-        return BlogPosts(items: blogPosts)
+        do {
+            let blogPosts = try blog2Section.items.map { item in
+                guard let id = item.metadata.id else {
+                    throw TsobHTMLFactory.TsobHTMLFactoryError.currentPostMissingIDInMetadata
+                }
+                let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
+                return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: item.metadata.description ?? "Description not provided")
+            }.sorted(by: { $0.date < $1.date })
+            return BlogPosts(items: blogPosts)
+        } catch {
+            exit(0)
+        }
     }
     
     var allBlogPostsReversed: BlogPosts? {

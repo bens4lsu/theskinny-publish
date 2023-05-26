@@ -9,19 +9,18 @@ import Foundation
 import Publish
 import Plot
 import Files
+import Ink
 
 struct HomeMainMessage: Component {
     
     var context: PublishingContext<Theskinny>
     
-    var content: String?  {
-        let path =  context.site.imagePath
-        let folder = try? Folder(path: path?.string ?? "")
+    var content: Component  {
+        let path =  context.site.path(for: .home).parent() + "Content/homeMain.md"
         
-        let file = try? File(path: folder?.path ?? "" + "homeMain.txt")
-        let string = try? file?.readAsString()
-        print(string)
-        return string
+        let file = try? File(path: path)
+        let string = (try? file?.readAsString()) ?? ""
+        return Markdown(string)
     }
     
     
@@ -29,11 +28,9 @@ struct HomeMainMessage: Component {
         self.context = context
     }
     
-    
-    
     var body: Component {
         Div {
-            Text(content ?? "")
+            content
         }.class("div-home-main-mess")
     }
 }
