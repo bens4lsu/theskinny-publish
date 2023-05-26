@@ -61,20 +61,20 @@ body {
 
 .div-home-main-mess {
     grid-area: main;
-    height: 300px;
-    border: 1px solid green;
 }
 
 .div-home-latestblog {
     grid-area: blog
-    height: 450px;
-    border: 1px solid red;
 }
 
 .div-home-dailyphoto {
     grid-area: dailyphoto
     height: 440px;
     border: 1px solid yellow;
+}
+
+.div-home-tweets {
+    display:none;
 }
 
 .menu {
@@ -240,9 +240,9 @@ blockquote {
     }
     
     .div-home-tweets {
+        display:block;
         grid-area: tweets;
-        height: 700px;
-        border: 1px solid blue;
+        max-width: 400px;
     }
     
     .div-home-shelly {

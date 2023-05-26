@@ -22,7 +22,7 @@ struct HomePage: Component {
             Div {
                 HomeMainMessage(context)
                 HomeTweets()
-                HomeBlogPost()
+                HomeBlogPost(context.allBlogPosts!)
                 HomeDailyPhoto()
                 HomeShelly()
             }.class("div-home-wrapper-inner")

@@ -47,7 +47,7 @@ struct Menu: Component {
 
         Div {
             List {
-                listItemHome.class("todo")
+                listItemHome.class("li-pagelink")
                 Collapser(text: "Blog", elementId: "collapser-blog").component {
                     listItemBlog.class("li-pagelink")
                     ListItem {
