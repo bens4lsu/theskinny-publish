@@ -10,7 +10,8 @@ struct Theskinny: Website {
         case blog2
         case haikus
         case njdispatches
-
+        case adopV
+        case adopK
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
