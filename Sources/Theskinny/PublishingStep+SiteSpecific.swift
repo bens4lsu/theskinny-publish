@@ -31,12 +31,12 @@ extension PublishingStep where Site == Theskinny {
                     case 0:
                         return nil
                     case 1:
-                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog2/current")
+                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog/current")
                     default:
-                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog2/page-\(i - 1)")
+                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog/page-\(i - 1)")
                     }
                 }()
-                let leftLinkInfo: TopNavLinks.LinkInfo? = (i == numPages - 1) ? nil : TopNavLinks.LinkInfo(text: "older", url: "/blog2/page-\(i + 1)")
+                let leftLinkInfo: TopNavLinks.LinkInfo? = (i == numPages - 1) ? nil : TopNavLinks.LinkInfo(text: "older", url: "/blog/page-\(i + 1)")
                 let linkInfo = TopNavLinks(leftLinkInfo: leftLinkInfo, rightLinkInfo: rightLinkInfo)
                 
                 let postsThisPage = (postsPerPage >= (i * postsPerPage + postsPerPage)) ? postsPerPage : postsOnLastPage
@@ -45,7 +45,7 @@ extension PublishingStep where Site == Theskinny {
                     includePosts.append(allPosts[i * postsPerPage + j])
                 }
                 let posts = BlogPosts(items: includePosts)
-                let page = Page(path: "blog2/\(pageName)/index.html", content: Content())
+                let page = Page(path: "blog/\(pageName)/index.html", content: Content())
                 let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render(indentedBy: .spaces(4)))

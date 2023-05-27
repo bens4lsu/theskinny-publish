@@ -13,7 +13,7 @@ extension TsobHTMLFactory {
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
         return {
             switch page.path {
-            case "blogArchiveByDate":
+            case "blog/blogArchiveByDate":
                 return makePageHTMLBlogArchiveByDate(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)

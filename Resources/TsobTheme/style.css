@@ -267,6 +267,39 @@ blockquote {
         grid-area: shelly;
     }
     
+    .div-adop-wrapper-inner {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        "main main"
+        "blog blog"
+        "dailyphoto dailyphoto";
+        gap: 20px;
+    }
+    
+    .div-adop-wrapper-inner {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        "vanya kolya"
+        "bottomstuff bottomstuff";
+        gap: 0;
+    }
+    
+    .div-adop-v {
+        border: 1px solid blue;
+        grid-area: vanya;
+        height: 700px;
+    }
+    
+    .div-adop-k {
+        border: 1px solid red;
+        grid-area: kolya
+    }
+    
+    .div-adop-bottomstuff {
+        grid-area: bottomstuff;
+    }
+    
     
     .topleft {
         height: 180px;

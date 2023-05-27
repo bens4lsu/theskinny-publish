@@ -82,15 +82,18 @@
         grid-template-areas: 
         "vanya kolya"
         "bottomstuff bottomstuff";
+        gap: 0;
     }
     
     .div-adop-v {
         border: 1px solid blue;
         grid-area: vanya;
+        height: 700px;
     }
     
     .div-adop-k {
         border: 1px solid red;
+        grid-area: kolya
     }
 
   @media (min-width: 500px) {
@@ -136,12 +139,13 @@
     <header class="main-head"></header>
     <article class="content">
         
-        <div class="div-home-wrapper-inner">
-            <div class="div-home-main-mess"></div>
-            <div class="div-home-tweets"></div>
-            <div class="div-home-latestblog"></div>
-            <div class="div-home-dailyphoto"></div>
-            <div class="div-home-shelly"></div>
+        <div class="div-adop-wrapper-inner">
+            <div class="div-adop-v">
+            </div>
+            <div class="div-adop-k">
+            
+            </div>
+            
         </div>
       
     </article>
@@ -155,6 +159,7 @@
         </ul>
       </div>
     </aside>
+
     <footer class="main-footer">
       
     </footer>

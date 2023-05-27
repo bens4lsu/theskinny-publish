@@ -2,7 +2,7 @@
 //  File.swift
 //  
 //
-//  Created by Ben Schultz on 5/25/23.
+//  Created by Ben Schultz on 5/27/23.
 //
 
 import Foundation
@@ -10,12 +10,13 @@ import Publish
 import Plot
 import Files
 
-struct HomeMainMessage: Component {
+
+struct AdopHomeV: Component {
     
     var context: PublishingContext<Theskinny>
     
     var content: Component  {
-        let path =  context.site.path(for: .home).parent() + "Content/homeMain.md"
+        let path =  context.site.path(for: .home).parent() + "Content/a/adopHomeV.md"
         
         let file = try? File(path: path)
         let string = (try? file?.readAsString()) ?? ""
@@ -30,6 +31,6 @@ struct HomeMainMessage: Component {
     var body: Component {
         Div {
             content
-        }.class("div-home-main-mess")
+        }.class("div-adop-v")
     }
 }
