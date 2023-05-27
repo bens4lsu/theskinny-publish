@@ -286,18 +286,19 @@ blockquote {
     }
     
     .div-adop-v {
-        border: 1px solid blue;
+        border-right: 4px solid #8c8c8c;
         grid-area: vanya;
-        height: 700px;
+        padding-right: 15px;
     }
     
     .div-adop-k {
-        border: 1px solid red;
-        grid-area: kolya
+        grid-area: kolya;
+        padding-left: 25px;
     }
     
     .div-adop-bottomstuff {
         grid-area: bottomstuff;
+        margin-top:40px;
     }
     
     

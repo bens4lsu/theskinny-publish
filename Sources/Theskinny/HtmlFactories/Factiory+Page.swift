@@ -15,6 +15,8 @@ extension TsobHTMLFactory {
             switch page.path {
             case "blog/blogArchiveByDate":
                 return makePageHTMLBlogArchiveByDate(for: page, context: context)
+            case "adop":
+                return makePageHTMLAdopHome(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -46,6 +48,16 @@ extension TsobHTMLFactory {
         guard let pageContent = context.allBlogPostsReversed?.indexByDate else {
             return makePageHTMLDefault(for: page, context: context)
         }
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site, debug: true)
+        return HTML (
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
+    fileprivate func makePageHTMLAdopHome(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Russian Adoption Stories")
+        let pageContent = AdopHome(context)
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site, debug: true)
         return HTML (
             htmlHeadInfo.node,

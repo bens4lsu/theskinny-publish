@@ -42,6 +42,12 @@ struct Menu: Component {
         }
     }
     
+    private var listItemAdop: ListItem {
+        ListItem {
+            Link ("Adopting the Kids", url: "/adop")
+        }
+    }
+    
     
     var body: Component {
 
@@ -64,9 +70,7 @@ struct Menu: Component {
                 ListItem {
                     Text("Videos")
                 }.class("todo")
-                ListItem {
-                    Text("Adopting the Kids")
-                }.class("todo")
+                listItemAdop.class("li-pagelink")
                 ListItem {
                     Text("Velvet Elvis")
                 }.class("todo")
@@ -118,6 +122,7 @@ struct Menu: Component {
                 listItemBlog
                 listItemDailyPhotos
                 listItemGalleries
+                listItemAdop
                 ListItem {
                     Link("Other pages", url: "/mobileSitemap")
                 }
