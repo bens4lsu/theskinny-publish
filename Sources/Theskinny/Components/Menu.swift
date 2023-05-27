@@ -38,7 +38,7 @@ struct Menu: Component {
     
     private var listItemBlog: ListItem {
         ListItem {
-            Link ("Current Page", url: "/blog2/current")
+            Link ("Current Page", url: "/blog/current")
         }
     }
     
