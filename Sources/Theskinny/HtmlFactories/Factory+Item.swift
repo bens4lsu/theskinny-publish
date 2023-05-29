@@ -12,12 +12,6 @@ import Plot
 
 extension TsobHTMLFactory {
     
-    enum TsobHTMLFactoryError: Error {
-        case contextMissingAllPosts
-        case currentPostNotFoundInContext
-        case currentPostMissingIDInMetadata
-    }
-    
     func makeItemHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         switch item.sectionID.rawValue {
         case "blog2":

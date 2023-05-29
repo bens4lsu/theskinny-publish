@@ -17,6 +17,7 @@ struct Theskinny: Website {
     struct ItemMetadata: WebsiteItemMetadata {
         var id: Int?
         var description: String?
+        var adopSection: AdopSection?
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!

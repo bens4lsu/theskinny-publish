@@ -37,4 +37,22 @@ extension PublishingContext where Site == Theskinny {
         let reversedItems = tmpBlogPosts.items.reversed() as [BlogPost]
         return BlogPosts(items: reversedItems)
     }
+    
+    var adopPosts: AdopGeneral? {
+        guard let section = self.sections.filter({ $0.id == .adopK || $0.id == .adopV }).first
+        else {
+            return nil
+        }
+        do {
+            let adopItems = try section.items.map { item in
+                guard let adopSection = item.metadata.adopSection else {
+                    throw TsobHTMLFactory.TsobHTMLFactoryError.adopPostWihtoutSection
+                }
+                return AdopItem(title: item.title, date: item.date, section: adopSection, content: item.content.body, slug: item.path.string, siteSection: section)
+            }
+            return AdopGeneral(items: adopItems)
+        } catch {
+            exit(0)
+        }
+    }
 }

@@ -10,6 +10,13 @@ import Plot
 
 struct TsobHTMLFactory: HTMLFactory {
     
+    enum TsobHTMLFactoryError: Error {
+        case contextMissingAllPosts
+        case currentPostNotFoundInContext
+        case currentPostMissingIDInMetadata
+        case adopPostWihtoutSection
+    }
+    
     struct HeaderInfo {
         let site: any Website = Theskinny()
         let location: Location

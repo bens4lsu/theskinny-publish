@@ -18,6 +18,10 @@ extension TsobHTMLFactory {
             return try makeHaikusHTML(for: section, context: context)
         case "njdispatches":
             return try makeNJHTML(for: section, context: context)
+        case "adopK":
+            return try makeAdopHtml(for: section, context: context, name: "Kolya", component: context.adopPosts?.adopK)
+        case "adopV":
+            return try makeAdopHtml(for: section, context: context, name: "Vanya", component: context.adopPosts?.adopV)
             
 //        case "home":
 //            return try makeHomeHTML(for: context.index, section: section, context: context)
@@ -63,5 +67,19 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+    }
+    
+    fileprivate func makeAdopHtml(for section: Section<Theskinny>, context: PublishingContext<Theskinny>, name: String, component: Component?) throws -> HTML {
+        guard let component = component else {
+            throw TsobHTMLFactoryError.adopPostWihtoutSection
+        }
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "\(name)'s Adoption Page")
+        let pageMain = AnyPageMain(mainContent: component, site: context.site, custHeaderClass: "header-rus")
+        
+        return HTML (
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+        
     }
 }
