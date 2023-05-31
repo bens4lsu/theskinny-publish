@@ -188,15 +188,24 @@ a { color: #9E2606; }
     text-align: right;
 }
 
-
-
-
-
 .content img {margin: 10px;}
 .content .padded-line {margin-bottom: 1.25em; }
 
+.content .list-of-links {
+    margin-left: 1.5em;
+    line-height: 1.8em;
+}
+
+.content .list-of-links a {
+    text-decoration: none;
+}
+
 .content p {line-height: 1.33; margin-block-end: 2em;}
 .spanEndPreview { display:none;}
+
+.content ul li {
+    margin-bottom: 1.5em;
+}
 
 a.centered, a.centered img {
     display:block;

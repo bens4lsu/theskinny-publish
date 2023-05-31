@@ -65,11 +65,11 @@ class AdopGeneral {
     
     var items: [AdopItem]
         
-    var prelimLinks: List<[AdopItem]> { listItemsForSection(.preliminaries) }
-    var tripOneLinks: List<[AdopItem]> { listItemsForSection(.tripOne) }
-    var betweenTripsLinks:  List<[AdopItem]> { listItemsForSection(.betweenTrips) }
-    var tripTwoLinks:  List<[AdopItem]> { listItemsForSection(.tripTwo) }
-    var lastLink:  List<[AdopItem]> { listItemsForSection(.home) }
+    var prelimLinks: Component { listItemsForSection(.preliminaries) }
+    var tripOneLinks: Component { listItemsForSection(.tripOne) }
+    var betweenTripsLinks:  Component { listItemsForSection(.betweenTrips) }
+    var tripTwoLinks:  Component { listItemsForSection(.tripTwo) }
+    var lastLink:  Component { listItemsForSection(.home) }
     
     var adopV: Component {
         let filteredItems = items.filter({ $0.siteSection.id == .adopv })
@@ -111,14 +111,18 @@ class AdopGeneral {
     
 
     
-    private func listItemsForSection(_ section: AdopSection) -> List<[AdopItem]> {
+    private func listItemsForSection(_ section: AdopSection) -> Component {
         let sectionItems = items.filter { $0.section == section }
         
-        return List(sectionItems) { item in
-            ListItem {
-                Link("\(item.dateString):  \(item.title)", url: "/\(item.slug)")
-            }
+        let listStyle = HTMLListStyle(elementName: "") { listItem in
+            Div(listItem).class("list-of-links")
         }
+        
+        let list = List(sectionItems) { item in
+            Link("\(item.dateString):  \(item.title)", url: "/\(item.slug)")
+        }.listStyle(listStyle)
+        
+        return list
     }
 }
 
