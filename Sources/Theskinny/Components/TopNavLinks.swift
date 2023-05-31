@@ -93,7 +93,7 @@ struct TopNavLinks: Component {
         
         var body: Component {
             Div {
-                Link("\(text)", url: url)
+                Link("\(text)", url: url).class("div-right-text")
                 Div("»").class("div-right-ticks")
             }.class("link-arrow link-arrow-right")
         }
