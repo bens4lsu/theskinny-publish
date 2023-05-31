@@ -28,7 +28,7 @@ struct NJDispatch: Component {
     }
     
     var body: Component {
-        let linkInfo = TopNavLinks.LinkInfo(text: "Back to full list", url: "/njdispatches")
+        let linkInfo = LinkInfo(text: "Back to full list", url: "/njdispatches")
         
         return Article {
             TopNavLinks(leftLinkInfo: linkInfo)

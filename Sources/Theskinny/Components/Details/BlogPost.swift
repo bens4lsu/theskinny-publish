@@ -16,8 +16,8 @@ struct BlogPost: Component {
     let content: Content.Body
     let id: Int
     let description: String
-    var linkToPrev: TopNavLinks.LinkInfo?
-    var linkToNext: TopNavLinks.LinkInfo?
+    var linkToPrev: LinkInfo?
+    var linkToNext: LinkInfo?
     
     
     var dateString: String {
@@ -44,7 +44,7 @@ struct BlogPost: Component {
             }
             H3(dateString)
             Div(description)
-            TopNavLinks(rightLinkInfo: TopNavLinks.LinkInfo(text: "read", url: linkToFull))
+            TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: linkToFull))
         }.class("divPostShort")
     }
 }
@@ -104,10 +104,10 @@ struct BlogPosts: Component {
         }
         var post = items[i]
         if i != 0 {
-            post.linkToPrev = TopNavLinks.LinkInfo(text: items[i-1].title, url: "/blog2/\(items[i-1].slug)")
+            post.linkToPrev = LinkInfo(text: items[i-1].title, url: "/blog2/\(items[i-1].slug)")
         }
         if i < count - 1 {
-            post.linkToNext = TopNavLinks.LinkInfo(text: items[i+1].title, url: "/blog2/\(items[i+1].slug)")
+            post.linkToNext = LinkInfo(text: items[i+1].title, url: "/blog2/\(items[i+1].slug)")
         }
         return post
     }

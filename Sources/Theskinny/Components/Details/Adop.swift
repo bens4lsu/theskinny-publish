@@ -26,9 +26,9 @@ struct AdopItem: Component {
     var content: Content.Body
     var slug: String
     var siteSection: Section<Theskinny>
-    var linkToPrev: TopNavLinks.LinkInfo?
-    var linkToIndex: TopNavLinks.LinkInfo?
-    var linkToNext: TopNavLinks.LinkInfo?
+    var linkToPrev: LinkInfo?
+    var linkToIndex: LinkInfo?
+    var linkToNext: LinkInfo?
     
     
     var dateString: String {
@@ -100,12 +100,12 @@ class AdopGeneral {
         
         var post = itemSubset[i]
         if i != 0 {
-            post.linkToPrev = TopNavLinks.LinkInfo(text: itemSubset[i-1].title, url: "/\(itemSubset[i-1].slug)")
+            post.linkToPrev = LinkInfo(text: itemSubset[i-1].title, url: "/\(itemSubset[i-1].slug)")
         }
         if i < itemSubset.count - 1 {
-            post.linkToNext = TopNavLinks.LinkInfo(text: itemSubset[i+1].title, url: "/\(itemSubset[i+1].slug)")
+            post.linkToNext = LinkInfo(text: itemSubset[i+1].title, url: "/\(itemSubset[i+1].slug)")
         }
-        post.linkToIndex = TopNavLinks.LinkInfo(text: "Story Index", url: folder)
+        post.linkToIndex = LinkInfo(text: "Story Index", url: folder)
         return post
     }
     

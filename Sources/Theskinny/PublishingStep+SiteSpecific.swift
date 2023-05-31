@@ -26,17 +26,17 @@ extension PublishingStep where Site == Theskinny {
                 
                 let pageName = i == 0 ? "current" : "page-\(i)"
                 
-                let rightLinkInfo: TopNavLinks.LinkInfo? = {
+                let rightLinkInfo: LinkInfo? = {
                     switch i {
                     case 0:
                         return nil
                     case 1:
-                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog/current")
+                        return LinkInfo(text: "newer", url: "/blog/current")
                     default:
-                        return TopNavLinks.LinkInfo(text: "newer", url: "/blog/page-\(i - 1)")
+                        return LinkInfo(text: "newer", url: "/blog/page-\(i - 1)")
                     }
                 }()
-                let leftLinkInfo: TopNavLinks.LinkInfo? = (i == numPages - 1) ? nil : TopNavLinks.LinkInfo(text: "older", url: "/blog/page-\(i + 1)")
+                let leftLinkInfo: LinkInfo? = (i == numPages - 1) ? nil : LinkInfo(text: "older", url: "/blog/page-\(i + 1)")
                 let linkInfo = TopNavLinks(leftLinkInfo: leftLinkInfo, rightLinkInfo: rightLinkInfo)
                 
                 let postsThisPage = (postsPerPage >= (i * postsPerPage + postsPerPage)) ? postsPerPage : postsOnLastPage

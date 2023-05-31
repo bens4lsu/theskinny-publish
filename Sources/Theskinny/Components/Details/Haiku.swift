@@ -32,7 +32,7 @@ struct Haiku: Component {
     }
     
     var body: Component {
-        let linkInfo = TopNavLinks.LinkInfo(text: "Back to full list", url: "/haikus")
+        let linkInfo = LinkInfo(text: "Back to full list", url: "/haikus")
         
         return Article {
             TopNavLinks(leftLinkInfo: linkInfo)

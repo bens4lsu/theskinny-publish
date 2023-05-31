@@ -10,17 +10,23 @@ import Plot
 import Publish
 
 
-struct TopNavLinks: Component {
+class LinkInfo {
+    let text: String
+    let url: String
     
-    struct LinkInfo {
-        let text: String
-        let url: String
-        
-        init(text: String?, url: String) {
-            self.text = text ?? "---"
-            self.url = url
-        }
+    init(text: String?, url: String) {
+        self.text = text ?? "---"
+        self.url = url
     }
+    
+    convenience init(_ text: String?, _ url: String) {
+        self.init(text: text, url: url)
+    }
+}
+
+
+
+class TopNavLinks: Component {
     
     var leftLinkInfo: LinkInfo?
     var middleLinkInfo: LinkInfo?
@@ -48,76 +54,50 @@ struct TopNavLinks: Component {
             rightside
         }.class("top-nav-links")
     }
+}
     
-    fileprivate struct ArrowToLeft: Component {
-        var text: String
-        var url: String
-        
-        init(_ text: String, _ url: String) {
-            self.text = text
-            self.url = url
-        }
-        
-        var body: Component {
-            Div {
-                Div("«").class("div-left-ticks")
-                Link("\(text)", url: url).class("div-left-text")
-            }.class("link-arrow link-arrow-left")
-        }
-    }
-    
-    fileprivate struct MiddleLink: Component {
-        var text: String
-        var url: String
-        
-        init(_ text: String, _ url: String) {
-            self.text = text
-            self.url = url
-        }
-        
-        var body: Component {
-            Div {
-                Link("\(text)", url: url)
-            }.class("link-arrow link-middle")
-        }
-    }
-    
-    fileprivate struct ArrowToRight: Component {
-        var text: String
-        var url: String
-        
-        init(_ text: String, _ url: String) {
-            self.text = text
-            self.url = url
-        }
-        
-        var body: Component {
-            Div {
-                Link("\(text)", url: url).class("div-right-text")
-                Div("»").class("div-right-ticks")
-            }.class("link-arrow link-arrow-right")
-        }
-        
-//        var empty: Component {
-//            Div { Text("&nbsp;") }.class("link-arrow-right")
-//        }
-    }
-    
-    fileprivate struct EmptyToLeft: Component {
-        var body: Component {
-            Div {  }.class("link-arrow link-arrow-left")
-        }
-    }
-    
-    fileprivate struct EmptyToRight: Component {
-        var body: Component {
-            Div {  }.class("link-arrow link-arrow-right")
-        }
-    }
-    
-    fileprivate struct EmptyMiddle: Component {
-        var body: Component {
-            Div {  }.class("link-arrow link-middle")
-        }
+fileprivate class ArrowToLeft: LinkInfo, Component {
+    var body: Component {
+        Div {
+            Div("«").class("div-left-ticks")
+            Link("\(self.text)", url: self.url).class("div-left-text")
+        }.class("link-arrow link-arrow-left")
     }
 }
+    
+fileprivate class MiddleLink: LinkInfo, Component {
+    var body: Component {
+        Div {
+            Link("\(self.text)", url: self.url)
+        }.class("link-arrow link-middle")
+    }
+}
+    
+fileprivate class ArrowToRight: LinkInfo, Component {
+    var body: Component {
+        Div {
+            Link("\(self.text)", url: self.url).class("div-right-text")
+            Div("»").class("div-right-ticks")
+        }.class("link-arrow link-arrow-right")
+    }
+}
+
+    
+fileprivate struct EmptyToLeft: Component {
+    var body: Component {
+        Div {  }.class("link-arrow link-arrow-left")
+    }
+}
+    
+fileprivate struct EmptyToRight: Component {
+    var body: Component {
+        Div {  }.class("link-arrow link-arrow-right")
+    }
+}
+    
+fileprivate struct EmptyMiddle: Component {
+    var body: Component {
+        Div {  }.class("link-arrow link-middle")
+    }
+}
+
