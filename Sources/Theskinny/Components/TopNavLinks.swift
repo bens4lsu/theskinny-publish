@@ -60,8 +60,9 @@ struct TopNavLinks: Component {
         
         var body: Component {
             Div {
-                Link("« \(text)", url: url)
-            }.class("link-arrow-left")
+                Div("«").class("div-left-ticks")
+                Link("\(text)", url: url).class("div-left-text")
+            }.class("link-arrow link-arrow-left")
         }
     }
     
@@ -77,7 +78,7 @@ struct TopNavLinks: Component {
         var body: Component {
             Div {
                 Link("\(text)", url: url)
-            }.class("link-middle")
+            }.class("link-arrow link-middle")
         }
     }
     
@@ -92,8 +93,9 @@ struct TopNavLinks: Component {
         
         var body: Component {
             Div {
-                Link("\(text) »", url: url)
-            }.class("link-arrow-right")
+                Link("\(text)", url: url)
+                Div("»").class("div-right-ticks")
+            }.class("link-arrow link-arrow-right")
         }
         
 //        var empty: Component {
@@ -103,19 +105,19 @@ struct TopNavLinks: Component {
     
     fileprivate struct EmptyToLeft: Component {
         var body: Component {
-            Div {  }.class("link-arrow-left")
+            Div {  }.class("link-arrow link-arrow-left")
         }
     }
     
     fileprivate struct EmptyToRight: Component {
         var body: Component {
-            Div {  }.class("link-arrow-right")
+            Div {  }.class("link-arrow link-arrow-right")
         }
     }
     
     fileprivate struct EmptyMiddle: Component {
         var body: Component {
-            Div {  }.class("link-middle")
+            Div {  }.class("link-arrow link-middle")
         }
     }
 }

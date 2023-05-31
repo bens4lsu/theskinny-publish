@@ -153,12 +153,35 @@ a { color: #9E2606; }
     display: flex;
     justify-content: space-between;
     margin-bottom:50px;
-    overflow: hidden;
 }
 
-.top-nav-links div {
+.top-nav-links div.link-arrow {
+    flex: 2 1 0px;
+    display: flex;
+}
+
+.top-nav-links div.link-middle {
     flex: 1 1 0px;
-    overflow: hidden;
+    justify-content: center;
+}
+
+.top-nav-links div.link-arrow-right {
+    justify-content: right;
+}
+
+.top-nav-links .div-left-ticks {
+    display:inline-block;
+    height 100%;
+}
+
+.top-nav-links .div-left-text {
+    display: inline-block;
+    margin-left: 5px;
+    flex: 1 1 0px;
+}
+
+.top-nav-links .div-right-ticks {
+    
 }
 
 
