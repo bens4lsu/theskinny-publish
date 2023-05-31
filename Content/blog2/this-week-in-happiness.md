@@ -10,7 +10,7 @@ A few of the many things that made me happy this week:
 <ul>
 <li>Vanya's school had a Thanksgiving thing where we all go eat with the class.  V served himself a typical little kid lunch:  chicken nuggets, mashed potatoes, and a roll.  While he was eating, the mom who brought the potatoes stopped and asked him how he liked them.
 
-"Terrible! he replied."
+"Terrible!" he replied.
 
 "Well, they were made with love," she said.
 

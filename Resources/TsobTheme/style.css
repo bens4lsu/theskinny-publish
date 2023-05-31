@@ -261,6 +261,12 @@ a.lightview img {
     max-width:100%;
 }
 
+a.lightview.centered span.caption {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
 .alignright {
     display: inline-block;
     float: right;
