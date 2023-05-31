@@ -4,4 +4,6 @@ Over the years, the technology running theskinnyonbenny has gotten further and f
 
 Some of the pages aren't back up yet, but I'm working on it.  The pink color on the links means blood -- not there yet.  The content still exists, and it will be back before long.
 
+I have some work to do as far as touching every page too.  I'm fixing dead links, missing images, and formatting ugliness.  Lots of early blog posts use html tables to lay out images, wich will give you the vapors if you understand what I'm talking about.
+
 Meanwhile, there is a <a href="/x/shitjohnsaid">new quote page</a>, <a href="/blog2">new blog posts</a>, and almost certainly, <a href="pgHome">new image galleries</a> that you haven't seen yet.

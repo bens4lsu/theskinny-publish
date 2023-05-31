@@ -126,6 +126,9 @@ struct Menu: Component {
                 ListItem {
                     Link("Other pages", url: "/mobileSitemap")
                 }
+                ListItem {
+                    Link("Benny's twitter", url: "https://twitter.com/bens4lsu").attribute(named: "target", value: "_blank")
+                }
             }.class("mobileMenu")
             
             
