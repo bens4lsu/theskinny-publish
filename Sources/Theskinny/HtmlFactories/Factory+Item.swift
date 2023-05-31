@@ -20,11 +20,8 @@ extension TsobHTMLFactory {
             return try makeHaikuHTML(for: item, context: context)
         case "njdispatches":
             return try makeNJHTML(for: item, context: context)
-            
-            //        case "home":
-            //            return try makeHomeHTML(for: context.index, section: section, context: context)
-            //        case "about":
-            //            return HTML(.text("Hello about"))
+        case "adopv", "adopk":
+            return try makeAdopHTML(for: item, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }
@@ -51,6 +48,30 @@ extension TsobHTMLFactory {
            )
         )
     }
+    
+    
+    fileprivate func makeAdopHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws -> Plot.HTML {
+     
+        // have to work with all posts in order to get the links at the top
+        guard let allPosts = context.adopPosts else {
+            throw TsobHTMLFactoryError.contextMissingAllPosts
+        }
+//        guard let id = item.path else {
+//            throw TsobHTMLFactoryError.currentAdopPostsMissingSlug
+//        }
+        guard let post = allPosts.post(withSlug: item.path.string) else {
+            throw TsobHTMLFactoryError.currentPostNotFoundInContext
+        }
+        let htmlHeadInfo = HeaderInfo(location: item, title: "Russian Adoption Story")
+        let pageMain = AnyPageMain(mainContent: post, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain)
+           )
+        )
+    }
+    
+    
     
     fileprivate func makeHaikuHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws ->  Plot.HTML {
         guard let id = item.metadata.id else {

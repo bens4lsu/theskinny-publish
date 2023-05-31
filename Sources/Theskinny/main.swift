@@ -10,14 +10,14 @@ struct Theskinny: Website {
         case blog2
         case haikus
         case njdispatches
-        case adopV
-        case adopK
+        case adopv
+        case adopk
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
         var id: Int?
         var description: String?
-        var adopSection: AdopSection?
+        var adopSection: String?
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!

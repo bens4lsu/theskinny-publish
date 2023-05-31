@@ -15,6 +15,7 @@ struct TsobHTMLFactory: HTMLFactory {
         case currentPostNotFoundInContext
         case currentPostMissingIDInMetadata
         case adopPostWihtoutSection
+        case currentAdopPostsMissingSlug
     }
     
     struct HeaderInfo {

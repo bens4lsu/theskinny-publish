@@ -153,7 +153,17 @@ a { color: #9E2606; }
     display: flex;
     justify-content: space-between;
     margin-bottom:50px;
+    overflow: hidden;
 }
+
+.top-nav-links div {
+    flex: 1 1 0px;
+    overflow: hidden;
+}
+
+
+
+
 
 .content img {margin: 10px;}
 .content .padded-line {margin-bottom: 1.25em; }

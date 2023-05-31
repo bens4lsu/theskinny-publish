@@ -16,6 +16,7 @@ enum AdopSection: String, Decodable {
     case betweenTrips
     case tripTwo
     case home
+    case unfiled
 }
 
 struct AdopItem: Component {
@@ -25,17 +26,37 @@ struct AdopItem: Component {
     var content: Content.Body
     var slug: String
     var siteSection: Section<Theskinny>
+    var linkToPrev: TopNavLinks.LinkInfo?
+    var linkToIndex: TopNavLinks.LinkInfo?
+    var linkToNext: TopNavLinks.LinkInfo?
+    
     
     var dateString: String {
         EnvironmentKey.defaultDateFormatter.string(from: date)
     }
     
+    var subfolder: String {
+        let path = Path(slug)
+        return "/" + path.parent()
+    }
+    
     var body: Component {
         Article {
+            TopNavLinks(self.linkToPrev, self.linkToIndex, self.linkToNext)
             H1(title)
             H3(dateString)
             Div(content.body)
         }
+    }
+    
+    init(title: String, date: Date, section sectionStr: String, content: Content.Body, slug: String, siteSection: Section<Theskinny> ) {
+        self.title = title
+        self.date = date
+        self.content = content
+        self.slug = slug
+        self.siteSection = siteSection
+        
+        self.section = AdopSection(rawValue: sectionStr)  ?? .unfiled
     }
 }
 
@@ -51,25 +72,51 @@ class AdopGeneral {
     var lastLink:  List<[AdopItem]> { listItemsForSection(.home) }
     
     var adopV: Component {
-        let filteredItems = items.filter({ $0.siteSection.id == .adopV })
+        let filteredItems = items.filter({ $0.siteSection.id == .adopv })
+            .sorted(by: {$0.date < $1.date })
         return AdopV(items: filteredItems)
     }
     
     var adopK: Component {
-        let filteredItems = items.filter({ $0.siteSection.id == .adopK })
-        return AdopV(items: filteredItems)
+        let filteredItems = items.filter({ $0.siteSection.id == .adopk })
+            .sorted(by: { $0.date < $1.date })
+        return AdopK(items: filteredItems)
     }
  
     init(items: [AdopItem]) {
-        self.items = items
+        self.items = items.sorted(by: { $0.date < $1.date })
     }
+    
+    func post(withSlug slug: String) -> AdopItem? {
+        guard let item = items.first(where: { $0.slug == slug }) else {
+            return nil
+        }
+        let folder = item.subfolder
+        let itemSubset = items.filter( {$0.subfolder == folder })
+        
+        guard let i = itemSubset.firstIndex(where: { $0.slug == item.slug }) else {
+            return nil
+        }
+        
+        var post = itemSubset[i]
+        if i != 0 {
+            post.linkToPrev = TopNavLinks.LinkInfo(text: itemSubset[i-1].title, url: "/\(itemSubset[i-1].slug)")
+        }
+        if i < itemSubset.count - 1 {
+            post.linkToNext = TopNavLinks.LinkInfo(text: itemSubset[i+1].title, url: "/\(itemSubset[i+1].slug)")
+        }
+        post.linkToIndex = TopNavLinks.LinkInfo(text: "Story Index", url: folder)
+        return post
+    }
+    
+
     
     private func listItemsForSection(_ section: AdopSection) -> List<[AdopItem]> {
         let sectionItems = items.filter { $0.section == section }
         
         return List(sectionItems) { item in
             ListItem {
-                Link("\(item.dateString):  \(item.title)", url: "/adopV/\(item.slug)")
+                Link("\(item.dateString):  \(item.title)", url: "/\(item.slug)")
             }
         }
     }
@@ -110,7 +157,7 @@ class AdopK: AdopGeneral, Component {
             H2("Between Trips")
             self.betweenTripsLinks
             H2("Trip Two")
-            self.tripOneLinks
+            self.tripTwoLinks
             H2("Trip Two Pictures")
             H2("Trip Two Video")
             

@@ -11,22 +11,18 @@ import Plot
 
 extension TsobHTMLFactory {
     func makeSectionHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
-        switch section.id.rawValue{
-        case "blog2":
+        switch section.id {
+        case .blog2:
             return try makePostsHTML(for: section, context: context)
-        case "haikus":
+        case .haikus:
             return try makeHaikusHTML(for: section, context: context)
-        case "njdispatches":
+        case .njdispatches:
             return try makeNJHTML(for: section, context: context)
-        case "adopK":
+        case .adopk:
             return try makeAdopHtml(for: section, context: context, name: "Kolya", component: context.adopPosts?.adopK)
-        case "adopV":
+        case .adopv:
             return try makeAdopHtml(for: section, context: context, name: "Vanya", component: context.adopPosts?.adopV)
-            
-//        case "home":
-//            return try makeHomeHTML(for: context.index, section: section, context: context)
-//        case "about":
-//            return HTML(.text("Hello about"))
+
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }
