@@ -11,7 +11,7 @@ I never really understood how a change of scenery keeps my work from being oh-so
 
 Last week, we went out to work from the boat.  That was a nice change, but lead to boat repairs (of course) and the logistics of moving food and booze from place to place while trying not to go to a store.  
 <span class="spanEndPreview">&nbsp;</span>
-<a class="lightview centered" href="/img/IMG_6724.jpeg" data-lightview-caption="All the outbuildings:  the view from my balcony, where I work in nice weather, since it's a lot better than the view from my desk." data-lightview-group="group1"><img src="/img/IMG_6724.jpeg" alt="/img/IMG_6724.jpeg" width="650px"><br><span class="caption">All the outbuildings:  the view from my balcony, where I work in nice weather, since it's a lot better than the view from my desk.</span></a>
+<a class="lightview centered" href="/img/IMG_6724.jpeg" data-lightview-caption="All the outbuildings:  the view from my balcony, where I work in nice weather, since it's a lot better than the view from my desk." data-lightview-group="group1"><img src="/img/IMG_6724.jpeg" alt="/img/IMG_6724.jpeg"  ><br><span class="caption">All the outbuildings:  the view from my balcony, where I work in nice weather, since it's a lot better than the view from my desk.</span></a>
 
 At home, Mrs. theskinnyonbenny fired the people who had started to replace our back deck, so for a week or two, I had that to do with my spare time.  I'm way behind some of you on the binge watching, but when I start, I'm just not finding anything I want to stick with.  I'm only about 90 minutes into Tiger King, and to be honest, that's probably it for me.
 
@@ -46,5 +46,5 @@ This morning, I made this list of mealtime rules to be in effect until the end o
 </ul>
 
 <a class="lightview centered" href="/img/IMG_6706.jpeg" data-lightview-caption="Catching up with the fam at safe distances.
-" data-lightview-group="group1"><img src="/img/IMG_6706.jpeg" alt="/img/IMG_6706.jpeg" width="650px"><br><span class="caption">Catching up with the fam at safe distances. (click for bigger)
+" data-lightview-group="group1"><img src="/img/IMG_6706.jpeg" alt="/img/IMG_6706.jpeg"  ><br><span class="caption">Catching up with the fam at safe distances. (click for bigger)
 </span></a>

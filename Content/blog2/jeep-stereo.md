@@ -9,7 +9,7 @@ I often get asked if I like driving a Jeep Wrangler,and my stock reply is, "It's
 
 The more annoying part of my drive is my shitty stereo. If you bounce back and forth between its native radio tuners and streams from your phone too much, it just locks up and refuses to play anything. Sometimes, even the clock freezes time in the place where it gave up.
 
-<a class="lightview centered" href="/img/IMG_4938.jpg" data-lightview-caption="On one recent day, all of my presets were wiped out, other than Underground Garage.  So I lazily just listened to that station for two straight days." data-lightview-group="group1"><img src="/img/IMG_4938.jpg" alt="/img/IMG_4938.jpg" width="650px"><br><span class="caption">On one recent day, all of my presets were wiped out, other than Underground Garage.  So I lazily just listened to that station for two straight days.</span></a>
+<a class="lightview centered" href="/img/IMG_4938.jpg" data-lightview-caption="On one recent day, all of my presets were wiped out, other than Underground Garage.  So I lazily just listened to that station for two straight days." data-lightview-group="group1"><img src="/img/IMG_4938.jpg" alt="/img/IMG_4938.jpg"  ><br><span class="caption">On one recent day, all of my presets were wiped out, other than Underground Garage.  So I lazily just listened to that station for two straight days.</span></a>
 
 Other times, it wipes out all of my presets arbitrarily.
 

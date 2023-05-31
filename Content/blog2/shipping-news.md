@@ -9,7 +9,7 @@ Bright people, when they struggle with something, will seek out tools and techni
 
 I was working with him on a book report on a nonfiction book about pirates.  One of the headings on his template was, "What did you dislike about this book?"  He decided the detailed drawings of different types of ships and their parts and pieces.  This is heartbreaking to me, because I could spend all day studying diagrams like this <span class="spanEndPreview">&nbsp;</span>(from <a href="http://www.photographers1.com/Sailing/NauticalTerms&Nomenclature.html" target="_blank">http://www.photographers1.com/Sailing/NauticalTerms&Nomenclature.html</a>):
 
-<a class="lightview centered" href="/img/WarshipNomenclature.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/WarshipNomenclature.jpg" alt="/img/WarshipNomenclature.jpg" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/WarshipNomenclature.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/WarshipNomenclature.jpg" alt="/img/WarshipNomenclature.jpg"  ><br><span class="caption"></span></a>
 
 So V tells his dictation app, "I did not like the ships."  Here's the spelling it recommended:
 

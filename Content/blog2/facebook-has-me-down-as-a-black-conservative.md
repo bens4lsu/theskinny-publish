@@ -7,7 +7,7 @@ id: 2165
 ---
 If you dig down into your Facebook settings, you can see the categories that they put you in for the sake of pimping you out to advertisers.  I checked mine this morning.
 <span class="spanEndPreview">&nbsp;</span>
-<a class="lightview centered" href="/img/fbAdGroups.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/fbAdGroups.png" alt="/img/fbAdGroups.png" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/fbAdGroups.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/fbAdGroups.png" alt="/img/fbAdGroups.png"  ><br><span class="caption"></span></a>
 
 I'm not impressed.
 

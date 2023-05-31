@@ -9,7 +9,7 @@ As you might have noticed, I haven't been posting.  But I've been trying to writ
 
 This Summer, we sailed again to the Bahamas.  While we were there, we enjoyed beautiful days, floating above crystal clear water, with cool breezes perfect for sailing and ventilation blowing night and day.  But as good as the good stuff was, we'll also remember all of the fiascos.  I'll probably circle back and try to detail the broken boat equipment, salt-ruined electronics, and travel snafus, but it will be more fun to document other people's misfortune first.
 <span class="spanEndPreview">&nbsp;</span>
-<a class="lightview centered" href="/img/IMG_20210626_164008_IMG_6862.jpg" data-lightview-caption="Hard not to miss the Bahamas when you go through the pictures." data-lightview-group="group1"><img src="/img/IMG_20210626_164008_IMG_6862.jpg" alt="/img/IMG_20210626_164008_IMG_6862.jpg" width="650px"><br><span class="caption">Hard not to miss the Bahamas when you go through the pictures.</span></a>
+<a class="lightview centered" href="/img/IMG_20210626_164008_IMG_6862.jpg" data-lightview-caption="Hard not to miss the Bahamas when you go through the pictures." data-lightview-group="group1"><img src="/img/IMG_20210626_164008_IMG_6862.jpg" alt="/img/IMG_20210626_164008_IMG_6862.jpg"  ><br><span class="caption">Hard not to miss the Bahamas when you go through the pictures.</span></a>
 
 Our friends Crystal and Robert were due to meet us in mid-July, right before we turned toward home.  The morning they were supposed to fly out, I got a call while still in bed.  Robert had been denied travel, because he ordered a "passport card" instead of a passport.  It's a little cheaper, and as far as I can tell, it will get you on a cruise ship, but that's about it.  I really don't know why they offer such a thing.  It must cause problems all the time.
 
@@ -25,7 +25,7 @@ On day four of their week-long vacation, they finally boarded the plane that wou
 
 I'm tempted to describe the days we had as packed.  We did force activities into every daylight moment and plenty of the nights as well.  But at least a few of those days looked like this.
 
-<a class="lightview centered" href="/img/IMG_20210717_134041_S0354044_JPG.jpg" data-lightview-caption="A lot of this." data-lightview-group="group1"><img src="/img/IMG_20210717_134041_S0354044_JPG.jpg" alt="/img/IMG_20210717_134041_S0354044_JPG.jpg" width="650px"><br><span class="caption">A lot of this.</span></a>
+<a class="lightview centered" href="/img/IMG_20210717_134041_S0354044_JPG.jpg" data-lightview-caption="A lot of this." data-lightview-group="group1"><img src="/img/IMG_20210717_134041_S0354044_JPG.jpg" alt="/img/IMG_20210717_134041_S0354044_JPG.jpg"  ><br><span class="caption">A lot of this.</span></a>
 
 We swam with the famous pigs, and I don't remember from our previous trips that they just shit constantly.  These are some really photogenic pigs, but people go through great pains to get photos that don't include pig excrement of some variety or other.  The fastest I moved the entire summer was a mad scramble, 10 yards away from a pig's behind, to jump into the dinghy and get away from a floating cloud of nastiness.
 
@@ -37,6 +37,6 @@ They ended up being able to extend their trip by a couple of days, so all we rea
 
 After we returned, Crystal's mom made a suggestion that I ran with as soon as I heard it.  We now have this trophy to pass back and forth after each time we meet up, assuming someone does something dumb enough to deserve it.  (Someone always does something dumb enough to deserve it.)  
 
-<a class="lightview centered" href="/img/donkey1.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/donkey1.png" alt="/img/donkey1.png" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/donkey1.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/donkey1.png" alt="/img/donkey1.png"  ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/donkey2.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/donkey2.png" alt="/img/donkey2.png" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/donkey2.png" data-lightview-caption="" data-lightview-group="group1"><img src="/img/donkey2.png" alt="/img/donkey2.png"  ><br><span class="caption"></span></a>

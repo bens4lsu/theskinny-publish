@@ -17,18 +17,18 @@ Then, I spent about three hours watching other people's kids playing in the snow
 
 Once we made it out, we had a thick layer of nice sticky snow.
 
-</a><a class="lightview centered" href="/img/snowday1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday1.jpg" alt="/img/snowday1.jpg" width="650px" />
+</a><a class="lightview centered" href="/img/snowday1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday1.jpg" alt="/img/snowday1.jpg"   />
 </a>
 
-<a class="lightview centered" href="/img/snowday2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday2.jpg" alt="/img/snowday2.jpg" width="650px" />
+<a class="lightview centered" href="/img/snowday2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday2.jpg" alt="/img/snowday2.jpg"   />
 </a>
 
 After playing in our neighborhood, we headed to City Park to try to find a hill to sled on.
 
-<a class="lightview centered" href="/img/snowday3.jpg" data-lightview-caption="The hill in City Park is really pretty on a snowy day." data-lightview-group="group1"><img src="/img/snowday3.jpg" alt="/img/snowday3.jpg" width="650px" />
+<a class="lightview centered" href="/img/snowday3.jpg" data-lightview-caption="The hill in City Park is really pretty on a snowy day." data-lightview-group="group1"><img src="/img/snowday3.jpg" alt="/img/snowday3.jpg"   />
 <span class="caption">The hill in City Park is really pretty on a snowy day.</span></a>
 
-<a class="lightview centered" href="/img/snowday4.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday4.jpg" alt="/img/snowday4.jpg" width="650px" />
+<a class="lightview centered" href="/img/snowday4.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/snowday4.jpg" alt="/img/snowday4.jpg"   />
 
 In retrospect, I probably should have made them get out of pajama pants.
 

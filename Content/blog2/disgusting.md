@@ -11,7 +11,7 @@ But that doesn't mean that I'm not secretly engaging with them, ever now and the
 
 I very much enjoyed the <a href="https://www.idrlabs.com/food-disgust/test.php" target="_blank">Food Disgust Test</a> that's making it's rounds this week.  I assumed that I would score off-the-scale low, as I'll eat foods that most of you would consider garbage.  And I was pretty much right:
 <span class="spanEndPreview">&nbsp;</span>
-<a class="lightview centered" href="/img/disgusttest.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/disgusttest.jpg" alt="/img/disgusttest.jpg" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/disgusttest.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/disgusttest.jpg" alt="/img/disgusttest.jpg"  ><br><span class="caption"></span></a>
 
 But the author of <a href="https://defector.com/food-disgust-quiz-uncleanliness-is-next-to-godliness" target="_blank">the post that led me to this test</a> scored just 1/3 of what I did.  A man "with a firm constitution" I think they would have said back in the old days.
 
@@ -35,10 +35,10 @@ The turnout was good.  I can't imagine how good it would have been with the beau
 I don't know what sort of space aliens can sit there smelling crawfish all day and not pony up $20 for an all-you-can-eat wrist band.  Maybe they're all super high on the food disgust chart.
 
 
-<a class="lightview centered" href="/img/carescrawfish1.jpg" data-lightview-caption="What a team!" data-lightview-group="group1"><img src="/img/carescrawfish1.jpg" alt="/img/carescrawfish1.jpg" width="650px"><br><span class="caption">What a team!</span></a>
+<a class="lightview centered" href="/img/carescrawfish1.jpg" data-lightview-caption="What a team!" data-lightview-group="group1"><img src="/img/carescrawfish1.jpg" alt="/img/carescrawfish1.jpg"  ><br><span class="caption">What a team!</span></a>
 
-<a class="lightview centered" href="/img/carescrawfish2.jpg" data-lightview-caption="During the rain delay" data-lightview-group="group1"><img src="/img/carescrawfish2.jpg" alt="/img/carescrawfish2.jpg" width="650px"><br><span class="caption">During the rain delay</span></a>
+<a class="lightview centered" href="/img/carescrawfish2.jpg" data-lightview-caption="During the rain delay" data-lightview-group="group1"><img src="/img/carescrawfish2.jpg" alt="/img/carescrawfish2.jpg"  ><br><span class="caption">During the rain delay</span></a>
 
-<a class="lightview centered" href="/img/carescrawfish3.jpg" data-lightview-caption="Good turnout" data-lightview-group="group1"><img src="/img/carescrawfish3.jpg" alt="/img/carescrawfish3.jpg" width="650px"><br><span class="caption">Good turnout</span></a>
+<a class="lightview centered" href="/img/carescrawfish3.jpg" data-lightview-caption="Good turnout" data-lightview-group="group1"><img src="/img/carescrawfish3.jpg" alt="/img/carescrawfish3.jpg"  ><br><span class="caption">Good turnout</span></a>
 
-<a class="lightview centered" href="/img/carescrawfish4.jpg" data-lightview-caption="I wish I had gotten a better picture of V in his crawfish costume." data-lightview-group="group1"><img src="/img/carescrawfish4.jpg" alt="/img/carescrawfish4.jpg" width="650px"><br><span class="caption">I wish I had gotten a better picture of V in his crawfish costume.</span></a>
+<a class="lightview centered" href="/img/carescrawfish4.jpg" data-lightview-caption="I wish I had gotten a better picture of V in his crawfish costume." data-lightview-group="group1"><img src="/img/carescrawfish4.jpg" alt="/img/carescrawfish4.jpg"  ><br><span class="caption">I wish I had gotten a better picture of V in his crawfish costume.</span></a>

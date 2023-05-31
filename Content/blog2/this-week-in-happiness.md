@@ -46,4 +46,4 @@ And then a couple of days later...
 
 And this wasn't this week, but who doesn't like to see a fat beagle enjoying a sail?
 
-<a class="lightview centered" href="/img/beagle.jpg" data-lightview-caption="Lily enjoying the end of her first sail on the big Velvet Elvis" data-lightview-group="group1"><img src="/img/beagle.jpg" alt="/img/beagle.jpg" width="650px"><br><span class="caption">Lily enjoying the end of her first sail on the big Velvet Elvis</span></a>
+<a class="lightview centered" href="/img/beagle.jpg" data-lightview-caption="Lily enjoying the end of her first sail on the big Velvet Elvis" data-lightview-group="group1"><img src="/img/beagle.jpg" alt="/img/beagle.jpg"  ><br><span class="caption">Lily enjoying the end of her first sail on the big Velvet Elvis</span></a>

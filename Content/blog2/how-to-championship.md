@@ -13,7 +13,7 @@ I've seen the LSU Tigers play for 3 Natties* now, and I've done everything wrong
 
 After the 2003 season, a friend of ours went out and bought a brand-new huge-ass TV.  Unfortunately, he didn't bother to upgrade his cable plan to include the HD channels, and I didn't think that anyone was still watching low-def football.  So I only got to see a giant blurry representation of the game.  That's lesson number one.  Make sure you know where you're watching.
 <span class="spanEndPreview">&nbsp;</span>
-<a class="lightview centered" href="/img/championship-night-early.jpg" data-lightview-caption="Ready for the game to start on Monday night." data-lightview-group="group1"><img src="/img/championship-night-early.jpg" alt="/img/championship-night-early.jpg" width="650px"><br><span class="caption">Ready for the game to start on Monday night.</span></a>
+<a class="lightview centered" href="/img/championship-night-early.jpg" data-lightview-caption="Ready for the game to start on Monday night." data-lightview-group="group1"><img src="/img/championship-night-early.jpg" alt="/img/championship-night-early.jpg"  ><br><span class="caption">Ready for the game to start on Monday night.</span></a>
 For the championship after the 2007 season, we went down to New Orleans to be in the mix.  Not to go to the game -- just to be near the game.  V was just a tiny little toddler, and we navigated the French Quarter with him on my shoulders.  
 
 After an hour or so, we were headed into Napolean House for a round of cocktails when a stranger ran up saying, "Man!  You can't let your kid wear these!"
@@ -36,7 +36,7 @@ Rule number four:  Getting drunk is fine, but you want to be able to remember at
 
 That brings us to Monday.  Shelly came down, and we got a good seat in front of a million sharp TVs two hours before game time.  Drinks flowed, but in my case, it was mostly beer, and I remember every second of it.  The shots at the end of the night were probably a bad idea, but I didn't hang over on Tuesday, so they're allowed.  
 
-<a class="lightview centered" href="/img/championship-night.png" data-lightview-caption="championship-night.png" data-lightview-group="group1"><img src="/img/championship-night.png" alt="/img/championship-night.png" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/championship-night.png" data-lightview-caption="championship-night.png" data-lightview-group="group1"><img src="/img/championship-night.png" alt="/img/championship-night.png"  ><br><span class="caption"></span></a>
 
 Okay, so I got naked in the kitchen.
 
