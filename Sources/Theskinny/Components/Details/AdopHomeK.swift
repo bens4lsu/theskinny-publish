@@ -41,19 +41,25 @@ class AdopK: AdopGeneral, Component {
     // Index screen for the K trips
     
     var body: Component {
-        Article {
+        let imageGalSet1 = ImageGalleryLinkSet(78)
+        let imageGalSet2 = ImageGalleryLinkSet(81, 82, 83)
+        
+        return Article {
             H1("Kolya's Adoption")
             H2("Referral and First Trip")
             self.tripOneLinks
             H2("First Trip Photos")
+            imageGalSet1
             H2("Video Form Our First Visit to the Orpahange")
             H2("Between Trips")
             self.betweenTripsLinks
             H2("Trip Two")
             self.tripTwoLinks
             H2("Trip Two Pictures")
+            imageGalSet2
             H2("Trip Two Video")
-            
+            imageGalSet1.jsAll
+            imageGalSet2.jsImageVariables
             // TODO: Link album id 1730821
         }
     }
