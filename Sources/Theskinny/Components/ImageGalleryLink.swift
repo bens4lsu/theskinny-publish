@@ -11,7 +11,7 @@ import Publish
 
 struct ImageGalleryLinkSet: Component {
     
-    var links: [ImageGalleryLink]
+    fileprivate var links: [ImageGalleryLink]
     
     let listStyle = HTMLListStyle(elementName: "") { listItem in
         Div(listItem)
@@ -29,13 +29,26 @@ struct ImageGalleryLinkSet: Component {
         }.class("div-image-gallery-set")
     }
     
-    func maxWidth(_ set: String) -> Component {
-        self.body.style("max-width: \(set)")
+    private var jsVarsAndFunctionStr: String { ImageGalleryLink.jsFunctionStr + jsImgVariablesStr }
+    
+    private var jsImgVariablesStr: String {
+        var scriptText = ""
+        for link in links {
+            scriptText += link.js
+        }
+        return scriptText
     }
+    
+    var jsImageVariables: Component { Script(jsImgVariablesStr) }
+    var jsAll: Component { Script(jsVarsAndFunctionStr) }
+    
+//    func maxWidth(_ set: String) -> Component {
+//        self.body.style("max-width: \(set)")
+//    }
 }
 
 
-struct ImageGalleryLink: Component {
+fileprivate struct ImageGalleryLink: Component {
     
     struct FromDynamicLookup: Decodable {
         var name: String
@@ -48,16 +61,40 @@ struct ImageGalleryLink: Component {
     var redLink: String
     var normalLink: String
     
+    var imgVarNameN: String { "img\(galleryId)" }
+    var imgVarNameR: String { "img\(galleryId)Red" }
+    
     
     var body: Component {
         Div {
             Div {
-                Link(url: "https://dynamic.theskinnyonbenny.com/\(self.galleryId)") {
-                    Image(self.normalLink)
-                }
+                Link(url: "https://dynamic.theskinnyonbenny.com/gal/\(self.galleryId)") {
+                    Image(self.normalLink).attribute(named: "name", value: imgVarNameN).class("img-gal-link")
+                }.attribute(named: "target", value: "_blank")
+                    .attribute(named: "onmouseover", value: "chgImg ('\(imgVarNameN)','\(imgVarNameR)');")
+                    .attribute(named: "onmouseout", value: "chgImg ('\(imgVarNameN)','\(imgVarNameN)');")
             }
             H3(self.caption)
         }.class("div-image-gallery-link")
+    }
+    
+    var js: String {
+         """
+            img\(galleryId) = new Image;
+            img\(galleryId)Red = new Image;
+            img\(galleryId).src = "\(normalLink)";
+            img\(galleryId)Red.src = "\(redLink)";
+        
+        """
+    }
+    
+    static var jsFunctionStr: String {
+        """
+            function chgImg (imgName, newImg){
+                document[imgName].src = eval (newImg + ".src");
+            }
+        
+        """
     }
     
     init (_ id: Int) {
@@ -76,9 +113,18 @@ struct ImageGalleryLink: Component {
         32: FromDynamicLookup(name: "Russia Trip 1 - Moscow",
                               normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/032 - Russia Trip 1 - Moscow/data/normal.jpg",
                               redImagePath: "https://dynamic.theskinnyonbenny.com/gal/032 - Russia Trip 1 - Moscow/data/red.jpg"),
-        99: FromDynamicLookup(name: "Krewe of Mutts 2013",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/099 - Krewe of Mutts 2013/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/099 - Krewe of Mutts 2013/data/red.jpg"),
+        33: FromDynamicLookup(name: "Russia Trip 2 - Week 1",
+                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/033 - Russia Trip 2 - Week 1/data/normal.jpg",
+                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/033 - Russia Trip 2 - Week 1/data/red.jpg"),
+        34: FromDynamicLookup(name: "Russia Trip 2 - St. Petersburg",
+                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/034 - Russia Trip 2 - St. Petersburg/data/normal.jpg",
+                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/034 - Russia Trip 2 - St. Petersburg/data/red.jpg"),
+        35: FromDynamicLookup(name: "Russia Trip 2 - Back in Yaroslavl",
+                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/normal.jpg",
+                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/red.jpg"),
+        36: FromDynamicLookup(name: "Russia Trip 2 - Final Week Family and Baby Photos",
+                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/normal.jpg",
+                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/red.jpg")
     ]
 }
 

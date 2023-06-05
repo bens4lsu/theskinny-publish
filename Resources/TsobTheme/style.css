@@ -287,7 +287,18 @@ blockquote {
 
 .div-image-gallery-set {
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    column-gap: 80px;
+    row-gap: 40px;
+}
+
+.div-image-gallery-link h3 {
+    text-align: center;
+}
+
+.img-gal-link {
+    width: 350px;
 }
 
 @media (min-width: 650px) {
