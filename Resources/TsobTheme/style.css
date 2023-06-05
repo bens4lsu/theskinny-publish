@@ -285,6 +285,11 @@ blockquote {
     padding-left: 2em;
 }
 
+.div-image-gallery-set {
+    display: flex;
+    justify-content: space-around;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;

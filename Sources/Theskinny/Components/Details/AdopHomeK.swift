@@ -12,6 +12,7 @@ import Files
 
 
 struct AdopHomeK: Component {
+    // K side of Adop Home screen
     
     var context: PublishingContext<Theskinny>
     
@@ -32,5 +33,28 @@ struct AdopHomeK: Component {
         Div {
             content
         }.class("div-adop-k")
+    }
+}
+
+
+class AdopK: AdopGeneral, Component {
+    // Index screen for the K trips
+    
+    var body: Component {
+        Article {
+            H1("Kolya's Adoption")
+            H2("Referral and First Trip")
+            self.tripOneLinks
+            H2("First Trip Photos")
+            H2("Video Form Our First Visit to the Orpahange")
+            H2("Between Trips")
+            self.betweenTripsLinks
+            H2("Trip Two")
+            self.tripTwoLinks
+            H2("Trip Two Pictures")
+            H2("Trip Two Video")
+            
+            // TODO: Link album id 1730821
+        }
     }
 }

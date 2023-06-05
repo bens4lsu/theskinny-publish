@@ -9,6 +9,8 @@ import Publish
 import Plot
 
 struct TsobHTMLFactory: HTMLFactory {
+    typealias Site = Theskinny
+    
     
     enum TsobHTMLFactoryError: Error {
         case contextMissingAllPosts
@@ -39,7 +41,7 @@ struct TsobHTMLFactory: HTMLFactory {
                 .forEach(scriptPaths, { return .script(.src($0.string)) as Node<HTML.HeadContext> }),
                 .forEach(stylesheetPaths, { .stylesheet($0) }),
                 .viewport(.accordingToDevice),
-                .unwrap(site.favicon, { .favicon($0) }),
+                .unwrap(site.favicon, { _ in .favicon("/img/headers/favicon.ico") }),
                 .unwrap(rssFeedPath, { path in
                     let title = rssFeedTitle ?? "Subscribe to \(site.name)"
                     return .rssFeedLink(path.absoluteString, title: title)

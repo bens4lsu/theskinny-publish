@@ -12,6 +12,7 @@ import Files
 
 
 struct AdopHomeV: Component {
+    // V side of AdopHome
     
     var context: PublishingContext<Theskinny>
     
@@ -20,7 +21,7 @@ struct AdopHomeV: Component {
         
         let file = try? File(path: path)
         let string = (try? file?.readAsString()) ?? ""
-        return Markdown(string)
+        return Markdown(string) 
     }
     
     
@@ -32,5 +33,29 @@ struct AdopHomeV: Component {
         Div {
             content
         }.class("div-adop-v")
+    }
+}
+
+class AdopV: AdopGeneral, Component {
+    // Index screen for V
+    
+    var body: Component {
+        Article {
+            H1("Vanya's Adoption")
+            Text("I started this page in April 2006, long before we had told most of our friends and family what was going on. That didn't stop us from accumulating stories about the process that deserve to be told, so I kept track of some of the milestones throughout the process. Hopefully, it proves to be interesting or entertaining. Or at least compels you toward a little compassion.")
+            H2("The Preliminaries")
+            self.prelimLinks
+            H2("Trip One")
+            self.tripOneLinks
+            H2("Photos From Trip One")
+            H2("Between Trips (click to open)")
+            ImageGalleryLinkSet(31, 32).maxWidth("800px;")
+            self.betweenTripsLinks
+            H2("Trip Two")
+            self.tripTwoLinks
+            H2("Photos From Trip Two")
+            H2("Home Sweet Home")
+            self.lastLink
+        }
     }
 }
