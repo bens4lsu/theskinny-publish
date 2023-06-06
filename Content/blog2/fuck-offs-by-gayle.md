@@ -1,7 +1,7 @@
 ---
 title: Fuck-offs by Gayle
 date: 2022-03-11 10:12
-description: A description of my post.
+description: A little exercise to try to get that silly song with so many instances of a particular four letter word out of my head.
 tags: uncategorized
 id: 2303
 ---
