@@ -1,7 +1,7 @@
 ---
 title: Quarantine, Year One
 date: 2020-04-07 11:39
-description: A description of my post.
+description: I never really understood how a change of scenery keeps my work from being oh-so-boring. I've actually had a lot to do, and interesting things to work on. I've got a view of every out-building on the 3900 block between Claycut Rd. and Capital Heights, and I'm still itching for a change.
 tags: current-events
 id: 2268
 ---

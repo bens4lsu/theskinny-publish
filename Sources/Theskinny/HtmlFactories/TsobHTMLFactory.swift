@@ -11,7 +11,6 @@ import Plot
 struct TsobHTMLFactory: HTMLFactory {
     typealias Site = Theskinny
     
-    
     enum TsobHTMLFactoryError: Error {
         case contextMissingAllPosts
         case currentPostNotFoundInContext
@@ -26,8 +25,8 @@ struct TsobHTMLFactory: HTMLFactory {
         let title: String
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
-        let stylesheetPaths: [Path] = ["/TsobTheme/style.css?\(UUID().uuidString)"]
-        let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js", "/scripts/menu.js?\(UUID().uuidString)"]
+        let stylesheetPaths: [Path] = ["/TsobTheme/style.css?\(EnvironmentKey.styleAndScriptVersion)"]
+        let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js", "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"]
         let additionalNodes = [() -> Node<HTML.HeadContext>]()
         
         var node: Node<HTML.DocumentContext> {

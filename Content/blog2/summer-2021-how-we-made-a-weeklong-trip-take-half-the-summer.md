@@ -1,7 +1,7 @@
 ---
 title: Summer 2021 - How We Made a Weeklong Trip Take Half the Summer
 date: 2022-03-08 10:05
-description: A description of my post.
+description: Our 2021 sailing trip to the Bahamas was an absolute disaster.  Before we left, lightnight fried our boat's electronics.  The generator didn't make it to Key West.  And we lost tons of consumer electronics to Neptune as well.  We managed to have some fun though.  This is how the trip started.
 tags: travel
 id: 2289
 ---
@@ -29,7 +29,7 @@ Afteer that, we decided to wait for a little bit better weather to shove off aga
 
 On our first day out, the wind was better, but still pretty string, and still right on our bow.  Once we got to Mississippi, we stayed inside the barrier islands, but we were still crashing into waves steadily under motor all day.  The wind and waves settled down as it started to get dark, and that's when we noticed another problem.
 
-<a class="lightview centered" href="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg" data-lightview-caption="On Mississippi Sound" data-lightview-group="group1"><img src="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg" alt="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg"  ><br><span class="caption">On Mississippi Sound</span></a>
+<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg" data-lightview-caption="On Mississippi Sound" data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg" alt="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210522_155053_IMG_1801.jpg"  ><br><span class="caption">On Mississippi Sound</span></a>
 
 Our AIS (a dandy little piece of electronics that draws the position of other boats while we're out underway) had been giving us problems.  Other boats were seeing us on their screens, but our screen didn't show any of them.  I turned on the radar so that they would show up as purple blobs, at least, and it wasn't working either.  We also had one light out.  That's a whole lot of the things we have on board to make sure we don't bump into big giant ships in the middle of the night.
 
@@ -41,7 +41,7 @@ Memorial Day weekend was on us, so we went to a nice little anchorage near the m
 
 We went up the sound towards Orange Beach, maybe a mile or so, and we had nice spots to kayak, swim, and dinghy for the weekend.  A couple of dolphiins popped up near our dinghy, and Rosie decided, "fuck it, I'm chasing them" and dove into the water swimming for her water-bound playmates.  We found a pretty good taco truck one night.  It was a decent weekend.
 
-<a class="lightview centered" href="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg" data-lightview-caption="Memorial Day Weekend - Dinner on the hook" data-lightview-group="group1"><img src="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg" alt="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg"  ><br><span class="caption">Memorial Day Weekend - Dinner on the hook</span></a>
+<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg" data-lightview-caption="Memorial Day Weekend - Dinner on the hook" data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg" alt="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210530_150250_IMG_6772.jpg"  ><br><span class="caption">Memorial Day Weekend - Dinner on the hook</span></a>
 
 After that, the electronics guys were tearing apart our boat to replace things for a week.  The cat and I stayed on board, while the rest of the family took a rental car and headed home.  Liveaboard life by oneself on a boat where all of the panels are pulled off isn't fun.  I had a bike and a dinghy to use for food runs, but not much close.  I pretty well wiped out our summer's supply of hot dogs.  It was a week of hot dogs, watching baseball on an ipad, and getting a lot of work done.  
 
@@ -51,7 +51,7 @@ Speaking of Covid, we had to get V a test to get in to the Bahamas.  Mrs. theski
 
 The rest of the passage was fine.  A couple of days and nights later, we were close enough to some Bahamian islands to unbox our hotspot and check the internet.  The hotspot was an ancient piece of equipment whose screen showed something like 3TB of use up to that point.  It was working okay, but if you put down your device to do something else for a bit, you had to power the hotspot off and back on for it to connect again.  Not ideal.
 
-<a class="lightview centered" href="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg" data-lightview-caption="Resupply run in Key West.  This is my favorite pic from the trip." data-lightview-group="group1"><img src="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg" alt="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg"  ><br><span class="caption">Resupply run in Key West.  This is my favorite pic from the trip.</span></a>
+<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg" data-lightview-caption="Resupply run in Key West.  This is my favorite pic from the trip." data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg" alt="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210615_172358_IMG_6794.jpg"  ><br><span class="caption">Resupply run in Key West.  This is my favorite pic from the trip.</span></a>
 
 Somewhere in here, I also had an incident where a stream of salt water spray came right through a hatch in calm seas, landing right on my computer keyboard.  The computer was toast.
 
@@ -59,7 +59,7 @@ On June 18, we pulled in to a marina in Nassau to clear in.  We had V's covid cl
 
 After a full day sail to Highborne Cay, I tried moving the SIM card from the Bahamas hotspot to a different hotspot that we keep on board.  Didn't work.  I moved it back to the ancient hotspot and now it didn't work either.  Without data, we were going to be pretty screwed.  We went to bed frustrated, and pretty much assuming that our summer trip was entirely fucked.
 
-<a class="lightview centered" href="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg" data-lightview-caption="Finally there." data-lightview-group="group1"><img src="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg" alt="/img/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg"  ><br><span class="caption">Finally there.</span></a>
+<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg" data-lightview-caption="Finally there." data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg" alt="https://dynamic.theskinnyonbenny.com/gal/171%20-%20Summer%202021%20Pt%201%20-%20Getting%20to%20the%20Exumas/resIMG_20210618_201634_IMG_2024.jpg"  ><br><span class="caption">Finally there.</span></a>
 
 I woke early the next morning and made a last ditch effort with the SIM card.  I had forgotten about my work hotspot that I keep in my computer bag.  What do you know, it worked!  Summer was unfucked!
 

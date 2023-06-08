@@ -1,7 +1,7 @@
 ---
 title: Disgusting
 date: 2023-05-04 09:47
-description: A description of my post.
+description: Your author discovers his disgust index and has some thoughts on the matter.
 tags: stories
 id: 2318
 ---

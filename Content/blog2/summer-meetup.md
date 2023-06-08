@@ -1,7 +1,7 @@
 ---
 title: Summer Meetup
 date: 2021-10-20 09:24
-description: A description of my post.
+description: We had a hell of a time getting to the Bahamas this Summer.  Our friends Robert and Crystal might have even done worse than us.  Also, some really pretty pictures in this post.
 tags: travel
 id: 2284
 ---

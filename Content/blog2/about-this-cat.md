@@ -1,7 +1,7 @@
 ---
 title: About This Cat
 date: 2020-08-02 09:26
-description: A description of my post.
+description: We went on a Covid-summer road trip that took us the whole Summer.  The cat took an entirely different Summer vacation in the Ozarks.
 tags: animals,travel
 id: 2274
 ---

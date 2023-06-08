@@ -39,7 +39,8 @@ extension PublishingStep where Site == Theskinny {
                 let leftLinkInfo: LinkInfo? = (i == numPages - 1) ? nil : LinkInfo(text: "older", url: "/blog/page-\(i + 1)")
                 let linkInfo = TopNavLinks(leftLinkInfo: leftLinkInfo, rightLinkInfo: rightLinkInfo)
                 
-                let postsThisPage = (postsPerPage >= (i * postsPerPage + postsPerPage)) ? postsPerPage : postsOnLastPage
+                let postsThisPage = (postsPerPage <= (i * postsPerPage + postsPerPage)) ? postsPerPage : postsOnLastPage
+                //print ("\(postsThisPage) \(postsPerPage) \(i) \(postsOnLastPage)")
                 for j in 0..<postsThisPage {
                     //print ("\(allPosts.count)  \(i)  \(j)  \(postsThisPage)  \(i * postsPerPage + j)")
                     includePosts.append(allPosts[i * postsPerPage + j])
@@ -64,6 +65,8 @@ extension PublishingStep where Site == Theskinny {
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render())
             }
+            let max = allPosts.map({ $0.id }).max() ?? -1
+            print("Max blog post id is current \(max)")
         }
     }
 }
