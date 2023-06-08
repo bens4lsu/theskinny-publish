@@ -4,6 +4,6 @@ Over the years, the technology running theskinnyonbenny has gotten further and f
 
 Some of the pages aren't back up yet, but I think more of it works on this new version than was working on the old.  Pink links don't work, and help remind me of what I need to do.  A lot of the rest needs a look too.  I'm fixing dead links, missing images, and formatting ugliness.  Lots of early blog posts use html tables to lay out images, wich will give you the vapors if you understand what I'm talking about.
 
-My goal is to have everything back up and running correctly by the end of Summer.
+My goal is to have everything back up and running correctly by the end of Summer.  (At the time I'm typing this, there are 885 pages to look at.)
 
 Meanwhile, there is a <a href="/x/shitjohnsaid">new quote page</a>, <a href="/blog/current">new blog posts</a>, and almost certainly, <a href="pgHome">new image galleries</a> that you haven't seen yet.
