@@ -40,5 +40,6 @@ extension Theme where Site == Theskinny {
 try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     // TODO:  folder and files for dead link redirects on blog2
     .writePostPages(),
+    .writeRedirectsFromWordpressUrls(),
 ])
 

@@ -27,4 +27,9 @@ extension TsobHTMLFactory {
            )
         )
     }
+    
+    func makeRedirectFromOldBlogPath(for page: Publish.Page, context: PublishingContext<Theskinny>, newName: String) -> HTML {
+        let script = Script("window.location.replace(https://theskinnyonbenny.com/blog2/\(newName));")
+        return HTML(script.convertToNode())
+    }
 }

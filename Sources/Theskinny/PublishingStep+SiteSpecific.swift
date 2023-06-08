@@ -52,4 +52,18 @@ extension PublishingStep where Site == Theskinny {
             }
         }
     }
+    
+    
+    static func writeRedirectsFromWordpressUrls() -> Self {
+        .step(named: "Write redirects for wordpress urls") { context in
+            guard let allPosts = context.allBlogPostsReversed?.items else { return }
+            let factory = TsobHTMLFactory()
+            for post in allPosts {
+                let page = Page(path: "blog2/archives/\(post.id)/index.html", content: Content())
+                let html = factory.makeRedirectFromOldBlogPath(for: page, context: context, newName: post.slug)
+                let file = try context.createOutputFile(at: page.path)
+                try file.write(html.render())
+            }
+        }
+    }
 }
