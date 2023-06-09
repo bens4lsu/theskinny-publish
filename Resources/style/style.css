@@ -19,7 +19,7 @@ body {
 
 .content {
     grid-area: content;
-    background-color: #a6a6c2;
+    background-color: #b5b5cd;
     padding: 30px;
     border-radius: 12px;
     min-height: 390px;
