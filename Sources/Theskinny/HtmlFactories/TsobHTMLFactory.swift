@@ -32,7 +32,26 @@ struct TsobHTMLFactory: HTMLFactory {
                                    "/scripts/lightview.js",
                                    "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
         ]
-        let additionalNodes = [() -> Node<HTML.HeadContext>]()
+        
+        
+        let gaScript = """
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-KL8PZZGY28');
+            </script>
+        """
+        
+        
+        var additionalNodes: [() -> Node<HTML.HeadContext>] {[
+            {() -> Node<HTML.HeadContext> in
+                return .script(.text(gaScript))
+            },
+        ]}
         
         var node: Node<HTML.DocumentContext> {
             .head(
