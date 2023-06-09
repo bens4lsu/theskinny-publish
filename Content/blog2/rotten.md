@@ -1,7 +1,7 @@
 ---
 title: Rotten
 date: 2018-12-03 11:44
-description: A description of my post.
+description: This is the shortest post ever -- a memory of a 20-year-old vulgarity that made me laugh.
 tags: other-peoples-stories
 id: 2204
 ---

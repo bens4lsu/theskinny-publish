@@ -1,14 +1,14 @@
 ---
 title: Waiting at the Natatorium
 date: 2020-01-23 19:02
-description: A description of my post.
+description: Taking your kids to practice sounds like fun before you have to do it.  Here's what I'm thinking about while I'm just sitting around waiting for practice to be over.
 tags: uncategorized
 id: 2239
 ---
 The worst thing about waiting for the kids to finish swim practice is that it's so hard to do anything <i>but</i> wait.
 
-A lot of days, my first choice would be to take a nap.  I've managed a few, but there's an almost constant cclomp of kids mvoing in and out.  Practice times are staggered between the different groups of kids. and it takes a while between the time I get there and the time when things calm down.  
-<span class="spanEndPreview">&nbsp;</span>
+A lot of days, my first choice would be to take a nap.  I've managed a few, but there's an almost constant clomp of kids mvoing in and out.  Practice times are staggered between the different groups of kids. and it takes a while between the time I get there and the time when things calm down.  
+
 <a class="lightview alignright" href="/img/waitingatswim.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/waitingatswim.jpg" alt="/img/waitingatswim.jpg" width="270px"><br><span class="caption">This is where I blog now.</span></a>
 
 There are daily reunions of kids that go to different schools, all with news to share.  There's the steady vibration dropping bags, pulling off shoes, kicking shoes back on to wet feet.  On dry workout days, there are more interludes for hurried stripping of outerwear and then rushing back to swim lanes.  It's even hard to sit and read, much less try to fall asleep.

@@ -1,7 +1,7 @@
 ---
 title: The Ko Show
 date: 2019-01-03 09:31
-description: A description of my post.
+description: Ko just turned 8.  He thinks he can drive.
 tags: young-ruski
 id: 2210
 ---

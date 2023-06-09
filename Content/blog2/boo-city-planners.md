@@ -1,7 +1,7 @@
 ---
 title: Boo City Planners
 date: 2018-08-31 09:36
-description: A description of my post.
+description: There are a lot of reasons to take the city planners in Baton Rouge to task.  Here's one of very little importance.
 tags: stories
 id: 2197
 ---

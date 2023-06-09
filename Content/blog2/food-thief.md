@@ -1,7 +1,7 @@
 ---
 title: Food Thief
 date: 2018-04-12 17:35
-description: A description of my post.
+description: This is really short but funny.  Not adding a spoiler here -- just go read the whole post.
 tags: stories
 id: 2191
 ---

@@ -1,7 +1,7 @@
 ---
 title: What is a Pickled Pig's Lip?
 date: 2019-11-08 15:17
-description: A description of my post.
+description: A short funny post about a podcaster who is clueless about flyover America.
 tags: uncategorized
 id: 2217
 ---

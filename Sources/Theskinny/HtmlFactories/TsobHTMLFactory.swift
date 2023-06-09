@@ -30,7 +30,7 @@ struct TsobHTMLFactory: HTMLFactory {
         ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
                                    "/scripts/lightview.js",
-                                   "scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
+                                   "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
         ]
         let additionalNodes = [() -> Node<HTML.HeadContext>]()
         

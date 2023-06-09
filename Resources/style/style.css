@@ -284,6 +284,13 @@ blockquote {
     padding-left: 2em;
 }
 
+div.twitter-tweet {
+    display:flex;
+    justify-content: center;
+}
+
+blockquote.twitter-tweet
+
 .div-image-gallery-set {
     display: flex;
     flex-wrap: wrap;

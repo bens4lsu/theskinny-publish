@@ -1,7 +1,7 @@
 ---
 title: You Better Start Rolling a Shitload of Meat Pies
 date: 2020-03-02 18:00
-description: A description of my post.
+description: My sweet son V likes nothing more than shopping for trucks. He apparently took his inquiry a little further this week, and entered his contact information into a form. As soon as he started getting messages from the dealer, he got a little nervous.
 tags: young-ruski
 id: 2263
 ---

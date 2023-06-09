@@ -1,11 +1,11 @@
 ---
 title: The Best Artist That No One Hates
 date: 2018-12-05 11:46
-description: A description of my post.
+description: The dentist chair is a good place for the mind to wander.  This week, I took those mind-wanderings and started typing them out as a post.  Whose music is dentist-office appropriate, but still good?  Let the debate begin.
 tags: pop-culture,music-pop-culture
 id: 2206
 ---
-I was at the dentist last week, forced into captive listening to the light rock radio station in town for the first time since the last time my teeth were cleaned.  I like to pretend that the hygenist is a torturerer, trying to get important secrets out of me.  I urge the government to never entrust me with important secrets, because event though the metal hook probing my tender, neglected gums feels kind of good, my brain is still screaming, "I'LL TALK!  I'LL TALK."
+I was at the dentist last week, forced into captive listening to the light rock radio station in town for the first time since the last time my teeth were cleaned.  I like to pretend that the hygenist is a torturerer, trying to get important secrets out of me.  I urge the government to never entrust me with important secrets, because even though the metal hook probing my tender, neglected gums feels kind of good, my brain is still screaming, "I'LL TALK!  I'LL TALK."
 
 The music this particular day started surprisingly good.  We started with Kings of Leon followed by Imagine Dragons.  It had me wondering whether I was such and old dad that I might need to dedicate a preset button to the light rock channel.  I've forgotten who was up third, but I remember thinking that it wasn't bad.  Up fourth was the inevitible airing of Phil Collins's "In the Air Tonight."  No one has been to the dentist and <i>not</i> heard In the Air Tonight since 1987.
 <span class="spanEndPreview">&nbsp;</span>

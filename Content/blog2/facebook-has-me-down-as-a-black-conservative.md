@@ -1,7 +1,7 @@
 ---
 title: Facebook Has Me Down as a Black Conservative
 date: 2017-11-02 08:46
-description: A description of my post.
+description: You can find out what buckets Facebook put you in for the purposes of selling you adds and selling your information to advertisers.  I'm not sure if it's a good thing or a bad thing, but they are not very good at categorizing you.
 tags: current-events
 id: 2165
 ---
@@ -19,6 +19,6 @@ To Facebook I'm, "Away from hometown," when I literally live on the same street,
 
 Even more interestingly, I'm both a political conservative and an African American.  I truly can't imagine what I've visited that let them categorize me into either of these groups, but I'm happy that Facebook obviously thinks I'm cooler than I actually am.  
 
-Hat tip to the always-entertaining Reply All podcast, who <a href="https://gimletmedia.com/episode/109-facebook-spying/" target="_blank">looked into how Facebook is spying on you this week</a>.
+Hat tip to the always-entertaining Reply All podcast, who <a href="https://gimletmedia.com/shows/reply-all/z3hlwr" target="_blank">looked into how Facebook is spying on you this week</a>.
 
 Visit their page to see <a href="https://gimletmedia.com/how-to-avoid-being-tracked-by-facebook/" target="_blank">some of the things you can do</a> to limit or prevent your social media platforms from being too intrusive.

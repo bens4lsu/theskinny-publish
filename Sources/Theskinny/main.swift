@@ -32,7 +32,7 @@ struct Theskinny: Website {
 
 extension Theme where Site == Theskinny {
     static var tsobTheme: Theme {
-        Theme(htmlFactory: TsobHTMLFactory(), resourcePaths: ["Resources/TsobTheme/style.css"])
+        Theme(htmlFactory: TsobHTMLFactory(), resourcePaths: ["Resources/style/style.css"])
     }
 }
 

@@ -1,7 +1,7 @@
 ---
 title: Morning News
 date: 2018-03-28 08:59
-description: A description of my post.
+description: Young kids love the vulgarities.  Ours get to hear plenty of them.
 tags: young-ruski
 id: 2186
 ---
@@ -13,13 +13,13 @@ Let me see if I can tell a quick story to help break the dam.
 
 On the way to school this morning, 
 
-<div style="margin-left:3em;"><p>Newscaster:  ... the subpeonas were upheld in court ...</p>
+Newscaster:  ... the subpeonas were upheld in court ...
 
 Vanya:  Oh my God! 
 
 Me:  What?
 
-V:  Didn't you hear that?  Something about someone who held his penis up in court!</div>
+V:  Didn't you hear that?  Something about someone who held his penis up in court!
 
 I love V's "Oh my God," which he uses exclusively to point out vugarities.  He delivers it musically, and it perfectly conveys that he knows to be shocked and offended while giving a mere hint of the fact that he is tremendously amused.
 

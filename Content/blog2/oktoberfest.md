@@ -1,7 +1,7 @@
 ---
 title: Oktoberfest
 date: 2018-10-10 09:32
-description: A description of my post.
+description: Recap and pictures from the Kidder & Schultz third annual Oktoberfest.
 tags: stories
 id: 2201
 ---
