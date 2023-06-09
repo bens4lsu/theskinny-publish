@@ -25,8 +25,13 @@ struct TsobHTMLFactory: HTMLFactory {
         let title: String
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
-        let stylesheetPaths: [Path] = ["/TsobTheme/style.css?\(EnvironmentKey.styleAndScriptVersion)"]
-        let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js", "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"]
+        let stylesheetPaths: [Path] = ["/style/lightview.css",
+                                       "/style/style.css?\(EnvironmentKey.styleAndScriptVersion)"
+        ]
+        let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
+                                   "/scripts/lightview.js",
+                                   "scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
+        ]
         let additionalNodes = [() -> Node<HTML.HeadContext>]()
         
         var node: Node<HTML.DocumentContext> {

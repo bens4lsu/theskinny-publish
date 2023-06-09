@@ -1,7 +1,7 @@
 ---
 title: Jeep Stereo
 date: 2018-08-30 15:53
-description: A description of my post.
+description: Driving a Jeep is great, as long as you don't mind rain dripping on you while you're driving, the check engine light being permanently alight, and if you want a consistently working stereo.
 tags: stories
 id: 2194
 ---
