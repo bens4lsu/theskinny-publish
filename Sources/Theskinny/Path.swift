@@ -10,7 +10,7 @@ import Publish
 
 extension Path {
     
-    func parent() -> String {
+    var parent: String {
         guard let url = URL(string: self.string) else { return "nil" }
         return url.deletingLastPathComponent().absoluteString
     }

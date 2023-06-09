@@ -37,7 +37,7 @@ struct AdopItem: Component {
     
     var subfolder: String {
         let path = Path(slug)
-        return "/" + path.parent()
+        return "/" + path.parent
     }
     
     var body: Component {
