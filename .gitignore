@@ -10,3 +10,4 @@ Resources/img
 /ben-build tools/parse-posts/DerivedData/*
 /ben-build tools/output/*
 Resources/sound
+**/*.mp4

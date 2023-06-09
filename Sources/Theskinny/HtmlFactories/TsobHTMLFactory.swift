@@ -29,27 +29,26 @@ struct TsobHTMLFactory: HTMLFactory {
                                        "/style/style.css?\(EnvironmentKey.styleAndScriptVersion)"
         ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
+                                   "https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28",
                                    "/scripts/lightview.js",
                                    "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
         ]
         
         
         let gaScript = """
-            <!-- Google tag (gtag.js) -->
-            <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28"></script>
-            <script>
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
 
               gtag('config', 'G-KL8PZZGY28');
-            </script>
         """
         
+        //var gaNode: Node<HTML.HeadContext> { .script(.text(gaScript)) }
         
         var additionalNodes: [() -> Node<HTML.HeadContext>] {[
             {() -> Node<HTML.HeadContext> in
                 return .script(.text(gaScript))
+
             },
         ]}
         

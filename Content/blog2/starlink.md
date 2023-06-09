@@ -9,7 +9,7 @@ id: 2334
 
 Not only do we land-based dreamers get to follow along, boats that run into trouble hundreds of miles from shore can get in contact with other nearby boats for help.  <a href="https://www.worldcruising.com/featuresarticle.aspx?page=S638056656088518963&ArchiveID=4&CategoryID=186&ItemID=272408&src=" target="_blank">A boat crossing the Atlantic this winter lost their mast</a>.  They were able to start their motor and get a deisel refills from other sailboats on the same route.
 
-Another boat <a href="https://www.nytimes.com/2023/03/30/world/asia/sailboat-whale-rescue-pacific.html#:~:text=After%20the%20collision%20in%20the,from%20a%20satellite%20internet%20signal.&text=When%20Rick%20Rodriguez%27s%20sailboat%20collided,sank%20within%20about%2015%20minutes" target="_blank">hit a whale int he Pacific Ocean</a>, and managed to get hold of help before their boat sank.  They were rescued the same day.  
+Another boat <a href="https://www.nytimes.com/2023/03/30/world/asia/sailboat-whale-rescue-pacific.html#:~:text=After%20the%20collision%20in%20the,from%20a%20satellite%20internet%20signal.&text=When%20Rick%20Rodriguez%27s%20sailboat%20collided,sank%20within%20about%2015%20minutes" target="_blank">hit a whale in the Pacific Ocean</a>, and managed to get hold of help before their boat sank.  They were rescued the same day.  
 
 On our (much shorter) crossings, we have had Iridium Go, which allows a choppy phone signal, text messaging, and is just barely good enough to get weather data while at sea.  We had one pretty harrowing experience in a storm, and I used it to call the Coast Guard.  I told them that we were safe, but that if they started getting a signal from our EPIRB, that it might be an actual emergency. 
 
