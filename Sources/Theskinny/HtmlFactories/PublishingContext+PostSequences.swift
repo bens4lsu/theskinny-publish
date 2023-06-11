@@ -69,7 +69,7 @@ extension PublishingContext where Site == Theskinny {
                 albums.append(decoded)
             }
         } catch(let e) {
-            print ("Video album file or decode error:  \(e)")
+            print ("Video album file or decode error on:  \(e)")
         }
         return albums
     }
