@@ -69,4 +69,10 @@ extension PublishingStep where Site == Theskinny {
             print("Max blog post id is currently \(max)")
         }
     }
+    
+    static func writeVideoAlbumPages() -> Self {
+        .step(named: "Create video album pages"){ context in
+            print (context.videoAlbums)
+        }
+    }
 }

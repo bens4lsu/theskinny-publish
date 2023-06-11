@@ -7,7 +7,8 @@
 
 import Foundation
 import Publish
-
+import Files
+import Yams
 
 extension PublishingContext where Site == Theskinny {
     
@@ -55,5 +56,21 @@ extension PublishingContext where Site == Theskinny {
             }
         }
         return AdopGeneral(items: adopItems)
+    }
+    
+    var videoAlbums: [VideoAlbum] {
+        let path =  self.site.path(for: .home).parent + "Content-page-parts/video-metadata/"
+        let decoder = YAMLDecoder()
+        var albums = [VideoAlbum]()
+        do {
+            try Folder(path: path).files.enumerated().forEach { (index, file) in
+                let fileYaml = try file.readAsString()
+                let decoded = try decoder.decode(VideoAlbum.self, from: fileYaml)
+                albums.append(decoded)
+            }
+        } catch(let e) {
+            print ("Video album file or decode error:  \(e)")
+        }
+        return albums
     }
 }
