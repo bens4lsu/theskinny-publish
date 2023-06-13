@@ -7,194 +7,182 @@ caption: The same as my other Home Movies albums, but even older still.
 videos:
     -
         id: 9012706
+        dateRecorded: 2009-10-24
         name: Football with Batman
         caption: |
             There was an LSU Tailgate party the weekend before Halloween, and we let Vanya wear his Batman costume to the game.  He and I crossed the street to play in a field for a little while in the afternoon.
-
-            Recorded 10/24/09
         url: https://my.video/12233
         embed: <iframe width="1089" height="613" src="https://www.youtube.com/embed/vu1bxVx3pDc" title="Football with Batman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 6054747
+        dateRecorded: 2009-08-02
         name: On the Beach
         caption: |
             Vanya makes sure the kayak is high and dry after a paddle.
 
-            Moose Pond, Maine, August 2, 2009.
+            Moose Pond, Maine, 
         url: 
         embed:  
         
     -
         id: 5658016
+        dateRecorded: 
         name: Strongest Man Competition
         caption: |
             I was cleaning up the kitchen on July 18, 2009, when this site came through.  It's a pretty funny one.
 
             By the way, this is my first HD video that I've uploaded.  The quality improvement is obvious.
-
-            
         url: 
         embed:  
         
     -
         id: 6053533
+        dateRecorded: 2009-07-31
         name: Chasing Birds in Boston
         caption: |
             The pigeons in Boston may never rest easy again.
-
-            Recorded 7/31/09
         url: https://youtu.be/9XNGdezCs04
         embed:  <iframe width="1089" height="613" src="https://www.youtube.com/embed/9XNGdezCs04" title="Chasing Birds in Boston" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 6053112
+        dateRecorded: 2009-07-26
         name: Clementine
         caption: |
             Recording a current song favorite.
-
-            Recorded 7/26/09
         url: https://youtu.be/LFtqVQexEtg
         embed:  <iframe width="1089" height="613" src="https://www.youtube.com/embed/LFtqVQexEtg" title="Clementine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 2491522
+        dateRecorded: 2008-11-16
         name: >
             "I Think He's Going To Be Worse Than Sam"
         caption: |
             In which my son won't shut up, so we amuse each other by comparing him with family members who aren't present.
-
-            Recorded 11/16/08
         url: https://youtu.be/NZuMJuojwHk
         embed:  <iframe width="1089" height="726" src="https://www.youtube.com/embed/NZuMJuojwHk" title="I Think He&#39;s Going To Be Worse Than Sam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 2492003
+        dateRecorded: 2008-12-03
         name: Christmas Tree Decorating 2008
-        caption: Recorded 12/3/08   
+        caption: 
         url: https://youtu.be/N3SOpPodG60
         embed:  <iframe width="1089" height="726" src="https://www.youtube.com/embed/N3SOpPodG60" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 1203623
-        name: 
+        dateRecorded: 
+        name: Playing With the Goat
         caption: Vanya plays with the baby goat at his grandparents' house.         
         url: 
         embed:  
         
     -
         id: 1203621
+        dateRecorded: 2008-06-14
         name: Cat House/Goat Search
         caption: |
             Vanya starts in the cat house at his grandmothers, then moves outside to go look for the baby goat.
-
-            Recorded 6/14/2008
         url: https://youtu.be/3JrBJdvZH9c
         embed:  <iframe width="1089" height="726" src="https://www.youtube.com/embed/3JrBJdvZH9c" title="Cat House Goat Search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 1119673
+        dateRecorded: 2008-05-25
         name: New Tricycle
         caption: |
             May 19 was the anniversary of the day that we picked up Vanya at the orphanage.  We got him a tricycle as a present that day.  This is one of his first days learning to ride.  It's just the smallest bit too big for him here.
-
-            Recorded 5/25/08.
         url: https://youtu.be/wZACxeI7M58
         embed: <iframe width="1089" height="726" src="https://www.youtube.com/embed/wZACxeI7M58" title="New Tricycle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 1119670
+        dateRecorded: 2008-04-07
         name: Mama's Shoe
         caption: |
             Vanya wears a woman's shoe outside, and spots some poo poo.
-
-            Recorded 4/7/2008
         url: 
         embed:  
         
     -
         id: 1109655
+        dateRecorded: 2008-01-24
         name: Looking for Maw Maw and Opa
         caption: |
             Vanya gets misled into looking for his grandparents.
-            
-            Recorded 1/24/2008
-            
         url: 
         embed:  
         
     -
         id: 1109706
+        dateRecorded: 2008-01-28
         name: Playing with Dog Toy and Camera
-        caption: Recorded 1/28/2008           
+        caption:          
         url: 
         embed:  
         
     -
         id: 1109780
+        dateRecorded: 2008-02-23
         name: Enjoying Bad Country Music
-        caption: Recorded 2/23/2008           
+        caption:         
         url: https://youtu.be/magddMC24gw
         embed:  <iframe width="1089" height="726" src="https://www.youtube.com/embed/magddMC24gw" title="Enjoying Bad Country Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 407910
+        dateRecorded: 2007-11-28
         name: Enjoying the Singing of the Whos from Whoville
         caption: |
             Vanya dancing and enjoying the music of the Whos during an airing of "How the Grinch Stole Christmas."  This includes the first time that I've seen him introduce the full twirl during a dance.
-            
-            Recorded 11/28/2007
         url: https://youtu.be/ggHOJteGf8o
         embed:  <iframe width="1089" height="722" src="https://www.youtube.com/embed/ggHOJteGf8o" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 406304
+        dateRecorded: 2007-11-27
         name: Vanya Plays Football, Chase, Etc.
         caption: |
             Vanya throws a football, indian gives a battery to the cameraman, runs from him, plays with a broken toy, and looks out the window for out of town Mama.  There's a quick dance somewhere in there too.  All of this while wearing only one arm through the sleeve of his outer shirt.
-
-            Recorded 11/27/2007
-            
         url: 
         embed:  
         
     -
         id: 404171
+        dateRecorded: 2007-11-13
         name: Playing "Here Comes That Old Bird"
         caption: |
             Vanya, Ben, Lily, and Blossom play with a big pink flamingo puppet.
-
-            Recorded 11/13/2007
         url: 
         embed:  
         
     -
         id: 404186
+        dateRecorded: 2007-09-26
         name: Show Me Your Belly
         caption: |
             Vanya shows his most impressive knowledge of midriff vocabulary in September.
-            
-            Recorded 9/26/2007
         url: 
         embed:  
         
     -
         id: 404193
+        dateRecorded: 2007-08-14
         name: Hit Me With That Pillow
         caption: |
             Vanya tries to hit the cameraman with a pillow, resulting in unexpected comedy.
-            
-            Recorded 8/14/2007
         url: https://youtu.be/55PzjS3DGSk
         embed:  <iframe width="1089" height="722" src="https://www.youtube.com/embed/55PzjS3DGSk" title="Hit Me With That Pillow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
     -
         id: 403997
+        dateRecorded: 2007-07-24
         name: Vanya getting hit by ball
         caption: |
             Vanya in the living room getting hit by a ball.
-            
-            Recorded 7/24/2007
         url: 
         embed:  
         

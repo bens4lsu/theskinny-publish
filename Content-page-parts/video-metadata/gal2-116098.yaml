@@ -7,15 +7,15 @@ caption:
 videos: 
     -
         id: 56516060
+        dateRecorded: 2012-12-25
         name: Bounce Bounce Bounce
         caption: |
             Santa brought Kolya a bouncing toy Tigger for Christmas this year.
-
-            Recorded 12/25/2012
         url: 
         embed: 
     -
         id: 56433496
+        dateRecorded: 2012-12-20
         name: Shepherd #2
         caption: |
             Here's a clip from Vanya's school Christmas play.  He was shepherd number 2, and was one of the only kids with two lines.  You sorta miss the first one, because Kolya was so eager to get to his brother that all you hear is him yelling and whining.  There are a couple of short segments where I have to set the camera aside and try to calm down the little one.
@@ -25,41 +25,40 @@ videos:
         embed: 
     -
         id: 56433307
+        dateRecorded: 2012-12-16
         name: Vanya's Violin Recital
         caption: |
             V plays Jingle Bells.
-
-            Recorded December 16, 2012
         url: 
         embed: 
     -
         id: 56432458
+        dateRecorded: 2012-10-26
         name: Kolya - Voodoo Fest 2012
         caption: |
             Baby K enjoys the music of Gary Clark, Jr. along with a candy apple at Voodoo Fest.
-
-            Recorded 10/26/2012
         url: 
         embed: 
     -
         id: 52565728
+        dateRecorded: 2012-10-19
         name: Vanya Wins an Impossibly Hard Game
         caption: |
             At the Boo at the Zoo event, one of the only Games Vanya chose to play was this one, where you try to catapult frogs into little holes by hitting a hammer on a launcher.  I watched a lot of kids play while he stood in line, and it looked impossibly hard to me.
 
             Somehow, he hit the target on his last slap at it.  There's no explosion of joy or anything, since he's conditioned to the fact that whatever he wants falls into his lap, no matter what.
-
-            Recorded 10/19/2012
         url: 
         embed: 
     -
         id: 51681142
+        dateRecorded: 2012-10-14
         name: Solo Soccer
         caption: We went to soccer practice on 10/14/12, and it had apparently been canceled.  V and I played together some, and he was killing it with sharp kicks and crisp passes.  Until I started recording, anyway.
         url: 
-        embed: https://dynamic.theskinnyonbenny.com/gal/
+        embed: 
     -
         id: 51630449
+        dateRecorded: 
         name: Polaris RZR
         caption: |
             Vanya's grandmother got him a new plaything, to make it so that the only thing he wants to do with his life is come up to the farm and drive around.  I suspect that it's working.
@@ -69,21 +68,22 @@ videos:
         embed: 
     -
         id: 51629736
+        dateRecorded: 2012-10-01
         name: Couch Diving
         caption: 9/30 and 10/1, 2012
         url: 
         embed: 
     -
         id: 51626169
+        dateRecorded: 2012-09-29
         name: Rain Boy
         caption: |
             Baby K enjoys playing with the umbrella.  This is during one of V's soccer games.  He's playing wiht one of the other kids on the team who (obviously) isn't in the game at the time this is taken.
-
-            Recorded 9/29/2012
         url: 
         embed: 
     -
         id: 51626170
+        dateRecorded: 2012-09-14
         name: Swing!
         caption: |
             On this day, Kolya was enjoying his swing, as usual, and I picked up the camera and made a little bit of video.  He got down, played for a while, and then came back to swing some more.  On that run, he quickly fell asleep.
@@ -93,95 +93,89 @@ videos:
         embed: 
     -
         id: 77447726
+        dateRecorded: 2013-03-31
         name: Testing the Really Big Slide at New Orleans City Park
         caption: |
             More than once, Vanya has made his way to the top of this slide, only to chicken out and climb back down.  I think this is the first time he completed the slide.  In fairness, this is the only time we've been to it during daylight hours.  Kolya follows, somewhat hilariously.
-
-            Recorded March 31, 2013
         url: 
         embed: 
     -
         id: 77451065
+        dateRecorded: 2013-05-12
         name: Vanya's Voice Recital - Spring 2012
         caption: |
             My orders were to video this in a way so that the singer couldn't look at me.  He really doesn't sing loud enough for us to hear, but I happen to know that he's able to sing pretty well.  
-            
-            Recorded May 12, 2013
         url: 
         embed: 
     -
         id: 77448013
+        dateRecorded: 2013-05-12
         name: Brother D-Day, Brother Flounder, Meet Brother Bluto
-        caption: Recorded May 12, 2013
+        caption: 
         url: 
         embed: 
     -
         id: 77496130
+        dateRecorded: 2013-05-19
         name: Vanya's Spring Violin Recital
-        caption: Recorded May 19, 2013
+        caption: 
             
         url: 
         embed: 
     -
         id: 73738599
+        dateRecorded: 2013-07-01
         name: At Anchor, Annapolis, MD
         caption: |
             The most important thing to notice here is the Run DMC playing through the bluetooth speaker that the baby is flinging around so carelessly.  For some reason, Heather's phone was a HUGE Run DMC fan this Summer.  Aside from that, it's a simple clip of life at anchor.
 
             From our Chesapeake Bay sailing charter.
-
-            Recorded July 1, 2013
         url: 
         embed: 
     -
         id: 73741726
-        name: 
+        dateRecorded: 2013-07-06
+        name: Brothers
         caption: |
             The boys walk the line between play and fight, nice and mean, like only siblings can.
 
             From our Chesapeake Bay sailing charter.
-
-            Recorded July 6, 2013
         url: 
         embed: 
     -
         id: 73423079
+        dateRecorded: 2013-08-29
         name: Dance Like There's No One Watching
         caption: |
             I think this might be my favorite video of all time.
-
-            Recorded August 29, 2013
         url: 
         embed: 
     -
         id: 77496129
+        dateRecorded: 2013-10-10
         name: Kolya cut and paste crafts
         caption: |
             One evening, while H & V were off at one of his activities, K wanted to do "guh-loo."  So I found an old magazine, a piece of paper, and a jar of glue, and we went outside to try to do what craft-y parents do all of the time.
 
             Fast forward to 4:05 to see why I'm not a craft kind of parent.  K pretty much dodges cutting his finger clean off, while I mess with the camera.  I didn't even know how  much he did all of this until I looked at the video a couple of weeks later.
-
-            Recorded October 10, 2013
         url: 
         embed: 
     -
         id: 82955738
+        dateRecorded: 2013-12-19
         name: Vanya School Xmas 2013
         caption: |
             The highlight of this one is the piece right in the middle where the kids sign "Silent Night."  Rudolph toward the end is pretty fun too.
-
-            Recorded 12/19/2013           
         url: 
         embed: 
     -
         id: 83545684
+        dateRecorded: 2013-12-20
         name: Kolya School Xmas
         caption: |
             In 2013, we thought the Santa hired to visit the kids at Vanya's school was pretty bad.  Then, we encountered this guy at Kolya's school the next day.  We couldn't help but laugh at the guy.
 
             This video is of his entrance.  You can only see the back of K's head -- he's sitting in a teacher's lap right in front of us.  He wasn't fooled either.
-
-            Recorded 12/20/2013
         url: 
         embed: 
    
