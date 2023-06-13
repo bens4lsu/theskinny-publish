@@ -15,9 +15,7 @@ struct AnyPageMain: Component {
     var site: any Website
     var custPersonImageClass: String?
     var custHeaderClass: String?
-    
-    var debug = false
-    
+        
     var body: Component {
         //if debug { print (mainContent.render(indentedBy: .tabs(1))) }
         return Div {

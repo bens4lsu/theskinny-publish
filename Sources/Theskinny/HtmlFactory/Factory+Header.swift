@@ -2,22 +2,14 @@
 //  File.swift
 //  
 //
-//  Created by Ben Schultz on 5/15/23.
+//  Created by Ben Schultz on 6/13/23.
 //
-import Foundation
-import Publish
-import Plot
 
-struct TsobHTMLFactory: HTMLFactory {
-    typealias Site = Theskinny
-    
-    enum TsobHTMLFactoryError: Error {
-        case contextMissingAllPosts
-        case currentPostNotFoundInContext
-        case currentPostMissingIDInMetadata
-        case adopPostWihtoutSection
-        case currentAdopPostsMissingSlug
-    }
+import Foundation
+import Plot
+import Publish
+
+extension TsobHTMLFactory {
     
     struct HeaderInfo {
         let site: any Website = Theskinny()
@@ -78,25 +70,4 @@ struct TsobHTMLFactory: HTMLFactory {
             )
         }
     }
-        
-    
-    func makeIndexHTML(for index: Publish.Index, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
-        // make index html = home html
-        let sections = context.sections
-        let section = sections.first(where: { $0.id.rawValue == "home" })!
-            
-        return try makeHomeHTML(for: index, section: section, context: context)
-    }
-    
-    
-    func makeTagListHTML(for page: Publish.TagListPage, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML? {
-        HTML(.text("Hello tag list"))
-    }
-    
-
-
-    
-    
-    
-
 }

@@ -48,7 +48,7 @@ extension TsobHTMLFactory {
         guard let pageContent = context.allBlogPostsReversed?.indexByDate else {
             return makePageHTMLDefault(for: page, context: context)
         }
-        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site, debug: true)
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML (
             htmlHeadInfo.node,
             .body(.component(pageMain))
@@ -58,7 +58,7 @@ extension TsobHTMLFactory {
     fileprivate func makePageHTMLAdopHome(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Russian Adoption Stories")
         let pageContent = AdopHome(context)
-        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site, debug: true)
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML (
             htmlHeadInfo.node,
             .body(.component(pageMain))
