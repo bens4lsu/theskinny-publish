@@ -97,6 +97,9 @@ struct TsobHTMLFactory: HTMLFactory {
         }
         let blogPosts = BlogPosts(items: postItems)
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Blog Index of Articles by Date")
+        
+        // TODO:  The line below should use blogPosts.multiPostPageContent to get the short bits, but need to figure out what to do for topNavLinks
+        
         let pageMain = AnyPageMain(mainContent: blogPosts, site: context.site)
         return HTML (
             htmlHeadInfo.node,
