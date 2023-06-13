@@ -17,7 +17,7 @@ struct AdopHomeK: Component {
     var context: PublishingContext<Theskinny>
     
     var content: Component  {
-        let path =  context.site.path(for: .home).parent + "Content-page-parts/adopHomeK.md"
+        let path =  context.site.path(for: .home).parent + "Content-custom/adopHomeK.md"
         
         let file = try? File(path: path)
         let string = (try? file?.readAsString()) ?? ""

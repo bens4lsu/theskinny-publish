@@ -72,7 +72,13 @@ extension PublishingStep where Site == Theskinny {
     
     static func writeVideoAlbumPages() -> Self {
         .step(named: "Create video album pages"){ context in
-            let _ = context.videoAlbums
+            let factory = TsobHTMLFactory()
+            for album in context.videoAlbums {
+                let page = Page(path: "vid2/\(album.slug)/index.html", content: Content())
+                let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
+                let file = try context.createOutputFile(at: page.path)
+                try file.write(html.render())
+            }
         }
     }
 }

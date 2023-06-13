@@ -22,7 +22,8 @@ extension TsobHTMLFactory {
             return try makeAdopHtml(for: section, context: context, name: "Kolya", component: context.adopPosts?.adopK)
         case .adopv:
             return try makeAdopHtml(for: section, context: context, name: "Vanya", component: context.adopPosts?.adopV)
-
+        case .vid:
+            return try makeVidHtml(for: section, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }
@@ -45,6 +46,11 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+    }
+    
+    fileprivate func makeVidHtml(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {
+        
+        return HTML(.text("Section HTML not yet implemented"))
     }
     
     fileprivate func makeNJHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {

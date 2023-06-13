@@ -59,15 +59,24 @@ extension PublishingContext where Site == Theskinny {
     }
     
     var videoAlbums: [VideoAlbum] {
-        let path =  self.site.path(for: .home).parent + "Content-page-parts/video-metadata/"
+        let path =  self.site.path(for: .home).parent + "Content-custom/video-metadata/"
         let decoder = YAMLDecoder()
         var albums = [VideoAlbum]()
         do {
             try Folder(path: path).files.enumerated().forEach { (index, file) in
-                print (file)
+                //print (file)
                 let fileYaml = try file.readAsString()
-                let decoded = try decoder.decode(VideoAlbum.self, from: fileYaml)
-                albums.append(decoded)
+                var decoded = try decoder.decode(VideoAlbum.self, from: fileYaml)
+                let preFilterCount = decoded.videos.count
+                decoded.videos = decoded.videos.filter {
+                    $0.embed.count > 0
+                }
+                if decoded.videos.count != preFilterCount {
+                    print ("WARNING: videos eliminated because no emded code in \(file.name)")
+                }
+                if decoded.videos.count > 0 {
+                    albums.append(decoded)
+                }
             }
         } catch(let e) {
             print ("Video album file or decode error on:  \(e)")

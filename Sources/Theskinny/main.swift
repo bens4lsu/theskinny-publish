@@ -12,12 +12,14 @@ struct Theskinny: Website {
         case njdispatches
         case adopv
         case adopk
+        case vid
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
         var id: Int?
         var description: String?
         var adopSection: String?
+        var videoAlbums: [Int]?
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!
@@ -38,7 +40,6 @@ extension Theme where Site == Theskinny {
 
 // This will generate the website
 try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
-    // TODO:  folder and files for dead link redirects on blog2
     .writePostPages(),
     .writeRedirectsFromWordpressUrls(),
     .writeVideoAlbumPages(),

@@ -15,7 +15,7 @@ struct HomeMainMessage: Component {
     var context: PublishingContext<Theskinny>
     
     var content: Component  {
-        let path =  context.site.path(for: .home).parent + "Content-page-parts/homeMain.md"
+        let path =  context.site.path(for: .home).parent + "Content-customs/homeMain.md"
         
         let file = try? File(path: path)
         let string = (try? file?.readAsString()) ?? ""

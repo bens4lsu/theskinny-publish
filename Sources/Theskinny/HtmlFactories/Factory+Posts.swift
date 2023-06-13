@@ -32,4 +32,14 @@ extension TsobHTMLFactory {
         let script = Script("window.location.replace(\"/blog2/\(newName)\");")
         return HTML(script.convertToNode())
     }
+    
+    func makeVideoAlbumHtml(for page: Page, context: PublishingContext<Theskinny>, album: VideoAlbum) throws -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
+        let pageMain = AnyPageMain(mainContent: album, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain)
+           )
+        )
+    }
 }

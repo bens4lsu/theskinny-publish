@@ -22,6 +22,8 @@ extension TsobHTMLFactory {
             return try makeNJHTML(for: item, context: context)
         case "adopv", "adopk":
             return try makeAdopHTML(for: item, context: context)
+        case "vid":
+            return try makeVidHTML(for: item, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }
@@ -49,6 +51,17 @@ extension TsobHTMLFactory {
         )
     }
     
+    fileprivate func makeVidHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {
+        // this is a page that lists several albums.  clicking on the albums should go to a page that lists all
+        // of the videos for that album.
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Video Albums on theskinnyonbenny.com")
+        let albumsToShow = context.videoAlbums.filter { album in
+            item.metadata.videoAlbums?.contains(album.id) ?? false
+        }
+        let videoAlbumIndex = VideoAlbumIndex(videoAlbums: albumsToShow, title: item.title)
+        let pageMain = AnyPageMain(mainContent: videoAlbumIndex, site: context.site)
+        return HTML (htmlHeadInfo.node, .body(.component(pageMain)))
+    }
     
     fileprivate func makeAdopHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) throws -> Plot.HTML {
      
