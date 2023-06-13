@@ -12,6 +12,7 @@ import Publish
 struct Video: Component, Decodable {
     let id: Int
     let name: String
+    let dateRecorded: Date?
     let caption: String
     let url: String
     let embed: String

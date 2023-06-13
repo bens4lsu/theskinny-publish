@@ -72,7 +72,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func writeVideoAlbumPages() -> Self {
         .step(named: "Create video album pages"){ context in
-            print (context.videoAlbums)
+            let _ = context.videoAlbums
         }
     }
 }

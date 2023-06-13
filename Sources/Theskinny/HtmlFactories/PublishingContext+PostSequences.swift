@@ -64,6 +64,7 @@ extension PublishingContext where Site == Theskinny {
         var albums = [VideoAlbum]()
         do {
             try Folder(path: path).files.enumerated().forEach { (index, file) in
+                print (file)
                 let fileYaml = try file.readAsString()
                 let decoded = try decoder.decode(VideoAlbum.self, from: fileYaml)
                 albums.append(decoded)
