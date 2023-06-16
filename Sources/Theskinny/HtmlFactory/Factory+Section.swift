@@ -23,7 +23,7 @@ extension TsobHTMLFactory {
         case .adopv:
             return try makeAdopHtml(for: section, context: context, name: "Vanya", component: context.adopPosts?.adopV)
         case .vid:
-            return try makeVidHtml(for: section, context: context)
+            return makeVidHtml(for: section, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }

@@ -23,7 +23,7 @@ extension TsobHTMLFactory {
         case "adopv", "adopk":
             return try makeAdopHTML(for: item, context: context)
         case "vid":
-            return try makeVidHTML(for: item, context: context)
+            return makeVidHTML(for: item, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }

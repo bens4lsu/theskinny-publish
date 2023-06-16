@@ -126,6 +126,12 @@ body {
     justify-content: space-between;
 }
 
+h1 {
+    font-size: 150%;
+    color: #000;
+    font-weight: bold;
+}
+
 h3 {
     color:#4C4C4C;
     font-size:85%;
@@ -134,7 +140,7 @@ h3 {
 }
 
 h2 {
-    font-size: 100%;
+    font-size: 120%;
     font-weight: bold;
     color:#4C4C4C;
 }
