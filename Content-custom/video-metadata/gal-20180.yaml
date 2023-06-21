@@ -1,8 +1,10 @@
 # id numbers from original ids on Vimeo
 
 id: 20180
-name: Interesting, Unusual, or Funny - Volume 1
-caption: There's no common thread through these, except that they aren't really movies of our family doing something, and they don't belong with any of the other collections.  
+name: >
+    Interesting, Unusual, or Funny - Volume 1
+caption: >
+    There's no common thread through these, except that they aren't really movies of our family doing something, and they don't belong with any of the other collections.  
 slug: interesting-unusual-funny-volume-1
 videos: 
     -
@@ -24,7 +26,7 @@ videos:
             My favorite part of this video is that it makes me laugh in real life exactly where it made me laugh when it was being shot.
         url: 
         embed: 
-     -
+    -
         id: 25547002
         dateRecorded: 2011-06-23
         name: Sunset Over National Harbor
@@ -55,7 +57,7 @@ videos:
         embed: 
     -
         id: 17754806
-        dateRecorded: 12-11-2010
+        dateRecorded: 2010-12-11
         name: City Park Carousel
         caption: |
             I love the carousel in New Orleans's City Park.  It's one of the biggest and one of the fastest that I know, and it's ancient beams, bars, and mechanics reek of days past.  The whole room is beautiful, and confusingly symmetric.
@@ -65,7 +67,7 @@ videos:
         embed: 
     -
         id: 15808491
-        dateRecorded: 10-12-2010
+        dateRecorded: 2010-10-12
         name: Mike the Tiger
         caption: |
             Mike the Tiger (Mike VI) plays in his habitat on October 12, 2010.  Accompanying blog post on <a href="https://theskinnyonbenny.com/blog2/archives/887">https://theskinnyonbenny.com/blog2/archives/887</a>
@@ -80,105 +82,92 @@ videos:
         embed: 
     -
         id: 14020743
-        dateRecorded: 
+        dateRecorded: 2010-07-27
         name: Tubing - This One Is For the Conversation
         caption: Crystal has her children trained all about the evils of every ingredient that they might encounter.  In this video, we're shooting Annika on the tube, but talking about an incident in a bait shop on the lake earlier that morning.  This one is all about the story.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
+        id: 11097122
+        dateRecorded: 2010-04-10
+        name: At the French Quarter Festival
+        caption: >
+            There are so many things I like about this minute of French Quarter Festival on 4/10/10.  Despite the t-shirt and jeans, the lady plays the liquorice stick as well as anyone I've heard.  Then, there's the barely-mobile old dude who dances through with the shirt that says, "Don't ask me for shit."  And the old lady who is just going to pass by but then has to do a double-take once her ear catches the solo.
+
+            By the way, this was around 10:00 or 11:00 on Royal Street on Saturday of the festival of this year.  If anyone knows who this band is, I'd love to get their name.
             
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 10542756
+        dateRecorded: 2010-03-25
+        name: Dinner With Lily
+        caption: I actually thought that this would show her inhaling her food much faster than it really does.  Stick around for her being bum-rushed at 1:02 for a chuckle.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 9466435
+        dateRecorded: 2010-02-06
+        name: An Example of Why Sharples Makes Me Laugh
+        caption: At Vanya's fourth birthday party, Sharples makes an amusing observation.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
+        id: 6055193
+        dateRecorded: 2009-08-05
+        name: Cutting the Grass in Maine
         caption: |
-            
+            Scene:  vacation in Maine, August 2009.  Brent has some time to kill, and finds some primitive grass-cutting implement, probably similar to ones used by early man outside their caves.  Coincidentally, the grass needs to be cut.  The problem of having time to kill is solved.
+
+            I'm not sure why it's funny, but you can hear me chuckle at the end of the clip, and it still makes me laugh today.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 1434059
+        dateRecorded: 2008-07-24
+        name: Disobedient
+        caption: Having dogs is exhausting.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 1433978
+        dateRecorded: 2008-06-24
+        name: Crazy Wild Beast
+        caption: A glimpse of the amount of respect I garner with my own pets.  If you haven't watched this one yet, get someone else to bet you on the number of times I get humped in a minute and a half of video.  The over/under is 2.5.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 1228780
+        dateRecorded: 2008-06-24
+        name: Talking Cat !!?!
+        caption: My nephew was over, and he does a good job of taking a lot of footage with the video camera.  We spent about 90 minutes throwing this together using  the dumb windows video editor.  I'm kind of amused, but no one I've shown thinks it's worth a damn.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 1229119
+        dateRecorded: 2005-06-28
+        name: Kitty Wars
+        caption: While I'm posting fims made by my nephew, here's a movie he made three summers ago.  It's a bit crude, to be sure, but it has its upside.  For example, the Nancy Grace bit that leads it off.  The credits are also amusing.   
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 646905
+        dateRecorded: 2007-10-06
+        name: Blossom Steals
+        caption: Blossom steals ice out of a stranger's cooler during an LSU tailgate party.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 467457
+        dateRecorded: 2007-12-25
+        name: Chicken Dance Lemming
+        caption: Chicken Dance Elmo dances his way right off the ledge.  I'm not sure why I find this so funny.
         url: 
         embed: 
     -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
+        id: 467464
+        dateRecorded: 2007-12-27
+        name: Three Lazy Beasts
+        caption: The title says it all on this one.
         url: 
         embed: 
-    -
-        id: 
-        dateRecorded: 
-        name: 
-        caption: |
-            
-        url: 
-        embed: 
-        

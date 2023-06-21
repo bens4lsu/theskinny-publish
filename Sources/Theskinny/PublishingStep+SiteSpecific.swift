@@ -66,7 +66,7 @@ extension PublishingStep where Site == Theskinny {
                 try file.write(html.render())
             }
             let max = allPosts.map({ $0.id }).max() ?? -1
-            print("Max blog post id is currently \(max)")
+            print("NOTICE:  Max blog post id is currently \(max)")
         }
     }
     

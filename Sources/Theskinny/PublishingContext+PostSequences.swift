@@ -67,6 +67,7 @@ extension PublishingContext where Site == Theskinny {
                 //print (file)
                 let fileYaml = try file.readAsString()
                 var decoded = try decoder.decode(VideoAlbum.self, from: fileYaml)
+                //print ("video gallery \(decoded.id): \(decoded.videos.count) videos")
                 let preFilterCount = decoded.videos.count
                 decoded.videos = decoded.videos.filter {
                     $0.embed.count > 0

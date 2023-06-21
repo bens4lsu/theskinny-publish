@@ -11,3 +11,4 @@ Resources/img
 /ben-build tools/output/*
 Resources/sound
 **/*.mp4
+~*.xlsx
