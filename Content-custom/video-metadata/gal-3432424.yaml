@@ -1,0 +1,37 @@
+# id numbers from original ids on Vimeo
+
+id: 3432424
+name: Drone Flights
+slug: drone-flights
+caption: 
+videos:
+    -
+        id: 130253338
+        dateRecorded: 
+        name: Test Flight
+        caption: When I got my first drone, it had this footage loaded on it, which the manufacturers apparently forgot to delete.
+        url: 
+        embed: 
+    -
+        id: 153437208
+        dateRecorded: 2015-01-16
+        name: Drone Flight - Goodwood Park
+        caption: 
+        url: 
+        embed: 
+    -
+        id: 153437243
+        dateRecorded: 2015-01-16
+        name: Drone Test - Stuck in Tree
+        caption: We run a test flight, then use the "return home" button, only to get stuck in a tree.  The video continues shooting while you see attempts to dislodge the drone from the branches.            
+        url: 
+        embed: 
+    -
+        id: 130486363
+        dateRecorded: 2015-01-18
+        name: Louisiana Marathon Drone Mishap
+        caption: As you may know, the Louisiana Marathon passes right in front of our house.  I had the idea this year that it would be fun to fly the drone up above the runners as they passed.  Instead, I damn near knocked an exhausted runner in the head.  My co-spectators refused to allow me another test flight.
+        url: 
+        embed: 
+
+        
