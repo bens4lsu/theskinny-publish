@@ -83,6 +83,16 @@ struct TsobHTMLFactory: HTMLFactory {
         )
     }
     
+    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video) throws -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
+        let pageMain = AnyPageMain(mainContent: video.allByMyself, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain)
+           )
+        )
+    }
+    
     
     func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Theskinny>) throws -> HTML? {
         let items = context.items(taggedWith: page.tag)

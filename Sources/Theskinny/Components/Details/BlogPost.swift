@@ -54,10 +54,6 @@ struct BlogPosts: Component {
     
     var count: Int { items.count }
     
-    let listStyle = HTMLListStyle(elementName: "") { listItem in
-        Div(listItem)
-    }
-    
     var body: Component { return Div { } }
     
     var indexByDate: Component {
@@ -94,7 +90,7 @@ struct BlogPosts: Component {
             topLinks
             List(items) { item in
                 item.postShortBox
-            }.listStyle(listStyle)
+            }.listStyle(.listAsDivs)
         }
     }
     

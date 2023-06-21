@@ -49,8 +49,18 @@ extension TsobHTMLFactory {
     }
     
     fileprivate func makeVidHtml(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {
-        
-        return HTML(.text("Section HTML not yet implemented"))
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Video Albums on theskinnyonbenny.com")
+        let links = section.items.map { item in
+            Link(item.title, url: "/\(item.path.string)")
+        }
+        let component = {
+            Article {
+                H1("Video Index")
+                List(links) { $0 }.listStyle(HTMLListStyle.listOfLinks)
+            }
+        }()
+        let pageMain = AnyPageMain(mainContent: component, site: context.site)
+        return HTML(htmlHeadInfo.node, .body(.component(pageMain)))
     }
     
     fileprivate func makeNJHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {

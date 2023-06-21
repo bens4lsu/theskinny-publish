@@ -20,5 +20,5 @@ extension EnvironmentKey where Value == DateFormatter {
 
 extension EnvironmentKey where Value == Int {
     static let blogPostsPerPage = 12
-    static let styleAndScriptVersion = 1002
+    static let styleAndScriptVersion = Int.random(in: Int.min...Int.max)
 }

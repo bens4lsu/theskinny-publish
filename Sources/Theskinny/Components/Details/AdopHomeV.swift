@@ -52,8 +52,8 @@ class AdopV: AdopGeneral, Component {
             H2("Trip One")
             self.tripOneLinks
             H2("Photos From Trip One")
-            H2("Between Trips (click to open)")
             imgGalSet1
+            H2("Between Trips (click to open)")
             self.betweenTripsLinks
             H2("Trip Two")
             self.tripTwoLinks

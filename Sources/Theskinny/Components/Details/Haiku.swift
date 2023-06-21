@@ -56,17 +56,13 @@ struct Haiku: Component {
 struct Haikus: Component {
     var items: [Haiku]
     
-    let listStyle = HTMLListStyle(elementName: "") { listItem in
-        Div(listItem)
-    }
-    
     var body: Component {
         let items = self.items.sorted{ $0.date < $1.date }
         return Article {
             H3 { Text(TopOfPageComment.text) }
             List(items) { item in
                 item.bodyWithLinks
-            }.listStyle(listStyle)
+            }.listStyle(.listAsDivs)
         }
     }
 }

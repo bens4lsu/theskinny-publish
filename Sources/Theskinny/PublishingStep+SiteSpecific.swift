@@ -78,7 +78,27 @@ extension PublishingStep where Site == Theskinny {
                 let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render())
+                try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context)
             }
+            try writeRedirect(atPage: "/vid2", to: "/vid", onContext: context)
+            try writeRedirect(atPage: "/vid3", to: "/vid", onContext: context)
         }
+    }
+    
+    static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: PublishingContext<Theskinny>) throws {
+        for video in album.videos {
+            let page = Page(path: "\(video.link)/index.html", content: Content())
+            let html = try factory.makeVideoSinglePageHtml(for: page, context: context, video: video)
+            let file = try context.createOutputFile(at: page.path)
+            try file.write(html.render())
+        }
+    }
+    
+    static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: PublishingContext<Theskinny>) throws {
+        let path = pagePath.appendingComponent("index.html")
+        let page = Page(path: path, content: Content())
+        let redirectHtml = HTML(.body(.redirect(to: redirPath.string)))
+        let file = try context.createOutputFile(at: page.path)
+        try file.write(redirectHtml.render())
     }
 }

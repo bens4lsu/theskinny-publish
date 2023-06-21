@@ -145,6 +145,16 @@ h2 {
     color:#4C4C4C;
 }
 
+h2 > a {
+    text-decoration: none;
+}
+
+.embed-featured {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
 .content p.p-indented {
     margin:  0.25em 0 0 2em;
     margin-block: 0 0;
@@ -295,8 +305,6 @@ div.twitter-tweet {
     justify-content: center;
 }
 
-blockquote.twitter-tweet
-
 .div-image-gallery-set {
     display: flex;
     flex-wrap: wrap;
@@ -312,6 +320,12 @@ blockquote.twitter-tweet
 .img-gal-link {
     width: 350px;
 }
+
+div.vid-gal-line-item {
+    display: flex;
+    justify-content: space-between;
+}
+
 
 @media (min-width: 650px) {
     .wrapper {

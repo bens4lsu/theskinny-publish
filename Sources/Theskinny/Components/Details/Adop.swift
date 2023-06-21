@@ -114,13 +114,9 @@ class AdopGeneral {
     private func listItemsForSection(_ section: AdopSection) -> Component {
         let sectionItems = items.filter { $0.section == section }
         
-        let listStyle = HTMLListStyle(elementName: "") { listItem in
-            Div(listItem).class("list-of-links")
-        }
-        
         let list = List(sectionItems) { item in
             Link("\(item.dateString):  \(item.title)", url: "/\(item.slug)")
-        }.listStyle(listStyle)
+        }.listStyle(.listOfLinks)
         
         return list
     }

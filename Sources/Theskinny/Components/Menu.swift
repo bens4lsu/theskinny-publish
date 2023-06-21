@@ -68,8 +68,8 @@ struct Menu: Component {
                     listItemGalleries.class("li-pagelink")
                 }
                 ListItem {
-                    Text("Videos")
-                }.class("todo")
+                    Link("Videos", url: "/vid/family-home-videos/")
+                }.class("li-pagelink")
                 listItemAdop.class("li-pagelink")
                 ListItem {
                     Text("Velvet Elvis")
@@ -122,6 +122,9 @@ struct Menu: Component {
                 listItemBlog
                 listItemDailyPhotos
                 listItemGalleries
+                ListItem {
+                    Link("Videos", url: "/vid/family-home-videos/")
+                }
                 listItemAdop
                 ListItem {
                     Link("Other pages", url: "/mobileSitemap")

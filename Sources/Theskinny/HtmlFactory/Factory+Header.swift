@@ -18,12 +18,12 @@ extension TsobHTMLFactory {
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
         let stylesheetPaths: [Path] = ["/style/lightview.css",
-                                       "/style/style.css?\(EnvironmentKey.styleAndScriptVersion)"
+                                       "/style/style.css?v=\(EnvironmentKey.styleAndScriptVersion)"
         ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
                                    "https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28",
                                    "/scripts/lightview.js",
-                                   "/scripts/menu.js?\(EnvironmentKey.styleAndScriptVersion)"
+                                   "/scripts/menu.js?v=\(EnvironmentKey.styleAndScriptVersion)"
         ]
         
         

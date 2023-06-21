@@ -43,10 +43,6 @@ struct NJDispatch: Component {
 struct NJDispatches: Component {
     var items: [NJDispatch]
     
-    let listStyle = HTMLListStyle(elementName: "") { listItem in
-        Div(listItem).class("padded-line")
-    }
-    
     var body: Component {
         let items = self.items.sorted{ $0.date < $1.date }
         return Article {
@@ -54,7 +50,7 @@ struct NJDispatches: Component {
             List(items) { item in
                 let idStr = "00000\(item.id)".suffix(2)
                 return Link(item.linkText, url: "nj\(idStr)")
-            }.listStyle(listStyle)
+            }.listStyle(.listOfLinks)
         }
     }
 }
