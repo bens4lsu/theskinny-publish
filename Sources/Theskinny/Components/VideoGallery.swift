@@ -55,7 +55,7 @@ struct VideoAlbum: Component, Decodable {
         Div {
             Div {
                 H2(name)
-                Span(caption)
+                Span(Markdown(caption))
             }
             Div("thumbnail")
         }

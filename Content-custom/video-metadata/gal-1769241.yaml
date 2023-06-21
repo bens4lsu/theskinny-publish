@@ -1,0 +1,136 @@
+# id numbers from original ids on Vimeo
+
+id: 1769241
+name: Interesting, Unusual, or Funny - Volume 2
+slug: interesting-unusual-funny-volume-2
+caption: Same thing as IUF, Vol 1, but newer.  Non-connected, random videos that are interesting, unusual, or funny, and which don't really belong with any of the other groups.
+videos: 
+    -
+        id: 130253338
+        dateRecorded: 
+        name: Test Flight
+        caption: For Christmas, I got a really cool drone.  It's just a ton of fun to fly, and it's going to be a hoot to have on summer sailing trips.  But here's a really interesting thing -- it came with its Chinese factory test flight still in memory.  Watch and enjoy!
+        url: 
+        embed: 
+    -
+        id: 93936938
+        dateRecorded: 2014-04-30
+        name: Tedium in Column Highlighting
+        caption: |
+            I had two files.  One had records of type A, and one had records of type B.  The only way to match them up was by line number.  Row 40812 in the first file corresponds to row 40812 in the second.  How to get them into one place so that I can import them into a table?
+
+            Excel is out -- I can't have it dropping leading zeros or messing with data in other ways, and I don't trust it not to monkey with something or other.
+
+            One of the things that I tried was to indent all of the values in the first file, then highlight several thousand at a time.  Then, a tedious column highlight (alt + mouse on Windows, option + click on Mac.  On Mac, you can let up on the option key after the mouse click, which helps the sudden-onset arthritis quite a bit.)
+
+            This was working for me, but long before I finished, the guy who generated the files created a single file in the format that I was trying to produce.
+        url: 
+        embed: 
+    -
+        id: 93940292
+        dateRecorded: 2014-04-07
+        name: Creepiest Pop-Up Ad Ever
+        caption: This is the creepiest advertisement that I've ever seen.  So creepy, I had to pull out my phone and make a short video.  I have no reason to believe that this is fake, other than that it is for a company I've heard of, and that it's horribly, horribly bad.
+        url: 
+        embed: 
+    -
+        id: 93936926
+        dateRecorded: 2014-02-06
+        name: Don't Get a Speeding Ticket, Lady
+        caption: |
+            This woman is really, really scared of speed bumps.  After her first couple, I had plenty of time to start making video, as you'll see.
+
+            Also, there's a little self realization of dangerous driving habits.  It appears that I'm driving in the rain, with no wipers, and no seatbelt.
+        url: 
+        embed: 
+    -
+        id: 60428541
+        dateRecorded: 2013-02-13
+        name: Mardi Gras Indians 2013
+        caption: We were leaving the foot parades and street parties of the French Quarter and Marigny in the early afternoon on Mardi Gras, 2013.  Getting close to Claiborne, I spotted an Indian walking up the street.  We quickly found a place to park, and followed him to a side street where he met up with some other colorful Indians.  We hung out for a while taking in the costumes and chanting.  It was pretty cool to see in person.
+        url: 
+        embed: 
+    -
+        id: 59033926
+        dateRecorded: 2013-02-05
+        name: The Most Inappropriate Birthday Card Ever Given to a Seven Year Old
+        caption: The birthday card that our family gave Vanya for his 7th birthday.  More about this on <a href="https://theskinnyonbenny.com/blog2/birthday-greeting/">https://theskinnyonbenny.com/blog2/birthday-greeting/</a>
+        url: 
+        embed: 
+    -
+        id: 45936859
+        dateRecorded: 2012-07-06
+        name: Carysfort Reef Lighthouse Starts Flashing for the Night
+        caption: |
+            Florida has mooring balls installed along miles and miles of coral reef off the coast.  With a little planning and luck, you can grab a ball for the night, positioning yourself so that the reef takes all of the wave, giving you a nice, still spot to spend the night.  The dive boats go in just before dark, giving you the solitude on the reef all to yourself.
+
+            This is Carysfort Reef, named for the first ship known to go aground here.  It is very close to the pass where a boat would go into Biscayne Bay from the southeast, so I'm sure it was a real problem in its day.
+        url: 
+        embed: 
+    -
+        id: 41733084
+        dateRecorded: 2012-05-13
+        name: Band in New Orleans
+        caption: This was down a few streets from the Fairgrounds in New Orleans on a random Thursday evening.  Okay, it was the Thursday of Jazz Fest, but still.  If anyone knows which band this is, let me know, and I'll pass along a credit.
+        url: 
+        embed: 
+    -
+        id: 37671802
+        dateRecorded: 2012-02-15
+        name: Cattle Stampede
+        caption: |
+            One weekend, I was walking across the in-laws' farm, with Vanya well ahead of me, and Blossom pretty near.  We were crossing a pasture, and I was taking some pictures.  Something about the camera made a couple of the cows curious, and they started walking towards us.
+
+            Blossom saw the giant cows nearing, and she took off running for the house, as fast as her undersized legs would carry her.  Then the cows, seeing another animal in full sprint, decided that they better get the hell out of dodge too.
+
+            It took me a minute to flip the camera to video shooting mode, and I had a big zoom lens on, so it's really shaky, but here's the end of the little stampede that I started. 
+
+            If you look closely at the end of the video, you can see a little speck that is Blossom, well clear of the chaos, but still running away.
+        url: 
+        embed: 
+    -
+        id: 37622541
+        dateRecorded: 2012-02-21
+        name: Mamou Mardi Gras Finale
+        caption: |
+            In the town of Mamou, Louisiana, the Mardi Gras tradition is for the townspeople to gather on horseback very early in the morning.  They start drinking Bud Light, and they go from house to house to house, chasing live chickens, and performing drunken song and dance.  
+
+            In 2012, we made it to Mamou for the parade back into the town at the end of the day.  There's a blog post about it at <a href="https://theskinnyonbenny.com/blog2/archives/1271">https://theskinnyonbenny.com/blog2/archives/1271</a>
+        url: 
+        embed: 
+    -
+        id: 33191844
+        dateRecorded: 2011-12-05
+        name: Kremlin Ceremony
+        caption: |
+            We were walking near the Kremlin on December 5, 2011, and we came across some sort of ceremonly going on.  We still aren't sure what it was.  This starts next to the tomb of the unknown soldier by the wall of the Kremlin, and the last part is out in front of the Historical Museum which marks the South end of Red Square.
+
+            There weren't many spectators, and this was as close as we could get.  It's a little bit interesting.
+        url: 
+        embed: 
+    -
+        id: 130486363
+        dateRecorded: 2015-01-18
+        name: Louisiana Marathon Drone Mishap
+        caption: |
+            As you may know, the Louisiana Marathon passes right in front of our house.  I had the idea this year that it would be fun to fly the drone up above the runners as they passed.  Instead, I damn near knocked an exhausted runner in the head.  My co-spectators refused to allow me another test flight.
+        url: 
+        embed: 
+    -
+        id: 130570160
+        dateRecorded: 2015-01-24
+        name: Slow Damn Train
+        caption: |
+            Waiting for a train to cross, so that they'll open the Rigolets train bridge.
+
+            Lots of blurriness here -- should have turned off autofocus.  Sorry.
+        url: 
+        embed: 
+    -
+        id: 159721579
+        dateRecorded: 2015-02-05
+        name: Who Had Fun at the Parade Tonight?
+        caption: |
+            Random sighting late after Thurday night parades in the Lobby of the St. Charles Hilton.
+        url: 
+        embed: 
