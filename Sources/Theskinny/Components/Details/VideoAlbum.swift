@@ -41,6 +41,14 @@ struct VideoAlbum: Component, Decodable {
         return "Duration:  \(durationString)"
     }
     
+    var minDate: Date? {
+        videos
+            .filter { $0.dateRecorded != nil }
+            .sorted()
+            .first?
+            .dateRecorded
+    }
+    
     var body: Component {
         Div {
             H1(name)
@@ -68,4 +76,19 @@ struct VideoAlbum: Component, Decodable {
             }.class("vid-gal-thumbnail")
         }.class("vid-gal-line-item")
     }
+}
+
+extension VideoAlbum: Comparable {
+    static func < (lhs: VideoAlbum, rhs: VideoAlbum) -> Bool {
+        if lhs.minDate != nil && rhs.minDate != nil {
+            return lhs.minDate! < rhs.minDate!
+        }
+        return lhs.id < rhs.id
+    }
+    
+    static func == (lhs: VideoAlbum, rhs: VideoAlbum) -> Bool {
+        lhs.id == rhs.id
+    }
+    
+    
 }

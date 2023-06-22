@@ -39,9 +39,9 @@ extension PublishingStep where Site == Theskinny {
                 let leftLinkInfo: LinkInfo? = (i == numPages - 1) ? nil : LinkInfo(text: "older", url: "/blog/page-\(i + 1)")
                 let linkInfo = TopNavLinks(leftLinkInfo: leftLinkInfo, rightLinkInfo: rightLinkInfo)
                 
-                let postsThisPage = (postsPerPage <= (i * postsPerPage + postsPerPage)) ? postsPerPage : postsOnLastPage
+                let postsThisPage = (allPosts.count <= (i * postsPerPage + postsPerPage)) ? postsOnLastPage : postsPerPage
                 //print ("\(postsThisPage) \(postsPerPage) \(i) \(postsOnLastPage)")
-                for j in 0..<postsThisPage {
+                for j in 0..<(postsThisPage) {
                     //print ("\(allPosts.count)  \(i)  \(j)  \(postsThisPage)  \(i * postsPerPage + j)")
                     includePosts.append(allPosts[i * postsPerPage + j])
                 }
@@ -73,9 +73,10 @@ extension PublishingStep where Site == Theskinny {
     static func writeVideoAlbumPages() -> Self {
         .step(named: "Create video album pages"){ context in
             let factory = TsobHTMLFactory()
-            for album in context.videoAlbums {
+            for var album in context.videoAlbums {
                 var page = Page(path: "vid2/\(album.slug)/index.html", content: Content())
                 page.title = album.name
+                album.videos = album.videos.sorted()
                 let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render())

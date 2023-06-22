@@ -57,7 +57,7 @@ extension TsobHTMLFactory {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Video Albums on theskinnyonbenny.com")
         let albumsToShow = context.videoAlbums.filter { album in
             item.metadata.videoAlbums?.contains(album.id) ?? false
-        }
+        }.sorted()
         let videoAlbumIndex = VideoAlbumIndex(videoAlbums: albumsToShow, title: item.title)
         let pageMain = AnyPageMain(mainContent: videoAlbumIndex, site: context.site)
         return HTML (htmlHeadInfo.node, .body(.component(pageMain)))
