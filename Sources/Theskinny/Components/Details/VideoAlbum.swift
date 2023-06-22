@@ -16,14 +16,37 @@ struct VideoAlbum: Component, Decodable {
     let caption: String
     let slug: String
     var videos: [Video]
+    let tn: String
     
     var link: String {
         "/vid2/\(slug)"
     }
     
+    var totalDuration: TimeInterval {
+        videos.reduce(0) { $0 + $1.duration }
+    }
+    
+    var formattedDuration: String {
+        let formatter = DateComponentsFormatter()
+        formatter.zeroFormattingBehavior = .pad
+        if totalDuration >= 3600 {
+            formatter.allowedUnits = [.hour, .minute, .second];
+        } else {
+            formatter.allowedUnits = [.minute, .second];
+        }
+        guard let durationString = formatter.string(from: totalDuration)
+        else {
+            return ""
+        }
+        return "Duration:  \(durationString)"
+    }
+    
     var body: Component {
         Div {
             H1(name)
+            Div {
+                Text(caption)
+            }.class("vid-gal-top-text")
             List(videos) { $0 }.listStyle(.listAsDivs)
         }
     }
@@ -34,11 +57,13 @@ struct VideoAlbum: Component, Decodable {
         Div {
             Div {
                 H2 { Link(name, url: link) }
-                Span(Markdown(caption))
+                Div { Markdown(caption) }
+                H3 { Text("\(videos.count) videos") }
+                H3 { Text("Total Duration: \(formattedDuration)") }
             }
             Div{
                 Link(url: link) {
-                    Text("thumbnail")
+                    Image("/img/video-thumbnails/\(tn)")
                 }
             }.class("vid-gal-thumbnail")
         }.class("vid-gal-line-item")

@@ -321,9 +321,18 @@ div.twitter-tweet {
     width: 350px;
 }
 
+div.vid-gal-top-text {
+    margin-bottom: 45px;
+}
+
 div.vid-gal-line-item {
     display: flex;
     justify-content: space-between;
+    border-radius: 12px;
+    background-color: #a6a6a6;
+    padding: 14px;
+    margin-bottom: 35px;
+    border: 2px solid #000;
 }
 
 

@@ -83,9 +83,9 @@ struct TsobHTMLFactory: HTMLFactory {
         )
     }
     
-    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video) throws -> HTML {
+    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video, backToPage: Page) throws -> HTML {
         let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: video.allByMyself, site: context.site)
+        let pageMain = AnyPageMain(mainContent: video.allByMyself(backToPage: backToPage), site: context.site)
         return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain)

@@ -16,12 +16,29 @@ struct Video: Component, Decodable {
     let caption: String
     let url: String
     let embed: String
+    let tn: String
+    let duration: TimeInterval
     
     var formattedDate: String {
         if let dateRecorded {
             return EnvironmentKey.defaultDateFormatter.string(from: dateRecorded)
         }
         return ""
+    }
+    
+    var formattedDuration: String {
+        let formatter = DateComponentsFormatter()
+        formatter.zeroFormattingBehavior = .pad
+        if duration >= 3600 {
+            formatter.allowedUnits = [.hour, .minute, .second];
+        } else {
+            formatter.allowedUnits = [.minute, .second];
+        }
+        guard let durationString = formatter.string(from: duration)
+        else {
+            return ""
+        }
+        return "Duration:  \(durationString)"
     }
     
     var autoSlug: String {
@@ -33,13 +50,20 @@ struct Video: Component, Decodable {
     
     var link: String { "/vid3/\(autoSlug)" }
     
-    private var dateRecordedComponent: Component {
+    var dateRecordedString: String {
         if dateRecorded == nil {
-            return EmptyComponent()
+            return ""
         }
-        let formatter = EnvironmentKey.defaultDateFormatter
-        return Text(formatter.string(from: dateRecorded!))
+        return "Recorded:  " + EnvironmentKey.defaultDateFormatter.string(from: dateRecorded!)
     }
+    
+//    private var dateRecordedComponent: Component {
+//        if dateRecorded == nil {
+//            return EmptyComponent()
+//        }
+//        let formatter = EnvironmentKey.defaultDateFormatter
+//        return Text(formatter.string(from: dateRecorded!))
+//    }
     
     // for line items on pages on /vid2
     var body: Component {
@@ -47,18 +71,29 @@ struct Video: Component, Decodable {
             Div {
                 H2 { Link(name, url: link) }
                 Span(Markdown(caption))
+                H3 { Text("\(dateRecordedString)") }
+                H3 { Text("\(formattedDuration)") }
             }
             Div{
                 Link(url: link) {
-                    Text("thumbnail")
+                    Image("/img/video-thumbnails/\(tn)")
                 }
             }.class("vid-gal-thumbnail")
         }.class("vid-gal-line-item")
     }
     
     // for pages on /vid3
-    var allByMyself: Component {
-        Div {
+    func allByMyself(backToPage: Page?) -> Component {
+        var navSection: any Component
+        if backToPage == nil {
+            navSection = EmptyComponent()
+        }
+        else {
+            let linkInfo = LinkInfo(backToPage!.title, "/" + backToPage!.path.string)
+            navSection = TopNavLinks(linkInfo, nil, nil)
+        }
+        return Div {
+            navSection
             H1(name)
             H3(formattedDate)
             Div { Text(caption) }

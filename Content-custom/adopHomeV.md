@@ -7,4 +7,4 @@ This story has more nitty-gritty details about the process. Highlights of the pr
 
 (Pictures from 2007 and 2011.)
 
-<a href="/adopV">Read about our process</a> and trips that ended up with bringing this one home.
+<a href="/adopv">Read about our process</a> and trips that ended up with bringing this one home.

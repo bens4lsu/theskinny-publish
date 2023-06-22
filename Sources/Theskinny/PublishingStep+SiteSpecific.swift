@@ -74,21 +74,22 @@ extension PublishingStep where Site == Theskinny {
         .step(named: "Create video album pages"){ context in
             let factory = TsobHTMLFactory()
             for album in context.videoAlbums {
-                let page = Page(path: "vid2/\(album.slug)/index.html", content: Content())
+                var page = Page(path: "vid2/\(album.slug)/index.html", content: Content())
+                page.title = album.name
                 let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render())
-                try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context)
+                try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context, backToPage: page)
             }
             try writeRedirect(atPage: "/vid2", to: "/vid", onContext: context)
             try writeRedirect(atPage: "/vid3", to: "/vid", onContext: context)
         }
     }
     
-    static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: PublishingContext<Theskinny>) throws {
+    static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: PublishingContext<Theskinny>, backToPage: Page) throws {
         for video in album.videos {
             let page = Page(path: "\(video.link)/index.html", content: Content())
-            let html = try factory.makeVideoSinglePageHtml(for: page, context: context, video: video)
+            let html = try factory.makeVideoSinglePageHtml(for: page, context: context, video: video, backToPage: backToPage)
             let file = try context.createOutputFile(at: page.path)
             try file.write(html.render())
         }
