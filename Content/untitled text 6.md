@@ -1,1 +1,0 @@
-<li>Money Order or Cashierís Check in the amount of $10.00, payable to the "Consulate General of Russia" (no other methods of payment, including cash, are accepted).</li>
