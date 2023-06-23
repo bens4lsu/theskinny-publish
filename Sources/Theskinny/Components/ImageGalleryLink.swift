@@ -13,9 +13,9 @@ struct ImageGalleryLinkSet: Component {
     
     fileprivate var links: [ImageGalleryLink]
     
-    let listStyle = HTMLListStyle(elementName: "") { listItem in
-        Div(listItem)
-    }
+//    let listStyle = HTMLListStyle(elementName: "") { listItem in
+//        Div(listItem)
+//    }
     
     init(_ ids: Int...) {
         self.links = ids.map { id in ImageGalleryLink(id) }
@@ -25,7 +25,7 @@ struct ImageGalleryLinkSet: Component {
         Div {
             List(links) { link in
                 link
-            }.listStyle(listStyle)
+            }.listStyle(.listAsDivs)
         }.class("div-image-gallery-set")
     }
     

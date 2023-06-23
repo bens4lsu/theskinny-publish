@@ -39,7 +39,7 @@ struct BlogPost: Component {
     
     var postShortBox: Component {
         Div {
-            H1{
+            H2{
                 Link(title, url: linkToFull)
             }
             H3(dateString)

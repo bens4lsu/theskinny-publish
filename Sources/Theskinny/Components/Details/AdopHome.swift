@@ -24,7 +24,7 @@ struct AdopHome: Component {
                 AdopHomeK(context)
                 Div {
                     Text("If you've found this page because you have your own young Russian or are in the process, you will be interested in ")
-                    Link("the process for getting an updated passport once their initial one expires.", url:"/a/adopNewPassport")
+                    Link("the process for getting an updated passport once their initial one expires.", url:"/adop-passport")
                 }.class("div-adop-bottomstuff")
             }.class("div-adop-wrapper-inner")
         }
