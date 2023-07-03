@@ -10,7 +10,7 @@ I think that I've been a hater of internet polls from the dawn of internet polls
 But that doesn't mean that I'm not secretly engaging with them, ever now and then.
 
 I very much enjoyed the <a href="https://www.idrlabs.com/food-disgust/test.php" target="_blank">Food Disgust Test</a> that's making it's rounds this week.  I assumed that I would score off-the-scale low, as I'll eat foods that most of you would consider garbage.  And I was pretty much right:
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview centered" href="/img/disgusttest.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/disgusttest.jpg" alt="/img/disgusttest.jpg"  ><br><span class="caption"></span></a>
 
 But the author of <a href="https://defector.com/food-disgust-quiz-uncleanliness-is-next-to-godliness" target="_blank">the post that led me to this test</a> scored just 1/3 of what I did.  A man "with a firm constitution" I think they would have said back in the old days.

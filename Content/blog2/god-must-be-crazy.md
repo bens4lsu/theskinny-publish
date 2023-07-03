@@ -10,7 +10,7 @@ On Friday night, we were out to dinner with another family.  I was seated next t
 I suggested that the Lenten prohibition of Friday flesh wasn't in effect, since there's not a seated pope.  She wasn't impressed.
 
 "No, really.  In fact, no sins count at all right now.  You can do whatever you want."
-<span class="spanEndPreview">&nbsp;</span>
+
 The only response was a slight roll of the eyes, so I pressed on.
 
 "In fact, we're all going up to North Baton Rouge after dinner to kill a couple of hookers.  Wanna come?"

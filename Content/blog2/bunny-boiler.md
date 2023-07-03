@@ -10,7 +10,7 @@ If you are one of the lucky few to have been in LSU's College of Engineering at 
 <center><img src="/img/textmessages/t20090429.jpg"></center>
 
 I'll let you take some time to try to figure out the author of this message while I tell a little story.  You can post your guess in the comments, if you're so inclined.
-<span class="spanEndPreview">&nbsp;</span>
+
 Back in the day, when Mrs. theskinnyonbenny was known simply as Girlfriend theskinnyonbenny, she had a roommate in the Mechanical Engineering program.  Being a female in Engineering is enough to garner a bit of attention, but she provided the horney nerds the lagniappe of being a cute non-Asian female Mechanical Engineering student.  For the sake of the abbreviation, let's just call Girlfriend theskinnyonbenny's roommate "Kathy."
 
 Although I was in Electrical Engineering, I was friends with a handful of ME nerds, and I used to tag along to a study room in the building that housed the Engineering and Business colleges to study.  Better to do calculus in a group than in one's own stale beer-smelling room, we figured.

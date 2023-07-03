@@ -8,7 +8,7 @@ id: 247
 Here's my public service announcement for this week.  My recommendation for your next oil change.
 
 I pull up toward the bay.  The guy meets me, asks what kind of oil I want, and directs me to pull in over the pit.
-<span class="spanEndPreview">&nbsp;</span>
+
 As soon as I stop the motor, another guy washes the windshield.  The first guy asks me what I want to drink and fixes a diet coke from a fountain between the two bays.  By now the hood is up and a team of people I can't see are at work.
 
 The first guy takes my name, address, and vehicle information.  He runs my card, prints a receipt, and affixes the obligatory sticky piece of plastic that won't stay attached to my windshield more than a couple of weeks.

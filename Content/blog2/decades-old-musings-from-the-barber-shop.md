@@ -12,7 +12,7 @@ I even thought about Pookie when they shaved my little kid's neck last week.
 Based on the amount of time yesterday that the old Chinese guy spent shaving my neck, I would say that I'm probably getting to be Pookiesque.  On top of that, I don't ever remember needing all of the ear-shaving I get now.  On the up side, he did tell me as I was leaving, "You have very nice hair."
 
 So that's good to hear.
-<span class="spanEndPreview">&nbsp;</span>
+
 In case you were wondering, Pookie was this guy in college (who truly went by that name, although I suspect that's not the name on his birth certificate) who had an inordinately hairy neck.  In my mind's eye, Pookie is still collecting ever LSU sporting event on VHS tape, and he's nervously counting down the days until there is no existing technology to play his collection.
 
 Pookie's opposite in hairiness was Paul, who was severely balding even during our youthful prime, and who spent countless wasted hours lamenting his virginity.  And then he also claimed never to have masturbated, so perhaps it built up some sort of immense internal pressure which forced the hair right out of its follicles.  

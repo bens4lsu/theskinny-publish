@@ -10,7 +10,7 @@ I am hereby making the following three New Year's resolutions:
 <strong>1.  Finish giving my songs star rankings</strong>
 
 This is a chore that I've been working on for since <a href="http://theskinnyonbenny.com/blog2/archives/134">some time in 1995</a>.  I'm down to about 900 songs left to rank in a 17,000 song library.  And I've done this by listening to each and every song.  I no longer listen to them alphabetically -- at some point, Itunes threw me a curve by starting to ignore "The" and "A" at the beginning of song titles, and it screwed up my list.  At the same time, I was getting deep enough into the list that every time I added a new album, I had three of the songs from that album automatically sorted to the top.
-<span class="spanEndPreview">&nbsp;</span>
+
 Anyway, 900 is a pretty easy quarter, so even if I add a lot of music, I should have no problem finishing during the year.  Then, my inner nerd can come out and do calculations to determine statistically which are the best albums, artists, etc.  It should be a hoot.
 
 <strong>2.  Do something about this gut.</strong>

@@ -8,7 +8,7 @@ id: 369
 Last night, I fell asleep on my bed as soon as the Hornetss-Spurs game got underway, and I slept through the first three quarters.  Judging by the score, I'm glad to have missed what I did.  I watched the fourth quarter, in which the Hornets closed a 15-point gap down to three, and then missed a couple of three-pointers that would have tied it with under a minute to play.  
 
 After that, I found myself awake and restless.  I pattered around the house for a while, and when I finally went back to the bedroom, Blossom (the 55 pound Bassett hound) was lying next to a live mouse.  They were both awake but calm, sitting together like they had been friends for years.
-<span class="spanEndPreview">&nbsp;</span>
+
 I knew we had a rodent in the kitchen, as one of cats -- Nigel II -- had been spending his nights staring at the stove waiting for a chance to attack.  I don't know if he brought the mouse into bed as a gift for Bloss, or if he just flushed out the mouse, and Blossom took it as her own pet.  Probably the latter. 
 
 I considered going to get a camera to take a picture of Blossom and her friend, but I didn't want to return and find the mouse under the covers or anything, so I passed on the pic.

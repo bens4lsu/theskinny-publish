@@ -8,7 +8,7 @@ id: 261
 There's a reason that I shouldn't have conversations with Tyler.  At least not in front of other people.
 
 One day, right before Thanksgiving, we rode down to Best Buy during lunch.  He put in an order for something boring, and while we were waiting for the paperwork to be completed, he started to talk to the sales girl.  Somehow, it came up that he had some sort of surgery scheduled for his eyeballs.  I would screw up the specifics, but it wasn't an elective, corrective type of thing that people have become familiar and comfortable about.
-<span class="spanEndPreview">&nbsp;</span>
+
 When we were leaving, the sales girl wished him well with the procedure.
 
 <b>Tyler:</b>  It's funny how much sympathy you get from strangers when they hear about the surgery.  I was at a bar the other night explaining it to someone else, and a girl I never met went all into sympathy mode.

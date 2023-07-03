@@ -11,7 +11,7 @@ I'm not very good at identifying a celebrity, and I couldn't place all of these,
 
 Most excitingly -- and I had to rewind to make sure this was true -- we have Will Arnett on as a magician.  If they would promise me that he would make a bunch of pennies appear and fall all over that table he's standing by, tinkling as they fall down onto Sesame Street, I would be a huge fan.  I would DVR that episode and watch it more than once.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 Of course, they would have to tell me when that episode is on too.  Even though I have a two year old in the house, I don't know when <i>Sesame Street</i> airs.  He knows the name "Elmo," but not "Big Bird," and I don't know if he's ever seen a real episode or just knows that from books, toys, and classmates.  The program just isn't on our radar at all.
 
 And I guess that's why they're targeting me with their promo video.

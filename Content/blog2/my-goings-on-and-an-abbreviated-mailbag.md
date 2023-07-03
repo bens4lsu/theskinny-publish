@@ -6,7 +6,7 @@ tags: stories
 id: 200
 ---
 I haven't updated my site too much lately, and there are a lot of reasons for that.  First off, I've been busy at work, and there are three things that make it hard for me to post about my work life:  <ol><li>The risk of giving away some supposedly confidential information, and thus terminating my employment</li><li>The even risk of causing my employers grief and embarrassment, and thus terminating my employment.  To that end, I am refraining from posting a recent picture where I took the stock photo of new (and bald) Equifax CEO Rick Smith and gave him a full head of hair, a big porn mustache, and a hairy bare chest.  I'm sure it's spot-on how he looked in the mid 70s.</li><li>The fact is, that most of the geek stuff I do at work is pretty boring.</li></ol>
-<span class="spanEndPreview">&nbsp;</span>
+
 The second reason that I haven't done much posting is that I've been pretty darned busy away from the office too.  Of course, there's basketball.  When both of your school's teams are making a run to their final fours, there's a huge demand on you for hoops viewing. I end up watching every game, as if my scouting the other teams can help LSU in some sort of way.  I could go on and on, but other than yesterday's short little post, I've written about nothing but basketball in a couple of weeks.  I'm afraid I'll start getting the comments like, "who the f--- are you, and what makes you such a basketball expert?"  And we know that I don't want to have to come down on some fool about the extent of my expertise.
 
 Also on the home front is a project that I just finished to put new floors and baseboards upstairs.  It's pretty much done now, but I spent most evenings up there last week, and then finished the paint yesterday.

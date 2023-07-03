@@ -9,7 +9,7 @@ This is a photo of Vanya's first minute in his first soccer game.
 
 His jersey is number one, which is coincidentally, his box score line.  
 
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="center"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/soccergame1.jpg"></td></tr><tr><td class="caption" width="250">The very first minute of a soccer career.</td></tr></table>
 
 As a matter of full disclosure, I don't know how real soccer box scores look.  Or even if they exist.  I can't think of that many stats that might apply to a game, but here's what I know:

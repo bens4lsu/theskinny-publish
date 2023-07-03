@@ -8,7 +8,7 @@ id: 273
 This is the first weekend of the last three that I've been at home with Mrs. theskinnyonbenny.  It's good to be back in a routine, but cold and rainy Louisiana winters are for the birds.  We had two days without rain this week, and I made it outside to enjoy the sunshine somewhere around zero minutes.  The weekend forecast is entirely for rain.
 
 Last weekend was another wet one, but colder, and in Chicago.  We went for the once in a lifetime chance to see the Saints play in a championship game, and also to cross of "See a game in a snowy, freezing stadium up north in January" from the list of things everyone should do once in life.  I strongly suggest that everyone make an attempt to have this experience, but I'm not sure I want to go to another game in sleet/wet/snow any time soon.
-<span class="spanEndPreview">&nbsp;</span>
+
 We took a train the morning of the game from Crystal and Brent's town into downtown Chicago.  From there, we caught a cab to a hotel where we were to pick up tickets and start drinking with hundreds of other game-goers.  Of all of the thousands of cabs, we got into cab number 26 -- Deuce McAllister's number.  I thought that was a certain sign of a Saints win on Sunday.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/027%20-%20Chicago%20Trip%2007%20-%20Saints%20vs.%20Bears/resIMG_20070121_0925.JPG" width="250"></td></tr><tr><td class="caption" width="250">Saints fans flood Michigan Avenue to head to the game.</td></tr></table>

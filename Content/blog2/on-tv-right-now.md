@@ -12,7 +12,7 @@ included more strange goings-on, a lot of shouting by Rebecca De Mornay, the con
 Benâ€™s Web Log â€º Edit â€” WordPressurfer kid from the dead.  After that episode, I was optimistic that we had a weird-as-shit, but entertaining new show.
 
 But then the writers decided, "Now that we knew some characters, who needs things like plot or coherence?"  They notched up the screaming and the weird, culminating (at least for me) with last night's hour of people yelling at each other for no reason at all, sprinkled with people saying sentences that were complete nonsense, presumably mysteries to be revealed later.
-<span class="spanEndPreview">&nbsp;</span>
+
 The word "Lost" appears often in the background or on props, and that's exactly where I am with this show.  And despite the fact that there's some comically bad acting and a worthwhile number of good looking cast members, "lost" is exactly what they have in this viewer.
 
 If it gets any better, let me know.

@@ -14,7 +14,7 @@ Now that we're home, they both still think they should be able to drive around. 
 "No"
 
 "Why?"
-<span class="spanEndPreview">&nbsp;</span>
+
 "You don't have a driver's license."
 
 So he went into the house and made his own driver's license.

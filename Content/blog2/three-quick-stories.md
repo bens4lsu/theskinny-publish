@@ -8,7 +8,7 @@ id: 221
 Nothing real to post, but I have a few short stupid but amusing stories.
 
 This first one is from an email I got this week.
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>From: Stacie 
 Sent: Wednesday, June 14, 2006 3:00 PM
 Subject: Funny Observation

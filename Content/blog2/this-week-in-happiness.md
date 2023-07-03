@@ -19,7 +19,7 @@ That was a little embarrassing, but funny all the same.</li>
 
 <li>I tweeted this earlier today, so sorry if it's a repeat:  <a href="http://gizmodo.com/barbie-f-cks-it-up-again-1660326671">Barbie:  I Can Be a Computer Scientist</a>.  Even if you're already cringing, it's worse than you think.</li>
 </ul>
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul>
 <li><a href="http://jezebel.com/we-are-all-this-glden-retriever-spectacularly-bombing-a-1660886189/+barryap" target="_blank">This goofy lab</a>, which you really must watch, even if you're tired of following links.</li>
 

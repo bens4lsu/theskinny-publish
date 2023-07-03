@@ -8,7 +8,7 @@ id: 364
 Shelly came by on Sunday, and she was bearing gifts.
 
 Apparently, a shoe store in <a href="http://theskinnyonbenny.com/x/shellynjIndex.php">her ghetto</a> had been looted, but the looters left behind some child shoes, so she gathered up some leftovers, and brought them by during her her weekend visit to Louisiana.
-<span class="spanEndPreview">&nbsp;</span>
+
 It was the first time Vanya showed little kid surprise and excitement that comes with getting new stuff.  It helps that he loves his shoes.
 
 He pulled his six new pairs out of their boxes one after another.  "More... more...  more..."

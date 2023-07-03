@@ -6,7 +6,7 @@ tags: the-office,travel
 id: 228
 ---
  It's an odd thing to be sent to Hawaii on a business trip.  Of course, there's the excitement that you're going to such an awesome destination, but then again, you're being sent away for business, so you spend your days working while you know that all of your co-guests at the hotel are swimming, taking in sights, and doing generally fun vacation things.  You get back to the hotel at 6:00 pm, just in time to see all of the beautiful tan people head in to wash the salt and sand out of their cracks and to hit the nightlife.  You, on the other hand, have time for a swim, a bite, and a relatively early bed time.
-<span class="spanEndPreview">&nbsp;</span>
+
 Nowhere does the fact that you aren't a tourist hit home more than the early morning.  I've been waking up early, getting a coffee, and taking a long morning walk on the beach.  It's just an excellent, excellent way to start the day.  But then when the walk is over, it is TORTURE to go up, shower, and put on workplace-appropriate clothes.  The worst part is the elevator ride down, wearing kakhis -- PANTS!  IN HAWAII!, collared shirt, socks, and shoes next to morning beach people.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/hawaii-tree.jpg"></td></tr><tr><td class="caption" width="250">I'm becoming a better photographer, but I don't have anyone to take picutres of, so I end up with a bunch of pretty but cheesy looking photos like this.  All of my pictures are up without any digital editing, other than to be cropped or resized.</td></tr></table>

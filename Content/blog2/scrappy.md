@@ -8,7 +8,7 @@ id: 249
 You know what really wasn't ever satisfactorilly explained?  How is it that Scooby Doo has a nephew?  I don't remember seeing the episode where they premiered Scrappy Doo, but I would like to take a look back and see if there's any mention of where the little guy came from.
 
 I have my own hypothesis.
-<span class="spanEndPreview">&nbsp;</span>
+
 First, let's agree that this wasn't a nephew through marriage.  If Scooby had an ex-wife running around out there, or if he was somehow widowed, surely he would have mentioned it from time to time.  Besides, the resemblance suggests a blood relation.
 
 I'm going with the theory that Scooby has a sister who is a bitch at some sort of Doberman breeding ground.  Based on my own experience with puppies, it's probably a rural house in Ascension Parish, Louisiana.

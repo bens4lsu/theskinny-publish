@@ -10,7 +10,7 @@ One night recently, a handful of us were at <a href="http://www.erinrosebar.com/
 (It sounds awful, but the atmosphere in there really is a lot of fun.)
 
 I went into the men's room and did my thing, and on my way out, I noticed that someone had abandoned a shot glass of some blue concoction on the sink.  "How gross it would be to drink that," I thought.  To make it even grosser, I moved the cup from the side of the sink to the back of the toilet.
-<span class="spanEndPreview">&nbsp;</span>
+
 My standard offer for a dare is $1.  I like to phrase it as "one whole dollar" to make it sound like a more appealing offer.  It's a testament to how I was over-served earlier in the evening that I came out offering $100 to anyone who would drink the blue shot.
 
 Steve knows us well enough to know that I don't have $100.  I suppose the ATM will dole out that much money, but if it wouldn't, I would not even know how to go about getting $100.  So he went to theskinnyonbenny accounting department for confirmation on the $100 order.

@@ -10,7 +10,7 @@ I guess today is the easiest workday in history, if you happen to be a writer fo
 If you haven't seen it, Transocean issued a proxy statement (whatever the hell that is) calling 2010 their best safety year ever and disclosing millions of dollars in pay hikes and salary increases for top executives.
 
 I suppose I wasn't paying attention in previous years when Transocean projects killed more than 11 people and ruined even more of the world's most fragile ecosystems.
-<span class="spanEndPreview">&nbsp;</span>
+
 This story broke on Friday, and I really, truly think there was a conversation between a senior official at Transocean and a lady in the PR department making $40K/year (I'll call her Polly) who was responsible for writing the statement.
 
 <div style="margin-left:4em;">Evil Executive:  Did you get that part about my big fat bonus in the proxy statement?  I want to make sure my mom sees it.  She always did like my brother better.

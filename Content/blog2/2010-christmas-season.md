@@ -8,7 +8,7 @@ id: 952
 The standards of decent storytelling require me to start our holiday recap not with Christmas itself and not with the chronological beginning of the season.  Instead, I jump out to December 19.  Itâ€™s a dark and cold Sunday night, and we find ourselves in the middle of nowhere, some 30 minutes outside of the spot where Birmingham, Alabamaâ€™s civilized limit stops.
 
 We had spent a long day in the car to get to this spot in the middle of nowhere.  And although this yard of decorations was not our intended stop, it was to me, the highlight of the entire Christmas season.
-<span class="spanEndPreview">&nbsp;</span>
+
 After winding through roads that were increasingly rural, we came on a small country house, with around an acre of lights.  It was necessary to go quite slowly to let the eye take in the scene that unfolded as you drove through:  little huts with different scenes, lights, trees, Santa Clause, reindeer, American Indians and Pioneers (?!), and so much more.
 
 My personal favorite was the Ferris wheel, complete with creepy doll passengers.

@@ -8,7 +8,7 @@ id: 2246
 A couple of weekends ago, we had the annual Louisiana marathon.  I've probably mentioned it somewhere in these pages, but it's a fun day every year.  Our house is somewhere very near mile 23, and we pull out the lawn furniture and turn up some music and spend the morning watching the fit people pass.  Our neighbors have come to join us for the only morning of the year where we have no traffic.
 
 The later in the race you get, the more social the racers, so towards the end, we end up sharing beer and champagne.  This year. we made a couple of pitchers of banana daiquiris which were popular with the athletes.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <a class="lightview centered" href="/img/IMG_6403.jpeg" data-lightview-caption="Line that was supposed to hold my fat ass." data-lightview-group="group1"><img src="/img/IMG_6403.jpeg" alt="/img/IMG_6403.jpeg" width="650px"><br><span class="caption">Line that was supposed to hold my fat ass.</span></a>
 

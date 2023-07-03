@@ -8,7 +8,7 @@ id: 178
 I have the damnedest problems with this one particular landscape light in the front yard.  The thing's either not lit, or burning dimly as a candle.  Each time I clean things up and get it fixed, something else goes wrong.
 
 A huge percentage of the yard problems that I have end up having to do with the landscape lights in the front yard.  I did the installation of the lights in the back yard myself.  It's a much more complicated system, with three transformers and probably three times as many actual lights.  But the front yard was done by contractor.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 For the sake of this post, let's call they guy Perry.  He was hired to do our front yard before I did the back, and therefore before I knew how easily it could have been done.  Basically, you just need to trench a path for one wire going to the left of the driveway, and one wire going to the right.  Easy as can be.  The lights snap directly to the wire, and get their low-voltage power as easily and safely as Thomas Edison could have dreamed.
 

@@ -6,7 +6,7 @@ tags: sports,food,current-events
 id: 366
 ---
 As you see, I really didn't have anything to tell the world this week that merited more than a couple of sentences.  But I had a lot of false starts -- posts that I started, but that didn't really turn into anything.  It starts with a couple of sports topics, but if that doesn't interest you, hit the page down key once or twice for more.
-<span class="spanEndPreview">&nbsp;</span>
+
 The college football powers decided to leave the BCS as-is through 2014, or something silly like that.  The Big Ten and Pac 10 still refuse to hold conference championship games, and still hold tight to their automatic Rose Bowl berth, as if it were still 1949.  
 
 I say, start a championship series without them.  Let the winners of the SEC, Big 12, Big East, and ACC championship games be seeded 1-4 and have them play off in the non-Rose BCS bowls.  It's just that easy.  USC and the Ohio St./Michigan winner can crow about being "true champions," but all of the voters and everyone else will know that the true champions are the team that won 3 postseason games rather than one.  Eventually, they'll bag the Rose Bowl, hold conference championship games, and join the rest of us in the present.

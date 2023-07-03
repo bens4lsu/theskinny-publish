@@ -8,7 +8,7 @@ id: 368
 I was the biggest lop of shit in history Saturday.  In fact, over the course of the weekend, I barely left the house over the whole 48-hour period.  And I did nothing to clean up the yard or fix up the building at all.  I didn't even look at my phone from when I put it down Friday evening until Monday morning.
 
 Which is how I missed several calls, and a text from Shelly asking for my secret recipe for red beans.  It turns out that I don't really have a recipe (like with actual measurements and all), but I do have a consistent process.  For the first time every, I'm sharing my secret recipe <a href="/recipes/Beans.php">here</a>.
-<span class="spanEndPreview">&nbsp;</span>
+
 Saturday, I had the horse races from Churchill Downs on from about 10:30, through the coverage of the Kentucky Derby at around 6:30.  I did take Vanya to the park once in the morning, and I went for a bike ride in the afternoon.  Also, I was asleep for a couple of hours in there, so I really didn't come close to the 8 straight hours of racing that it seems like I did.
 
 The name of this year's derby winner has allowed me to formulate a joke that I've already used three times.  Just substitute the phrase, "a Kentucky Derby Champion" when you want to reference poop.  For example, "Can you wait ten minutes before we go?  I need to make a Kentucky Derby Champion."  Or, "Do you have a Kentucky Derby Champion in your diaper?"  If I were energetic enough, I would change the title on my home page to "theskinnyonbenny:  making a Kentucky Derby Champion at 9:30 every morning."

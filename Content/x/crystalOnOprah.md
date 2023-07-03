@@ -14,7 +14,7 @@ Here is the end of the segment.  It's one of the funniest things that I've ever 
 
 <h3>(2023 update:  It's a YouTube embed now.  It will work.  But y'all probably don't remember how hard it was to publish a video in a web page in a way that would play on all computers back in the day.  There's more below about how hard it was to watch internet video once upon a time.)</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eUIiQxUQ7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eUIiQxUQ7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="float: right;"></iframe>
 
 If you are interested in more -- and honestly, how could you be otherwise -- here are some links to supplemental material..
 

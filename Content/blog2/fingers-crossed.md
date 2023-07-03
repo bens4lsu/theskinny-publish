@@ -10,7 +10,7 @@ You may have noticed that I haven't posted much lately,  I'll blame lack of slee
 Every other year at this time, I've convinced myself that the Saints will win the Super Bowl, and that LSU will win every game by 35 points or more.  But this year -- now that both teams have the talent to make it happen -- I am full of anxiety.  I don't know how to handle realistic high expectations.
 
 This is best illustrated by the dream that I had earlier this week where Mississippi State beat our Tigers by a touchdown in tonight's game.  Predictive football game dreams aren't new to me, but they usually involve a bigger game than this one.  A final four basketball game or regular season football game against Florida, for example.
-<span class="spanEndPreview">&nbsp;</span>
+
 The year that an unheralded LSU team beat Steve Spurrier's number one ranked Gators, my dream had not only predicted the win, but the final score it predicted was only off by 3 points.  And there was a missed field goal in that game that would have put the final score right on the money.
 
 My sports anxiety dreams aren't always right, but they're right often enough that I'm nervous about tonight's game.  I've been listening to pregame talk since early afternoon, and not even State's head coach sounds much like he thinks they can win.  

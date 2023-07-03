@@ -12,7 +12,7 @@ It was Sharples.  "Hey, what are you doing?"
 "Nothing.  I just got up to the room."
 
 "Well, you oughtta go rub one off in that big marble bathroom up there."
-<span class="spanEndPreview">&nbsp;</span>
+
 What a pleasant thought.  
 
 (And -- as if I needed to go to the bathroom.  I had the whole hotel room to myself.  I could rub one off anywhere I wanted.)

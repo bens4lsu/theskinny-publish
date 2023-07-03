@@ -9,7 +9,7 @@ Just as the ACC is sort of a low-rent version of the SEC, Clemson is the obvious
 
 <a href=
 "http://www.lsureveille.com/sports/football/which-tiger-team-owns-the-real-death-valley/article_e9576f3a-180a-11e2-bd8e-0019bb30f31a.html" target="_blank">Perhaps they were first to call their stadium "Death Valley"</a>, but we all know where opponents dreams go to die -- it's the Tiger Stadium where it never rains.
-<span class="spanEndPreview">&nbsp;</span>
+
 And I'm going to have to ask other Tiger-mascoted schools to go ahead and stop using Tiger Rag as a fight song.  That's a New Orleans standard, going back to when Jazz sprung up as a genere more than 100 years ago.  Clemson isn't alone in this transgression.  I'm fairly certain that I've heard the familiar strains during Memphis and Missouri games also.
 
 Clemson even goes as far as to mix in purple.  Here's an especially egregious combination of LSU wannabeism:

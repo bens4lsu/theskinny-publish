@@ -7,7 +7,7 @@ id: 268
 ---
 Top ten quotes from Charlie Weis's halftime speech during <a href="http://sports.espn.go.com/ncf/recap?gameId=270030099" target="_blank">yesterday's Sugar Bowl</a>.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 <ol><li>I don't know what went wrong.  That fake punt always worked against the practice squad.</li>
 
 <li>Anyone up for ordering a pizza?</li>

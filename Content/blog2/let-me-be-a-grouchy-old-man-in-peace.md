@@ -8,7 +8,7 @@ id: 883
 Unlike when I was a student, today's kids set up tailgate parties out amongst the fans and families spread all over campus.  It's a little ironic that the kids today don't have a good place to go drink without legal hassle, other than right out in the open next to traffic-directing policemen.
 
 In years past, I might complain about the music.  If it were me setting up the playlist, we would be a mix of current alt rock, some classic rock (goes well with the whiskey), with a smattering of hip hop and current pop music.  If I were going to mix in country, it would be something kind of tough and ass-kicking.  A little bit of Johnny Cash goes a long way.
-<span class="spanEndPreview">&nbsp;</span>
+
 For some reason, tailgaters love that "Calling Baton Rouge" song.  How I wish they had written "Calling Knoxville" or "Calling Tuscaloosa" so that it could blare throughout their campuses on Saturdays instead of ours.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td><img src="/img/blossom-tg.jpg"></td></tr><tr><td class="caption" width="250">Blossom sweats it out during a hot first weekend tailgate.</td></tr></table>

@@ -14,7 +14,7 @@ His act is convincing, and I was just about to dismiss my doubts, when I read th
 Did you catch that?  He's lining up <a href="http://deadspin.com/report-donald-trump-cobbles-together-a-cast-of-sports-1782784149" target="=_blank">a speaker whose most famous quote is, "If rape is inevitable, relax and enjoy it."</a>
 
 There's no way this is for real.
-<span class="spanEndPreview">&nbsp;</span>
+
 There is one other conspiracy theory I believe whole-hardheartedly.
 
 Readers in my age range will remember when they changed the formula for Coke.  They released what we all called "New Coke," which was formulated to taste as much like Pepsi as possible.  After the predictable blowback, Coke returned as "Coca Cola Classic," and New Coke faded into food history.

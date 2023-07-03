@@ -9,7 +9,7 @@ The middle of summer is a time that most real sports fans dread.  Your choices a
 
 In honor of this season of boring, I've been reading stories on <a href="http://www.nbcolympics.com" target="_blank">www.nbcolympics.com</a>.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 Never in our history has man been pelted with non-meaningful sport as we are about to be.  NBC owns so much of your cable spectrum, and each and every channel must be broadcasting events.  Even Oxygen is shelving women's programming for events.
 

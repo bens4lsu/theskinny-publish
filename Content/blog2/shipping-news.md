@@ -1,7 +1,7 @@
 ---
 title: Shipping News
 date: 2017-08-18 09:29
-description: A description of my post.
+description: I was helping V with a book report, and there's a giant picture of an old ship with six thousand little labels for every line and sail.  Boat geeks and readers of parent blogs alike with rejoice in this internet content. 
 tags: young-ruski
 id: 2147
 ---

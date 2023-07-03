@@ -15,7 +15,7 @@ Subject: Ben,
 Ben,
 Did I commit to cooking next week?...if I did, I retract my commitment to cooking.I am however committed to being a sloppy drunk...seriously, can you cook next week and I'll do the arizona game unless of course I call you drunk again this weekend and commit to cooking fried armadillo
 </blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 Jeez Ed, I don't care about when I cook, but lay off the sauce when operating that complicated email software.  There's just so much that's wrong with that message that I don't know where to begin, starting with the fact that next week <i>is</i> the Arizona game.  And how about a subject line that has something to do with the subject of the message?  I already knew it was intended for me.
 
 So anyway, I'm frying the armadillo on Saturday the ninth.  If you've forgotten the location, here's a map.

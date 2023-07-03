@@ -8,7 +8,7 @@ id: 653
 We started our Halloween morning with a trip to New Orleans.  The main destination was the bug museum, but first, we made a stop by CafÃ© Degas.  Who would want to go look at bugs without a belly full of jellied goose liver?  In attendance were Mrs. theskinnyonbenny, Vanya, my two nephews Sam and Caleb, and my sister Sarah.
 
 One thing Iâ€™ve noticed lately is that any time we go visit a restaurant, Vanya wants to be taken to the potty.  I think itâ€™s more a function of his inability to sit still than it is of bladder fullness, but itâ€™s a request that a parent has to respect no matter what.  I had taken him once â€“ a real pain in the ass, as he pulled off his shoes in order to get his Spiderman costume off, and then we pretty much had to redress again.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/058%20-%20Halloween%202009/resIMG_0970.JPG" width="250px"></td></tr><tr><td class="caption" width="250">The touching of the maggots.</td></tr></table>
 
 Later, he asked to go again.  I gave him an okay, and in the course of climbing out from behind a table, he dumped over a glass of water.  We did the thing where everyoneâ€™s napkin gets put into the pool in a futile effort to clean up, and we actually managed a pretty good job.

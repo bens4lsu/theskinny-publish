@@ -12,7 +12,7 @@ Wrong number this morning.
 "I'm sorry.  You have the wrong number."
 
 "Oh, I'm so terribly sorry.  I hope I didn't wake you."  It was 8:00 AM on a weekday.
-<span class="spanEndPreview">&nbsp;</span>
+
 "No, I'm in the car, it's fine."
 
 "Well, may you have a wonderful day, and God bless you."

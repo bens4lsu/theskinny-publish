@@ -12,7 +12,7 @@ The <a href="mytechpurse.com/blog" target="_blank">MyTechPurse blog</a> is a tec
 My <a href="concordbusinessservicesllc.com./blog" target="_blank">blog at Concordbusinessserviesllc.com</a> is also technical, but it gets super-geeky.
 
 The idea is that to some extent, the two play off of each other.  For example, if the TechPurse blog talks about something that small businesses should have on their website, a reader can pass along a related link to the Concord blog.  The Concord blog would go into details about how to implement and have code samples that could be copied and pasted into their developers' projects.
-<span class="spanEndPreview">&nbsp;</span>
+
 And while it's certainly not difficult to find this particular site, I won't be linking to theskinny from these other sites.  Those who look to my blog as someone who might know something about technology need not be just a single click from me calling a fellow citizen of my town one of the worst bad words in the book, as I might have done in this very space recently.  Yesterday, for example.
 
 I bring this up today only because I want to reference a post called <a href="http://mytechpurse.com/cautionary-tale-of-online-woe/" target="_blank">Cautionary Tale of Online Woe</a>.  That post references a story about how terrible the site DecorMyEyes.com is.

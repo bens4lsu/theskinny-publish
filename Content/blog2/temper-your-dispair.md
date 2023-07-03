@@ -6,7 +6,7 @@ tags: uncategorized
 id: 2091
 ---
 Perhaps today marks the end of a free press, the end of US participation in NATO, and open season for pussy grabbing.  But then again, maybe it won't be quite that bad.  Here are some reasons to be happy about where we are.
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul><li>Our new president is actually going to care that no one turned out for his inauguration, and about how bad his approval numbers are.  He may not have the mental capacity to do anything about it, but either he'll get better, or he'll bellyache on Twitter to everyone's amusement.</li>
 
 <li>There is no momentum at all for a full repeal of Obamacare.  It sounds very unlikely that people with pre-existing conditions will be forced to go without coverage again.  I predict a plan that looks very very much like Obamacare, and the GOP can take credit for all the lives saved by Trumpcare.  Fine.</li>

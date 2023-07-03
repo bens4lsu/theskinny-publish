@@ -1,7 +1,7 @@
 ---
 title: Filth
 date: 2017-05-12 16:39
-description: A description of my post.
+description: We had something at the house that would lead you to believe that we live in squalor.
 tags: animals
 id: 2124
 ---
@@ -28,3 +28,5 @@ Kolya and I checked the trap this morning.  I didn't have my glasses or contacts
 Fast forward an hour, Kolya screams in fear of the rat in his backpack.  I tossed it out the door, and it lay on the ground barely breathing, almost as big as the cat.  It was clearly poisoned and close to death, so I'm glad the cat didn't get into a tussle and poison himself in the process.  Kolya was a little shaken up on the ride to school, but began to perk up when I asked if he was going to tell his friends or keep a lid on it.
 
 It was a truly nasty morning, and I hope to never have a repeat of this.
+
+<h3> 2023 update:  this was posted in 2017 without its accompanying images.  Sorry, they're lost forever to time.</h3>

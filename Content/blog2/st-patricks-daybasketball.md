@@ -14,7 +14,7 @@ Just look what he has done for us,
 He's given us lots of cheer
 Long live Charlie Mops, 
 The man who invented beer</center></blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 If you're having trouble with the tune, give it a listen.  <embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/BeerBeerBeer.mp3" TYPE="application/x-mplayer2"  AUTOSTART="0" SHOWCONTROLS="1" align="right"><noembed>Sorry Captain.  Your browser does not support plug-ins for digital video.</noembed>
 
 Every year, the NCAA basketball tournament, St. Patrick, and perfect Spring temperatures conspire to make this the best weekend of the year.  Either the basketball or the St. Patrick's day parade alone would make this a big deal for me, but the combination of the two make this bigger than Christmas, Thanksgiving, New Year's Day, or the highly overrated Fourth of July.  Heck, it might eclipse all of the fun in those days combined.

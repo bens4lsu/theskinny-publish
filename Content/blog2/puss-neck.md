@@ -6,7 +6,7 @@ tags: animals,young-ruski
 id: 1459
 ---
 The first thing I did today was to almost give Vanya a dog antibiotic.  i was just about to stir it into his morning chocolate milk, when i realized the pill was too big. A little while later I tried to give it to Bloss, stuffed into some bacon, but she managed to separate the pill from the bacon and spit the medicine onto the floor. 
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/razr1.jpg"></td></tr></table>
 
 On my third attempt to give her her medicine, I stuffed it into cream cheese. I saw a hungry dog nose by my hand, and only when I dropped it into her mouth did I see that I had just given the antibiotic to Lily. 

@@ -8,7 +8,7 @@ id: 328
 I'm not in the habit of using this blog to repeat stories that get emailed from person to person to persona million times, but this one is a) <a href="http://www.snopes.com/photos/animals/seagull.asp">true</a>, and b) made me laugh out loud when I saw the choppy little animated gif video of it.
 
 Here's the story in full:
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>A seagull in Scotland has developed the habit of stealing chips from a neighborhood shop.
 
 <IMG SRC="/img/seagull.gif" ALIGN=RIGHT BORDER=0 WIDTH=154 HEIGHT=127 HSPACE=16 VSPACE=16>

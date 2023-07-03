@@ -8,7 +8,7 @@ id: 915
 The weekend before last, I worked harder than I ever have during a weekend.  We went to the Realtors' convention in New Orleans to launch <a href="http://mytechpurse.com">MyTechPurse</a>, which is (if you're listening search engines) the best place to find out how to build and maintain a great web site, integrate social media, and build an internet marketing strategy that works.  It's a must for any small business.
 
 Also, there's a blog on that site, so for those who can't get enough of my wit and wisdom on this site, there's more for you to read over there.
-<span class="spanEndPreview">&nbsp;</span>
+
 Of all of the small booths, I think ours was the most memorable.  My friend <a href="http://www.enviousinvites.com">Mendi</a> created a "Fire Your Nerd" graphic to hang on the back of the booth for us.  The banner caught every eye that passed.  You could see the faces catch the glance, laugh, and often stop to find out more.
 
 <table width="100%">

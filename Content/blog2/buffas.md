@@ -8,7 +8,7 @@ id: 255
 On Sunday, we went to the <a href="http://www.voodoomusicfest.com/" target="_blank">Voodoo Fest</a> (or, officially, I think it's the "Voodoo Music Experience") in city park.  I may tell you what I thought about the festival itself later in the week, but more importantly, I need to tell you about where we went afterwards.
 
 Our original destination was <a href="http://www.portofcallneworleans.com/" target="_blank">Port of Call</a>, which all regular visitors to New Orleans know well.  I had been talking off and on for at least an hour about how I was looking forward to one of their potatoes (yes, really).  But we got there, and it was packed to overflowing.  It seemed a long shot to get four spots at the bar near each other, and they only have 8 or 10 tables, so it was going to be a long, long time before we got to eat.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/buffas_steve.jpg"></td></tr><tr><td class="caption" width="250">Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.</td></tr></table>
 
 We walked back to a place that we had passed on our way over to Port of Call.  <a href="http://listings.bestofneworleans.com/gyrobase/Location.html?Location=oid%3A10331" target="_blank">Buffa's</a> is right across Esplanade Blvd.  

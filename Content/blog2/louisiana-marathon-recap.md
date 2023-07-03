@@ -6,7 +6,7 @@ tags: stories
 id: 2084
 ---
 The Louisiana Marathon &mdash; or as it's officially known in my skull, the Louisiana Marathon of Mimosa Consumption &mdash; was Sunday.  I got up early and hauled a small tailgate party's worth of chairs, tables, and music out into the driveway so that I could collapse exhaustedly into my chair and nurse my breakfast alcohol as healthy people who had already run 23 miles (23!) that morning passed.
-<span class="spanEndPreview">&nbsp;</span>
+
 The first runner passed a bit under two hours after the start of the race, which worked out to a 5 minute mile pace.  The last racer was some time after the race had been going on for 5 hours, and he was accompanied by the embarrassing peloton of police cars and support vehicles that follow the last runner.  I need to tip the cap to the runner who was keeping himself a few blocks ahead of last place while drunk as a skunk.  
 
 <a class="lightview alignright" href="/img/vmarathon.jpg" data-lightview-caption="V, enjoying the Louisiana Marathon of Staying In Pajamas." data-lightview-group="group1"><img src="/img/vmarathon.jpg" alt="/img/vmarathon.jpg" width="350px"><br><span class="caption alignleft">V, enjoying the Louisiana Marathon of Staying In Pajamas.</span></a>

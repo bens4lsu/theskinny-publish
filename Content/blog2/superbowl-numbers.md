@@ -6,7 +6,7 @@ tags: sports
 id: 719
 ---
 You can read the boxscore for yourself, and you've seen about the TV ratings already.  Here are some stats that you'll only see on theskinny.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table style="border:1px solid gray;">
 
 <tr><td>4</td><td>God's ranking in Louisiana Facebook "likes," behind New Orleans Saints, Black and Gold, and Drew Brees.</td></tr>

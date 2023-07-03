@@ -8,7 +8,7 @@ id: 227
 There's an announcement today that the final eight episodes of The Sopranos on HBO are postponed until March.  We Sopranos fans are a patient group.
 
 With the end of that series, Entourage and Curb Your Enthusiasm become the only two series for which I would be willing to subscribe.  (I like Big Love too, but wouldn't pay extra just to see it.)  But it would be difficult to justify the monthly charge just on the strength of a couple of half-hour comedies.
-<span class="spanEndPreview">&nbsp;</span>
+
 Then again, maybe I would with Entourage.  It's one of the few shows where I have that experience where you see the closing credits and look immediately to the clock, hoping that it can't possibly be time for the show to end already.
 
 The shame is that no one I talk to watches this show, and I never get to talk about it.  Let me give you a quick rundown, so that the next part of this post is as funny as it should be.  If you watch, skip the next section.

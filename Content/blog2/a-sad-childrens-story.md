@@ -10,7 +10,7 @@ Once upon a time, there was a cute little Russian kid named Vanya.  One night, h
 "This is Miss Pat," Papa explained.  "She's here to play with you tonight.  And I've made you a plate of beans and rice, which you like so much."
 
 Vanya was happy.
-<span class="spanEndPreview">&nbsp;</span>
+
 After a little while of play with Miss Pat, Vanya was ready for dinner.  "More!" he cried.  (He didn't know that you should already eat <u>some</u> before "more" makes any sense.)  He drew out the "or," so it sounded like, "morrrrrrrrre?"
 
 Miss Pat sat him on a stool and put his rice and beans in front of him.

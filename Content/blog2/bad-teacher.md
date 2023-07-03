@@ -10,7 +10,7 @@ Slate's <a href="http://www.slate.com/articles/life/culturebox/2013/05/bad_teach
 I think I must have wiped the bad ones from my memory over the years, because I came up with lots and lots of really good teachers, spanning all grade levels in four different states.  Teachers that I remember as bad were the ones who were too passive to put us smart asses in our place when we needed to be, but even the couple of those who come to mind were nice people, doing their best in a room full of ungrateful, shitty kids.  I don't look back on them as bad teachers at all.
 
 Well, maybe one guy.
-<span class="spanEndPreview">&nbsp;</span>
+
 I had Coach M. three times over the course of about 4 years.  I'll tell you two stories.
 
 One year, in a Social Studies class, he made me apologize to the class through a bullhorn that he had brought in from baseball practice.  My crime was noisily passing gas during a "work at your desk" exercise.

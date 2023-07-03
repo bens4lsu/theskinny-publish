@@ -8,7 +8,7 @@ id: 201
 Over the few years I've been doing these posts, I imagine that I've told a number of stories where the principal theme is some boneheaded thing that I did, which lead to odd consequences.  This one should top all of the rest of these.  
 
 On Saturday night, we had a group of people come over to eat and watch the NCAA semifinals.  Even though the LSU game was late, we got a relaxed, early start.  Eddie brought over a couple of sacks of crawfish, and Shelly brought the stuff to fry onions and pickles.  We had beer galore.
-<span class="spanEndPreview">&nbsp;</span>
+
 The burner that I have has a propane tank, connected to two burners, with each burner having its own valve.  It lets you run both at once, with varying degrees of flame.  I started boiling the water for the crawfish, as it takes a while for a big tub of salty water to get boiling.
 
 We fried a couple of batches of onions.  One came out good, one slimy due to too-cold grease.  We vowed not to ruin another batch and turned up the fire under the grease.

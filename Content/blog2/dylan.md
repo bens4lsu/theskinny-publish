@@ -7,7 +7,7 @@ id: 892
 ---
 The biggest testament to Bob Dylan's songwriting ability might just be that he was able to crank out hits, despite having a voice that would be envied only by a seal with a two-pack-a-day smoking habit.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 I had recently noticed four different covers of "All Along The Watchtower" on my ipod.  None of those were the Dylan original.  I actually thought that the Jimi Hendrix cover might have been the original, and when I went to Wikipedia to find out, I ended up jumping from article to article about this one song.  The nerds among you will already know that part of the <i>Battlestar Galactica</i> mythology held that this tune was in the human subconscious from the time our planet was populated by a human/robot mongrel.  I don't know that I can get into all of that business, but given the number of times this tune has been covered, maybe there's something to it.  <a href="http://www.secondhandsongs.com/work/401" target="_blank">Secondhandsongs.com</a> lists 44 versions of this tune since its 1967 Dylan release.
 

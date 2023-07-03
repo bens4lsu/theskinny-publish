@@ -8,7 +8,7 @@ id: 1087
 The theskinnyonbenny family spent last week on Lake George, in upstate New York. Or I guess more accurately, we were on a little spit of the lake that dumps into a river. We could boat or drive to the lake, but poor landscaping prevented the picturesque view that we deserved as tourists from far away. 
 
 We got to try many of their local restaurants, and one experience motivated me to post a review on Yelp or some similar site. Unfortunately, I don't remember the name of the place,and Mrs. theskinnyonbenny wasn't able to find it for me, so I post most of my review here. 
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>The best thing I can say about this restaurant is that I did not catch hepatitis-B from their filthy silverware. You see, they would have actually had to have brought me silverware in order for that to happen. What I got instead were excuses. Excuses why a small dog couldn't sit quietly next to the table on the patio, excuses why a 40-year-old couldn't be served a White Russian ("My job is on the line!"), excuses why there were no appetizer plates (on 2nd thought, there was no explanation on that one), excuses why silverware was missing, why there were no condiments, why they couldn't accept American Express. 
 
 Yes, the view is nice, bit there must be other places in town where the niceties don't stop with the view. </blockquote>

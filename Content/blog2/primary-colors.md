@@ -10,7 +10,7 @@ id: 969
 If you have a little kid, you've probably suffered through little kid music.  It's part of the price of raising a child.  But there are degrees of bad little kid music, and I'm with you today to warn you away from the worst of the worst.
 
 If your child comes across a song called "Primary Colors," tell them that "primary" is a bad word, and that you'll wash his little mouth out with soap if you ever hear it uttered again.
-<span class="spanEndPreview">&nbsp;</span>
+
 The tune is bad, but it also sticks in your head.
 
 The voices are grating and irritating.

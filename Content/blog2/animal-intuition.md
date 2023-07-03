@@ -8,7 +8,7 @@ id: 526
 I really don't know how Jared Fogle managed that Subway diet when he was a 450 lb fat ass.  I'm on day three of eating healthy, and if you offered me a candy bar in exchange for my murdering a kitten, I'd snap kitty's neck lickity-split.
 
 Assuming it wasn't my kitten.
-<span class="spanEndPreview">&nbsp;</span>
+
 Speaking of kittens, I've twice caught this show on XM radio where a psychic communicates with your pets -- either living or dead -- and helps you reveal the mysteries of their lives.  Sometimes her shtick is easy.  Someone will call in and ask what to do about her current cat that doesn't like the new kitten.  She says to give it time.  "But your dogs are telling me that they're quite excited about the kitten."
 
 Duh.

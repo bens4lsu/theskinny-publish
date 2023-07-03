@@ -8,7 +8,7 @@ id: 183
 Last Summer, I noticed an odd new mole on my shoulder.  It was skinny, and it stuck up enough that you could wiggle it back and forth.  When Summer ended, I started wearing a shirt more often, and since it was at the base of my neck where I couldn't see, I forgot all about it.  Heck, it might have gone away altogether.
 
 Last week, in this same spot, I noticed my mole again.  It had gotten sore and turned red.  This was a bit worrisome, so I made an appointment with a dermatologist to get it checked removed.
-<span class="spanEndPreview">&nbsp;</span>
+
 But while I waited the few days for my appointment, my body took care of itself.  Saturday morning, I was bored, and I wiggled it around a little just to pass the time.  It was harder than before, and gave me more wiggle room.  Nervous about this change, I went to check it out in the mirror.
 
 It had turned into a scab and was to the point of almost falling off.  I gave it a sort of vigorous rub with a flat hand, and voila! I was cured.  A barely discernable red spot was left on normal looking skin.

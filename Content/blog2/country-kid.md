@@ -12,7 +12,7 @@ It didn't even cross my mind that something was amiss when I saw uneaten banana 
 But then I heard Mrs. theskinnyonbenny ask what the dogs had eaten for dinner.  The answer was, "Biscuits, goldfish, and bananas."
 
 I had wanted another biscuit that day too but I guess those stupid mutts enjoyed that meal.
-<span class="spanEndPreview">&nbsp;</span>
+
 This weekend, we took the dogs up to the in-law's farm, and on Friday night, they chose to run wild critters through the wild rather than come up to the house and eat.  They still weren't home when I went to bed that night.  Saturday morning, I went out to check on them.  They weren't home again.  I'm not  sure if they were still out or if they were out again.  I would have been worried, but I could hear Lily's barks echoing through the hills, as some poor rabbit, possum, or raccoon cowered in a makeshift shelter.
 
 Vanya wanted nothing more than to drive the Gator around the farm, and for a six year old, he's not a bad driver.  I think it's highly likely that on Sunday, he was the only six year old in the world to both sing a selection from an opera (Figaro-Figaro, imitated from a Looney Tune) and to drive a piece of John Deere equipment.

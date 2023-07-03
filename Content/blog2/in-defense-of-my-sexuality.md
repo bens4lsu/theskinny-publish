@@ -12,7 +12,7 @@ Guess how many hours I've spent tracking down and looking at the trove of celeb 
 10?
 
 0?
-<span class="spanEndPreview">&nbsp;</span>
+
 
 
 0.  Zero.  Haven't checked.

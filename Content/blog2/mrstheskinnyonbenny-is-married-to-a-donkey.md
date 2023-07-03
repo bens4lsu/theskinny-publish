@@ -8,7 +8,7 @@ id: 625
 Perhaps you received my tweet of August 14 and were wondering what's the story behind the story.  It read, "My wife is trying to get me the first appointment in front of an Obama death panel right now."
 
 Or perhaps you just received an informative text message from Mrs. theskinnyonbenny.  "I am married to a donkey."  I don't know how many people received that one (I did not), but the number is unquestionably high, and the number of people who claim to have received it seems to be growing.
-<span class="spanEndPreview">&nbsp;</span>
+
 I haven't posted this sooner because I've been wondering how Mrs. theskinnyonbenny would tell the story to my parents.  She could tell my old man just like she could with anyone else, but I don't think my mom will comprehend any ill-sentiments directed my way.  A story in which her son is a donkey won't compute at all.
 
 Since it's been a number of weeks, I'll go ahead and spill it.

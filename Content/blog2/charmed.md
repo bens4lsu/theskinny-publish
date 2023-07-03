@@ -10,7 +10,7 @@ This comment will make me seem 100 years old, but I'll put it in writing anyway.
 The flowers in my neighborhood are amazing right now.  I know that I have a post every spring about how I love the weather, enjoy the plants, and love life, but this year the plants have really stepped their game.  If you're in Baton Rouge, make it a point to take a drive through mid-city neighborhoods.  The explosion of color is unreal.
 
 Update:  Old married people are funny.  They start sharing a brain.  <a href="http://twitter.com/hs00" target="_blank">@hs00</a> just tweeted this, almost exactly.
-<span class="spanEndPreview">&nbsp;</span>
+
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 
 One time, I witnessed from a distance as she was riding her bike and got hit by a car, on her birthday.  I went home and enjoyed another piece of birthday cake before going back to see the emergency vehicles lined up at the site of the accident.  (In my defense, I honestly thought she had swerved to miss the car, mishandled the curb, and fell into a yard.)

@@ -8,7 +8,7 @@ id: 242
 I woke up at 4:00 this morning, and instead of dropping right back off to sleep, I thought about an email from work yesterday.  With most people -- and sometimes, even with me -- this would signify a project gone hopelessly awry or an urgent need for a vacation.  But my reasons this morning were different.
 
 I started to laugh at the message.  I was able to hold in the noisy, audible part of the laugh, but I couldn't help the abdominal convulsions, and it jiggled the bed enough to disturb Mrs. theskinnyonbenny.
-<span class="spanEndPreview">&nbsp;</span>
+
 Courteous guy that I am, I got up to catch a Timmy and Lassie rerun on cable.  In this one, Lassie adopted a bobcat cub and had to hide it in the barn, as she knew she was doing wrong.  "Don't scold her mother," Timmy implored. "She knows she did wrong, but she did it for love."  And oh yeah, the bobcat cub was clearly a Siamese cat.  I had missed the beginning of the episode, and spent almost the whole show thinking that the mama bobcat wanted to eat Lassie's Siamese friend.  How did people used to watch this garbage?
 
 Anyway, the message that got me up so early was this:

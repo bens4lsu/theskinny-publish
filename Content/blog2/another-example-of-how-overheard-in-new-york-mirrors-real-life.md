@@ -15,7 +15,7 @@ Here's another overheard that Shelly recently sent.  Her email included the note
 <b>Little girl, putting it in her mouth and chewing it:</b> It's okay! I kissed it up to god! (swallows it) What are you going to do about it?
 <b>Mother, angrily:</b> I'm not going to do anything. You're just going to die.
 </blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 I'm so amused and have so much to say about the five second rule, that I don't even know where to begin.  But yes, of course I endorse that behavior.
 
 I guess I'll start with this "kissing it up to god."  I'm not aware of this means of sterilization, but it sounds like, well... a godsend.  Can someone share the ritual with me?  It seems like something I should know.

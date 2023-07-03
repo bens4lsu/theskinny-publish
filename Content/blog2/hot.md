@@ -8,7 +8,7 @@ id: 384
 It would be easy for me to write a blog that would be enjoyed by a particular demographic of loser:  say, a divorcee, whose kids are teenagers that don't like her very much, and whose ideal (and typical) Friday night includes taking a long bath, polishing off a pint of ice cream while watching <i>Beaches</i>, and crying herself gently to sleep.
 
 For that sort of reader, I could post a cute picture of a dog, cat, or kid every day, and include cute little stories.  Watch; I'll illustrate....
-<span class="spanEndPreview">&nbsp;</span>
+
 <div style="margin-left:3em;">Vanya finally named one of his stuffed animals.  A floppy-eared dog, who he calls Foo Foo.
 
 This morning, as I got him out of bed, he decided not to bring the toy down with us.  Once we were downstairs, I asked him why Foo Foo didn't want to come with us.

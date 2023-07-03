@@ -24,7 +24,7 @@ id: 251
 "Well let me report it as missing next time."
 
 "Okay."
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/greenline.gif"></center>
 
 "We could retire a lot sooner if we would just quit spending money like banshees."

@@ -8,7 +8,7 @@ id: 213
 If you know me -- either in real life or just through reading here -- you have probably inferred that I'm not a very political person.  You would be right.  It's not that I'm uninterested; I find aspects of politics fascinating.  The thing is that I don't care.  It's just entertainment to me.
 
 I find that I can't bear any politician who is making decisions from day to day.  I didn't care for Clinton while he was in office, and the current president makes me long for a return of the dysfunctional Clinton administration.  I guess it just boils down to the fact that I hate politicians.
-<span class="spanEndPreview">&nbsp;</span>
+
 But like I said, I am interested in the entertainment value of a political debate.  So I recently did a <a href="http://www.technorati.com/search" target="_blank">Technorati search</a> on the phrases "Dick Chaney" and "LSU" to read up on the local argument about whether he should or shouldn't have been invited to speak at this year's commencement.
 
 Apparently, I'm not the only one who is non-political around here.  the only result in a 40-million page search was <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=20797959&blogID=123794326" target="_blank">one guy's myspace entry</a>, which pretty much just says that he's part of that whole graduation ceremony.  I'm still baffled.  There's not <i>one single blogger</i> out there who wants to criticize or defend LSU for having Chaney as a speaker?  That's unbelievable.

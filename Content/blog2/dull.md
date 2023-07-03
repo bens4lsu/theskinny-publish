@@ -8,7 +8,7 @@ id: 215
 Let's face it.  Unless you travel somewhere -- and somewhere doesn't include Baton Rouge -- summer is D - U - L - L, dull.
 
 College baseball is over (at least for me it's over), and the NBA will be done pretty soon.  Let's not pretend that Major League Baseball is interesting.  (At least not the games.  The steroid controversies are a little interesting.)  I have yet to cut the sleeves off of a collared shirt, and therefore don't have that part of my brain that would also allow me to follow NASCAR.
-<span class="spanEndPreview">&nbsp;</span>
+
 Golf is good to put on the TV when you're ready for a nap, and need some birds chirping and soft voices to put you over the edge.  Tennis is okay, but I can't really see myself going to work and saying, "Hey guys, did you see Nicolas Massu beat Max Mirny in straight sets yesterday?"
 
 And it isn't just sports.  Summer movies are crowded, noisy, and usually fail to live up to their hype.  Anyone regret shelling out $8 for <i>Posieden</i> yet?

@@ -8,7 +8,7 @@ id: 277
 Once upon a time, there was a dog named Lily and a dog named Blossom.  Blossom and Lily lived together as dog sisters in a big blue house.  They liked to play and to sleep and to chase around their cat friends who also lived in the big blue house.
 
 Blossom and Lily's human was a nice guy.  Even though the dogs had nothing to do all day but lay around, he sometimes felt bad that there were no people at home to play with them.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/blossom_sad_washed.jpg"></td></tr><tr><td class="caption" width="250">Sad Blossom without a bone.</td></tr></table>
 
 One night, Blossom and Lily's human went to the kitchen.  "Wanna treat?"  He asked.

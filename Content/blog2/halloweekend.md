@@ -10,7 +10,7 @@ Halloween this year was wet.  I never thought about it before, but I don't ever 
 But it was fine.  A long block of trick-or-treating got us inside relatively early.  Fewer kids out meant more candy per stop, so the haul was about the same.  And of course, there had already been Boo at the Zoo and school Haloween stuff too.
 
 I was glad to get inside in time to see an epic ABC programming feaux-pas.  Right after Charlie Brown's Halloween ended, they went right into Grey's Anatomy, which started with a scene of two naked women waking up together.
-<span class="spanEndPreview">&nbsp;</span>
+
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="**************" src="/img/abcscreenshot.png"/></p>
 <p class="caption">ABC Screen capture, about five seconds after the end of the Peanuts Halloween special.</p>
 

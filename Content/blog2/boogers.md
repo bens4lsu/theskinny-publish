@@ -8,7 +8,7 @@ id: 1042
 For the past week or so, I've been blowing giant boogers.
 
 I'm not sure what it is.  Maybe a little touch of a cold.  I've also been getting nosebleeds, so they're dark with clotted blood.  In fact, I have a lot of trouble blowing the boogers out without starting a new nosebleed.  That leads to new dried giant boogers.  It's a disgusting cycle that I can't seem to shake.
-<span class="spanEndPreview">&nbsp;</span>
+
 This morning, I blew my nose, and disposed of what came out.  Except for one giant booger which hitched itself to the coller of my t-shirt, where I couldn't see it.  I was getting Vanya's shoes on, and he pointed to the booger and asked what it was.
 
 I looked down, picked it off the fabric, and identified it as a booger.

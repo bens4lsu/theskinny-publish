@@ -12,7 +12,7 @@ Button 1:  Current, modern, alt-rock stations (Left of Center, Alt Nation)
 Button 2:  Hard rock that I like (Faction, Punk Rock)
 
 Button 3:  Nastalgia (First Wave, 80s)
-<span class="spanEndPreview">&nbsp;</span>
+
 Button 5:  Country, but not the country that you hear on FM.  One is a channel called Outlaw country, which specializes in the heavy-drinking, punch a guy in the mouth type of country music, and the other is Margaritaville, which is mostly Jimmy Buffet, with other laid back similar sounding artists mixed in.
 
 Button 6:  My "grown up rock and roll" button (Spectrum, E Street Radio).  These are only probationally pemanent, and could easily be replaced if somoene on button 4 steps up and gives me great entertainment.  But for now, they seem to have settled into their slots well.

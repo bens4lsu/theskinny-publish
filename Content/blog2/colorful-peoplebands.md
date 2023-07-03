@@ -10,7 +10,7 @@ Yesterday morning, I was working on a table outside.  I looked up to see two car
 The driver of the first car was a well dressed black lady of about 30.  The man at an angle behind her was well over 50, white, and had a loud New Orleans accent.  He surprised me by shouting joyfully, "Hey!  That's great!  Thank you ma'am!  God bless you!"
 
 Now for two days, I can't quit trying to figure out what made him so happy.  He was holding a coffee, but they weren't coming out of a drive through, and it seems like a lot of emotion for a free coffee.  Some stranger paid for our coffee and donuts at Dunkin when I drove through before school with the kids a couple of weeks ago.  Don't get me wrong -- it is nice.  But I didn't jump out of my car to ask God to bring down blessings.
-<span class="spanEndPreview">&nbsp;</span>
+
 I really can't come up with anything satisfying.
 
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />

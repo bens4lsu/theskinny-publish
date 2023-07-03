@@ -45,3 +45,10 @@ try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     .writeVideoAlbumPages(),
 ])
 
+
+// TODO: blog editing
+
+//  http://localhost:8000/blog2/thinking-football/ -- Is this link alive?  https://youtu.be/NqOENqJj4lk
+//  http://localhost:8000/blog2/shipping-news/   http://www.photographers1.com/Sailing/NauticalTerms&Nomenclature.html
+//  http://localhost:8000/blog2/rolling-rolling-rolling-through-the-summer/   check images
+//  http://localhost:8000/blog2/thoughts-about-3-songs-from-the-80s/  need to add apple music playlist

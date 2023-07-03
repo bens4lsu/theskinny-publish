@@ -17,7 +17,7 @@ Talk to you all soon!
 
 Love,
 Sarah & Neil</blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 
 Sarah didn't get the newscast where they explained that due to lack of rain in Georgia, the exclamation point crop is seriously damaged this season.  They asked that exclamation points be used sparingly until the current drought is alleviated.
 

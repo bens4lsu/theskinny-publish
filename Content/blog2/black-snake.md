@@ -6,7 +6,7 @@ tags: music-pop-culture
 id: 1067
 ---
 Are we entering a new golden age of music?  For the past 10 years or so, I could count on one new album every 12-18 months that would really, really get me excited.  Albums that were new, creative, great, and instantly excellent.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <div style="float:left;margin:0 2em 0 0;"><iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=theskinnyonbe-20&o=1&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B004Q8HJO2" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></div>
 

@@ -8,7 +8,7 @@ id: 197
 As I predicted in this space on Friday morning, my bracket crashed and burned spectacularly.  I followed up my 14-2 Thursday with a 6-10 Friday, and of the 6 I picked correctly, 3 were a 1 seed beating a 16 seed.  So really, you could call my record 3-10 on games that were questionable.  It's perhaps the most unimpressive day one can have when picking basketball results.
 
 As of now, I'm firmly lodged in second-to-last place in our pool.  But, I seem to be the only one who picked Memphis to win, so if they go all the way, I can still come home with the cash.  They have some college called Bradley up in the next round, and they have looked as strong as anyone so far.  I like their odds as much as anyone else's.
-<span class="spanEndPreview">&nbsp;</span>
+
 I just made the travel reservations for an upcoming work trip, and as I was doing it, I realized that I'm going to get to Indianapolis the night of the championship game.  If the one in a million scenario played out where LSU was in the game, I would be forced to spend whatever it would cost to get a ticket.  Hopefully, the matchup would end up being LSU vs. Bradley, so ticket demand wouldn't be that great.
 
 That won't happen, but I'll at least have a chance to drive down and witness the hoopla before the game, and maybe I'll catch it at a sports bar near the stadium.  If any of you know Indianapolis at all, shoot me a pointer or two.

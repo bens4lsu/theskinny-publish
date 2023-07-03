@@ -8,7 +8,7 @@ id: 847
 On Tuesday, July 28, theskinnyonbenny family found ourselves in a rental house on a lake just West of Knoxville, Tennessee.  We were with the Linkin family, and it was this particular day that we had chosen to load four adults and four children into a single mini van, and take the scenic route to the east.  Our ultimate destination:  Dollywood.
 
 The scenic route was just barely scenic, and even then, only once we were 90% of the way to our destination.  Mrs. theskinnyonbenny was navigating using a state map of Tennessee, and once we got close, we didn't really have any idea how to get to the park.  The highway we were traveling was littered with little shacks where you can rent inner tubes to float down their local river, and it was decided that I would go in to get directions.
-<span class="spanEndPreview">&nbsp;</span>
+
 I pictured myself rolling out of a mini van (with Illinois plates) and into the shack with an obnoxious, "CAN YOU ALL TELL ME HOW TO GET TO <I>DOLLYWOOD</I> FROM HERE?"  But I found a room full of such simpletons, that my self consciousness evaporated immediately.
 
 The directions that they gave were precise, but unfortunately, they were wrong.  The omission of a critical right turn left us pulling into the parking lot of a deserted Black and Decker repair facility where we expected to find the parking lot.  But at about that time, the iphones figured out where we were, and popped directions to the park on their little screens.

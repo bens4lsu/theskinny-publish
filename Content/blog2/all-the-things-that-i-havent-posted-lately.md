@@ -6,7 +6,7 @@ tags: uncategorized
 id: 337
 ---
 Instead of blogging, I've spent a lot of time installing trim around windows, crown molding, light fixtures, and putting up paint.  It's unfortunate for my site, because I really had a lot to say in the past month that didn't get posted.  Here's a partial list of posts that I thought about doing but never got to in the past few weeks:
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul><li>The television writers are on strike, and their demand to get a tiny percentage of what we spend to view or download a show on the internet doesn't seem unreasonable to me.  But that said, the scripted television shows on the air were pretty bad even before the strike dwindled our choices.  So bad that <a href="http://www.ew.com/ew/article/0,,20158840,00.html" target="_blank">one producer apologized for his show's shittiness</a>.  Wow.  
 
 For the record, Showtime's <a href="http://www.sho.com/site/dexter/home.do" target="_blank"><i>Dexter</i></a> is the best drama on TV for the second fall in a row.  You should do yourself a favor and start watching the On Demand episodes of Season 2 now.</li>

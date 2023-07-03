@@ -10,7 +10,7 @@ This post gets kind of yucky.  If you are easily disgusted or offended, please m
 When we last visited, I was elated to finally be able to move back to my newly air-conditioned house.  All is getting back to normal now -- the yard is clear of debris, and repairs have been made to the minor damage that we had.  Our cable line is still lying on the ground, which means I haven't had television or high-speed internet at home since labor day (16 days now), but we're managing to get by.
 
 Now I have to rewind, going back to our Florida trip.  We went out there for a wedding in <a href="http://theskinnyonbenny.com/x/shellynjIndex.php">Shelly's</a> family.  During the course of events, I found out that Shelly's mother checks my site every day.  So this post is for her.
-<span class="spanEndPreview">&nbsp;</span>
+
 <div style="margin-left: 5em">Dear Suzanne,
 
 Your daughter is one of my favorite people and closest friends, but you should know that a more crude person has never set foot on the planet.  And perhaps this is why I like her so much.

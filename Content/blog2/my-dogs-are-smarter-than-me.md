@@ -8,7 +8,7 @@ id: 259
 As you probably know, I have a beagle (Lily) and a basset hound (Blossom).  What you might not know is that they -- especially the beagle -- have hundreds of years of breeding telling them that they want to take off.  They sit in the yard and ache at the thought of all of the squirrels and cats in the neighborhood that they can chase noisily in lieu of deer and rabbits.
 
 At some point, they realized that access to the wide open world of cats and squirrels wasn't as far as it seemed.  They had free access to the underside of the house in the back yard.  All they needed to do was bust the lattice that covers the underside of the house up front, and they were free as birds.
-<span class="spanEndPreview">&nbsp;</span>
+
 When Lily was a puppy, an invisible fence helpedme to convince her that this wasn't a viable alternative.  I had the wire run underneath the house, making a line  that approximates where the front yard meets the back.  She figured out pretty fast not to go near the wire.
 
 Blossom came later, and she's a natural follower.  I thought that I could put a shock collar on her, and all would continue to be good.  But Blossom is also stupid, and her stupidity worked against me in this case.  When she got shocked, she ran forward -- into the pain -- rather than back away from it.  It only took a couple of tries before she knew that if she ran past the wire line, it wasn't so bad.

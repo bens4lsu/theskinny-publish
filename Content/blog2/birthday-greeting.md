@@ -12,7 +12,7 @@ But some things are just too funny not to share.
 Thursday is Vanya's birthday (Happy Birthday V!).  He likes cards that sing and make noise, to the point where if he sees a greeting card aisle, he's liable to take a detour and cost you five or ten minutes while he looks through the cards.  
 
 In a hurry, Mrs. theskinnyonbenny got him a singing card this week.  Let's listen to the actual card that we gave my son for his seventh birthday.
-<span class="spanEndPreview">&nbsp;</span>
+
 <iframe src="http://player.vimeo.com/video/59033926?byline=0&amp;portrait=0&amp;color=ffffff" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
 
 I know it's a little hard to read in the video, so here are the words, which are both printed inside the card and sung by the recorded hombres.

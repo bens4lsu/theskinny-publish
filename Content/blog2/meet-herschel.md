@@ -10,7 +10,7 @@ Meet Hershel. Hershel is a pussy magnet.
 Having only glimpsed at Hershel for not more than a few minutes, and having never spoken to him, I confess that Hershel may or may not be his actual name. But pussy magnet is undoubtedly his game. 
 
 <img style="display:block; margin-left:auto; margin-right:auto" src="/img/hershel.jpg" alt="Pic of Hershel" />
-<span class="spanEndPreview">&nbsp;</span>
+
 We spotted Hershel on a cold, clear evening. You will forgive the dark, grainy photo.  We were forced to a stealthy cell phone shot, as we didn't wanted an honest observation of the master at his craft.  
 
 He sat at a bar on Frenchman Street. And it wasn't one of those shoes-stick-to-the-floor dives on Frenchman St. It was a place with a little "class."

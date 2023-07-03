@@ -18,7 +18,7 @@ As we started to back out, some loud mother came around behind me, give my Jeep 
 She then stopped another car trying to leave the lot, and directed me to back out in front of that car, screaming instructions all the while.
 
 Vanya was concerned by the shouting.  "What's the matter, Papa."
-<span class="spanEndPreview">&nbsp;</span>
+
 The only answer I could think of was one that wasn't appropriately repeated to a five-year-old, so I just muttered under my breath, "That lady is a loudmouth cunt."
 
 "WHAT?  What did you say Papa?"

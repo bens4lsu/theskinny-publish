@@ -10,7 +10,7 @@ It's hard to believe how much difference an hour makes.  I speak of the one hour
 For example, last night, I picked up Mrs. theskinnyonbenny from her work stuff at 5:00.  We went back to the condo, let her change clothes, walked into the tiny downtown, picked a restuarant, ate, had a couple of drinks, and walked back home.  We sat down, turned on the TV, only to find that it was still 20 minutes <i>before</i> the start of prime time programming.  
 
 What the heck?  
-<span class="spanEndPreview">&nbsp;</span>
+
 What do you East Coasters do with all that time after work and before TV?  
 
 Here's another catch:  I often fall asleep before the end of Monday Night Football, but this week -- tired from the Sunday drive here -- I was asleep before kickoff.  How many millions of viewers do they lose every week?  It seems to me like it would be better for the ratings if they started earlier and gave the heavily populated East Coast a chance to see the end of the games.  I understand that this means that a lot of West Coast worker-bees would miss the kickoff, but everyone would be able to see the end of the game.  Isn't the end the most important part?

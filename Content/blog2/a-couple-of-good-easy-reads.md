@@ -8,7 +8,7 @@ id: 571
 If <a href="http://outside.away.com/outside/culture/200904/worlds-best-steak-argentina-1.html" target="_blank"> this article</a> doesn't make you hungry, then there's something wrong with you.
 
 I particularly like this passage.
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>There was a steak vendor across the street from the airport, working off a trailer-mounted grill. I ordered a steak from him, and he pulled the thin and strange-looking meat from a plastic shopping bag that was lying near the wheel well.
 
 "Please tell me you're not going to eat that," said Katie.

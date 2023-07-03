@@ -6,7 +6,7 @@ tags: stories
 id: 288
 ---
 It was a dull weekend, with mostly cool cloudy weather.  To be honest, I have absolutely nothing to blog about.  I would advise you to skip the rest of this post and check back later in the week.
-<span class="spanEndPreview">&nbsp;</span>
+
 Here's what I've been up to:
 
 I spent most of the day Sunday assembling baby stuff.

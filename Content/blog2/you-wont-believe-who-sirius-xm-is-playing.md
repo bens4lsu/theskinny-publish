@@ -10,7 +10,7 @@ On Saturday, I heard something that I had never heard before:  Floyd Cramer on t
 Back in the early 90s, if you turned on mid-day TV for any amount of time at all, you were sure to see the commercial for a Floyd Cramer, playing a collection of other people's hits as piano instrumentals.
 
 Wait... Here it is.  I went and found it in 10 seconds.  I'm starting to think this internet thing isn't just a fad after all.
-<span class="spanEndPreview">&nbsp;</span>
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/pdU77wy_f-M" frameborder="0" allowfullscreen></iframe>
 
 On Saturday, we had just the right combination of time and luck.  Had we taken my car instead of Mrs. theskinnyonbenny's, we would have been tuned to a different station.  Had we not turned back to make sure she didn't leave the hair press on, I might have been flipping channels. 

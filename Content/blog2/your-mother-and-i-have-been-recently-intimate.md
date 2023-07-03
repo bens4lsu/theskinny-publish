@@ -10,7 +10,7 @@ Just so you know, there's going to be some vulgar language in this post.  There'
 <center><img src="/img/greenline.gif"></center>
 
 I've been a fan of Blink 182 since I first heard Dammit on KLSU, which had to be somewhere around 1995 or so.  I bought all of their studio albums over the years, but I didn't pick up the live album with mostly the same songs.  Which means that I missed this masterpiece.
-<span class="spanEndPreview">&nbsp;</span>
+
 If your computer, browser, and corporate network policy allow you to listen to this, go ahead and give it a go.  It's a short song, so stick with it until the end of the singing.  The last 20 seconds or so are just junk, so you can cut it off then.
 
 <EMBED  NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/FamilyReunion.mp3" TYPE="application/x-mplayer2"  AUTOSTART="0" SHOWCONTROLS="1"  height="50" align="right"><noembed>Sorry Captain.  Your browser does not support plug-ins for digital video.</noembed>

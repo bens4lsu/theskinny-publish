@@ -6,7 +6,7 @@ tags: sports
 id: 194
 ---
 Our friend Stacie recently moved to the Dallas area.  I picked up the phone one weekend right after she moved there and had a conversation that went something like this.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table><tr><td width =15><img src="/img/spacer.gif"/></td><td>
 Stacie:  "Hey, what's on NBC in your house right now?"
 

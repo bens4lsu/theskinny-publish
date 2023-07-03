@@ -10,7 +10,7 @@ I recently related a story to my wife and mother.  I would have thought that bet
 I was a kid of no more than 7 or 8.  Our family was on vacation, and we went into a tourist trap souvinier store.  I was drawn to a toy tobacco pipe -- I think it was decorated like someone pictured an Indian peace pipe.
 
 I stuck it in my mouth and took a look at the mirror.  Just then, I noticed an even better feature.
-<span class="spanEndPreview">&nbsp;</span>
+
 "Hey! They made the mouth part of this chocolate flavored!"
 
 The lady working the store overheard me and answered snottily.

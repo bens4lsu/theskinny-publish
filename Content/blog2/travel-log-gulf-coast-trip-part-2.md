@@ -10,7 +10,7 @@ This is the completion of our vacation story, which I first started <a href="htt
 <em>Wednesday, June 18 - Thursday, June 19</em>
 
 When we last checked in with our intrepid voyagers on Velvet Elvis, they were at a nice little anchorage at about the spot where the civilized Florida coast dissappears for good.  We left there between 5:00 and 6:00, knowing that our first all day-all night-all day sail was ahead of us.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <a class="lightview alignright" href="http://theskinnyonbenny.com/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140620_194006_2544.JPG" data-lightview-caption="Kids reunited at the St. Petersburg resort." data-lightview-group="group1"><img src="http://theskinnyonbenny.com/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140620_194006_2544.JPG" alt="http://theskinnyonbenny.com/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140620_194006_2544.JPG" width="350px"><br><span class="caption alignleft">Kids reunited at the St. Petersburg resort.</span></a>
 It turned out to be pretty uneventful.  Winds were light and progress was slow, but there were no real mishaps.  V continued to fight seasickness, but he slept all night in the cockpit.  Then, he followed that by sleeping most of the day.

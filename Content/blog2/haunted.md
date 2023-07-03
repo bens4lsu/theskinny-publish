@@ -8,7 +8,7 @@ id: 190
 I was just recently talking about all of those ghost shows on late night cable TV.  I had been watching one about a bar that was haunted by a former bartender who had blown out his brains with a shotgun in the back room.  It was one of those shows where actors play the parts, and then they switch over to the actual people for little interview segments.  
 
 It's a cheaply made program.  By showing the same acting segment several times, sandwiching commercial breaks, they end up having an hour-long show with fifteen minutes of actual acting footage.
-<span class="spanEndPreview">&nbsp;</span>
+
 Even though the shows are 100 percent cheese, this one gave me a little fright at 2:00 Saturday morning.  I figured that cowardice was an indication that it was time to turn off the TV and go to bed.
 
 

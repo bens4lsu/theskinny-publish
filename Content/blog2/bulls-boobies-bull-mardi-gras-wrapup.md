@@ -8,7 +8,7 @@ id: 497
 I haven't posted worth a damn in February.  Normal excuses -- busy at work, my house is a zoo in the evenings, etc.  (I do wish I had been quick enough and clever enough to compare Governor Jindal's address to Kenneth on 30 Rock, but I am neither.  Also, I was watching LSU play Florida on ESPN, so I only caught a couple of snippits during commercial breaks.)
 
 The thing you might not realize if you're not in the area is how much time Mardi Gras can take up during February.  Here's a roundup of my season this year.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table><tr><td><strong>Jan 31:  Spanish Town Ball</strong></td></tr><tr><td>
 I posted some pics of the day from this event in early February.  It was its usual thing -- a lot of pink, a lot of crazy and slightly obscene costumes.
 

@@ -6,7 +6,7 @@ tags: food
 id: 193
 ---
 There's a new restaurant a handful of blocks away from our house that we've been visiting very regularly since it opened.  I really wanted to be able to pan Byronz Bistro.  Just based on the location, the look of the building, and how long they took to renovate the building, I expected high prices, average food, and overworked, unattentive staff.  I guess I'm a pessimist.
-<span class="spanEndPreview">&nbsp;</span>
+
 Happily, I was wrong on all of these expectations.  I've tasted about half of the menu, and everything I've had has been very good.  A couple of dishes are even better than very good.  The atmosphere is open and bright.  The barstools are made for the wide behinds typical in Louisiana, and the bartender who works Monday-Wednesday is among the best in town.
 
 Tuesday night, we went by there for a drink after work.  I couldn't decide what to order, and numb-brainedly ordered a Bud Light.  As it turns out, they guy next to me at the bar was a rep from a beer distributor, and of course, Bud isn't one of his brands.

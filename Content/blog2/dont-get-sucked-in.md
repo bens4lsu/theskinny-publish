@@ -10,7 +10,7 @@ Vanya really enjoys relaying messages between his parents.  He will often do it 
 "You know what Papa say?"
 
 "What?"
-<span class="spanEndPreview">&nbsp;</span>
+
 "Papa say turn down the TV."
 
 A couple of nights ago, he came to me in the kitchen with,

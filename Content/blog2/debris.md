@@ -8,7 +8,7 @@ id: 399
 A couple days after Baton Rouge announced that the first pass of Hurricane Gustav debris pick up had been completed, I took this picture:
 
 <center><img src="/img/debris.jpg"></center>
-<span class="spanEndPreview">&nbsp;</span>
+
 We've been a pretty patient town.  It's been six weeks, and I don't hear much bitching about all of the limbs that still line our street.
 
 But here's the thing.  I took this picture at the corner of Third and Main.  Even if you don't know Baton Rouge at all, you can tell by the names of the streets that this is a pretty central and well traveled part of town.  In fact, in any given city, you don't get more central to downtown than the intersections of Third and Main.

@@ -10,7 +10,7 @@ This week and next, we're in Athens, Georgia.  Mrs. theskinnyonbenny is here for
 We're just off the UGA campus, and I've always liked checking out other college campuses when I travel.  I haven't had a chance to explore yet, but there's not doubt that I'll become quite familiar with the layout.
 
 We're in Athens' "downtown," which is about a 10 square-block stretch of bars, restaurants, and little shops.  Almost every place has tables outside along the sidewalk which makes it a much cooler town than most.  I haven't been out and about much, but the people I've encountered are helpful and friendly.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right">
 <tr>
 <td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td>

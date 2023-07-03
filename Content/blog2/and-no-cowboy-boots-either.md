@@ -12,7 +12,7 @@ I woke up Vanya this morning.  He started to talk on the way down the stairs.
 "Yeah, baseball camp, I think."
 
 "Well, we need to go to the snack store and get marshmallows."
-<span class="spanEndPreview">&nbsp;</span>
+
 "For what?"
 
 "You know.  Marshmallows to go with the chocolate crackers."

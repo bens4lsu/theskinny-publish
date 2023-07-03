@@ -18,7 +18,7 @@ I went back into the house, quietly undressed, and slipped back into bed.
 I cuddled up to my wife's back, now with a different anticipation, and whispered, 'The weather out there is terrible.'
 
 My loving wife of 10 years replied, 'Can you believe my stupid husband is out sailing in that?'</blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 I think that's the kind of weather we're in for this weekend.  Which is too bad.  Our friends Lisa and Josh are in town, and we had planned to goof off in New Orleans during the weekend.  We'll still do that, I'm sure, but it's a walking city, so frequent downpours aren't cool.
 
 They showed up at our house Wednesday evening, bearing a box of the biggest lobsters that I've seen.  The biggest one had claws the size of a salad plate.  We cooked them in some crab boil, and then scooped out portions of meat the size of small steaks.  Holy crap, it was one of the best meals I've ever had.

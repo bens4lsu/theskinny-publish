@@ -8,7 +8,7 @@ id: 302
 Having spent close to a month in Russia, mostly without TV and almost entirely without newspapers, magazines, or internet, I got a lot of book reading done.  Here are my thoughts.
 <p>&nbsp;</p>
 <center><img src="/img/books/darkitaly.jpg"></img></center>
-<span class="spanEndPreview">&nbsp;</span>
+
 <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780865477247&itm=1" target="_blank">The Dark Heart of Italy</a>, by Tobias Jones
 
 Here's the crux of this book:  an Englishman moves to Italy, and then pens a book about how corrupt and backwards Italy is.  Sounds like it might be interesting, but it is really very very very far from interesting.  Unless you have some strangely acute interest in the nuances of politics of Italy, you will agree with me that this is a terrible fucking book.

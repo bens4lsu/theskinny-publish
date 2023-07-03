@@ -10,7 +10,7 @@ A year ago January, a momentous milestone passed without notice.  The 10th anniv
 This year, I moved the site to a new web host for the first time.  Since theskinny was the very, very first thing I ever did on the internet, it's chok-a-block full of pages that were developed really, really wrong.  That means that pretty much every page, feed, menu, and link broke when I moved domains.
 
 <a class="lightview alignright" href="/img/sunsetswing.jpg" data-lightview-caption="A sunset swing during Easter Weekend (untouched photo, beautiful night)." data-lightview-group="group1"><img src="/img/sunsetswing.jpg" alt="/img/sunsetswing.jpg" width="350"><br><span class="caption alignleft">A sunset swing during<br>Easter Weekend (untouched photo, beautiful night).</span></a>
-<span class="spanEndPreview">&nbsp;</span>
+
 
 Little by little, I've corrected that stuff, but that leaves me with a stale site where the content hasn't been updated in months.  (Except for the twitter feed and the playlists, which just happen automatically as I tweet and listen to music.)  Now, I'm left with stories half forgotten, hundreds and hundreds of pictures to curate (including some amazing sunset shots from our annual Easter cruise), and videos going back a year to post.  I better start showing this site some attention.
 

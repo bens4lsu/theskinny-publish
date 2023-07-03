@@ -6,7 +6,7 @@ tags: uncategorized
 id: 787
 ---
 Here are the ideas that I had for blog posts this week.  I couldn't really make a go of any of them, so I'll just fire the topics out in a flurry of bullets.
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul>
 <li>I read yet another poll showing that people think that the government should stay out of health care, and that the government should not mess with Medicare.  What the hell?</li>
 

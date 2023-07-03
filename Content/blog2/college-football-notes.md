@@ -8,7 +8,7 @@ id: 422
 Every February, on college football signing day, the experts come out with rankings to let you know who's incoming class is best.  It's yet another competition for the fans to watch and root for.  But the experts also always say something like, "You have to wait four years to really see what this class is all about."
 
 But I don't know of anyone that looks four years in the past to see how the rankings really should have gone.  I did a little poking around, and from what I see, the experts don't know dick.
-<span class="spanEndPreview">&nbsp;</span>
+
 Let's look at the rankings for <a href="http://recruiting.scout.com/a.z?s=73&p=9&c=14&yr=2005" target="_blank">2005</a>.  We've got Tennessee ranked first, Michigan second, and Florida State third.  Those class members are juniors or seniors now, and those teams' combined record is poo poo.  LSU is ranked 19th on that list, mostly on the strength of 5-star recruit Ryan Perriloux, who will see more snaps for his penitentiary intramural squad than he ever did as a Tiger QB.
 
 If my memory is correct, Heisman favorite Colt McCoy decided to go to Texas over LSU when Perriloux changed his commitment from Texas to LSU.  That makes me sick to my stomach. 

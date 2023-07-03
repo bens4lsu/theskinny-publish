@@ -10,7 +10,7 @@ Check out the front page of the <i>Baton Rouge Advocate</i>'s recent Fit section
 <skinny:nohome><p style="margin-left:auto; margin-right: auto; text-align: center;"><img alt="fit section cover photo 1" src="/img/fitsection1.jpg"/></p></skinny:nohome>
 
 Here's a clearer copy of the photo that I found online:
-<span class="spanEndPreview">&nbsp;</span>
+
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="fit section cover photo 2" src="/img/fitsection2.jpg"/></p>
 
 Is there anyone in all of Baton Rouge who's less worthy of being on the cover of the fit section than that fatty on the left side, wearing the green sweatshirt?

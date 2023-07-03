@@ -8,7 +8,7 @@ id: 1421
 Raise your hand if you've had a car trip like this one.
 
 On a recent Summer day, we had a plan to drive from Destin to Miami.  We had spent a couple of quick days in Destin to hang out with friends there, and we had a boat charter to start from Miami a couple of days later.  We planned one long, hard day of driving, which would give us a full day to see a little bit if Miami and to provision for the boat trip. 
-<span class="spanEndPreview">&nbsp;</span>
+
 We had gotten a little blow-past from Tropical Storm Debby while we were in Destin.  We knew it had gone East, and that it had the potential to slow us down, but we were undeterred.
 
 Fast forward, say, six hours or so.  I had gotten into the passenger seat, got connected to the internet, and was actually getting caught up on some work that needed to be done.  It was only a few minutes before I noticed that the air conditioning seemed to be blowing humid air.  Thirty minutes later, it was humid and warm.

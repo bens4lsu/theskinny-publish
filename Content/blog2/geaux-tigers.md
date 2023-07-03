@@ -11,7 +11,7 @@ That probably adds up to the worst August in memory, although it could be a lot 
 
 A quick video to remind us of why we pull for the guys wearing purple and gold.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/Avnq-IcE4-I?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/Avnq-IcE4-I?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
 

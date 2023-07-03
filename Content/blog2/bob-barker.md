@@ -8,7 +8,7 @@ id: 314
 I'm going to miss the shit out of Bob Barker.
 
 This probably isn't the first place that you've heard about the retirement of the King of Game Show Hosts, but I would be remiss if I didn't address it.  I have always been first to admit my admiration of <em>The Price is Right</em>, which extended to making class schedule choices based on my ability to catch the show during a lunch break.
-<span class="spanEndPreview">&nbsp;</span>
+
 From earliest childhood, I knew Barker as a classy and professional game show host.  Over the years, I also learned that he (at the age of 103) was sleeping with his models, and that he could kick ass in a goofball comedy.  But the pricing games continued with comedy and grace as Bob's hair turned white and his hearing got worse.  More often than not, the bidding includes a scene like this:
 
 "I'll bid twenty-one hundred Bob!"

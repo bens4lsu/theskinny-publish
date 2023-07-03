@@ -6,7 +6,7 @@ tags: young-ruski
 id: 1789
 ---
 The Spring festival season is a great, great time of year.  I was channel flipping last night, and one station had clips from last year's Jazz Fest.  I stuck around for a few songs, and they flipped to the end of Trombone Shorty's set that closed it out last year.  I called the kids in there to look for themselves, even though we were so far back when he played that our images had to have been reduced to a mere pixel or two even on the rare occasions that the camera zoomed out far enough to see the approximiate location where we sat.
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview alignright" href="/img/resIMG_20140426_125610_2081.JPG" data-lightview-caption="Professional festival-goer." data-lightview-group="group1"><img src="/img/resIMG_20140426_125610_2081.JPG" alt="/img/resIMG_20140426_125610_2081.JPG" width="350px"><br><span class="caption alignleft">Professional festival-goer.</span></a>
 
 About the part where Shorty got the zillion people jumping up and down, Kolya got fired up.  From the stage, Shorty shouted "Now go crazy!" and it was game-on in our upstairs playroom.  He smacked his head pretty good on the sloped ceiling while jumping on the couch, but that didn't matter at all.  

@@ -8,7 +8,7 @@ id: 238
 By the time you see this post, I might have updated my little reading list to the side.  Or then again, I might not have.  This summer has featured really bad television along with Mrs. theskinnyonbenny being out of town or at work dinners more often than I'm used to.  The result is that I've been reading books like Burgess Meredith in <a href="http://en.wikipedia.org/wiki/Time_Enough_at_Last" target="_blank">that old <i>Twilight Zone</i></a> episode.
 
 Although I've been pretty happy with most of my choices, I'm compelled to pass along some praise for <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780743250627&itm=1" target="_blank">this book</a>.  I've been reading a little bit every day, and rarely does a day pass where I fail to laugh out loud, even when reading all by myself.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/smartest_big.jpg"></td></tr></table>
 
 The jist of it is this:  the author gives us a running narrative as he reads the <i>Encyclopaedia Britannica</i> all the way through from A to Z.  As he reads, he comments on entries.  Sometimes, he highlights an odd fact that was learned in the Encyclopedia, but other times, he relates real-life stories that touch only tangentially on the coincident Encyclopedia text.  Either way, it's a riot.

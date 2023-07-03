@@ -10,7 +10,7 @@ Last weekend, I was driving home from Jazz Fest, and I turned the radio to the S
 Then on Wednesday night, I was driving home from an evening sail -- several hours later than my Saturday drive -- and I found that I was listening to the same show on almost the exact same spot on the interstate.
 
 This made the drive go by rather quickly as I could play a game where I try to remember what the next song would be, based on my surroundings.  I wasn't really very good at this game, but I did remember that she was going to relate some news story about baked beans as I exited the interstate, followed by a transition into "Mexican Radio."
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/marthaquinn.jpg"></td></tr><tr><td class="caption" width="250">A shot of Martha back in the day.</td></tr></table>
 
 The double dose of Martha got me thinking.  She was just cutting her teeth when she got her early-80s gig at MTV, and she must have thought that she was on a much different career path.  She probably though that if MTV lasted at all, it would be a seldom-watched niche channel.  I'm sure she hoped for a call up to something more established and mainstream, like perhaps the Weather Channel. From there, she thought she might catch on as a correspondent for a <i>Good Morning America</i> type of light news show, followed years later by a chance to be a real journalist.

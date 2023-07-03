@@ -10,7 +10,7 @@ As it true with so many things, I didn't realize that I was attached to Moose an
 And to be perfectly honest, I didn't even realize it then.  It had crossed my mind, "I think I missed the Moose and Zee thing between these cartoons.  I wonder how that happened," but I didn't actually know that the characters had been retired until I heard it between songs on Sirius/XM's Alt Nation channel (of all places).
 
 It's been two or three years since NikJr was in our rotation, "educational" cartoons having been replaced by super heroes with Vanya, and with Kolya too young yet to have a lot of interest in television.  But I had it on a couple of days recently, and sure enough, Moose A. Moose, with his distinct, scratchy voice and his mute bird friend Zee were nowhere to be found.
-<span class="spanEndPreview">&nbsp;</span>
+
 None of us like change, but I think they've made a bad move.  We don't need another short segment of Dora or Bubble Guppies.  It's kind of confusing -- what cartoon are we watching anyway?  Moose and Zee seemed to be there with us, watching along, and providing us puzzles between the features.  And who's going to teach the new kid how to do the Smashed Potato with Zee out of the picture?
 
 So here's one more Christmas candy cane for you, Moose.  Hope you have a happy retirement.

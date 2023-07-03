@@ -10,7 +10,7 @@ We went to a fundraiser one night this week.  Something for abused and neglected
 Mrs. theskinnyonbenny used to be on the board of some similar organization, and I knew going in that I don't really like hearing the stories about the banged-up kids that are an obligitory part of such fundraising.
 
 There was a priest who did an invocation, and I was wondering if it's wrong to amend the prayer for yourself.  This guy included a call for God to help abusers realize their wrongness and to retrun to the folds of the good people.  I amended it.
-<span class="spanEndPreview">&nbsp;</span>
+
 "Hey God -- just so you know, that's not my prayer.  I'd prefer if you make it so that the child abusers get run over by a bus and burn in hellfire for eternity.  It's up to you of course, but that's the way I would do it were I in your shoes."
 
 I probably shouldn't be the first one clamoring for a return of the vengeful, lightning-wielding, Old Testament God, but I think there are at least a million lightning bolts with other names on them in front of me in line.  

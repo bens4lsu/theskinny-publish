@@ -6,7 +6,7 @@ tags: stories,food
 id: 188
 ---
 Well, winter finally arrived to Baton Rouge this weekend.  By winter, I mean that on Saturday, there were only a handful of hours during the middle of the day where it was warm enough to wear shorts, and even then, only because the hatred of long pants outweighs the discomfort of cold legs in my book.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table><tr><td>Our coldest Saturday of the year coincided with "bring your dog day" at Bluebonnet Swamp.  Bluebonnet Swamp is a small swamp and wooded area smack in the middle of a busy part of town.  It's crossed with gravel trails over the dry land and boardwalks over the marsh, and at least until your cell phone stars vibrating your groin area, it quickly feels like legitimate wilderness.
 
 As soon as it warmed up enough to be outside in shorts, I took Lili for her first trip.  It turns out that there's nothing that beagle likes more than charging down a trail in the woods.  She was so anxious to head down the trails that she declined the free treat and water that we were offered at check-in.  So, down the trail we started.

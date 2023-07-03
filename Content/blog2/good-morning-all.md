@@ -8,7 +8,7 @@ id: 1492
 I'm out of practice at this.  After a really busy October and November, I have some time to update my site.  (I haven't even looked at our Halloween pictures yet!)  But, alas, my less-than-one-year-old laptop had a hard drive crash last week, and everything I'm comfortable with is gone gone.
 
 I'm typing this on a borrowed Macbook, fantasizing about biting the bullet on that Windows laptop and making the jump myself.  I have some ideas for iPhone apps I've been wanting to try to develop anyway.
-<span class="spanEndPreview">&nbsp;</span>
+
 Do they have batch files for these things?  If not, how would I resize a zillion images for a photo gallery?  Am I the only one who still uses batch files on PCs?
 
 And -- what the hell -- I made a mistake typing that last sentence, and I don't have Home or End buttons on here!  Maybe I'm not quite ready to take the plunge.

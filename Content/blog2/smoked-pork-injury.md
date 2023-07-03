@@ -8,7 +8,7 @@ id: 362
 Taking a page from <a href="princesssparklepants.blogspot.com" target="_blank">my sister's blog</a>, I'll tell you about an incredibly minor -- but nevertheless irritating -- injury that I've suffered.  I'm sure it's not interesting, but I've posted nothing else, and the other two ideas that I have for what to blog this week are going to take up more time than this story.  
 
 Besides, you guys would rather hear about some dumb-shit thing that I did rather than hear me make fun of others.
-<span class="spanEndPreview">&nbsp;</span>
+
 The true beginning of the story is Saturday, when we went to the French Quarter Festival, and then went out for a quick drink, and then grabbed a dinner reservation at <a href="http://www.riomarseafood.com" target="_blank">Rio Mar</a>, which has become our New Orleans go-to for dinner.  We've been there three times in the last 9 months, which is more than any restaurant in Baton Rouge, excluding the ones where you pay before you get your food.
 
 A quick and sad tangent: we used to go get a good dinner and lots of drinks a couple nights a week.  Now, almost never.  Sigh.

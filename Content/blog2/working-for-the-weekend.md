@@ -8,7 +8,7 @@ id: 264
 As I mentioned in my previous post, I've been out and about a ton lately.  I spent the week of December 4 away from the office, on a rather dull work trip.  It was four straight days of meetings, and through almost all of it, I was talking or people were paying attention to me.  (That might seem natural to you if you don't do a lot of meetings in corporate America.  In reality, most meetings require you to only pay about 35-40 percent of your attention.)
 
 I normally make a lot of notes so that I remember the funny things that might have happened while at a client's site.  But all I had written from this trip were the statistics from a meeting on Wednesday morning:
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>RBC Meeting 12/6/06
 
 Facial hair demographics:

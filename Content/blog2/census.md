@@ -10,7 +10,7 @@ See if you can tell which of these meetings was more full of supernerds, based o
 <b>Client Meeting 4/12/2007 -- Facial Hair Census</b>
 
 8 total attendees:
-<span class="spanEndPreview">&nbsp;</span>
+
 0 females
 2 clean shaven
 2 full beards

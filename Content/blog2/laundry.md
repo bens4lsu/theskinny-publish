@@ -8,7 +8,7 @@ id: 519
 Our kitchen is being remodeled.  Right now, it's a big empty room, without cabinets or even walls or ceiling.  The main objective of the rennovation was to get our washer and dryer out of the kitchen.  Mission accomplished.  They now sit useless in the dining room.
 
 If you should be visited by anyone in theskinnyonbenny family, that's the reason why you might expect us to show up with bags of laundry.
-<span class="spanEndPreview">&nbsp;</span>
+
 We went to my in-laws this past weekend, with two big bags of wash in tow.  I explained to my mother-in-law as we unloaded the car.
 
 "We're like college students without this kitchen.  We eat fast food, we show up with our laundry, and we even drink too much.  Later, we're going to try to have sex without you hearing us."

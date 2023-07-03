@@ -8,7 +8,7 @@ id: 887
 There's this old picture that used to sit in a frame in our house growing up.  I'm about five, <a href="http://princesssparklepants.com" target="_blank">my sister</a> two or three.  We're in front of Mike the Tiger's cage wearing 70s winter coats that might look stylish again by now, but were certainly ugly while the picture was displayed through the 1980s.
 
 The photographer tried to get us to face the camera, but young Sarah wouldn't stop looking at the tiger.  So to be helpful, I grabbed her head and twisted it nearly 180 degrees.  When the picture was snapped, her chubby little hands have a death grip on the chain link fence while her neck and torso are twisted around for the picture.
-<span class="spanEndPreview">&nbsp;</span>
+
 Thirty and some odd years later, the tiger cage still draws old and young alike.  It's a rare moment in the day that there isn't someone at the mesh trying to get Mike's attention.  It's the standard meeting place for ticket exchange or lost visitors.  And it's impossible to look in on the live tiger and not feel awed, and for some reason, kind of happy.
 
 Earlier this week, I dropped off Vanya at his gymnastic class on campus.  To kill time, I walked over to see what was happening with Mike.  He appeared to be asleep, but very close to the cage where he was easy to see.  There were only two grown men trying to get his attention.  They thought that he was sound asleep or ignoring them, but I noticed that he moved the ear that wasn't pressed to the ground to point toward them.  He was listening.

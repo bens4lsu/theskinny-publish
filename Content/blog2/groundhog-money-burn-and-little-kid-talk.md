@@ -17,7 +17,7 @@ I got hoodwinked when I bought gas yesterday.  I was sort of hurrying and not pa
 
 I might as well have pulled four dollars out of my wallet and lit it on fire.  I'm still bitter this morning.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 
 Kolya really likes learning Spanish at his school.  He was telling me words for different fruits last week.  I wasn't really paying attention (I'm starting to notice a theme here) until I heard him say that Spanish for "tortilla" is "mordida."

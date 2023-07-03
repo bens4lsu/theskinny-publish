@@ -10,7 +10,7 @@ Stacie gave me <a href="http://www.amazon.com/Dog-ku-Clever-Haikus-Cleverly-Writ
 <center><img src="/img/books/dog-ku.jpg" /></center>
 
 The subtitle, which is difficult to read, is "Very Clever Haikus Cleverly Written by Very Clever Dogs."  The book starts out with a definite winner:
-<span class="spanEndPreview">&nbsp;</span>
+
 <center>The paperboy comes
 He wants to murder us all
 Bark! Bark! Bark! Bark! Bark!</center>

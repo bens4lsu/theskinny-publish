@@ -8,7 +8,7 @@ id: 354
 I'm trying to put together a playlist whose common thread is that all of the songs have to do with humans fighting a war against the robots, humans having been annihilated by robots, or robots plotting to take over the humans in some form.  On top of this being a cool theme, based on the small collection that I've found, the music is really good too.
 
 So far, I have only the following songs.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table border="1" cellpadding = "5">
 <tr><th>Song</th><th>Band</th><th>Comments</th></tr>
 <tr><td>Citizens of Tomorrow</td><td>Tokyo Police Club</td><td>How did I miss this song for so long?  I've listened to the album dozens of times without catching that this is a great tune.  It's at the top of the rotation right now.</td></tr>

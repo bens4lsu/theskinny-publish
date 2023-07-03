@@ -10,7 +10,7 @@ Here's a video that has more than 290,000,000 views, so I guess I'm the last per
 Adding to my immense pleasure is this explanation, on the YouTube page for this video.
 
 "The song is characterized by its strongly addictive beats and lyrics, and is thus certain to penetrate the foundations of modern philosophy."
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/9bZkp7q19f0" frameborder="0" allowfullscreen></iframe>
 

@@ -8,7 +8,7 @@ id: 291
 First of all -- and this is WAY overdue -- a sincere public thanks for everyone who called, emailed, or told one of us in passing some sort of  congratulations in the past few weeks.  I won't get too sentimental, but we have great friends, none of whom has ever received a Christmas card from us.
 
 (Except for Crystal and Brent.  Crystal always used to bitch and bitch about sending us a card and not getting one in return.  So I would take the pre-prented card that we got every year from the president of my company, and without opening it, I would scribble out our name and address, put their address in its place, re-stamp it, and drop it in the mail.  Perhaps I would write who it was from on the back of the envelope, lest they think some stranger named Steve Uffman sent them a card in a scribbled out envelope by mistake.)
-<span class="spanEndPreview">&nbsp;</span>
+
 Of all of the messages that I received, this was perhaps the most surprising:
 
 <blockquote>

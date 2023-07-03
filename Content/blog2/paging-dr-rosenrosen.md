@@ -8,7 +8,7 @@ id: 604
 A month or so ago, we were driving through the LSU campus, and there were two university club teams playing that fake sport from Harry Potter with the broomsticks.  I only saw what I could glimpse as I passed from a moving car, but they definitely had a few spectators and two teams running around on their sticks.
 
 Nerds.
-<span class="spanEndPreview">&nbsp;</span>
+
 I won't be seeing the new Harry Potter movie this weekend.  I read the first of the books and determined that they aren't really my cup of tea.  I think I would prefer the movies, but having seen none of them, I won't be in line this weekend for the next.
 
 Truth be told, I'm entering the phase of old manhood where I'd pretty much prefer rewatching movies that I've seen a hundred times than going to the theater.  Mrs. theskinnyonbenny is leaving town this weekend, and I'm so looking forward to putting Vanya to bed, turning out the lights, getting butt naked, opening a pint of ice cream, and watching Fletch on the couch late at night.  I'm almost giddy at the thought.

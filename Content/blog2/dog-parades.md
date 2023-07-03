@@ -8,7 +8,7 @@ id: 278
 If you've been reading along with me the whole way, you will have come to realize that the end of my posts about football inevitably lead to posts about parades.  Prior to this weekend, I had talked about going to a couple of parades, but hadn't actually been to any.  There were a few decent ones on Saturday, but I skipped those as well.  But I was excited to return to the Krewe of Mutts -- the parade for dogs in downtown Baton Rouge.
 
 We had a perfect day, with sunshine and temperatures in the 60s.  The dogs were supposed to be the Blues Brothers, but being young and ornery, they refused to keep their hats or sunglasses on.  So they ended up just being dogs in white shirts and black ties.  It was still kind of funny, but there's no substitute for a dog who wears sunglasses.  Dogs who wear sunglasses <i>always</i> get their due props.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/029%20-%20Dog%20Parade%202007/data/normal.jpg"></td></tr><tr><td class="caption" width="250">Trying to put the hats and sunglasses on the dogs before the costume contest.  There was no contest -- the dogs beat the humans in this endeavor.</td></tr></table>
 
 There were a ton of people out there, but I don't really have any funny stories.  A boxer barked in one of the Asian Cajun twin's face and made her cry.  That was funny to me, but only because I'm an evil bastard.  Oh yeah, and because I heard strangers on the road point out Steve and Jodie as the people with the crying little girl.  (Why would they care that some stranger in the parade has a crying kid?  That's just wierd.)

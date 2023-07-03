@@ -16,7 +16,7 @@ They suffer some criticism about being out of touch with normal people.  And I t
 The first voice you hear is a reporter who was covering the recent governor's race in Kentucky.  It's boring already, I know.  The second voice is the host who asks the reporter questions.
 
 I know I'm asking a lot, but stick around for the whole 22 seconds.  
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <iframe 
   frameborder="0" 

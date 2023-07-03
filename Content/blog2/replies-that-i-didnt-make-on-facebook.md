@@ -6,7 +6,7 @@ tags: stories
 id: 607
 ---
 All of these are honest-to-god comments that came to my mind when reading people's Facebook updates, and which I didn't think appropriate to leave as replies.  
-<span class="spanEndPreview">&nbsp;</span>
+
 "When did you become such a big NBA fan?  We were at LSU together when Shaq was there, and back then, you couldn't have given any less of a shit."
 
 "Is that you, or did you just pluck a random pic from hotchickswithdouchebags.com?"

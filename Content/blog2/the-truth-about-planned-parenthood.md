@@ -10,7 +10,7 @@ Here at theskinnyonbenny, we try to avoid politiacally sensitive topics.  Not be
 (And becuase we know how boring political blogs really are, we've tried to avoid words as much as possible.)
 
 <b>What Planned Parenthood actually does:</b>
-<span class="spanEndPreview">&nbsp;</span>
+
 <p style="margin-left:auto; margin-right:auto; text-align:center;"><img src="/img/plannedparenthood1.jpg" alt="planned parenthood chart 1" /></p>
 <p class="caption">Source:  <a href="https://apps.facebook.com/wpsocialreader/me/channels/trending/content/8N8ki?fb_action_ids=2242945492826&fb_action_types=news.reads&fb_source=other_multiline&ref=nf#access_token=AAADNVm9BkVYBAOMW7nIXE0rts6kmq7G3YQ7DGyH84hYNSUhfkoK4kVCdcK9jYAZCg5kWYpm0d40ZAq8nG6KNfs8MTz29hTq6RxcExswvvOQek7cAtZB&expires_in=6545&code=AQAtr13cHJe2sq4fulutvjTxVp9mgh9M2lZO1-C2OHUf-le6Jq8u0i8i7BkD2KnQ5pPGITmEum3J4f0BNSYOhCAjmQWUedieHzyM3ChFFcarlvfZjou2y35d3JayYgIBLNWndPtMCRmWt4IQdOgdr8LdxCg67IG4bmLODzwRXkYc59hvhV3kWTBP-LPfJKDIzuk">Washington Post</a></p>
 

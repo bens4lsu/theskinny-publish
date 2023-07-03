@@ -10,7 +10,7 @@ More than ever, we wanted a Summer-long trip again this year.
 Another sailing trip would have been great, but even as we wound down the school year, the Bahamas closed themselves off to visitors.  The writing was on the wall for the shitshow that Florida would become.  And the first hurricane of the year spun up between here and Mexico.  A long sailing trip wasn't in the cards.
 
 We had done some early planning of a road trip across the Alaskan Highway, but in ignorance about its own name, the highway crosses Canada, who was equally inhospitable.
-<span class="spanEndPreview">&nbsp;</span>
+
 We bought the coolest little camping trailer and headed to the nearest mountains (Arkansas, it turns out).  I had planned to be diligent about blooging our travels, but a mishap at the end of our first week left me not in the mood to write.
 
 Some people put catsup on their eggs.  Some people remove their shirts to poop.  We took a cat on a cross country camping trip.

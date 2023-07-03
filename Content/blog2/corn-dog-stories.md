@@ -8,7 +8,7 @@ id: 205
 I think I mentioned once that Auburn fans think that the LSU fans smell like corn dogs.  I had heard this through word of mouth, and then at the Auburn game last year, I actually heard an Auburn guy walking around LSU's campus say, "It sure does smell like corn dogs around here."
 
 I never saw anything written before this week, when someone sent me the text from <a href="http://mb8.theinsiders.com/fauburnfrm13.showMessage?topicID=8.topic">this message board post</a>.  I'm not sure if this is what started the whole corn dog think, or if it was the most eloquent culmination of the rumor.  The post is dated from 2003, so I doubt it's going anywhere.  But just in case it does, here is what it says.  Sorry that it makes this post overly long, but it's worth the read.  
-<span class="spanEndPreview">&nbsp;</span>
+
 <blockquote>LSU fans smell just like corn dogs.
 
 Yes, it is often said, but so, so true. 

@@ -10,7 +10,7 @@ We spent the week of Easter on the sailboat.  Almost entirely, we were tied up a
 <a class="lightview alignright" href="http://theskinnyonbenny.com/img/gal/136%20-%20Easter%20Trip%202016/resIMG_20160327_154156_5693.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="http://theskinnyonbenny.com/img/gal/136%20-%20Easter%20Trip%202016/resIMG_20160327_154156_5693.JPG" alt="http://theskinnyonbenny.com/img/gal/136%20-%20Easter%20Trip%202016/resIMG_20160327_154156_5693.JPG" width="350px"><br><span class="caption alignleft">All lined up for the Gay Easter Parade</span></a>
 
 And what an eventful week.  On top of goofing around at the ol' landing, we visited the zoo, aquarium, IMAX, parades, bowling, a cool lights display in city park, Preservation Hall, and went to a barbecue festival.  We probably ate at least five top-notch meals and several more very good ones.  We had warm sunny weather, and freezing cold rain.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 All of that bookended by two days of sailing.
 

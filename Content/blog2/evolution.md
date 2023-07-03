@@ -8,7 +8,7 @@ id: 350
 I can't believe that we actually had a viable presidential candidate this year who denied evolution.  Let's think through the rationale of a guy who wanted to lead the free world.
 
 On one hand, we have the collective knowledge of hundreds of thousands of scientists and thinkers from the last three hundred years.  We have fossil records.  We have mapped DNA, and can determine family lines based on when mutations appear and where they got passed down.
-<span class="spanEndPreview">&nbsp;</span>
+
 On the other hand, we have a book.  A five thousand year old book.  And to be honest, it's not very well written.
 
 Look, I have no problem with your belief in God.  It's hard for me to fathom that a trillion little pieces of carbon, hydrogen, and water happened to randomly bump into each other to create something as complicated as a bacteria, much less plants that can create their own food from sunlight, much less a being as amazingly complex as an earthworm, just through random happenings.  But it's time to face a fact:  we weren't all just dropped on this planet in mass, all at once, and unchanged from how we are now.

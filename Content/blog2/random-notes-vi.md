@@ -8,7 +8,7 @@ id: 257
 <center><img src="/img/bsb_cover.jpg"></center>
 
 This post is an unorganized mess of links, graphics, and junk.  Hopefully, the busy screen will distract you from the fact that I don't have anything to say.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/costello.jpg"></td></tr></table>
 
 I was browsing a co-worker's hard drive for something new and interesting to listen to.  I've never been a fan of Elvis Costello, but I checked the folder with his music anyway.  I had to take a screen shot of the directory.  Every folder here is a complete and different album.

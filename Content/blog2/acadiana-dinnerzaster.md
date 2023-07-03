@@ -8,7 +8,7 @@ id: 1629
 We started Saturday by heading to Festival International bright and early.  We got out there in time to have a beer and a sandwich before the music even started blaring from the stages, and by 1:00, Kolya was covered in the juice of red snow cone melt.  Come to think of it, I had one shoe full of red snow cone melt too.
 
 We continued with a fun day â€“ drinks, music, craft tents â€“ all that good stuff.  In the early evening, it started to drizzle, and we headed out.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table class="alignright" width="340px"><tr><td><img src="/img/festival_face.jpg" alt="benny - the link to this image is f" width="320px" /></td></tr><tr><td class="caption">Festival Face</td></tr></table>
 
 On the way out of town, I mused, â€œIf we werenâ€™t filthy, Iâ€™d say letâ€™s go down to New Iberia for that place with the soft shell crab poboys that are so good.â€�  

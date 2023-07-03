@@ -8,7 +8,7 @@ id: 360
 Here's a song lyric that jumped out at me as I listened to background music today.  It's from a blues song called "Down Homegirl," performed by Alvin Robinson.  I don't know if Alvin wrote the tune or is just singing it.  
 
 I didn't look this up, I'm just transcribing what I hear.
-<span class="spanEndPreview">&nbsp;</span>
+
 <BLOCKQUOTE>
 Lawd I swear
 The purfume you wear

@@ -8,7 +8,7 @@ id: 212
 Hopefully by now, all of you have played with the career builder <a href="http://www.careerbuilder.com/monk-e-mail/Default.aspx" target="_blank">monk-e-mail</a>.  When we discovered this at my office, it was very difficult to get work done for a couple of days, but good lord did we laugh at those monkeys.
 
 Still, I have the occasional monkey pop up in my email.  I've had monkeys claiming to be Chuck Norris, Johnny Cash, and Fat Bastard from the Austin Powers movies.  But most often, the monkey claims to be someone higher up the corporate ladder at Equifax.  And most often of all, the monkey claims to be CEO Rick Smith.  They mostly sound like <a href="http://www.careerbuilder.com/monk-e-mail/?mid=5439343" target="_blank">this one</a>, with a general pattern of "Good morning and welcome," followed by something that Rick might actually say, followed by some sort of insult or asinine comment.  I realize that I'm a child, but it keeps being funny.
-<span class="spanEndPreview">&nbsp;</span>
+
 So when Rick addressed the audience at the users' conference in Las Vegas, I had a bit of hope that he would start with "Good Morning and Welcome," and a little part of me fantasized that he might even mispronounce his company as "Eequifax," like the monkeys do.
 
 Alas, he failed to provide me fodder for any inside jokes.  His presentation was pretty normal CEO stuff:  strategy, performance, optimism, etc.  This kicked off Monday of last week, and the day turned into a blur of presentations and informal meetings with clients over and over and over.

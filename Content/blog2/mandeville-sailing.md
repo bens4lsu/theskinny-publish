@@ -10,7 +10,7 @@ Saturday and Sunday, it rained like hell.  We've had nothing but beautiful weath
 But the weekend before was the last in a long line of absolutely perfect weather.
  
 We decided to sail to Mandeville, a town that's usually four or five hours from our home dock.  It's a nice little town, with a publicly funded wall fitted with water and power that's absolutely free to the visiting sailor.  Once there, you have a playground for the kids right there, the yacht club ( = bar for mom and dad, plus another playground), and many other places to eat or drink within an easy lakefront walk.  It's certainly worth an overnight trip.
-<span class="spanEndPreview">&nbsp;</span>
+
 <iframe src="https://player.vimeo.com/video/142957004?color=b5b5ce&byline=0&portrait=0" width="650" height="366" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/142957004">Sailing into Mandeville 2015-10-17</a> from <a href="https://vimeo.com/user244752">ben schultz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <span class="caption alignleft">Sailing from Slidell to Mandeville in two minutes.</span>
 

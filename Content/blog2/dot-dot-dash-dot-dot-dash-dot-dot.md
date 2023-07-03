@@ -10,7 +10,7 @@ You know that guy in your company's project meetings who is absent-mindedly clic
 It's not really so absent minded.  He's sending a Morse code message to whoever's on the other end.
  
 "Your project manager is feeding you bullshit stop"
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview alignright" href="/img/deskstuff.jpg" data-lightview-caption="ALL of the tools of inter office communication." data-lightview-group="group1"><img src="/img/deskstuff.jpg" alt="/img/deskstuff.jpg" width="350px"><br><span class="caption alignleft">ALL of the tools of inter office communication.</span></a>
 
 There's a secret Morse code underground that clients set up so that they can get full intel on how it's going. 

@@ -12,7 +12,7 @@ I'm  just a little bit tired of hearing/reading that the SEC is down this year. 
 V goes to one of the only schools around that sends Kindergarteners home with homework.  One of the things we do each night is to work through sheets of reading words.  One night recently, he was sounding out the word "pit."
 
 "Puh - Ih - Tuh"
-<span class="spanEndPreview">&nbsp;</span>
+
 "Puh - Ih - Tuh"
 
 (a little faster) "Puh - Ih - Tuh"

@@ -6,7 +6,7 @@ tags: current-events
 id: 390
 ---
 I watched the Democratic National Convention this week with an eye toward statistics.  Here are a few tidbits for you.
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <table cellpadding="10px">
 	<tr>

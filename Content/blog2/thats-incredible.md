@@ -8,7 +8,7 @@ id: 220
 I really wish someone would run a weekend marathon of old <i>That's Incredible</i> episodes from the 1970s.  I bet that show is so over-the-top bad, that the producers are embarrassed to have been associated with it.
 
 But when I was in elementary school, <i>everyone</i> watched it every single week.  (I wonder what it's competition was.  Sure, there were just three channels, but still....)
-<span class="spanEndPreview">&nbsp;</span>
+
 For you youngsters, <i>That's Incredible</i> had a panel of people in front of a live audience, and they ran clips of things that were "incredible."  Then, the panel would come back and make comments on how "incredible" the clip had been.  There was usually a segment on something supernatural, a feel good thing -- a child with no legs who could walk on his hands, for instance -- and a healthy smattering of crap.
 
 I only remember a couple of specific segments.  In one, the ghost of a dead nurse was blamed for changing all of the clocks in a particular hospital.  I don't know why she did this, but I know is scared the bejesus out of me as a little boy.

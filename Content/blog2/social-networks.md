@@ -8,7 +8,7 @@ id: 539
 I'm not 100% sure, but I might have made fun of Mrs. theskinnyonbenny when she joined Facebook.  If I did, it was a good natured accusation of trying to hold on to fading youth, just as she did to me when I surrounded my phone with a bright green protective case.
 
 But it turned out that she enjoyed it.  She found another couple with some Russian kids who seem to be cool, and she caught up with high school people not important enough for me to have heard of in the 20 years since we first met, and she was able to follow drama amongst common friends posting snide little remarks, vaguely targeted to one another.
-<span class="spanEndPreview">&nbsp;</span>
+
 All of this made me curious, but I didn't plan to join.  I said that if luddite Crystal would join, I would join too and make her my first friend.  Crystal does her work on a 10 year old laptop missing at least half of the letter keys by now.  (I guess you can still type by hitting the nubs under the buttons.)  I didn't think I was sticking my neck out too far.
 
 Join she did, so a week or so later, I joined and sent her my first friend invite.

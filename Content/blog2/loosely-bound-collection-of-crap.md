@@ -10,7 +10,7 @@ I feel bad for little Blossom.
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/blossom-pillow.jpg"></td></tr><tr><td class="caption" width="250">Blossom is getting too big for some of her favorite spots.</td></tr></table>
 
 Last night, Lili detected some creature in one of our bushes, and did her beagle bark (BARROOOOOOOOOOO!!!) for about fifteen minutes.  I dragged her into the house, but she just went back out the door and started up again.  Blossom is her faithful sidekick, and hung out outside with the crazy beagle.
-<span class="spanEndPreview">&nbsp;</span>
+
 After my one warning trip outside, Lili got stuffed into the garage to spend the night.  Ever-loyal, Blossom went in with her to stay as well.
 
 This wouldn't make me feel bad by itself, but little do they know that tonight they will be spending the night in a kennel at the vet's office.  And the next two nights after that.  To top it off, Blossom is getting her belly opened and her reproductive system removed tomorrow night.  So really, she wouldn't have wanted to spend the night on the garage floor had she known all of that.

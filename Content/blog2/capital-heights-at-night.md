@@ -8,7 +8,7 @@ id: 1715
 Almost every night, I walk in the dark.  By August, it doesn't feel unusual to step into the lush thick air.  Even though the sun has been down for a couple of hours, the streets still release the heat that they stored during the day.  Manicured yards and neglected yards are all thick and green, albiet with different flora.
 
 For the first time, I brought my camera into this world with me.  My new one was touted to have good low-light capabilities, so I thought I would check it out.
-<span class="spanEndPreview">&nbsp;</span>
+
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="Richland Street" src="http://theskinnyonbenny.com/img/gal/104%20-%20Capital%20Heights%20at%20Night/resIMG_20130822_203916_0418.JPG"></p>
 <p class="caption">Richland Street, looking North from Claycut Rd.</p>
 

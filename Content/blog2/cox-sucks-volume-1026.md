@@ -8,7 +8,7 @@ id: 987
 About six months ago, we got a letter from Cox telling us to come to their office and pick up some new gadgets that attach to our TIVO boxes.  The letter said we would need them in order to receive new features.  I dutifully went to the office, picked up the gadgets, and attached the first one to our TV.
 
 After doing that, we didn't get many of our stations.  I called their support line, and shocker, the person had no idea what I was talking about.  She scheduled a guy to come to our house a number of days later.  He came out, said that the system wasn't ready for the new gadgets yet and that Cox shouldn't have sent the letters.  He disconnected them, we were back to normal, and he disappeared.
-<span class="spanEndPreview">&nbsp;</span>
+
 Fast forward to the present.  Many of our stations disappeared.  Mrs. theskinnyonbenny called.  Cox set up an appointment for Tuesday, between 3:00 and 5:00.
 
 At 2:00 on Tuesday, Mrs. theskinnyonbenny got a call saying that the guy was at our house.  She was told that since no one was home, she would have to call back and schedule another day.  

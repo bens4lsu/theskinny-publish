@@ -8,7 +8,7 @@ id: 262
 Haven't ordered my Christmas present yet?  Better get off your ass and start shopping!
 
 Here we present the first annual theskinnyonbenny holiday buyer's guide.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table border="1" cellpadding="5">
 
 <tr>

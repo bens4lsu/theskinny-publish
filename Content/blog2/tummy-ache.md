@@ -8,7 +8,7 @@ id: 1524
 Wouldn't any decent parent tell his sick child something like, "I would do anything for you to feel better right now?"
 
 Be careful what you say, my friends.  On the weekend before Christmas, our cute little family went for a hot chocolate, dinner, and then to City Park in New Orleans to see the lights.  
-<span class="spanEndPreview">&nbsp;</span>
+
 <table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG" alt="benny - the link to this image is fucked" width="320px" /></td></tr><tr><td caption">Drinking hot chocolate</td></tr></table>
 
 By the way, the hot chocolate that they serve in the lobby of The Roosevelt is the best I ever had.  It's so think and creamy and chocolaty.  I promise that when I win the Powerball, I'm going to have them fill a bathtub with it and then go there for a soak.

@@ -8,7 +8,7 @@ id: 1222
 On Monday, Vanya discovered his first loose tooth.
 
 He was a little worried, having heard that there might be blood involved.  I, on the other hand, felt like someone had punched me in the stomach.  This is really the worst blow to the illusion that he'll stay a little boy forever since the first day of Kindergarten, which similarly, made me want to cry.
-<span class="spanEndPreview">&nbsp;</span>
+
 We walked around the kitchen, sort of bewildered, talking about what a big kid Vanya is now.  It made him think to ask, "Well, can I have a cocktail now?"
 
 He's been somewhat intrigued by the fact that grown-ups get together, have a cocktail, and talk.  After his birthday party, I heard him ask his Granny, "Are you going to come over to our house for cocktails?"

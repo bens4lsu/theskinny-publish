@@ -10,7 +10,7 @@ id: 642
 That's the quote that an ex-husband of a mutual friend said about Crystal.  We've taken hold of that quote, and we repeat it regularly every time we have to wait for her to get ready to go somewhere.  Which is to say, we use the phrase every time theskinnyonbenny family is in the same city as Crystal's.
 
 When we were in Maine, Mrs. theskinnyonbenny tried to combat slowness by setting firm times by which we were supposed to be out of the house an on to some adventure.  She wasn't unreasonable about it â€“ we were up until 2:00 or 3:00 every night, and then we had six adults, four kids, and one bathroom.  But be it 10:00 or 10:30, the clock inevitably ticked closer and closer as Crystal relaxed in pajamas, watching the world pass by.  
-<span class="spanEndPreview">&nbsp;</span>
+
 One morning, she garnered some sympathy from me by sleeping late and then claiming, "I just want 15 minutes to savor my coffee."  I thought that sounded reasonable, until Brent gave her away.  "She doesn't even drink fucking coffee at home."
 
 The Saturday of Mrs. theskinnyonbenny's class reunion was no different.  We had planned to leave their class barbecue and take my mother-in-law's boat out on one of the local lakes.  About the time that we started rounding up kids and saying goodbyes, Crystal decided to eat a hamburger patty.  That was fine, we sat and talked and 

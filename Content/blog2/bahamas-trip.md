@@ -8,7 +8,7 @@ id: 1145
 The story of our trip has to revolve around Balls Alley. The spot where we stayed in Nassau had a road that runs from West to East, right along the coast. If you want to get from West to East, you take a parallel road a bit farther inland. Every quarter mile or so, there are roads perpendicular to the coast that let you go between the two directional streets. 
 
 Balls Alley looks like it's one of these pass through roads. But it isn't. Early in the week, Mrs. theskinnyonbenny, Brent, and I turned down Balls Alley to make the jump. but instead of going through, it got more and more narrow, and finally, it ended in a jumble of shacks and wrecked cars. 
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="350" ><img src="http://theskinnyonbenny.com/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110727_6808.JPG" width="350px"></td></tr><tr><td class="caption" width="250">Looking down Balls Alley</td></tr></table>
 
 We turned around and headed out.  Toward the start, the alley was lined with dudes, taking big fatties, trying to wave us over and take our orders. Or our lives. Could have gone either way, had we stopped. 

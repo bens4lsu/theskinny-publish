@@ -8,7 +8,7 @@ id: 285
 On Monday night, Mrs. theskinnyonbenny spotted Chuck Woolery in the <i>Dancing With the Stars</i> audience.  Confirmation that it was indeed Chuck came on the results show as they interviewed random audience members about who they thought would stay and who they thought would go.  I don't think they ever acknowledged on the broadcast that it was Chuck.  It was just a wink to us <i>Love Connection</i> fans.
 
 I got to wondering about how Chuck ended up in the audience.  Here in Baton Rouge, we have our redneck bars, college bars, yuppie bars, and bars for people who deny that they're yuppies, even though they really are.  It's not such a stretch to think that Southern California adds plastic surgeon bars, movie star bars, and TV show host bars to the mix.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/chuckwoolery.jpg"></td></tr><tr><td class="caption" width="250">Chuck Woolery -- because some of you were asking, "Who's Chuck Woolery?"</td></tr></table>
 
 I like to think that it played out something like this.  Chuck Woolery, Tom Bergeron, Ryan Seacrest, and Richard Dawson are sitting at the bar....

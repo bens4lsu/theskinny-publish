@@ -16,5 +16,5 @@ Me:  Not sure.  H wants to know.
 (later)
 
 Me:  My bad.  We're working in the garden, and she was asking "Where's the hoe?"
-</div><span class="spanEndPreview">&nbsp;</span>
+</div>
 But while I chuckled about it several times during the day, I was in fact working on the garden, and I never had a chance to go put this into play.

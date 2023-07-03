@@ -10,7 +10,7 @@ The other day, I was bicycling around the lakes near LSU.  I was coming up behin
 The normal etiquette for this is a clear warning call.  "ON YOUR LEFT!"
 
 I'm used to the person sliding casually to the right as if he intended to move out of the center all along.  Rarely does anyone glance back and acknowledge me.
-<span class="spanEndPreview">&nbsp;</span>
+
 But the woman this week leapt immediately, doing a quarter-turn as she hopped all the way off the path.  She looked back at me with wide, terrified eyes.  I expect that it's an expression common on an Israeli who had heard "INCOMING KATYUSHA!"
 
 I wanted to show her that there was nothing to fear without breaking my stride, so I gave her an extra-friendly, "Thanks!" as I passed.  At the same time, she said, "Sorrrry."

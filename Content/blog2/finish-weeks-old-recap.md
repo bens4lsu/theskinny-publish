@@ -6,7 +6,7 @@ tags: stories
 id: 592
 ---
 I never did circle back on the weekend we spent when Lisa and Josh were in town.  I posted early in their visit <a href="http://theskinnyonbenny.com/blog2/archives/560">on this post</a>, but then we headed east to go sailing and then visit New Orleans.  Before I carry on with the story, I think it's necessary to show you one of the lobsters they brought down.  I snagged some of their pictures from Josh's Facebook.  I'll throw some others <a href="/dailyphoto/">out there</a> as pictures of the day in the next week or so.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/lobster1.jpg" width="245"></td></tr><tr><td class="caption" width="250">I'm sure this is the biggest lobster ever to be carried through the Baton Rouge airport as carry on lugage.</td></tr></table>
 
 We sailed on a Friday, and it was a perfect day out there, but I went on an empty stomach, and then drank a rum, followed by red wine while we sailed.  By the time we got back to shore, I felt like shaken up crapola.

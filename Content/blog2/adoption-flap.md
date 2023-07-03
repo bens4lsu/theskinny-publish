@@ -10,7 +10,7 @@ Perhaps you've seen the news about the dumb bitch in Tennessee who put her son o
 I'm naturally a biased observer of this bit of news, but I the only reaction I can fathom is a strong desire to put a fist in her face.
 
 But I have heard observers react with sympathy for the mother.  Parents should be informed about potential problems during the adoption process.  Parents should have programs to help them deal with children that they can't handle. 
-<span class="spanEndPreview">&nbsp;</span>
+
 THEY DO!
 
 The parents that adopted know that they have it.  The home study process doesn't just screen parents to make sure they have smoke detectors and locks on the bleach cabinet.  They give you information about likelihood of different problems that children can have (which is an overwhelming list, let me assure you), and they give information about state and social programs to help parents cope.  

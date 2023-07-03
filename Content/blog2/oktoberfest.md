@@ -8,7 +8,7 @@ id: 2201
 This Saturday, the accounting firm of Mrs. theskinnyonbenny, LLC held their third annual Oktoberfest charity fundraiser.  It was a fun filled night with a really good turnout, and it just promises to get bigger and better from here.
 
 I probably have several dozen stories, but the ol' memory is sort of fuzzy due to a mixture of open kegs and some punch that Mrs. theskinnyonbenny made up that tasted like a kids juice box.  The Castaways Band was playing that night, but my favorite artist was definitely MC Hammered.
-<span class="spanEndPreview">&nbsp;</span>
+
 Allow me to share a few of the kids' photo booth creations before getting on to the point of my story:
 
 <a class="lightview centered" href="/img/oktoberfest2018_1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/oktoberfest2018_1.jpg" alt="/img/oktoberfest2018_1.jpg"  ><br><span class="caption"></span></a>

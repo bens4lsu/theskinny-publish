@@ -8,7 +8,7 @@ id: 1060
 One recent Saturday, I went to the meat counter at Whole Foods to get a particular cut of tenderloin.  It's my favorite cut of meat, and judging by the cost, it's the favorite of other people as well.
 
 The man helping me had to go break out a giant beef loin, trim away the fat, and cut out the center for me.  While all this was going on, I had to wait.  I looked at the chickens, counted the variety of sausages, and stared at my feet.  Then, I noticed sausage samples sitting on the counter under a lamp.
-<span class="spanEndPreview">&nbsp;</span>
+
 I grabbed the meat spear.  It was some cross between a toothpick and a fork.  I guess I would describe it as a fork with only one prong.  I stabbed a slice of greasy sausage and sucked it off the spear.  Then, I did the quick glance around to make sure no one was watching me, and I speared another piece.
 
 I looked to the floor for a place to throw away my meat spear.  Nothing there.  My eyes went back to the counter, and I noticed that there were two cups.  The one labeled "Trash" was full of meat spears.  The other one was empty.

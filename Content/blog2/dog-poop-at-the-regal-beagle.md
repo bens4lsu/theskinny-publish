@@ -6,7 +6,7 @@ tags: stories
 id: 266
 ---
 It's been a few weeks now, but one night we were sitting outside at the Regal Beagle, enjoying a cool fall night, and having a few drinks.  Because I love to play with fire, it takes only a slightly cold or damp period to get me to light one up, so we were enjoying the warmth between face fulls of smoke.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/poop1.jpg"></td></tr><tr><td class="caption" width="250">Dog poop, collected along with a couple of leaves.</td></tr></table>
 
 Perhaps the biggest drawback of my back yard is that there aren't any open grassy areas for dogs to use as a toilet.  It necessitates an almost constant effort to pick up dog poop and hose down the spots where the poop was soft.  Especially because I usually go out there barefoot.

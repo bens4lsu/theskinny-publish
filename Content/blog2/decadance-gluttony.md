@@ -8,7 +8,7 @@ id: 223
 Last Friday evening, I dropped Mrs. theskinnyonbenny off at the airport.  A quick "be careful, love you, yada yada," and I peeled out of the airport loading lane, free for a day and a half to myself.
 
 I stopped at a tobacco store, bought three really nice cigars (which I got for a very reasonable price, plus got a fourth cigar for free).  I ducked into the convenience store next door and added a six-pack of beer to my purchases.  Then, I headed for the back yard.  
-<span class="spanEndPreview">&nbsp;</span>
+
 I opened a cold beer, put on some tunes, and took off the majority of my clothes.  I sat back there for a couple of hours smoking, drinking, and reading a book, all by myself.  It was awesome.
 
 While the rest of this experience is pretty much standard fare for me, I don't normally treat myself to a good cigar.  In fact, I don't really smoke them more than a couple times a year.  I found myself wondering how the smoke can stink to high heaven on the lit in, but have such a nice taste (kind of nutty) on the mouth in.  It's the same smoke from the same tobacco.  Is there some interaction with the saliva that changes it from foul to pleasant?

@@ -10,7 +10,7 @@ Bath time hasn't been the same lately.
 I rather enjoy turning on some good music, finding a Sports Illustrated, and running a big, hot bubble bath.  Or I should say I did enjoy that, because it's ruined.
 
 It all started back in October.  V gets excited for Halloween, and he gets excited for decorations, so he and Mrs. theskinnyonbenny spent some time decorating the house one Saturday.  There really wasn't too much -- some smelly rubber skeletons in the den, a couple of pumpkins, and a scary face hanging on the door where the Christmas wreath would go in more traditional decoration seasons.
-<span class="spanEndPreview">&nbsp;</span>
+
 It was the scary face that caused the trouble.  Although the main part of the face was only the size of a large Christmas wreath, it had some black yarn that hung down like a beard.
 
 It just so happened that a few of the stands hung down far enough that they covered the mail slot, which is about belly-button high in the center of our front door.  It wasn't a lot.  One finger could push them out of the way.

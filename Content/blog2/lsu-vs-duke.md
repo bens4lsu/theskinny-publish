@@ -8,7 +8,7 @@ id: 198
 I'm sure that there's an age when a man's body and mind go through a change, and that change causes the first thought in the morning to be about the need to urinate, rather than "I'm horny."  I don't know when that happens, but I'll let you know when I get there.
 
 I mention this, because I had an unusual first thought this morning.  "What a basketball game."  In case you missed it, or if you're looking back at this post from years in the future, last night LSU's basketball team beat top seeded Duke to move on to the Elite Eight.
-<span class="spanEndPreview">&nbsp;</span>
+
 I don't think I complained here about Tennessee getting a 2 seed in the tournament.  LSU won the conference outright, and we beat them outright during the regular season.  Also, LSU went to the semifinals of the conference tournament.  I don't remember when Tennessee got eliminated, but it was much earlier.  ESPN was with Tennessee during the days before the selection, and the coach and team talked about hoping for a 4 seed over a five.  How they got a 2 is anyone's guess, but it was good to see them lose to Wichita State in the second round.
 
 LSU looked like an extremely good team last night.  Duke Senior J. J. Redick might have been removed from the "player of the year" debate, as he was held to 2-11 shooting from the field by LSU freshman Garrett Temple.  Freshman Tyrus Thomas as credited with 13 rebounds and 5 blocks, but his shot blocking threat kept all of Duke's shots tentative while he was in the game.

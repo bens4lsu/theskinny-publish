@@ -8,7 +8,7 @@ id: 334
 It's a little known fact that I count every time that I hear any song.  Any song ever.  For example, do you know that theme from <i>The Nutcracker</i>, whose name I don't know, but which is used in one out of three commercials between now and January 1?  Well, I've heard that 5917 times in my life.  This year, it will probably break into the top five.
 
 As it currently stands, the top five looks like this:  
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <table border="1">
 <tr>

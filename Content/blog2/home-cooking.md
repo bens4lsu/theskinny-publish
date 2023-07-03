@@ -10,7 +10,7 @@ Probably the funniest thing about my mom is how she pronounces "potato."  She ch
 "What are we having for dinner tonight?"
 
 "Hamburger patties and baked buhTAtuhs."
-<span class="spanEndPreview">&nbsp;</span>
+
 "BuhTAtuhs?  What on earth is a buhTAtuh?"
 
 Silence.  It's tough to rope mom in.

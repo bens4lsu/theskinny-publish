@@ -18,7 +18,7 @@ He's not the kid in blue next to the teacher.
 Look again.
 
 Okay, go ahead and scroll down.
-<span class="spanEndPreview">&nbsp;</span>
+
 <div style="text-align:center; padding-top:400px;">
 <img src="/img/vanyaclass2.jpg">
 

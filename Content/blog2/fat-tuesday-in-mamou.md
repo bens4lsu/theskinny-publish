@@ -11,7 +11,7 @@ You know what's even more lame than a post about Mardi Gras more than two weeks 
 (It's a very good story.  I can't believe I haven't posted it yet.)
 
 At any rate, I have to tell you about the much different experience we had on Fat Tuesday this year, and it's been tough to write about.  I don't even know where to begin.
-<span class="spanEndPreview">&nbsp;</span>
+
 theskinnyonbenny family kind of invited ourselves to follow the Chandlers to the small town of Mamou.  The Chandlers live in Minnesota, but the old man of the clan -- one JC of a famous "now we're going to run around the Chi-O house with no pants!" incident when he was between college girlfriends -- is from the area, and he knew that the Mamou Mardi Gras was an experience for his family not to miss.
 
 It's something we've always talked about doing too, so finding someone who knew where to go and what to do seemed good.  Having boys around Vanya's age made it an even better idea.  The small Cajun towns have their own Mardi Gras tradition, and if you haven't been there, you haven't seen it.  If you're interested, <a href="http://en.wikipedia.org/wiki/Courir_de_Mardi_Gras" target="_blank">the Wikipedia article</a> has as much information about it as I would be able to give, without being too detailed, as Wiki articles can be sometimes.

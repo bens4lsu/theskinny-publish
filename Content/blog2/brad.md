@@ -10,7 +10,7 @@ This is Brad.
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="**************" src="/img/brad.jpg"/></p>
 
 Vanya is only recently interested in naming toys that don't already have names (e.g. Woody, Iron Man, etc.).  I'm sure this weird lizard guy would still be an unnamed bad guy if not for his coincidental attendance when we were doing homework one night.
-<span class="spanEndPreview">&nbsp;</span>
+
 The question was this:  Paul has eight balls.  Brad takes three of them away.  How many are left?
 
 We had a picture on the paper of a kid with some balls.  We put eight pennies by the kid, who we naturally called Paul.  V didn't like just sliding the pennies off the page and into no-man's land, so I moved them over to Lizard Man.

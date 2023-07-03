@@ -10,7 +10,7 @@ Of late, I've been crippled with fear of posting to my blog.  The topic that cam
 So I watched every game without a stitch of underwear on.  I went all season without washing my hat. (Note to self:  don't buy any more white hats.)  And I didn't praise our team in writing.
 
 Of course, what was to be the best season in my lifetime, possibly the best season in school history disappeared.  
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/hat2011.jpg"></td></tr><tr><td class="caption" width="250">This season's lucky hat, as it looks today.  I bought this late this summer.</td></tr></table>
 
 My thought the next day was that every fan would have to identify what was different in his or her life on the day of the championship game as compared to the rest of the season.  One of the first things that occurred to me was that my friend Jeremy would have to have his new marriage annulled.  Wow, I'm sure that will be very disappointing to them both.

@@ -6,7 +6,7 @@ tags: sports
 id: 269
 ---
 I started several posts this week, but never had the time to go back and look over what I read, fix the really dumb mistakes, and get them posted.  There were a lot of sports-related topics on my mind this week, so I've combined a few different false-starts into a single weekly sports post for today.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/greenline.gif"></center>
 
 The king of all sports is over for the year.  Sigh.  I've got nothing to say about Florida's pasting of Ohio State.  It always feels weird during the bowl games to pull for the conference rivals that I hope to see beaten and/or seriously injured during the regular season, but I'm glad to see the national championship back in the SEC where it belongs.

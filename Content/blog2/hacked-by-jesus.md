@@ -8,7 +8,7 @@ id: 1468
 Did you see the <a href="http://www.motherjones.com/mojo/2012/10/mitt-romney-fraudulent-facebook-likes">nuts who thought their Facebook page had been hacked by Mittens</a>?  When Mother Jones debunks your left-wing conspiracy, you're out there, my friends.
 
 (I do have to say that this makes me feel better about all of my facebook frinds with Romney likes.  For some reason, it makes me happier to think that my friends are so stupid that they don't understand the Like button rather than that they are so stupid or so rich that they like Mittens.)
-<span class="spanEndPreview">&nbsp;</span>
+
 An even more unlikely Facebook hacker reared his ugly, well, face in my feed recently.
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="hacked by jesus" src="/img/hackedbyjesus.jpg" /></p>
 

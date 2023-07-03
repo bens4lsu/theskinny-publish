@@ -8,7 +8,7 @@ id: 282
 One day recently at work, Tyler went to the restroom and found that someone had printed out articles from the Sports Illustrated web site, read them on the can, and left them in there.  That has nothing to do with the long and eventful week that I'm about to share, but this is a rather long post.  So those of you at work might want to go ahead and print this one out.  Save it for "private concentration time."  And if you do that, please shoot me a quick email to let me know.  I would be so proud.  And one more thing -- be sure to leave it for the next guy.
 
 Let's start with my friend Shelly in New Jersey.  I need to reach out to her other friends and see if an intervention of some sort is necessary, because it's obvious to me that either the boredom of school and work or the enduring northern winter is taking its toll.  I fear that she's going to lose it all in the not-too-distant future.
-<span class="spanEndPreview">&nbsp;</span>
+
 There are strong signs of boredom.  Exhibit #1 -- the email links I get to oddball news every day.  Here's a sampling of her comments, along with the links.  To be honest, her comments give you all the good stuff, and I find that it's often not worth following the links.
 
 <blockquote>Mom taught her 2 kids to fake retardation

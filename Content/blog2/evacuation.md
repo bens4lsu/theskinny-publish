@@ -10,7 +10,7 @@ I don't know if you have talked to anyone in Baton Rouge, so I'll give you a qui
 Pretty bad.
 
 The storm blew through all of the daylight hours Monday, with wind up to 95 mph.  There's been much debate about whether it was worse in Baton Rouge than Andrew or Rita (which the consensus holds as the worst so far), and I'm going to go with Gustav over those.  In fairness, I was passed out drunk through the meat of Andrew (it was in college), but if it were all that serious, something would have woken me up.
-<span class="spanEndPreview">&nbsp;</span>
+
 On Tuesday, there wasn't a spot in the city that had electricity, and many of the lines and poles were taken down by trees.  In the part of town where I live, it was hard to find your way through because trees blocked every road.  I only heard of a couple of freak deaths, and I didn't see any homes destroyed, but nothing is open yet where people could get food or ice or anything like that.  
 
 We were planning to leave town on Wednesday anyway, so we just packed up and headed out a day early.  I'm comfortable at a hotel on the beach in Florida, with a million other Louisiana residents.  Everywhere I turn, there's someone like me wearing LSU gear, walking their dogs.  When I walked my two idots this morning, I checked the plates in the lot.  I looked at about 40 plates, and only one was not Louisiana.  So we're all here for the same reason.

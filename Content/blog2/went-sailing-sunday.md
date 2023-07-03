@@ -8,7 +8,7 @@ id: 1897
 Tigers beat a conference team in a game that many expected them to lose.  Saints win an important game that many expected them to lose.  On Saturday, I had drinks with good friends and laughed my ass off all night.
 
 On Sunday, we had a beautiful, beautiful sail along the South Shore of Lake Pontchartrain, with fly-by's from vintage World War II bombers and fighters.  Of all days to not bring my good camera.  This is the best I could do with my iphone, and I only got shots of one of the planes that continued to fly overhead.
-<span class="spanEndPreview">&nbsp;</span>
+
 There was also a regatta out there, so we had 30 or more colorful sails at various points along the horizon in front of us.
 
 At the end of the sail, I managed to back into my slip, with a pretty mean cross-current without any major embarrassment.

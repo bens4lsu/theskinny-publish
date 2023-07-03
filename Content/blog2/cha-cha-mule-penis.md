@@ -8,7 +8,7 @@ id: 459
 Today, I read about this service called Cha Cha.  You text message a question to 242242 (there's also a phone number you can call), and reportedly, a human looks up the answer and gets back to you.  It's all free, so I decided to test it out.
 
 Now when you read this exchange, you have to picture a couple minutes of delay between when I send the question and get a response back.  It will be much funnier if you have the discipline to read the question, wait about a minute, and then read the answer, although I'm sure no one will actually do that.  I've stripped out the advertising junk that is on the tail of each message back from them.  The first ones came back quickly, and I wondered if it was a human or a fancy algorithm.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/textmessages/t1.jpg" /></center>
 
 Well yeah, but the othe ones would be mad that they weren't listed.  I wonder if it somehow knows where I am, because that is the closest one to where I'm sitting.

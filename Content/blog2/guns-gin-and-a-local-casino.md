@@ -10,7 +10,7 @@ Earlier this week, I saw a guy at the gym who had an interesting tattoo on his b
 <table cellpadding="2" align="center" width="100%"><tr><td width="100%" ><img src="/img/guns.jpg"></td></tr></table>
 
 Do I really need to make fun of this?  I think it just stands as funny on its own.  I will, however, let you know when this guy kicks my ass for making fun of him on the internet.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/greenline.gif"></center>
 
 Last Friday night, at around 11:00, we were sitting outside in the back yard having drinks and shooting the shit.  We had cooked some fish a number of hours earlier (which were delicious, by the way) and were several drinks into the night. 

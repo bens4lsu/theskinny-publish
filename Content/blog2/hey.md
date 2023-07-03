@@ -13,7 +13,7 @@ Before I reacted, he continued.
 
 "WHO MESSED WITH MY PANKAKES?"
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 "You were dreaming little dude.  There are no pancakes."
 

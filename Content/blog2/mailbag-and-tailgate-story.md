@@ -18,7 +18,7 @@ now my turn:  tell me how she  differs from George.
 
 something? - anything?
 
-ss</blockquote><span class="spanEndPreview">&nbsp;</span>
+ss</blockquote>
 
 &nbsp;
 

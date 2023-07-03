@@ -8,7 +8,7 @@ id: 379
 I almost never post an entry about the music I'm listening to, even though I love music and listen to it just about all day long every single day.  The problem I have with people's blogs that go to music is that they end up coming across like, "Look how cool I am to be into this music that you've never heard of yet."  Who would want to read that?
 
 It's true that two of my top five inventions ever are music related -- the mp3/mp3 player (I consider that one invention), and satellite radio.  In case you're wondering, my top five is rounded out by the DVR, air conditioning, and the wheel.
-<span class="spanEndPreview">&nbsp;</span>
+
 One night while I was walking the dogs, I decided that I was going to add a music podcast to my site.  I figured out the songs that I was going to feature in the first episode.  I planned to regulary feature a cover that was better than the original, and find a nominee for "worst song of all time hall of fame" each time.  It would have been good, I assure you.
 
 But then I started looking into copyrights and distribution laws, and it's a mess.  Even if I was going to limit what I play to a 30-second snippit, and even if I was going to be talking over 10 seconds of that, it was completely disallowed.  Buying rights wasn't feasible, and fines for just doing it anyway are more than I'm willing to gamble.

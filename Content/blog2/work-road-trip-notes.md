@@ -10,7 +10,7 @@ I'm posting this from a short work trip to North Carolina.  I flew into Raleigh 
 While we were walking out of the Raleigh airport, she's moving along at a good clip, toting what appears to be seventy-five pounds of luggage.  We got to an intersection, and she asked, "You guys want to take a short cut out of here?"
 
 "But Ann, that says for wheelchairs only."
-<span class="spanEndPreview">&nbsp;</span>
+
 She slowed her pace, lost her good posture, and some sudden bit of magic made her out of breath as she approached the guard -- the man whose only job is to sit at that door and make sure no one who is not wheelchair bound gets to take the shortcut.
 
 "Excuse me sir (gasp).  Are (huff) the escalators down there (huff) working?"

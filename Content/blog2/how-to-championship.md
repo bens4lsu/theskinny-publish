@@ -12,7 +12,7 @@ I've seen the LSU Tigers play for 3 Natties* now, and I've done everything wrong
 *(I hear some of you saying that LSU played for a title after the 2011 season too.  I remember the SEC title game that year, but I don't believe they played again after that.)
 
 After the 2003 season, a friend of ours went out and bought a brand-new huge-ass TV.  Unfortunately, he didn't bother to upgrade his cable plan to include the HD channels, and I didn't think that anyone was still watching low-def football.  So I only got to see a giant blurry representation of the game.  That's lesson number one.  Make sure you know where you're watching.
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview centered" href="/img/championship-night-early.jpg" data-lightview-caption="Ready for the game to start on Monday night." data-lightview-group="group1"><img src="/img/championship-night-early.jpg" alt="/img/championship-night-early.jpg"  ><br><span class="caption">Ready for the game to start on Monday night.</span></a>
 For the championship after the 2007 season, we went down to New Orleans to be in the mix.  Not to go to the game -- just to be near the game.  V was just a tiny little toddler, and we navigated the French Quarter with him on my shoulders.  
 

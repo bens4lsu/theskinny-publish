@@ -8,7 +8,7 @@ id: 248
 The city of Baton Rouge recently issued us big garbage bins.  The prospect of not owning our garbage cans for the first time in our lives caused a brief excitement among my fellow residents.  
 
 <table cellpadding="2" align="left"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/recyclebin.jpg"></td></tr><tr><td class="caption" width="250">Baton Rouge's new recycle bins</td></tr></table>
-<span class="spanEndPreview">&nbsp;</span>
+
 For some reason, Mrs. theskinnyonbenny and I are able to generate a hell of a lot of trash for two adults.  It's nice to have one big bin on wheels to take out on Monday nights rather than having to haul out a can, followed by several bags.  I can't imagine that there are any residents -- short of those involved in large DIY projects at the house -- who can actually come close to filling these things twice a week.  But I guess that's how the city saves money.  On any given pickup, there are probably half as many houses with trash out front.
 
 The main garbage trucks  of the truck.  So they're saving on garbage man-labor as well.

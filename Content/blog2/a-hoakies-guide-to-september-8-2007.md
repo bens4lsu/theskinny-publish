@@ -8,7 +8,7 @@ id: 316
 I believe that it's still the plan that we'll be graced with some visiting Hokies for the football season's first tailgate. They may read experts' opinions of what to expect on the field any number of places. I thought they might need to read about what to expect in the hours leading up to the game. The rest of this post is directed to them.
 
 First, you should understand the setting that you enter. I will have shown up at around 5:00 or 6:00 in the morning. It will be dark, and it will look like an abandoned street fair or refugee city -- all tents and no people. I'll unload cooking stuff, bloody marys, alcohol, ice chests, tables, chairs, radio, television, etc. and start spreading it around.
-<span class="spanEndPreview">&nbsp;</span>
+
 Once that's done, I might walk around and see what else is going on. There will be others like me. There will be a handful of people in tents, and there will be at least one group of loud drunk people who have been partying all night.
 
 Before daylight, the group of joggers will pass, and I'll give them some sort of jeer and suggest that they would be better off eating donuts with me. By then, at least one other person probably will have shown up. We will have read the pregame breakdown in the sports page, and be ready for the day to really get started.

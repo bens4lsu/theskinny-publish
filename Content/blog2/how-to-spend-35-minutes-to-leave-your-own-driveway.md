@@ -6,7 +6,7 @@ tags: stories
 id: 373
 ---
 We were away from home all of this past weekend, and when we returned, the refrigerator and freezer were hotter than a June bride in a featherbed (phrase courtesy of <a href="http://www.rootsweb.ancestry.com/~genepool/amerispeak/weather.htm" target="_blank">this collection of old geezer expressions</a>).  So I spent a couple of hours Sunday evening throwing out spoiled food, eyeballing the "sort of cool" items for mold, and wiping up the red juice that flows out of warm ground beef, followed by hauling the refrigerator to the curb.
-<span class="spanEndPreview">&nbsp;</span>
+
 Monday morning, I walked out the front door at about 7:45.  My driveway was completely blocked by a pickup truck parked across its width, while its driver struggled to shove the broken refrigerator up into its bed.  I walked up, offering a hand with the thought that it would get me out of there a couple minutes sooner.  
 
 The guy introduced himself with a statement of the obvious.  "I'm just an old black man, having trouble getting this up in there."

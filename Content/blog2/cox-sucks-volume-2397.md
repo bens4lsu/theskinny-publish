@@ -8,7 +8,7 @@ id: 1180
 <a href="http://twitter.com/#!/matthewbaldwin/status/163002249084276736" target="_blank" style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="/img/matthewbaldwintweet.jpg" alt="image of the tweet"></a>
 
 I start with this tweet from my feed for two reasons.  First, it's spot-on.  Second, it relates to the story that unfolds herein.  Although, come to think of it, if you've read the title of this post, and the tweet, you can pretty much fill in the rest of it all by yourself.
-<span class="spanEndPreview">&nbsp;</span>
+
 Some time this winter, I noticed that a good number of our cable channels weren't coming in on the upstairs TV.  I didn't know this at the time, but Mrs. theskinnyonbenny had called Cox about two channels not coming in on the other TVs downstairs.  For that, it turned out that they sent a technician out to troubleshoot, just to come back and tell us that for boxes with <a href="http://theskinnyonbenny.com/blog2/archives/987">tuning adapters</a>, those channels weren't online yet.
 
 But while he was in the house, I had him come up and look at the upstairs TV.  He called the mother ship, tried pairing an re-pairing the cable cards, claimed that those were defective, and that he had no spares, and that he would have to schedule another trip.  I had mentioned that the missing channels seemed to be the ones that we didn't get when we didn't have a connected tuning adapter, but he made no note of my comment.

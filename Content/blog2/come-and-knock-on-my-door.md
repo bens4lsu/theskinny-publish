@@ -8,7 +8,7 @@ id: 222
 I got to thinking about <em>Three's Company</em> today.  And I've decided that a big part of why it's no big deal for people of my generation to have opposite-sex roommates is that our parents spent so much time in 1979 defending Jack's right to cohabitate with Janet and Chrissy.  I know this sounds ludicrous, but I remember that it really was a controversy when that show was a prime-time series.
 
 My parents would have been of that age where they are about 10 years older than our fictional Southern California friends.  I now know that people in their 30s want to think that they are as young and hip as the attractive people in their 20s that they see on the television every week.  I bet a good many of those people had drawn-out debates with their own parents about the morality of this silly little sitcom.
-<span class="spanEndPreview">&nbsp;</span>
+
 Fast forward 20 years, and their own kids want to live the lifestyle that the parents convinced themselves was moral way back when.  <em>Three's Company</em> changed how they perceived "living in sin."
 
 (That sounds preachy, but unintentionally.  In fact, I strongly recommend a childless live-together period for all young couples before getting married.)

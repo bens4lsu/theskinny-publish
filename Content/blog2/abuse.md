@@ -10,7 +10,7 @@ There's no one of my age -- at least no one whose family hails from the rural So
 I always dismissed this as old person hyperbole.  In my mind it belongs with, "I walked fourteen miles to school barefoot every day, and it was uphill in both directions."
 
 I'm not really all that surprised to find out this week that there are terrible parents who break off a switch and beat their kids with it.  A <em>four year old</em>?  What the fuck?
-<span class="spanEndPreview">&nbsp;</span>
+
 And then, there's some debate as to whether this actually constitutes abuse.  And that's where there's an interesting question.  Make no mistake -- a toddler beaten until his legs and nutsack bled is an abused toddler.  But it's fair to expect that for a variety of reasonable people, the punishment/abuse line can fall somewhere different.
 
 When V was two, he was enrolled in a good elementary school's Pre-K3 program.  Pre-K before Pre-K.  The class had a discipline system where the kid came back every day having been a green fish (the apple polishers), yellow fish (moderately annoying brats), or a red fish (they were bad).  V was usually a yellow fish, and often a red fish.

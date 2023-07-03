@@ -10,7 +10,7 @@ One time back in February or March, I pulled the vacuum cleaner out of the close
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/plug.jpg"></td></tr><tr><td class="caption" width="250">Vacuum cleaner plug</td></tr></table>
 
 I knew, of course, that the prongs were bent from pulling the plug out of the wall by the cord, rather than by the plug itself.  I knew it to be the work of the cleaning lady, and I snapped this picture thinking that I would write a post about it.
-<span class="spanEndPreview">&nbsp;</span>
+
 My thought was that the bulk of the post would be about this time as a teenager on the job, I grabbed a cord of something or other, and pulled to take the plug out of the wall.  My boss (and parents' good friend) Karl Hartman went moderately ape shit, getting all red in the face and lecturing for a number of minutes about how you can ruin a cord altogether, and how it increases your risk of electrocution or fire.
 
 But that's the sum of everything I had to say on the topic, so my post went no further.

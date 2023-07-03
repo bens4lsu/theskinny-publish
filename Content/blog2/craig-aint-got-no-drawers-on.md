@@ -6,7 +6,7 @@ tags: the-office,travel
 id: 209
 ---
 The best office/work related party that I've ever been to -- and one of the 10-15 best parties of any kind that I've been to -- was an APPRO Users' Conference party at the House of Blues in New Orleans.  This was probably somewhere around 6-8 years ago, but I think anyone who was there will confirm that it was a mighty powerful throwdown.
-<span class="spanEndPreview">&nbsp;</span>
+
 We come back from the conference every year with stories about co-workers.  There's no way I'm going to start writing them down, but you might be surprised to know that I usually have the sense at these things to not be among the very drunkest ones around.  There's only so much room in people's memories for stories, and you can get pretty wild and still not make the cut.  That's my strategy.
 
 Before someone throws this into the comments, I'll confess that I showed my wiener on Bourbon Street for $20 bucks one time.  But I have a small  wiener, and I'm not exaggerating to say that absolutely no one noticed at all.

@@ -8,7 +8,7 @@ id: 1914
 For a number of weeks, three-year-old Kolya has insisted that Anna from <i>Frozen</i> has a line in a song where she sings, "Pain in the Ass."  I found that to be a highly dubious claim, and when I caught him watching it after work yesterday, I asked him to give me a call when the "Pain in the Ass" part comes on.
 
 Alas, I had missed it.
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview alignright" href="/img/Frozen-Anna-Hans.jpg" data-lightview-caption=""PITA" occurs somewhere near this." data-lightview-group="group1"><img src="/img/Frozen-Anna-Hans.jpg" alt="/img/Frozen-Anna-Hans.jpg" width="350px"><br><span class="caption alignleft">"PITA" occurs somewhere near this.</span></a>
 After the movie, he let me rewind to where he thought it was.  He took me to the Anna and Prince Hans number toward the beginning of the move.
 

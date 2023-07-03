@@ -8,7 +8,7 @@ id: 301
 "For God's sake, get rid of the plug!"  That was pretty much the first thing that a friend of mine said when I picked up the ringing phone yesterday evening.
 
 Of course, I haven't put up a new post in a long time.  And that picture of the plug takes up more than its share of real estate on the excerpt that automatically gets written to the home page.  And I've been home for a week.  And I'm not working again.  So what's been up?
-<span class="spanEndPreview">&nbsp;</span>
+
 I'd love to blame it entirely on new parenting duties.  And there has been a heck of a lot of visiting, doctors, food and pacifier shopping, and working on our vocabulary (mostly a sound like AAAHH!, a sentance that goes like baa-baa-baa-baa-baa-baa, a cheerful singsong GOI GOI GOI, and crying), and learning how to walk.
 
 But in truth, there are a lot more boring things that are taking time.  Dog damage to my sprinkler system.  Failed plants in window boxes.  A complete lack of unspoiled food when we returned.  

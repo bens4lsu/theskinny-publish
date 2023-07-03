@@ -10,7 +10,7 @@ During an early inning on Friday's LSU baseball game, they went to the standard 
 The kid in question was (I think) a little girl, somewhere from 3 to 5 years old, dressed in LSU gear, and wearing gloves.
 
 She and Vanya really should start a club.
-<span class="spanEndPreview">&nbsp;</span>
+
 I'll be watching tonight's championship game from the spot where I watched Warren Morris's home run in 1996.  Unfortunately, I was content to sit on the floor 10 years ago, and I would much rather watch from the furniture.  Especially since the furniture just made its way back into the house yesterday.  I've been living without, even sleeping one and a half nights on the cold hard floor.
 
 But anyway, I'm quite nervous, and I dreamed about the game last night, which is usually a good thing for the Tigers.  We always win in my dreams, but it's always close.  Several years ago, I dreamed an LSU-Florida football game, and the final score in my dream would have been right on the money had LSU made a gimme field goal that was missed toward the end of the game.  

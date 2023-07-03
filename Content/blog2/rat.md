@@ -8,7 +8,7 @@ id: 1890
 A few weeks ago, I was about to head out the back door to put a couple of pork shoulders on the barbecue.  Just as I was on my way out, Paul showed up and grabbed the door.  I was home by myself, so I welcomed the excuse to ditch the kitchen cleanup and to sit out, smell the meat, and run our mouths.
 
 First, I had to get the fire lit.  I put the meat down and poured the charcoal.  Then, I thought that I needed a water pan under the meat.  The left side of the grill is an upright cold smoker, with a cabinet door that opens like a refrigerator.  I popped it open, and as I was turning a way, a small rat poked his head out, like "Hello!"
-<span class="spanEndPreview">&nbsp;</span>
+
 Paul's girlie little scream caused me to do the same, and I slammed the door shut quickly.
 
 I calmed my nerves and worked up some courage, then I opened the door again, and sprinted toward the house at approximately two hundred miles per hour.

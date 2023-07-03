@@ -8,7 +8,7 @@ id: 436
 <table cellspacing><tr><td>Mrs. theskinnyonbenny observed that of all the words spoken in our house, 90% of them are from Vanya's mouth.  And it's funny because it's true.
 
 Somehow, fate dealt my endlessly garrulous sister a quiet, calm little kid, and dealt my comparatively quiet family one who won't stop running his mouth.  A couple of days ago, I was outside his room when he woke up in the morning, and rather than getting out of bed or yelling for one of us, he started his chatter.  I caught some names of people, the phrase "go play trains" and a bunch of stuff that I don't remember.</td></tr></table>
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding= "10" cellspacing="0"><tr><td rowspan="8" valign="top" cellpadding="0">This carries right on through the day, and keeps going once he's put to bed at night.  I went upstairs to get my keys after he had been in bed for a half hour.  My arrival at the top of the stairs coincided with a triumphant, "I DID IT!" from his room.  Presumably, he had completed the puzzle that he insisted on taking to bed.
 
 The holiday weekends were fun this year.  On Christmas Eve, I smoked a turkey, a duck, a seperate turkey breast, two extra turkey legs, a bunch of andouillie sausage, and three large pork tenderloins.  I also made a pumpkin pie, some pumpkin bread, and the cornbread for dressing.  I also made a big pot of seafood gumbo.  All of this was done by 2:00 that afternoon.

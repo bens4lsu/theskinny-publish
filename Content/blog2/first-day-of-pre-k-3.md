@@ -9,7 +9,7 @@ Before I start my story, let me say to all of my Facebook friends that I've real
 
 Today was the first day of pre-K for the three-year-olds. I didn't expect any drama, until yesterday, K started asking questions that reveal some anxiety.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <a class="lightview alignright" href="/img/resIMG_20140811_071520_2984.JPG" data-lightview-caption="My happy boy during breakfast." data-lightview-group="group1"><img src="/img/resIMG_20140811_071520_2984.JPG" alt="/img/resIMG_20140811_071520_2984.JPG" width="350px"><br><span class="caption alignleft">My happy boy during breakfast.</span></a>
 

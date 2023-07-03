@@ -10,7 +10,7 @@ The Saturday after Thanksgiving, we went to get our Christmas tree.  The specifi
 <ul><li>We wanted to cut it down ourselves.</li>
 <li>The one we've gone to for years closed a couple of seasons ago.</li>
 <li>The (not really very) close Christmas tree farm that's left is staffed by a big monster bitch of a woman, so we didn't want to go there.</li></ul>
-<span class="spanEndPreview">&nbsp;</span>
+
 That left us on an odyssey where we drove 100 miles through Louisiana back highways just to get there.  20 minutes of picking and sawing, and we were ready for the 100 mile journey home.
 
 Then, this:

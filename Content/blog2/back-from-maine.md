@@ -11,7 +11,7 @@ We stayed with Josh and Lisa in a cabin that they own, along with Crystal, Brent
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/MainePic1.jpg"></td></tr><tr><td class="caption" width="250">Our group, inexplicably excluding the womenfolk.</td></tr></table>
 
-<span class="spanEndPreview">&nbsp;</span>
+
 Every day, we played with the kids on some body of water, then went back and fixed a great meal.  After the kids went to bed, we stayed outside in the cool air drinking and laughing at all of the stories that we've already heard a million times.  We were rarely to bed before 2:00.
 
 It was a great trip.

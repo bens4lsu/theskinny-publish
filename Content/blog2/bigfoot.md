@@ -8,7 +8,7 @@ id: 206
 There was about a year-long stretch when I was in elementary school where I was quite enthusiastic about reading up on UFOs, the Loch Ness monster, ghosts and spirits, and other unexplained mysteries.  My school library had a series of books on these topics, and I went through them one after another.
 
 By far, my favorite topic was Bigfoot.  I went on to read other books that I could find.  Of course, this was before Al Gore invented the Internet, so library books were about my only option.  I knew about all of the highly-publicized sightings, and I had seen pictures of that grainy video that the Bigfoot nuts still site to this day.
-<span class="spanEndPreview">&nbsp;</span>
+
 It was several years ago that a co-worker of mine clued me in to the fact that the (mainly UFO) cooks had their own radio public forum, and that it was broadcast all over the country, if only you have the tolerance for sleep deprivation to get up and listen to them.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/bigfoot.jpg"/></td></tr><tr><td class="caption" width="250">Bigfoot, from the famous Patterson Video</td></tr></table>

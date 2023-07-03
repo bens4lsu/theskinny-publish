@@ -8,7 +8,7 @@ id: 244
 I have anger issues this morning.  I don't have any good reason to be annoyed, but the messages in my Inbox at work are getting on my last nerve.  Reading documents with crap like this are part of my problem:
 
 <blockquote>{vendor name} has classified applications as "A", or non "A" document, "A" being the document that includes the set of mandatory components as defined in the following Document Integrity Requirements Section.</blockquote>
-<span class="spanEndPreview">&nbsp;</span>
+
 And I don't have anything to amuse me either.  No picture of my beagle humping one of the cats or anything else.  So I page through other email looking for anything other than people asking me to do more for them.
 
 Here's one from Shelly.  Subject line:  Hey Fucker.

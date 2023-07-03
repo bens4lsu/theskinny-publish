@@ -6,7 +6,7 @@ tags: current-events
 id: 356
 ---
 Just try fitting current events, breasts, and some recognizable meaning into a paltry 17 syllables.  Try, I dare you.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center>
 Vote for the brother,
 the geriatric old man,

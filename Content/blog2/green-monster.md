@@ -10,7 +10,7 @@ Lately, Vanya has been afraid to be on his own after dark, expressing fear of "T
 Of course, I can't help but think of Fenway, and the part of my brain that thinks I'm raising a Yankees fan bothers me a great deal.
 
 I don't think he's actually heard of Fenway Park, or of the Boston Red Sox, as there's not much interest in Major League Baseball around here.  We're going to the LSU game later today, and that's as big-league as it gets.  And it's plenty enough for me.
-<span class="spanEndPreview">&nbsp;</span>
+
 Vanya can throw the baseball hard enough to hit my mitt with a satisfying pop, and he throws it pretty accurately.  He also throws it left-handed, even though he's taken to doing most things righty.  It's enough to make you think of playing in front of the Green Monster.
 
 He can also put a better spiral on a football than I've ever been able to do, and at the age of four, it's hard not to think that he'll grow up to be a man's man.  He'll be the type of guy who knows what's what under the hood of a car, I bet.

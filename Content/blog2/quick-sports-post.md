@@ -10,7 +10,7 @@ I'm having a nice blogging haiatus, thanks for asking.
 I've started a post -- a hum dinger of a story.  I'm not sure it will translate to a typed web page, but I'll get it finished and get it posted this weekend.  I've got another post in mind for next week, so I might be getting back into the swing of it.
 
 Until then, here are a couple of thoughts from the last few days.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/greenline.gif"></center>
 
 If you go into Hemingway's Tobacco on Jefferson Highway on any given weekday afternoon, there are a group of old out of shape dudes, shooting the shit and smoking cigars.  Despite the fact that they smell bad and have yellow teeth, I'm more than just a little envious of them.  Sitting over source code while shooting the shit and drinking coffee in one's necktie just isn't the same.

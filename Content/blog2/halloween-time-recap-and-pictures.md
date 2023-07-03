@@ -10,7 +10,7 @@ It's been like a year and a half since I got photos posted to this web site in a
 <a href="http://theskinnyonbenny.com/pg4.php?spgmGal=138%20-%20Halloween%202016">Until now</a>.
 
 We kicked off spooky weekend number one with a visit to a "haunted corn maze" out in the middle of nowhere.  It ended up being a really big corn maze that I suspect looked very little like its map picture:
-<span class="spanEndPreview">&nbsp;</span>
+
 <a class="lightview centered" href="/img/cornmazemap.jpg" data-lightview-caption="Corn Maze Map" data-lightview-group="group1"><img src="/img/cornmazemap.jpg" alt="/img/cornmazemap.jpg"><br><span class="caption">Corn Maze Map</span></a>
 
 But we walked through as the evening turned from dusk to dark, and it was enough to spook the kids.  That's ironic, because as we left, we saw the sign pointing to the actual haunted ones with the chainsaw weilding manics and zombies.  The kids wouldn't even go down the wide open dark path that lead to the actual haunted maze, so Mrs. theskinnyonbenny had to go through by herself.  She confirmed what I heard by talking to the mother of some other chicken littles -- that it was fun, but not particularly scary.

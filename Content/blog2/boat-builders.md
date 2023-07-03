@@ -10,7 +10,7 @@ This past weekend seems almost like a vacation.  A great football Saturday, good
 Saturday morning, we went to the Wooden Boat Festival in Madisonville.  In my mind, it's more of a boat show than a boat festival, as no one was deep-frying Oreos near a stage full of fiddle players.  But who doesn't like a boat show?
 
 At the far end of the show was a tent where old codgers help little kids build their own toy wooden boats.  The lane for boat builders were for kids only, but there was a path for grown ups to follow behind them.  
-<span class="spanEndPreview">&nbsp;</span>
+
 Both of our kids went through.  K picked out a catamaran hull, and V picked the biggest monohull that he could see.
 
 K stood in front of his old guy with his chin at table level and nodded yes to every question.

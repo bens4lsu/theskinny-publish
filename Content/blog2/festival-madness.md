@@ -8,7 +8,7 @@ id: 1370
 In the past month, we've been to the French Quarter Festival, the Baton Rouge Blues Festival/Earth Day (briefly), Lafayette's Festival International, and in the only paying appearance, the New Orleans Jazz and Heritage Festival.  Have some questions about who to see live?  Theskinnyonbenny family can give you a couple of clues.
 
 At Jazz Fest last week, Mrs. theskinnyonbenny came up with the idea for the Jazz Fest Julep:  buy a mint-flavored sno-ball, add smuggled in whiskey.  It's actually pretty good.  Not as good as a real mint julep, but a long, long bit better than the canned Miller Lite that you can buy at the tents.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/jazzfestjulep.jpg"></td></tr><tr><td class="caption" width="250">A Jazz Fest Julep</td></tr></table>
 
 The smuggled in whiskey is a piece of cake when you're traveling with a baby.  Suff it in a bag covered with bibs and diapers and other random baby shit, then tuck that at the bottom of the stroller, where it's a pain to get to anyway.  They didn't even bother checking in there.

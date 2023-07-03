@@ -10,7 +10,7 @@ I was listening to a national radio talk show one day last week, and the host's 
 The host was set on Madison.  I've been to Madison, and it is indeed a really cool town.  Like all great college towns, the university is huge, rabidly fanatical about football, and drives a huge bar scene.  The old part of Madison itself is a really cool little bohemian town featuring lots of cool little restaurants, bars, brew pubs, independent book stores, and cheese shops, without a nationally known chain in the area.  It's near a pretty state capital complex, and smooshed between two big lakes, bordered by parks, that are ideal for any kind of water recreation.
 
 I thought through this and had a quick momentarily panicked thought of, "Shit, Madison might really be better than Baton Rouge."
-<span class="spanEndPreview">&nbsp;</span>
+
 And then I remembered that they have colder nastier winters than I can imagine, let alone try to bear.  Average temps for Madison in April:  High 55, Low 33.  Our April is Madison's summer, and we're four to six weeks past when we busted out shorts and sandals.  Close the book on Madison.
 
 The next city that was a real contender was Austin.  Oddly, all of the candidates are both college towns and state capitals.

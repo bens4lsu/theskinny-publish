@@ -8,7 +8,7 @@ id: 389
 I was commuting from my house to downtown Baton Rouge Tuesday morning.  This is normally a five-minute proposition, but today, I canâ€™t catch anything but red lights.  You know the magical device that youâ€™ve dreamed of?  The one where you can hit a button and the light changes to green for you?  Well, it was just like I had one of those in reverse.
 
 Once I sat through the first 5 reds, I got downtown, where there is a light at every block.  I got stopped block after block after block.  Three times, I tried to change my luck by turning to a different street, and all three times I saw a yellow signal at the end of the block in front of me.
-<span class="spanEndPreview">&nbsp;</span>
+
 Then I got to the parking garage.  The parking garage can be a significant part of my daily commute home.  The first day I left downtown, it took me 20 minutes to wind my way down and out to the street, followed by a less than 10 minute drive home.  Iâ€™m thinking about walking out to the garage every day around 3:30, and move my car down the slope to get a spot vacated by an early arriver/early leaver.  Would that be worse for my car than the 20 minutes of idling?
 
 There are parking lots downtown too, and if I parked there, I could just roll in and out without the line, but those cost money, and the garage parking is paid for by the state.  I canâ€™t justify going out of pocket to get in and out in a hurry.

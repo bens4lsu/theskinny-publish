@@ -6,7 +6,7 @@ tags: my-youth
 id: 180
 ---
 I have this little sheet of paper where I jot down ideas for posts as I think of them or as I have them suggested to me.  This gives me the illusion that I have tons of ideas to share with everyone, but when I read line by line down the list, it becomes amazingly clear how little I really have to say to you guys.<br /><br />This post has been hanging around on my page for a good year now.  It's not that this is a bad idea, it's just that I know that there were <i>a lot</i>  more chicks to list, but for the life of me, I can't remember any more.
-<span class="spanEndPreview">&nbsp;</span>
+
 It's been thirteen years since college, and that has taken a big toll on my now semi-elderly memory.  I used to make fun of a guy by name of Paul for "writing a book," about our little adventures.  The truth is that he was smart for wanting to write some of that stuff down.  I often couldn't remember what happened the previous day, so there's no chance that I remember much of it now.
 
 The ridicule was actually for his writing style:  rated R topics written at a reading level for a C+ third-grader.  And the fact that he thought he was "writing a book," instead of "writing this down"  As if some publisher would love to read all about his one-time experience in a hot tub with a girl at Spring Break.  

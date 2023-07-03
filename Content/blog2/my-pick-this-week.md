@@ -8,7 +8,7 @@ id: 1485
 Every week, I carve out a little time to study college football lines.  If you've paid close attention, you might remember that I'm one of several who try to pick one upset each week.  When your upset hits, you get the number of points in the spread added to your total, and at the end of the season, you pocket a little extra coffee money and have bragging rights for the year.
 
 Most weeks, I'm checking to see whose quarterbacks are injured, who's coming off a big win or a close, disappointing loss, and who's catching 6 or more points at home.  This week, I made my selection on something completely different.
-<span class="spanEndPreview">&nbsp;</span>
+
 After I dropped off the kids at school this morning, I was just back into the driveway when I realized that we're out of coffee.  I pulled back into the street, and drove the mile or so to the CCs on Perkins road.  I normally avoid that shop.  It's on a narrow lot, and there's a ton of traffic, so it's always a nightmare just getting into and out of their parking lot.
 
 Today was no exception.  The car in front of me pulled in and stopped just into the concrete even though there was nothing in front of him.  This left me in the middle of a left turn and blocking a whole lane of oncoming traffic.  But eventually, I got into the lot.

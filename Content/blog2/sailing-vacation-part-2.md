@@ -24,7 +24,7 @@ In case you missed them, all of the pictures from our trip (or at least all of t
 The next day's sail -- from Annapolis to St. Michaels, was probably my favorite of the trip.  We moved along at a nice pace in a comfortable temperature for hours.  No close calls with tankers or fish sticks or anything.
 
 The St. Michaels approach is a mess, and you really have to keep an eye on the nav markers, because a large patch of water that looks like deep open bay is in fact a sunken island, just a few feet deep.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130702_125846_0388.JPG" width="180"></td></tr><tr><td class="caption" width="250">The bosun takes care of his line handling duties.</td></tr></table>
 
 The town's waterfront is nothing but dock space, and our marina guided us into a slip right in front of an outdoor bar that looked promising.  I got us checked in and took the kids to the pool, while Mrs. theskinnyonbenny found the laundry room.

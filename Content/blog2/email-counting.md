@@ -6,7 +6,7 @@ tags: stories
 id: 186
 ---
 Overall, I get too much email.  I went back to a regular week from last October and counted the messages in my various email accounts.
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul><li><b>My Work Email Account got 1577 messages</b>, broken down as
 	<ul><li><i>Paging:  985 messages</i>.  Little programs monitor our clients' systems, and send paging messages when they detect something that might require attention from an engineer.  I doubt that I personally looked at many of them, but at least two people looked at every one.</li>
 	<li><i>Customer Service:  98 messages</i>.  These all have to do with a support case initiated by one of our clients.  Each time someone opens a new case or adds a note to indicate that some work was done, I got a new message.  I skim these, but don't read them all, especially when I'm busy.</li>

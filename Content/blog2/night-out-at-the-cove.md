@@ -6,7 +6,7 @@ tags: stories
 id: 279
 ---
 I have information galore that I've been meaning to post for the last couple of months but haven't for one reason or another.  It's kind of embarrassing to post a story from the week of Christmas this far after the holiday, but there are two reasons that I'm okay with it.  First, it's an observation that needs to be shared with the world at large who's never tried to drink in a bar in Natchitoches, Louisiana.  Second, nothing ever changes in this bar, so everything short of the candy cane covered sweater will be just as true this coming Saturday, next Saturday, and the first Saturday of July 2009.
-<span class="spanEndPreview">&nbsp;</span>
+
 Even though it is a town with a four-year university, Natchitoches is really hard-up for places to hang out.  I'll explain.
 
 More than anyone else I know, Mrs. theskinnyonbenny stayed friends with her good friends from high school.  She has three classmates who are still very close friends.  If you've been around this site, you might not know them by name, but you've seen their pictures, read about how much I like their kids, and in Shelly's case, seen daily photos of the icy cold slum that she moved into last year.  Doesn't seem like much?  It's 10% of their senior class.  The equivalent for me would be to keep up with 35 members of my senior class.  I couldn't even name that many of them.

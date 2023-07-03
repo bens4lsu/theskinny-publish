@@ -12,7 +12,7 @@ Sharples:  So, do you guys know a good vet?
 Me:  A vet?  Well, we go to that Bocage vet.  They're too expensive, but they're good.
 
 Sharples:  'Cause I need a good vet.
-<span class="spanEndPreview">&nbsp;</span>
+
 Me:  Well they're the best we know of.  We haven't exactly sampled all of the vets in town.
 
 (A pause)

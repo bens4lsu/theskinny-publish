@@ -8,7 +8,7 @@ id: 331
 We're into week two in Athens, and I'm about a half hour from being out of both bananas and Triscuits, at which point a miniature Russian revolution begins right here in our condo.  
 
 This must be how President Bush must have felt in 2002 when Iraq just wouldn't cough up those WMDs that he was sure they had stockpiled.
-<span class="spanEndPreview">&nbsp;</span>
+
 <center><img src="/img/greenline.gif"></center>
 
 (later) -- Disaster averted.  As Ivan chewed the last bits of cracker, I threw in a pacifier and blanket, and he took the suggestion and went to sleep.

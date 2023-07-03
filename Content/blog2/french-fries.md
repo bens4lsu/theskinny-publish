@@ -8,7 +8,7 @@ id: 184
 There's a plague going around Baton Rouge's sports bars, and no one even seems to care.
 
 The problem is waffle fries.  By my count, Walk Ons, Pluckers, and Champs have all chosen waffle fries over real fries on their menu.  Now, I know that the only purpose of fries is to act as the shovel, to get ketchup or cheese, or if you're really brave, chili and jalapenos into your gullet.
-<span class="spanEndPreview">&nbsp;</span>
+
 But it's important to us all that the french fry underneath the ketchup or cheese or chili or jalapeno is still good.  And waffle fries just aren't good.  If you think otherwise, you're just wrong.
 
 The best fries that I know in town are the Chimes (and by that, I can only mean the original Chimes on Highland.  Haven't -- and probably won't -- tried the other one) and Georges.  Again, the original George's seems better than the other one, but maybe it's just my appreciation for the originals.  These two places have fries where you can actually taste some potato and grease.  It's the perfect complement to cheese or chili.  

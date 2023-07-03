@@ -8,7 +8,7 @@ id: 620
 On the Wednesday that we were in Maine, our gracious hosts decided that they had had just about enough of little kids and drunk adults, so they headed back to urban Massachusetts for a day of office work rather than continue the adventure with the Linkins and theskinnyonbenny family.
 
 We went to a town down the road, which appeared to be a little bigger than our local version of Redbud, and which had boat rental places and at least one restaurant on their lakefront.  We were on a mission.  We were to rent a party barge.
-<span class="spanEndPreview">&nbsp;</span>
+
 A 4-hour rental was about $120, an absurdly reasonable entertainment for four adults and four children.  We got a 60-second briefing on the boat and about the lake.  The only notable item from our briefing was that we could cross under the bridge from the small side of the lake to the larger side, but that we would need to lower the bimini in order to get across.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/056%20-%20Maine%20Trip%202009%20-%20vol%202/resIMG_20090805_0286.JPG" width="250"></td></tr><tr><td class="caption" width="250">Passing under the too-low bridge.  You can still see the antenna trying to recover from its bending.</td></tr></table>

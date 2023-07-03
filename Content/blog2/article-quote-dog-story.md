@@ -16,7 +16,7 @@ Practice saying "Sumbitch bitch" in your best imitation of Carville's voice.  Th
 
 As an outspoken proponent of both LSU and the state of Louisiana, I always find Carville to be equal parts embarassing and entertaining.
 
-<span class="spanEndPreview">&nbsp;</span>
+
 
 <center><img src="/img/greenline.gif"></center>
 

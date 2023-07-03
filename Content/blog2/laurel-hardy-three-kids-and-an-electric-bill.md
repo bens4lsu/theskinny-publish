@@ -8,7 +8,7 @@ id: 1395
 As you might know, on most nights that my dogs get a walk, it happens around 9:00 PM.  It's an odd hour to hoof it through one's neighborhood, since most people are in, but most haven't yet gotten to bed.  I get little half-second glimpses of their lives, through lit windows that show a snippit of interior to me while hiding my walk from them behind a dark reflection.
 
 Mostly, I see flat screen TV's, and in the fall, there's usually a football game on.  Occasionally, I see something odd.  (Well, more than occasionally if you count the neighbors who have a full size trapeze in their front yard, but theirs is another story for another day.)
-<span class="spanEndPreview">&nbsp;</span>
+
 Today, I came home and wrote a description of the house that struck me as most odd.  I still can't imagine why they had so many lights on at once.
 
 <blockquote>

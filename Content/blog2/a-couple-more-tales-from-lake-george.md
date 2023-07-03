@@ -8,7 +8,7 @@ id: 1100
 Last time I wrote about our trip to upstate New York, I concluded by saying that I had more videos, pictures, and stories.  You may have seen <a onclick="window.open('/pg3.php?spgmGal=075%20-%20Lake%20George%202011','075LakeGeorge2011','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >the pictures</a>, and <a href="http://theskinnyonbenny.com/vMain.php?albumID=1671571">videos are here</a> (although the best of them are embedded in this post).  That just leaves us with stories to tell.
 
 That just leaves us with stories, and one story is important for context before we get to the video.
-<span class="spanEndPreview">&nbsp;</span>
+
 Our rent house came along with two canoes.  It became my routine to go out for a short paddle with one or two of the kids around sunset every evening.  The first of the nights where I started my sunset cruises, Brent decided to come out in the other canoe with whichever kid was feeling left behind.  Somehow or other (I was out in the lake), he tumped the canoe over and fell into the ankle-deep water right by the shore.
 
 When I returned, the wives were several drinks in, sitting down on the gravel beach by the canoes.  They asked me to see if the other canoe had a hole in it, as Brent had made up that particular piece of bullshit to explain his little swim.  I don't remember why, but I noted that there was a sticker in the canoe listing its weight limit as 700 pounds.  Mrs. theskinnyonbenny chimed in, "That's just you plus a sack of dog food!"

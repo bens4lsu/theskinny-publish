@@ -10,7 +10,7 @@ Oveheard during the St. Patrick's day stuff a couple of weekends ago:
 <span style="margin-left:5px;">Mrs. theskinnyonbenny:  Lily pulled a "Lassie" this week.
 
 Shelly:  Really?  Did Vanya fall into the well?</span>
-<span class="spanEndPreview">&nbsp;</span>
+
 But seriously, I was asleep one night, and Lily came around to my side of the bed and barked.  This usually means that she wants to sleep under the covers but can't get in, so I shoved over and lifted the sheet for her to jump up and under.
 
 But she trotted out of the bedroom door, barked again, and looked out toward the rest of the house.

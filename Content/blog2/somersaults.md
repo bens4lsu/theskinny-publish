@@ -8,7 +8,7 @@ id: 1443
 My friends, I might just have found an example that's among the worst packaging ever.  Behold, the package of Somersaults.
 
 Let's start with the cartwheeling sailer.  If you look real close, his undershirt is one of those that says, "I'm so gay, I shit rainbows."  But in case his dapper sailing outfit -- complete with white shoes and red bandanna -- don't give it away, he's upside down and holding a sunflower.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/somersaults.jpg"></td></tr><tr><td class="caption" width="250">Somersaults.  Who would have guess that this is how the word is really spelled?</td></tr></table>
 
 I guess the flower is because the snack has sunflower seeds, which brings us to an even worse aspect of the packaging:  the description of the snack.

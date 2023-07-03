@@ -8,7 +8,7 @@ id: 210
 The loud, blaring noise goes on and on and on and on.  It fails to respect that you're trying to think.  Or talk on the phone.  Or reading your favorite blog on company time.  It's incessant.  It's painful.
 
 My singing in the office?  Well, yes, that fits, but I really meant the fire alarms.
-<span class="spanEndPreview">&nbsp;</span>
+
 And the loud blaring isn't the worst part.  The worst part is the suddenness of when they begin.  There's a bright flash of emergency light, and then before your mind has time to process the question, "Am I having a seizure?" the first horn of alarm goes on.  And off.  And on.  And off.  And on.  And off....
 
 At the noise begins, the body jumps a mile with fear.  Lesser people with unfortunate digestive timing will shit themselves a bit before recovering their composure. 

@@ -8,7 +8,7 @@ id: 716
 Two weekends ago, when we went down for the NFC Championship game, Mrs. theskinnyonbenny and I were eating oysters and drinking our lunchtime cocktails at a restaurant called Bourbon House.  It happened to be the next shop down from the place where our dear friend Stacie had her rehearsal dinner, and my view out the window happened to be a place where the ladies dance in an exotic style.  Penthouse Club, I believe it might have been called.
 
 This reminded me of a story I had forgotten.  Our friends from Boston -- Josh and Lisa -- newlyweds themselves -- arrived to Stacie's rehearsal dinner a little bit early.  Not finding anyone there yet, they decided to go grab a drink somewhere close, and Lisa suggested the place right across the street.
-<span class="spanEndPreview">&nbsp;</span>
+
 Josh is a midwesterner, and over there, gentlemen are still gentlemen.  I've heard Josh say, "shucks" in frustration, and he wasn't even trying to be funny at the time.  When his new wife suggested a drink at the Penthouse Club, he assumed that his new wife was just clueless.  Amidst much stuttering and stammering, he managed to spit out an objection.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/stacieWedding1.jpg"></td></tr><tr><td class="caption" width="250">Wedding Pic -- Wasn't That Nice?</td></tr></table>

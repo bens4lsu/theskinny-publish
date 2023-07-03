@@ -8,7 +8,7 @@ id: 272
 I had a conference call scheduled today at 11:00.  Unfortunately, I hadn't had a chance to take my morning bathroom break yet, and the call promised to be a difficult one.  I dialed in to the number, and found that it was just hold music.  The host hadn't started the call yet.
 
 Stuffing the phone in my pocket and the ear bud in my ear, I said a quick prayer to make my movement a quick and easy one.  I figured I could get in, do my business, and then chime in on the call while they were still doing introductions and pleasantries.
-<span class="spanEndPreview">&nbsp;</span>
+
 Fast forward 45 minutes. I'm on my second toilet of the morning, wishing away stomach spasms and the accompanying nastiness.  Over the next 90 minutes, there would be two more toilets.
 
 If you know me, you will realize that I'm dying to give detail after gory detail about my diarrhea.  But in order to keep it from getting too gross, I'll keep it to two more quick details.

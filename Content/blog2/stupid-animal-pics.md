@@ -10,7 +10,7 @@ A few weeks ago, we went to the Global Wildlife Center.  You get in a big traile
 I had hoped for an image of a giraffe with its head between the faces of my two smiling sons, but of course, that was not meant to be.  In fact, we caught the giraffes with full bellies, which meant that we just looked at them from afar.  Pictures of the kids tended to be of the backs of their heads.
 
 When I reviewed photos, I noticed a good number that could be made into cheesy posters and sold for great profit.  Here are a few examples:
-<span class="spanEndPreview">&nbsp;</span>
+
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="baby zebra." src="/img/babyzebra.jpg"/></p>
 
 <p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="bottoms up." src="/img/bottomsup.jpg"/></p>

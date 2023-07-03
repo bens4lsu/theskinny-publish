@@ -6,7 +6,7 @@ tags: uncategorized
 id: 1243
 ---
 Here's how to sing the 60s Adam West Batman theme, written in php:
-<span class="spanEndPreview">&nbsp;</span>
+
 <pre class="source-code"><code><span style="color: #000000;"><span style="color: #0000bb;">&lt;?php</span></span>
 
 <span style="color: #007700;">forÂ (<span style="color:orange">$i</span>Â =Â <span style="color: #0000bb;">1</span><span style="color: #007700;">;Â <span style="color:orange">$i</span>Â &lt;=Â <span style="color: #0000bb;">16</span><span style="color: #007700;">;Â <span style="color:orange">$i</span>++;)Â {

@@ -8,7 +8,7 @@ id: 586
 For our last act of the great house remodel of 2009, we had to move every bit of crap out of our downstairs so that the floors could be refinished.  We spent all weekend making room in the garage so that it could serve as a mini storage unit, then actually moving furniture and boxes out.  By 5:00, I was whipped, but I wasnâ€™t finished.
 
 I still had to tape plastic over cabinets and shelves, to protect all of our stuff from the dust storms created by floor sanders.  At 6:00, I started unrolling plastic and trying to tape it up.
-<span class="spanEndPreview">&nbsp;</span>
+
 For some reason, Mrs. theskinnyonbenny bought plastic sheeting so large and so thick that it could be rolled out to protect the Tiger Stadium turf during a rain delay.  She also bought a roll of that great blue masking tape that wonâ€™t rip the paint off of your newly painted trim when you pull it off.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://img526.yfrog.com/img526/2677/cik.jpg" width="250"></td></tr><tr><td class="caption" width="250">Blue tape is not money.</td></tr></table>

@@ -10,7 +10,7 @@ It seems a little like we had a three day weekend.  Not bad.
 What stretched the weekend out was a busy Friday night, that made it seem like two nights.  I got home around 6:00, which is super-late for a Friday, but then we grilled steaks with a few others.  That seemed like the Friday night activity.
 
 After that, we walked around the corner to a neighbor's crawfish boil.  It was a different group with different conversation, so it feels like that happened a different day.  Two nights worth of socializing, and we were still home and in bed before midnight.
-<span class="spanEndPreview">&nbsp;</span>
+
 We went down to New Orleans for Jazz Fest on Saturday.  There must have been a zillion people there, many of whom appeared to be out-of-towners.  I have to conclude that the tourist influx for Jazz Fest is as high as it ever was.  As always, it was sunny and hot, but there was at least a bit of a breeze.  As always, we saw good music from previously-unheard of artists.  As always, paid way too much for beer and ate good food.
 
 I did manage the whole day without using a portable toilet.  I think I sweated the liquids out as fast as I took them in, so my real superpower was the ability to hold my #2 until I got all the way home.  This was especially impressive, as my body first reminded me that it was time for my morning elimination while walking toward the fairgrounds.  Every hour or so it reminded me, "Hey, don't forget that you need to poop," but they were polite reminders rather than the angry explosive demands that the tail-end of my gastronomical system can sometimes make.

@@ -6,7 +6,7 @@ tags: uncategorized
 id: 179
 ---
 I spent all day Friday and Saturday on an errand that kept me in the car all day.  Here are three things I learned from two straight days of talk radio.
-<span class="spanEndPreview">&nbsp;</span>
+
 <ul><li><i>Joanie Loves Chachi</i> was the highest rated American show to ever play in South Korea.  "Chachi" sounds like the Korean word for "penis."<br /><br /></li>
 
 <li>There is an episode of <i>Three's Company</i> where you get a quick shot of John Ritter's scrotum.  It wasn't noticed by anyone, until a viewer in the Tivo era slowed it down enough to see for sure.  No word on why anyone would Tivo <i>Three's Company</i> reruns.<br /><br /></li>

@@ -8,7 +8,7 @@ id: 203
 I had a work trip last week to Indiana.  Indiana is a pretty desolate place, and I spent the entirety of may days in a crowded, windowless conference room.  The makings of a boring post?  Perhaps, but there were a few things worth sharing.
 
 During our meetings, I had some mental down-time, while the bankers discussed (in excruciating detail) some aspect or other of the new system that they were implementing.  For example, there was about a thirty minute debate on the definition of a branch to them.  So I had an opportunity to stretch my brain and write limericks about the trip, which I will use to punctuate this post.
-<span class="spanEndPreview">&nbsp;</span>
+
 <table><tr><td>
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/ben-rcadome.jpg"/></td></tr><tr><td class="caption" width="250">Ben in front of the RCA Dome a couple of hours before game time.</td></tr></table>

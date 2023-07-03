@@ -12,7 +12,7 @@ I just recently learned that today is a holiday.  Victory Over Japan Day.
 The Philippines?
 
 No.
-<span class="spanEndPreview">&nbsp;</span>
+
 Guam?
 
 No.  I'll give you a hint.  It's one of the fifty states.

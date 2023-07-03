@@ -6,7 +6,7 @@ tags: the-office
 id: 359
 ---
 This office where I'm working (I don't feel like giving the name, for some reason) has some of the funniest emails that are broadcast out to everyone.  I've never been anywhere like this.  Here's a small sampling over the last couple of weeks.
-<span class="spanEndPreview">&nbsp;</span>
+
 <BLOCKQUOTE>
 From: 
 Sent: Monday, March 03, 2008 7:31 AM

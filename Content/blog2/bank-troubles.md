@@ -15,7 +15,7 @@ Say you're a big, giant financial corporation, and you suffer through a year wit
 <div><a href="http://www.businessweek.com/investor/content/apr2007/pi20070420_201721.htm?chan=rss_topStories_ssi_5" target="_blank">S&P Downgrades Capital One Shares</a></div>
 
 <div><a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/11/08/AR2007110802349_pf.html" target="_blank">Capital One Stock Suffers</a></div>
-<span class="spanEndPreview">&nbsp;</span>
+
 So what's the big corp to do?
 
 Well, if you can't make your numbers, how about hiring an expert in making it appear that your numbers are better than they really are?  Perhaps an expert in "data manipulation."  This ran in this past Sunday's Baton Rouge paper.
