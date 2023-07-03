@@ -1,8 +1,8 @@
 ---
 title: Temper Your Dispair
 date: 2017-01-20 16:35
-description: A description of my post.
-tags: uncategorized
+description: Perhaps today marks the end of a free press, the end of US participation in NATO, and open season for pussy grabbing.  But then again, maybe it won't be quite that bad.  Here are some reasons to be happy about where we are.
+tags: current-events
 id: 2091
 ---
 Perhaps today marks the end of a free press, the end of US participation in NATO, and open season for pussy grabbing.  But then again, maybe it won't be quite that bad.  Here are some reasons to be happy about where we are.
@@ -22,4 +22,5 @@ Perhaps today marks the end of a free press, the end of US participation in NATO
 God Bless America.
 
 
-<b>Update 1/23:</b>  <a href="http://www.nola.com/politics/index.ssf/2017/01/sen_cassidy_aca_alternative_wo.html" target="_blank">See</a>?  Bill Cassidy, of all people, puts forth a plan that is arguably more Socialist than Obamacare.
+<h3>Update 1/23/2017:</h3>  
+<p><a href="http://www.nola.com/politics/index.ssf/2017/01/sen_cassidy_aca_alternative_wo.html" target="_blank">See</a>?  Bill Cassidy, of all people, puts forth a plan that is arguably more Socialist than Obamacare.</p>

@@ -52,3 +52,4 @@ try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
 //  http://localhost:8000/blog2/shipping-news/   http://www.photographers1.com/Sailing/NauticalTerms&Nomenclature.html
 //  http://localhost:8000/blog2/rolling-rolling-rolling-through-the-summer/   check images
 //  http://localhost:8000/blog2/thoughts-about-3-songs-from-the-80s/  need to add apple music playlist
+//  http://localhost:8000/blog2/temper-your-dispair/  check to make sure link is live  https://www.nola.com/politics/index.ssf/2017/01/sen_cassidy_aca_alternative_wo.html

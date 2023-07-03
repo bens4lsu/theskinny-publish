@@ -1,7 +1,7 @@
 ---
 title: Pranked
 date: 2017-01-23 14:17
-description: A description of my post.
+description: Someone pulled off a good one on the whole skinnyonbenny family, and we don't even know who did it.
 tags: young-ruski
 id: 2093
 ---
