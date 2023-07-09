@@ -1,7 +1,7 @@
 ---
 title: Random Thought
 date: 2016-12-28 11:25
-description: A description of my post.
+description: A one-liner, passing thought on some modern technologies
 tags: things-i-just-dreamed-up
 id: 2072
 ---

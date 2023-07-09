@@ -307,6 +307,44 @@ div.twitter-tweet {
     justify-content: center;
 }
 
+.mt-timeline {
+    height: auto;
+    overflow-y: auto;
+    position: relative;
+    background: var(--bg-color);
+    scrollbar-color: var(--bg-hover-color) rgba(0, 0, 0, 0.1);
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.mt-body {
+    padding: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.mt-toot {
+    margin: 0.25rem;
+    padding: 1rem 0.5rem 0.5rem 4rem;
+    position: relative;
+    min-height: 3.75rem;
+    background-color: transparent;
+    border-bottom: 1px solid var(--line-gray-color);
+    font-size: 80%;
+}
+
+.mt-footer {
+    margin: 0.5rem auto 0.25rem auto;
+    padding: 0 2rem;
+    text-align: center;
+    font-size: 80%;
+}
+
+.mt-footer a.btn, .mt-toot a {
+    color: #9E2606;
+}
+
+
 .div-image-gallery-set {
     display: flex;
     flex-wrap: wrap;

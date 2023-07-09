@@ -1,7 +1,7 @@
 ---
 title: Yes, You Really Have To Hang That Shit
 date: 2016-12-09 15:21
-description: A description of my post.
+description: I hate to break it to you, but you have to keep hanging that shit forever.  Look at all the shitty Christmas decorations I put on the tree this year.
 tags: young-ruski
 id: 2066
 ---

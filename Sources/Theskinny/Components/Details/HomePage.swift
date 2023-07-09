@@ -21,7 +21,7 @@ struct HomePage: Component {
         Article {
             Div {
                 HomeMainMessage(context)
-                HomeTweets()
+                HomeMastodon()
                 HomeBlogPost(context.allBlogPosts!)
                 HomeDailyPhoto()
                 HomeShelly()

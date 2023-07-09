@@ -23,4 +23,7 @@ God Bless America.
 
 
 <h3>Update 1/23/2017:</h3>  
-<p><a href="http://www.nola.com/politics/index.ssf/2017/01/sen_cassidy_aca_alternative_wo.html" target="_blank">See</a>?  Bill Cassidy, of all people, puts forth a plan that is arguably more Socialist than Obamacare.</p>
+<p>See?  Bill Cassidy, of all people, puts forth a plan that is arguably more Socialist than Obamacare.</p>  
+
+<h3>2023 update</h3>  
+<p>The 1/23/17 link is dead now, and even though the predictions above are pretty much correct, I'm cringing at my 2017 optimism.  There should have been soooo much despair!)</p>
