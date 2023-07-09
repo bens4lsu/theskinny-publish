@@ -315,6 +315,7 @@ div.twitter-tweet {
     scrollbar-color: var(--bg-hover-color) rgba(0, 0, 0, 0.1);
     border: 2px solid black;
     border-radius: 8px;
+    background-color: #d0d28c;
 }
 
 .mt-body {
@@ -323,13 +324,19 @@ div.twitter-tweet {
     word-wrap: break-word;
 }
 
+.mt-timeline h1 {
+    font-size: 100%;
+    margin-left: 1em;
+    padding: 0;
+}
+
 .mt-toot {
     margin: 0.25rem;
     padding: 1rem 0.5rem 0.5rem 4rem;
     position: relative;
     min-height: 3.75rem;
     background-color: transparent;
-    border-bottom: 1px solid var(--line-gray-color);
+    border-bottom: 1px solid #a6a6a6;
     font-size: 80%;
 }
 

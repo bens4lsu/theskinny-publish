@@ -11,11 +11,12 @@ import Plot
 
 struct HomeMastodon: Component {
     
-    var role: Attribute<Theskinny> { Attribute(name: "rolw", value: "feed") }
+    var role: Attribute<Theskinny> { Attribute(name: "role", value: "feed") }
     
     var body: Component {
         Div {
             Div {
+                H1("Links/Quick Thoughts")
                 Div {
                     Div { }.class("loading-spinner")
                 }.id("mt-body").class("mt-body").attribute(role)
