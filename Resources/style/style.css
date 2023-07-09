@@ -336,8 +336,8 @@ div.twitter-tweet {
     position: relative;
     min-height: 3.75rem;
     background-color: transparent;
-    border-bottom: 1px solid #a6a6a6;
-    font-size: 80%;
+    border-bottom: 2px solid #a6a6a6;
+    font-size: 100%;
 }
 
 .mt-footer {

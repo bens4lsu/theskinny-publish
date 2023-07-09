@@ -1,7 +1,5 @@
-<h1>Site Update, Part 2</h1>
+<h1>Site Update, Part 3</h1>
 
-In the early days of the site, I used Vimeo to manage my embedded videos.  I uploaded them into collections there, and then wrote pages that dynamically asked the site's API to return lists of videos and captions.  That worked okay, right up until it didn't.
-
-It's been a labor to go back through those old collections and pull out the metadata, come up with my own data structure, and then write the code that would read my data structure and write html.  
-
-Most of the work is done, and I can trickle out videos that used to be there years ago.  Let's start with <a href="/vid2/home-movies-2007-2009/">these old ones of V from when he was a baby</a>.
+<p>I'm not sure if was accidental or on purpose, but embedded Twitter feeds are now broken.  I've had it on my list to pull stuff off of Twitter, and I got far enough to pull <a href="https://theskinnyonbenny.com/x/shitjohnsaid/">these tweets from an alt</a>.  But mine aren't copied down yet.  For a while, I only had 5 that would show up at all even on Twitter.  As I type this, the page <a href="https://twitter.com/bens4lsu">https://twitter.com/bens4lsu</a> doesn't bring up any content at all.</p>
+ 
+ <p>So for now, I've moved my feed to Mastadon.</p>
