@@ -4,7 +4,6 @@
 /.swiftpm
 /*.xcodeproj
 .publish
-Output
 Package.resolved
 Resources/img
 /ben-build tools/parse-posts/DerivedData/*
