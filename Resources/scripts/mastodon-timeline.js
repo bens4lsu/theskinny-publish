@@ -219,11 +219,11 @@ MastodonApi.prototype.getToots = function () {
       }
     })
     .catch((err) => {
-      this.mtBodyContainer.innerHTML =
-        '<div class="mt-error"><span class="mt-error-icon">❌</span><br/><strong>Sorry, request failed:</strong><br/><div class="mt-error-message">' +
-        err +
-        "</div></div>";
-      this.mtBodyContainer.setAttribute("role", "none");
+//      this.mtBodyContainer.innerHTML =
+//        '<div class="mt-error"><span class="mt-error-icon">❌</span><br/><strong>Sorry, request failed:</strong><br/><div class="mt-error-message">' +
+//        err +
+//        "</div></div>";
+//      this.mtBodyContainer.setAttribute("role", "none");
     });
 
   // Inner function to add each toot content in container
