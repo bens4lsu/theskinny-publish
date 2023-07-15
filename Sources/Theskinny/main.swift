@@ -20,6 +20,7 @@ struct Theskinny: Website {
         var description: String?
         var adopSection: String?
         var videoAlbums: [Int]?
+        var ogImg: String?
     }
 
     var url = URL(string: "https://theskinnyonbenny.com")!

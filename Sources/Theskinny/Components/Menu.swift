@@ -67,9 +67,14 @@ struct Menu: Component {
                     listItemDailyPhotos.class("li-pagelink")
                     listItemGalleries.class("li-pagelink")
                 }
-                ListItem {
-                    Link("Videos", url: "/vid/family-home-videos/")
-                }.class("li-pagelink")
+                Collapser(text: "Videos", elementId: "collapser-videos").component {
+                    ListItem {
+                        Link("Family Vids", url: "/vid/family-home-videos/")
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Interesting/Other", url: "/vid/interesting-unusual-and-funny")
+                    }.class("li-pagelink")
+                }
                 listItemAdop.class("li-pagelink")
                 ListItem {
                     Text("Velvet Elvis")
@@ -123,7 +128,7 @@ struct Menu: Component {
                 listItemDailyPhotos
                 listItemGalleries
                 ListItem {
-                    Link("Videos", url: "/vid/family-home-videos/")
+                    Link("Videos", url: "/vid")
                 }
                 listItemAdop
                 ListItem {

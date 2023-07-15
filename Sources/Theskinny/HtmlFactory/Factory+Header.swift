@@ -39,12 +39,14 @@ extension TsobHTMLFactory {
         
         //var gaNode: Node<HTML.HeadContext> { .script(.text(gaScript)) }
         
-        var additionalNodes: [() -> Node<HTML.HeadContext>] {[
+        var additionalNodeGa: () -> Node<HTML.HeadContext> {
             {() -> Node<HTML.HeadContext> in
                 return .script(.text(gaScript))
 
-            },
-        ]}
+            }
+        }
+        
+        var additionalNodes = [Node<HTML.HeadContext>]()
         
         var node: Node<HTML.DocumentContext> {
             .head(
@@ -62,12 +64,13 @@ extension TsobHTMLFactory {
                     let title = rssFeedTitle ?? "Subscribe to \(site.name)"
                     return .rssFeedLink(path.absoluteString, title: title)
                 }),
-                .unwrap(location.imagePath ?? site.imagePath, { path in
-                    let url = site.url(for: path)
-                    return .socialImageLink(url)
-                }),
+//                .unwrap(location.imagePath ?? site.imagePath, { path in
+//                    let url = site.url(for: path)
+//                    return .socialImageLink(url)
+//                }),
+                additionalNodeGa(),
                 .forEach(additionalNodes, { addNode in
-                    addNode()
+                    addNode
                 })
             )
         }

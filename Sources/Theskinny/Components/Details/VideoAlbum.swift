@@ -16,7 +16,7 @@ struct VideoAlbum: Component, Decodable {
     let caption: String
     let slug: String
     var videos: [Video]
-    let tn: String
+    let tn: String?
     
     var link: String {
         "/vid2/\(slug)"
@@ -71,7 +71,7 @@ struct VideoAlbum: Component, Decodable {
             }
             Div{
                 Link(url: link) {
-                    Image("/img/video-thumbnails/\(tn)")
+                    Image("/img/video-thumbnails/\(tn ?? "")")
                 }
             }.class("vid-gal-thumbnail")
         }.class("vid-gal-line-item")

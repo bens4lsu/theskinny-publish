@@ -42,7 +42,8 @@ extension TsobHTMLFactory {
         guard let post = allPosts.post(withId: id) else {
             throw TsobHTMLFactoryError.currentPostNotFoundInContext
         }
-        let htmlHeadInfo = HeaderInfo(location: item, title: "Blog on theskinnyonbenny.com")
+        var htmlHeadInfo = HeaderInfo(location: item, title: "Blog on theskinnyonbenny.com")
+        htmlHeadInfo.additionalNodes.append(ogImgNode(item.metadata.ogImg, context: context, item: item))
         let pageMain = AnyPageMain(mainContent: post, site: context.site)
         return HTML(
             htmlHeadInfo.node,
@@ -51,6 +52,18 @@ extension TsobHTMLFactory {
         )
     }
     
+    fileprivate func ogImgNode(_ ogImg: String?, context: PublishingContext<Theskinny>, item: Item<Theskinny>) -> Node<HTML.HeadContext> {
+        if let ogImg {
+            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: context.site.url.absoluteString + "/img/" + ogImg))
+        }
+        // TODO:  return first image in body if none specified in metadata
+        
+        //let str = item.content.body.html
+        //if let startIdx = str.index(of: "/img/")
+        
+        return .empty
+    }
+ 
     fileprivate func makeVidHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {
         // this is a page that lists several albums.  clicking on the albums should go to a page that lists all
         // of the videos for that album.

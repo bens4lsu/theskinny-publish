@@ -4,14 +4,17 @@ id: 1769241
 name: Interesting, Unusual, or Funny - Volume 2
 slug: interesting-unusual-funny-volume-2
 caption: Same thing as IUF, Vol 1, but newer.  Non-connected, random videos that are interesting, unusual, or funny, and which don't really belong with any of the other groups.
+tn: 
 videos: 
     -
         id: 130253338
         dateRecorded: 
         name: Test Flight
         caption: For Christmas, I got a really cool drone.  It's just a ton of fun to fly, and it's going to be a hoot to have on summer sailing trips.  But here's a really interesting thing -- it came with its Chinese factory test flight still in memory.  Watch and enjoy!
-        url: 
-        embed: 
+        url: https://youtu.be/OEb-GH317F8
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/OEb-GH317F8" title="Test Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3m.jpg
+        duration: 0:51
     -
         id: 93936938
         dateRecorded: 2014-04-30
@@ -24,15 +27,19 @@ videos:
             One of the things that I tried was to indent all of the values in the first file, then highlight several thousand at a time.  Then, a tedious column highlight (alt + mouse on Windows, option + click on Mac.  On Mac, you can let up on the option key after the mouse click, which helps the sudden-onset arthritis quite a bit.)
 
             This was working for me, but long before I finished, the guy who generated the files created a single file in the format that I was trying to produce.
-        url: 
-        embed: 
+        url: https://youtu.be/I72eThYd0wQ
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/I72eThYd0wQ" title="Tedium in Column Highlighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2aa.jpg
+        duration: 0:19
     -
         id: 93940292
         dateRecorded: 2014-04-07
         name: Creepiest Pop-Up Ad Ever
         caption: This is the creepiest advertisement that I've ever seen.  So creepy, I had to pull out my phone and make a short video.  I have no reason to believe that this is fake, other than that it is for a company I've heard of, and that it's horribly, horribly bad.
-        url: 
-        embed: 
+        url: https://youtu.be/QHyxVXNZoK4
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/QHyxVXNZoK4" title="Creepiest Pop Up Ad Ever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2bb.jpg
+        duration: 0:08
     -
         id: 93936926
         dateRecorded: 2014-02-06
@@ -41,22 +48,28 @@ videos:
             This woman is really, really scared of speed bumps.  After her first couple, I had plenty of time to start making video, as you'll see.
 
             Also, there's a little self realization of dangerous driving habits.  It appears that I'm driving in the rain, with no wipers, and no seatbelt.
-        url: 
-        embed: 
+        url: https://youtu.be/QqBT5LMqmBs
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/QqBT5LMqmBs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2cc.jpg
+        duration: 0:58
     -
         id: 60428541
         dateRecorded: 2013-02-13
         name: Mardi Gras Indians 2013
         caption: We were leaving the foot parades and street parties of the French Quarter and Marigny in the early afternoon on Mardi Gras, 2013.  Getting close to Claiborne, I spotted an Indian walking up the street.  We quickly found a place to park, and followed him to a side street where he met up with some other colorful Indians.  We hung out for a while taking in the costumes and chanting.  It was pretty cool to see in person.
-        url: 
-        embed: 
+        url: https://youtu.be/9dRuF66rUBs
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/9dRuF66rUBs" title="Mardi Gras Indians 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2dd.jpg
+        duration: 3:38
     -
         id: 59033926
         dateRecorded: 2013-02-05
         name: The Most Inappropriate Birthday Card Ever Given to a Seven Year Old
         caption: The birthday card that our family gave Vanya for his 7th birthday.  More about this on <a href="https://theskinnyonbenny.com/blog2/birthday-greeting/">https://theskinnyonbenny.com/blog2/birthday-greeting/</a>
-        url: 
-        embed: 
+        url: https://youtu.be/ZpGwfiLA0fU
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/ZpGwfiLA0fU" title="The Most Inappropriate Birthday Card Ever Given to a Seven Year Old" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1bb.jpg
+        duration: 0:33
     -
         id: 45936859
         dateRecorded: 2012-07-06
@@ -65,15 +78,19 @@ videos:
             Florida has mooring balls installed along miles and miles of coral reef off the coast.  With a little planning and luck, you can grab a ball for the night, positioning yourself so that the reef takes all of the wave, giving you a nice, still spot to spend the night.  The dive boats go in just before dark, giving you the solitude on the reef all to yourself.
 
             This is Carysfort Reef, named for the first ship known to go aground here.  It is very close to the pass where a boat would go into Biscayne Bay from the southeast, so I'm sure it was a real problem in its day.
-        url: 
-        embed: 
+        url: https://youtube.com/shorts/uUOPS0OZq98
+        embed: <iframe width="446" height="793" src="https://www.youtube.com/embed/uUOPS0OZq98" title="Carysfort Reef Lighthouse Starts Flashing for the Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ee.jpg
+        duration: 0:22
     -
         id: 41733084
         dateRecorded: 2012-05-13
         name: Band in New Orleans
         caption: This was down a few streets from the Fairgrounds in New Orleans on a random Thursday evening.  Okay, it was the Thursday of Jazz Fest, but still.  If anyone knows which band this is, let me know, and I'll pass along a credit.
-        url: 
-        embed: 
+        url: https://youtu.be/W8HbWkQ3GLc
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/W8HbWkQ3GLc" title="Band in New Orleans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ff.jpg
+        duration: 5:24
     -
         id: 37671802
         dateRecorded: 2012-02-15
@@ -86,8 +103,10 @@ videos:
             It took me a minute to flip the camera to video shooting mode, and I had a big zoom lens on, so it's really shaky, but here's the end of the little stampede that I started. 
 
             If you look closely at the end of the video, you can see a little speck that is Blossom, well clear of the chaos, but still running away.
-        url: 
-        embed: 
+        url: https://youtu.be/NAXo5b41-ig
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/NAXo5b41-ig" title="Cattle Stampede" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1cc.jpg
+        duration: 0:44
     -
         id: 37622541
         dateRecorded: 2012-02-21
@@ -96,8 +115,10 @@ videos:
             In the town of Mamou, Louisiana, the Mardi Gras tradition is for the townspeople to gather on horseback very early in the morning.  They start drinking Bud Light, and they go from house to house to house, chasing live chickens, and performing drunken song and dance.  
 
             In 2012, we made it to Mamou for the parade back into the town at the end of the day.  There's a blog post about it at <a href="https://theskinnyonbenny.com/blog2/archives/1271">https://theskinnyonbenny.com/blog2/archives/1271</a>
-        url: 
-        embed: 
+        url: https://youtu.be/5zX5gqINy8g
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/5zX5gqINy8g" title="Mamou Mardi Gras Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3n.jpg
+        duration: 4:05
     -
         id: 33191844
         dateRecorded: 2011-12-05
@@ -106,16 +127,20 @@ videos:
             We were walking near the Kremlin on December 5, 2011, and we came across some sort of ceremonly going on.  We still aren't sure what it was.  This starts next to the tomb of the unknown soldier by the wall of the Kremlin, and the last part is out in front of the Historical Museum which marks the South end of Red Square.
 
             There weren't many spectators, and this was as close as we could get.  It's a little bit interesting.
-        url: 
-        embed: 
+        url: https://youtu.be/S6XTtTDHt7I
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/S6XTtTDHt7I" title="Kremlin Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1dd.jpg
+        duration: 4:10
     -
         id: 130486363
         dateRecorded: 2015-01-18
         name: Louisiana Marathon Drone Mishap
         caption: |
             As you may know, the Louisiana Marathon passes right in front of our house.  I had the idea this year that it would be fun to fly the drone up above the runners as they passed.  Instead, I damn near knocked an exhausted runner in the head.  My co-spectators refused to allow me another test flight.
-        url: 
-        embed: 
+        url: https://youtu.be/H7rtODfSl70
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/H7rtODfSl70" title="Louisiana Marathon Drone Mishap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2gg.jpg
+        duration: 1:54
     -
         id: 130570160
         dateRecorded: 2015-01-24
@@ -124,13 +149,17 @@ videos:
             Waiting for a train to cross, so that they'll open the Rigolets train bridge.
 
             Lots of blurriness here -- should have turned off autofocus.  Sorry.
-        url: 
-        embed: 
+        url: https://youtu.be/t9xKO5zJHyM
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/t9xKO5zJHyM" title="Slow Damn Train" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1ee.jpg
+        duration: 1:40
     -
         id: 159721579
         dateRecorded: 2015-02-05
         name: Who Had Fun at the Parade Tonight?
         caption: |
             Random sighting late after Thurday night parades in the Lobby of the St. Charles Hilton.
-        url: 
-        embed: 
+        url: https://youtube.com/shorts/c8AV2yV-c2k
+        embed: <iframe width="446" height="793" src="https://www.youtube.com/embed/c8AV2yV-c2k" title="Who Had Fun at the Parade Tonight?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2hh.jpg
+        duration: 0:06
