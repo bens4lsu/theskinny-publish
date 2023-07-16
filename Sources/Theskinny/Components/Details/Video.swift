@@ -48,7 +48,7 @@ struct Video: Component, Decodable {
             .lowercased()
     }
     
-    var link: String { "/vid3/\(autoSlug)" }
+    var link: String { "/video/\(autoSlug)" }
     
     var dateRecordedString: String {
         if dateRecorded == nil {
@@ -65,7 +65,7 @@ struct Video: Component, Decodable {
 //        return Text(formatter.string(from: dateRecorded!))
 //    }
     
-    // for line items on pages on /vid2
+    // for line items on pages on /video-albums
     var body: Component {
         Div {
             Div {
@@ -82,7 +82,7 @@ struct Video: Component, Decodable {
         }.class("vid-gal-line-item")
     }
     
-    // for pages on /vid3
+    // for pages on /video
     func allByMyself(backToPage: Page?) -> Component {
         var navSection: any Component
         if backToPage == nil {

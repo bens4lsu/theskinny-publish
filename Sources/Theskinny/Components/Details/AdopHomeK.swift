@@ -44,11 +44,11 @@ class AdopK: AdopGeneral, Component {
         let imageGalSet1 = ImageGalleryLinkSet(78)
         let imageGalSet2 = ImageGalleryLinkSet(81, 82, 83)
         
-        let vgLink1 = VideoGalleryLink(url: "/vid3/kolya-at-his-orphanage", image: "mq1p.jpg", caption: "Orphanage Visit 1")
-        let vgLink2 = VideoGalleryLink(url: "/vid3/kolya-at-his-orphanage-2", image: "mq3j.jpg", caption: "Orphanage Visit 1")
+        let vgLink1 = VideoGalleryLink(url: "/video/kolya-at-his-orphanage", image: "mq1p.jpg", caption: "Orphanage Visit 1")
+        let vgLink2 = VideoGalleryLink(url: "/video/kolya-at-his-orphanage-2", image: "mq3j.jpg", caption: "Orphanage Visit 1")
         let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
-        let vgLink3 = VideoGalleryLink(url: "/vid3/hotel-play-first-night-with-kolya/", image: "mq3h.jpg", caption: "Hotel Play, First Night with Kolya")
-        let vgLink4 = VideoGalleryLink(url: "/vid3/last-video-of-us-in-the-orphange-play-room/", image: "mq2k.jpg", caption: "Another Orphanage Visit Video")
+        let vgLink3 = VideoGalleryLink(url: "/video/hotel-play-first-night-with-kolya/", image: "mq3h.jpg", caption: "Hotel Play, First Night with Kolya")
+        let vgLink4 = VideoGalleryLink(url: "/video/last-video-of-us-in-the-orphange-play-room/", image: "mq2k.jpg", caption: "Another Orphanage Visit Video")
         let vgSet2 = VideoGalleryLinkSet(links: [vgLink3, vgLink4])
         
         return Article {
@@ -70,7 +70,7 @@ class AdopK: AdopGeneral, Component {
             imageGalSet1.jsAll
             imageGalSet2.jsImageVariables
             Text("More videos from the trip are posted ")
-            Link("here", url: "/vid2/family-videos-from-russia-2012")
+            Link("here", url: "/video-albums/family-videos-from-russia-2012")
             Text(".")
         }
     }

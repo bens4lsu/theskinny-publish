@@ -74,7 +74,7 @@ extension PublishingStep where Site == Theskinny {
         .step(named: "Create video album pages"){ context in
             let factory = TsobHTMLFactory()
             for var album in context.videoAlbums {
-                var page = Page(path: "vid2/\(album.slug)/index.html", content: Content())
+                var page = Page(path: "video-albums/\(album.slug)/index.html", content: Content())
                 page.title = album.name
                 album.videos = album.videos.sorted()
                 let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
@@ -82,8 +82,8 @@ extension PublishingStep where Site == Theskinny {
                 try file.write(html.render())
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context, backToPage: page)
             }
-            try writeRedirect(atPage: "/vid2", to: "/vid", onContext: context)
-            try writeRedirect(atPage: "/vid3", to: "/vid", onContext: context)
+            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
+            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
         }
     }
     

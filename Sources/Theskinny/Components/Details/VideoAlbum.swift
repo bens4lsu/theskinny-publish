@@ -20,7 +20,7 @@ struct VideoAlbum: Component, Decodable {
     let linkBack: LinkInfo?
     
     var link: String {
-        "/vid2/\(slug)"
+        "/video-albums/\(slug)"
     }
     
     var totalDuration: TimeInterval {

@@ -1,0 +1,156 @@
+# id numbers from original ids on Vimeo
+
+id: 3441441
+name: Home Movies 2015-2016
+slug: home-movies-2015-2016
+caption: 
+tn: mq3p.jpg
+linkBack:
+    text: Family Home Videos
+    url:  /vid/family-home-videos/
+videos: 
+     -
+        id: 159651315
+        dateRecorded: 2016-03-18
+        name: Square Dancing
+        caption: |
+            Dunham School's Prairie Day.  3rd Grade.    
+        url: https://youtu.be/LLguAXky41k
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/LLguAXky41k" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3o.jpg
+        duration: 12:18
+        
+     -
+        id: 159732659
+        dateRecorded: 2016-03-05
+        name: What Did Your Mom Tell You?
+        caption: 
+        url: https://youtu.be/S186lf9LAwE
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/S186lf9LAwE" title="What Did Your Mom Tell You?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3p.jpg
+        duration: 0:08
+        
+     -
+        id: 159721583
+        dateRecorded: 2016-02-19
+        name: Dance Party
+        caption: 
+        url: https://youtu.be/mo-F6qmLkdw
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/mo-F6qmLkdw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3q.jpg
+        duration: 0:11
+        
+     -
+        id: 159721568
+        dateRecorded: 2016-01-31
+        name: Double Sneaky Cats
+        caption: 
+        url: https://youtu.be/aVw3zhrYIfQ
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/aVw3zhrYIfQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1ff.jpg
+        duration: 0:29
+        
+     -
+        id: 159721475
+        dateRecorded: 2015-11-11
+        name: Demo Day Kolya's Dance Class
+        caption: |
+            Kolya's dance class had a day where parents could come watch. Here are some highlights.
+        url: https://youtu.be/TyaWWJJLuh4
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/TyaWWJJLuh4" title="demo day kolya&#39;s dance class 1080p" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3r.jpg
+        duration: 2:17
+        
+     -
+        id: 159721490
+        dateRecorded: 2015-10-22
+        name: Dunham Halloween Carnival Day
+        caption: |
+            Ms. Knall's 3rd Grade class has fun for Halloween Carnival and Dunham School in Baton Rouge.
+        url: https://youtu.be/qsZkJJrVVqA
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/qsZkJJrVVqA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3s.jpg
+        duration: 4:32
+        
+     -
+        id: 159721557
+        dateRecorded: 2015-10-17
+        name: Kolya's Knock Knock Joke
+        caption:    
+        url: https://youtu.be/kYYCFfbBQlU
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/kYYCFfbBQlU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3t.jpg
+        duration: 0:06
+        
+     -
+        id: 159721543
+        dateRecorded: 2015-10-16
+        name: Lego Building
+        caption: |
+            Nothing particularly interesting here.  Just a snapshot of how they looked and played together in 2015.
+        url: https://youtu.be/ct3fuJTF51I
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/ct3fuJTF51I" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1gg.jpg
+        duration: 0:47
+        
+     -
+        id: 159721536
+        dateRecorded: 
+        name: Really, Really, Really Hard Knock Life
+        caption: Recorded September 27, 2015
+        url: https://youtu.be/KdZmy1kfqtY
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/KdZmy1kfqtY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3u.jpg
+        duration: 0:41
+        
+     -
+        id: 159721526
+        dateRecorded: 2015-09-13
+        name: Kolya is Making a Movie
+        caption: 
+        url: https://youtube.com/shorts/aXMus8Cxrn4
+        embed: <iframe width="465" height="826" src="https://www.youtube.com/embed/aXMus8Cxrn4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ii.jpg
+        duration: 0:02
+        
+     -
+        id: 159721516
+        dateRecorded: 2015-08-12
+        name: Sk8ters
+        caption: |
+            V and D get a hang of the skateboard.
+        url: https://youtu.be/A6Yxfl7jF38
+        embed:  <iframe width="664" height="374" src="https://www.youtube.com/embed/A6Yxfl7jF38" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3v.jpg
+        duration: 1:47
+        
+     -
+        id: 159721594
+        dateRecorded: 2016-02-29
+        name: Vanyaction
+        caption: |
+            Vanya has taken to making liitle action videos with his iPad.  I have this one, just because he did it on my phone, while using my frozen margarita as a prop.  We call them "Vanyaction" movies.  Here's the trailer for the next Vanyaction blockbuster.
+        url: https://youtube.com/shorts/AgtXeJO6ioA
+        embed: <iframe width="465" height="826" src="https://www.youtube.com/embed/AgtXeJO6ioA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2jj.jpg
+        duration: 1:47
+        
+     -
+        id: 130789591
+        dateRecorded: 2015-02-07
+        name: Vanya Opens Birthday Presents
+        caption: 
+        url: https://youtu.be/M2Z72OdsBho
+        embed: <iframe width="664" height="498" src="https://www.youtube.com/embed/M2Z72OdsBho" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3w.jpg
+        duration: 7:45
+     -
+        id: 314079416
+        dateRecorded: 
+        name: The Longest Description
+        caption: |
+            This is the longest way you can possibly say, "I cut myself on a bag of strawberries."
+        url: https://youtu.be/cOr_Vszhblo
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/cOr_Vszhblo" title="The Longest Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1hh.jpg
+        duration: 1:34
