@@ -219,11 +219,13 @@ MastodonApi.prototype.getToots = function () {
       }
     })
     .catch((err) => {
-//      this.mtBodyContainer.innerHTML =
-//        '<div class="mt-error"><span class="mt-error-icon">❌</span><br/><strong>Sorry, request failed:</strong><br/><div class="mt-error-message">' +
-//        err +
-//        "</div></div>";
-//      this.mtBodyContainer.setAttribute("role", "none");
+        if (this.mtBodyContainer) {
+            this.mtBodyContainer.innerHTML =
+            '<div class="mt-error"><span class="mt-error-icon">❌</span><br/><strong>Sorry, request failed:</strong><br/><div class="mt-error-message">' +
+            err +
+            "</div></div>";
+            this.mtBodyContainer.setAttribute("role", "none");
+        }
     });
 
   // Inner function to add each toot content in container
@@ -400,29 +402,31 @@ MastodonApi.prototype.getToots = function () {
   };
 
   // Toot interactions
-  this.mtBodyContainer.addEventListener("click", function (event) {
-    // Check if clicked in a toot
-    if (
-      event.target.localName == "article" ||
-      event.target.offsetParent.localName == "article" ||
-      event.target.localName == "img"
-    ) {
-      openTootURL(event);
+    if (this.mtBodyContainer) {
+        this.mtBodyContainer.addEventListener("click", function (event) {
+            // Check if clicked in a toot
+            if (
+                event.target.localName == "article" ||
+                event.target.offsetParent.localName == "article" ||
+                event.target.localName == "img"
+                ) {
+                    openTootURL(event);
+                }
+            // Check if clicked in Show More/Less button
+            if (
+                event.target.localName == "button" &&
+                event.target.className == "spoiler-link"
+                ) {
+                    toogleSpoiler(event);
+                }
+        });
+        this.mtBodyContainer.addEventListener("keydown", function (event) {
+            // Check if Enter key pressed with focus in an article
+            if (event.code === "Enter" && event.target.localName == "article") {
+                openTootURL(event);
+            }
+        });
     }
-    // Check if clicked in Show More/Less button
-    if (
-      event.target.localName == "button" &&
-      event.target.className == "spoiler-link"
-    ) {
-      toogleSpoiler(event);
-    }
-  });
-  this.mtBodyContainer.addEventListener("keydown", function (event) {
-    // Check if Enter key pressed with focus in an article
-    if (event.code === "Enter" && event.target.localName == "article") {
-      openTootURL(event);
-    }
-  });
 
   // Open Toot in a new page avoiding any other natural link
   openTootURL = function (event_) {

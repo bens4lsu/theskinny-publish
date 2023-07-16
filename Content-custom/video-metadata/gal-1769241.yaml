@@ -5,6 +5,9 @@ name: Interesting, Unusual, or Funny - Volume 2
 slug: interesting-unusual-funny-volume-2
 caption: Same thing as IUF, Vol 1, but newer.  Non-connected, random videos that are interesting, unusual, or funny, and which don't really belong with any of the other groups.
 tn: mq1cc.jpg
+linkBack:
+    text: Interesting, Unusual, and Funny
+    url: /vid/interesting-unusual-and-funny/
 videos: 
     -
         id: 130253338

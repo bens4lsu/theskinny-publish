@@ -17,6 +17,7 @@ struct VideoAlbum: Component, Decodable {
     let slug: String
     var videos: [Video]
     let tn: String?
+    let linkBack: LinkInfo?
     
     var link: String {
         "/vid2/\(slug)"
@@ -49,8 +50,10 @@ struct VideoAlbum: Component, Decodable {
             .dateRecorded
     }
     
+    
     var body: Component {
         Div {
+            TopNavLinks(linkBack, nil, nil)
             H1(name)
             Div {
                 Text(caption)

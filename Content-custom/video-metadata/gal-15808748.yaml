@@ -6,6 +6,9 @@ name: >
 slug: home-movies-2010-2011
 caption: What 8mm was to families of the 1960s, Vimeo is to our family.  These are mostly my kid, around the house or on a trip, and they're probably not interesting unless you're related.  And even then, it might be a stretch to call them interesting.  But we like having them around.
 tn: mq3f.jpg
+linkBack:
+    text: Family Home Videos
+    url:  /vid/family-home-videos/
 videos: 
     -
         id: 33583102

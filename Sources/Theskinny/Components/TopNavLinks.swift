@@ -10,7 +10,7 @@ import Plot
 import Publish
 
 
-class LinkInfo {
+class LinkInfo: Decodable {
     let text: String
     let url: String
     
