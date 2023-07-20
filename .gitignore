@@ -11,3 +11,7 @@ Resources/img
 Resources/sound
 **/*.mp4
 ~*.xlsx
+Output/sound/*
+Output/img/*
+Output/sound
+Output/img
