@@ -5,6 +5,10 @@ name: >
     Home Movies (V & K):  January - August, 2012
 slug: home-movies-2012
 caption: 
+tn: 
+linkBack:
+    text: Family Home Videos
+    url:  /vid/family-home-videos/
 videos: 
     -
         id: 45942931
@@ -16,6 +20,8 @@ videos:
             "Baby K" is what Vanya keeps calling him.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 45940964
         dateRecorded: 2012-07-09
@@ -26,6 +32,8 @@ videos:
             We were at lunch with Pooh, Tigger, et al, and they decided to have a march around the room to celebrate "Friendship Day."  V was really having fun, but he's close to the back of a man who's big enough to have stayed in his seat, so you only get a quick look at his excitement.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 45940962
         dateRecorded: 2012-07-09
@@ -34,6 +42,8 @@ videos:
             What made Disney worth being packed into a hellish sea of humanity was Vanya.  This is from right before lunch.  We had watched a bit of a stage show in front of the castle, and I started to video as we moved away.  You can see the excitement in his step, even though we had been in the park for several hours.  This kid had a really fun day, and that made it fun for us all.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 45942930
         dateRecorded: 2012-07-08
@@ -42,6 +52,8 @@ videos:
             When we got to our room at the Animal Planet Lodge, there was a giraffe outside the room.  He wasn't really as much of a hit as I would have expected him to be.  You can tell that I'm happier to see him than either of my kids.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 45942929
         dateRecorded: 2012-07-02
@@ -52,6 +64,8 @@ videos:
             At the Schooner Wharf Bar in Key West, FL.  
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 44053153
         dateRecorded: 2012-05-26
@@ -59,6 +73,8 @@ videos:
         caption: 
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 44053154
         dateRecorded: 2012-05-26
@@ -66,6 +82,8 @@ videos:
         caption: 
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 43119210
         dateRecorded: 2012-05-19
@@ -74,6 +92,8 @@ videos:
             This is a short capture of Vanya and Kolya playing on the toy tractor up at the farm.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 43119208
         dateRecorded: 2012-05-14
@@ -81,6 +101,8 @@ videos:
         caption: On May 14, Vanya's dance class had a trophy ceremony.  They were supposed to say their name, do their favorite dance move, and then collect their new hardware.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 43119207
         dateRecorded: 2012-05-14
@@ -88,6 +110,8 @@ videos:
         caption: 
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 43119209
         dateRecorded: 2012-05-03
@@ -98,6 +122,8 @@ videos:
             Recorded May 3, 2012
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 41028203
         dateRecorded: 2012-04-24
@@ -108,6 +134,8 @@ videos:
             This is Kolya, enjoying a nice outdoor evening, after eating pudding for desert.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 40263629
         dateRecorded: 2012-04-06
@@ -116,6 +144,8 @@ videos:
             On the last night of our Easter Voyage, we had dropped anchor, and dyed Easter eggs.  After that, there was nothing to do but play.  Vanya requested pop music, and both kids danced away.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 40302576
         dateRecorded: 2012-04-05
@@ -124,6 +154,8 @@ videos:
             The kids play and eat on the boat at anchor.  This was the first night of our Easter trip in 2012.  See http://http://theskinnyonbenny.com/ve/page.php?fn=ve_s6.content for more.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 36880838
         dateRecorded: 2012-02-15
@@ -132,6 +164,8 @@ videos:
             Vanya reluctantly demonstrates his first loose tooth for me.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 36880729
         dateRecorded: 2012-02-15
@@ -142,6 +176,8 @@ videos:
             Here, he enjoys Metallica's Enter Sandman.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 36880920
         dateRecorded: 2012-02-15
@@ -150,6 +186,8 @@ videos:
             Kolya imitates me during the middle of a quiet, boring day.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 35770059
         dateRecorded: 2012-01-21
@@ -158,6 +196,8 @@ videos:
             Vanya builds an elaborate structure out of lawn furniture to keep the dogs from eating Kolya's Cheerios.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 35727357
         dateRecorded: 2012-01-26
@@ -166,6 +206,8 @@ videos:
             Kolya hasn't often initiated fun, playfulness with Vanya.  Here, he chooses homework time to do just that.
         url: 
         embed: 
+        tn: 
+        duration: 
     -
         id: 49635418
         dateRecorded: 2012-08-28
@@ -174,4 +216,5 @@ videos:
             In which Vanya gets frustrated, because he doesn't understand that babies aren't born knowing how to play cards.  To make it worse, this is a game to teach reading, and I don't think poor Kolya had a chance to read the words on the cards just yet.
         url: 
         embed: 
-        
+        tn: 
+        duration: 
