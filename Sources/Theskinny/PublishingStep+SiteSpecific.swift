@@ -73,15 +73,25 @@ extension PublishingStep where Site == Theskinny {
     static func writeVideoAlbumPages() -> Self {
         .step(named: "Create video album pages"){ context in
             let factory = TsobHTMLFactory()
+            var maxVideoId = Int.min
+            var maxAlbumId = Int.min
             for var album in context.videoAlbums {
                 var page = Page(path: "video-albums/\(album.slug)/index.html", content: Content())
                 page.title = album.name
                 album.videos = album.videos.sorted()
+                let albumMax = album.videos.map { $0.id }.max() ?? Int.min
+                if albumMax > maxVideoId {
+                    maxVideoId = albumMax
+                }
+                if album.id > maxAlbumId {
+                    maxAlbumId = album.id
+                }
                 let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
                 let file = try context.createOutputFile(at: page.path)
                 try file.write(html.render())
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context, backToPage: page)
             }
+            print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
             try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
             try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
         }
