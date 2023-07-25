@@ -330,7 +330,7 @@ div.twitter-tweet {
     padding: 0;
 }
 
-.mt-user {
+.mt-user, .toot-text {
     color: #000;
 }
 
@@ -342,8 +342,8 @@ div.twitter-tweet {
     background-color: transparent;
     border-bottom: 2px solid #a6a6a6;
     font-size: 100%;
-    color: #000;
 }
+
 
 .mt-footer {
     margin: 0.5rem auto 0.25rem auto;
