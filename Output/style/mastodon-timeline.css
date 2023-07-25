@@ -121,9 +121,9 @@ html[data-theme="dark"] {
   display: table;
   font-weight: 600;
 }
-.mt-user > a {
-  color: var(--content-text) !important;
-}
+/*.mt-user > a {*/
+/*  color: var(--content-text) !important;*/
+/*}*/
 
 /* Text */
 .toot-text {
