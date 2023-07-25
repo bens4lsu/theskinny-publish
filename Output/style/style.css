@@ -330,7 +330,7 @@ div.twitter-tweet {
     padding: 0;
 }
 
-.mt-user, .toot-text {
+.mt-user > a, .toot-text {
     color: #000;
 }
 
