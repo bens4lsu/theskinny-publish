@@ -18,7 +18,7 @@ extension TsobHTMLFactory {
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
         let stylesheetPaths: [Path] = ["/style/lightview.css",
-                                       "/style/mastodon-timeline.css",
+                                       "/style/mastodon-timeline.css?v=\(EnvironmentKey.styleAndScriptVersion)",
                                        "/style/style.css?v=\(EnvironmentKey.styleAndScriptVersion)",
         ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
