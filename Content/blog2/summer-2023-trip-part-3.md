@@ -37,7 +37,7 @@ I've been using this space to make fun of Crystal since I spun it up in 2004, an
 
 **July 23**:  We got up, and pretty much right away drove V and H to Boston.  Having attempted it two years in a row, I will declare that it is impossible to drop someone off at a Boston airport hotel without missing a turn and having to spend an extra 30 to 60 minutes winding through a spaghetti mess of streets, bridges, and tunnels.  If I never drive to Logan again, it will be too soon.
 
-After that, I bought groceries and liquor, made dinner, started a camp file, drank a scotch, and watched my ipad by the fire pit.
+After that, I bought groceries and liquor, made dinner, started a camp fire, drank a scotch, and watched my ipad by the fire pit.
 
 <a class="lightview centered" href="/img/IMG_0696.jpeg" data-lightview-caption="River view from the campground where I'll be spending the next couple of weeks." data-lightview-group="group1"><img src="/img/IMG_0696.jpeg" alt="/img/IMG_0696.jpeg" width="650px"><br><span class="caption">River view from the campground where I'll be spending the next couple of weeks.</span></a>
 
