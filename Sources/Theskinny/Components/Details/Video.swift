@@ -73,7 +73,7 @@ struct Video: Component, Decodable {
                 Span(Markdown(caption))
                 H3 { Text("\(dateRecordedString)") }
                 H3 { Text("\(formattedDuration)") }
-            }
+            }.class("vid-gal-stuff")
             Div{
                 Link(url: link) {
                     Image("/img/video-thumbnails/\(tn)")

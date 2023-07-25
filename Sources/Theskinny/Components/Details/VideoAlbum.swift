@@ -71,7 +71,7 @@ struct VideoAlbum: Component, Decodable {
                 Div { Markdown(caption) }
                 H3 { Text("\(videos.count) videos") }
                 H3 { Text("Total Duration: \(formattedDuration)") }
-            }
+            }.class("vid-gal-stuff")
             Div{
                 Link(url: link) {
                     Image("/img/video-thumbnails/\(tn ?? "")")
