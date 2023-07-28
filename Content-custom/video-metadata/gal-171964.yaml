@@ -1,24 +1,32 @@
 # id numbers from original ids on Vimeo
 
-id: 171964
+id: 171964 
 name: 2010 Saints Playoffs
 slug: 2010-saints-playoffs
 caption: Videos from the day of the Saints first NFC Championship game at home, which of couse was the day that they won their first NFC Championship.  And after those, there are more videos from Super Bowl Sunday, which of course, is the day that Hell froze over.
+tn: 
+linkBack:
+    text: Interesting, Unusual, and Funny 2023
+    url:  /vid/interesting-unusual-and-funny/
 videos: 
     -
         id: 9406571
         dateRecorded: 2010-02-07
         name: Coming out of Church Superbowl Sunday
         caption: The local priests got permission to wear Saints gear on Superbowl Sunday and to fly a Saints flag over the cathedral.  We were having champagne brunch across the street from this church as they let out Sunday morning.
-        url: 
-        embed: 
+        url: https://youtu.be/HMMkG9cvMhI
+        embed:<iframe width="835" height="470" src="https://www.youtube.com/embed/HMMkG9cvMhI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ddd.jpg
+        duration: 0:31
     -
         id: 9405742
         dateRecorded: 2010-02-07
         name: French Quarter Before the Game on Superbowl Sunday
         caption: Who Dat!
-        url: 
-        embed: 
+        url: https://youtu.be/AM3JlHoa_8g
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/AM3JlHoa_8g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2eee.jpg
+        duration: 0:29
     -
         id: 9503551
         dateRecorded: 2010-02-07
@@ -27,41 +35,53 @@ videos:
             Before you watch, know this:  it's a bad video.  It might even be unwatchable.  But it's hard to celebrate and film at the same time, and at the time this was shot, celebrating was the top priority.
 
             The scene is the Royal Sonesta bar on Bourbon Street, as time expires in Superbowl XLIV.  I'm in the back of the bar, but at some point, I make my way out into the street.
-        url: 
-        embed: 
+        url: https://youtu.be/3dIi0gTMg7g
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/3dIi0gTMg7g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2fff.jpg
+        duration: 8:33
     -
         id: 9500417
         dateRecorded: 2010-02-07
         name: Bourbon Street after the Superbowl
         caption: |
             Before you watch, know this:  it's a horrible video.  I might go as far as to say that it's unwatchable.  But it's hard to celebrate and film, so if you want to see the French Quarter at the moment that the Superbowl ended, this is what I have.
-        url: 
-        embed: 
+        url: https://youtu.be/ylksSabjym4
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/ylksSabjym4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ggg.jpg
+        duration: 0:28
     -
         id: 9500768
         dateRecorded: 2010-02-07
         name: Royal Street after the Superbowl
         caption: It wasn't just Bourbon Street that was packed to the gills after the game.  Here's a quick shot of Royal, which I've never seen like this.  The cross streets were just as packed.
-        url: 
-        embed: 
+        url: https://youtu.be/YsQ_fR5jmNw
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/YsQ_fR5jmNw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3jj.jpg
+        duration: 0:28
     -
         id: 9014228
         dateRecorded: 2010-01-24
         name: Game Day Drummer (NFC Championship Game Day)
         caption: This guy plays his rhythm, and then you're supposed to shout Who Dat!  But he either couldn't get the people doing it, or like me, they totally botched when they were supposed to yell.  It was fun all the same. 
-        url: 
-        embed: 
+        url: https://youtu.be/w89LVP76sik
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/w89LVP76sik" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1vv.jpg
+        duration: 0:38
     -
         id: 9012487
         dateRecorded: 2010-01-24
         name: In the French Quarter on NFC Championship Gameday
         caption: On the day of the New Orleans Saints/Minnesota Vikings NFC Championship game in New Orleans.  This is right outside of Bourbon House.
-        url: 
-        embed: 
+        url: https://youtu.be/Yo9ftg3wTlk
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/Yo9ftg3wTlk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1uu.jpg
+        duration: 0:29
     -
         id: 9011990
         dateRecorded: 2010-01-24
         name: Canal St. After the NFC Championship Game
         caption: Canal Street, 1/24/2010, about an hour after the New Orleans Saints won their first NFC Championship.
-        url: 
-        embed: 
+        url: https://youtu.be/CIGOUCAPfUI
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/CIGOUCAPfUI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2hhh.jpg
+        duration: 4:00
