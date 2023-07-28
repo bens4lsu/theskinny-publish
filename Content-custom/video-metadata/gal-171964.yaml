@@ -15,7 +15,7 @@ videos:
         name: Coming out of Church Superbowl Sunday
         caption: The local priests got permission to wear Saints gear on Superbowl Sunday and to fly a Saints flag over the cathedral.  We were having champagne brunch across the street from this church as they let out Sunday morning.
         url: https://youtu.be/HMMkG9cvMhI
-        embed:<iframe width="835" height="470" src="https://www.youtube.com/embed/HMMkG9cvMhI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/HMMkG9cvMhI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq2ddd.jpg
         duration: 0:31
     -
