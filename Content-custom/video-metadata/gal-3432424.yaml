@@ -1,0 +1,76 @@
+# id numbers from original ids on Vimeo
+
+id: 3432424
+name: Drone Flights
+slug: drone-flights
+caption: A couple of these are in other groups, but this is just one place to stick drone flights.
+tn: mq1cc.jpg
+linkBack:
+    text: Interesting, Unusual, and Funny
+    url: /vid/interesting-unusual-and-funny/
+videos:
+    -
+        id: 130253338
+        dateRecorded: 
+        name: Test Flight
+        caption: When I got my first drone, it had this footage loaded on it, which the manufacturers apparently forgot to delete.
+        url: https://youtu.be/OEb-GH317F8
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/OEb-GH317F8" title="Test Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3m.jpg
+        duration: 0:51 
+    -
+        id: 153437208
+        dateRecorded: 2015-01-16
+        name: Drone Flight - Goodwood Park
+        caption: 
+        url: https://youtu.be/bq7AiqLlGHU
+        embed: <iframe width="819" height="461" src="https://www.youtube.com/embed/bq7AiqLlGHU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3ff.jpg
+        duration: 2:28
+    -
+        id: 153437243
+        dateRecorded: 2015-01-16
+        name: Drone Test - Stuck in Tree
+        caption: We run a test flight, then use the "return home" button, only to get stuck in a tree.  The video continues shooting while you see attempts to dislodge the drone from the branches.            
+        url: https://youtu.be/BeMMZ7dd5ps
+        embed: <iframe width="819" height="461" src="https://www.youtube.com/embed/BeMMZ7dd5ps" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3hh.jpg
+        duration: 5:11
+    -
+        id: 130486363
+        dateRecorded: 2015-01-18
+        name: Louisiana Marathon Drone Mishap
+        caption: As you may know, the Louisiana Marathon passes right in front of our house.  I had the idea this year that it would be fun to fly the drone up above the runners as they passed.  Instead, I damn near knocked an exhausted runner in the head.  My co-spectators refused to allow me another test flight.
+        url: https://youtu.be/H7rtODfSl70
+        embed: <iframe width="819" height="461" src="https://www.youtube.com/embed/H7rtODfSl70" title="Louisiana Marathon Drone Mishap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2gg.jpg
+        duration: 1:53
+    -
+        id: 200000000
+        dateRecorded: 2023-02-23
+        name: Lake in Ozark National Forest
+        caption: |
+            For Spring Break in 2023, we camped out in Ozard National forest.  We had a spot on the shore of a pretty lake whose name I don't know, and there were no other people anywhere that we could see.  Here's a lake fly over.
+        url: https://youtu.be/qATW1H-ry1g
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/qATW1H-ry1g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq1tt.jpg
+        duration: 1:14
+    -
+        id: 200000001
+        dateRecorded: 2023-03-22
+        name: Mississippi River, Baton Rouge
+        caption: Drone practice over the Mississippi, from the levee at LSU.
+        url: https://youtu.be/do2pIO1WTV4
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/do2pIO1WTV4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq3ii.jpg
+        duration: 2:42
+    -
+        id: 200000002
+        dateRecorded: 2023-03-26
+        name: Remodeled Garage
+        caption: |
+            In October, 2022, we started cleaning out the garage.  We thought it would take a weekend.  maybe two.  We finally got it all done and organized in March.  Here's a look at all of the shit that we packed into a one-car garage.
+        url: https://youtu.be/zh6Ow9BRK2c
+        embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/zh6Ow9BRK2c" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq2ccc.jpg
+        duration: 0:44
