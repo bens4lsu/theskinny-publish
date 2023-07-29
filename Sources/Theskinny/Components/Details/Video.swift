@@ -96,7 +96,7 @@ struct Video: Component, Decodable {
             navSection
             H1(name)
             H3(formattedDate)
-            Div { Text(caption) }
+            Div { Markdown(caption) }
             Div {
                 Markdown(embed)
             }.class("embed-featured")
