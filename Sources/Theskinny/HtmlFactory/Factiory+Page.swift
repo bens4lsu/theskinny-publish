@@ -28,7 +28,7 @@ extension TsobHTMLFactory {
         var pageTitle: String {
             switch page.path.string {
             case "pgHome":
-                return "Daily photos on theskinnyonbenny.com"
+                return "Photo Galleries on theskinnyonbenny.com"
             default:
                 return "theskinnyonbenny.com"
             }
