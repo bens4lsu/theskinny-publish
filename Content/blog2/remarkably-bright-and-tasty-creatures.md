@@ -4,6 +4,7 @@ date: 2023-07-30 18:12
 description: I'm going to write more words about octopuses here than you thought possible.  Also, a little story-window into our Croatia trip last summer.
 tags: travel, food
 id: 2339
+ogImg: https://dynamic.theskinnyonbenny.com/gal/175%20-%20Europe%202022%20pt%202%20-%20Coastal%20Croatia/resIMG_20220530_120010_IMG_8255_HEIC.jpg
 ---
 Camping Summers aren't as good for me as Sailboat Summers when it comes to plowing through books.  A good 80% of what I read happens during the summer, and long passages really lend themselves to uninterrupted reading.
 
