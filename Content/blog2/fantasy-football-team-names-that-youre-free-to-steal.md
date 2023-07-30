@@ -1,7 +1,7 @@
 ---
 title: Fantasy Football Team Names That You're Free to Steal
 date: 2016-08-29 12:09
-description: A description of my post.
+description: I probably spent half a day just to come up with eight puns.
 tags: sports
 id: 2042
 ---

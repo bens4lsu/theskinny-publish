@@ -1,7 +1,7 @@
 ---
 title: Happy  Birthday Back At Ya
 date: 2016-09-20 09:07
-description: A description of my post.
+description: Over the last couple of years, birthday week has been a source of some little bit of stress. The source of this is all of the Facebook greetings from people whose birthdays that I've ignored for years.
 tags: uncategorized
 id: 2047
 ---

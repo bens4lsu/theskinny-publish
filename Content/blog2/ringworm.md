@@ -1,7 +1,7 @@
 ---
 title: Ringworm
 date: 2016-11-10 11:16
-description: A description of my post.
+description: A couple of weeks ago, I somehow picked up a bit of a ringworm on my right calf.  It sounds like I'm a filthy animal, and I am, but it's just a skin fungus that's easily treated.
 tags: stories
 id: 2063
 ---

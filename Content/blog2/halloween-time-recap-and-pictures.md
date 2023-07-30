@@ -1,13 +1,13 @@
 ---
 title: Halloween-time Recap and Pictures
 date: 2016-11-07 12:55
-description: A description of my post.
+description: It's been like a year and a half since I got photos posted to this web site in any sort of manner that is timely enough to share.  Until now.  We kicked off spooky weekend number one with a visit to a "haunted corn maze" out in the middle of nowhere.  It ended up being a really big corn maze that I suspect looked very little like its map picture:
 tags: stories,young-ruski
 id: 2055
 ---
 It's been like a year and a half since I got photos posted to this web site in any sort of manner that is timely enough to share.  
 
-<a href="http://theskinnyonbenny.com/pg4.php?spgmGal=138%20-%20Halloween%202016">Until now</a>.
+<a href="https://dynamic.theskinnyonbenny.com/gal/138">Until now</a>.
 
 We kicked off spooky weekend number one with a visit to a "haunted corn maze" out in the middle of nowhere.  It ended up being a really big corn maze that I suspect looked very little like its map picture:
 

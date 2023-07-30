@@ -1,7 +1,7 @@
 ---
 title: Kindergarten Lunch Duty
 date: 2016-08-23 10:21
-description: A description of my post.
+description: K is always quiet on his way to school, and it often freaks me out, since he's never quiet. This morning was his second full day of school -- and his first where I wasn't planning to walk him in, and I was afraid that he was nervous about finding his way around.  At a stop light, I turned back to him and asked, "Are you sure you know where to go when I drop you off?"
 tags: young-ruski
 id: 2033
 ---

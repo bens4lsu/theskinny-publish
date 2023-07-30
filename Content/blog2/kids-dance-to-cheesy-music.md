@@ -1,7 +1,7 @@
 ---
 title: Kids Dance to Cheesy Music
 date: 2016-11-02 08:45
-description: A description of my post.
+description: A short conversation, and despite the title, this one is not for the kids.
 tags: uncategorized
 id: 2049
 ---
