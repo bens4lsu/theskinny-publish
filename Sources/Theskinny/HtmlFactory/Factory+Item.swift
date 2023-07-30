@@ -42,7 +42,7 @@ extension TsobHTMLFactory {
         guard let post = allPosts.post(withId: id) else {
             throw TsobHTMLFactoryError.currentPostNotFoundInContext
         }
-        var htmlHeadInfo = HeaderInfo(location: item, title: "Blog on theskinnyonbenny.com")
+        var htmlHeadInfo = HeaderInfo(location: item, title: item.title + " -- on theskinnyonbenny.com")
         htmlHeadInfo.additionalNodes.append(ogImgNode(item.metadata.ogImg, context: context, item: item))
         let pageMain = AnyPageMain(mainContent: post, site: context.site)
         return HTML(
