@@ -1,8 +1,8 @@
 ---
 title: Cars for Old Geezers
 date: 2004-03-04 20:11
-description: A description of my post.
-tags: stories,favorite-posts
+description: I saw a commercial for the local Lincoln/Mercury car dealership.  This particular commercial has the dealership full of young families:  30-somthing parents, with cute active kids.  The problem with this whole thing is that there's no way in hell that any of these people are going to buy a Lincoln or a Mercury.  I really thought that you had to be collecting social security before they would even let you into the dealership.  At the very least, they must have an AARP discount.
+tags: my-observations, commercials, pop-culture
 id: 15
 ---
 I made a personal goal this week to post five entries in five days.  That's getting to be a tough task.  It's not that I don't have plenty to rant about -- in fact, the more of these that I write, the more I think of.  (You can't tell that there's any self-editing here, but you should read some of the garbage that <i>doesn't </i>make it.)

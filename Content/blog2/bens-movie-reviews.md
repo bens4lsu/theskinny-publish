@@ -2,7 +2,7 @@
 title: Ben's Movie Reviews
 date: 2004-03-01 12:24
 description: Today, I wipe the sweat off my brow, having avoided the Oscar season's obligatory geezer movie.  We generally spend January in a frenzy of movie-going.  The weather is crappy anyway, so we try to catch as many of the Oscar contenders as possible.
-tags: pop-culture,favorite-posts
+tags: pop-culture, movies
 id: 12
 ---
 Today, I wipe the sweat off my brow, having avoided the Oscar season's obligatory geezer movie.  We generally spend January in a frenzy of movie-going.  The weather is crappy anyway, so we try to catch as many of the Oscar contenders as possible.

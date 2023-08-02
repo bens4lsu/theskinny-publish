@@ -2,7 +2,7 @@
 title: St. Patrick's Day
 date: 2004-03-15 22:29
 description: A description of my post.
-tags: stories,favorite-posts
+tags: my-stories, baton-rouge, parades, st-patricks-day
 id: 17
 ---
 Anyone who knows me only from my web log will certainly think that all we do in Baton Rouge is go to one parade after another.  This is the third article that mentions going to a parade, and I've only posted a dozen or so.  I guess that if you see that I'm planning a road trip to parades in other states, you'd better encourage me to seek some help.

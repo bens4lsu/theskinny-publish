@@ -2,7 +2,7 @@
 title: The End of Football Season
 date: 2004-02-03 08:39
 description: The biggest story of my football lifetime is LSU's national championship this season.  I used to say that if LSU wins the national championship in the Sugar Bowl, that I would give up watching football, since there would be nothing left to hope for.  I'm still considering that as the plan for Fall, but for now, let's reflect on this past season.
-tags: sports
+tags: sports, football, lsu, parades
 id: 7
 ---
 The biggest story of my football lifetime is LSU's national championship this season.  I used to say that if LSU wins the national championship in the Sugar Bowl, that I would give up watching football, since there would be nothing left to hope for.  I'm still considering that as the plan for Fall, but for now, let's reflect on this past season.

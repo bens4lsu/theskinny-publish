@@ -2,7 +2,7 @@
 title: Reality TV
 date: 2004-03-03 14:38
 description: It seems like most people are either raving fans or harsh critics of reality TV.  Actually, the ratings show that there are more fans, but at least some of us reality fans aren't willing to admit it.
-tags: pop-culture
+tags: pop-culture, tv
 id: 14
 ---
 It seems like most people are either raving fans or harsh critics of reality TV.  Actually, the ratings show that there are more fans, but at least some of us reality fans aren't willing to admit it.

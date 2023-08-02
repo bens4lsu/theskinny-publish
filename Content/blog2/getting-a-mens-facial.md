@@ -1,8 +1,8 @@
 ---
 title: Getting a Men's Facial
 date: 2004-03-09 14:30
-description: A description of my post.
-tags: stories,favorite-posts
+description: I know that admitting this in print gets me labeled as a pussy by a lot of my faithful readers, but hey, I'm here to inform and educate.  I spent one afternoon in the hotel spa, and got a massage and a facial.  We all know what happens in a massage, but maybe not what goes on with a facial.  Besides, there's someone out there who is curious about what goes on in a men's facial, and who will find this site through Goggle years from now.
+tags: spa, travel
 id: 16
 ---
 I know that admitting this in print gets me labeled as a pussy by a lot of my faithful readers, but hey, I'm here to inform and educate.  I spent one afternoon in the hotel spa, and got a massage and a facial.  We all know what happens in a massage, but maybe not what goes on with a facial.  Besides, there's someone out there who is curious about what goes on in a men's facial, and who will find this site through Goggle years from now.

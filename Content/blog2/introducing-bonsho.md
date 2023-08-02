@@ -2,7 +2,7 @@
 title: Introducing Bonsho
 date: 2004-03-02 09:00
 description: I am surprised that I have managed to go this long without telling any of you about my Las Vegas trip.  There are a few stories to share, but not too many.  Before I get to the point on this one, I'll mention a star-spotting.
-tags: stories,favorite-posts
+tags: my-stories, travel, las-vegas
 id: 13
 ---
 I am surprised that I have managed to go this long without telling any of you about my Las Vegas trip.  There are a few stories to share, but not too many.

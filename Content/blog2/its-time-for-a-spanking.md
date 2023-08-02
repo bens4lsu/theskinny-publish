@@ -2,7 +2,7 @@
 title: It's Time for a Spanking
 date: 2004-02-11 18:55
 description: Here's an interesting question for the married men readers to consider.  This came up in a conversation at work about a year ago.  I can't remember how it worked its way into the conversation, but whenever I think of it, I can't help but laugh.
-tags: stories,favorite-posts
+tags: my-stories, mrs-theskinnyonbenny
 id: 9
 ---
 Here's an interesting question for the married men readers to consider.  This came up in a conversation at work about a year ago.  I can't remember how it worked its way into the conversation, but whenever I think of it, I can't help but laugh.  It goes without saying that this is strictly hypothetical:

@@ -2,7 +2,7 @@
 title: Mailbag I
 date: 2004-02-17 10:06
 description: Last week was a bad one for me, and I wasn't really in the mood to note cute observations to share with all of you.  But, I'm getting messages that are pretty good, so I figured I would just let you all write this entry for me.
-tags: uncategorized,favorite-posts
+tags: correspondence
 id: 10
 ---
 Last week was a bad one for me, and I wasn't really in the mood to note cute observations to share with all of you.  But, I'm getting messages that are pretty good, so I figured I would just let you all write this entry for me.

@@ -2,7 +2,7 @@
 title: Midget Wrestling
 date: 2004-02-08 19:31
 description: It started with an email last Wednesday from Shelly.  Yes, we went to see little people wrestling.  It's as problematic as you're thinking it might be.
-tags: sports,stories
+tags: sports, my-stories, live-entertainment, new-orleans
 id: 8
 ---
 It started with an email last Wednesday from Shelly:

@@ -2,7 +2,7 @@
 title: So now I'm blogging....
 date: 2004-01-26 22:36
 description:  Yes, I realize that posting my thoughts on the internet is a bit geeky.  That must really disappoint those of you who are still nursing the idea that I'm about as cool as they come. 
-tags: uncategorized
+tags: meta
 id: 6
 ---
 Yes, I realize that posting my thoughts on the internet is a bit geeky.  That must really disappoint those of you who are still nursing the idea that I'm about as cool as they come.  But I find that I enjoy reading the well-written column on the internet, and since none of those "reputable" sites are likely to publish me, here I am for the world to find.

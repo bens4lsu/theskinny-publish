@@ -2,7 +2,7 @@
 title: Mardi Gras 2004
 date: 2004-02-25 20:33
 description: Yesterday was the final day of the Mardi Gras season, and as some of my regular readers might guess, I like to catch a parade or two during the month.  I admit right now that I had a crappier parade-going schedule this year than most.  We had pretty consistent cold rain in February, except for the final weekend, when we were in Las Vegas.
-tags: stories,favorite-posts
+tags: my-stories, mardi-gras, new-orleans, parades
 id: 11
 ---
 Yesterday was the final day of the Mardi Gras season, and as some of my regular readers might guess, I like to catch a parade or two during the month.  I admit right now that I had a crappier parade-going schedule this year than most.  We had pretty consistent cold rain in February, except for the final weekend, when we were in Las Vegas.
