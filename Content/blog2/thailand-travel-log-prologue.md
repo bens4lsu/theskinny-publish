@@ -1,8 +1,8 @@
 ---
 title: Thailand Travel Log:  Prologue
 date: 2004-03-29 05:20
-description: A description of my post.
-tags: travel,blogs-i-read-once-in-a-while
+description: This marks the first of many entries that I will make during my Thailand trip.  I'm not sure exactly how this travel journal will play out, but I would expect it to differ in style frm the rest of the blog in some way or other.  I'm making this entry from my PDA at the Baton Rouge airport, so it may be short.
+tags: travel, thailand, short
 id: 21
 ---
 This marks the first of many entries that I will make during my Thailand trip.  I'm not sure exactly how this travel journal will play out, but I would expect it to differ in style frm the rest of the blog in some way or other.

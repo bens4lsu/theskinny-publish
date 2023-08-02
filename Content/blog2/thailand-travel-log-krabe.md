@@ -2,7 +2,7 @@
 title: Thailand Travel Log: Krabe
 date: 2004-04-12 06:43
 description: A description of my post.
-tags: travel
+tags: travel, thailand, mom
 id: 26
 ---
 I'm home now, but spent the last part of my stay in Thailand in Ao Nang.  This is a small resort town on the Indian Ocean in Krabe province.  This was notably my first time to swim in the Indian Ocean, although there's no real difference between the Indian Ocean vs. the Atlantic or Pacific.

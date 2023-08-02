@@ -1,8 +1,8 @@
 ---
 title: Thailand Travel Log:  Ayuthaya
 date: 2004-04-03 16:33
-description: A description of my post.
-tags: travel,blogs-i-read-once-in-a-while
+description: On Friday, Mom and I traveled to Ayuthaya province.  This is about an hour outside of Bangkok, and was the capital up until about a thousand years ago.  We started by touring ruins of a complex that may have been the palace or a temple.  The ruins were pretty neat.  It was much like touring an old fort in America in terms of how it looked.  But obviously, the Thai's cement was a better mix than that of the American pioneers, since it was still holding strong, despite the handicap of an extra thousand years or so of exposure.
+tags: travel,thailand
 id: 24
 ---
 On Friday, Mom and I traveled to Ayuthaya province.  This is about an hour outside of Bangkok, and was the capital up until about a thousand years ago.  We started by touring ruins of a complex that may have been the palace or a temple.  The ruins were pretty neat.  It was much like touring an old fort in America in terms of how it looked.  But obviously, the Thai's cement was a better mix than that of the American pioneers, since it was still holding strong, despite the handicap of an extra thousand years or so of exposure.

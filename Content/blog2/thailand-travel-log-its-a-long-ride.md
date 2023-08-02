@@ -1,8 +1,8 @@
 ---
 title: Thailand Travel Log:  It's a Long Ride
 date: 2004-03-31 07:58
-description: A description of my post.
-tags: travel,blogs-i-read-once-in-a-while
+description: It takes a really long time to get to Thailand.  And then, when I finally made it there, we have a little airport/customs kerfuffle.
+tags: travel,thailand, 
 id: 22
 ---
 The trip from Baton Rouge to Bangkok is definitely a long one.  It was a good 27 hours from the time I arrived at the Baton Rouge airport until I got into the car to go to my parents' place.

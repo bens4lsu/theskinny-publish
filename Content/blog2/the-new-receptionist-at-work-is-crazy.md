@@ -1,8 +1,8 @@
 ---
 title: The New Receptionist at Work is Crazy
 date: 2004-03-25 05:58
-description: A description of my post.
-tags: the-office,blogs-i-read-once-in-a-while
+description: I noticed the current front desk woman last week.  She seems friendly enough.  She's about the age and demeanor where you might expect her to be doting on new grandchildren.  I did notice that she stared at me bug-eyed one day as I crossed the lobby, but I figured she was just really curious, and I really haven't given her much thought one way or the other.  Turns out, she's crazy as hell.
+tags: the-office
 id: 19
 ---
 When we occasionally end up with an intelligent, friendly person working the front desk at APPRO, it doesn't take long before someone moves that person into a more prestigious position.  There's nothing wrong with that, except that it leads to long stretches of incompetent temps working the phones.  I remember one woman who was around for months, who always pronounced the company name as "APE-ro" instead of "AP-ro."

@@ -1,8 +1,8 @@
 ---
 title: Evening in Patpong
 date: 2004-03-26 21:19
-description: A description of my post.
-tags: travel,blogs-i-read-once-in-a-while
+description: I'm planning to post many web log entries from Thailand during my trip over there in the next two weeks.  There is only one problem with that.  Every time someone looks at pictures or wants to talk about my last trip there, they get hung up on one particular story.  It was actually Heather who was pretty insistent on getting to see the filthy side of Bangkok.  We packed in a lot of activity, and I can honestly say that we could not have experienced more cultural oddities than we did in such a short time.  Thai smut is just one piece of the big puzzle.
+tags: travel, thailand, my-stories
 id: 20
 ---
 I'm planning to post many web log entries from Thailand during my trip over there in the next two weeks.  There is only one problem with that.  Every time someone looks at pictures or wants to talk about my last trip there, they get hung up on one particular story.
@@ -13,7 +13,7 @@ Heather, Sarah, Dad, and I took the sky train from dinner to Patpong.  Patpong i
 
 We chose to patronize a nice establishment, whose sign you see pictured.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/superp.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The Super Pussy.  How could you pass this by without taking a look inside?</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/superp.jpg" data-lightview-caption="The Super Pussy.  How could you pass this by without taking a look inside?" data-lightview-group="group1" style="width:350px;"><img src="/img/superp.jpg" alt="/img/superp.jpg"><br><span class="caption">The Super Pussy.  How could you pass this by without taking a look inside?</span></a>
 
 There is no actual stripping going on in these places.  Naked women get on a stage, spread out, but in a line.  They dance poorly and joylessly while working their way to the front of the line.  They really just sort of bounce up and down like they are bored.  When they finally get to the front of the line, they do a little trick with their vaginas.
 

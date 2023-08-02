@@ -1,7 +1,7 @@
 ---
 title: St. Patrick's Day
 date: 2004-03-15 22:29
-description: A description of my post.
+description: As you've guessed by now, the Baton Rouge St. Patrick's Day parade was this weekend.  This is certainly the best one that we have in town.  It always takes place at 10:00 on a Saturday, and the weather always cooperates.  This year was no exception:  enough clouds to keep it from getting too hot, but plenty nice enough to be outside.
 tags: my-stories, baton-rouge, parades, st-patricks-day
 id: 17
 ---
