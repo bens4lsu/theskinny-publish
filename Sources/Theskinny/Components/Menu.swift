@@ -60,8 +60,8 @@ struct Menu: Component {
                         Link("Index by Date", url: "/blog/blogArchiveByDate")
                     }.class("li-pagelink")
                     ListItem {
-                        Text("tag/category index")
-                    }.class("li-pagelink todo")
+                        Link("Tag List", url: "/tags")
+                    }.class("li-pagelink")
                 }
                 Collapser(text: "Photo Galleries", elementId: "collapser-photos").component {
                     listItemDailyPhotos.class("li-pagelink")

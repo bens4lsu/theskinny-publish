@@ -7,7 +7,7 @@ id: 23
 ---
 Being in Bangkok the second time is very different than being here for the first time.  It isn't the city that has changed; it's just that the overwhelming sensation on the first visit is how very different and strange everything is.  Now, the chaos seems familiar and natural.
 
-We have only done a couple of things around the town.  The main thing was to go order and get fitted for custom clothes.  The proprietor of the store is a very nice Indian guy naked Victor.  Victor runs a store that is very popular with the Americans, and he is very proud of his known-name clients.  He has framed pictures on the wall of himself with notable clients -- mostly from the families of both Bush presidents. He told me that Tom Ridge had been there a couple of weeks before, and showed me the picture of ol' Tommy, which hadn't been framed or put on the wall yet.  
+We have only done a couple of things around the town.  The main thing was to go order and get fitted for custom clothes.  The proprietor of the store is a very nice Indian guy named Victor.  Victor runs a store that is very popular with the Americans, and he is very proud of his known-name clients.  He has framed pictures on the wall of himself with notable clients -- mostly from the families of both Bush presidents. He told me that Tom Ridge had been there a couple of weeks before, and showed me the picture of ol' Tommy, which hadn't been framed or put on the wall yet.  
 
 When I went back for my follow-up fitting yesterday, I made Victor take a picture with me.  I'm going to mail him a big glossy copy so that he can have a political independent on the wall with the rest of those guys.
 

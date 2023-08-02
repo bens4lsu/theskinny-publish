@@ -2,7 +2,7 @@
 title: Evening in Patpong
 date: 2004-03-26 21:19
 description: I'm planning to post many web log entries from Thailand during my trip over there in the next two weeks.  There is only one problem with that.  Every time someone looks at pictures or wants to talk about my last trip there, they get hung up on one particular story.  It was actually Heather who was pretty insistent on getting to see the filthy side of Bangkok.  We packed in a lot of activity, and I can honestly say that we could not have experienced more cultural oddities than we did in such a short time.  Thai smut is just one piece of the big puzzle.
-tags: travel, thailand, my-stories
+tags: travel, thailand, my-stories, naked
 id: 20
 ---
 I'm planning to post many web log entries from Thailand during my trip over there in the next two weeks.  There is only one problem with that.  Every time someone looks at pictures or wants to talk about my last trip there, they get hung up on one particular story.
