@@ -18,7 +18,7 @@ struct TagLinks: Component {
     
     var body: Component {
         Article {
-            H1("Blog Post Tags")
+            H1("Tag Links")
             List(tagsSorted) { tag in
                 TagLink(tag: tag)
             }.listStyle(.listOfLinks)

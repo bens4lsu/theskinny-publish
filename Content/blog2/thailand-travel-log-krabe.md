@@ -1,7 +1,7 @@
 ---
 title: Thailand Travel Log: Krabe
 date: 2004-04-12 06:43
-description: A description of my post.
+description: Here's one amusing story:  The place that we stayed had one of those bars that you could swim up and order food and drinks.  Mom went up the last afternoon and ordered an ice cream sundae, which of course, Americans pronounce "sun-di."  The Thai bartender looked puzzled.  Mom repeated the order, and he continued to not understand.  When she pointed it out on the menu, he actually corrected her English:  "That's Sun-Day."
 tags: travel, thailand, mom
 id: 26
 ---
