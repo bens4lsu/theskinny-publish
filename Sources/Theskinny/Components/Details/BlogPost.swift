@@ -85,12 +85,18 @@ struct BlogPosts: Component {
         
     }
     
+    
+    var multiPostList: Component {
+        List(items) { item in
+            item.postShortBox
+        }.listStyle(.listAsDivs)
+    }
+    
+    
     func multiPostPageContent(withTopLinks topLinks: TopNavLinks) -> Component {
         Article {
             topLinks
-            List(items) { item in
-                item.postShortBox
-            }.listStyle(.listAsDivs)
+            multiPostList
         }
     }
     

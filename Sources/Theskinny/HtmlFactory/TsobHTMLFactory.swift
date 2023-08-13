@@ -113,16 +113,12 @@ struct TsobHTMLFactory: HTMLFactory {
         let blogPosts = BlogPosts(items: postItems)
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Blog Index of Articles by Date")
         let topNav = TopNavLinks(LinkInfo("tags", "/tags"), nil, nil)
-        let pageMain = AnyPageMain(mainContent: blogPosts.multiPostPageContent(withTopLinks: topNav), site: context.site)
+        let tagDetails = TagDetails(tagName: page.tag.string, blogPosts: blogPosts, topNav: topNav)
+        let pageMain = AnyPageMain(mainContent: tagDetails, site: context.site)
         return HTML (
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
     }
-
-
-    
-    
-    
 
 }
