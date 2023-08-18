@@ -1,8 +1,8 @@
 ---
 title: Mandeville Sailing
 date: 2015-10-29 23:05
-description: A description of my post.
-tags: uncategorized
+description: We decided to sail to Mandeville, a town that's usually four or five hours from our home dock.  It's a pretty standard trip for us, but this one spirals into nuttiness.
+tags: travel, sailing
 id: 1984
 ---
 Saturday and Sunday, it rained like hell.  We've had nothing but beautiful weather for as many days as I can remember, and I especially can't think of when it was as wet and as ugly as it was this weekend.

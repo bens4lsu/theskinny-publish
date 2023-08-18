@@ -1,8 +1,8 @@
 ---
 title: Groundhog Money Burn and Little Kid Talk
 date: 2016-02-03 14:11
-description: A description of my post.
-tags: stories,young-ruski
+description: This is just three totally unrelated short little posts about what's been happening around the theskinnyonbenny house.
+tags: stories,young-ruski, short
 id: 2009
 ---
 Sure, yesterday was fun and all, but what's doin' in Punxsutawney today?
@@ -16,7 +16,6 @@ Is tomorrow a day named for a movie too?
 I got hoodwinked when I bought gas yesterday.  I was sort of hurrying and not paying close attention, and I hit the button for the fuel grade on the left.  Instead of the natural order of low, mid-grade, super-premium, this particular station had them arranged in the order Mid, Cheap, Super premium.  Halfway through my fillup, I noticed that my price was at $1.62/gallon instead of $1.43.  
 
 I might as well have pulled four dollars out of my wallet and lit it on fire.  I'm still bitter this morning.
-
 
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 

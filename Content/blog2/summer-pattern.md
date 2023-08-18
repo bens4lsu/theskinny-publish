@@ -1,7 +1,7 @@
 ---
 title: Summer Pattern
 date: 2015-06-09 21:00
-description: A description of my post.
+description: After being mostly away the past two weeks, our kids started camps this week.  Vanya is doing dance, arts, and music at a camp that he seems to be enjoying quite a bit.  Kolya is going to one that seems pretty similar to preschool.  Let's face it, though.  Preschool is a day-long session of dicking around in fun ways that also happen to be educational for little kids.  Drawing, Play-doh, songs.  It's a pretty good day compared to yours and mine.
 tags: young-ruski
 id: 1978
 ---

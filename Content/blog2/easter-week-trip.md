@@ -1,8 +1,8 @@
 ---
 title: Easter Week Trip
 date: 2016-04-06 17:21
-description: A description of my post.
-tags: young-ruski
+description: We spent the week of Easter on the sailboat.  Almost entirely, we were tied up at Pontchartrain Landing on the lakeshore.  It's an almost unknown RV Park and Marina, and not at all a bad place to hole up for a week.
+tags: young-ruski, new-orleans, travel
 id: 2015
 ---
 We spent the week of Easter on the sailboat.  Almost entirely, we were tied up at Pontchartrain Landing on the lakeshore.  It's an almost unknown RV Park and Marina, and not at all a bad place to hole up for a week.  Although it was almost entirely too cold to swim, there is a pool, a safe patch of water for the kids to dinghy and paddleboard, and all of it is in view from the bar.  Other than one bartender, the staff was very friendly and helpful.
@@ -14,7 +14,7 @@ And what an eventful week.  On top of goofing around at the ol' landing, we visi
 
 All of that bookended by two days of sailing.
 
-<a href="http://theskinnyonbenny.com/pg4.php?spgmGal=136%20-%20Easter%20Trip%202016">It's mostly (but not all) documented in the pictures</a>, and this is one of my favorite collections in a really long time.
+<a href="https://dynamic.theskinnyonbenny.com/gal/136">It's mostly (but not all) documented in the pictures</a>, and this is one of my favorite collections in a really long time.
 
 One of the things that doesn't make the pictures is a dinghy ride that I took with the kids.  We were passing a family on the bank who was trying to fish.  One of the family was a litte person.
 
