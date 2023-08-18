@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
     hashtag_name: "",
 
     // Maximum amount of toots to get (default: 20).
-    toots_limit: "6",
+    toots_limit: "30",
 
     // Hide unlisted toots (default: don't hide).
     hide_unlisted: false,
