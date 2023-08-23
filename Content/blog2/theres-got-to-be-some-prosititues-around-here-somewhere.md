@@ -2,7 +2,7 @@
 title: There's Got To Be Some Prosititues Around Here Somewhere
 date: 2008-12-19 13:03
 description: A description of my post.
-tags: stories,walk,baton-rouge,lsu,prosititues
+tags: my-stories,walk,baton-rouge,lsu,prosititues
 id: 431
 ---
 It's been a while since this happened, so I might have told this on the blog already.  I know my friends and family have already heard it more than once, so apologies all around for the repitition.

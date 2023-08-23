@@ -2,7 +2,7 @@
 title: Festival Madness
 date: 2012-05-10 06:57
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1370
 ---
 In the past month, we've been to the French Quarter Festival, the Baton Rouge Blues Festival/Earth Day (briefly), Lafayette's Festival International, and in the only paying appearance, the New Orleans Jazz and Heritage Festival.  Have some questions about who to see live?  Theskinnyonbenny family can give you a couple of clues.

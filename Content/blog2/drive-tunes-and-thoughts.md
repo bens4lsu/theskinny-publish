@@ -2,7 +2,7 @@
 title: Drive Tunes and Thoughts
 date: 2015-03-16 19:10
 description: A big nerdy reflection, a little Three's Company content, and then an out-of-the-blue joke that really hits.
-tags: stories,music-pop-culture
+tags: my-stories,music-pop-culture
 id: 1957
 ---
 Here's something that I thought (but didn't) tweet this morning:

@@ -2,7 +2,7 @@
 title: Thanksgiving Wrap Up
 date: 2008-12-04 17:27
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 425
 ---
 I did something different on Thanksgiving Day this year.  I ordered the steak.

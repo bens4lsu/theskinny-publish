@@ -2,7 +2,7 @@
 title: Evacuation
 date: 2008-09-03 07:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 391
 ---
 I don't know if you have talked to anyone in Baton Rouge, so I'll give you a quick update on how it looks.

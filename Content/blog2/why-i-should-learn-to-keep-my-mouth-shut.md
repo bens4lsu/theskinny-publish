@@ -2,7 +2,7 @@
 title: Why I Should Learn to Keep My Mouth Shut
 date: 2006-11-30 10:33
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 261
 ---
 There's a reason that I shouldn't have conversations with Tyler.  At least not in front of other people.

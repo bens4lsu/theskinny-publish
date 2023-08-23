@@ -2,7 +2,7 @@
 title: Aging in Reverse
 date: 2006-01-31 11:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 183
 ---
 Last Summer, I noticed an odd new mole on my shoulder.  It was skinny, and it stuck up enough that you could wiggle it back and forth.  When Summer ended, I started wearing a shirt more often, and since it was at the base of my neck where I couldn't see, I forgot all about it.  Heck, it might have gone away altogether.

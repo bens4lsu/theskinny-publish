@@ -2,7 +2,7 @@
 title: Bridge Clearance
 date: 2009-08-25 09:55
 description: A description of my post.
-tags: stories,travel
+tags: my-stories,travel
 id: 620
 ---
 On the Wednesday that we were in Maine, our gracious hosts decided that they had had just about enough of little kids and drunk adults, so they headed back to urban Massachusetts for a day of office work rather than continue the adventure with the Linkins and theskinnyonbenny family.

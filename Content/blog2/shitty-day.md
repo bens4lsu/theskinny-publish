@@ -2,7 +2,7 @@
 title: Shitty Day
 date: 2013-04-03 06:59
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1620
 ---
 Monday morning, before 9:00, all of this had happened to me:

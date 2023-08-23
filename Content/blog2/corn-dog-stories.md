@@ -2,7 +2,7 @@
 title: Corn Dog Stories
 date: 2006-04-14 10:06
 description: A description of my post.
-tags: sports,stories,my-youth
+tags: sports,my-stories,my-youth
 id: 205
 ---
 I think I mentioned once that Auburn fans think that the LSU fans smell like corn dogs.  I had heard this through word of mouth, and then at the Auburn game last year, I actually heard an Auburn guy walking around LSU's campus say, "It sure does smell like corn dogs around here."

@@ -2,7 +2,7 @@
 title: Gimme Some Sugar
 date: 2008-11-04 14:48
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 401
 ---
 One day early last week, I was listening to a radio show out of Washington DC on an internet stream.  Somehow, it came up that one of the hosts hasn't french kissed his wife in a decade.  A younger, unmarried producer in the studio found that hard to believe, and they argued a bit about whether that was typical.

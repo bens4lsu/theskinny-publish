@@ -2,7 +2,7 @@
 title: Driving Blues
 date: 2023-08-18 15:36
 description: It's been a lot of driving lately.  Coming back from Maine was two really long days.  Camp pickup wasn't until 10:00.  We left from there and drove until the wee hours.  11 states, and it was all bumper to bumper traffic from Maine through New Jersey.
-tags: travel, stories
+tags: travel, my-stories
 id: 2341
 ogImg: beforeAndAfter.jpg
 ---

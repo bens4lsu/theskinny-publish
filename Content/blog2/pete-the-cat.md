@@ -2,7 +2,7 @@
 title: Pete the Cat
 date: 2007-05-19 08:33
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 298
 ---
 When we were at the French Quarter Festival a few weekends ago, we went into a couple of those galleries on Royal St.  In one, we happened to meet an artist who had a lot of cool little paintings of a cartoonish dark blue cat.  There were some pictures of the little cat (Pete, his name turns out to be) doing cat-like things, but there were also some of the cat 

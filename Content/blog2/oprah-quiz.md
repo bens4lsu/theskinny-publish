@@ -2,7 +2,7 @@
 title: Oprah Quiz
 date: 2009-05-28 23:33
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 581
 ---
 I really like watching TV.  And unfortunately, there's just nothing on lately.  But there are a couple of TV columns that I check every day, because they clue me in to buzzworthy shows that I might not know about otherwise.

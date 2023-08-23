@@ -2,7 +2,7 @@
 title: New Bathroom
 date: 2009-06-29 14:02
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 597
 ---
 Friday night, I finally put the final coat of sealer in the new bathroom.  Our new master bath is a long, skinny room, half of which is blocked off by a glass door and covered in tile.  It's a free room with two shower heads.  Kind of like an old high-school gym setup -- with no walls or curtains or anything -- but nice.  

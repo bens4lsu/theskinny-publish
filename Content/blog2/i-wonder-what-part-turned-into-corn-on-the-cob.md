@@ -2,7 +2,7 @@
 title: I Wonder What Part Turned Into Corn on the Cob
 date: 2011-06-07 10:30
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1057
 ---
 On Sunday morning, I found myself in a half-awake, half-asleep dream.  The premise of the dream was that somehow over the years, the traditions associated with Easter and the ones associated with Thanksgiving had become confused.  And so I could see it clearly, I was there at Christ's crucifixion.

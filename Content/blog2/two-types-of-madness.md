@@ -2,7 +2,7 @@
 title: Two Types of Madness
 date: 2011-03-18 11:00
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 993
 ---
 Madness 1 -- A bit of advice:  If you aren't using the NCAA March Madness iphone app, you're asleep at the wheel.  You can watch every game, of course.  The picture is crystal clear, and you can pause the action and pick back up like it's on a DVR.  You can watch highlights, box scores, or see the bracket in real time.  It's a front-pager this week and next.

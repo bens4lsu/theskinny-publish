@@ -2,7 +2,7 @@
 title: Bulls, Boobies, Bull -- Mardi Gras Wrapup
 date: 2009-02-27 13:18
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 497
 ---
 I haven't posted worth a damn in February.  Normal excuses -- busy at work, my house is a zoo in the evenings, etc.  (I do wish I had been quick enough and clever enough to compare Governor Jindal's address to Kenneth on 30 Rock, but I am neither.  Also, I was watching LSU play Florida on ESPN, so I only caught a couple of snippits during commercial breaks.)

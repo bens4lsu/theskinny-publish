@@ -2,7 +2,7 @@
 title: Rock Star
 date: 2013-12-05 21:57
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1745
 ---
 Before Apple came out with the first iPod, I had a little mp3 player made by Compaq.  We used MusicMatch Jukebox to sync songs (and even used that with iPods for a while).

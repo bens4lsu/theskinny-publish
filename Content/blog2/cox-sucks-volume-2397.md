@@ -2,7 +2,7 @@
 title: Cox Sucks, Volume 2397
 date: 2012-01-29 06:49
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1180
 ---
 <a href="http://twitter.com/#!/matthewbaldwin/status/163002249084276736" target="_blank" style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="/img/matthewbaldwintweet.jpg" alt="image of the tweet"></a>

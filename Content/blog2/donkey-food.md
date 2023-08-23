@@ -2,7 +2,7 @@
 title: Donkey Food
 date: 2011-06-08 08:07
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1060
 ---
 One recent Saturday, I went to the meat counter at Whole Foods to get a particular cut of tenderloin.  It's my favorite cut of meat, and judging by the cost, it's the favorite of other people as well.

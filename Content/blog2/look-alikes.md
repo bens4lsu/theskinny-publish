@@ -2,7 +2,7 @@
 title: Look Alikes
 date: 2009-01-29 12:20
 description: A description of my post.
-tags: stories,current-events
+tags: my-stories,current-events
 id: 484
 ---
 I got an email earlier this week from Eddie, and the message just said, "This guy looks like you."  The link was to a Fox News page, and I was about 50% certain that the picture was going to be Blagojevich, as I need a haircut more than an Olson twin needs a double cheeseburger.  

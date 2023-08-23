@@ -2,7 +2,7 @@
 title: My Own Panic Room
 date: 2004-12-21 19:54
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 81
 ---
 I woke up yesterday morning at around 5:00.  I'm not sure why I was up so early, but I was fresh and ready to start the day.  I went out to the living room where the gas fire still warmed the air.  I watched most of Sports Center and a little bit of the news on CNN.  Then I took a shower and went to work early.  It was a normal start to a day that would end very abnormally.

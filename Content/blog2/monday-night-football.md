@@ -2,7 +2,7 @@
 title: Monday Night Football
 date: 2006-09-27 13:46
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 243
 ---
 This past Monday, I had what might have been my personal best football game experience.  If you happened to catch any of the sports networks, CNN, or even Al Jazeera, you will know that the Monday Night Football game this week marked the reopening of the Superdome for the first time since Hurricane Katrina.  A whole day of hullabaloo was scheduled, and I left work at lunch time to check it all out.

@@ -2,7 +2,7 @@
 title: Catching Up
 date: 2005-09-20 15:16
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 138
 ---
 I suppose that some of you noticed that I haven't posted a damned thing in a long time.  It turns out that I needed a little hiatus.  "Hiatus" is a fun word, don't you think?  Say it out loud right now.  I dare you not to laugh.

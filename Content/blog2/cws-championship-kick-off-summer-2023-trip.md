@@ -2,7 +2,7 @@
 title: CWS Championship/Kickoff Summer 2023 Trip
 date: 2023-07-04 9:08
 description: We got off later than usual, but we're on the road again this summer.  Here's how the first week+ of our trip has looked.
-tags: stories, travel
+tags: my-stories, travel
 id: 2336
 ogImg: IMG_0518.jpeg
 ---

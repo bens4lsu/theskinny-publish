@@ -2,7 +2,7 @@
 title: Garanimals and the Schnit
 date: 2006-01-04 09:08
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 170
 ---
 Remember Garanimals?  They were a brand of kids clothes from when I was young.  Every item had some little animal visible, giving 1970s parents across the nation the misguided notion that their kids would look as cool as those kids wearing genuine izods.  Their gimmick was that every piece of clothing with one animal on it would match every other cloth with that same animal.  It's a very good idea (I could certainly use such a system as an adult), but one that was doomed by stretchy cheap polyester as the material of choice.

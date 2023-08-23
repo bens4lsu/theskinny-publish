@@ -2,7 +2,7 @@
 title: Why I No Longer Get to Take Bubble Baths
 date: 2013-01-03 22:39
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1500
 ---
 Bath time hasn't been the same lately.

@@ -2,7 +2,7 @@
 title: Holiday Season Wrapup
 date: 2008-01-03 23:46
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 340
 ---
 I'm sure that it has a lot to do with having a kid, but we did a lot of very "traditional" things this holiday season.  The most absurd one was the festival of lights in downtown Baton Rouge, where the whole downtown was decked out in full Norman Rockwell Holiday tradition.  Most of my fellow citizens even changed out of shorts and put on long pants so that we could pretend that early December was winter here.

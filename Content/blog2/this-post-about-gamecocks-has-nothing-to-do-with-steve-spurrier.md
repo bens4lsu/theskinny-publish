@@ -2,7 +2,7 @@
 title: This Post About Gamecocks Has Nothing to do With Steve Spurrier
 date: 2013-05-08 23:05
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1637
 ---
 If you're one of those people who <a href="http://theskinnyonbenny.com/dailyphoto/2013/page.php?year=2013&month=1&day=24">follow three people, and one of those people is me</a>, you probably noticed a couple of recent tweets about 1st grade homework.

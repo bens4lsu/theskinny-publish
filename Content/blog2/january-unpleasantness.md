@@ -2,7 +2,7 @@
 title: January unpleasantness
 date: 2009-01-16 09:46
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 467
 ---
 I don't suppose that many people heard that I was going to work for myself and pictured me on a cold floor in a cold house, tying a <i>freaking necktie</i> at 5:30 in the morning on a cold January day.  But that's exactly how I found myself yesterday morning.

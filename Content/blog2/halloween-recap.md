@@ -2,7 +2,7 @@
 title: Halloween Recap
 date: 2009-11-12 17:41
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 653
 ---
 We started our Halloween morning with a trip to New Orleans.  The main destination was the bug museum, but first, we made a stop by CafÃ© Degas.  Who would want to go look at bugs without a belly full of jellied goose liver?  In attendance were Mrs. theskinnyonbenny, Vanya, my two nephews Sam and Caleb, and my sister Sarah.

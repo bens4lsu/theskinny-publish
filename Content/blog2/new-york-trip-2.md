@@ -2,7 +2,7 @@
 title: New York Trip
 date: 2008-10-09 14:38
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 397
 ---
 I donâ€™t even know how long itâ€™s been since I typed up one of these.  I have a lot of ground to cover, and a lot of ground I wonâ€™t get to, as Iâ€™m in the middle of an ultra-busy two weeks.  After next week, Iâ€™ll get back to one or two blogs a week, a regular photo of the day, and a link of the week update every week.  But for this week and next, youâ€™ll just have to settle for what I can puke out, a minute here and a minute there.

@@ -2,7 +2,7 @@
 title: Back from Maine
 date: 2009-08-12 07:37
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 613
 ---
 On Sunday, we returned home from a 10-day vacation in New England.  We spent a day on each end in Boston, but the majority of the time in Maine.  We stayed in a cabin in the middle of lakes, mountains, and a river, where the humidity was low, and the air smelled of pine.

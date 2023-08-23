@@ -2,7 +2,7 @@
 title: The Bum at Lowes
 date: 2005-01-05 20:13
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 85
 ---
 I went to Lowes tonight to pick up a couple of one by fours and some medium sized wood screws.  I was hopping into my Jeep when the parking lot beggar hurried up and made his pitch.

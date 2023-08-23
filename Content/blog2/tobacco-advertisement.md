@@ -2,7 +2,7 @@
 title: Tobacco Advertisement
 date: 2005-06-15 06:36
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 124
 ---
 <table ALIGN="center" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="90%">

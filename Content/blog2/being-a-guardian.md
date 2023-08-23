@@ -2,7 +2,7 @@
 title: Being a Guardian
 date: 2004-07-13 06:27
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 49
 ---
 Brent and Crystal have raised good kids so far.  Annika and Jake are tough, active little ones.  No one ever stops to whine over a bruise; they just pick themselves up and keep moving, no matter what happens.  On the other hand, I've heard Jake scream loud enough to blast paint off of a wall when he was put to bed.  And I've heard him keep this up for 30 minutes or more.  So keeping them for a weekend was certain to be an adventure.

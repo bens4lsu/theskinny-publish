@@ -2,7 +2,7 @@
 title: Notes from the Fourth of July
 date: 2004-07-08 20:36
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 48
 ---
 Mrs theskinnyonbenny and I went up to Natchitoches this weekend for the Fourth of July.  Crystal and Brent were in town with all of their kids (they're up to three of them for those who have lost count).  There's nothing too major or exciting to report, and I forgot my cameras until we were an hour out of Baton Rouge.  So all I have are a few disjointed observations.

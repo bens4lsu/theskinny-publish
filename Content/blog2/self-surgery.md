@@ -2,7 +2,7 @@
 title: Self-Surgery
 date: 2006-11-15 10:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 258
 ---
 I feel like I'm walking around with a shard of glass in the bottom of my right foot.  Each of the last two nights, I've dug around as much as I could with every needle or knife in my house, but I can't find any glass or a splinter.  Now, it might be that every step hurts because of all of the cutting that I did, or there might still be a shard of glass.  I can't tell.

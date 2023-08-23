@@ -2,7 +2,7 @@
 title: Camping List
 date: 2006-11-27 20:50
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 260
 ---
 Mrs. theskinnyonbenny and I went camping with the Sharples a couple of weekends ago.  We pitched our tents, walked the dogs, built a fire, had some chow, and drank whiskey.

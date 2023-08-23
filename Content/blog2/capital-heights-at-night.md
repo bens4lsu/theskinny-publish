@@ -2,7 +2,7 @@
 title: Capital Heights at Night
 date: 2013-08-27 00:22
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1715
 ---
 Almost every night, I walk in the dark.  By August, it doesn't feel unusual to step into the lush thick air.  Even though the sun has been down for a couple of hours, the streets still release the heat that they stored during the day.  Manicured yards and neglected yards are all thick and green, albiet with different flora.

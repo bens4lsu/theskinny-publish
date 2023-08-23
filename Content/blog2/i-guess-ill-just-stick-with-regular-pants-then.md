@@ -2,7 +2,7 @@
 title: I Guess I'll Just Stick with Regular Pants, Then
 date: 2008-06-20 13:33
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 374
 ---
 Tyler posted this magazine ad on <a href="http://incoherentblog.com" target="_blank">his blog</a> a few weeks ago.  I don't know how old this is, but it looks to be a relic.  But today, I dialed the 800 number to see if I could order a pair.

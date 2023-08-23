@@ -2,7 +2,7 @@
 title: RUN FOR YOUR LIVEEESS!  THE HOUSE IS ON FIRE!!!
 date: 2007-02-07 12:23
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 276
 ---
 The day before yesterday, I got home from work, and I was feeling a little bit funk, so I decided to hop in the shower.  I went to the spare bathroom downstairs because the combination of the shower head and the water pressure is the best I know.  It reminds you of that Seinfeld episode where Kramer got a shower head that they use to hose down elephants at the circus.  I could hose down an elephant in my downstairs bathroom, and to shower under that kind of stream is nice.

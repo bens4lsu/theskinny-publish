@@ -2,7 +2,7 @@
 title: College Towns
 date: 2007-07-19 22:01
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 311
 ---
 I was listening to a national radio talk show one day last week, and the host's topic was "What is the best college town in America?"  Of course, I know this to be Baton Rouge, and I sat back to hear the opinions of those who are wrong.

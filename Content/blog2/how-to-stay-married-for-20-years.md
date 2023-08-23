@@ -2,7 +2,7 @@
 title: How to Stay Married for 20+ Years
 date: 2015-12-04 22:08
 description: Last week, Mrs. theskinnyonbenny and I celebrated our twentieth wedding anniversary.  I'm not nearly old enough to have been married twenty years, just as I am not nearly old enough to have a younger sister who dotes on grandchildren, yet here we are in a weird parallel universe where both things are ture.
-tags: stories, how-to
+tags: my-stories, how-to
 id: 1992
 ---
 Last week, Mrs. theskinnyonbenny and I celebrated our twentieth wedding anniversary.  I'm not nearly old enough to have been married twenty years, just as I am not nearly old enough to have a younger sister who dotes on grandchildren, yet here we are in a weird parallel universe where both things are ture.

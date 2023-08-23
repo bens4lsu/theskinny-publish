@@ -2,7 +2,7 @@
 title: Cowgirl Seahorse
 date: 2009-12-18 11:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 675
 ---
 You know how your bar/restaurant can up the profits?

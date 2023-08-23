@@ -2,7 +2,7 @@
 title: On the Refrigerator Door
 date: 2004-04-20 20:38
 description: A description of my post.
-tags: stories,blogs-i-read-once-in-a-while
+tags: my-stories,blogs-i-read-once-in-a-while
 id: 28
 ---
 As I was looking through the refrigerator this evening, I picked up a bottle of food off of the door.  It's funny how all refrigerator doors are full of the same bottles and jars of stuff.  You never even see the things until you happen to want a pickle, or you wonder if there are any of those spiced beans left that you bought to put in Bloody Marys.

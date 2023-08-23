@@ -2,7 +2,7 @@
 title: My Swap Wife
 date: 2006-08-09 15:46
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 234
 ---
 Reality shows are to television as potato chips are to food.  For a short time, a new reality show can be the most delicious thing on.  But after you've eaten several hands full, you start to feel sick to your stomach.

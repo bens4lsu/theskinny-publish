@@ -2,7 +2,7 @@
 title: Poo Poo and Puke
 date: 2008-08-10 22:45
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 387
 ---
 If I really think about it honestly, it surprises me that I don't blog about my poop more often.  It's probably one of the most interesting things in my life.  Will it be funny colored?  Will it have chunks?  Of what?  Will it come out, then elastically curl back into the shape of my intestines (or colon, or bowel, or wherever it came from)?

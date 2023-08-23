@@ -2,7 +2,7 @@
 title: Fat Doppleganger
 date: 2012-10-31 13:22
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1473
 ---
 Check out the front page of the <i>Baton Rouge Advocate</i>'s recent Fit section:

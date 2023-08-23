@@ -2,7 +2,7 @@
 title: Jazz Fest
 date: 2007-05-08 06:40
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 295
 ---
 It seems a little like we had a three day weekend.  Not bad.

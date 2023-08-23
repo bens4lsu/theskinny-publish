@@ -2,7 +2,7 @@
 title: Bluebonnet Swamp and The Chimes East
 date: 2006-02-13 20:43
 description: A description of my post.
-tags: stories,food
+tags: my-stories,food
 id: 188
 ---
 Well, winter finally arrived to Baton Rouge this weekend.  By winter, I mean that on Saturday, there were only a handful of hours during the middle of the day where it was warm enough to wear shorts, and even then, only because the hatred of long pants outweighs the discomfort of cold legs in my book.

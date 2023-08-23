@@ -2,7 +2,7 @@
 title: The Big Doofus
 date: 2006-10-24 10:07
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 252
 ---
 I have a friend, who works for a guy that I will refer to only as "The Big Doofus" for the remainder of this post.

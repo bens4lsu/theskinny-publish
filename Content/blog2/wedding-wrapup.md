@@ -2,7 +2,7 @@
 title: Wedding Wrapup
 date: 2010-05-29 08:55
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 805
 ---
 Until I got a text message reminding me, I completely forgot that I told my cousin's new husband, "I think it's great that you were willing to marry JJ, given her non-functioning male genitalia and all."

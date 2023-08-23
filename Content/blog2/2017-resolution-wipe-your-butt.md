@@ -2,7 +2,7 @@
 title: 2017 Resolution: Wipe Your Butt
 date: 2017-01-04 15:43
 description: On Christmas morning, I went in for my morning deuce, and found that there was about three squares of toilet paper left on the roll.  I had been in both of the other bathrooms the day before, and I knew that this was the extent of toilet paper in our house.
-tags: stories
+tags: my-stories
 id: 2074
 ---
 On Christmas morning, I went in for my morning deuce, and found that there was about three squares of toilet paper left on the roll.  I had been in both of the other bathrooms the day before, and I knew that this was the extent of toilet paper in our house.

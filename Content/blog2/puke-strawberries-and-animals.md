@@ -2,7 +2,7 @@
 title: Puke, Strawberries, and Animals
 date: 2006-04-10 06:45
 description: A description of my post.
-tags: animals,stories,pop-culture
+tags: animals,my-stories,pop-culture
 id: 202
 ---
 I have a little bit of news about things that happened over the weekend, but first, I have an entertainment note.

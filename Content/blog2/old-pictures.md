@@ -2,7 +2,7 @@
 title: Old Pictures
 date: 2007-07-24 22:27
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 312
 ---
 As I was digging for the photo of me with Bob Barker's star on the Hollywood walk of fame (which may or may not be included on my next post), I found a bunch of old photos from the days before I was digital.  I took some time to scan a handful of them, realizing that it is nothing short of untapped treasure.  They will be posted as photos of the day intermittently through the rest of the summer.

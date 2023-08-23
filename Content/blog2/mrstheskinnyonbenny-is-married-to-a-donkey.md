@@ -2,7 +2,7 @@
 title: Mrstheskinnyonbenny is Married to a Donkey
 date: 2009-09-03 16:58
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 625
 ---
 Perhaps you received my tweet of August 14 and were wondering what's the story behind the story.  It read, "My wife is trying to get me the first appointment in front of an Obama death panel right now."

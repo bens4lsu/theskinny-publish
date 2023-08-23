@@ -2,7 +2,7 @@
 title: Two Recent Encounters
 date: 2011-10-14 10:10
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1143
 ---
 Wrong number this morning.

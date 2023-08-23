@@ -2,7 +2,7 @@
 title: Questions for the Bald Guy
 date: 2004-08-06 15:40
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 55
 ---
 The novelty of me shaving my head has finally worn off.  My hair actually grows back quite quickly.  It's hard to keep a good Charlie Brown look going.  As you might imagine, showing up after lunch with your mane lopped off leads to some good reactions.  I wish I had thought to set up the video camera to catch the expressions of passes by.

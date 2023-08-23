@@ -2,7 +2,7 @@
 title: Overheard in Casa theskinnyonbenny
 date: 2006-10-20 07:21
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 251
 ---
 "Did Netflix charge us for that movie?"

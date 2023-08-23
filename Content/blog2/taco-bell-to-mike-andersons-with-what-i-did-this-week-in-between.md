@@ -2,7 +2,7 @@
 title: Taco Bell to Mike Andersons with "What I Did This Week" In-between
 date: 2007-03-11 06:37
 description: A description of my post.
-tags: stories,food
+tags: my-stories,food
 id: 282
 ---
 One day recently at work, Tyler went to the restroom and found that someone had printed out articles from the Sports Illustrated web site, read them on the can, and left them in there.  That has nothing to do with the long and eventful week that I'm about to share, but this is a rather long post.  So those of you at work might want to go ahead and print this one out.  Save it for "private concentration time."  And if you do that, please shoot me a quick email to let me know.  I would be so proud.  And one more thing -- be sure to leave it for the next guy.

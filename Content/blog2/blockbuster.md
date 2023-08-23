@@ -2,7 +2,7 @@
 title: Blockbuster
 date: 2004-10-15 14:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 68
 ---
 We all know how the late fees work at every video rental place in the world.  You rent a few movies, keep them too long, they charge the late fees to your account, and then you pay those the next time you rent movies.  This is the unwritten agreement between all movie renters and rental places that was established right from the infancy of the video rental industry.

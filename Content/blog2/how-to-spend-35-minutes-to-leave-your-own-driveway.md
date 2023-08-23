@@ -2,7 +2,7 @@
 title: How to Spend 35 Minutes to Leave Your Own Driveway
 date: 2008-06-18 13:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 373
 ---
 We were away from home all of this past weekend, and when we returned, the refrigerator and freezer were hotter than a June bride in a featherbed (phrase courtesy of <a href="http://www.rootsweb.ancestry.com/~genepool/amerispeak/weather.htm" target="_blank">this collection of old geezer expressions</a>).  So I spent a couple of hours Sunday evening throwing out spoiled food, eyeballing the "sort of cool" items for mold, and wiping up the red juice that flows out of warm ground beef, followed by hauling the refrigerator to the curb.

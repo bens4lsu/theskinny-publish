@@ -2,7 +2,7 @@
 title: Socks
 date: 2012-05-08 21:41
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1373
 ---
 Friday, the heavily trafficked parts of our floors got a good, industrial type of cleaning. And despite the fact that the cleaning was timed just before two days where rain soaked the pecan tree pollen outside the back door (along with the two dogs laying in the wet pollen), they still look very nice. 

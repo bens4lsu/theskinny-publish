@@ -2,7 +2,7 @@
 title: Purging My Innermost Complaints
 date: 2015-05-28 08:51
 description: I keep hearing something that is turning me into a deranged, foamy-mouthed lunatic.  I'm not sure if this has just started, or if I've just started noticing.  But I keep hearing people say "bolth" instead of "both."  Are these maniacs stooges for the "L" lobby?  Also, comments on a podcast, some journalism, and a sailboat electronics installation.  It's not as disjointed as it sounds.
-tags: stories, complaints, current-events, books, sailing
+tags: my-stories, complaints, current-events, books, sailing
 id: 1970
 ---
 I keep hearing something that is turning me into a deranged, foamy-mouthed lunatic.  I'm not sure if this has just started, or if I've just started noticing.  But I keep hearing people say "bolth" instead of "both."  Are these maniacs stooges for the "L" lobby?  

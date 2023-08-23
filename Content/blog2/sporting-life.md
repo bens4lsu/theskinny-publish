@@ -2,7 +2,7 @@
 title: Sporting Life
 date: 2020-02-04 17:44
 description: Marathon, boat related, beer drinking, swim meet.  This post is just a disjointed mess of small things that have been going on.
-tags: sports,stories,sailing
+tags: sports,my-stories,sailing
 id: 2246
 ---
 A couple of weekends ago, we had the annual Louisiana marathon.  I've probably mentioned it somewhere in these pages, but it's a fun day every year.  Our house is somewhere very near mile 23, and we pull out the lawn furniture and turn up some music and spend the morning watching the fit people pass.  Our neighbors have come to join us for the only morning of the year where we have no traffic.

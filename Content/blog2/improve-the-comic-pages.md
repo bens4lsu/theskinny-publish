@@ -2,7 +2,7 @@
 title: Improve the Comic Pages
 date: 2008-06-24 09:28
 description: A description of my post.
-tags: uncategorized,stories
+tags: my-stories
 id: 375
 ---
 I got an email over the weekend from a guy on a mission.  I initially thought it was spam; there are a lot of spammers who drop comments on a blog post with some generic comment that could apply to anything you might write, but then with a link to a page where you can order erectile dysfunction drugs.

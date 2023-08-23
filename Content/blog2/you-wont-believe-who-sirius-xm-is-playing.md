@@ -2,7 +2,7 @@
 title: You Won't Believe Who Sirius XM is Playing
 date: 2014-05-21 09:56
 description: A description of my post.
-tags: stories,music-pop-culture
+tags: my-stories,music-pop-culture
 id: 1807
 ---
 On Saturday, I heard something that I had never heard before:  Floyd Cramer on the radio.

@@ -2,7 +2,7 @@
 title: Engineering Alumni Reunion
 date: 2007-11-16 00:10
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 335
 ---
 Last week was LSU's homecoming week.  The College of Engineering had an alumni reunion on Friday night, which I wouldn't have known about except that my friend Jeremy emailed me looking for a date.  He's obviously afraid to face nerds alone.

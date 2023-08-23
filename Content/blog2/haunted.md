@@ -2,7 +2,7 @@
 title: Haunted
 date: 2006-02-21 09:41
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 190
 ---
 I was just recently talking about all of those ghost shows on late night cable TV.  I had been watching one about a bar that was haunted by a former bartender who had blown out his brains with a shotgun in the back room.  It was one of those shows where actors play the parts, and then they switch over to the actual people for little interview segments.  

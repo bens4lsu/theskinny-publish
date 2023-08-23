@@ -2,7 +2,7 @@
 title: Judge Mathis
 date: 2006-01-18 16:10
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 178
 ---
 I have the damnedest problems with this one particular landscape light in the front yard.  The thing's either not lit, or burning dimly as a candle.  Each time I clean things up and get it fixed, something else goes wrong.

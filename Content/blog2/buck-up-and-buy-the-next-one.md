@@ -2,7 +2,7 @@
 title: Buck Up and Buy the Next One
 date: 2011-02-09 10:07
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 984
 ---
 There are many inconsiderate things that your office mates do from day to day.  Perhaps you work with slobs who leave an empty coffee pot on the burner, snack from lunches left in the refrigerator, or pee on the toilet seat.  But perhaps the worst offense is a seasonal one:  stuffing the baby back into a king cake.

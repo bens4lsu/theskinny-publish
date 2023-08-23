@@ -2,7 +2,7 @@
 title: A Short Note about Priests and Weddings
 date: 2005-10-05 13:36
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 143
 ---
 I read <a href="http://www.nytimes.com/2005/10/02/fashion/sundaystyles/02TRASHERS.html" target="_blank">this article</a> in Sunday's <i>New York Times</i>.  My first reaction was, "What crazy people.  Who would behave like this at someone else's wedding?"

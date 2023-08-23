@@ -2,7 +2,7 @@
 title: Stick With "The Gun Show"
 date: 2007-05-03 06:02
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 294
 ---
 I got home late yesterday evening, and the Sharples were sitting out back in the Regal Beagle, bullshitting with Mrs. theskinnyonbenny.  Soon after I sat down, we had a conversation that went something like this.

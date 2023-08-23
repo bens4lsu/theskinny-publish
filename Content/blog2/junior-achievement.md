@@ -2,7 +2,7 @@
 title: Junior Achievement
 date: 2006-10-25 09:00
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 253
 ---
 This week, I did my first stint as a Junior Achievement volunteer.  I was assigned a class of 7th graders at a school right down the street from my house.  

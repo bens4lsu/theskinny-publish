@@ -2,7 +2,7 @@
 title: Book Review and Dream
 date: 2008-03-07 10:34
 description: A description of my post.
-tags: stories,book-reviews
+tags: my-stories,book-reviews
 id: 355
 ---
 The first book that Iâ€™ve actually finished in almost six months was <i>The Unconsoled</i> by Kazuo Ishiguro.  Like a couple of others that I had started and then abandoned, this one was tough to complete.  I needed a finished book to keep from feeling stupid, so I persevered.

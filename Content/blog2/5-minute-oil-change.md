@@ -2,7 +2,7 @@
 title: 5 Minute Oil Change
 date: 2006-10-09 08:42
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 247
 ---
 Here's my public service announcement for this week.  My recommendation for your next oil change.

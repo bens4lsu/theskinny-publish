@@ -2,7 +2,7 @@
 title: Traffic Light
 date: 2011-05-27 14:39
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1046
 ---
 I'm sure that everyone has had the fantasy of a gadget that would change the traffic lights from red to green as they pulled up to the intersection.

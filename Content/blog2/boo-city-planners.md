@@ -2,7 +2,7 @@
 title: Boo City Planners
 date: 2018-08-31 09:36
 description: There are a lot of reasons to take the city planners in Baton Rouge to task.  Here's one of very little importance.
-tags: stories
+tags: my-stories
 id: 2197
 ---
 One of the kids' schools is in the back of a neighborhood where the streets are named for tennis stars of yesteryear.

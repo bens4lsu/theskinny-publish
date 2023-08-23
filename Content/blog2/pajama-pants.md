@@ -2,7 +2,7 @@
 title: Pajama Pants
 date: 2004-09-21 15:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 62
 ---
 For a couple of weeks now, I have failed to mention my fight with a four year old over pajama-bottoms.  No one has ever accused me of being the most mature grown-up in the crowd, but I proved over the Labor Day weekend that I can be as childish as, well, as a real child.

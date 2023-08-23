@@ -2,7 +2,7 @@
 title: Old Man Gripes
 date: 2015-11-02 07:05
 description: As I've mentioned in this space before, I'm an old man now.  It's time to start publishing my gripes.
-tags: stories, tv, complaints
+tags: my-stories, tv, complaints
 id: 1989
 ---
 As I've mentioned in this space before, I'm an old man now.  It's time to start publishing my gripes.

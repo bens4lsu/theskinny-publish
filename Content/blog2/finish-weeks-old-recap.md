@@ -2,7 +2,7 @@
 title: Finish Weeks-Old Recap
 date: 2009-06-22 09:52
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 592
 ---
 I never did circle back on the weekend we spent when Lisa and Josh were in town.  I posted early in their visit <a href="http://theskinnyonbenny.com/blog2/archives/560">on this post</a>, but then we headed east to go sailing and then visit New Orleans.  Before I carry on with the story, I think it's necessary to show you one of the lobsters they brought down.  I snagged some of their pictures from Josh's Facebook.  I'll throw some others <a href="/dailyphoto/">out there</a> as pictures of the day in the next week or so.

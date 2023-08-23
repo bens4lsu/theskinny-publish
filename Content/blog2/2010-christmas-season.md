@@ -2,7 +2,7 @@
 title: 2010 Christmas Season
 date: 2010-12-30 22:17
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 952
 ---
 The standards of decent storytelling require me to start our holiday recap not with Christmas itself and not with the chronological beginning of the season.  Instead, I jump out to December 19.  Itâ€™s a dark and cold Sunday night, and we find ourselves in the middle of nowhere, some 30 minutes outside of the spot where Birmingham, Alabamaâ€™s civilized limit stops.

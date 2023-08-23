@@ -2,7 +2,7 @@
 title: Has Anyone Seen My Loincloth?
 date: 2006-06-12 12:49
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 219
 ---
 Like most people, I detest Monday mornings.  But it isn't that I dread getting in the car and handling a commute;  my commute is only seven minutes.  And it isn't getting to my desk and dealing with whatever comes my way.  In fact, there has been a crisis each of the past few Mondays.  Perhaps I'm jaded, but the client crisis doesn't get me too worked up any more.  Sure, I'll try to address the problem right away, but it's not something I sweat.  Or dread.

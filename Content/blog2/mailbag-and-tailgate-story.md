@@ -2,7 +2,7 @@
 title: Mailbag and Tailgate Story
 date: 2008-10-21 22:59
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 398
 ---
 A couple of keepers from the mailbag.  First, from a political email thread in September.

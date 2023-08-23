@@ -2,7 +2,7 @@
 title: The Boat Build
 date: 2005-04-19 15:04
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 109
 ---
 If you know me, you know that I am in the process of building a canoe in my garage.  You probably also know that this project has been going on since the Carter administration.

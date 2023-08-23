@@ -2,7 +2,7 @@
 title: Football Post
 date: 2012-01-11 21:58
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 1170
 ---
 Of late, I've been crippled with fear of posting to my blog.  The topic that came right to mind was the outrageously good football season that we were having, but when it comes to football fandom, I hold superstitions, and that ridiculous part of my brain doesn't allow me to deviate from whatever routine I was able to establish when the wins were coming.

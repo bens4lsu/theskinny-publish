@@ -2,7 +2,7 @@
 title: Groundhog Money Burn and Little Kid Talk
 date: 2016-02-03 14:11
 description: This is just three totally unrelated short little posts about what's been happening around the theskinnyonbenny house.
-tags: stories,young-ruski, short
+tags: my-stories,young-ruski, short
 id: 2009
 ---
 Sure, yesterday was fun and all, but what's doin' in Punxsutawney today?

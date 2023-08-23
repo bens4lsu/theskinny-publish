@@ -2,7 +2,7 @@
 title: The Middle of the Night
 date: 2005-05-06 07:36
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 114
 ---
 I woke up at 2:30 this morning, and within ten minutes, it was clear to me that I wasn't getting back to sleep.  This happens to me from time to time.  Usually, it's nice to have a quiet dark house.  I have enough reading to catch up on and enough hobbies to occupy my time that it usually isn't a problem.

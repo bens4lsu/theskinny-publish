@@ -2,7 +2,7 @@
 title: Morning Traffic
 date: 2011-01-05 09:28
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 966
 ---
 This morning, I needed to exit the interstate on Seigen Lane.  It's a busy street, so the exit ramp for cars turning left is two lanes, and it is often many cars deep.  Today, the left turn lane on the right was about 8 cars deep, and the left turn lane on the left was a single car.  I looked down the lane to see the reason.  A beggar was standing on the side of the street right by where the next car would have to stop.

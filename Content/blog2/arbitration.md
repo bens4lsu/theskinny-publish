@@ -2,7 +2,7 @@
 title: Arbitration
 date: 2007-02-27 05:52
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 280
 ---
 <b>Judge Wapner:</b>  I know you've been sworn and I have read your complaints.  You claim that the defendant owes you money for gambling winnings?

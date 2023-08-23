@@ -2,7 +2,7 @@
 title: Faggotted Up
 date: 2004-09-17 11:06
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 61
 ---
 Here's a story that amuses me.  It started last week, with the following email from my friend Jackie.

@@ -2,7 +2,7 @@
 title: An Entirely Inappropriate Post for Shelly's Mom
 date: 2008-09-16 22:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 394
 ---
 This post gets kind of yucky.  If you are easily disgusted or offended, please move along to another wep page now.

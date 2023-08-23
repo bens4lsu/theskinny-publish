@@ -2,7 +2,7 @@
 title: God Must Be Crazy
 date: 2013-03-06 22:05
 description: A description of my post.
-tags: animals,stories
+tags: animals,my-stories
 id: 1605
 ---
 On Friday night, we were out to dinner with another family.  I was seated next to an eight-year-old little girl.

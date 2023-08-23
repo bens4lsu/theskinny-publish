@@ -2,7 +2,7 @@
 title: Jim Holt
 date: 2006-02-26 20:21
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 191
 ---
 Next time I get in an accident, I'm gonna get me some "crash cash."

@@ -2,7 +2,7 @@
 title: Plug
 date: 2007-06-04 01:03
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 300
 ---
 One time back in February or March, I pulled the vacuum cleaner out of the closet, and its plug looked like this:

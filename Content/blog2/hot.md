@@ -2,7 +2,7 @@
 title: Hot
 date: 2008-08-02 16:33
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 384
 ---
 It would be easy for me to write a blog that would be enjoyed by a particular demographic of loser:  say, a divorcee, whose kids are teenagers that don't like her very much, and whose ideal (and typical) Friday night includes taking a long bath, polishing off a pint of ice cream while watching <i>Beaches</i>, and crying herself gently to sleep.

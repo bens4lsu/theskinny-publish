@@ -2,7 +2,7 @@
 title: Peeping Tom
 date: 2006-04-25 04:39
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 207
 ---
 It was recently brought to my attention that I have a reputation among the neighbors as a peeping Tom, and I know exactly how that reputation originated.

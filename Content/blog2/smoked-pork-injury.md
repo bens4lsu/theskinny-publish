@@ -2,7 +2,7 @@
 title: Smoked Pork Injury
 date: 2008-04-18 09:51
 description: A description of my post.
-tags: uncategorized,stories
+tags: uncategorized,my-stories
 id: 362
 ---
 Taking a page from <a href="princesssparklepants.blogspot.com" target="_blank">my sister's blog</a>, I'll tell you about an incredibly minor -- but nevertheless irritating -- injury that I've suffered.  I'm sure it's not interesting, but I've posted nothing else, and the other two ideas that I have for what to blog this week are going to take up more time than this story.  

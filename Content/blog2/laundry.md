@@ -2,7 +2,7 @@
 title: Laundry
 date: 2009-03-25 08:10
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 519
 ---
 Our kitchen is being remodeled.  Right now, it's a big empty room, without cabinets or even walls or ceiling.  The main objective of the rennovation was to get our washer and dryer out of the kitchen.  Mission accomplished.  They now sit useless in the dining room.

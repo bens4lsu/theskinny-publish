@@ -2,7 +2,7 @@
 title: Guns, Gin, and a Local Casino
 date: 2006-08-17 15:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 236
 ---
 Earlier this week, I saw a guy at the gym who had an interesting tattoo on his bicep.  It looked something like this:

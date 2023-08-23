@@ -2,7 +2,7 @@
 title: Hacked by Jesus
 date: 2012-10-19 09:35
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1468
 ---
 Did you see the <a href="http://www.motherjones.com/mojo/2012/10/mitt-romney-fraudulent-facebook-likes">nuts who thought their Facebook page had been hacked by Mittens</a>?  When Mother Jones debunks your left-wing conspiracy, you're out there, my friends.

@@ -2,7 +2,7 @@
 title: Rules for Hand Washing
 date: 2011-08-21 10:21
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 986
 ---
 We all know that you should wash your hands after using the toilet.  Unsaid, but equally well understood is the fact that there are some places where it's just fine not to wash your hands after you use the toilet.  Let this serve as my attempt to quantify when and when it is not okay.

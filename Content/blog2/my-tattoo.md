@@ -2,7 +2,7 @@
 title: My Tattoo
 date: 2005-11-01 12:11
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 153
 ---
 Well, that snapshot of my own butt in my last post got me more feedback than anything since I described <a href="http://www.theskinnyonbenny.com/blog/archives/00000062.php">my argument</a> with a four-year old.  It reminds me that I told a story last week where my butt was a central figure.  Fear not; this post is not illustrated.

@@ -2,7 +2,7 @@
 title: Dog Poop at The Regal Beagle
 date: 2006-12-27 11:11
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 266
 ---
 It's been a few weeks now, but one night we were sitting outside at the Regal Beagle, enjoying a cool fall night, and having a few drinks.  Because I love to play with fire, it takes only a slightly cold or damp period to get me to light one up, so we were enjoying the warmth between face fulls of smoke.

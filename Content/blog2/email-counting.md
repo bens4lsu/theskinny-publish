@@ -2,7 +2,7 @@
 title: Email Counting
 date: 2006-02-07 08:51
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 186
 ---
 Overall, I get too much email.  I went back to a regular week from last October and counted the messages in my various email accounts.

@@ -2,7 +2,7 @@
 title: Recently Past Weekend
 date: 2007-05-22 23:42
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 299
 ---
 Mrs. theskinnyonbenny often complains that we don't get invited anywhere.  This isn't true, but it's a complaint that she likes to fall back on when we hit a Friday or Saturday night with nothing to do.

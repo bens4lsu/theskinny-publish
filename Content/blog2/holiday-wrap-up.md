@@ -2,7 +2,7 @@
 title: Holiday Wrap Up
 date: 2009-01-05 16:11
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 436
 ---
 <table cellspacing><tr><td>Mrs. theskinnyonbenny observed that of all the words spoken in our house, 90% of them are from Vanya's mouth.  And it's funny because it's true.

@@ -2,7 +2,7 @@
 title: Outlet
 date: 2019-01-29 10:01
 description: Parts of our house haven't been updated since the house was built, which has been a little bit.  Take a look at what it looks like behind one of our outlets.  Scary.
-tags: stories, home
+tags: my-stories, home
 id: 2214
 ---
 This weekend, I had to replace an electrical outlet in the dining room.  That's in the old, original part of the house, which puts construction in the 1940s.

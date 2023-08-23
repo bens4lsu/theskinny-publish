@@ -2,7 +2,7 @@
 title: Taping Up
 date: 2009-06-16 10:51
 description: A description of my post.
-tags: stories,pop-culture
+tags: my-stories,pop-culture
 id: 586
 ---
 For our last act of the great house remodel of 2009, we had to move every bit of crap out of our downstairs so that the floors could be refinished.  We spent all weekend making room in the garage so that it could serve as a mini storage unit, then actually moving furniture and boxes out.  By 5:00, I was whipped, but I wasnâ€™t finished.

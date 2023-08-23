@@ -2,7 +2,7 @@
 title: Week of Nothing
 date: 2007-06-19 10:01
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 301
 ---
 "For God's sake, get rid of the plug!"  That was pretty much the first thing that a friend of mine said when I picked up the ringing phone yesterday evening.

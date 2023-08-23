@@ -2,7 +2,7 @@
 title: It's "Everybody Have Chung Tonight," I Think
 date: 2011-06-02 14:59
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1049
 ---
 Here's a tip for you young people:  if you don't know the words to "Everybody Wang Chung Tonight," then don't walk around singing it out loud.

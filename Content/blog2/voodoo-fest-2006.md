@@ -2,7 +2,7 @@
 title: Voodoo Fest 2006
 date: 2006-11-03 13:57
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 256
 ---
 Last weekend, we got to New Orleans on Saturday afternoon. Mrs. theskinnyonbenny and I sat in a bar talking to the tourists from Baltimore and keeping an eye on the football games while we waited for our friends to arrive.  We walked around the French Quarter in the evening, and once it was dark, went on one of those haunted house walking tours.

@@ -2,7 +2,7 @@
 title: Shaqstue Unveiling
 date: 2011-09-12 13:50
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1128
 ---
 Thursday afternoon of last week, I was set to take V to his gymnastics class.  He was stir crazy, so we left early, taking his bike to the park to ride around for a bit before class.

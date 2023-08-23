@@ -2,7 +2,7 @@
 title: Wedding Party
 date: 2010-02-05 16:54
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 716
 ---
 Two weekends ago, when we went down for the NFC Championship game, Mrs. theskinnyonbenny and I were eating oysters and drinking our lunchtime cocktails at a restaurant called Bourbon House.  It happened to be the next shop down from the place where our dear friend Stacie had her rehearsal dinner, and my view out the window happened to be a place where the ladies dance in an exotic style.  Penthouse Club, I believe it might have been called.

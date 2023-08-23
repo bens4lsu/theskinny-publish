@@ -2,7 +2,7 @@
 title: My Attempt to Write a Children's Story
 date: 2007-02-09 12:18
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 277
 ---
 Once upon a time, there was a dog named Lily and a dog named Blossom.  Blossom and Lily lived together as dog sisters in a big blue house.  They liked to play and to sleep and to chase around their cat friends who also lived in the big blue house.

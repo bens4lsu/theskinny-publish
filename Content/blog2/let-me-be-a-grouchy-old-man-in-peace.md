@@ -2,7 +2,7 @@
 title: Let Me Be a Grouchy Old Man in Peace
 date: 2010-10-05 16:37
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 883
 ---
 Unlike when I was a student, today's kids set up tailgate parties out amongst the fans and families spread all over campus.  It's a little ironic that the kids today don't have a good place to go drink without legal hassle, other than right out in the open next to traffic-directing policemen.

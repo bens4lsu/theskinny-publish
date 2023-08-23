@@ -2,7 +2,7 @@
 title: Why Gangsta Paradise is Stuck In My Head Today
 date: 2023-05-17 12:49
 description: Back before the days of blogs and digital images, Mrs theskinnyonbenny and I got married and took a follow-up trip to Ireland.  We toured around for a bit and happened to end up in Dublin at the same time that then-president Clinton was in town.  You young uns won't remember, but back in the day, terrorists would occasionally blow up buildings in Ireland...
-tags: stories,pop-culture,music-pop-culture
+tags: my-stories,pop-culture,music-pop-culture
 id: 2328
 ---
 Back before the days of blogs and digital images, Mrs theskinnyonbenny and I got married and took a follow-up trip to Ireland.

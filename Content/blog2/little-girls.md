@@ -2,7 +2,7 @@
 title: Little Girls
 date: 2006-10-05 14:06
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 246
 ---
 My friends Steve and Jodie have two adorable little girls.  He told me a story of how they were being entertained by his computer's screen saver.

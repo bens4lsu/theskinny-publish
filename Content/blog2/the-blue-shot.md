@@ -2,7 +2,7 @@
 title: The Blue Shot
 date: 2013-07-25 16:24
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1687
 ---
 One night recently, a handful of us were at <a href="http://www.erinrosebar.com/index2.html" target="_blank">Erin Rose</a> maintaining a buzz that we had put on elsewhere in New Orleans.  We were hanging out in a narrow space between the bar and the restroom doors.  

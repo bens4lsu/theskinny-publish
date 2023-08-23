@@ -2,7 +2,7 @@
 title: Practical Math
 date: 2007-07-09 23:07
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 307
 ---
 <b>The pizza order</b>

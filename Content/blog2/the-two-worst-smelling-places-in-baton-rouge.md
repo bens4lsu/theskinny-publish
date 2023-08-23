@@ -2,7 +2,7 @@
 title: The Two Worst Smelling Places in Baton Rouge
 date: 2004-05-25 19:57
 description: A description of my post.
-tags: stories,food
+tags: my-stories,food
 id: 36
 ---
 I know a lot of people hate "lists," but don't count me among them.  A couple of weeks ago, I started making a list of the 10 worst smelling spots in Baton Rouge.  Every time I try to write down the list, I come up with two really legitimate entries, and some random lame filler entries.

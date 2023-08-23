@@ -2,7 +2,7 @@
 title: Mardi Gras Season
 date: 2011-03-03 11:13
 description: A description of my post.
-tags: animals,stories
+tags: animals,my-stories
 id: 991
 ---
 As I type this, I'm almost all the way through Carnival without having actually gone to a parade.  Tonight is Mrs. theskinnyonbenny's parade, so we will go catch that one along with whatever is rolling beforehand.

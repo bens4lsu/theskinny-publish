@@ -2,7 +2,7 @@
 title: St. Patty's Wrapup
 date: 2010-03-19 08:55
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 746
 ---
 Hopefully, you all had a wonderful St. Patrick's Day.  After last year's cold rainy Saturday, God back around to loving the St. Patrick's Day parade in Baton Rouge.  We got our usual beautiful Saturday, where you can be cold in the morning and sunburned by evening.

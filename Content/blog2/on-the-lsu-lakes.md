@@ -2,7 +2,7 @@
 title: On the LSU Lakes
 date: 2004-05-10 21:08
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 32
 ---
 I moved to Baton Rouge in the fall of 1989 to start school at LSU.  Ever since then, I've never been more than a few minutes from the lakes that frame the campus.  I've walked, driven, and cycled around the lakes countless times.  I've seen them smooth as glass and frothy with whitecaps, teeming with wildlife, and covered with rotting dead fish.  These little lakes can give you anything.

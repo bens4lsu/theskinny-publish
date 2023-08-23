@@ -2,7 +2,7 @@
 title: Fat Tuesday in Mamou
 date: 2012-03-22 23:23
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1271
 ---
 You know what's even more lame than a post about Mardi Gras more than two weeks into Lent?  A second Mardi Gras post that comes two weeks after that.

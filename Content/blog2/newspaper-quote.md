@@ -2,7 +2,7 @@
 title: Newspaper Quote
 date: 2008-08-07 11:22
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 385
 ---
 I've seen a zillion pooly-worded stories in Baton Rouge's paper, <i>The Advocate</i>, but this senence from <a href="http://www.2theadvocate.com/sports/saints/26372754.html" target="_blank">here</a> is probably the worst I've read.

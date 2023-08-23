@@ -2,7 +2,7 @@
 title: Recyclables
 date: 2006-10-10 10:58
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 248
 ---
 The city of Baton Rouge recently issued us big garbage bins.  The prospect of not owning our garbage cans for the first time in our lives caused a brief excitement among my fellow residents.  

@@ -2,7 +2,7 @@
 title: My Ideal Vegas Sports Book
 date: 2005-01-25 06:17
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 92
 ---
 Dry eyes, nosebleeds, itchy skin.  You guess it!  It's time to go to Las Vegas.

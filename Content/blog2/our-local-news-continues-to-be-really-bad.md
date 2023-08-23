@@ -2,7 +2,7 @@
 title: Our Local News Continues to be Really Bad
 date: 2009-11-19 12:12
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 668
 ---
 A few people caught me on the 6:00 news the other day.  I finally had a chance to find the segent online, but it's the version from the 10:00, and I didn't make the cut for late-night.  I didn't see it myself, but I've heard from a few who did.

@@ -2,7 +2,7 @@
 title: Food Thief
 date: 2018-04-12 17:35
 description: This is really short but funny.  Not adding a spoiler here -- just go read the whole post.
-tags: stories, mom, favorite-posts&g
+tags: my-stories, mom, favorite-posts&g
 id: 2191
 ---
 Yesterday, I was at my parents's house while they were coincidentally at an appointment a block from where I had finished the school drop off circuit. They went to lunch right after, and then drove back to their house.

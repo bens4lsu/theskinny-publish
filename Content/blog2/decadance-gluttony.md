@@ -2,7 +2,7 @@
 title: Gluttony
 date: 2006-06-23 12:43
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 223
 ---
 Last Friday evening, I dropped Mrs. theskinnyonbenny off at the airport.  A quick "be careful, love you, yada yada," and I peeled out of the airport loading lane, free for a day and a half to myself.

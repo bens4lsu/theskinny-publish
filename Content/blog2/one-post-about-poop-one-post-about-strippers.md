@@ -2,7 +2,7 @@
 title: One Post About Poop, One Post About Strippers
 date: 2007-01-18 21:31
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 272
 ---
 I had a conference call scheduled today at 11:00.  Unfortunately, I hadn't had a chance to take my morning bathroom break yet, and the call promised to be a difficult one.  I dialed in to the number, and found that it was just hold music.  The host hadn't started the call yet.

@@ -2,7 +2,7 @@
 title: No Smoking
 date: 2005-07-20 06:50
 description: A description of my post.
-tags: uncategorized,stories
+tags: uncategorized,my-stories
 id: 128
 ---
 <div>

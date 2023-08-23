@@ -2,7 +2,7 @@
 title: Old Man/Young Boy
 date: 2015-03-26 10:43
 description: A double post, first going into how I'm older than shit, and then followed by some cute daddy-blog crap.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 1961
 ---
 Here are three related things that happened today, all of which indicate that I'm older than dirt.

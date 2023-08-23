@@ -2,7 +2,7 @@
 title: Weekend in 318
 date: 2005-11-08 15:10
 description: A description of my post.
-tags: stories,travel
+tags: my-stories,travel
 id: 155
 ---
 On Sunday morning, the air was cool as we motored down the Red River.  Not so cool that you were uncomfortable, but just cool enough to raise a few goose bumps when the sun went behind a cloud.  The banks were devoid of houses, so for a couple of hours we had just seen hills, trees, and birds.

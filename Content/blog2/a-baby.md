@@ -2,7 +2,7 @@
 title: A Baby
 date: 2006-07-28 15:48
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 231
 ---
 <theskinn:nohome><table cellpadding="2" align="center"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/caleb.jpg"></td></tr></table></theskinn:nohome>

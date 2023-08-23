@@ -2,7 +2,7 @@
 title: Tired and Sore
 date: 2004-08-12 19:36
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 56
 ---
 I have really put this out of shape body through too much in the past week.  Monday was one of the most sore days that I've had in several years.  Today isn't a lot better, to be honest.  I'm not really old enough yet to sit here an enumerate all of my aches and pains.  (Although I could see getting to that point in 20 years or so.  Won't that be exciting!)

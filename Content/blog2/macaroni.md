@@ -2,7 +2,7 @@
 title: Macaroni
 date: 2010-01-22 17:18
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 696
 ---
 If I were a betting man, I would say that I have a photograph of the worst example of burnt food in a microwave oven that you've ever seen.  If you can't stand the suspense, scroll to the bottom of the post to see it for yourself.

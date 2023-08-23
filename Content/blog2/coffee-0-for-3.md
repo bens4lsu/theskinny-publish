@@ -2,7 +2,7 @@
 title: Coffee, 0 for 3
 date: 2006-01-11 08:57
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 173
 ---
 I'm having the damnedest time making a decent pot of coffee at my house.

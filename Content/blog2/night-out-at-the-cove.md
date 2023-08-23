@@ -2,7 +2,7 @@
 title: Night Out at The Cove
 date: 2007-02-21 00:39
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 279
 ---
 I have information galore that I've been meaning to post for the last couple of months but haven't for one reason or another.  It's kind of embarrassing to post a story from the week of Christmas this far after the holiday, but there are two reasons that I'm okay with it.  First, it's an observation that needs to be shared with the world at large who's never tried to drink in a bar in Natchitoches, Louisiana.  Second, nothing ever changes in this bar, so everything short of the candy cane covered sweater will be just as true this coming Saturday, next Saturday, and the first Saturday of July 2009.

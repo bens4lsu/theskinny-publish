@@ -2,7 +2,7 @@
 title: Three Man
 date: 2004-12-10 21:52
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 78
 ---
 It was some time late this football season when we decided that we needed to revive an old drinking game from college.  We remembered "Three Man" being a game with dice that made the players do a lot of drinking.  To be honest, we remembered a dice game called "Three Man" or "Four Man" or "Seven Man," but we couldn't remember which, and we certainly didn't remember all of the rules.

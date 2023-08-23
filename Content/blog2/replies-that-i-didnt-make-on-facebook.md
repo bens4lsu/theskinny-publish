@@ -2,7 +2,7 @@
 title: Replies That I Didn't Make on Facebook
 date: 2009-07-21 10:05
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 607
 ---
 All of these are honest-to-god comments that came to my mind when reading people's Facebook updates, and which I didn't think appropriate to leave as replies.  

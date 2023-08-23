@@ -2,7 +2,7 @@
 title: Howling at the Moon
 date: 2011-01-25 14:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 982
 ---
 For the last few days, I've been trying to come up with something to post.  But my life isn't too interesting right now.  Pretty much stayed home this weekend and did nothing you would be interested in.  I haven't been to the movies, haven't watched much TV, haven't stumbled on any brilliant new music, and I haven't come up with any new jokes about my poop.

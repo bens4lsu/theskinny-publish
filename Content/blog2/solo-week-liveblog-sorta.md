@@ -2,7 +2,7 @@
 title: Solo Week Liveblog (sorta)
 date: 2013-07-31 00:09
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1691
 ---
 Note: Scroll down for August 4 update!

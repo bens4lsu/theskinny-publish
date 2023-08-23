@@ -2,7 +2,7 @@
 title: Christmas Newsletters
 date: 2005-12-22 06:47
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 168
 ---
 I started to make up a phony version of one of those photocopied Christmas mailings that you get from people this time of year.  The idea was that I could make a big deal out of everyday, mundane shit that happens to everyone, and it would be funny.

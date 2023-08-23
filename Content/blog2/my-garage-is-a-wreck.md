@@ -2,7 +2,7 @@
 title: My Garage is a Wreck
 date: 2005-11-14 12:20
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 156
 ---
 Right now, my garage would do Fred Sanford proud.

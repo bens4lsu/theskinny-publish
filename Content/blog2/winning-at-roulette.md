@@ -2,7 +2,7 @@
 title: Winning at Roulette
 date: 2005-05-27 15:16
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 120
 ---
 My buddy Guido is the king of the grand scheme.  You could give him a pile of six week old dog turds, and he could dream up a way to get rich -- or at least to make a decent profit -- from said dog turds.

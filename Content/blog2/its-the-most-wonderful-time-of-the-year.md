@@ -2,7 +2,7 @@
 title: It's the Most Wonderful Time of the Year
 date: 2012-12-27 10:35
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1496
 ---
 I had just gotten into my car and shut the door, when I was siezed by a violent sneeze.  The result was a small booger on the fleshy part of my left hand.  I put down the window and gave it a flick at I started to back out of the parking space.

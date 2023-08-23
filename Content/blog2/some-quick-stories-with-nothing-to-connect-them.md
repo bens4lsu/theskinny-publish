@@ -2,7 +2,7 @@
 title: Some Quick Stories With Nothing to Connect Them
 date: 2011-11-10 19:29
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 1157
 ---
 I'm  just a little bit tired of hearing/reading that the SEC is down this year.  Don't we have three teams in the top 10, including two teams that are clearly better than everyone except each other?  Isn't the current national champion trying to hang on to fourth place in their division?  Oregon is certainly in the top tier of teams, and they got clobbered by LSU.  Alabama handled Penn State with similar ease.  Just because Georgia and Florida are down doesn't mean that the conference is down.

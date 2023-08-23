@@ -2,7 +2,7 @@
 title: Wet
 date: 2005-07-01 13:21
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 127
 ---
 When I left work yesterday, there were obvious storm clouds to the west and south.  This isn't too unusual for 6:00 in the summertime.  But I had no sides or top on the Jeep, other than a small rectangle over the driver and passenger seats to keep the sun off me during the day, so I knew I had to hurry home.

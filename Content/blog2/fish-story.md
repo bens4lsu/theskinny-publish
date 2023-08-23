@@ -2,7 +2,7 @@
 title: Fish Story
 date: 2005-06-14 09:04
 description: A description of my post.
-tags: uncategorized,stories
+tags: my-stories
 id: 123
 ---
 I went on a fishing trip last week.  We went out to a marsh in the middle of nowhere Wednesday evening, and spent the time fishing off the dock, grilling steak, and drinking beer.  On Thursday, we took a guided charter out around barrier islands and caught fish all morning.  It's a good way to spend a day and a half.

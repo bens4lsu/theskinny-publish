@@ -2,7 +2,7 @@
 title: Struggling Through Another Week
 date: 2005-10-28 05:54
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 152
 ---
 When I turned on my computer this morning, a program that lives in my task bar took the initiative to go to the internet, find some particular server, and ask it the temperature in Baton Rouge.  It then changed its stock graphic to a bold, black number:  39.

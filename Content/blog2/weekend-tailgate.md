@@ -2,7 +2,7 @@
 title: Weekend Tailgate
 date: 2006-09-12 04:57
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 240
 ---
 On Saturday morning, I got to the tailgate party spot early.  Between 5:30 and 6:30, I unloaded the astounding amount of crap that I can fit into a Jeep.  Although it was still dark, it was already kind of hot.  The air was heavy with humidity and there was nary a breeze.

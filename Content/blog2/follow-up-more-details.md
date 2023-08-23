@@ -2,7 +2,7 @@
 title: Follow up - more details
 date: 2009-11-13 14:55
 description: A description of my post.
-tags: stories,young-ruski
+tags: my-stories,young-ruski
 id: 661
 ---
 A few updates on my posts from earlier this week.  First of all, the pics from the September tailgate and Halloween are up:

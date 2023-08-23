@@ -2,7 +2,7 @@
 title: A Short Post Wherein I Fix Mardi Gras
 date: 2012-03-06 22:42
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 1266
 ---
 I think that ever since they moved to Thursday night, Muses has followed the Krewe of Chaos.  The contrast couldn't be more stark.

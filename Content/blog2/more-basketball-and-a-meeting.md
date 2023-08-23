@@ -2,7 +2,7 @@
 title: More Basketball and a Meeting
 date: 2006-03-20 17:03
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 197
 ---
 As I predicted in this space on Friday morning, my bracket crashed and burned spectacularly.  I followed up my 14-2 Thursday with a 6-10 Friday, and of the 6 I picked correctly, 3 were a 1 seed beating a 16 seed.  So really, you could call my record 3-10 on games that were questionable.  It's perhaps the most unimpressive day one can have when picking basketball results.

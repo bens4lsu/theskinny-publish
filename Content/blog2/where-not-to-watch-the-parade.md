@@ -2,7 +2,7 @@
 title: Where Not to Watch the Parade
 date: 2006-02-16 20:11
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 189
 ---
 <table><tr><td>Our largest and most festive Mardi Gras parade is almost certainly the Spanish Town parade.  It's also the most rowdy and raunchy.

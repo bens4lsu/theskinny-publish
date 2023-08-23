@@ -2,7 +2,7 @@
 title: Such a Loosely Bound Collection of Crap, That I Can't Think of a Title
 date: 2006-06-28 10:50
 description: A description of my post.
-tags: animals,stories
+tags: animals,my-stories
 id: 224
 ---
 I feel bad for little Blossom.

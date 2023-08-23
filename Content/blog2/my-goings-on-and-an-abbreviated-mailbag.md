@@ -2,7 +2,7 @@
 title: My Goings-on and an Abbreviated Mailbag
 date: 2006-03-29 06:40
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 200
 ---
 I haven't updated my site too much lately, and there are a lot of reasons for that.  First off, I've been busy at work, and there are three things that make it hard for me to post about my work life:  <ol><li>The risk of giving away some supposedly confidential information, and thus terminating my employment</li><li>The even risk of causing my employers grief and embarrassment, and thus terminating my employment.  To that end, I am refraining from posting a recent picture where I took the stock photo of new (and bald) Equifax CEO Rick Smith and gave him a full head of hair, a big porn mustache, and a hairy bare chest.  I'm sure it's spot-on how he looked in the mid 70s.</li><li>The fact is, that most of the geek stuff I do at work is pretty boring.</li></ol>

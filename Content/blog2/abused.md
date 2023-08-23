@@ -2,7 +2,7 @@
 title: Abused
 date: 2008-06-13 10:46
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 372
 ---
 We went to a fundraiser one night this week.  Something for abused and neglected kids.  

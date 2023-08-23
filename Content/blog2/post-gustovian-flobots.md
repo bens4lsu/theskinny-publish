@@ -2,7 +2,7 @@
 title: Post-Gustovian Flobots
 date: 2008-09-11 12:32
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 393
 ---
 <a href="http://www.lyricsmania.com/lyrics/flobots_the_lyrics_24339/other_lyrics_54916/handlebars_lyrics_563369.html" target="_blank">Here's what I'm listening to right now</a>.  I like the song, and the lyrics describe my mood right now perfectly.  Well, maybe the lyrics have a little more anger in them than I do, but I feel that powerful.

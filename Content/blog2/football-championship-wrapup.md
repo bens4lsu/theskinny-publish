@@ -2,7 +2,7 @@
 title: Football Championship
 date: 2008-01-08 10:09
 description: A description of my post.
-tags: sports,stories
+tags: sports,my-stories
 id: 341
 ---
 We went to New Orleans yesterday to be part of the atmosphere around the ultimate game of the best college football season in the history of mankind.  The day was perfect:  warm weather, good food, good game, LSU win, big celebration.

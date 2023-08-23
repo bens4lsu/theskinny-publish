@@ -2,7 +2,7 @@
 title: Let it be Resolved...
 date: 2010-01-07 12:38
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 683
 ---
 I am hereby making the following three New Year's resolutions:

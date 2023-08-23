@@ -2,7 +2,7 @@
 title: Happy New Year, Internet
 date: 2020-01-09 09:07
 description: A few guilty paragraphs about not posting more, a funny text message, and a video from New Year's that made us laugh.
-tags: stories
+tags: my-stories
 id: 2228
 ---
 Happy New Year, Internet.

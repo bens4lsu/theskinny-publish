@@ -2,7 +2,7 @@
 title: Workday During School Closing
 date: 2010-01-08 13:49
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 685
 ---
 Baton Rouge actually closed schools today because it's really, really cold.  No snow.  No ice.  It's just butt-cold.

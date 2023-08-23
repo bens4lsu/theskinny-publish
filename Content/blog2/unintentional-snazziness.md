@@ -2,7 +2,7 @@
 title: Unintentional Snazziness
 date: 2005-05-13 07:25
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 117
 ---
 The other day, I came in to work, and was told that I look "snazzy."  From my perspective, I looked like I always look, but there must have been something different that day.  I like the thought of "unintentionally snazzy" being a phrase to describe me, though.

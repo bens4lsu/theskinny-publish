@@ -2,7 +2,7 @@
 title: Good Neighbors
 date: 2008-08-11 13:00
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 386
 ---
 Those of you who have been a regular in the Perkins overpass area over the past 15-20 years might recognize Ronny, a mentally challenged guy who has earned his keep and charmed customers at area businesses forever.

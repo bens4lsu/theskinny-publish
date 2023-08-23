@@ -2,7 +2,7 @@
 title: A Week of Frustration
 date: 2007-04-09 13:46
 description: A description of my post.
-tags: stories
+tags: my-stories
 id: 288
 ---
 It was a dull weekend, with mostly cool cloudy weather.  To be honest, I have absolutely nothing to blog about.  I would advise you to skip the rest of this post and check back later in the week.
