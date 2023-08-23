@@ -4,7 +4,7 @@ date: 2023-08-23 13:54
 description: I have a new morning routine that puts me in the line of fire for parking tickets.  Today was the first time that it became an issue.
 tags: stories
 id: 2342
-ogImg: 
+ogImg: BenPurpleGold.jpg
 ---
 Ko's school has a new thing where a bus from downtown will take him all the way in to school.  It saves me an hour in the morning, with a shorter drive, but more importantly, with not getting stuck in a neighborhood with two ways in and out along with 1000 other parents trying to drive the same roads at the same time.
 
