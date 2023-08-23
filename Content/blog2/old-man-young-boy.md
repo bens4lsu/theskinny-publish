@@ -1,7 +1,7 @@
 ---
 title: Old Man/Young Boy
 date: 2015-03-26 10:43
-description: A description of my post.
+description: A double post, first going into how I'm older than shit, and then followed by some cute daddy-blog crap.
 tags: stories,young-ruski
 id: 1961
 ---
@@ -15,6 +15,8 @@ Here are three related things that happened today, all of which indicate that I'
 
 Kolya is pretty much past the toddler stage where he has cute mispronunciations of words.  These are the only ones left that I an think of:
 
-<b>pan-a-cake</b>:  There's a mix-up between the pat-a-cake and the pancake breakfast food.  This word encompasses both.
-<b>applecado</b>:  That green vegetable that you mush up to make guacamole.  There's also some confusion between this and the jalapeno, as he touched a tiny bit of avocado to his lips and then claimed that he needed something to drink in order to relieve the burning.
-<b>yogrit</b>:  Yogurt.  He's gotten pretty much everyone in the house saying it this way.  Vanya might have even come around to thinking that this is the correct pronunciation.
+**pan-a-cake**:  There's a mix-up between the pat-a-cake and the pancake breakfast food.  This word encompasses both.
+
+**applecado**:  That green vegetable that you mush up to make guacamole.  There's also some confusion between this and the jalapeno, as he touched a tiny bit of avocado to his lips and then claimed that he needed something to drink in order to relieve the burning.
+
+***yogrit**:  Yogurt.  He's gotten pretty much everyone in the house saying it this way.  Vanya might have even come around to thinking that this is the correct pronunciation.

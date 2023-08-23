@@ -1,8 +1,8 @@
 ---
 title: Mardi Gras
 date: 2015-02-24 21:21
-description: A description of my post.
-tags: uncategorized
+description: My out of state friends might be lead to believe that Mardi Gras is a long weekend in February.  In fact, it goes on and on forever.  Technically, Carnival starts on Kings Day (January 6) every year, and runs to a date that is chosen with some relation to Easter, which we all know comes from a ritual that the Pope does featuring chicken blood and full moons.  I went to public school, so that's about all I know on how Easter gets scheduled.
+tags: mardi-gras, new-orleans
 id: 1952
 ---
 [Pics in this post are clickable for bigger versions.]
@@ -52,4 +52,4 @@ Saturday, we were back down to New Orleans to catch another couple of day parade
 
 That still left Sunday, Monday, and Tuesday for Mardi Gras propper, but instead of staying in Louisiana, we boarded Velvet Elvis and pointed the bow toward Mississippi.  More on that later.
 
-Somewhere in all of that, the Louisiana Junior String Ensemble had a recital too.  I have more pictures from all of this on the daily photo page, starting <a href="http://theskinnyonbenny.com/dailyphoto/2015/page.php?year=2015&month=2&day=16">here</a>.  Yes, that's bullshit.  I don't like backdated posts either.  But Mardi Gras pics take us up into the beginning of March, and I have some more to post behind those.  
+Somewhere in all of that, the Louisiana Junior String Ensemble had a recital too.  I have more pictures from all of this on the daily photo page, starting <a href="http://theskinnyonbenny.com/dailyphoto/index.html?year=2015&month=2&day=16">here</a>.  Yes, that's bullshit.  I don't like backdated posts either.  But Mardi Gras pics take us up into the beginning of March, and I have some more to post behind those.  
