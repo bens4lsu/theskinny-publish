@@ -87,7 +87,8 @@ struct BlogPosts: Component {
     
     
     var multiPostList: Component {
-        List(items) { item in
+        let items = self.items.sorted{ $0.date < $1.date }
+        return List(items) { item in
             item.postShortBox
         }.listStyle(.listAsDivs)
     }

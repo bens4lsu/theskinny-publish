@@ -29,3 +29,19 @@ extension StringProtocol {
         return result
     }
 }
+
+internal extension String {
+    func normalized() -> String {
+        String(lowercased().compactMap { character in
+            if character.isWhitespace || character == "-" {
+                return "-"
+            }
+
+            if character.isLetter || character.isNumber {
+                return character
+            }
+
+            return nil
+        })
+    }
+}
