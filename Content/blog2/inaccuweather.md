@@ -2,7 +2,7 @@
 title: Inaccuweather
 date: 2013-04-12 15:09
 description: A description of my post.
-tags: my-stories
+tags: my-stories, hurricanes
 id: 1624
 ---
 Has anyone else noticed that Accuweather sucks now?  I remember once upon a time, they were the only ones with hourly forecasts.  Then those forecasts were really, really good.

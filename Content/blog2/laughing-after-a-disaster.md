@@ -2,7 +2,7 @@
 title: Laughing After a Disaster
 date: 2005-09-02 05:45
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 137
 ---
 There are blogs aplenty if you want to read about how horrible the hurricane damage and evacuation to Baton Rouge is.  And other than mentioning that I still have no electricity, I won't complain today.  Or at least, I won't complain here.

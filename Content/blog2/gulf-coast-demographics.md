@@ -2,7 +2,7 @@
 title: Gulf Coast Demographics
 date: 2010-09-10 17:36
 description: A description of my post.
-tags: uncategorized
+tags: travel, hurricanes, florida
 id: 870
 ---
 After our vacation in Tennessee, theskinnyonbenny family drove due south, and made our way back across the Gulf coast.

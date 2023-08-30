@@ -2,7 +2,7 @@
 title: A Real Snapshot of My Work Life
 date: 2007-04-12 04:52
 description: A description of my post.
-tags: the-office
+tags: the-office, hurricanes
 id: 289
 ---
 <div>Poorly worded support cases that were actually submitted to us recently.</div><p>&nbsp;</p><p>&nbsp;</p>

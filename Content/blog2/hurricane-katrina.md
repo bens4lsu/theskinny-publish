@@ -2,7 +2,7 @@
 title: Hurricane Katrina
 date: 2005-08-31 14:37
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 136
 ---
 Even before the hurricane, I was behind in my posting, but the events in Louisiana the last few days have made it even more difficult to add to this blog.  Here are some notes I've made about what's happening from here.

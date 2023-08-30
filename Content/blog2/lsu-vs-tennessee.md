@@ -2,7 +2,7 @@
 title: LSU vs. Tennessee
 date: 2005-09-27 19:47
 description: A description of my post.
-tags: sports
+tags: sports, football, hurricanes
 id: 140
 ---
 It's a good thing that college football isn't normally played on Monday night.  

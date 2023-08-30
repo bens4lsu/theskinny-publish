@@ -2,7 +2,7 @@
 title: Tetanus
 date: 2005-10-11 20:51
 description: A description of my post.
-tags: my-stories
+tags: my-stories, hurricanes
 id: 146
 ---
 It's a damn shame, trying to eat a forkful of rice, and not being able to get your mouth open far enough to prevent the upper lip from shoving rice off the fork and onto your shirt.

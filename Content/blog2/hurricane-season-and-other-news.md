@@ -2,7 +2,7 @@
 title: Hurricane Season and Other News
 date: 2004-06-01 09:02
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 37
 ---
 Does it take a stupid type of person to become a newscaster, or do they just think that the viewers are all much stupider than they are?

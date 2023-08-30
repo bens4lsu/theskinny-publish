@@ -2,7 +2,7 @@
 title: Evacuating New Orleans
 date: 2004-09-15 10:51
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 59
 ---
 I went outside at 3:20 this morning.  Yes, it's pretty crazy to be up that early, but I find myself in the hour when only the crazies are awake from time to time.  My mission this morning was to drive to Mandeville and back to secure Velvet Elvis before Hurricane Ivan blows through.  Traffic had been ridiculous during the day, so I figured I would go out when it was only me and a few other nuts.

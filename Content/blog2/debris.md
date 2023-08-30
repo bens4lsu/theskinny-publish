@@ -2,7 +2,7 @@
 title: Debris
 date: 2008-10-23 20:59
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 399
 ---
 A couple days after Baton Rouge announced that the first pass of Hurricane Gustav debris pick up had been completed, I took this picture:

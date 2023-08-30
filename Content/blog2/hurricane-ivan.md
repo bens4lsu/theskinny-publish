@@ -2,7 +2,7 @@
 title: Hurricane Ivan
 date: 2004-09-16 08:49
 description: A description of my post.
-tags: current-events
+tags: current-events, hurricanes
 id: 60
 ---
 Gratefully, Hurricane Ivan turned out to be a non-event for Baton Rouge.  Yesterday was the day of anticipation.  The storm was due to hit land in the evening.  I was whipped all day long.  After my 3:30 - 7:30 AM journey to secure Velvet Elvis, I headed in for a full day of work.  Needless to say, I was dragging ass, with red eyes from lack of sleep and dirty contacts.

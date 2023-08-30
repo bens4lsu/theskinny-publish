@@ -2,7 +2,7 @@
 title: Football 2004 Recap
 date: 2004-12-06 21:15
 description: A description of my post.
-tags: sports
+tags: sports, football
 id: 76
 ---
 I don't know about the rest of you, but I'm tired of hearing people complain about how LSU did this season.  There are two reasons that these complaints are annoying.  First, we <b>just won the doggone national championship!</b>  And in fact, we are still the national champions for another month.  (Read that bold part again, and just try not to smile.)  More importantly, LSU had a good season this year.  Keep reading, and I'll back that up.
