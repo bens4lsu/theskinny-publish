@@ -10,7 +10,7 @@ Through most of my working life, if I showed up at the office with a big giant f
 
 Today, I was at Circle K at 7:45 to get a fountain drink not hung over at all.  I had just been up a long time, finished my coffee, and wanted something cold to drink so I could sit outside to start my work day.  I like sometimes to sit on the plaza outside of the main library.  There is shade, power outlets, a steady trickle of people to watch, and a fountain for background white noise.
 
-<a class="lightview centered" href="/img/circle-k-scanner.jpg" data-lightview-caption="At the library this morning." data-lightview-group="group1"><img src="/img/circle-k-scanner.jpg" alt="/img/circle-k-scanner.jpg" width="650px"><br><span class="caption">At the library this morning.</span></a>
+<a class="lightview centered" href="/img/work20230908.jpg" data-lightview-caption="At the library this morning." data-lightview-group="group1"><img src="/img/work20230908.jpg" alt="/img/work20230908.jpg" width="650px"><br><span class="caption">At the library this morning.</span></a>
 
 But it's still so hot outside, even at 8:00 AM.  So I need a drink.
 
@@ -30,7 +30,7 @@ If you have to be crazy, crazy and happy to be alive beats the shit out of crazy
 
 Getting back to Circle-K, the new robot check out things are the best new invention of 2023.  Just stick your things under the hood, swipe the phone over the keypad, and you're out.  No scanning, no nothing.  I was out of the store while thankful-to-be-alive lady was still trying to pay.
 
-<a class="lightview centered" href="/img/work20230908.jpg" data-lightview-caption="The new Circle K scanner." data-lightview-group="group1"><img src="/img/work20230908.jpg" alt="/img/work20230908.jpg" width="650px"><br><span class="caption">The new Circle K scanner.</span></a>
+<a class="lightview centered" href="/img/circle-k-scanner.jpg" data-lightview-caption="The new Circle K scanner." data-lightview-group="group1"><img src="/img/circle-k-scanner.jpg" alt="/img/circle-k-scanner.jpg" width="650px"><br><span class="caption">The new Circle K scanner.</span></a>
 
 
 
