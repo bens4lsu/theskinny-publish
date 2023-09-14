@@ -12,6 +12,11 @@ class MicroPostFileManager {
     let contentFilePath = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content/micro-posts/"
     let mediaFilePath = "/Users/ben/Library/Mobile Documents/com~apple~CloudDocs/webdev/sites/theskinny_media/img/micro/"
     let htmlRelativePath = "/img/micro/"
+    let yamlFile = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/ben-build tools/mastodon-posts.yaml"
+    
+    let mp4Lookup = [
+        "ca1909ab10e61040.mp4" : "<iframe width=\"904\" height=\"509\" src=\"https://www.youtube.com/embed/m7ukv-ZWi4o\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+    ]
     
     let formatter: DateFormatter = {
         let formatter = DateFormatter()
@@ -19,15 +24,25 @@ class MicroPostFileManager {
         return formatter
     }()
         
-    func write(_ post: MastodonResponse) async throws {
+    func getYaml(_ post: MastodonResponse) async throws -> String {        
         let idStr = String(post.id)
         let fileName = contentFilePath + idStr + ".md"
         let fm = FileManager.default
-        if !fm.fileExists(atPath: fileName) && post.inReplyToId == nil || true {
-            let media = try await postMedia(post)
-            let str = fileContents(post, media)
-            try str.write(toFile: contentFilePath + idStr + ".md", atomically: true, encoding: .utf8)
+        if !fm.fileExists(atPath: fileName) && post.inReplyToId == nil {
+            
+            var mediaLine = ""
+            let mediaFileName = try await postMedia(post)
+            if mediaFileName.suffix(3) == "mp4" {
+                mediaLine = mp4Lookup[mediaFileName] ?? ""
+            }
+            else if mediaFileName.suffix(3) == "jpg" || mediaFileName.suffix(3) == "png" {
+                mediaLine = "<img src=\"/img/micro/\(mediaFileName)>"
+            }
+            
+            let str = fileContentsAsYaml(post, mediaLine)
+            return str
         }
+        return ""
     }
     
     
@@ -42,24 +57,23 @@ class MicroPostFileManager {
         }
         let (data, _) = try await session.data(from: url)
         let fileName = mediaFilePath + url.lastPathComponent
-        let destinationUrl = URL(fileURLWithPath: fileName) 
-        print ("write to \(fileName)")
+        let destinationUrl = URL(fileURLWithPath: fileName)
         try data.write(to: destinationUrl)
-        return htmlRelativePath + fileName
+        return url.lastPathComponent
     }
     
     
     
-    private func fileContents(_ post: MastodonResponse, _ media: String) -> String {
-        """
----
-date: \(formatter.string(from: post.createdAt))
-source: mastodon
-sourceUrl: \(post.uri)
----
-\(post.content)
+    private func fileContentsAsYaml(_ post: MastodonResponse, _ media: String) -> String /* return YAML */ {
 
-<img src="\(media)" alt="image \(media)">
+"""
+-
+    date: \(formatter.string(from: post.createdAt))
+    source: mastodon
+    sourceUrl: \(post.uri)
+    content: |
+        \(post.content.replacingOccurrences(of: "\n", with: "\n\t\t"))
+    media: \(media)
 """
 
         
