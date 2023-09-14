@@ -13,7 +13,7 @@ I got 35 minutes into episode one.
 
 The writers think that this makes sense:
 
-The main lady has a daughter, and that daughter beat up a kid at school.  Let's call him bloody-lip.  So we start a scene where main character mom goes to bloody lip's house to talk to bloody lip's parents.  He tells us that his dad is out of town, and that his mom is around back having a tennis lesson.  Main character mom walks around back and spys the other mom banging the tennis instructor.
+The main lady has a daughter, and that daughter beat up a kid at school.  Let's call him bloody-lip.  So we start a scene where main character mom goes to bloody-lip's house to talk to bloody-lip's parents.  He tells us that his dad is out of town, and that his mom is around back having a tennis lesson.  Main character mom walks around back and spys the other mom banging the tennis instructor.
 
 And after that, they all go to school for that morning.  
 
@@ -23,7 +23,7 @@ After school *on that very same day*, she goes back to that house for a giant pa
 
 <a class="lightview centered" href="/img/penelope.jpg" data-lightview-caption="The company that sets up parties in this town does a killer job." data-lightview-group="group1"><img src="/img/penelope.jpg" alt="/img/penelope.jpg" width="650px"><br><span class="caption">The company that sets up parties in this town does a killer job.</span></a>
 
-Then, they have 200 people over for a shindig when the husband is either still out of town or has just gotten back.
+Then, they have 200 people over for a shindig when the husband is either still *out of town* or has just gotten back.
 
 This is the worst example, but the dialog is full of things that real people wouldn't say.  The acting isn't what you would call good, but it wouldn't be something I noticed if the writing wasn't so sloppy.
 
