@@ -12,31 +12,27 @@ class MicroPostFileManager {
     let contentFilePath = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content/micro-posts/"
     let mediaFilePath = "/Users/ben/Library/Mobile Documents/com~apple~CloudDocs/webdev/sites/theskinny_media/img/micro/"
     let htmlRelativePath = "/img/micro/"
-    let yamlFile = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/ben-build tools/mastodon-posts.yaml"
+    let yamlFile = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content-custom/mastodon-posts.yaml"
     
     let mp4Lookup = [
-        "ca1909ab10e61040.mp4" : "<iframe width=\"904\" height=\"509\" src=\"https://www.youtube.com/embed/m7ukv-ZWi4o\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "ca1909ab10e61040.mp4" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/m7ukv-ZWi4o\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
     ]
     
     let formatter: DateFormatter = {
         let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy-MM-dd HH:mm"
+        formatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
         return formatter
     }()
         
     func getYaml(_ post: MastodonResponse) async throws -> String {        
-        let idStr = String(post.id)
-        let fileName = contentFilePath + idStr + ".md"
-        let fm = FileManager.default
-        if !fm.fileExists(atPath: fileName) && post.inReplyToId == nil {
-            
+        if post.inReplyToId == nil {
             var mediaLine = ""
             let mediaFileName = try await postMedia(post)
             if mediaFileName.suffix(3) == "mp4" {
                 mediaLine = mp4Lookup[mediaFileName] ?? ""
             }
             else if mediaFileName.suffix(3) == "jpg" || mediaFileName.suffix(3) == "png" {
-                mediaLine = "<img src=\"/img/micro/\(mediaFileName)>"
+                mediaLine = "<img src=\"/img/micro/\(mediaFileName)\">"
             }
             
             let str = fileContentsAsYaml(post, mediaLine)

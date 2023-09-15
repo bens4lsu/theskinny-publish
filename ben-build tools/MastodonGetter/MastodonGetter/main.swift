@@ -19,7 +19,7 @@ if let (data, _) = try await getPosts() {
     let decoder = JSONDecoder()
     let mastodonResponse = try decoder.decode([MastodonResponse].self, from: data)
     let mpfm = MicroPostFileManager()
-    var output = "posts:\n"
+    var output = ""
     for post in mastodonResponse {
         output += try await mpfm.getYaml(post) + "\n\n"
     }

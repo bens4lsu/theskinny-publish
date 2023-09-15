@@ -15,6 +15,12 @@ extension EnvironmentKey where Value == DateFormatter {
         formatter.dateFormat = "MMMM dd, yyyy"
         return formatter
     }()
+    
+    static let hmsDateFormatter: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "MM/dd/yyyy hh:mm:ss"
+        return formatter
+    }()
 }
 
 extension EnvironmentKey where Value == Int {

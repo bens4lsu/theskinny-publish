@@ -59,7 +59,7 @@ extension PublishingContext where Site == Theskinny {
     }
     
     var videoAlbums: [VideoAlbum] {
-        let path =  self.site.path(for: .home).parent + "Content-custom/video-metadata/"
+        let path =  self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/video-metadata/"
         let decoder = YAMLDecoder()
         var albums = [VideoAlbum]()
         do {
@@ -83,6 +83,25 @@ extension PublishingContext where Site == Theskinny {
             print ("Video album file or decode error on:  \(e)")
         }
         return albums
+    }
+    
+    var microPosts: [MicroPost] {
+        let paths =  [self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/mastodon-posts.yaml",
+                      self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/twitter-posts.yaml"
+        ]
+        
+        let decoder = YAMLDecoder()
+        var decoded = [MicroPost]()
+        do {
+            for path in paths {
+                let file = try File(path: path)
+                let fileYaml = try file.readAsString()
+                decoded += try decoder.decode([MicroPost].self, from: fileYaml)
+            }
+        } catch(let e) {
+            print ("Yaml file decode error on:  \(e)")
+        }
+        return decoded
     }
     
     
