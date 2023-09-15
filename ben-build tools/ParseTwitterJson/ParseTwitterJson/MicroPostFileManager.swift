@@ -58,9 +58,9 @@ class MicroPostFileManager {
 -
     date: \(formatter.string(from: post.created_at))
     source: twitter
-    sourceUrl: \(post.source)
+    sourceUrl: https://twitter.com/bens4lsu/status/\(post.id)
     content: |
-        \(post.full_text.replacingOccurrences(of: "\n", with: "\n\t\t"))
+        \(post.full_text.replacingOccurrences(of: "\n", with: "\n        "))
     media: \(media)
 """
 

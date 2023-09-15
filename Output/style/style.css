@@ -132,7 +132,7 @@ h1 {
     font-weight: bold;
 }
 
-h3 {
+h3, h4 {
     color:#4C4C4C;
     font-size:85%;
     font-weight: bold;
@@ -407,7 +407,7 @@ div.vid-gal-thumbnail img {
 }
 
 div.micro-post-container {
-    max-width: 440px;
+    max-width: 290px;
     display: grid;
     grid-template-columns: 38px auto;
     font-size: 80%;
@@ -417,6 +417,7 @@ div.micro-post-container {
     padding-bottom: 20px;
     padding-left: 15px;
     padding-right: 15px;
+    overflow: hidden;
 }
 
 div.micro-post-icon-top {
@@ -437,8 +438,13 @@ div.micro-post-icons div img {
 
 
 div.micro-post-media img {
-    max-width: 400px;
+    max-width: 250px;
     height: auto;
+}
+
+.inline-list-of-links {
+    display: inline-block;
+    margin-right: 1.5em;
 }
 
 

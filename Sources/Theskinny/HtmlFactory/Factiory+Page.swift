@@ -69,7 +69,7 @@ extension TsobHTMLFactory {
     
     fileprivate func makePageHTMLMicroPosts(for page: Publish.Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Micro Posts from Social Media")
-        let pageContent = MicroPosts(mposts: context.microPosts)
+        let pageContent = MicroPosts(mposts: context.microPosts, allYears: nil)
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML (
             htmlHeadInfo.node,

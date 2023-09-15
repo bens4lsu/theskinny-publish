@@ -15,7 +15,7 @@ class MicroPostFileManager {
     let yamlFile = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content-custom/mastodon-posts.yaml"
     
     let mp4Lookup = [
-        "ca1909ab10e61040.mp4" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/m7ukv-ZWi4o\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+        "ca1909ab10e61040.mp4" : "<iframe width=\"200\" height=\"112\" src=\"https://www.youtube.com/embed/m7ukv-ZWi4o\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
     ]
     
     let formatter: DateFormatter = {

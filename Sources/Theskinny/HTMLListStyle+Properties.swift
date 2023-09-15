@@ -23,6 +23,12 @@ extension HTMLListStyle {
         }
     }
     
+    static var inlineListOfLinks: HTMLListStyle {
+        HTMLListStyle(elementName: "") { listItem in
+            Div(listItem).class("inline-list-of-links")
+        }
+    }
+    
     func componentListOfLinks(links: [Link]) -> Component {
         List(links) { link in
             link

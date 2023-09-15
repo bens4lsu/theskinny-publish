@@ -28,7 +28,6 @@ struct Tweet: Codable {
     }
     
     var retweeted: Bool?
-    var source: String
     var urls: [Url]?
     var id: String
     var created_at: Date

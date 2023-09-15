@@ -20,7 +20,7 @@ struct MicroPost: Component, Decodable {
             case .mastodon:
                 return "/img/micro/mastodon-logo.png"
             case .twitter:
-                return "/img/micro/twitter-bird.jpg"
+                return "/img/micro/twitter-bird.png"
             }
         }
     }
@@ -40,7 +40,7 @@ struct MicroPost: Component, Decodable {
         Div {
             Div {
                 Div {
-                    Image("/img/micro/bennyst.jpg")
+                    Image("/img/micro/bennyst.png")
                 }.class("micro-post-icon-top")
                 Div {
                     Image(source.platoformImage)
@@ -59,6 +59,7 @@ struct MicroPost: Component, Decodable {
 
 struct MicroPosts: Component {
     let mposts: [MicroPost]
+    let allYears: Set<String>?
     
     let formatterYYYY: DateFormatter = {
         let formatter = DateFormatter()
@@ -92,18 +93,30 @@ struct MicroPosts: Component {
         }
         
         return Article {
+            H4("Previous Years")
+            previousYearLinks()
             H2("\(latestYear) Micro Posts from Social Media")
             List(postsByYear[latestYear]!) { post in
                 post
-            }
+            }.listStyle(.listAsDivs)
         }
     }
     
     func forYear(year: String) -> Component {
         if let posts = postsByYear[year] {
-            return MicroPosts(mposts: posts)
+            return MicroPosts(mposts: posts, allYears: years)
         }
         return EmptyComponent()
+    }
+    
+    func previousYearLinks() -> Component {
+        var years = allYears ?? years
+        if let latestYear {
+            years.remove(latestYear)
+        }
+        return List(years.sorted()) { year in
+            Link(year, url: "/micro-posts/\(year)")
+        }.listStyle(.inlineListOfLinks)
     }
 }
 
