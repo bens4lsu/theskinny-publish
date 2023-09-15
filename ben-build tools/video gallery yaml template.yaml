@@ -1,18 +1,18 @@
 # id numbers from original ids on Vimeo
 
-id: 
-name: 
-slug: 
-caption: 
+id: -1
+name: Original Videos From theskinnyonbenny.com
+slug: original-videos
+caption: These are the first videos I ever posted on the site.  I hosted them myself, and video embed technology was such that there was only a 50/50 chance that anyone could see them.
 videos: 
     -
-        id: 
+        id: 1261867
         dateRecorded: 
-        name: 
+        name: Daisy Rolling in the Stink
         caption: |
-            
-        url: 
-        embed: 
+            It seemed like a harmless waste of time. Heather was out, so I rented Breakin' 2: Electric Boogaloo. I didn't even know Daisy was paying attention; I thought she was asleep. But ever since, she's convinced herself that she can break dance. I think that she thinks she's really doing it.
+        url: https://youtu.be/dmp-45bPWmY
+        embed: <iframe width="616" height="462" src="https://www.youtube.com/embed/dmp-45bPWmY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     -
         id: 
         dateRecorded: 

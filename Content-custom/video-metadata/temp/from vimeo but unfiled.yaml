@@ -18,7 +18,8 @@ videos:
         id: 1261871
         dateRecorded: 
         name: Dan Grooves
-        caption: It is fortunate for Dan that as his natural instinct to nod off in public takes effect, it actually looks to the casual observer like he's just an old hippie tourist grooving to the bad Thai singer.
+        caption: |
+            It is fortunate for Dan that as his natural instinct to nod off in public takes effect, it actually looks to the casual observer like he's just an old hippie tourist grooving to the bad Thai singer.
         url: 
         embed: 
     -
@@ -91,7 +92,8 @@ videos:
     -
         id: 159721635
         dateRecorded: 
-        name: Vanya's Chapel Skit
+        name: |
+            Vanya's Chapel Skit
         caption: |
             
         url: 
