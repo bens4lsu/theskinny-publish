@@ -154,3 +154,31 @@ videos:
         embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/cOr_Vszhblo" title="The Longest Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq1hh.jpg
         duration: 1:34
+     -
+        id: 194259860
+        dateRecorded: 2016-11-30
+        name: Dunham Honor Choir - Christmas Songs 2016
+        caption: Cute (but kind of boring if you want to know the truth)
+        url: https://youtu.be/B-BL3ZhTt14
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/B-BL3ZhTt14" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915e.jpg
+        duration: 12:07    
+     -
+        id: 160294977
+        dateRecorded: 2016-03-04
+        name: Kolya's School Presentation
+        caption: Runnels preschool presentation 
+        url: https://youtu.be/BCVfOJB9aB0
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/BCVfOJB9aB0" title="Kolya&#39;s School Presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915g.jpg
+        duration: 24:16
+     -
+        id: 159721635
+        dateRecorded: 
+        name: |
+            Vanya's Chapel Skit
+        caption: 
+        url: https://youtu.be/zgLOXnOocMc
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/zgLOXnOocMc" title="Vanya&#39;s Chapel Skit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915h.jpg
+        duration: 8:42

@@ -222,4 +222,14 @@ videos:
         embed: <iframe width="950" height="534" src="https://www.youtube.com/embed/jaT9c6_WL6c" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq2aaaa.jpg
         duration: 0:35
+    -
+        id: 77429020
+        dateRecorded: 2013-10-10
+        name: Don't Do This
+        caption: |
+            While I'm busy setting up the camera, baby Ko tells me about how he knows what not to do with scissors.  Parenting at its best, right here.
+        url: https://youtu.be/uWoHGBVEJmM
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/uWoHGBVEJmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915f.jpg
+        duration: 0:28
    

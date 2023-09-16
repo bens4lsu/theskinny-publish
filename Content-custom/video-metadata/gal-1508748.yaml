@@ -134,3 +134,12 @@ videos:
         embed: <iframe width="1032" height="581" src="https://www.youtube.com/embed/NdCuoZ18Ejs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq1m.jpg
         duration: 0:12
+    -
+        id: 22924722
+        dateRecorded: 2011-04-24
+        name: Easter Morning 2011
+        caption: In this video, Vanya has just woken up in the house, and come down to the boat to find his Easter basket there.  
+        url: https://youtu.be/7eDR_IBepQ0
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/7eDR_IBepQ0" title="Easter Morning 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915d.jpg
+        duration: 3:58
