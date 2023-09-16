@@ -166,3 +166,12 @@ videos:
         embed: <iframe width="446" height="793" src="https://www.youtube.com/embed/c8AV2yV-c2k" title="Who Had Fun at the Parade Tonight?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq2hh.jpg
         duration: 0:06
+    -   
+        id: 61238332
+        dateRecorded: 
+        name: This Cat Hates My Mom
+        caption: 
+        url: https://youtube.com/shorts/nAjhawhvTNU
+        embed: <iframe width="535" height="951" src="https://www.youtube.com/embed/nAjhawhvTNU" title="This Cat Hates My Mom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: aaa.jpg
+        duration: 0:33
