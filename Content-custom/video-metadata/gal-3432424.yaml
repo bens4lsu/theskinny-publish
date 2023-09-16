@@ -46,7 +46,7 @@ videos:
         tn: mq2gg.jpg
         duration: 1:53
     -
-        id: 200000000
+        id: 300000000
         dateRecorded: 2023-02-23
         name: Lake in Ozark National Forest
         caption: |
@@ -56,7 +56,7 @@ videos:
         tn: mq1tt.jpg
         duration: 1:14
     -
-        id: 200000001
+        id: 300000001
         dateRecorded: 2023-03-22
         name: Mississippi River, Baton Rouge
         caption: Drone practice over the Mississippi, from the levee at LSU.
@@ -65,7 +65,7 @@ videos:
         tn: mq3ii.jpg
         duration: 2:42
     -
-        id: 200000002
+        id: 300000002
         dateRecorded: 2023-03-26
         name: Remodeled Garage
         caption: |
@@ -74,3 +74,13 @@ videos:
         embed: <iframe width="835" height="470" src="https://www.youtube.com/embed/zh6Ow9BRK2c" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq2ccc.jpg
         duration: 0:44
+    -
+        id: 262221598
+        dateRecorded: 
+        name: Rig Inspection
+        caption: |
+            A drone seems like a perfect solution for looking for a problem at the top of the sailboat mast.  Let's see how that goes.
+        url: https://youtu.be/HkxzjTpiZwc
+        embed: <iframe width="777" height="437" src="https://www.youtube.com/embed/HkxzjTpiZwc" title="Rig Inspection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915i.jpg
+        duration: 5:33

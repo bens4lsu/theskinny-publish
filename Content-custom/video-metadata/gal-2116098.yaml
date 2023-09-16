@@ -232,4 +232,12 @@ videos:
         embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/uWoHGBVEJmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20230915f.jpg
         duration: 0:28
-   
+    -
+        id: 52016381
+        dateRecorded: 2012-10-13
+        name: Tailgate Morning Peace
+        caption: The morning tailgate scene.  No people in this one.
+        url: https://youtu.be/iLORNSYhiBs
+        embed: <iframe width="777" height="437" src="https://www.youtube.com/embed/iLORNSYhiBs" title="Tailgate Morning Peace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230915j.jpg
+        duration: 0:35
