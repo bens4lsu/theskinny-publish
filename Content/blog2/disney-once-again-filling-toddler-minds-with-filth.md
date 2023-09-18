@@ -1,7 +1,7 @@
 ---
 title: Disney, Once Again Filling Toddler Minds with Filth
 date: 2014-12-10 16:47
-description: A description of my post.
+description: For a number of weeks, three-year-old Kolya has insisted that Anna from Frozen has a line in a song where she sings, "Pain in the Ass." I found that to be a highly dubious claim, and when I caught him watching it after work yesterday, I asked him to give me a call when the "Pain in the Ass" part comes on.
 tags: young-ruski
 id: 1914
 ---

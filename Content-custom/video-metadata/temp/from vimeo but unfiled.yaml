@@ -6,20 +6,8 @@ slug: from-vimeo-but-unfiled
 caption: Need to merge these wherever it is that they belong.
 videos: 
 
-    -
-        id: 194259860
-        dateRecorded: 2016-11-30
-        name: Dunham Honor Choir - Christmas Songs 2016
-        caption: 
-        url: 
-        embed: 
-    -
-        id: 22924722
-        dateRecorded: 2011-04-24
-        name: Easter Morning 2011
-        caption: In this video, Vanya has just woken up in the house, and come down to the boat to find his Easter basket there.  
-        url: 
-        embed: 
+
+
     -
         id: 324403888
         dateRecorded: 2019-03-15
@@ -27,36 +15,16 @@ videos:
         caption: 
         url: 
         embed: 
-    -
-        id: 160294977
-        dateRecorded: 2016-03-04
-        name: Kolya's School Presentation
-        caption: Runnels preschool presentation 
+    
+        -
+    id: 323991180
+        dateRecorded: 2019-03-14
+        name: Who Eats Boogers?
+        caption: 
         url: 
         embed: 
-    -
-        id: 77429020
-        dateRecorded: 
-        name: MVI 0544
-        caption: |
-            
-        url: 
-        embed: 
-    -
-        id: 262221598
-        dateRecorded: 
-        name: rig inspection
-        caption: |
-            
-        url: 
-        embed: 
-    -
-        id: 52016381
-        dateRecorded: 2012-10-13
-        name: Tailgate Morning Peace
-        caption: The morning tailgate scene.
-        url: 
-        embed: 
+ 
+
     -
         id: 61238332
         dateRecorded: 
@@ -65,19 +33,5 @@ videos:
             
         url: 
         embed: 
-    -
-        id: 159721635
-        dateRecorded: 
-        name: |
-            Vanya's Chapel Skit
-        caption: |
-            
-        url: 
-        embed: 
-    -
-        id: 323991180
-        dateRecorded: 2019-03-14
-        name: Who Eats Boogers?
-        caption: 
-        url: 
-        embed: 
+
+

@@ -1,8 +1,8 @@
 ---
 title: Gingerbread/NOLA
 date: 2014-12-16 21:53
-description: A description of my post.
-tags: uncategorized
+description: In preschool a couple of weeks ago, Kolya's class made gingerbread men. When they went out to play, the teachers hid them, and they told the kids that the cookies came to life, ran around the classroom, and dared the kids to find them. The kids looked all over, inside and out, and they couldn't find the runaway gingers.
+tags: travel, new-orleans, christmas, young-ruski
 id: 1917
 ---
 Once in a very great while, I site next to the kids while they are calm and quiet, and I have a chance to think over the fun we've had over the last few weeks or months.  Tonight, I wondered how much I will remember from the past month.  The answer popped into my head as quickly as the question.  I will only remember what I photograph or write here.  So, as much as I wouldn't enjoy reading someone else's parenting blog....
