@@ -2,7 +2,7 @@
 title: Master Motivator, Beaglo Wild Wings, Night Market
 date: 2023-09-20 15:03
 description: It didn't seem like an eventful weekend, but here I am with a post of full of words and pictures from Friday and Saturday.
-tags: young-ruski, football
+tags: young-ruski,football
 id: 2346
 ogImg: breast-stroke.jpg
 ---
