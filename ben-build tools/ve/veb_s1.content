@@ -1,0 +1,32 @@
+<script>
+	img137SailingTriptoCuba = new Image;
+	img137SailingTriptoCubaRed = new Image;
+	img137SailingTriptoCuba.src = "/img/gal/137 - Sailing Trip to Cuba/data/normal.jpg";
+	img137SailingTriptoCubaRed.src = "/img/gal/137 - Sailing Trip to Cuba/data/red.jpg";
+	
+	function chgImg (imgName, newImg){
+		 var i = document.getElementsByName(imgName)[0];
+		 i.src = eval (newImg + ".src");
+		}
+
+</script>
+
+		During June of 2016, we went on our longest sailing trip yet.
+
+		<table style="padding-top:30px;">
+		  <tr>
+			<td><a href="page.php?fn=veb_s1p1.content">June 6 - 10, 2016:  Louisiana to some spot well North of Key West</a><br>Putting a lot of miles under the keel, plust a named storm for good measure.</td>
+		  </tr><tr>
+		  <td><a href="page.php?fn=veb_s1p2.content">June 10, 2016:  Still Making Way Toward Key West</a><br>Out on the ocean, all by ourselves.</td>
+		  </tr><tr>
+		  <td><a href="page.php?fn=veb_s1p3.content">June 11 - 12, 2016:  Passage to Cuba</a><br>Out on the ocean, all by ourselves.</td>
+		  </tr><tr>
+		  <td><a href="page.php?fn=veb_s1p4.content">June 12, 2016:  Clearing In, Dinner in Cuba</a><br>What to expect at Marina Hemingway.</td>
+		  </tr><tr>
+			<td style="padding-top:20px;"><a href="/pg4.php?spgmGal=137%20-%20Sailing%20Trip%20to%20Cuba" onmouseover="chgImg ('i137SailingTriptoCuba','img137SailingTriptoCubaRed');"  onmouseout="chgImg ('i137SailingTriptoCuba','img137SailingTriptoCuba');" >
+			Photo Gallery with Trip Pics  
+			<img border="0" src = "/img/gal/137%20-%20Sailing%20Trip%20to%20Cuba/data/normal.jpg" height="109" name 
+			="i137SailingTriptoCuba"></a></td>
+		  </tr>
+		  
+		</table>
