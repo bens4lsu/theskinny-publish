@@ -447,6 +447,18 @@ div.micro-post-media img {
     margin-right: 1.5em;
 }
 
+ul.compact {
+    margin-top: 0;
+    list-style-type: none;
+}
+
+ul.compact li {
+    margin: 5px;
+}
+
+ul.compact li a {
+    text-decoration: none;
+}
 
 @media (min-width: 650px) {
     .wrapper {

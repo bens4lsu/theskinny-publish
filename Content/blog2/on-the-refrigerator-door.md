@@ -1,14 +1,15 @@
 ---
 title: On the Refrigerator Door
 date: 2004-04-20 20:38
-description: A description of my post.
-tags: my-stories,blogs-i-read-once-in-a-while
+description: As I was looking through the refrigerator this evening, I picked up a bottle of food off of the door.  It's funny how all refrigerator doors are full of the same bottles and jars of stuff.  You never even see the things until you happen to want a pickle, or you wonder if there are any of those spiced beans left that you bought to put in Bloody Marys.
+tags: my-stories
 id: 28
 ---
 As I was looking through the refrigerator this evening, I picked up a bottle of food off of the door.  It's funny how all refrigerator doors are full of the same bottles and jars of stuff.  You never even see the things until you happen to want a pickle, or you wonder if there are any of those spiced beans left that you bought to put in Bloody Marys.
 
 I happened to be looking for dill pickle chips to put on a sandwich.  (As an aside, "sandwich" is one of the hardest words to spell.  Go ahead and ask your nearest coworker, and see if he or she doesn't get stuck, at least a little.)  The big jar that I picked up happened to be sauerkraut.
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/jartop.JPG" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275 class="caption">Can someone interpret K07301B 07:36 for me?  How long is this jar of kraut good?</td></tr></table>
+
+<a class="lightview alignright" href="/img/jartop.JPG" data-lightview-caption="Can someone interpret K07301B 07:36 for me?  How long is this jar of kraut good?" data-lightview-group="group1" style="width:350px;"><img src="/img/jartop.JPG" alt="/img/jartop.JPG"><br><span class="caption">Can someone interpret K07301B 07:36 for me?  How long is this jar of kraut good?</span></a>
 
 It just so happens that I don't remember the last time I bought or even ate sauerkraut.  I used to buy it a lot to put on a bun with a big sausage.  But, it's been a couple of years since I regularly ate sausage.  Could this bottle be that old? 
 

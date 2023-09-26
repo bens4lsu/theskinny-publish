@@ -14,15 +14,14 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
 
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/easter-cruise-2012">Easter Cruise 2012</a> (I haven't written about a trip in four years??!!!)</div>	
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/easter-cruise-2008">Easter Cruise 2008</a></div>
-<div class="list-of-links">Bringing <i>Velvet Elvis</i> Home After Post-Katrina Restore<ul>
+<div class="list-of-links">Bringing <i>Velvet Elvis</i> Home After Post-Katrina Restore<ul class="compact">
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 1</a></li>
-    <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 2</a></li>
-    <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 3</a></li>
-    <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 4</a></li>
+    <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-2">Page 2</a></li>
+    <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-3">Page 3</a></li>
 <ul></div>
-<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/?fn=ve_s3.content">Driving to Edenton for a post-hurricane overhaul.</a></div>
+<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-road-to-edenton">Driving to Edenton for a post-hurricane overhaul.</a></div>
 <div class="list-of-links"><a href="https://dynamic.theskinnyonbenny.com/gal/14" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
-<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/?fn=ve_s2.content">God Looks out for Incompetent Captains</a></div>
+<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-fool-captain">God Looks out for Incompetent Captains</a></div>
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/?fn=ve_s1.content">Boat Maintenance, Spring 2005</a></div>
 <div class="list-of-links"><a href="/ve/CaptLog.php">See the whole Captain's Log</a></div>
 
