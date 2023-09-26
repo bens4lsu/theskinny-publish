@@ -3,7 +3,7 @@ import Publish
 import Plot
 import Files
 
-// This type acts as the configuration for your website.
+
 struct Theskinny: Website {
     enum SectionID: String, WebsiteSectionID, CaseIterable {
         case home

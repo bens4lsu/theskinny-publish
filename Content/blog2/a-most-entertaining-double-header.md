@@ -1,13 +1,13 @@
 ---
 title: A Most Entertaining Double Header
 date: 2004-05-03 22:07
-description: A description of my post.
-tags: sports
+description: Last week, I had the chance to attend a very unusual double header.  It started with game 4 of the Hornets-Heat playoff series.  Tip off at 7:00 in New Orleans arena, followed by the LSU-Tulane baseball game next door in the Superdome.  he basketball game was great.  We had seats on the 10th row in the corner.  
+tags: sports, baseball, basketball, new-orleans
 id: 30
 ---
 Last week, I had the chance to attend a very unusual double header.  It started with game 4 of the Hornets-Heat playoff series.  Tip off at 7:00 in New Orleans arena, followed by the LSU-Tulane baseball game next door in the Superdome.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/courtside0427.JPG" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Being close to the basketball court is good.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/courtside0427.JPG" data-lightview-caption="Being close to the basketball court is good." data-lightview-group="group1" style="width:350px;"><img src="/img/courtside0427.JPG" alt="/img/courtside0427.JPG"><br><span class="caption">Being close to the basketball court is good.</span></a>
 
 The basketball game was great.  We had seats on the 10th row in the corner.  I could get used to the lower deck.  My only real problem with it is that the New Orleans fans sit on their asses during the action.  They are more apt to get up to do the chicken dance during a timeout than they are to stand up and try to rattle the opponents.  I know that the NBA is new to us, but come on.  This is the playoffs.  It's time to start acting like the loud obnoxious a-holes that we are.
 
@@ -21,15 +21,14 @@ Call me a geek, but twice during the basketball game, the Hornets made passes th
 
 You can't beat a 300-yard walk from one event to the next.  The setup was like Jazz fest for the Louisiana sports fan.  It's a little bit difficult, though to get from basketball fan mode to baseball fan mode.  It sounds stupid, but I not knew what to yell.  Once I did even blurt a "c'mon ref!"  No one seemed to notice that I didn't know that baseball has umpires.  The basketball and baseball centers of the brain are surprisingly far from each other.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/AtBaseBall0427.JPG" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The narrator watches baseball.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/AtBaseBall0427.JPG" data-lightview-caption="The narrator watches baseball." data-lightview-group="group1" style="width:350px;"><img src="/img/AtBaseBall0427.JPG" alt="/img/AtBaseBall0427.JPG"><br><span class="caption">The narrator watches baseball.</span></a>
 
 
 The baseball game was moved up to an earlier than expected start for the typical LSU baseball fan, who is around age 80.  An 8:30 start meant that LSU Baseball Fan would have to drive home around midnight, which of course, would really put a damper on that 5:30 am breakfast at Dennyï¿½s with their geriatric buddies.
 
 Stacie did manage to catch the attached photo of your favorite web scribe.  I know that it's my site, and that I don't have to publish this, but I sure as hell would put the same photo of any of you here, so in the name of journalistic integrity, here is the photo that Stacie titled, "7th Inning Stretch."
 
-<table cellpadding=0 cellspacing=0 border=0 align=center><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=100%><img src="/img/7thInningStretch.JPG" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>7th Inning Stretch </b></font></td></tr></table>
-
+<a class="lightview alignright" href="/img/7thInningStretch.JPG" data-lightview-caption="7th Inning Stretch" data-lightview-group="group1" style="width:350px;"><img src="/img/7thInningStretch.JPG" alt="/img/7thInningStretch.JPG"><br><span class="caption">7th Inning Stretch</span></a>
 
 In the three innings of baseball that we caught, LSU only managed one hit, and they gave up a few.  Fortunately, they had built a big lead by the time we got there, so we managed to leave with a 2-0 record on the night.  That's a pretty good night, and by all reasonable measures, we should have headed straight for the casino, but like responsible grown-ups, we headed back to Baton Rouge.
 

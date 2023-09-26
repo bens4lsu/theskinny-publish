@@ -460,6 +460,10 @@ ul.compact li a {
     text-decoration: none;
 }
 
+table td {
+    padding: 1em;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;
