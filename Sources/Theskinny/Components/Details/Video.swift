@@ -57,14 +57,6 @@ struct Video: Component, Decodable {
         return "Recorded:  " + EnvironmentKey.defaultDateFormatter.string(from: dateRecorded!)
     }
     
-//    private var dateRecordedComponent: Component {
-//        if dateRecorded == nil {
-//            return EmptyComponent()
-//        }
-//        let formatter = EnvironmentKey.defaultDateFormatter
-//        return Text(formatter.string(from: dateRecorded!))
-//    }
-    
     // for line items on pages on /video-albums
     var body: Component {
         Div {

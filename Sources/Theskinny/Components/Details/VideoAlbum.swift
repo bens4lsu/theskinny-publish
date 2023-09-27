@@ -58,7 +58,7 @@ struct VideoAlbum: Component, Decodable {
             Div {
                 Text(caption)
             }.class("vid-gal-top-text")
-            List(videos) { $0 }.listStyle(.listAsDivs)
+            List(videos.sorted().reversed()) { $0 }.listStyle(.listAsDivs)
         }
     }
     

@@ -19,3 +19,22 @@ videos:
         embed: <iframe width="1245" height="738" src="https://www.youtube.com/embed/pLzk2Wi-kjc" title="Crystal Sings with the Party Girls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq2kk.jpg
         duration: 2:16
+    -
+        id: 900000002
+        dateRecorded: 2023-09-25
+        name: Squirrel
+        caption: |
+            A niave little squirrel doesn't understand the danger of a rat terrier mix.  More about this at <a href="/blog2/squirrel-fire">/blog2/squirrel-fire</a>
+        url: https://youtu.be/FSBJy92gEq0
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/FSBJy92gEq0" title="Squirrel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230927b.jpg
+        duration: 0:42
+    -
+        id: 900000003
+        dateRecorded: 2023-09-25
+        name: Firing of the Hatch Peppers
+        caption: Check out these flames!
+        url: https://youtu.be/mznCBKqoYRA
+        embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/mznCBKqoYRA" title="Firing the Peppers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20230927a.jpg
+        duration: 0:10
