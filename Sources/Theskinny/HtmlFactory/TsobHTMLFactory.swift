@@ -61,15 +61,15 @@ struct TsobHTMLFactory: HTMLFactory {
     }
     
     
-    func makeMultiPageHTML(for page: Publish.Page, context: PublishingContext<Theskinny>, from posts: BlogPosts, withLinks links: TopNavLinks) -> HTML {
-        let htmlHeadInfo = HeaderInfo(location: page, title: "Blog on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: posts.multiPostPageContent(withTopLinks: links), site: context.site)
-        return HTML(
-            htmlHeadInfo.node,
-            .body(.component(pageMain)
-           )
-        )
-    }
+//    func makeMultiPageHTML(for page: Publish.Page, context: PublishingContext<Theskinny>, from posts: BlogPosts, withLinks links: TopNavLinks) -> HTML {
+//        let htmlHeadInfo = HeaderInfo(location: page, title: "Blog on theskinnyonbenny.com")
+//        let pageMain = AnyPageMain(mainContent: posts.multiPostPageContent(withTopLinks: links), site: context.site)
+//        return HTML(
+//            htmlHeadInfo.node,
+//            .body(.component(pageMain)
+//           )
+//        )
+//    }
     
     
     func makeRedirectFromOldBlogPath(for page: Publish.Page, context: PublishingContext<Theskinny>, newName: String) -> HTML {
@@ -78,25 +78,23 @@ struct TsobHTMLFactory: HTMLFactory {
     }
     
     
-    func makeVideoAlbumHtml(for page: Page, context: PublishingContext<Theskinny>, album: VideoAlbum) throws -> HTML {
-        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: album, site: context.site)
-        return HTML(
-            htmlHeadInfo.node,
-            .body(.component(pageMain)
-           )
-        )
-    }
+//    func makeVideoAlbumHtml(for page: Page, context: PublishingContext<Theskinny>, album: VideoAlbum) throws -> HTML {
+//        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
+//        let pageMain = AnyPageMain(mainContent: album, site: context.site)
+//        return HTML(
+//            .component(album)
+//        )
+//    }
     
-    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video, backToPage: Page) throws -> HTML {
-        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: video.allByMyself(backToPage: backToPage), site: context.site)
-        return HTML(
-            htmlHeadInfo.node,
-            .body(.component(pageMain)
-           )
-        )
-    }
+//    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video, backToPage: Page) throws -> HTML {
+//        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
+//        let pageMain = AnyPageMain(mainContent: video.allByMyself(backToPage: backToPage), site: context.site)
+//        return HTML (
+//            htmlHeadInfo.node,
+//            .body(.component(pageMain)
+//           )
+//        )
+//    }
     
     
     func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Theskinny>) throws -> HTML? {

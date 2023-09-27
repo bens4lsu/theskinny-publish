@@ -46,10 +46,11 @@ extension PublishingStep where Site == Theskinny {
                     includePosts.append(allPosts[i * postsPerPage + j])
                 }
                 let posts = BlogPosts(items: includePosts)
-                let page = Page(path: "blog/\(pageName)/index.html", content: Content())
-                let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
-                let file = try context.createOutputFile(at: page.path)
-                try file.write(html.render(indentedBy: .spaces(4)))
+                var page = Page(path: "blog/\(pageName)", content: Content())
+                //let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
+                let html = HTML(.component(posts.multiPostPageContent(withTopLinks: linkInfo)))
+                page.body.html = html.render()
+                context.addPage(page)
             }
         }
     }
@@ -76,7 +77,7 @@ extension PublishingStep where Site == Theskinny {
             var maxVideoId = Int.min
             var maxAlbumId = Int.min
             for var album in context.videoAlbums {
-                var page = Page(path: "video-albums/\(album.slug)/index.html", content: Content())
+                var page = Page(path: "video-albums/\(album.slug)", content: Content())
                 page.title = album.name
                 album.videos = album.videos.sorted()
                 let albumMax = album.videos.map { $0.id }.max() ?? Int.min
@@ -86,23 +87,22 @@ extension PublishingStep where Site == Theskinny {
                 if album.id > maxAlbumId {
                     maxAlbumId = album.id
                 }
-                let html = try factory.makeVideoAlbumHtml(for: page, context: context, album: album)
-                let file = try context.createOutputFile(at: page.path)
-                try file.write(html.render())
-                try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: context, backToPage: page)
+                let html = HTML(.component(album))
+                page.content.body.html = html.render()
+                context.addPage(page)
+                try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
             print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
-            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
             try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
         }
     }
     
-    static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: PublishingContext<Theskinny>, backToPage: Page) throws {
+    static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: inout PublishingContext<Theskinny>, backToPage: Page) throws {
         for video in album.videos {
-            let page = Page(path: "\(video.link)/index.html", content: Content())
-            let html = try factory.makeVideoSinglePageHtml(for: page, context: context, video: video, backToPage: backToPage)
-            let file = try context.createOutputFile(at: page.path)
-            try file.write(html.render())
+            var page = Page(path: "\(video.link)", content: Content())
+            let html = HTML(.component(video.allByMyself(backToPage: backToPage)))
+            page.content.body.html = html.render()
+            context.addPage(page)
         }
     }
     
