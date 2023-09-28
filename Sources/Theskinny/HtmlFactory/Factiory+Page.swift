@@ -19,6 +19,8 @@ extension TsobHTMLFactory {
                 return makePageHTMLAdopHome(for: page, context: context)
             case "micro-posts":
                 return makePageHTMLMicroPosts(for: page, context: context)
+            case "pgHome":
+                return makePagePgHome(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -72,6 +74,15 @@ extension TsobHTMLFactory {
         let pageContent = MicroPosts(mposts: context.microPosts, allYears: nil)
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML (
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
+    fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
+        let pageMain = AnyPageMain(mainContent: context.imageGalleries, site: context.site)
+        return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )

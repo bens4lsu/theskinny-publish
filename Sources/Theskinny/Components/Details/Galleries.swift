@@ -19,26 +19,40 @@ enum GalleryHomePageColumn: String {
 
 
 
-struct Galleries: Component {
+class Galleries: Component {
     var list: [Gallery]
-    
-    var body: Component {
-        EmptyComponent()
-    }
     
     init(list: [Gallery]) {
         // set which column the gallery should show up on on the main page
-        var list = list.sorted(by: { $0.id < $1.id })
+        self.list = list.sorted(by: { $0.id > $1.id })
+        
         for i in 0..<list.count {
-            if (list.count.isEven && i.isOdd) || (list.count.isOdd && i.isEven) {
-                list[i].column = .left
+            if (self.list.count.isEven && i.isOdd) || (self.list.count.isOdd && i.isEven) {
+                self.list[i].column = .left
             }
             else {
-                list[i].column = .right
+                self.list[i].column = .right
             }
+            self.list[i].parent = self
+            self.list[i].indexInParent = i
         }
-        self.list = list
+        let debug = self.list.map{ ($0.id, $0.column) }
+        print(debug)
     }
+    
+    var body: Component {
+        let leftGalleries = list.filter { $0.row != nil }
+        let rows = leftGalleries.map { $0.row! }
+        let cg: () -> ComponentGroup = { ComponentGroup(members: rows) }
+        return Div {
+            H2("The Photo Collections...")
+            Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
+            Table(rows: cg)
+                
+        }
+    }
+    
+    
 }
 
 struct Gallery: Component {
@@ -52,6 +66,8 @@ struct Gallery: Component {
     var redImagePath: String
     var images = [GalleryImage]()
     var column = GalleryHomePageColumn.undetermined
+    weak var parent: Galleries?
+    var indexInParent: Int?
     
     var body: Component {
         Div {
@@ -65,21 +81,32 @@ struct Gallery: Component {
         }
     }
     
-    var rows: Table.ContentProvider {
-        if column == .left {
-            TableRow()
-        }
+    var cell: TableCell {
+        TableCell {
+            Link(url: path){
+                Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-imgage-link")
+            }
+        }//.class("pgHome-table-cell") as! TableCell
     }
     
-    var listEntry: Component {
-        Div {
-            H2("The Photo Collections...")
-            Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
-            Table(caption: <#T##TableCaption?#>, header: <#T##TableRow?#>, footer: <#T##TableRow?#>, rows: <#T##Table.ContentProvider##Table.ContentProvider##() -> ComponentGroup#>) { rows in
-                
-            }
+    var row: TableRow? {
+        guard let parent,
+              let indexInParent else {
+            return nil
+        }
+        guard indexInParent < parent.list.count - 2,
+              column == .left
+        else {
+            return nil
+        }
+        let rightCell = parent.list[indexInParent + 1].cell
+        
+        return TableRow {
+            self.cell
+            rightCell
         }
     }
+
         
         
             

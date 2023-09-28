@@ -30,8 +30,8 @@ extension PublishingContext where Site == Theskinny {
                 let galleryPath = galFromHttpRoot + String(id)
                 let filePath = galFromSiteRoot + galFolder.name
                 let imgRootPath = galFromHttpRoot + galFolder.name + "/"
-                let normalImagePath = filePath + "/data/normal.jpg"
-                let redImagePath = filePath + "/data/red.jpg"
+                let normalImagePath = imgRootPath + "/data/normal.jpg"
+                let redImagePath = imgRootPath + "/data/red.jpg"
                 let images = try Self.galleryImages(inPath: filePath)
                 let htmlFilePath = Path(filePath + "/gal-desc.txt")
                 let html = try file(at: htmlFilePath).readAsString()
