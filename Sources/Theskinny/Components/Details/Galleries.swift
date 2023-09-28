@@ -36,13 +36,11 @@ class Galleries: Component {
             self.list[i].parent = self
             self.list[i].indexInParent = i
         }
-        let debug = self.list.map{ ($0.id, $0.column) }
-        print(debug)
     }
     
     var body: Component {
         let leftGalleries = list.filter { $0.row != nil }
-        let rows = leftGalleries.map { $0.row! }
+        let rows = leftGalleries.map { $0.row!.class("pgHome-table-row") }
         let cg: () -> ComponentGroup = { ComponentGroup(members: rows) }
         return Div {
             H2("The Photo Collections...")
@@ -51,8 +49,6 @@ class Galleries: Component {
                 
         }
     }
-    
-    
 }
 
 struct Gallery: Component {
@@ -84,9 +80,10 @@ struct Gallery: Component {
     var cell: TableCell {
         TableCell {
             Link(url: path){
-                Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-imgage-link")
+                Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-image-link")
             }
-        }//.class("pgHome-table-cell") as! TableCell
+            Paragraph(name).class("caption")
+        }
     }
     
     var row: TableRow? {
@@ -102,8 +99,8 @@ struct Gallery: Component {
         let rightCell = parent.list[indexInParent + 1].cell
         
         return TableRow {
-            self.cell
-            rightCell
+            self.cell.class("pgHome-table-cell")
+            rightCell.class("pgHome-table-cell")
         }
     }
 
