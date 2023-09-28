@@ -14,7 +14,6 @@ extension PublishingStep where Site == Theskinny {
     static func writePostPages() -> Self {
         .step(named: "Write Post Summary Pages") { context in
             guard let allPosts = context.allBlogPostsReversed?.items else { return }
-            let factory = TsobHTMLFactory()
             let postsPerPage = EnvironmentKey.blogPostsPerPage
             var numPages = allPosts.count / postsPerPage
             let postsOnLastPage = allPosts.count % postsPerPage
@@ -112,5 +111,16 @@ extension PublishingStep where Site == Theskinny {
         let redirectHtml = HTML(.body(.redirect(to: redirPath.string)))
         let file = try context.createOutputFile(at: page.path)
         try file.write(redirectHtml.render())
+    }
+    
+    static func imageGalleries() -> Self {
+        .step(named: "Image galleries"){ context in
+            for gallery in context.imageGalleries.list {
+                var page = Page (path: Path(gallery.path), content: Content())
+                let html = HTML(.component(gallery))
+                page.content.body.html = html.render()
+                context.addPage(page)
+            }
+        }
     }
 }

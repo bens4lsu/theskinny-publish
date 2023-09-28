@@ -103,6 +103,5 @@ extension PublishingContext where Site == Theskinny {
         }
         return decoded
     }
-    
-    
+
 }
