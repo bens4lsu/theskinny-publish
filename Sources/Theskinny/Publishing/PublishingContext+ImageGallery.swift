@@ -22,6 +22,7 @@ extension PublishingContext where Site == Theskinny {
     var imageGalleries: Galleries {
         let galFromSiteRoot = "Resources/gal/"
         let galFromHttpRoot = "/gal/"
+        let imgFromHttpRoot = "/img/gal/"
         do {
             var galleries = [Gallery]()
             let topFolder = try folder(at: Path(galFromSiteRoot))
@@ -29,7 +30,7 @@ extension PublishingContext where Site == Theskinny {
                 let (id, name) = try Self.idFromFolderName(atPath: galFolder.name)
                 let galleryPath = galFromHttpRoot + String(id)
                 let filePath = galFromSiteRoot + galFolder.name
-                let imgRootPath = galFromHttpRoot + galFolder.name + "/"
+                let imgRootPath = imgFromHttpRoot + galFolder.name + "/"
                 let normalImagePath = imgRootPath + "/data/normal.jpg"
                 let redImagePath = imgRootPath + "/data/red.jpg"
                 let images = try Self.galleryImages(inPath: filePath)
