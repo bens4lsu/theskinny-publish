@@ -20,7 +20,7 @@ enum GalleryLoadError: Error {
 extension PublishingContext where Site == Theskinny {
     
     var imageGalleries: Galleries {
-        let galFromSiteRoot = "Resources/gal/"
+        let galFromSiteRoot = "Resources/img/gal/"
         let galFromHttpRoot = "/gal/"
         let imgFromHttpRoot = "/img/gal/"
         do {
