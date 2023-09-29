@@ -39,6 +39,20 @@ extension Theme where Site == Theskinny {
     }
 }
 
+
+extension PublishingStep where Site == Theskinny {
+    static func copyResources(
+        at originPath: Path = "Resources",
+        to targetFolderPath: Path? = nil,
+        includingFolder includeFolder: Bool = false
+    ) -> Self {
+        step(named: "xxCopy file '\(originPath)'") { _ in
+            
+        }
+    }
+}
+
+
 // This will generate the website
 try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     .writePostPages(),
@@ -46,5 +60,3 @@ try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
     .writeVideoAlbumPages(),
     .imageGalleries()
 ])
-
-

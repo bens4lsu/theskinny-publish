@@ -38,15 +38,31 @@ class Galleries: Component {
         }
     }
     
+    var scripts: ComponentGroup {
+        let script1 = Script("""
+            function chgImg (imgName, newImg){
+                var i = document.getElementsByName(imgName)[0];
+                i.src = eval (newImg + ".src");
+            }
+        """)
+        var scripts: [Script] = [script1]
+        scripts += list.map { $0.redImageScript }
+        return ComponentGroup(members: scripts)
+    }
+    
     var body: Component {
-        let leftGalleries = list.filter { $0.row != nil }
-        let rows = leftGalleries.map { $0.row!.class("pgHome-table-row") }
-        let cg: () -> ComponentGroup = { ComponentGroup(members: rows) }
-        return Div {
-            H2("The Photo Collections...")
-            Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
-            Table(rows: cg)
-                
+        //let leftGalleries = list.filter { $0.row != nil }
+        let cells = list.map { $0.cell }
+        //let cg: () -> ComponentGroup = ComponentGroup(members: self.list)
+        return ComponentGroup {
+            scripts
+            Div {
+                H2("The Photo Collections...")
+                Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
+                Div {
+                    ComponentGroup(members: cells)
+                }.class("pg-grid")
+            }
         }
     }
 }
@@ -65,60 +81,39 @@ struct Gallery: Component {
     weak var parent: Galleries?
     var indexInParent: Int?
     
+    var redImageScript: Script {
+        Script("""
+            img\(id)Normal = new Image;
+            img\(id)Red = new Image;
+            img\(id)Normal.src = "\(normalImagePath)";
+            img\(id)Red.src = "\(redImagePath)";
+        """)
+    }
+    
     var body: Component {
         Div {
             TopNavLinks(LinkInfo("Back to List of Galleries", "/pgHome")
                         , nil
                         , nil)
+            Div ("Picture Navigation: Click any thumbnail to open the full size image and caption.  When the full image appears, you can scroll to the next using left and right buttons to the corresponding side of the picture.  Your keyboard's arrow keys should also work, as will the scroll wheel on most computers.").class("pg-instruction-box caption")
             Markdown(html ?? "")
-            List(images) { image in
-                image.body(galRoot: imgRootPath)
-            }
+            Div {
+                List(images) { image in
+                    image.body(galRoot: imgRootPath)
+                }.listStyle(.listAsDivs)
+            }.class("pg-thb-grid")
         }
     }
     
-    var cell: TableCell {
-        TableCell {
+    var cell: Component {
+        Div {
             Link(url: path){
                 Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-image-link")
-            }
+            }.attribute(named: "onmouseover", value: "chgImg ('i\(id)','img\(id)Red')")
+                .attribute(named: "onmouseout", value: "chgImg ('i\(id)','img\(id)Normal')")
             Paragraph(name).class("caption")
         }
     }
-    
-    var row: TableRow? {
-        guard let parent,
-              let indexInParent else {
-            return nil
-        }
-        guard indexInParent < parent.list.count - 2,
-              column == .left
-        else {
-            return nil
-        }
-        let rightCell = parent.list[indexInParent + 1].cell
-        
-        return TableRow {
-            self.cell.class("pgHome-table-cell")
-            rightCell.class("pgHome-table-cell")
-        }
-    }
-
-        
-        
-            
-        
-    /*
-        <div style="float:right; background-color:#CDCDCD; border:2px solid #AD7070; width:280px; padding:7px;" class="datestamp">Picture Navigation: Click any thumbnail to open the full size image and caption.  When the full image appears, you can scroll to the next using left and right buttons to the corresponding side of the picture.  Your keyboard's arrow keys should also work, as will the scroll wheel on most computers.
-            Picture Navigation: Click any thumbnail to open the full size image and caption.  When the full image appears, you can scroll to the next using left and right buttons to the corresponding side of the picture.  Your keyboard's arrow keys should also work, as will the scroll wheel on most computers.
-        </div>
-
-        
-        #for(image in images):
-            <a class="lightview" href="#(imgRootPath)#(image.imagePath)" data-lightview-caption="#(image.caption)" data-lightview-group="group1"><img src="#(imgRootPath)#(image.thumbnailpath)" alt="#(image.imagePath)"></a>
-        #endfor
-
-    */
 }
 
 struct GalleryImage: Component {
@@ -129,11 +124,15 @@ struct GalleryImage: Component {
     
     var body: Component { EmptyComponent() }
     
+    var escapedCaption: String {
+        Markdown(caption).render().replacingOccurrences(of: "\"", with: "&quot;")
+    }
+    
     func body(galRoot: String) -> Component {
         Link(url: galRoot + imagePath){
             Image(url: galRoot + thumbnailpath, description: imagePath)
         }.class("lightview")
-            .attribute(named: "data-lightview-caption", value: caption)
+            .attribute(named: "data-lightview-caption", value: escapedCaption)
             .attribute(named: "data-lightview-group", value: "group1")
     }
 }
