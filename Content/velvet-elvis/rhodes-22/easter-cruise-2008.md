@@ -18,7 +18,7 @@ But before we made it in, the centerboard hit a shallow bar of mud guarding the 
 
 I spent a little time trying to kedge, and I think I was able to move the boat, but when the anchor would free, the wind drove us right back into the mud.  I never got un-stuck enough so that the motor would move us off, and after a while, I gave up.  This made the next order of business an attempt to clean up all of the nasty mud that fell off the anchor when I reeled it in and tossed it back out.
 
-<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" data-lightview-caption="Here's how close to the shore we were when we were aground." data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" width="650px"><br><span class="caption">Here's how close to the shore we were when we were aground.</span></a>
+<a class="lightview centered" href="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" data-lightview-caption="Here's how close to the shore we were when we were aground." data-lightview-group="group1"><img src="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" alt="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080322_0286.JPG" width="650px"><br><span class="caption">Here's how close to the shore we were when we were aground.</span></a>
 
 Once that was moderately clean, we opened the first bottle of wine for the night and tried to relax and enjoy the situation.
 
@@ -30,7 +30,7 @@ We stayed at anchor, rather unprotected at the edge of the Rigolets, but the for
 
 The next morning, we slyly put an Easter basket just outside the cabin, and had our first little kid Easter morning.  I made coffee in a percolator on the grill, and we had a healthy portion of Easter candy, donuts, and pop tarts.  We sat around for an hour or so, and then the admiral and first mate crashed as they came down from their sugar rushes.
 
-<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" data-lightview-caption="Garbage, post-voyage." data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" width="650px"><br><span class="caption">Garbage, post-voyage.</span></a>
+<a class="lightview centered" href="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" data-lightview-caption="Garbage, post-voyage." data-lightview-group="group1"><img src="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" alt="/gal/044%20-%20Easter%20Cruise%202008/resIMG_20080323_0353.JPG" width="650px"><br><span class="caption">Garbage, post-voyage.</span></a>
 
 By then, there was a good wind, blowing us back home.  I pulled up the anchor, unfurled some sail, and started away.  I really didn't need the motor to sail away at all.
 
@@ -38,4 +38,4 @@ While they napped, I had a beautiful morning sail back into Lake Ponchatrain.  T
 
 We were back to the house a little after noon.  We had an astounding amount of garbage for a two-day cruise.
 
-See the whole photo gallery <a href="https://dynamic.theskinnyonbenny.com/gal/44" target="_blank">here</a>.
+See the whole photo gallery <a href="/gal/44" target="_blank">here</a>.

@@ -3,7 +3,7 @@ title: Moscow
 date: 2007-03-17 14:00
 adopSection: tripOne
 ---
-Being done with the adoption tasks, we spent all of Friday and Saturday as tourists in Moscow.  The <a href="https://dynamic.theskinnyonbenny.com/gal/032" target="_blank">Moscow photo gallery</a> probably tells the story better than what I might write here.
+Being done with the adoption tasks, we spent all of Friday and Saturday as tourists in Moscow.  The <a href="/gal/032" target="_blank">Moscow photo gallery</a> probably tells the story better than what I might write here.
 
 One warning does deserve mention, and it goes along with the story of our biggest source of consternation on the trip.  It stems from the confluence of two things that conspired to screw up our good cheer.
 
@@ -15,4 +15,4 @@ We had been told that we would be staying in a hotel that takes credit cards, so
 
 So my only piece of advice for you is to take the time before you travel to other countries, check the back of your debit card.  You definitely want to see Cirrus and Pulse.
 
-<a href="https://dynamic.theskinnyonbenny.com/gal/032">Jump to the Moscow photos.</a>
+<a href="/gal/032">Jump to the Moscow photos.</a>

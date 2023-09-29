@@ -68,7 +68,7 @@ fileprivate struct ImageGalleryLink: Component {
     var body: Component {
         Div {
             Div {
-                Link(url: "https://dynamic.theskinnyonbenny.com/gal/\(self.galleryId)") {
+                Link(url: "/gal/\(self.galleryId)") {
                     Image(self.normalLink).attribute(named: "name", value: imgVarNameN).class("img-gal-link")
                 }.attribute(named: "target", value: "_blank")
                     .attribute(named: "onmouseover", value: "chgImg ('\(imgVarNameN)','\(imgVarNameR)');")
@@ -105,38 +105,38 @@ fileprivate struct ImageGalleryLink: Component {
         self.redLink = galleryInfo.redImagePath
     }
     
-    // get the data easilty from https://dynamic.theskinnyonbenny.com/gal/data/###
+    // get the data easilty from /gal/data/###
     let galArray: [Int: FromDynamicLookup] = [
         31: FromDynamicLookup(name: "Russia Trip 1 - Yaroslavl and Ivan",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/031 - Russia Trip 1 - Yaroslavl and Ivan/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/031 - Russia Trip 1 - Yaroslavl and Ivan/data/red.jpg"),
+                              normalImagePath: "/gal/031 - Russia Trip 1 - Yaroslavl and Ivan/data/normal.jpg",
+                              redImagePath: "/gal/031 - Russia Trip 1 - Yaroslavl and Ivan/data/red.jpg"),
         32: FromDynamicLookup(name: "Russia Trip 1 - Moscow",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/032 - Russia Trip 1 - Moscow/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/032 - Russia Trip 1 - Moscow/data/red.jpg"),
+                              normalImagePath: "/gal/032 - Russia Trip 1 - Moscow/data/normal.jpg",
+                              redImagePath: "/gal/032 - Russia Trip 1 - Moscow/data/red.jpg"),
         33: FromDynamicLookup(name: "Russia Trip 2 - Week 1",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/033 - Russia Trip 2 - Week 1/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/033 - Russia Trip 2 - Week 1/data/red.jpg"),
+                              normalImagePath: "/gal/033 - Russia Trip 2 - Week 1/data/normal.jpg",
+                              redImagePath: "/gal/033 - Russia Trip 2 - Week 1/data/red.jpg"),
         34: FromDynamicLookup(name: "Russia Trip 2 - St. Petersburg",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/034 - Russia Trip 2 - St. Petersburg/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/034 - Russia Trip 2 - St. Petersburg/data/red.jpg"),
+                              normalImagePath: "/gal/034 - Russia Trip 2 - St. Petersburg/data/normal.jpg",
+                              redImagePath: "/gal/034 - Russia Trip 2 - St. Petersburg/data/red.jpg"),
         35: FromDynamicLookup(name: "Russia Trip 2 - Back in Yaroslavl",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/red.jpg"),
+                              normalImagePath: "/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/normal.jpg",
+                              redImagePath: "/gal/035 - Russia Trip 2 - Back in Yaroslavl/data/red.jpg"),
         36: FromDynamicLookup(name: "Russia Trip 2 - Final Week Family and Baby Photos",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/red.jpg"),
+                              normalImagePath: "/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/normal.jpg",
+                              redImagePath: "/gal/036 - Russia Trip 2 - Final Week Family and Baby Photos/data/red.jpg"),
         78: FromDynamicLookup(name: "Short Russia Trip to Meet Kolya",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/078 - Short Russia Trip to Meet Kolya/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/078 - Short Russia Trip to Meet Kolya/data/red.jpg"),
+                              normalImagePath: "/gal/078 - Short Russia Trip to Meet Kolya/data/normal.jpg",
+                              redImagePath: "/gal/078 - Short Russia Trip to Meet Kolya/data/red.jpg"),
         81: FromDynamicLookup(name: "Russia - Yaroslavl Wk 2 and St Petersburg",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/081 - Russia - Yaroslavl Wk 2 and St Petersburg/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/081 - Russia - Yaroslavl Wk 2 and St Petersburg/data/red.jpg"),
+                              normalImagePath: "/gal/081 - Russia - Yaroslavl Wk 2 and St Petersburg/data/normal.jpg",
+                              redImagePath: "/gal/081 - Russia - Yaroslavl Wk 2 and St Petersburg/data/red.jpg"),
         82: FromDynamicLookup(name:"Russia - Gotcha Day and the Next Day",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/082 - Russia - Gotcha Day and the Next Day/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/082 - Russia - Gotcha Day and the Next Day/data/red.jpg"),
+                              normalImagePath: "/gal/082 - Russia - Gotcha Day and the Next Day/data/normal.jpg",
+                              redImagePath: "/gal/082 - Russia - Gotcha Day and the Next Day/data/red.jpg"),
         83: FromDynamicLookup(name: "Russia - Last Days in Moscow",
-                              normalImagePath: "https://dynamic.theskinnyonbenny.com/gal/083 - Russia - Last Days in Moscow/data/normal.jpg",
-                              redImagePath: "https://dynamic.theskinnyonbenny.com/gal/083 - Russia - Last Days in Moscow/data/red.jpg")
+                              normalImagePath: "/gal/083 - Russia - Last Days in Moscow/data/normal.jpg",
+                              redImagePath: "/gal/083 - Russia - Last Days in Moscow/data/red.jpg")
     ]
 }
 

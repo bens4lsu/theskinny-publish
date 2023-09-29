@@ -20,7 +20,7 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-3">Page 3</a></li>
 <ul></div>
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-road-to-edenton">Driving to Edenton for a post-hurricane overhaul.</a></div>
-<div class="list-of-links"><a href="https://dynamic.theskinnyonbenny.com/gal/14" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
+<div class="list-of-links"><a href="/gal/14" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-fool-captain">God Looks out for Incompetent Captains</a></div>
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/?fn=ve_s1.content">Boat Maintenance, Spring 2005</a></div>
 <div class="list-of-links"><a href="/ve/CaptLog.php">See the whole Captain's Log</a></div>

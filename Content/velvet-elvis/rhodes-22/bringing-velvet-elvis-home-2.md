@@ -1,7 +1,7 @@
 <div class="top-nav-links"><div class="link-arrow link-arrow-left"><div class="div-left-ticks">«</div><a href="/velvet-elvis/rhodes-22" class="div-left-text">Rhodes 22 Velvet Elvis</a></div></div>
 		
 		
-Also see <a href="https://dynamic.theskinnyonbenny.com/gal/20" target="_blank">The whole photo gallery</a>.		
+Also see <a href="/gal/20" target="_blank">The whole photo gallery</a>.		
 
 <h2>August 29, 2006:  Launch Day</h2>
 		
@@ -9,7 +9,7 @@ The timing of the boat delivery allowed us to schedule the relaunch on the one y
 
 We ended up running around town trying to find somewhere that was open and accommodating, and it was a typical morning that all boat owners know well.  After three trips to the boat store, plenty of swearing, and an elapsed several hours, we had what we needed to connect the gas can to the motor.
 
-<a class="lightview alignright" href="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG" data-lightview-caption="Morning on the Hard" data-lightview-group="group1" style="width:350px;"><img src="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG"><br><span class="caption">Morning on the Hard</span></a>
+<a class="lightview alignright" href="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG" data-lightview-caption="Morning on the Hard" data-lightview-group="group1" style="width:350px;"><img src="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG" alt="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0580.JPG"><br><span class="caption">Morning on the Hard</span></a>
 
 We connected the trailer to the car and hauled it to the ramp without incident.  I zigzagged across busy Highway 11 in order to get a clear shot down the ramp, and we untied the motor and rudder.
 
@@ -17,7 +17,7 @@ We backed it a little further down into the water, and I summoned all of my gymn
 
 I wanted the stern of the boat to swing toward the port side to give me a straight shot out of the narrow canal.  The wind was cooperative, blowing fairly briskly from starboard to port.  Unfortunately, the depth of the trailer when we stopped allowed the bow to float free while the stern was just stuck to the trailer.  So the bow blew to the port, leaving me facing the wrong direction.
 
-<a class="lightview alignright" href="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG" data-lightview-caption="The start of my K-turn went flawlessly." data-lightview-group="group1" style="width:350px;"><img src="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG"><br><span class="caption">The start of my K-turn went flawlessly.</span></a>
+<a class="lightview alignright" href="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG" data-lightview-caption="The start of my K-turn went flawlessly." data-lightview-group="group1" style="width:350px;"><img src="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG" alt="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0618.JPG"><br><span class="caption">The start of my K-turn went flawlessly.</span></a>
         
 I had to choose between motoring a really long way in reverse and implementing a complicated K-turn in a really narrow channel with an outboard motor whose controls were unfamiliar to me.  (Does this sound like the start of an excuse?)
 
@@ -27,7 +27,7 @@ I was able to steer a narrow miss, but not without incurring an embarrassing "SW
 
 The ski boat owner couldn't have been nicer.  He grabbed one of the rails to give the bow a shove in the right direction, and even paused to ask about the suitability of the Infiniti as a tow vehicle.  
 
-<a class="lightview alignright" href="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG" data-lightview-caption="Ready to sail." data-lightview-group="group1" style="width:350px;"><img src="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG"><br><span class="caption">Ready to sail.</span></a>
+<a class="lightview alignright" href="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG" data-lightview-caption="Ready to sail." data-lightview-group="group1" style="width:350px;"><img src="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG" alt="/gal/020 - Velvet Elvis Relaunch/resIMG_20060829_0636.JPG"><br><span class="caption">Ready to sail.</span></a>
 
 After my shove, I threw the motor into a hard forward, pulled the tiller hard, which swung me out into the channel perfectly.
 
@@ -48,4 +48,4 @@ Motoring back through the canal, I noticed a couple of things.  Not surprisingly
 The boats that were afloat fell into two categories:  small, weathered boats.  These are the ones whose owners had the sense to get them out of there when the storm was coming.  The second category were the large boats that were in good condition.  There were a lot more of these than I expected.  Without fail, these boats lacked registration numbers, indicating that they were either new or extensively overhauled since the storm.  I'm happy that there's one more sloop among their count.
 
 		
-Also see <a href="https://dynamic.theskinnyonbenny.com/gal/20" target="_blank">The whole photo gallery</a>.		
+Also see <a href="/gal/20" target="_blank">The whole photo gallery</a>.		

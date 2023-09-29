@@ -75,8 +75,8 @@ More...
 
 <iframe width="450" height="253" src="https://www.youtube.com/embed/xwoD4fvfeC0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://dynamic.theskinnyonbenny.com/gal/89" target="_blank">
-<img border="0" src="https://dynamic.theskinnyonbenny.com/gal/089%20-%202012%20Easter%20Cruise/data/normal.jpg" name="i89">
+<a href="/gal/89" target="_blank">
+<img border="0" src="/gal/089%20-%202012%20Easter%20Cruise/data/normal.jpg" name="i89">
 </a>
 <div class="caption">2012 Easter Cruise (click for all photos)</div>
               

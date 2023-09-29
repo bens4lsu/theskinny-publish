@@ -14,7 +14,7 @@ And what an eventful week.  On top of goofing around at the ol' landing, we visi
 
 All of that bookended by two days of sailing.
 
-<a href="https://dynamic.theskinnyonbenny.com/gal/136">It's mostly (but not all) documented in the pictures</a>, and this is one of my favorite collections in a really long time.
+<a href="/gal/136">It's mostly (but not all) documented in the pictures</a>, and this is one of my favorite collections in a really long time.
 
 One of the things that doesn't make the pictures is a dinghy ride that I took with the kids.  We were passing a family on the bank who was trying to fish.  One of the family was a litte person.
 

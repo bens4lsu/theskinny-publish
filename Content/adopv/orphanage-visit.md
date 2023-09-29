@@ -9,7 +9,7 @@ We went in and were issued some cloth wrappers to stretch over our shoes.  Then,
 
 We went through a room with many little tiny chairs, a piano, and a jam box.  It was a nice room, and we were glad that they get music time.
 
-<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" alt="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1160.JPG" width="650px"><br><span class="caption"></span></a>
 
 We went into the next room, which had some benches, a plastic slide, and boxes of toys.  There were a lot of people there:  the two of us, the coordinator for the adoption, translator, director of the orphanage, and social worker for the government, sent to keep an eye on how we act around the kid and who will be there when we get our literal day in court.
 
@@ -20,7 +20,7 @@ Two-thirds of the way through the medical conversation, a woman magically appear
 
 The little guy didn't really know what to make of this scene.  He was suddenly in a room with 6 or 7 adults and just the one little guy.  He was pretty agitated most of the time.
 
-<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" alt="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070314_1172.JPG" width="650px"><br><span class="caption"></span></a>
 
 He mostly wanted to be held.  The toys that we spread out were of some interst, but not a whole whole lot.  The biggest smile that I got was by sitting Indian style, letting him stand on my leg while holding on to my shoulder, and bouncing him up and down.  His little legs tired quickly, so we didn't get to do that long.
 

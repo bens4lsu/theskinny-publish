@@ -11,7 +11,7 @@ I read the bulk of <a href="http://www.amazon.com/Jesus-Land-Memoir-Julia-Scheer
 
 We arrived at the Moscow airport on Tuesday at around 10:30 in the morning local time.  It had been about 30 hours since we left home.
 
-<a class="lightview centered" href="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" alt="https://dynamic.theskinnyonbenny.com/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" width="650px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" alt="/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070313_1145.JPG" width="650px"><br><span class="caption"></span></a>
 
 We were met by Vladimir, our driver.  He brought his car around, loaded our luggage, and set off for the 5-hour drive to Yaroslavl.  The first hour was stop-and-go through an ugly highway out of Moscow.  But the strange signs and vehicles made this an interesting drive to watch.
 

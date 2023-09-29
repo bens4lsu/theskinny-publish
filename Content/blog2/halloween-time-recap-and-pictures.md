@@ -7,7 +7,7 @@ id: 2055
 ---
 It's been like a year and a half since I got photos posted to this web site in any sort of manner that is timely enough to share.  
 
-<a href="https://dynamic.theskinnyonbenny.com/gal/138">Until now</a>.
+<a href="/gal/138">Until now</a>.
 
 We kicked off spooky weekend number one with a visit to a "haunted corn maze" out in the middle of nowhere.  It ended up being a really big corn maze that I suspect looked very little like its map picture:
 

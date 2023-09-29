@@ -464,6 +464,35 @@ table td {
     padding: 1em;
 }
 
+.pg-instruction-box {
+    background-color:#CDCDCD; 
+    border:2px solid #AD7070; 
+    width:75%; 
+    padding:12px;
+    margin-bottom: 50px;
+}
+
+.pg-grid {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.pg-grid div {
+    max-width: 290px;
+}
+ 
+.pg-grid img {
+    width: 275px;
+}
+
+.pg-thb-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
 @media (min-width: 650px) {
     .wrapper {
         grid-template-columns: 2fr 7fr;
@@ -586,13 +615,16 @@ table td {
     .content {
         min-height: 600px;
     }
-}
+    
+
+
 
 @media (min-width: 650px) and (max-width: 810px) {
     .menu {
         font-size:75%;
         padding-left: 0;
     }
+    
 }
 
 
