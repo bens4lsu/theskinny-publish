@@ -467,11 +467,11 @@ table td {
 .pg-instruction-box {
     background-color:#CDCDCD; 
     border:2px solid #AD7070; 
-    width:75%; 
+    width:30%;
     padding:12px;
     margin-bottom: 50px;
     margin-left: 12px;
-    float: left;
+    float: right;
 }
 
 .pg-grid {
