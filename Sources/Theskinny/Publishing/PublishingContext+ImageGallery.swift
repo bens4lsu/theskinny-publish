@@ -28,7 +28,7 @@ extension PublishingContext where Site == Theskinny {
             let topFolder = try folder(at: Path(galFromSiteRoot))
             try topFolder.subfolders.forEach { galFolder in
                 let (id, name) = try Self.idFromFolderName(atPath: galFolder.name)
-                let galleryPath = galFromHttpRoot + String(id)
+                let galleryPath = galFromHttpRoot + galFolder.name
                 let filePath = galFromSiteRoot + galFolder.name
                 let imgRootPath = imgFromHttpRoot + galFolder.name + "/"
                 let normalImagePath = imgRootPath + "/data/normal.jpg"

@@ -51,9 +51,7 @@ class Galleries: Component {
     }
     
     var body: Component {
-        //let leftGalleries = list.filter { $0.row != nil }
         let cells = list.map { $0.cell }
-        //let cg: () -> ComponentGroup = ComponentGroup(members: self.list)
         return ComponentGroup {
             scripts
             Div {
