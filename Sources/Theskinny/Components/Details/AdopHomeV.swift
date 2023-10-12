@@ -62,9 +62,7 @@ class AdopV: AdopGeneral, Component {
             //imgGalSet3
             H2("Home Sweet Home")
             self.lastLink
-            imgGalSet1.jsAll
-            imgGalSet2.jsImageVariables
-            //imgGalSet3.jsImageVariables
+            imgGalSet1.scripts
         }
     }
 }

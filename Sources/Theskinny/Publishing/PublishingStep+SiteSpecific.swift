@@ -115,7 +115,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func imageGalleries() -> Self {
         .step(named: "Image galleries"){ context in
-            for gallery in context.imageGalleries.list {
+            for gallery in Galleries.imageGalleries {
                 var page = Page (path: Path(gallery.path), content: Content())
                 let html = HTML(.component(gallery))
                 page.content.body.html = html.render()

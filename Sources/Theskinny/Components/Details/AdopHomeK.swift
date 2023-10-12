@@ -67,8 +67,8 @@ class AdopK: AdopGeneral, Component {
             imageGalSet2
             H2("Trip Two Video")
             vgSet2
-            imageGalSet1.jsAll
-            imageGalSet2.jsImageVariables
+            imageGalSet1.scripts
+            imageGalSet2.scripts
             Text("More videos from the trip are posted ")
             Link("here", url: "/video-albums/family-videos-from-russia-2012")
             Text(".")

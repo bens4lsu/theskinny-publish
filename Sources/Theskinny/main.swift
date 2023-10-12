@@ -28,7 +28,7 @@ struct Theskinny: Website {
     var description = "Personal Website, Ben Schultz, Baton Rouge"
     var language: Language { .english }
     var imagePath: Path? { "img" }
-
+    
     
 
 }
@@ -39,18 +39,6 @@ extension Theme where Site == Theskinny {
     }
 }
 
-
-extension PublishingStep where Site == Theskinny {
-    static func copyResources(
-        at originPath: Path = "Resources",
-        to targetFolderPath: Path? = nil,
-        includingFolder includeFolder: Bool = false
-    ) -> Self {
-        step(named: "xxCopy file '\(originPath)'") { _ in
-            
-        }
-    }
-}
 
 
 // This will generate the website

@@ -9,33 +9,28 @@ import Foundation
 import Plot
 import Publish
 import Ink
+import Files
 
 
-enum GalleryHomePageColumn: String {
-    case left
-    case right
-    case undetermined
+enum GalleryLoadError: Error {
+    case noSpaceInDirectoryName
+    case nonIntegerFirstPartOfDirectoryName
+    case errorReadingCaptionFile
+    case attemptToLoadGalleryWithInvalidID
 }
 
-
-
-class Galleries: Component {
+struct Galleries: Component {
+    
     var list: [Gallery]
     
+    
     init(list: [Gallery]) {
-        // set which column the gallery should show up on on the main page
-        self.list = list.sorted(by: { $0.id > $1.id })
-        
-        for i in 0..<list.count {
-            if (self.list.count.isEven && i.isOdd) || (self.list.count.isOdd && i.isEven) {
-                self.list[i].column = .left
-            }
-            else {
-                self.list[i].column = .right
-            }
-            self.list[i].parent = self
-            self.list[i].indexInParent = i
-        }
+        // used for ImageGalleryLink -- gallery links in other pages
+        self.list = list
+    }
+    
+    init() {
+        self.list = Self.imageGalleries
     }
     
     var scripts: ComponentGroup {
@@ -65,6 +60,78 @@ class Galleries: Component {
     }
 }
 
+// MARK:  Static Methods
+extension Galleries {
+    
+    static let imageGalleries: [Gallery] = {
+        let galFromSiteRoot = "Resources/img/gal/"
+        let galFromHttpRoot = "/gal/"
+        let imgFromHttpRoot = "/img/gal/"
+        do {
+            var galleries = [Gallery]()
+            let topFolder = try Folder(path: galFromSiteRoot)
+            try topFolder.subfolders.forEach { galFolder in
+                let (id, name) = try Self.idFromFolderName(atPath: galFolder.name)
+                let galleryPath = galFromHttpRoot + galFolder.name
+                let filePath = galFromSiteRoot + galFolder.name
+                let imgRootPath = imgFromHttpRoot + galFolder.name + "/"
+                let normalImagePath = imgRootPath + "/data/normal.jpg"
+                let redImagePath = imgRootPath + "/data/red.jpg"
+                let images = try Self.galleryImages(inPath: filePath)
+                let htmlFilePath = filePath + "/gal-desc.txt"
+                let html = try  File(path: htmlFilePath).readAsString()
+                galleries.append( Gallery(id: id, name: name, path: galleryPath, filePath: filePath, imgRootPath: imgRootPath, html: html, normalImagePath: normalImagePath, redImagePath: redImagePath, images: images))
+            }
+            return galleries.sorted(by: { $0.id > $1.id })
+        } catch (let e) {
+            print ("Error loading image galleries: \(e)")
+        }
+        return []
+    }()
+    
+    private static func idFromFolderName(atPath path: String) throws -> (Int, String) {
+        guard let idEndIndex = path.firstIndex(of: " ")
+        else {
+            throw GalleryLoadError.noSpaceInDirectoryName
+        }
+        let idStartIndex = path.lastIndex(of: "/") ?? path.startIndex
+        let idStr = String(path[idStartIndex...idEndIndex]).trimmingCharacters(in: .whitespaces)
+        guard let id = Int(idStr) else {
+            throw GalleryLoadError.nonIntegerFirstPartOfDirectoryName
+        }
+        let nameStartIndex = path.index(idEndIndex, offsetBy: 3)
+        let name = String(path[nameStartIndex...])
+        return (id, name)
+    }
+    
+    private static func galleryImages(inPath path: String) throws -> [GalleryImage] {
+        let captionFile = try File(path: path + "/pic-desc.txt")
+        guard let captionContents = try? captionFile.readAsString() else {
+            throw GalleryLoadError.errorReadingCaptionFile
+        }
+        let lines = captionContents.split(whereSeparator: \.isNewline)
+        var images = [GalleryImage]()
+        for i in 0..<lines.count{
+            let line = lines[i]
+            let split = line.split(separator: "|")
+            var caption = ""
+            if split.count > 1 {
+                caption = String(split[1])
+            }
+            if split.count >= 1 {      // bug fix 2023-06-02.  don't crash if there's a blank line in pic-desc.
+                let imagePath = String(split[0])
+                let thumbnailPath = "_thb_" + String(split[0])
+                let galleryImage = GalleryImage(lineNum: i+1, imagePath: imagePath, thumbnailpath: thumbnailPath, caption: caption)
+                images.append(galleryImage)
+            }
+        }
+        return images
+    }
+
+    
+}
+
+
 struct Gallery: Component {
     var id: Int
     var name: String
@@ -75,9 +142,26 @@ struct Gallery: Component {
     var normalImagePath: String
     var redImagePath: String
     var images = [GalleryImage]()
-    var column = GalleryHomePageColumn.undetermined
-    weak var parent: Galleries?
-    var indexInParent: Int?
+    
+    fileprivate init (id: Int, name: String, path: String, filePath: String, imgRootPath: String, html: String?, normalImagePath: String, redImagePath: String, images: [GalleryImage]) {
+        self.id = id
+        self.name = name
+        self.path = path
+        self.filePath = filePath
+        self.imgRootPath = imgRootPath
+        self.html = html
+        self.normalImagePath = normalImagePath
+        self.redImagePath = redImagePath
+        self.images = images
+    }
+
+    init(_ id: Int) throws {
+        let galleryLoad = Galleries.imageGalleries.filter{ $0.id == id }.first
+        guard let gallery = galleryLoad else {
+            throw GalleryLoadError.attemptToLoadGalleryWithInvalidID
+        }
+        self = gallery
+    }
     
     var redImageScript: Script {
         Script("""
@@ -112,7 +196,10 @@ struct Gallery: Component {
             Paragraph(name).class("caption")
         }
     }
+    
+    
 }
+
 
 struct GalleryImage: Component {
     var lineNum: Int

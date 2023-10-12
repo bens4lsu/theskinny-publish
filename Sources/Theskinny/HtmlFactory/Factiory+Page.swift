@@ -81,7 +81,7 @@ extension TsobHTMLFactory {
     
     fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: context.imageGalleries, site: context.site)
+        let pageMain = AnyPageMain(mainContent: Galleries(), site: context.site)
         return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))
