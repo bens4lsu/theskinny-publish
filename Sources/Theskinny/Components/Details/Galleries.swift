@@ -22,11 +22,13 @@ enum GalleryLoadError: Error {
 struct Galleries: Component {
     
     var list: [Gallery]
+    var showInstructions: Bool = true
     
     
     init(list: [Gallery]) {
         // used for ImageGalleryLink -- gallery links in other pages
         self.list = list
+        self.showInstructions = false
     }
     
     init() {
@@ -45,13 +47,24 @@ struct Galleries: Component {
         return ComponentGroup(members: scripts)
     }
     
+    var instructions: Component {
+        if showInstructions {
+            return ComponentGroup {
+                H2("The Photo Collections...")
+                Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
+            }
+        }
+        else {
+            return EmptyComponent()
+        }
+    }
+    
     var body: Component {
         let cells = list.map { $0.cell }
         return ComponentGroup {
             scripts
             Div {
-                H2("The Photo Collections...")
-                Paragraph("Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.")
+                instructions
                 Div {
                     ComponentGroup(members: cells)
                 }.class("pg-grid")

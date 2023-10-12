@@ -19,9 +19,16 @@ struct HomeMainMessage: Component {
         
         let file = try? File(path: path)
         let string = (try? file?.readAsString()) ?? ""
-        return Markdown(string)
+        return ComponentGroup {
+            Markdown(string)
+            self.cust
+        }
     }
     
+    var cust: Component = ComponentGroup {
+        H2("New Photo Gallery Posted...")
+        ImageGalleryLinkSet(177)
+    }
     
     init(_ context: PublishingContext<Theskinny>) {
         self.context = context
