@@ -493,6 +493,12 @@ table td {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
+    width: 100%;
+}
+
+.lv_window_dark .lv_slider_number_active, .lv_window_dark .lv_slider_number_active:hover {
+    background-color: #5d5d5d;
+    color: pink;
 }
 
 @media (min-width: 650px) {

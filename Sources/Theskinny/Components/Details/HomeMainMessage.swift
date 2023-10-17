@@ -27,7 +27,7 @@ struct HomeMainMessage: Component {
     
     var cust: Component = ComponentGroup {
         H2("New Photo Gallery Posted...")
-        ImageGalleryLinkSet(177)
+        ImageGalleryLinkSet(177, 178)
     }
     
     init(_ context: PublishingContext<Theskinny>) {
