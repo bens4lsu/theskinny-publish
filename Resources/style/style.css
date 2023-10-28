@@ -365,7 +365,7 @@ div.twitter-tweet {
 .div-image-gallery-set {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-evenly;
     column-gap: 80px;
     row-gap: 40px;
 }
