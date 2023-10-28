@@ -84,3 +84,17 @@ videos:
         embed: <iframe width="777" height="437" src="https://www.youtube.com/embed/HkxzjTpiZwc" title="Rig Inspection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20230915i.jpg
         duration: 5:33
+    -
+        id: 900000004
+        dateRecorded: 2023-10-25
+        name: Rig Inspection
+        caption: |
+            Even though it's the end of October, the lakes by City Park and LSU haven't recovered from a brutal Summer.  I did a couple of lake flyovers this week so we can see how bad they look.
+            
+            The birds don't seem to mind it though....
+            
+            (no sound on this one)
+        url: https://youtu.be/gZnGQsB9zUo
+        embed: <iframe width="1127" height="634" src="https://www.youtube.com/embed/gZnGQsB9zUo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20231028.jpg
+        duration: 2:17

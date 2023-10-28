@@ -29,8 +29,6 @@ struct Theskinny: Website {
     var language: Language { .english }
     var imagePath: Path? { "img" }
     
-    
-
 }
 
 extension Theme where Site == Theskinny {
