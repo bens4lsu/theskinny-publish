@@ -32,7 +32,7 @@ struct HomeMainMessage: Component {
         
         return ComponentGroup {
             H2("New Photo Galleries Posted...")
-            ImageGalleryLinkSet(177, 178)
+            ImageGalleryLinkSet(177, 178, 179)
             H2("And Also A Couple Of Quick Videos To Watch...")
             VideoGalleryLinkSet(links: [vgLink1, vgLink2])
         }
