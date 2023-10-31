@@ -22,7 +22,15 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-road-to-edenton">Driving to Edenton for a post-hurricane overhaul.</a></div>
 <div class="list-of-links"><a href="/gal/14" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-fool-captain">God Looks out for Incompetent Captains</a></div>
-<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/?fn=ve_s1.content">Boat Maintenance, Spring 2005</a></div>
+
+
+<div class="list-of-links">Boat Maintenance, Spring 2005:  This is a short tale of chores and a little sailing at the end of March and the beginning of April.  I had quite a stretch, and took some killer photos (most of which aren't posted, but the prints are great).  Sorry to subject you to a bunch of puppy shots, but they're only small and cute for a short little while, and this trip happened to coincide with that stage for Lily.<ul class="compact">
+    <li><a href="/velvet-elvis/rhodes-22/spring-2005-1">March 26:  Sailing to Slidell</a></li>
+    <li><a href="/velvet-elvis/rhodes-22/spring-2005-2">March 30 - April 2:  Four Days of Cleaning and Repairs</a></li>
+    <li><a href="/velvet-elvis/rhodes-22/spring-2005-3">April 2:  Sailing Adventure</a></li>
+    <li><a href="/velvet-elvis/rhodes-22/spring-2005-4">April 2 - 19:  Giant Bird, Sinking, Other Wrap-up</a></li>
+</ul></div>
+
 <div class="list-of-links"><a href="/ve/CaptLog.php">See the whole Captain's Log</a></div>
 
 			

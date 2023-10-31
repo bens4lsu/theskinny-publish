@@ -76,9 +76,14 @@ struct Menu: Component {
                     }.class("li-pagelink")
                 }
                 listItemAdop.class("li-pagelink")
-                ListItem {
-                    Text("Velvet Elvis")
-                }.class("todo")
+                Collapser(text: "Velvet Elvi", elementId: "velvet-elvi").component {
+                    ListItem {
+                        Link("Rhodes 22 2000-2016", url: "/velvet-elvis/rhodes-22")
+                    }.class("li-pagelink")
+                    ListItem{
+                        Link("Beneteau 2016-2023", url: "/velvet-elvis/beneteau")
+                    }.class("li-pagelink")
+                }
                 ListItem {
                     Text("Playlists ♪")
                 }.class("todo")
