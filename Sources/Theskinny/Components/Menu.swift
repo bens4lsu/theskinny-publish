@@ -78,10 +78,10 @@ struct Menu: Component {
                 listItemAdop.class("li-pagelink")
                 Collapser(text: "Velvet Elvi", elementId: "velvet-elvi").component {
                     ListItem {
-                        Link("Rhodes 22 2000-2016", url: "/velvet-elvis/rhodes-22")
+                        Link("Rhodes 22 (2000-2016)", url: "/velvet-elvis/rhodes-22")
                     }.class("li-pagelink")
                     ListItem{
-                        Link("Beneteau 2016-2023", url: "/velvet-elvis/beneteau")
+                        Link("Beneteau (2016-2023)", url: "/velvet-elvis/beneteau")
                     }.class("li-pagelink")
                 }
                 ListItem {
