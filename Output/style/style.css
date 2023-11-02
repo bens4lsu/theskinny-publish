@@ -460,8 +460,23 @@ ul.compact li a {
     text-decoration: none;
 }
 
+
+table {
+    margin: 30px;
+    border-collapse: collapse;
+}
+
 table td {
     padding: 1em;
+    border: 2px solid #444;
+}
+
+table th {
+    background-color: #d0d28c;
+    border: 2px solid #444;
+    padding: 1em;
+    text-align: left;
+    color: #4c4c4c;
 }
 
 .pg-instruction-box {

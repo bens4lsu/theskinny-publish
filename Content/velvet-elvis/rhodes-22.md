@@ -31,7 +31,7 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
     <li><a href="/velvet-elvis/rhodes-22/spring-2005-4">April 2 - 19:  Giant Bird, Sinking, Other Wrap-up</a></li>
 </ul></div>
 
-<div class="list-of-links"><a href="/ve/CaptLog.php">See the whole Captain's Log</a></div>
+<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/captains-log">See the whole Captain's Log</a></div>
 
 			
 <a class="lightview centered" href="/img/ve/bensolo.jpg" data-lightview-caption="This is a self-portrait during a solo sail on the evening of March 8, 2005." data-lightview-group="group1"><img src="/img/ve/bensolo.jpg" alt="/img/ve/bensolo.jpg" width="650px"><br><span class="caption">This is a self-portrait during a solo sail on the evening of March 8, 2005.</span></a>

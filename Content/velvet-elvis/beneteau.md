@@ -8,3 +8,6 @@ This is the index of our personal page, where we chronicle some of our adventure
 
 2023 update:  I didn't really keep very many stores here, but the ones that were here on the old version of the site will return soon.  Also, there are a lot of stories from our sailing trips chronicled in the main blog and in the photo galleries.  I'll add a little index to those stories also.
 
+
+
+<div class="list-of-links"><a href="/velvet-elvis/beneteau/captains-log">See the whole Captain's Log</a></div>
