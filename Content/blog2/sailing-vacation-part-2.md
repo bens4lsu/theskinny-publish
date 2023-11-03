@@ -2,7 +2,7 @@
 title: Sailing Vacation - Part 2
 date: 2013-07-19 15:27
 description: A description of my post.
-tags: travel
+tags: travel, sailing, maryland
 id: 1678
 ---
 In case you missed them, all of the pictures from our trip (or at least all of the ones that I've posted online) are <a onclick="window.open('/pg3.php?spgmGal=103%20-%20Chesapeake%20Bay%20Sailing','103ChesapeakeBaySailing','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" href="#">here</a>.

@@ -2,7 +2,7 @@
 title: Long Island Happy Times
 date: 2023-05-31 14:40
 description:  As I mentioned when we last gathered, there are lots of reasons to spend time on Long Island, Bahamas.  There were at least two things that I'll remember about that island forever, and a funny story to go with them.  Here's a post about sailing in 2021 that isn't all disasters.
-
+tags: travel, sailing, bahamas, velvet-elvis-beneteau
 id: 2333
 ---
 As I mentioned when we last gathered, there are lots of reasons to spend time on Long Island, Bahamas

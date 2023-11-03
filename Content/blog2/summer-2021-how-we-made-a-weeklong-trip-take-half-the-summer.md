@@ -2,7 +2,7 @@
 title: Summer 2021 - How We Made a Weeklong Trip Take Half the Summer
 date: 2022-03-08 10:05
 description: Our 2021 sailing trip to the Bahamas was an absolute disaster.  Before we left, lightnight fried our boat's electronics.  The generator didn't make it to Key West.  And we lost tons of consumer electronics to Neptune as well.  We managed to have some fun though.  This is how the trip started.
-tags: travel
+tags: travel, sailing, velvet-elvis-beneteau, bahamas
 id: 2289
 ---
  For a week, I've been laughing at the size of John Lennon's butt crack.

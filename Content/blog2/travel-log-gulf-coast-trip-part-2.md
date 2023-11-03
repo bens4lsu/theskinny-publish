@@ -2,7 +2,7 @@
 title: Travel Log â€“ Gulf Coast Trip Part 2
 date: 2014-09-03 21:16
 description: A description of my post.
-tags: uncategorized
+tags: travel,sailing, velvet-elvis-beneteau
 id: 1832
 ---
 This is the completion of our vacation story, which I first started <a href="http://theskinnyonbenny.com/blog2/archives/1813">way back when</a>.  If you've forgotten all of that, go give it a quick look.  I'll meet you back here.

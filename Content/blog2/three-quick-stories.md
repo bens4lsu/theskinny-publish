@@ -2,7 +2,7 @@
 title: Three quick stories
 date: 2006-06-16 13:00
 description: A description of my post.
-tags: uncategorized
+tags: sailing, favorites
 id: 221
 ---
 Nothing real to post, but I have a few short stupid but amusing stories.
@@ -46,7 +46,6 @@ The big boat had a wheel, and they had tied a knot to one point on the arc of th
 I offered, "A <i>Turk's head!</i>  That's not very politically correct."
 
 "Well, that's what the knot is called," was my very serious reply.  There was no hint of amusement there.
-
 
 The only guy in our class was a 60-ish pilot named Chuck.  Chuck was a boxer-shorts kind of guy, which I know because when he would take the wheel, the lay of his shorts would give the seated passengers a view right on up to his saggy old-man balls.  
 

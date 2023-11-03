@@ -2,7 +2,7 @@
 title: Sailing Vacation - Part 1
 date: 2013-07-17 17:05
 description: A description of my post.
-tags: travel
+tags: travel, sailing, maryland
 id: 1653
 ---
 <strong>Washington, DC</strong>

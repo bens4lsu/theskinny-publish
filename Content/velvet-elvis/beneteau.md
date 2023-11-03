@@ -6,8 +6,23 @@ In the Spring of 2016, we opened a <a href="http://sailvelvetelvis.com">charter 
 
 This is the index of our personal page, where we chronicle some of our adventures.
 
-2023 update:  I didn't really keep very many stores here, but the ones that were here on the old version of the site will return soon.  Also, there are a lot of stories from our sailing trips chronicled in the main blog and in the photo galleries.  I'll add a little index to those stories also.
 
+<div class="caption">2023 update:  I only ever wrote the one set of posts for this boat's specific page, and that only covered the "getting there" part of the trip to Cuba.  But the story is pretty good.</div>
+
+<div class="list-of-links">2016 Trip to Cuba<ul class="compact">
+    <li><a href="/velvet-elvis/beneteau/cuba-1">June 6 - 10, 2016:  Louisiana to some spot well North of Key West</a><br>Putting a lot of miles under the keel, plust a named storm for good measure.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-2">June 10, 2016:  Still Making Way Toward Key West</a><br>Out on the ocean, all by ourselves.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-3">June 11 - 12, 2016:  Passage to Cuba</a><br>Out on the ocean, all by ourselves.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-4">June 12, 2016:  Clearing In, Dinner in Cuba</a><br>What to expect at Marina Hemingway.</a></li>
+<ul></div>
 
 
 <div class="list-of-links"><a href="/velvet-elvis/beneteau/captains-log">See the whole Captain's Log</a></div>
+
+
+<div class="list-of-links">Posts From the Main Blog<ul class="compact">
+    <li><a href="/velvet-elvis/beneteau/cuba-1">June 6 - 10, 2016:  Louisiana to some spot well North of Key West</a><br>Putting a lot of miles under the keel, plust a named storm for good measure.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-2">June 10, 2016:  Still Making Way Toward Key West</a><br>Out on the ocean, all by ourselves.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-3">June 11 - 12, 2016:  Passage to Cuba</a><br>Out on the ocean, all by ourselves.</a></li>
+    <li><a href="/velvet-elvis/beneteau/cuba-4">June 12, 2016:  Clearing In, Dinner in Cuba</a><br>What to expect at Marina Hemingway.</a></li>
+<ul></div>

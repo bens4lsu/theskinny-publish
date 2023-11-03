@@ -2,7 +2,7 @@
 title: Don’t Worry About Long Island Robbers
 date: 2023-05-26 08:35
 description:  We were at Great Exuma that Summer just before Fourth of July weekend.  Our generator had long since shit the bed.  Goodbye, sweet air conditioning.  Goodbye working outlets from which we can charge the devices that we need in order to pay the bills.  And goodbye to the most efficient way to keep the boat's batteries topped off.
-
+tags: sailing, velvet-elvis-beneteau
 id: 2332
 ---
 

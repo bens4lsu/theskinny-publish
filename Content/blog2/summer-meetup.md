@@ -2,7 +2,7 @@
 title: Summer Meetup
 date: 2021-10-20 09:24
 description: We had a hell of a time getting to the Bahamas this Summer.  Our friends Robert and Crystal might have even done worse than us.  Also, some really pretty pictures in this post.
-tags: travel
+tags: travel, sailing, velvet-elvis-beneteau, bahamas
 id: 2284
 ---
 As you might have noticed, I haven't been posting.  But I've been trying to write a little bit every week, because it's fun for me.  I end up in this weird place where I tell myself, "I can't post about Y because I haven't even gotten around to writing about X, and it ends up where I don't post at all."  That's as dumb as you're thinking it is, so I'm just going to start posting some things here and there.  It won't chronicle life sequentially, but who cares?
