@@ -2,7 +2,7 @@
 title: Easter Week Trip
 date: 2016-04-06 17:21
 description: We spent the week of Easter on the sailboat.  Almost entirely, we were tied up at Pontchartrain Landing on the lakeshore.  It's an almost unknown RV Park and Marina, and not at all a bad place to hole up for a week.
-tags: young-ruski, new-orleans, travel, sailing, velevt-elvis-beneteau
+tags: young-ruski, new-orleans, travel, sailing, velvet-elvis-beneteau
 id: 2015
 ---
 We spent the week of Easter on the sailboat.  Almost entirely, we were tied up at Pontchartrain Landing on the lakeshore.  It's an almost unknown RV Park and Marina, and not at all a bad place to hole up for a week.  Although it was almost entirely too cold to swim, there is a pool, a safe patch of water for the kids to dinghy and paddleboard, and all of it is in view from the bar.  Other than one bartender, the staff was very friendly and helpful.

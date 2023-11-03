@@ -18,6 +18,7 @@ struct BlogPost: Component {
     let description: String
     var linkToPrev: LinkInfo?
     var linkToNext: LinkInfo?
+    let tags: [Tag]
     
     
     var dateString: String {
@@ -54,15 +55,18 @@ struct BlogPosts: Component {
     
     var count: Int { items.count }
     
-    var body: Component { return Div { } }
+    var formatterLong: DateFormatter {
+        let formatterLong = DateFormatter()
+        formatterLong.dateFormat = "EEEE, MMMM d, yyyy"
+        return formatterLong
+    }
+    
+    var body: Component { return EmptyComponent() }
     
     var indexByDate: Component {
         let formatter = DateFormatter()
         formatter.dateFormat = "MMMM, yyyy"
-        
-        let formatterLong = DateFormatter()
-        formatterLong.dateFormat = "EEEE, MMMM d, yyyy"
-        
+
         var curMonthString = ""
         var result = ComponentGroup(members: [
             H1("Index of Blog Posts by Date")
@@ -83,6 +87,19 @@ struct BlogPosts: Component {
         }
         return Article { result }
         
+    }
+    
+    var simpleList: Component {
+        var result = ComponentGroup(members: [])
+        for item in items {
+            let formattedItemDate = formatterLong.string(from: item.date)
+            result.members.append(
+                Paragraph {
+                    Link(formattedItemDate + ":  " + item.title, url: item.linkToFull)
+                }.class("p-indented")
+            )
+        }
+        return result
     }
     
     

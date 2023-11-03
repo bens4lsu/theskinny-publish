@@ -21,6 +21,8 @@ extension TsobHTMLFactory {
                 return makePageHTMLMicroPosts(for: page, context: context)
             case "pgHome":
                 return makePagePgHome(for: page, context: context)
+            case "velvet-elvis/beneteau":
+                return makePageBeneteauHome(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -49,9 +51,7 @@ extension TsobHTMLFactory {
     
     fileprivate func makePageHTMLBlogArchiveByDate(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Blog Index of Articles by Date")
-        guard let pageContent = context.allBlogPostsReversed?.indexByDate else {
-            return makePageHTMLDefault(for: page, context: context)
-        }
+        let pageContent = context.allBlogPostsReversed.indexByDate
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML (
             htmlHeadInfo.node,
@@ -86,6 +86,18 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+    }
+    
+    fileprivate func makePageBeneteauHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
+        let component = VEBeneteauHome(mdComponent: page, posts: context.beneteauBlogPosts)
+        let pageMain = AnyPageMain(mainContent: component, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+        
+        
     }
     
 }

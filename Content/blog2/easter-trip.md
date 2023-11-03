@@ -2,7 +2,7 @@
 title: Easter Trip
 date: 2011-04-28 18:55
 description: A description of my post.
-tags: young-ruski,sailing, velvet-elvis-beneteau
+tags: young-ruski,sailing
 id: 1030
 ---
 This weekend, we set sail for what is an annual tradition.  We get on Velvet Elvis, and cruise for Easter.  Where we go is a function of wind and weather.  We sometimes anchor and enjoy the solitude of a quiet private marsh; we sometimes tie up in another town and enjoy their hospitality.

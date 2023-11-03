@@ -106,7 +106,7 @@ struct TsobHTMLFactory: HTMLFactory {
             else {
                 throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
             }
-            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: description)
+            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: description, tags: item.tags)
         }
         let blogPosts = BlogPosts(items: postItems)
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Blog Index of Articles by Date")

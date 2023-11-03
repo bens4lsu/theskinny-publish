@@ -23,7 +23,7 @@ extension PublishingContext where Site == Theskinny {
                     throw TsobHTMLFactory.TsobHTMLFactoryError.currentPostMissingIDInMetadata
                 }
                 let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
-                return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: item.metadata.description ?? "Description not provided")
+                return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: item.metadata.description ?? "Description not provided", tags: item.tags)
             }.sorted(by: { $0.date < $1.date })
             return BlogPosts(items: blogPosts)
         } catch {
@@ -31,12 +31,25 @@ extension PublishingContext where Site == Theskinny {
         }
     }
     
-    var allBlogPostsReversed: BlogPosts? {
+    var allBlogPostsReversed: BlogPosts {
         guard let tmpBlogPosts = allBlogPosts else {
-            return nil
+            return BlogPosts(items: [])
         }
         let reversedItems = tmpBlogPosts.items.reversed() as [BlogPost]
         return BlogPosts(items: reversedItems)
+    }
+    
+    var beneteauBlogPosts: BlogPosts {
+        guard let tmpBlogPosts = allBlogPosts else {
+            return BlogPosts(items: [])
+        }
+        
+        let beneteauPosts = tmpBlogPosts.items.filter { item in
+            item.tags.contains { tag in
+                tag.string == "velvet-elvis-beneteau"
+            }
+        }
+        return BlogPosts(items: beneteauPosts)
     }
     
     var adopPosts: AdopGeneral? {

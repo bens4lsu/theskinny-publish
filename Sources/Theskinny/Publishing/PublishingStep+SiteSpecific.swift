@@ -13,7 +13,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func writePostPages() -> Self {
         .step(named: "Write Post Summary Pages") { context in
-            guard let allPosts = context.allBlogPostsReversed?.items else { return }
+            let allPosts = context.allBlogPostsReversed.items
             let postsPerPage = EnvironmentKey.blogPostsPerPage
             var numPages = allPosts.count / postsPerPage
             let postsOnLastPage = allPosts.count % postsPerPage
@@ -57,7 +57,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func writeRedirectsFromWordpressUrls() -> Self {
         .step(named: "Write redirects for wordpress urls") { context in
-            guard let allPosts = context.allBlogPostsReversed?.items else { return }
+            let allPosts = context.allBlogPostsReversed.items 
             let factory = TsobHTMLFactory()
             for post in allPosts {
                 let page = Page(path: "blog2/archives/\(post.id)/index.html", content: Content())
