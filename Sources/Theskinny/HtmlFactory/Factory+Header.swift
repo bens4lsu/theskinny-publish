@@ -8,6 +8,7 @@
 import Foundation
 import Plot
 import Publish
+import Ink
 
 extension TsobHTMLFactory {
     
