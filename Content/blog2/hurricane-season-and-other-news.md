@@ -1,7 +1,7 @@
 ---
 title: Hurricane Season and Other News
 date: 2004-06-01 09:02
-description: A description of my post.
+description: The ideal hurricane is just strong enough to provide some impressive weather, shut off the power for the day, pull down some limbs, and keep you home from work. It can't do any real, serious damage, but it still has to get the office to close down, just in case. It's a tall order for any weather phenomena, and my hat is off to God when he pulls off the ideal hurricane.
 tags: current-events, hurricanes
 id: 37
 ---

@@ -11,8 +11,7 @@ By the way, as of today, the site has had 20 unique visitors, who viewed 606 pag
 
 Anyway, here is some of the feedback that I've gotten from you....
 
-*****
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 From Jackie, who gets credit for being the first one to follow the "Email Ben" link on the web page.
 <blockquote>
@@ -25,7 +24,8 @@ Jackie
 
 The odd thing about this one is that I didn't even buy the lunch.
 
-*****
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 <blockquote>
 Hi Uncle Benny,
 
@@ -35,7 +35,8 @@ The American Heart Association's online fundraising website has a .....
 </blockquote>
 Isn't that nice?  My first SPAM at theskinnyonbenny.com.  And from my own nephew.
 
-*****
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 From Stacie.
 <blockquote>
 Subject:  shock and disbelief
@@ -48,14 +49,16 @@ You asked for it....
 
 I'm sure that your picture count will be vastly greater than Donna's in a few short months.
 
-*****
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 From Jodie, who has clear intentions of turning this into the next drudge.com.
 <blockquote>
 i heard that Kerry is distributing cocaine to minor children in pixie sticks on his campaign trail.  is this true?  i thought you would know.
 </blockquote>
 By the way, drudge.com is a really ugly web site.  You would think that they could make it look a little nicer, given the fact that they have a staff and tons of visitors.
 
-*****
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 From Ruby.
 <blockquote>
 What's this? You have a picture of my sexy boyfriend at Halloween but none of his bad ass side kick Axle! I guess when you compare me to Daisy, Axle didn't make the cut.
@@ -67,7 +70,8 @@ I see a theme starting to emerge.  I looked for a good Axle, but the only one I 
 Ruby, send me a decent photo, and I'll put it up.  
 Everyone else, don't worry, I don't understand that comment to Heather either.
 
-*****
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 And my most recent message.  I won't follow this with any comment because, really, how could I possibly?
 <blockquote>
 Dear Ben S,

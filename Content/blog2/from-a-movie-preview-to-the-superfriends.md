@@ -1,12 +1,13 @@
 ---
 title: From a Movie Preview to the Superfriends
 date: 2004-06-24 07:11
-description: A description of my post.
+description: I'm still not real impressed with the summer movies that I've seen previewed so far.  We went last night, and I had a flash of excitement seeing the submariners from Hunt for Red October on the screen.  Wouldn't it be exciting to take those guys and make a new movie, without being constrained by a Tom Clancy plotline?  But no, it turns out that is was just Sponge Bob Square Pants, playing with a toy submarine that was causing the crew so much havoc.
 tags: pop-culture
 id: 45
 ---
 I'm still not real impressed with the summer movies that I've seen previewed so far.  We went last night, and I had a flash of excitement seeing the submariners from Hunt for Red October on the screen.  Wouldn't it be exciting to take those guys and make a new movie, without being constrained by a Tom Clancy plotline?  But no, it turns out that is was just Sponge Bob Square Pants, playing with a toy submarine that was causing the crew so much havoc.
-<span class="spanEndPreview">&nbsp;</span><br /><br />Oddly, when I laughed at the preview for fooling me, Mrs. skinnyonbenny looked at me like I had just sat on her cat.  Sure, she thought I was really laughing at Sponge Bob Square Pants, but even if I was, does that make me an evil person?
+
+Oddly, when I laughed at the preview for fooling me, Mrs. skinnyonbenny looked at me like I had just sat on her cat.  Sure, she thought I was really laughing at Sponge Bob Square Pants, but even if I was, does that make me an evil person?
 
 We had gone to see The Stepford Wives.  There's one scene -- set in Bette Midler's house -- where you see a big TV in the background.  The show on the screen is "Harvey Birdman, Attorney at Law."  You have to be a pretty diligent watcher of late-night Cartoon Network to catch this show, but it's worth it when you do.  They've taken the old, crappy Hannah-Barbara superhero Birdman, and made him an attorney complete with suit (but his wings still stick out in back).  He represents other cartoon characters in trials.
 

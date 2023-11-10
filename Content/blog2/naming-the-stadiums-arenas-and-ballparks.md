@@ -1,7 +1,7 @@
 ---
 title: Naming the Stadiums, Arenas, and Ballparks
 date: 2004-06-04 04:39
-description: A description of my post.
+description: When I was just a youngster, I took pride in being able to name the stadiums and ballparks of all of the NFL, NBA, and major league baseball teams.  Now, I wouldn't place money that I could name any of them.  It's not the corporate naming or all of the new stadium building that threw me.  I kept up with the first round of all of that without any trouble.  The problem is when corporations change names, fail, or just opt out of their naming right.
 tags: sports
 id: 38
 ---
@@ -16,7 +16,7 @@ I do still manage some retention after something is repeated fifty times or so. 
 But enough about me.
 
 Keeping track of these stadiums is a lot tougher now.  Which city has United Center and which has American Airlines Center?  Which has American Airlines Arena?  Wrigley field in Chicago is really named after Mr. Wrigley rather than the chewing gum company that he also started.  Ericsson field is named after a Skandinavian company rather than a guy named Ericsson.  Who could possibly keep all of that straight?  (For answers, check 
-<a href="http://www.leagueoffans.org/nbanamingrights.html">www.leagueoffans.org</a>)
+[www.leagueoffans.org](http://www.leagueoffans.org/nbanamingrights.html"))
 
 I'm not sure what Louisiana is waiting for, when it comes to naming the Superdome and the New Orleans Arena.  Clearly, corporate naming is in the future.  (When you go with "New Orleans Arena," I know that you didn't really even try.)  I suspect that the airlines, mobile phone companies, and other industry giants have lost that skill that was once so necessary in business:  paying off politicians.  
 

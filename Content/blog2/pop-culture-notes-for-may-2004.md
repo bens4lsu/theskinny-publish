@@ -1,7 +1,7 @@
 ---
 title: Pop Culture Notes for May 2004
 date: 2004-05-13 19:53
-description: A description of my post.
+description: Work conversation this morning included an allusion to Long Duck Dong before 9:00 am.  That's bodes well for your day.  I'm inspired to share some pop culture observations.  I suppose I should start with American Idol. 
 tags: pop-culture
 id: 33
 ---
@@ -31,4 +31,6 @@ Changing subjects again, I am not really all that geeked about the summer blockb
 
 Just so you aren't left wondering, the conversation this morning was about how mean a particular client is.  I call her "tbj" where t and b stand for "that bitch," and j isher first initial.  Eric -- the main support guy -- made the astute observation that she looks a lot like Long Duck Dong's prom date.  There.  Now you don't have to wonder.
 
-Agree?  Disagree?  I've decided to keep the bulletin board around.  Let us know what you think in <a href="http://theskinnyonbenny.com/stl-web/bulletin/bb/viewforum.php?f=1" target="_blank" class="mainbox">the pop culture forum.</a>
+Agree?  Disagree?  I've decided to keep the bulletin board around.  Let us know what you think in the pop culture forum.
+
+<div class="caption">2023 update:  The message board was a lot of fun, but it didn't last too long.  It was too hard to keep the bots from adding spam, even way back then.</div>

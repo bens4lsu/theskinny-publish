@@ -1,7 +1,7 @@
 ---
 title: Louie's for Breakfast
 date: 2004-05-20 08:13
-description: A description of my post.
+description: If you were an LSU student, then you've eaten at Louie's.  It was the place to go after all the bars had closed but you didn't want to go home yet.  Come to think of it, there was one knucklehead in the fraternity house that wanted to fire the cook and have the meals catered by Louie's.  I'm sure it's still booming at 2:00 am, but at my age, we go there for breakfast.
 tags: food
 id: 35
 ---
@@ -17,5 +17,5 @@ You're pretty much stuck listening to his random thoughts.  I've never heard him
 
 If you were in college during the 80s or 90s, Louie's is no cleaner then you remember.  The dirtiness is probably the biggest gripe that people might have with Louie's, but I don't think the food would be as good if the restaurant were clean.  Of course, it wouldn't give you the trots for two days if your bacteria tolerance is low either.  
 
-But hereï¿½s my only complaint about the cleanliness:  after I used the bathroom and pulled up my pants this morning, there was a big spot on the leg that was soaking wet.  Yuck.
+But here's my only complaint about the cleanliness:  after I used the bathroom and pulled up my pants this morning, there was a big spot on the leg that was soaking wet.  Yuck.
 
