@@ -10,6 +10,7 @@ import Plot
 import Publish
 
 struct Video: Component, Decodable {
+    
     let id: Int
     let name: String
     let dateRecorded: Date?
@@ -107,6 +108,4 @@ extension Video: Comparable {
     static func == (lhs: Video, rhs: Video) -> Bool {
         lhs.id == rhs.id
     }
-    
-    
 }

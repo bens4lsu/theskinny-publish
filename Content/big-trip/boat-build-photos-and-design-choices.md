@@ -1,9 +1,9 @@
 ---
-date: 2023-11-26 21:55
-description: When getting updates about a boat build happening on another continent, there are a lot of back and forth calls, emails, and pictures.  This post shares a lot of those pictures.
-tags: technical, boat-decor
-ogImg: color-render-1.jpg
 title: Boat Build Photos and Design Choices
+date: 2023-11-29 08:04
+description: When getting updates about a boat build happening on another continent, there are a lot of back and forth calls, emails, and pictures.  This post shares a lot of those pictures.
+tags: 
+ogImg: color-render-1.jpg
 ---
 
 At the beginning of August, the folks at Pegasus had bits and pieces of the boat.  They were things like rudders and sections of bulkhead and interior walls.  Things that they can cut out a lot of for several boats at a time.

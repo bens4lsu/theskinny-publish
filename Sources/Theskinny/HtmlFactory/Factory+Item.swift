@@ -25,7 +25,7 @@ extension TsobHTMLFactory {
         case "vid":
             return makeVidHTML(for: item, context: context)
         default:
-            return HTML(.text("Section HTML not yet implemented"))
+            return HTML(.text("item HTML not yet implemented"))
         }
     }
     

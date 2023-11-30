@@ -98,6 +98,33 @@ extension PublishingContext where Site == Theskinny {
         return albums
     }
     
+    var bigtripVideos: [Video] {
+        let albumIdsToInclude = [9123001]
+        let albumsForThisSet = videoAlbums.filter { albumIdsToInclude.contains($0.id) }
+        return albumsForThisSet.flatMap { $0.videos }
+    }
+    
+    var bigtripPosts: BlogPosts {
+        guard let section = self.sections.filter({ $0.id == .bigtrip }).first
+        else {
+            return BlogPosts(items: [])
+        }
+        let posts = section.items.map { item in
+            return BlogPost(title: item.title, slug: "", date: item.date, content: item.content.body, id: 0, description: item.metadata.description ?? "Description not provided", tags: item.tags)
+        }.sorted(by: { $0.date < $1.date })
+        return BlogPosts(items: posts)
+    }
+    
+    var bigtripAll: [TripPost] {
+        let typeErasedBlogPosts = self.bigtripPosts.items.map {
+            TripPost(.blogPost($0))
+        }
+        let typeErasedVideos = self.bigtripVideos.map {
+            TripPost(.video($0))
+        }
+        return typeErasedBlogPosts + typeErasedVideos
+    }
+    
     var microPosts: [MicroPost] {
         let paths =  [self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/mastodon-posts.yaml",
                       self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/twitter-posts.yaml"
@@ -118,3 +145,5 @@ extension PublishingContext where Site == Theskinny {
     }
 
 }
+
+

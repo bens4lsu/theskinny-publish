@@ -19,6 +19,7 @@ struct Theskinny: Website {
         case adopv
         case adopk
         case vid
+        case bigtrip = "big-trip"
     }
 
     struct ItemMetadata: WebsiteItemMetadata {

@@ -10,6 +10,7 @@ import Plot
 import Publish
 
 struct BlogPost: Component {
+    
     let title: String
     let slug: String
     let date: Date
@@ -49,6 +50,16 @@ struct BlogPost: Component {
         }.class("divPostShort")
     }
 }
+
+//extension BlogPost: Comparable {
+//    static func == (lhs: BlogPost, rhs: BlogPost) -> Bool {
+//        lhs.date == rhs.date
+//    }
+//    
+//    static func < (lhs: BlogPost, rhs: BlogPost) -> Bool {
+//        lhs.date < rhs.date
+//    }
+//}
 
 struct BlogPosts: Component {
     var items: [BlogPost]
