@@ -28,11 +28,12 @@ do {
     print ("Error thrown during site generation:  \(e)")
 }
 
-fileprivate var mediaPath: String { "/Users/ben/Library/CloudStorage/OneDrive-kidderschultz.com/media-test" }
+fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 
 fileprivate func hideResourceImages() throws {
     let root = try Folder(path: ".")
     shell ("rm -r tmp")
+    shell ("rm Output/img && rm Output/sound")
     let tmpFolder = try root.createSubfolderIfNeeded(at: "tmp")
     let galleryFolder = try Folder(path: "\(mediaPath)/img/gal")
     for f in galleryFolder.subfolders {
@@ -43,17 +44,19 @@ fileprivate func hideResourceImages() throws {
         try file2.copy(to: tmpGalFolder)
     }
     shell ("rm Resources/img")
+    shell ("rm Resources/sound")
     shell ("mkdir Resources/img")
     shell ("mkdir Resources/img/gal")
     shell ("mv tmp/* Resources/img/gal")
-    
 }
 
 fileprivate func restoreSymlinks() throws {
     shell ("rm -r Resources/img")
     shell ("rm -r Output/img")
-    shell ("cd Resources && ln -s \(mediaPath) img")
-    shell ("cd Output && ln -s \(mediaPath) img")
+    shell ("cd Resources && ln -s \(mediaPath)/img img")
+    shell ("cd Output && ln -s \(mediaPath)/img img")
+    shell ("cd Resources && ln -s \(mediaPath)/sound sound")
+    shell ("cd Output && ln -s \(mediaPath)/sound sound")
 }
 
 
