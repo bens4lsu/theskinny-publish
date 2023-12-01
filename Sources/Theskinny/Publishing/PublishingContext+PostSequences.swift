@@ -110,19 +110,20 @@ extension PublishingContext where Site == Theskinny {
             return BlogPosts(items: [])
         }
         let posts = section.items.map { item in
-            return BlogPost(title: item.title, slug: "", date: item.date, content: item.content.body, id: 0, description: item.metadata.description ?? "Description not provided", tags: item.tags)
+            let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
+            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id ?? -93, description: item.metadata.description ?? "Description not provided", tags: item.tags)
         }.sorted(by: { $0.date < $1.date })
         return BlogPosts(items: posts)
     }
     
-    var bigtripAll: [TripPost] {
+    var bigtripAll: TripPosts {
         let typeErasedBlogPosts = self.bigtripPosts.items.map {
             TripPost(.blogPost($0))
         }
         let typeErasedVideos = self.bigtripVideos.map {
             TripPost(.video($0))
         }
-        return typeErasedBlogPosts + typeErasedVideos
+        return TripPosts(items: typeErasedBlogPosts + typeErasedVideos)
     }
     
     var microPosts: [MicroPost] {

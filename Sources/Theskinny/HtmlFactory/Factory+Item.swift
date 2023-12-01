@@ -24,6 +24,8 @@ extension TsobHTMLFactory {
             return try makeAdopHTML(for: item, context: context)
         case "vid":
             return makeVidHTML(for: item, context: context)
+        case "big-trip":
+            return try makeTripHTML(for: item, context: context)
         default:
             return HTML(.text("item HTML not yet implemented"))
         }
@@ -129,6 +131,26 @@ extension TsobHTMLFactory {
 
         return HTML(
            //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
+    fileprivate func makeTripHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
+        print (item.metadata.id)
+        
+        let debug = context.bigtripPosts.items.map { $0.id }
+        print (debug)
+        
+        guard let tripPost = context.bigtripPosts.items.first(where: { $0.id == item.metadata.id }) else {
+            print ("askdfjhssa")
+            throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
+        }
+        let pageTitle = item.title + " -- on theskinnyonbenny.com"
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        let pageContent = TripPost(.blogPost(tripPost))
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
+        return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )

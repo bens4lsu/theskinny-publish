@@ -21,13 +21,33 @@ struct BlogPost: Component {
     var linkToNext: LinkInfo?
     let tags: [Tag]
     
+    private var _linkOverride: String?
+    
+    
+    init(title: String, slug: String, date: Date, content: Content.Body, id: Int, description: String, linkToPrev: LinkInfo? = nil, linkToNext: LinkInfo? = nil, tags: [Tag]) {
+        self.title = title
+        self.slug = slug
+        self.date = date
+        self.content = content
+        self.id = id
+        self.description = description
+        self.linkToPrev = linkToPrev
+        self.linkToNext = linkToNext
+        self.tags = tags
+        self._linkOverride = nil
+    }
     
     var dateString: String {
         EnvironmentKey.defaultDateFormatter.string(from: date)
     }
     
     var linkToFull: String {
-        "/blog2/\(slug)"
+        get {
+            _linkOverride ?? "/blog2/\(slug)"
+        }
+        set {
+            _linkOverride = newValue
+        }
     }
 
     var body: Component {

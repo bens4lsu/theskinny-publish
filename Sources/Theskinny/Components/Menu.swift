@@ -74,6 +74,9 @@ struct Menu: Component {
                     ListItem {
                         Link("Interesting/Other", url: "/vid/interesting-unusual-and-funny")
                     }.class("li-pagelink")
+                    ListItem {
+                        Link("2024 Big Trip", url: "/vid/velvet-elvis-2024-big-trip")
+                    }.class("li-pagelink")
                 }
                 listItemAdop.class("li-pagelink")
                 Collapser(text: "Velvet Elvi", elementId: "velvet-elvi").component {

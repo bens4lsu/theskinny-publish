@@ -1,5 +1,5 @@
 ---
-title: Velvet Elvis 2024 Maiden Voyage
+title: Velvet Elvis 2024 Big Trip
 videoAlbums: 9123001
 ---
 

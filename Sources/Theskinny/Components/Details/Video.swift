@@ -20,6 +20,18 @@ struct Video: Component, Decodable {
     let tn: String
     let duration: TimeInterval
     
+    private var _title: String?
+    
+    var title: String {
+        get {
+            _title ?? name
+        }
+        set {
+            _title = newValue
+        }
+    }
+    
+    
     var formattedDate: String {
         if let dateRecorded {
             return EnvironmentKey.defaultDateFormatter.string(from: dateRecorded)
@@ -62,7 +74,7 @@ struct Video: Component, Decodable {
     var body: Component {
         Div {
             Div {
-                H2 { Link(name, url: link) }
+                H2 { Link(title, url: link) }
                 Span(Markdown(caption))
                 H3 { Text("\(dateRecordedString)") }
                 H3 { Text("\(formattedDuration)") }

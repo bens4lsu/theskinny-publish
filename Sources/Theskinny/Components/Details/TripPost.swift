@@ -17,7 +17,7 @@ struct TripPost: Component {
     }
     
     private let _postType: PostType
-    let backToPage: Page? = nil
+    let backToPage: Page = Page(path: "/big-trip", content: Content())
     let nextPage: Page? = nil
     let prevPage: Page? = nil
     
@@ -34,21 +34,40 @@ struct TripPost: Component {
         }
     }
     
-    var postShortBox: Plot.Component {
+    var mirrorUrl: String {
         switch _postType {
         case .blogPost(let blogPost):
-            blogPost.postShortBox
+            return "https://bigtrip.sailvelvetelvis.com/posts/" + blogPost.slug
         case .video(let video):
-            video
+            return "https://bigtrip.sailvelvetelvis.com/video/" + video.autoSlug
+            
         }
     }
     
-    var body: Plot.Component {
+    var postShortBox: Plot.Component {
+        switch _postType {
+        case .blogPost(var blogPost):
+            blogPost.linkToFull = "/big-trip/\(blogPost.slug)"
+            return blogPost.postShortBox
+        case .video(var video):
+            video.title = "Video: " + video.name
+            return video
+        }
+    }
+    
+    var bodyContent: Plot.Component {
         switch _postType {
         case .blogPost(let blogPost):
-            blogPost
+            return blogPost
         case .video(let video):
-            video.allByMyself(backToPage: nil)
+            return video.allByMyself(backToPage: nil)
+        }
+    }
+    
+    var body: Component {
+        ComponentGroup {
+            bodyContent
+            TripMirror(mirrorUrl)
         }
     }
 }
@@ -72,6 +91,24 @@ struct TripPosts: Component {
     }
     
     var body: Component {
-        List(items) { $0 }.listStyle(.listAsDivs)
+        Article {
+            List(items) { $0.postShortBox }.listStyle(.listAsDivs)
+        }.class("content")
+    }
+}
+
+struct TripMirror: Component {
+    let url: String
+    
+    init (_ url: String) {
+        self.url = url
+    }
+    
+    var body: Component {
+        Div {
+            Text("This page mirrored at ")
+            Link(url, url: url)
+            Text(" in case you want to share without the baggage of knowing about theskinnyonbenny")
+        }.class("div-mirror")
     }
 }

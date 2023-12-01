@@ -24,6 +24,8 @@ extension TsobHTMLFactory {
             return try makeAdopHtml(for: section, context: context, name: "Vanya", component: context.adopPosts?.adopV)
         case .vid:
             return makeVidHtml(for: section, context: context)
+        case .bigtrip:
+            return makeTripHtml(for: section, context: context)
         default:
             return HTML(.text("Section HTML not yet implemented"))
         }
@@ -92,6 +94,15 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
-        
+    }
+    
+    fileprivate func makeTripHtml(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Travel Page")
+        let mainContent = context.bigtripAll
+        let pageMain = AnyPageMain(mainContent: mainContent, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
     }
 }

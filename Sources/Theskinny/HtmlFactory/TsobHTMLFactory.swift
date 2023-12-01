@@ -12,7 +12,7 @@ struct TsobHTMLFactory: HTMLFactory {
     
     typealias Site = Theskinny
     
-    enum TsobHTMLFactoryError: Error {
+    enum TsobHTMLFactoryError: String, Error {
         case contextMissingAllPosts
         case currentPostNotFoundInContext
         case currentPostMissingIDInMetadata
@@ -60,41 +60,13 @@ struct TsobHTMLFactory: HTMLFactory {
         )
     }
     
-    
-//    func makeMultiPageHTML(for page: Publish.Page, context: PublishingContext<Theskinny>, from posts: BlogPosts, withLinks links: TopNavLinks) -> HTML {
-//        let htmlHeadInfo = HeaderInfo(location: page, title: "Blog on theskinnyonbenny.com")
-//        let pageMain = AnyPageMain(mainContent: posts.multiPostPageContent(withTopLinks: links), site: context.site)
-//        return HTML(
-//            htmlHeadInfo.node,
-//            .body(.component(pageMain)
-//           )
-//        )
-//    }
+
     
     
     func makeRedirectFromOldBlogPath(for page: Publish.Page, context: PublishingContext<Theskinny>, newName: String) -> HTML {
         let script = Script("window.location.replace(\"/blog2/\(newName)\");")
         return HTML(script.convertToNode())
     }
-    
-    
-//    func makeVideoAlbumHtml(for page: Page, context: PublishingContext<Theskinny>, album: VideoAlbum) throws -> HTML {
-//        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
-//        let pageMain = AnyPageMain(mainContent: album, site: context.site)
-//        return HTML(
-//            .component(album)
-//        )
-//    }
-    
-//    func makeVideoSinglePageHtml(for page: Page, context: PublishingContext<Theskinny>, video: Video, backToPage: Page) throws -> HTML {
-//        let htmlHeadInfo = HeaderInfo(location: page, title: "Videos on theskinnyonbenny.com")
-//        let pageMain = AnyPageMain(mainContent: video.allByMyself(backToPage: backToPage), site: context.site)
-//        return HTML (
-//            htmlHeadInfo.node,
-//            .body(.component(pageMain)
-//           )
-//        )
-//    }
     
     
     func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Theskinny>) throws -> HTML? {
