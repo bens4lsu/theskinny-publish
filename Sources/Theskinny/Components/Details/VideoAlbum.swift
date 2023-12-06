@@ -50,7 +50,6 @@ struct VideoAlbum: Component, Decodable {
             .dateRecorded
     }
     
-    
     var body: Component {
         Div {
             TopNavLinks(linkBack, nil, nil)

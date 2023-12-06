@@ -107,6 +107,7 @@ struct Video: Component, Decodable {
             }.class("embed-featured")
         }
     }
+
 }
 
 extension Video: Comparable {

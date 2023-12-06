@@ -67,7 +67,7 @@ body {
     grid-area: blog;
 }
 
-.div-home-dailyphoto {
+.div-home-dailyphoto, .div-mirror {
     grid-area: dailyphoto;
     padding: 20px;
     background-color: #d0d28c;

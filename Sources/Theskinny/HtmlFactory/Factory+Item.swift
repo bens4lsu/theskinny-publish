@@ -136,9 +136,7 @@ extension TsobHTMLFactory {
         )
     }
     
-    fileprivate func makeTripHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
-        print (item.metadata.id)
-        
+    fileprivate func makeTripHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {      
         let debug = context.bigtripPosts.items.map { $0.id }
         print (debug)
         

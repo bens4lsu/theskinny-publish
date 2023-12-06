@@ -55,19 +55,13 @@ struct TripPost: Component {
         }
     }
     
-    var bodyContent: Plot.Component {
+    var body: Plot.Component {
         switch _postType {
-        case .blogPost(let blogPost):
+        case .blogPost(var blogPost):
+            blogPost.injectedComponent = TripMirror(mirrorUrl)
             return blogPost
         case .video(let video):
             return video.allByMyself(backToPage: nil)
-        }
-    }
-    
-    var body: Component {
-        ComponentGroup {
-            bodyContent
-            TripMirror(mirrorUrl)
         }
     }
 }
@@ -108,7 +102,7 @@ struct TripMirror: Component {
         Div {
             Text("This page mirrored at ")
             Link(url, url: url)
-            Text(" in case you want to share without the baggage of knowing about theskinnyonbenny")
+            Text(" in case you want to share without the baggage of sharing the fact that you know about theskinnyonbenny")
         }.class("div-mirror")
     }
 }

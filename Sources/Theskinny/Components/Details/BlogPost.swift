@@ -20,6 +20,7 @@ struct BlogPost: Component {
     var linkToPrev: LinkInfo?
     var linkToNext: LinkInfo?
     let tags: [Tag]
+    var injectedComponent: Component = EmptyComponent()
     
     private var _linkOverride: String?
     
@@ -56,6 +57,7 @@ struct BlogPost: Component {
             H1(title)
             H3(dateString)
             Div(content.body)
+            injectedComponent
         }
     }
     
