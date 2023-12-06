@@ -98,8 +98,20 @@ extension PublishingStep where Site == Theskinny {
     
     static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: inout PublishingContext<Theskinny>, backToPage: Page) throws {
         for video in album.videos {
+            let bigTripAlbumIds = context.bigtripVideos.map { $0.id }
+            let bigTripHtml: Bool = bigTripAlbumIds.contains(video.id)
+            
             var page = Page(path: "\(video.link)", content: Content())
-            let html = HTML(.component(video.allByMyself(backToPage: backToPage)))
+            
+            let html: HTML = {
+                switch bigTripHtml {
+                case true:
+                    return HTML(.component(TripPost(.video(video))))
+                case false:
+                    return HTML(.component(video.allByMyself(backToPage: backToPage)))
+                }
+            }()
+            
             page.content.body.html = html.render()
             context.addPage(page)
         }

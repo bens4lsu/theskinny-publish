@@ -153,6 +153,7 @@ h2 > a {
     display: inline-block;
     margin-left: 40px;
     margin-top: 50px;
+    margin-bottom: 40px;
 }
 
 .embed-featured iframe {

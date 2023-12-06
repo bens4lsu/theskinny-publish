@@ -61,7 +61,7 @@ struct TripPost: Component {
             blogPost.injectedComponent = TripMirror(mirrorUrl)
             return blogPost
         case .video(let video):
-            return video.allByMyself(backToPage: nil)
+            return video.allByMyself(backToPage: nil, injectedComponent: TripMirror(mirrorUrl))
         }
     }
 }
@@ -87,6 +87,7 @@ struct TripPosts: Component {
     var body: Component {
         Article {
             List(items) { $0.postShortBox }.listStyle(.listAsDivs)
+            TripMirror("https://bigtrip.sailvelvetelvis.com/all/")
         }.class("content")
     }
 }

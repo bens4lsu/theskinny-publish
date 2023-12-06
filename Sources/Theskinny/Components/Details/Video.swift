@@ -88,7 +88,7 @@ struct Video: Component, Decodable {
     }
     
     // for pages on /video
-    func allByMyself(backToPage: Page?) -> Component {
+    func allByMyself(backToPage: Page?, injectedComponent: Component = EmptyComponent()) -> Component {
         var navSection: any Component
         if backToPage == nil {
             navSection = EmptyComponent()
@@ -97,6 +97,11 @@ struct Video: Component, Decodable {
             let linkInfo = LinkInfo(backToPage!.title, "/" + backToPage!.path.string)
             navSection = TopNavLinks(linkInfo, nil, nil)
         }
+        
+        if self.id == 9123001 {
+            print(injectedComponent)
+        }
+        
         return Div {
             navSection
             H1(name)
@@ -105,6 +110,7 @@ struct Video: Component, Decodable {
             Div {
                 Markdown(embed)
             }.class("embed-featured")
+            injectedComponent
         }
     }
 
