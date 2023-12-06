@@ -48,12 +48,19 @@ struct Menu: Component {
         }
     }
     
+    private var listItemBigTrip: ListItem {
+        ListItem {
+            Link ("2024 Big Trip", url: "/big-trip")
+        }
+    }
+    
     
     var body: Component {
 
         Div {
             List {
                 listItemHome.class("li-pagelink")
+                listItemBigTrip.class("li-pagelink")
                 Collapser(text: "Blog", elementId: "collapser-blog").component {
                     listItemBlog.class("li-pagelink")
                     ListItem {
@@ -132,6 +139,7 @@ struct Menu: Component {
             
             List {
                 listItemHome
+                listItemBigTrip
                 listItemBlog
                 listItemDailyPhotos
                 listItemGalleries
