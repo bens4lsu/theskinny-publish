@@ -34,6 +34,10 @@ struct TripPost: Component {
         }
     }
     
+    private var formattedDate: String {
+        return EnvironmentKey.defaultDateFormatter.string(from: date)
+    }
+    
     private var mirrorUrl: String {
         switch _postType {
         case .blogPost(let blogPost):
@@ -72,7 +76,7 @@ struct TripPost: Component {
         case .blogPost(let blogPost):
             blogPost.title
         case .video(let video):
-            video.name
+            "Video: " + video.name
         }
     }
     
@@ -80,7 +84,10 @@ struct TripPost: Component {
     
     var postHomePageLook: Component {
         return Div {
-            Div { H4 { Link(title, url:linkToFull) } }
+            Div { 
+                H4 { Link(title, url:linkToFull) }
+                Span(formattedDate).class("caption")
+            }
             Div { Image(img) }
         }.class ("divH4Sub")
     }

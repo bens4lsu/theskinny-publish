@@ -322,7 +322,7 @@ div.twitter-tweet {
     border: 2px solid black;
     border-radius: 8px;
     background-color: #d0d28c;
-    max-height: 700px;
+    max-height: 1100px;
 }
 
 .mt-body {
@@ -383,6 +383,15 @@ div.twitter-tweet {
 div.divH4Sub {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-top: 12px;
+}
+
+div.divH4Sub h4 {
+    margin-bottom: 0;
+}
+
+div.divH4Sub h4 a {
+    text-decoration: none;
 }
 
 div.divH4Sub div {
