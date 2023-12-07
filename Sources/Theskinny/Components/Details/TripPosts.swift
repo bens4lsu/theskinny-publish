@@ -32,7 +32,7 @@ struct TripPosts: Component {
     var forHomePage: Component {
         Div {
             H2 { Link("2024 Velvet Elvis Big Trip", url: "/big-trip")}
-            List(items) { $0.postHomePageLook }.listStyle(.listAsDivs)
+            List(itemsReversed) { $0.postHomePageLook }.listStyle(.listAsDivs)
         }.class("divPostShort")
     }
 }
