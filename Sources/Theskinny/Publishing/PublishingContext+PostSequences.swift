@@ -23,7 +23,7 @@ extension PublishingContext where Site == Theskinny {
                     throw TsobHTMLFactory.TsobHTMLFactoryError.currentPostMissingIDInMetadata
                 }
                 let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
-                return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: item.metadata.description ?? "Description not provided", tags: item.tags)
+                return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: id, description: item.metadata.description ?? "Description not provided", tags: item.tags, ogImg: item.metadata.ogImg)
             }.sorted(by: { $0.date < $1.date })
             return BlogPosts(items: blogPosts)
         } catch {
@@ -111,7 +111,7 @@ extension PublishingContext where Site == Theskinny {
         }
         let posts = section.items.map { item in
             let slug = URL(string: item.path.string)?.lastPathComponent ?? item.path.string
-            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id ?? -93, description: item.metadata.description ?? "Description not provided", tags: item.tags)
+            return BlogPost(title: item.title, slug: slug, date: item.date, content: item.content.body, id: item.metadata.id ?? -93, description: item.metadata.description ?? "Description not provided", tags: item.tags, ogImg: item.metadata.ogImg)
         }.sorted(by: { $0.date < $1.date })
         return BlogPosts(items: posts)
     }

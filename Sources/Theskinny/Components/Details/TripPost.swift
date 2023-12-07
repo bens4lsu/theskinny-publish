@@ -25,7 +25,7 @@ struct TripPost: Component {
         self._postType = postType
     }
  
-    var date: Date {
+    private var date: Date {
         switch _postType {
         case .blogPost(let blogPost):
             blogPost.date
@@ -34,15 +34,57 @@ struct TripPost: Component {
         }
     }
     
-    var mirrorUrl: String {
+    private var mirrorUrl: String {
         switch _postType {
         case .blogPost(let blogPost):
             return "https://bigtrip.sailvelvetelvis.com/posts/" + blogPost.slug
         case .video(let video):
             return "https://bigtrip.sailvelvetelvis.com/video/" + video.autoSlug
-            
         }
     }
+    
+    private var img: String {
+        switch _postType {
+        case .blogPost(let blogPost):
+            if blogPost.ogImg == nil {
+                return EnvironmentKey.emptyImg
+            }
+            return "/img/bigtrip/" + blogPost.ogImg!
+        case .video(let video):
+            return "/img/video-thumbnails/" + video.tn
+        }
+    }
+    
+    
+    private var linkToFull: String {
+        // used by the link on the home page
+        switch _postType {
+        case .blogPost(let blogPost):
+            "/big-trip/\(blogPost.slug)"
+        case .video(let video):
+            video.autoSlug
+        }
+    }
+    
+    private var title: String {
+        // used by the link on the home page
+        switch _postType {
+        case .blogPost(let blogPost):
+            blogPost.title
+        case .video(let video):
+            video.name
+        }
+    }
+    
+    // MARK: Components
+    
+    var postHomePageLook: Component {
+        return Div {
+            Div { H4 { Link(title, url:linkToFull) } }
+            Div { Image(img) }
+        }.class ("divH4Sub")
+    }
+    
     
     var postShortBox: Plot.Component {
         switch _postType {
@@ -54,6 +96,8 @@ struct TripPost: Component {
             return video
         }
     }
+    
+
     
     var body: Plot.Component {
         switch _postType {
@@ -76,34 +120,6 @@ extension TripPost: Comparable {
     }
 }
 
-struct TripPosts: Component {
-    let items: [TripPost]
-    
-    init(items: [TripPost]) {
-        let sortedItems = items.sorted(by: < )
-        self.items = sortedItems
-    }
-    
-    var body: Component {
-        Article {
-            List(items) { $0.postShortBox }.listStyle(.listAsDivs)
-            TripMirror("https://bigtrip.sailvelvetelvis.com/all/")
-        }.class("content")
-    }
-}
 
-struct TripMirror: Component {
-    let url: String
-    
-    init (_ url: String) {
-        self.url = url
-    }
-    
-    var body: Component {
-        Div {
-            Text("This page mirrored at ")
-            Link(url, url: url)
-            Text(" in case you want to share without the baggage of sharing the fact that you know about theskinnyonbenny")
-        }.class("div-mirror")
-    }
-}
+
+

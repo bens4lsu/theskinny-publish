@@ -23,6 +23,7 @@ struct HomePage: Component {
                 HomeMainMessage(context)
                 HomeMastodon()
                 HomeBlogPost(context.allBlogPosts!)
+                HomeBigTrip(tripPosts: context.bigtripAll)
                 HomeDailyPhoto()
                 HomeShelly()
             }.class("div-home-wrapper-inner")

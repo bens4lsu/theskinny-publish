@@ -25,17 +25,20 @@ struct HomeMainMessage: Component {
         }
     }
     
-    var cust: Component = ComponentGroup {
-        let vgLink1 = VideoGalleryLink(url: "/video/lsubaton-rouge-lakes-are-a-disaster-right-now/", image: "mq20231028.jpg", caption: "LSU Lakes Are a Disaster Right Now")
-        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
-        let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
+    var cust: Component {
         
-        return ComponentGroup {
-            H2("New Photo Galleries Posted...")
-            ImageGalleryLinkSet(177, 178, 179)
-            H2("And Also A Couple Of Quick Videos To Watch...")
-            VideoGalleryLinkSet(links: [vgLink1, vgLink2])
-        }
+//        let vgLink1 = VideoGalleryLink(url: "/video/lsubaton-rouge-lakes-are-a-disaster-right-now/", image: "mq20231028.jpg", caption: "LSU Lakes Are a Disaster Right Now")
+//        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
+//        let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
+//        
+//        return ComponentGroup {
+//            H2("New Photo Galleries Posted...")
+//            ImageGalleryLinkSet(177, 178, 179)
+//            H2("And Also A Couple Of Quick Videos To Watch...")
+//            VideoGalleryLinkSet(links: [vgLink1, vgLink2])
+//        }
+        
+        EmptyComponent()
     }
     
     init(_ context: PublishingContext<Theskinny>) {

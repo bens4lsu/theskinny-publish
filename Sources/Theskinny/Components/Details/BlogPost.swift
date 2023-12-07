@@ -21,11 +21,12 @@ struct BlogPost: Component {
     var linkToNext: LinkInfo?
     let tags: [Tag]
     var injectedComponent: Component = EmptyComponent()
+    let ogImg: String?
     
     private var _linkOverride: String?
     
     
-    init(title: String, slug: String, date: Date, content: Content.Body, id: Int, description: String, linkToPrev: LinkInfo? = nil, linkToNext: LinkInfo? = nil, tags: [Tag]) {
+    init(title: String, slug: String, date: Date, content: Content.Body, id: Int, description: String, linkToPrev: LinkInfo? = nil, linkToNext: LinkInfo? = nil, tags: [Tag], ogImg: String?) {
         self.title = title
         self.slug = slug
         self.date = date
@@ -36,6 +37,7 @@ struct BlogPost: Component {
         self.linkToNext = linkToNext
         self.tags = tags
         self._linkOverride = nil
+        self.ogImg = ogImg
     }
     
     var dateString: String {

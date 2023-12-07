@@ -29,3 +29,6 @@ extension EnvironmentKey where Value == Int {
     static let styleAndScriptVersion = 1016
 }
 
+extension EnvironmentKey where Value == String {
+    static let emptyImg = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+P+/HgAFhAJ/wlseKgAAAABJRU5ErkJggg=="
+}

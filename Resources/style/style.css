@@ -56,6 +56,7 @@ body {
     grid-template-areas:
     "main"
     "blog"
+    "trip"
     "dailyphoto";
 }
 
@@ -379,6 +380,21 @@ div.twitter-tweet {
     width: 350px;
 }
 
+div.divH4Sub {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+div.divH4Sub div {
+    display: inline-block;
+    vertical-align: toop;
+    padding: 0 2em;
+}
+
+div.divH4Sub div img {
+    max-height: 40px;
+}
+
 div.vid-gal-top-text {
     margin-bottom: 45px;
 }
@@ -533,8 +549,14 @@ table th {
         grid-template-areas:
         "main main"
         "tweets blog"
+        "tweets trip"
         "tweets dailyphoto"
         "shelly null";
+    }
+    
+    .div-home-big-trip {
+        gird-area: trip
+        
     }
     
     .div-home-tweets {
