@@ -28,8 +28,11 @@ struct HomeBigTrip: Component {
     }
     
     var body: Component {
-        Div {
-            littleSet.forHomePage
-        }.class("home-big-trip")
+        ComponentGroup {
+            Div {
+                littleSet.forHomePage
+            }.class("home-big-trip")
+            
+        }
     }
 }

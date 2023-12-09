@@ -308,6 +308,8 @@ blockquote {
     font-size: 90%;
 }
 
+
+
 div.twitter-tweet {
     display:flex;
     justify-content: center;
@@ -322,7 +324,7 @@ div.twitter-tweet {
     border: 2px solid black;
     border-radius: 8px;
     background-color: #d0d28c;
-    max-height: 1100px;
+    max-height: 895px;
 }
 
 .mt-body {
@@ -396,12 +398,25 @@ div.divH4Sub h4 a {
 
 div.divH4Sub div {
     display: inline-block;
-    vertical-align: toop;
+    vertical-align: top;
     padding: 0 2em;
 }
 
 div.divH4Sub div img {
     max-height: 40px;
+}
+
+div.divH4Sub div iframe {
+    width:100%;
+    aspect-ratio: 16/9;
+}
+
+.grid-span-2 {
+    grid-column: span 2;
+}
+
+.padtop, div.divH4Sub .padtop {
+    padding-top: 25px;
 }
 
 div.vid-gal-top-text {
@@ -559,8 +574,7 @@ table th {
         "main main"
         "tweets blog"
         "tweets trip"
-        "tweets dailyphoto"
-        "shelly null";
+        "shelly dailyphoto";
     }
     
     .div-home-big-trip {
@@ -580,6 +594,8 @@ table th {
     
     .div-home-shelly {
         grid-area: shelly;
+        display: flex;
+        align-items: end;
     }
     
     .div-adop-wrapper-inner {
@@ -671,6 +687,11 @@ table th {
         min-height: 600px;
     }
     
+    .iframe-smaller {
+        width: 60%;
+        aspect-ratio: 16/9;
+        margin: 0 auto 30px auto;
+    }
 
 
 
@@ -697,7 +718,7 @@ table th {
 
 
 #tsob-fullpage-iframe {
-    width: 100%; height: 100%;
+    width: 100%; aspect-ratio:16/9;
 }
 
 img.greenline {

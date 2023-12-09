@@ -98,10 +98,6 @@ struct Video: Component, Decodable {
             navSection = TopNavLinks(linkInfo, nil, nil)
         }
         
-        if self.id == 9123001 {
-            print(injectedComponent)
-        }
-        
         return Div {
             navSection
             H1(name)

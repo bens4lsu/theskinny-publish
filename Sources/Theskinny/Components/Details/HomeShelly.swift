@@ -18,7 +18,9 @@ struct HomeShelly: Component {
     
     var body: Component {
         Div {
-            Markdown(embedCode)
+            Div {
+                Markdown(embedCode)
+            }
         }.class("div-home-shelly")
     }
 }

@@ -136,12 +136,8 @@ extension TsobHTMLFactory {
         )
     }
     
-    fileprivate func makeTripHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {      
-        let debug = context.bigtripPosts.items.map { $0.id }
-        print (debug)
-        
+    fileprivate func makeTripHTML(for item: Publish.Item<Theskinny>, context: Publish.PublishingContext<Theskinny>) throws -> Plot.HTML {
         guard let tripPost = context.bigtripPosts.items.first(where: { $0.id == item.metadata.id }) else {
-            print ("askdfjhssa")
             throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
         }
         let pageTitle = item.title + " -- on theskinnyonbenny.com"

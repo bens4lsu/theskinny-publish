@@ -9,6 +9,7 @@ In the Spring of 2016, we opened a <a href="http://sailvelvetelvis.com">charter 
 This is the index of our personal page, where we chronicle some of our adventures.
 
 
+
 <div class="caption">2023 update:  I only ever wrote the one set of posts for this boat's specific page, and that only covered the "getting there" part of the trip to Cuba.  But the story is pretty good.</div>
 
 <h2>Trip to Cuba</h2>
@@ -20,6 +21,13 @@ This is the index of our personal page, where we chronicle some of our adventure
 <ul></div>
 
 
-<div class="list-of-links"><a href="/velvet-elvis/beneteau/captains-log">See the whole Captain's Log</a></div>
+<h2>Route Map: 2021 Bahamas Trip</h2>
+
+<a class="lightview centered" href="/img/ve/IMG_0582.PNG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/ve/IMG_0582.PNG" alt="/img/ve/IMG_0582.PNG" width="650px"><br><span class="caption"></span></a>
+
+<a class="lightview centered" href="/img/ve/IMG_0583.PNG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/ve/IMG_0583.PNG" alt="/img/ve/IMG_0583.PNG" width="650px"><br><span class="caption"></span></a>
+
+<h2>Other</h2>
+<div class="list-of-links"><a href="/velvet-elvis/beneteau/captains-log">See a few early log entries.</a></div>
 
 <h2>Posts From the Main Blog</h2>

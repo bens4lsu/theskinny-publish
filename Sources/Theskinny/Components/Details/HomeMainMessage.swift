@@ -38,6 +38,7 @@ struct HomeMainMessage: Component {
 //            VideoGalleryLinkSet(links: [vgLink1, vgLink2])
 //        }
         
+
         EmptyComponent()
     }
     

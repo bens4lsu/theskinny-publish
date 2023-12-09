@@ -26,9 +26,11 @@ extension EnvironmentKey where Value == DateFormatter {
 extension EnvironmentKey where Value == Int {
     static let blogPostsPerPage = 12
     //static let styleAndScriptVersion = Int.random(in: Int.min...Int.max)
-    static let styleAndScriptVersion = 1017
+    static let styleAndScriptVersion = 1018
 }
 
 extension EnvironmentKey where Value == String {
     static let emptyImg = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+P+/HgAFhAJ/wlseKgAAAABJRU5ErkJggg=="
+    
+    static let predictWindSrc = "https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000"
 }
