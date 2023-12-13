@@ -38,3 +38,14 @@ videos:
         embed: <iframe width="664" height="374" src="https://www.youtube.com/embed/mznCBKqoYRA" title="Firing the Peppers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20230927a.jpg
         duration: 0:10
+        
+    -
+        id: 912345003
+        dateRecorded: 2023-12-09
+        name: Accrocat Jazz Ensemble
+        caption: |
+            The Amazing Acrocats are always a fun December treat!  Here is a relatively new addition to the act:  several cats playing horns.
+        url: https://youtu.be/IPJ4Pd6E7Yw
+        embed: <iframe width="1082" height="609" src="https://www.youtube.com/embed/IPJ4Pd6E7Yw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20231213b.jpg
+        duration: 0:13
