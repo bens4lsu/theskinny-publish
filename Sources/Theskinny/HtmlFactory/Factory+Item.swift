@@ -57,7 +57,7 @@ extension TsobHTMLFactory {
     fileprivate func ogImgNode(_ ogImg: String?, context: PublishingContext<Theskinny>, item: Item<Theskinny>) -> Node<HTML.HeadContext> {
         if let ogImg {
             var ogImgStr = ogImg
-            if ogImg.prefix(4) != "http" {
+            if ogImg.prefix(4) != "http" && ogImg.prefix(5) != "/img/" {
                 ogImgStr = context.site.url.absoluteString + "/img/" + ogImg
             }
             return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: ogImgStr))
