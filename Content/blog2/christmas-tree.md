@@ -22,3 +22,5 @@ Put another way, I almost started to cry over something that might theoretically
 <a class="lightview centered" href="/img/gal/180%20-%20December%202023/resIMG_20231202_112936_IMG_1043.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/180%20-%20December%202023/resIMG_20231202_112936_IMG_1043.jpg" alt="/img/gal/180%20-%20December%202023/resIMG_20231202_112936_IMG_1043.jpg" width="650px"><br><span class="caption"></span></a>
 
 <a class="lightview centered" href="/img/gal/180%20-%20December%202023/resIMG_20231202_114752_IMG_1047.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/180%20-%20December%202023/resIMG_20231202_114752_IMG_1047.jpg" alt="/img/gal/180%20-%20December%202023/resIMG_20231202_114752_IMG_1047.jpg" width="650px"><br><span class="caption"></span></a>
+
+<p><a href="/gal/180%20-%20December%202023/">Here are a bunch more photos</a> from our December.</p>
