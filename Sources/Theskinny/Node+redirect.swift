@@ -15,3 +15,5 @@ extension Node where Context == HTML.BodyContext {
         .script(.text("window.location.href = \"\(path)\""))
     }
 }
+
+

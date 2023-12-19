@@ -45,29 +45,13 @@ extension TsobHTMLFactory {
             throw TsobHTMLFactoryError.currentPostNotFoundInContext
         }
         var htmlHeadInfo = HeaderInfo(location: item, title: item.title + " -- on theskinnyonbenny.com")
-        htmlHeadInfo.additionalNodes.append(ogImgNode(item.metadata.ogImg, context: context, item: item))
+        htmlHeadInfo.additionalNodes.append(Node.ogImgNode(item.metadata.ogImg, context: context))
         let pageMain = AnyPageMain(mainContent: post, site: context.site)
         return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain)
            )
         )
-    }
-    
-    fileprivate func ogImgNode(_ ogImg: String?, context: PublishingContext<Theskinny>, item: Item<Theskinny>) -> Node<HTML.HeadContext> {
-        if let ogImg {
-            var ogImgStr = ogImg
-            if ogImg.prefix(4) != "http" && ogImg.prefix(5) != "/img/" {
-                ogImgStr = context.site.url.absoluteString + "/img/" + ogImg
-            }
-            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: ogImgStr))
-        }
-        // TODO:  return first image in body if none specified in metadata
-        
-        //let str = item.content.body.html
-        //if let startIdx = str.index(of: "/img/")
-        
-        return .empty
     }
  
     fileprivate func makeVidHTML(for item: Item<Theskinny>, context: PublishingContext<Theskinny>) -> HTML {

@@ -11,6 +11,9 @@ import Publish
 
 extension TsobHTMLFactory {
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
+        if page.path.string.prefix(5) == "/gal/" {
+            return makePageImgGal(for: page, context: context)
+        }
         return {
             switch page.path {
             case "blog/blogArchiveByDate":
@@ -28,6 +31,19 @@ extension TsobHTMLFactory {
             }
         }()
 
+    }
+    
+    fileprivate func makePageImgGal(for page: Page, context: PublishingContext<Theskinny>) -> HTML {
+        let pageTitle = "Photo Gallery on theskinnyonbenny.com"
+        var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        let imagePath = "/img\(page.path.string)/data/normal.jpg"
+        htmlHeadInfo.additionalNodes.append(Node.ogImgNode(imagePath, context: context))
+        let pageContent = Article { page.body }
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
     }
     
     fileprivate func makePageHTMLDefault(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {

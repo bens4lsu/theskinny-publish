@@ -130,6 +130,7 @@ extension PublishingStep where Site == Theskinny {
             for gallery in Galleries.imageGalleries {
                 var page = Page (path: Path(gallery.path), content: Content())
                 let html = HTML(.component(gallery))
+                page.content.imagePath = Path(gallery.normalImagePath)
                 page.content.body.html = html.render()
                 context.addPage(page)
             }
