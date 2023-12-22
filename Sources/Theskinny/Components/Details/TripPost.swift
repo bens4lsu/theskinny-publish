@@ -66,7 +66,7 @@ struct TripPost: Component {
         case .blogPost(let blogPost):
             "/big-trip/\(blogPost.slug)"
         case .video(let video):
-            video.autoSlug
+            "/video/\(video.autoSlug)"
         }
     }
     
