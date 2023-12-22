@@ -18,7 +18,12 @@ extension Node where Context == HTML.BodyContext {
             if ogImg.prefix(4) != "http" && ogImg.prefix(5) != "/img/" {
                 ogImgStr = context.site.url.absoluteString + "/img/" + ogImg
             }
-            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: ogImgStr))
+            else if ogImg.prefix(5) == "/img/"{
+                ogImgStr = context.site.url.absoluteString + ogImg
+            }
+            
+            let encoded = ogImgStr.addingPercentEncoding(withAllowedCharacters: .whitespacesAndNewlines.inverted)
+            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: encoded))
         }
         // TODO:  return first image in body if none specified in metadata
         
