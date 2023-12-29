@@ -46,6 +46,7 @@ extension TsobHTMLFactory {
         }
         var htmlHeadInfo = HeaderInfo(location: item, title: item.title + " -- on theskinnyonbenny.com")
         htmlHeadInfo.additionalNodes.append(Node.ogImgNode(item.metadata.ogImg, context: context))
+        htmlHeadInfo.additionalNodes.append(Node.ogTypeNodeArticle())
         let pageMain = AnyPageMain(mainContent: post, site: context.site)
         return HTML(
             htmlHeadInfo.node,
