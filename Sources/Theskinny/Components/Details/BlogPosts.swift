@@ -78,16 +78,29 @@ struct BlogPosts: Component {
     }
     
     func post(withId id: Int) -> BlogPost? {
+        postWithID(id, andRoot: .blog2)
+    }
+    
+    func postInBigTrip(withId id: Int) -> BlogPost? {
+        postWithID(id, andRoot: .bigtriip)
+    }
+    
+    private func postWithID(_ id: Int, andRoot rootStr: BlogRoot) -> BlogPost? {
         guard let i = items.firstIndex(where: { $0.id == id }) else {
             return nil
         }
         var post = items[i]
         if i != 0 {
-            post.linkToPrev = LinkInfo(text: items[i-1].title, url: "/blog2/\(items[i-1].slug)")
+            post.linkToPrev = LinkInfo(text: items[i-1].title, url: "\(rootStr.rawValue)\(items[i-1].slug)")
         }
         if i < count - 1 {
-            post.linkToNext = LinkInfo(text: items[i+1].title, url: "/blog2/\(items[i+1].slug)")
+            post.linkToNext = LinkInfo(text: items[i+1].title, url: "\(rootStr.rawValue)\(items[i+1].slug)")
         }
         return post
     }
+}
+
+enum BlogRoot: String {
+    case blog2 = "/blog2/"
+    case bigtriip = "/big-trip/"
 }

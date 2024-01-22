@@ -15,6 +15,14 @@ struct TripPosts: Component {
     
     init(items: [TripPost]) {
         let sortedItems = items.sorted(by: < )
+//        for i in 0..<sortedItems.count {
+//            if i < sortedItems.count - 1 {
+//                sortedItems[i + 1].prevPage = LinkInfo(sortedItems[i].title, sortedItems[i].linkToFull)
+//            }
+//            if i > 0 {
+//                sortedItems[i - 1].nextPage = LinkInfo(sortedItems[i].title, sortedItems[i].linkToFull)
+//            }
+//        }
         self.items = sortedItems
     }
     

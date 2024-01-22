@@ -17,9 +17,9 @@ struct TripPost: Component {
     }
     
     private let _postType: PostType
-    let backToPage: Page = Page(path: "/big-trip", content: Content())
-    let nextPage: Page? = nil
-    let prevPage: Page? = nil
+//    let backToPage = LinkInfo("Big Trip Index", "/big-trip")
+//    var nextPage: LinkInfo? = nil
+//    var prevPage: LinkInfo? = nil
     
     init(_ postType: PostType) {
         self._postType = postType
@@ -60,7 +60,7 @@ struct TripPost: Component {
     }
     
     
-    private var linkToFull: String {
+    var linkToFull: String {
         // used by the link on the home page
         switch _postType {
         case .blogPost(let blogPost):
@@ -70,7 +70,7 @@ struct TripPost: Component {
         }
     }
     
-    private var title: String {
+    var title: String {
         // used by the link on the home page
         switch _postType {
         case .blogPost(let blogPost):
@@ -104,9 +104,7 @@ struct TripPost: Component {
         }
     }
     
-
-    
-    var body: Plot.Component {
+    var body: Component {
         switch _postType {
         case .blogPost(var blogPost):
             blogPost.injectedComponent = TripMirror(mirrorUrl)
@@ -115,6 +113,14 @@ struct TripPost: Component {
             return video.allByMyself(backToPage: nil, injectedComponent: TripMirror(mirrorUrl))
         }
     }
+    
+//    var body: Plot.Component {
+//        ComponentGroup {
+//            TopNavLinks(prevPage, backToPage, nextPage)
+//            bodyContent
+//        }
+//    }
+    
 }
 
 extension TripPost: Comparable {
