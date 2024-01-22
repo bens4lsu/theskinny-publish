@@ -82,7 +82,7 @@ struct BlogPosts: Component {
     }
     
     func postInBigTrip(withId id: Int) -> BlogPost? {
-        postWithID(id, andRoot: .bigtriip)
+        postWithID(id, andRoot: .bigtrip)
     }
     
     private func postWithID(_ id: Int, andRoot rootStr: BlogRoot) -> BlogPost? {
@@ -96,11 +96,9 @@ struct BlogPosts: Component {
         if i < count - 1 {
             post.linkToNext = LinkInfo(text: items[i+1].title, url: "\(rootStr.rawValue)\(items[i+1].slug)")
         }
+        post.midLink = LinkInfo(text: "Index", url: rootStr.index)
         return post
     }
 }
 
-enum BlogRoot: String {
-    case blog2 = "/blog2/"
-    case bigtriip = "/big-trip/"
-}
+

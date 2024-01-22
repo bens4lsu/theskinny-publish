@@ -19,6 +19,7 @@ struct BlogPost: Component {
     let description: String
     var linkToPrev: LinkInfo?
     var linkToNext: LinkInfo?
+    var midLink: LinkInfo?
     let tags: [Tag]
     var injectedComponent: Component = EmptyComponent()
     let ogImg: String?
@@ -55,7 +56,7 @@ struct BlogPost: Component {
 
     var body: Component {
         return Article {
-            TopNavLinks(leftLinkInfo: linkToPrev, rightLinkInfo: linkToNext)
+            TopNavLinks(linkToPrev, midLink, linkToNext)
             H1(title)
             H3(dateString)
             Div(content.body)
