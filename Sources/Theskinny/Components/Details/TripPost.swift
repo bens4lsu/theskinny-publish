@@ -14,6 +14,7 @@ struct TripPost: Component {
     enum PostType {
         case blogPost(BlogPost)
         case video(Video)
+        case pg(Gallery)
     }
     
     private let _postType: PostType
@@ -31,6 +32,8 @@ struct TripPost: Component {
             blogPost.date
         case .video(let video):
             video.dateRecorded ?? Date(timeIntervalSince1970: 0)
+        case .pg(let gallery):
+            gallery.date ?? EnvironmentKey.yyyyMMddDateFormatter.date(from: "2000-01-01")!
         }
     }
     
@@ -44,7 +47,10 @@ struct TripPost: Component {
             return "https://bigtrip.sailvelvetelvis.com/posts/" + blogPost.slug
         case .video(let video):
             return "https://bigtrip.sailvelvetelvis.com/video/" + video.autoSlug
+        case .pg(_):
+            return ""
         }
+        
     }
     
     private var img: String {
@@ -56,6 +62,8 @@ struct TripPost: Component {
             return "/img/bigtrip/" + blogPost.ogImg!
         case .video(let video):
             return "/img/video-thumbnails/" + video.tn
+        case .pg(let gallery):
+            return gallery.normalImagePath
         }
     }
     
@@ -67,6 +75,8 @@ struct TripPost: Component {
             "/big-trip/\(blogPost.slug)"
         case .video(let video):
             "/video/\(video.autoSlug)"
+        case .pg(let gallery):
+            gallery.path
         }
     }
     
@@ -77,6 +87,8 @@ struct TripPost: Component {
             blogPost.title
         case .video(let video):
             "Video: " + video.name
+        case .pg(let gallery):
+            "Photo Gallery " + gallery.name
         }
     }
     
@@ -101,6 +113,9 @@ struct TripPost: Component {
         case .video(var video):
             video.title = "Video: " + video.name
             return video
+        case .pg(var gallery):
+            gallery.name = "Photo Gallery: " + gallery.name
+            return gallery.postShortBox
         }
     }
     
@@ -111,6 +126,8 @@ struct TripPost: Component {
             return blogPost
         case .video(let video):
             return video.allByMyself(backToPage: nil, injectedComponent: TripMirror(mirrorUrl))
+        case .pg(_):
+            return EmptyComponent()
         }
     }
     

@@ -9,6 +9,7 @@ import Foundation
 import Publish
 import Files
 import Yams
+import Plot
 
 extension PublishingContext where Site == Theskinny {
     
@@ -116,6 +117,14 @@ extension PublishingContext where Site == Theskinny {
         return BlogPosts(items: posts)
     }
     
+    var bigTripPGs: [Gallery] {
+        let pgSet = [
+            try? Gallery(181, dateString: "2024-01-29"),
+        
+        ].compactMap{ $0 }
+        return pgSet
+    }
+    
     var bigtripAll: TripPosts {
         let typeErasedBlogPosts = self.bigtripPosts.items.map {
             TripPost(.blogPost($0))
@@ -123,7 +132,10 @@ extension PublishingContext where Site == Theskinny {
         let typeErasedVideos = self.bigtripVideos.map {
             TripPost(.video($0))
         }
-        return TripPosts(items: typeErasedBlogPosts + typeErasedVideos)
+        let typeErasedGalleries = self.bigTripPGs.map {
+            TripPost(.pg($0))
+        }
+        return TripPosts(items: typeErasedBlogPosts + typeErasedVideos + typeErasedGalleries)
     }
     
     var microPosts: [MicroPost] {

@@ -12,13 +12,6 @@ import Ink
 import Files
 
 
-enum GalleryLoadError: Error {
-    case noSpaceInDirectoryName
-    case nonIntegerFirstPartOfDirectoryName
-    case errorReadingCaptionFile
-    case attemptToLoadGalleryWithInvalidID
-}
-
 struct Galleries: Component {
     
     var list: [Gallery]
@@ -145,94 +138,6 @@ extension Galleries {
 }
 
 
-struct Gallery: Component {
-    var id: Int
-    var name: String
-    var path: String
-    var filePath: String
-    var imgRootPath: String
-    var html: String?
-    var normalImagePath: String
-    var redImagePath: String
-    var images = [GalleryImage]()
-    
-    fileprivate init (id: Int, name: String, path: String, filePath: String, imgRootPath: String, html: String?, normalImagePath: String, redImagePath: String, images: [GalleryImage]) {
-        self.id = id
-        self.name = name
-        self.path = path
-        self.filePath = filePath
-        self.imgRootPath = imgRootPath
-        self.html = html
-        self.normalImagePath = normalImagePath
-        self.redImagePath = redImagePath
-        self.images = images
-    }
 
-    init(_ id: Int) throws {
-        let galleryLoad = Galleries.imageGalleries.filter{ $0.id == id }.first
-        guard let gallery = galleryLoad else {
-            throw GalleryLoadError.attemptToLoadGalleryWithInvalidID
-        }
-        self = gallery
-    }
-    
-    var redImageScript: Script {
-        Script("""
-            img\(id)Normal = new Image;
-            img\(id)Red = new Image;
-            img\(id)Normal.src = "\(normalImagePath)";
-            img\(id)Red.src = "\(redImagePath)";
-        """)
-    }
-    
-    var body: Component {
-        Div {
-            TopNavLinks(LinkInfo("Back to List of Galleries", "/pgHome")
-                        , nil
-                        , nil)
-            Div ("Picture Navigation: Click any thumbnail to open the full size image and caption.  When the full image appears, you can scroll to the next using left and right buttons to the corresponding side of the picture.  Your keyboard's arrow keys should also work, as will the scroll wheel on most computers.").class("pg-instruction-box caption")
-            Markdown(html ?? "")
-            Div {
-                List(images) { image in
-                    image.body(galRoot: imgRootPath)
-                }.listStyle(.listAsDivs)
-            }.class("pg-thb-grid")
-        }
-    }
-    
-    var cell: Component {
-        Div {
-            Link(url: path){
-                Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-image-link")
-            }.attribute(named: "onmouseover", value: "chgImg ('i\(id)','img\(id)Red')")
-                .attribute(named: "onmouseout", value: "chgImg ('i\(id)','img\(id)Normal')")
-            Paragraph(name).class("caption")
-        }
-    }
-    
-    
-}
-
-
-struct GalleryImage: Component {
-    var lineNum: Int
-    var imagePath: String
-    var thumbnailpath: String
-    var caption: String
-    
-    var body: Component { EmptyComponent() }
-    
-    var escapedCaption: String {
-        Markdown(caption).render().replacingOccurrences(of: "\"", with: "&quot;")
-    }
-    
-    func body(galRoot: String) -> Component {
-        Link(url: galRoot + imagePath){
-            Image(url: galRoot + thumbnailpath, description: imagePath)
-        }.class("lightview")
-            .attribute(named: "data-lightview-caption", value: escapedCaption)
-            .attribute(named: "data-lightview-group", value: "group1")
-    }
-}
 
 

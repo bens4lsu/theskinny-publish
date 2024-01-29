@@ -1,7 +1,7 @@
 ---
 title: Back to Boat Life
 date: 2024-01-19 12:11
-description: We've moved aboard Pegasus #6, the Hagagussa.
+description: We've moved aboard Pegasus #6, Hagazussa.
 tags: 
 id: 20240119
 ogImg: IMG_20240119_100038_IMG_1314.jpg
