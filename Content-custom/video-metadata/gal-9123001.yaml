@@ -31,6 +31,15 @@ videos:
         caption: 
         url: https://youtu.be/VcttrG_l2S4
         embed: <iframe width="941" height="529" src="https://www.youtube.com/embed/VcttrG_l2S4" title="Christening the third Velvet Elvis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        tn: mq20240131a.jpg     
+        tn: mq20240131a.jpg   
         duration: 0:50
         attribution: 
+    -
+        id: 912345005
+        dateRecorded: 2024-01-30
+        name: Velvet Elvis Full Launch Video (Includes Christening)
+        caption: 
+        url: https://youtu.be/rx0_WgrXmis
+        embed: <iframe width="941" height="529" src="https://www.youtube.com/embed/rx0_WgrXmis" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240203.jpg
+        duration: 7:24

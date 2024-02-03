@@ -114,7 +114,10 @@ struct Video: Component, Decodable {
 
 extension Video: Comparable {
     static func < (lhs: Video, rhs: Video) -> Bool {
-        if lhs.dateRecorded != nil && rhs.dateRecorded != nil {
+        if lhs.dateRecorded != nil
+            && rhs.dateRecorded != nil
+            && !(lhs.dateRecorded == rhs.dateRecorded)
+        {
             return lhs.dateRecorded! < rhs.dateRecorded!
         }
         return lhs.id < rhs.id
