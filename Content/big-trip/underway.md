@@ -4,7 +4,7 @@ date: 2024-02-06 14:31
 description: We shove off and set sail for home.
 tags: 
 id: 20240206
-ogImg: MG_1521.jpeg
+ogImg: IMG_1521.jpeg
 ---
 On Saturday morning, we finished buttoning up the boat, motored to the Izola fuel dock, and then motored over to the nearby town of Portrose to officially export the boat from Slovenia.  From there, we hugged our boat builders goodbye and headed out to sea.
 
