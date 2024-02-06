@@ -5,14 +5,15 @@ import Files
 
 
 
-//
-//
-//shell ("rm Resources/img")
+fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 
 
 
 do {
-    try hideResourceImages()
+    shell("chflags -R uchg \(mediaPath)")
+    
+    
+    //try hideResourceImages()
     
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
         .writePostPages(),
@@ -21,45 +22,44 @@ do {
         .imageGalleries()
     ])
     
-    try restoreSymlinks()
+   // try restoreSymlinks()
     
     
 } catch (let e) {
     print ("Error thrown during site generation:  \(e)")
 }
 
-fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
-
-fileprivate func hideResourceImages() throws {
-    let root = try Folder(path: ".")
-    shell ("rm -r tmp")
-    shell ("rm Output/img && rm Output/sound")
-    let tmpFolder = try root.createSubfolderIfNeeded(at: "tmp")
-    let galleryFolder = try Folder(path: "\(mediaPath)/img/gal")
-    for f in galleryFolder.subfolders {
-        let tmpGalFolder = try tmpFolder.createSubfolder(at: f.name)
-        let file = try File(path: "\(f.path)pic-desc.txt")
-        try file.copy(to: tmpGalFolder)
-        let file2  = try File(path: "\(f.path)gal-desc.txt")
-        try file2.copy(to: tmpGalFolder)
-    }
-    shell ("rm Resources/img")
-    shell ("rm Resources/sound")
-    shell ("mkdir Resources/img")
-    shell ("mkdir Resources/img/gal")
-    shell ("mv tmp/* Resources/img/gal")
-}
-
-fileprivate func restoreSymlinks() throws {
-    shell ("rm -r Resources/img")
-    shell ("rm -r Output/img")
-    shell ("cd Resources && ln -s \(mediaPath)/img img")
-    shell ("cd Output && ln -s \(mediaPath)/img img")
-    shell ("cd Resources && ln -s \(mediaPath)/sound sound")
-    shell ("cd Output && ln -s \(mediaPath)/sound sound")
-}
-
-
+//
+//fileprivate func hideResourceImages() throws {
+//    let root = try Folder(path: ".")
+//    shell ("rm -r tmp")
+//    shell ("rm Output/img && rm Output/sound")
+//    let tmpFolder = try root.createSubfolderIfNeeded(at: "tmp")
+//    let galleryFolder = try Folder(path: "\(mediaPath)/img/gal")
+//    for f in galleryFolder.subfolders {
+//        let tmpGalFolder = try tmpFolder.createSubfolder(at: f.name)
+//        let file = try File(path: "\(f.path)pic-desc.txt")
+//        try file.copy(to: tmpGalFolder)
+//        let file2  = try File(path: "\(f.path)gal-desc.txt")
+//        try file2.copy(to: tmpGalFolder)
+//    }
+//    shell ("rm Resources/img")
+//    shell ("rm Resources/sound")
+//    shell ("mkdir Resources/img")
+//    shell ("mkdir Resources/img/gal")
+//    shell ("mv tmp/* Resources/img/gal")
+//}
+//
+//fileprivate func restoreSymlinks() throws {
+//    shell ("rm -r Resources/img")
+//    shell ("rm -r Output/img")
+//    shell ("cd Resources && ln -s \(mediaPath)/img img")
+//    shell ("cd Output && ln -s \(mediaPath)/img img")
+//    shell ("cd Resources && ln -s \(mediaPath)/sound sound")
+//    shell ("cd Output && ln -s \(mediaPath)/sound sound")
+//}
+//
+//
 fileprivate func shell(_ command: String) {
     let task = Process()
     let pipe = Pipe()

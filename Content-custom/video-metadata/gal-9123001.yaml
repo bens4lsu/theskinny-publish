@@ -41,5 +41,14 @@ videos:
         caption: 
         url: https://youtu.be/rx0_WgrXmis
         embed: <iframe width="941" height="529" src="https://www.youtube.com/embed/rx0_WgrXmis" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        tn: mq20240203.jpg
+        tn: mq20240206.jpg
         duration: 7:24
+    -
+        id: 912345005
+        dateRecorded: 2024-02-04
+        name: Sunset on the Adriatic
+        caption: The still photos didn't capture how the light played on the water, so I needed to add this 17-second video.
+        url: https://youtu.be/dk1t0alPA_s
+        embed: <iframe width="1048" height="590" src="https://www.youtube.com/embed/dk1t0alPA_s" title="Sunset Over the Adriatic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240206b.jpg
+        duration: 0:17
