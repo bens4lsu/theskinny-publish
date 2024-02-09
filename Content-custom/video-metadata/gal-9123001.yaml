@@ -52,3 +52,13 @@ videos:
         embed: <iframe width="1048" height="590" src="https://www.youtube.com/embed/dk1t0alPA_s" title="Sunset Over the Adriatic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20240206b.jpg
         duration: 0:17
+        
+    -
+        id: 912345006
+        dateRecorded: 2024-02-09
+        name: Route from Izola, Slovenia to Riposto, Sicily
+        caption: Ko narrates the map summary of our first passge.
+        url: https://youtu.be/P3p8ImzIwfE
+        embed: <iframe width="1048" height="590" src="https://www.youtube.com/embed/P3p8ImzIwfE" title="Route from Izola, Slovenia to Riposto, Sicily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240206b.jpg
+        duration: 0:55
