@@ -4,7 +4,7 @@ slug: velvet-elvis-2024-big-trip
 name: >
     Velvet Elvis 2024 Big Trip, Series 1
 caption:
-tn: mq20231028b.jpg
+tn: mq20240206b.jpg
 linkBack:
     text: Velvet Elvis 2024 Big Trip
     url:  /vid/velvet-elvis-2024-big-trip/
@@ -60,5 +60,14 @@ videos:
         caption: Ko narrates the map summary of our first passge.
         url: https://youtu.be/P3p8ImzIwfE
         embed: <iframe width="1048" height="590" src="https://www.youtube.com/embed/P3p8ImzIwfE" title="Route from Izola, Slovenia to Riposto, Sicily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        tn: mq20240206b.jpg
+        tn: mq3iz.jpg
         duration: 0:55
+    -
+        id: 912345007
+        dateRecorded: 2024-02-15
+        name: Night Watch - February 14/15
+        caption: We still have a lot to learn about the right sail plan for any given conditions, but on the morning of February 14, we nailed it and had some beautiful sailing.  Forgive the terrible audio during the intro.  Too much motor noise during the night watch.
+        url: https://youtu.be/a51jMqZzLU8
+        embed: <iframe width="1211" height="681" src="https://www.youtube.com/embed/a51jMqZzLU8" title="Night Watch   February 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240215.jpg
+        duration: 1:29
