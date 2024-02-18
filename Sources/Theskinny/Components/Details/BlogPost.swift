@@ -22,7 +22,7 @@ struct BlogPost: Component {
     var midLink: LinkInfo?
     let tags: [Tag]
     var injectedComponent: Component = EmptyComponent()
-    let ogImg: String?
+    var ogImg: String?
     
     private var _linkOverride: String?
     

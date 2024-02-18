@@ -4,7 +4,7 @@ date: 2023-12-07 14:36
 description: Not really to much writing to do here, but we do have a lot more pictures from the good people at Pegasus.
 tags: 
 id: 20231207
-ogImg: IMG_2775 Large.jpeg
+ogImg: /img/bigtrip/IMG_2775 Large.jpeg
 ---
 
 

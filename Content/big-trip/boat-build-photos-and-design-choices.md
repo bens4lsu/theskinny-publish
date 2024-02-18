@@ -4,7 +4,7 @@ date: 2023-11-29 08:04
 description: When getting updates about a boat build happening on another continent, there are a lot of back and forth calls, emails, and pictures.  This post shares a lot of those pictures.
 tags: 
 id: 20231129
-ogImg: color-render-1.jpg
+ogImg: /img/bigtrip/color-render-1.jpg
 ---
 
 

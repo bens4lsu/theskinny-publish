@@ -4,7 +4,7 @@ date: 2024-01-19 12:11
 description: We've moved aboard Pegasus #6, Hagazussa.
 tags: 
 id: 20240119
-ogImg: IMG_20240119_100038_IMG_1314.jpg
+ogImg: /img/bigtrip/IMG_20240119_100038_IMG_1314.jpg
 ---
 When we bought the Beneteau, it was definitely the right boat for us.  We had chartered similar boats, and we were excited to do some coastal cruising on our own schedule.  As we grew our confidence, we started overnight passages and then venturing farther and farther offshore.  And we might have sailed it a bit harder than she was meant to be sailed.  Not in a dangerous way, but in the way of robustness.
 

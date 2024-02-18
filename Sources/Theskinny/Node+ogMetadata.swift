@@ -33,4 +33,5 @@ extension Node where Context == HTML.BodyContext {
     static func ogTypeNodeArticle() -> Node<HTML.HeadContext> {
         .meta(Attribute(name: "property", value: "og:type"), Attribute(name: "content", value: "article"))
     }
+
 }

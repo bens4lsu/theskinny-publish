@@ -4,7 +4,7 @@ date: 2024-02-02 10:28
 description: Just a flurry of activity since we put the boat in the water.
 tags: 
 id: 20240202
-ogImg: IMG_20240119_100038_IMG_1314.jpg
+ogImg: /img/bigtrip/IMG_20240119_100038_IMG_1314.jpg
 ---
 Just a flurry of activity since we put the boat in the water.
 

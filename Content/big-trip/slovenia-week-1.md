@@ -4,7 +4,7 @@ date: 2024-01-16 21:25
 description: Some boat learning, some waiting around, and our first delay of the trip.
 tags: 
 id: 20240116
-ogImg: slovenia-01-04.jpg
+ogImg: /img/bigtrip/slovenia-01-04.jpg
 ---
 
 It feels like longer, but we arrived in Slovenia just over a week ago.  

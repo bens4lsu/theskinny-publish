@@ -56,10 +56,7 @@ struct TripPost: Component {
     private var img: String {
         switch _postType {
         case .blogPost(let blogPost):
-            if blogPost.ogImg == nil {
-                return EnvironmentKey.emptyImg
-            }
-            return "/img/bigtrip/" + blogPost.ogImg!
+            return blogPost.ogImg ?? EnvironmentKey.emptyImg
         case .video(let video):
             return "/img/video-thumbnails/" + video.tn
         case .pg(let gallery):
