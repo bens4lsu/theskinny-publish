@@ -4,7 +4,7 @@ date: 2024-02-18 03:34
 description: Sicily was all you've heard:  very pretty with very good food.  The marina in Riposto is right by where the the catch comes in every morning, and so just a block down and to the right is market after market of fresh fish right off the boat.  We ate tuna and swordfish pretty much every day.
 tags: 
 id: 20240218
-ogImg: /img/bigtrip/resIMG_1562.jpeg
+ogImg: resIMG_1562.jpeg
 ---
 
 Sicily was all you've heard:  very pretty with very good food.  The marina in Riposto is right by where the the catch comes in every morning, and so just a block down and to the right is market after market of fresh fish right off the boat.  We ate tuna and swordfish pretty much every day.
