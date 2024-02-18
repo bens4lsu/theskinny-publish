@@ -129,7 +129,9 @@ extension TsobHTMLFactory {
             throw TsobHTMLFactoryError.currentPostMissingIDInMetadata
         }
         let pageTitle = item.title + " -- on theskinnyonbenny.com"
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        htmlHeadInfo.additionalNodes.append(Node.ogImgNode(item.metadata.ogImg, context: context))
+        htmlHeadInfo.additionalNodes.append(Node.ogTypeNodeArticle())
         let pageContent = TripPost(.blogPost(tripPost))
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         return HTML(
