@@ -30,6 +30,7 @@ extension StringProtocol {
     }
 }
 
+
 internal extension String {
     func normalized() -> String {
         String(lowercased().compactMap { character in

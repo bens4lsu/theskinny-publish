@@ -21,7 +21,7 @@ struct Theskinny: Website {
         case vid
         case bigtrip = "big-trip"
     }
-
+    
     struct ItemMetadata: WebsiteItemMetadata {
         var id: Int?
         var description: String?
@@ -29,11 +29,32 @@ struct Theskinny: Website {
         var videoAlbums: [Int]?
         var ogImg: String?
     }
-
-    var url = URL(string: "https://theskinnyonbenny.com")!
+    
+    
+    var url: URL { URL(string: Self.urlString)! }
     var name = "theskinnyonbenny.com"
     var description = "Personal Website, Ben Schultz, Baton Rouge"
     var language: Language { .english }
     var imagePath: Path? { "img" }
+    
+    
+    
+    static var urlString = "https://theskinnyonbenny.com"
+    
+    static func imagePathFromMetadata(for ogImg: String?) -> String? {
+        guard var ogImgStr = ogImg else {
+            return nil
+        }
+        
+        if ogImgStr.prefix(4) != "http" && ogImgStr.prefix(5) != "/img/" {
+            ogImgStr = Theskinny.urlString + "/img/" + ogImgStr
+        }
+        else if ogImgStr.first == "/" {
+            ogImgStr = Theskinny.urlString + ogImgStr
+        }
+        
+        let encoded = ogImgStr.addingPercentEncoding(withAllowedCharacters: .whitespacesAndNewlines.inverted)
+        return encoded
+    }
     
 }

@@ -14,16 +14,8 @@ extension Node where Context == HTML.BodyContext {
 
     static func ogImgNode(_ ogImg: String?, context: PublishingContext<Theskinny>) -> Node<HTML.HeadContext> {
         if let ogImg {
-            var ogImgStr = ogImg
-            if ogImg.prefix(4) != "http" && ogImg.prefix(5) != "/img/" {
-                ogImgStr = context.site.url.absoluteString + "/img/" + ogImg
-            }
-            else if ogImg.prefix(5) == "/img/"{
-                ogImgStr = context.site.url.absoluteString + ogImg
-            }
-            
-            let encoded = ogImgStr.addingPercentEncoding(withAllowedCharacters: .whitespacesAndNewlines.inverted)
-            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: encoded))
+            var ogImgStr = Theskinny.imagePathFromMetadata(for: ogImg)
+            return .meta(Attribute(name: "property", value: "og:image"), Attribute(name: "content", value: ogImgStr))
         }
         // TODO:  return first image in body if none specified in metadata
         

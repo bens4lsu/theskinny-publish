@@ -65,7 +65,7 @@ struct BlogPost: Component {
     }
     
     var imgForShortBox: Component {
-        if let ogImg = self.ogImg {
+        if let ogImg = Theskinny.imagePathFromMetadata(for: self.ogImg) {
             return Div {
                 Link(url: linkToFull) {
                     Image(ogImg)
