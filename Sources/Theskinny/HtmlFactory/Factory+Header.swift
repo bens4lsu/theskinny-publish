@@ -69,10 +69,10 @@ extension TsobHTMLFactory {
 //                    let url = site.url(for: path)
 //                    return .socialImageLink(url)
 //                }),
-                additionalNodeGa(),
                 .forEach(additionalNodes, { addNode in
                     addNode
-                })
+                }),
+                additionalNodeGa()
             )
         }
     }
