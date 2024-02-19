@@ -265,6 +265,32 @@ ol.quotefile li {
     border: 2px solid #000;
 }
 
+.divPostFlexbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divPostStuff {
+    flex: 5 0 auto;
+    flex-wrap: wrap;
+    width: 60%;
+}
+
+.divPostThumbnail {
+    flex: 2 2 auto;
+}
+
+.divPostThumbnail img {
+    max-width: 320px;
+    max-height: 240px;
+}
+
+.divPostEndLink {
+    display: block;
+    width: 100%;
+    paddint-top: 8px;
+}
+
 .divPostShort h1 {
     margin-bottom: 0;
 }

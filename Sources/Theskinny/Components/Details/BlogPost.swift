@@ -64,14 +64,30 @@ struct BlogPost: Component {
         }
     }
     
+    var imgForShortBox: Component {
+        if let ogImg = self.ogImg {
+            return Div {
+                Link(url: linkToFull) {
+                    Image(ogImg)
+                }
+            }.class("divPostThumbnail")
+        }
+        return EmptyComponent()
+    }
+    
     var postShortBox: Component {
         Div {
-            H2{
-                Link(title, url: linkToFull)
-            }
-            H3(dateString)
-            Div(description)
-            TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: linkToFull))
+            Div {
+                Div {
+                    H2{
+                        Link(title, url: linkToFull)
+                    }
+                    H3(dateString)
+                    Div(description)
+                }.class("divPostStuff")
+                imgForShortBox
+            }.class("divPostFlexbox")
+            TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: linkToFull)).class("divPostEndLink")
         }.class("divPostShort")
     }
 }
