@@ -85,7 +85,7 @@ struct TripPost: Component {
         case .video(let video):
             "Video: " + video.name
         case .pg(let gallery):
-            "Photo Gallery " + gallery.name
+            "Photo Gallery: " + gallery.name
         }
     }
     

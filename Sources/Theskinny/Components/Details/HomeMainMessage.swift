@@ -31,15 +31,15 @@ struct HomeMainMessage: Component {
 //        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
 //        let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
 //        
-        return ComponentGroup {
-            H2("New Photo Gallery Posted...")
-            ImageGalleryLinkSet(181)
-            //H2("And Also A Couple Of Quick Videos To Watch...")
-            //VideoGalleryLinkSet(links: [vgLink1, vgLink2])
-        }
-        
+//        return ComponentGroup {
+//            H2("New Photo Gallery Posted...")
+//            ImageGalleryLinkSet(181)
+//            //H2("And Also A Couple Of Quick Videos To Watch...")
+//            //VideoGalleryLinkSet(links: [vgLink1, vgLink2])
+//        }
+//        
 
-//  EmptyComponent()
+        EmptyComponent()
     }
     
     init(_ context: PublishingContext<Theskinny>) {
