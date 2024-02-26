@@ -165,13 +165,15 @@ struct Menu: Component {
         //var name: String
         
         func component(@ComponentBuilder inside: @escaping ()-> Component) -> Component {
-            ListItem {
-                List {
+            List {
+                ListItem {
                     Link(url: "javascript:void(0);") {
                         Text(text)
                         Span(" ▶︎").class("span-collapser").id("span-collapser-\(elementId)")
-                        inside()
                     }
+                    List {
+                        inside()
+                    }.class("ul-collapser-hidden")
                 }.class("menu-collapser")
             }
         }

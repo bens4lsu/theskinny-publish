@@ -10,9 +10,9 @@ $.fn.extend({
 });
 
 $(document).ready(function() {
-    $(".menu-collapser li:first-child a").click(function() {
-        var collapser = $(this).parent().parent();
-        collapser.children(".li-pagelink").toggleVisibility();
+    $("li.menu-collapser:first-child a").click(function() {
+        var collapser = $(this).parent();
+        collapser.children("ul").toggleVisibility();
         if (collapser.children(".li-pagelink:visible").length > 0) {
             $(this).children(".span-collapser").text(" ▼︎");
             $(this).css("text-decoration", "underline");
@@ -38,3 +38,4 @@ if(typeof window.addEventListener != 'undefined'){
 } else if(typeof window.attachEvent != 'undefined') {
     window.attachEvent('onmessage', receiveMessage);
 }
+    

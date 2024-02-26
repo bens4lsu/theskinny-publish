@@ -48,7 +48,7 @@ struct TripPosts: Component {
                     H4 { Link("Real Time Map", url: "/velvet-elvis/real-time-tracking") }
                 }.class("grid-span-2")
                 Div {
-                    IFrame(url: EnvironmentKey.predictWindSrc, addBorder: true, allowFullScreen: true, enabledFeatureNames: [])
+                    IFrame(url: EnvironmentKey.predictWindSrc, addBorder: false, allowFullScreen: true, enabledFeatureNames: [])
                 }.class("grid-span-2 padtop")
             }.class("divH4Sub")
         }.class("divPostShort")

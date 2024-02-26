@@ -60,7 +60,7 @@ struct TripPost: Component {
         case .video(let video):
             return "/img/video-thumbnails/" + video.tn
         case .pg(let gallery):
-            return gallery.normalImagePath
+            return gallery.urlEncodedNormalPath
         }
     }
     
@@ -73,7 +73,7 @@ struct TripPost: Component {
         case .video(let video):
             "/video/\(video.autoSlug)"
         case .pg(let gallery):
-            gallery.path
+            gallery.urlEncodedPath
         }
     }
     

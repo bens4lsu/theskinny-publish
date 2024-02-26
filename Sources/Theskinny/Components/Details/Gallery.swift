@@ -59,9 +59,21 @@ struct Gallery: Component {
         Script("""
             img\(id)Normal = new Image;
             img\(id)Red = new Image;
-            img\(id)Normal.src = "\(normalImagePath)";
-            img\(id)Red.src = "\(redImagePath)";
+            img\(id)Normal.src = "\(urlEncodedNormalPath)";
+            img\(id)Red.src = "\(urlEncodedRedPath)";
         """)
+    }
+    
+    var urlEncodedPath: String {
+        path.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
+    }
+    
+    var urlEncodedRedPath: String {
+        redImagePath.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
+    }
+    
+    var urlEncodedNormalPath: String {
+        normalImagePath.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed)!
     }
     
     var body: Component {
@@ -81,7 +93,7 @@ struct Gallery: Component {
     
     var cell: Component {
         Div {
-            Link(url: path){
+            Link(url: urlEncodedPath){
                 Image(normalImagePath).attribute(named: "name", value: "i\(id)").class("pgHome-image-link")
             }.attribute(named: "onmouseover", value: "chgImg ('i\(id)','img\(id)Red')")
                 .attribute(named: "onmouseout", value: "chgImg ('i\(id)','img\(id)Normal')")
@@ -92,7 +104,7 @@ struct Gallery: Component {
     var postShortBox: Component {
         Div {
             H2{
-                Link(name, url: path)
+                Link(name, url: urlEncodedPath)
             }
             H3(dateString)
         }.class("divPostShort")

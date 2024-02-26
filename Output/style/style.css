@@ -686,14 +686,19 @@ table th {
     }
     
     .menu-collapser .li-pagelink {
-        display: none;
         margin-bottom: 0.4em;
-        margin-right: 1.75em;
+        margin-right: 1.3em;
         font-weight: 500;
     }
     
+    .menu-collapser .ul-collapser-hidden {
+        display: none;
+        margin-top: 8px;
+        margin-bottom: 24px;
+    }
+    
     .menu-collapser .li-pagelink:last-child {
-        margin-bottom: 1.75em;
+        margin-bottom: 1.3em;
     }
     
     .menu ul li.todo a, .menu ul li.todo {
