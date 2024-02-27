@@ -71,3 +71,22 @@ videos:
         embed: <iframe width="1211" height="681" src="https://www.youtube.com/embed/a51jMqZzLU8" title="Night Watch   February 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20240215.jpg
         duration: 1:29
+    -
+        id: 912345008
+        dateRecorded: 2024-02-20
+        name: Med Mooring 101 - How to Get Ashore
+        caption: |
+            Med Mooring is when you back up to a dock and tie your bow to mooring lines that connect to the bottom of the harbor out in front of the boat.  There are no finger piers.  You're just mashed in between other boats.  This is how you have to get ashore.
+        url: https://youtube.com/shorts/4nkBQpWaMQo
+        embed: <iframe width="485" height="863" src="https://www.youtube.com/embed/4nkBQpWaMQo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240227b.jpg
+        duration: 0:52
+    -
+        id: 912345009
+        dateRecorded: 2024-02-24
+        name: Night Passage - 25 Knots
+        caption: Sailing close-hauled in 25 knots sustained in the middle of the night.  Volume up for this one, if you can.
+        url: https://youtu.be/uLhMsYtoRgQ
+        embed: <iframe width="872" height="491" src="https://www.youtube.com/embed/uLhMsYtoRgQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        tn: mq20240227a.jpg
+        duration: 0:24
