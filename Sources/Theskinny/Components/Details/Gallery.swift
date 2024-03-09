@@ -103,10 +103,20 @@ struct Gallery: Component {
     
     var postShortBox: Component {
         Div {
-            H2{
-                Link(name, url: urlEncodedPath)
-            }
-            H3(dateString)
+            Div {
+                Div {
+                    H2{
+                        Link(name, url: urlEncodedPath)
+                    }
+                    H3(dateString)
+                    H3("\(images.count) Images")
+                }.class("divPostStuff")
+                Div{
+                    Link(url: urlEncodedPath) {
+                        Image(urlEncodedNormalPath)
+                    }
+                }.class("divPostThumbnail")
+            }.class("divPostFlexbox")
         }.class("divPostShort")
     }
     

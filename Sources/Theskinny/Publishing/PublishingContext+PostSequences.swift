@@ -121,7 +121,8 @@ extension PublishingContext where Site == Theskinny {
     var bigTripPGs: [Gallery] {
         let pgSet = [
             try? Gallery(181, dateString: "2024-01-29"),
-            try? Gallery(182, dateString: "2024-02-21")
+            try? Gallery(182, dateString: "2024-02-21"),
+            try? Gallery(183, dateString: "2024-03-09"),
         
         ].compactMap{ $0 }
         return pgSet
