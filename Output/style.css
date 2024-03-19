@@ -281,8 +281,9 @@ ol.quotefile li {
 }
 
 .divPostThumbnail img {
-    max-width: 320px;
+    max-width: 100%;
     max-height: 240px;
+    float: right;
 }
 
 .divPostEndLink {
