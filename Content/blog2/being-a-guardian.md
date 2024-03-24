@@ -1,13 +1,13 @@
 ---
 title: Being a Guardian
 date: 2004-07-13 06:27
-description: A description of my post.
-tags: my-stories
+description: Brent and Crystal have raised good kids so far.  Annika and Jake are tough, active little ones.  No one ever stops to whine over a bruise; they just pick themselves up and keep moving, no matter what happens.  On the other hand, I've heard Jake scream loud enough to blast paint off of a wall when he was put to bed.  And I've heard him keep this up for 30 minutes or more.  So keeping them for a weekend was certain to be an adventure.
+tags: my-stories, young-ruski
 id: 49
 ---
 Brent and Crystal have raised good kids so far.  Annika and Jake are tough, active little ones.  No one ever stops to whine over a bruise; they just pick themselves up and keep moving, no matter what happens.  On the other hand, I've heard Jake scream loud enough to blast paint off of a wall when he was put to bed.  And I've heard him keep this up for 30 minutes or more.  So keeping them for a weekend was certain to be an adventure.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/jakeannika/HeatherAnnikaDaisy.jpg"  width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>A good photo of the playroom demographics.  Grown ups, kids, and dogs.   </b></font><a onclick="window.open('http://theskinnyonbenny.com/pgJakeAnnikaWeekend.html','win1','width=700,height=420,toolbar=no,location=no,directories=no,menubar=no,resizable=yes,scrollbars=no');" class="caption" href="#">More pictures.</a></td></tr></table>
+<a class="lightview alignright" href="/img/gal/007%20-%20Keeping%20Jake%20and%20Annika/002.jpg" data-lightview-caption="A good photo of the playroom demographics.  Grown ups, kids, and dogs." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/007%20-%20Keeping%20Jake%20and%20Annika/002.jpg" alt="/img/gal/007%20-%20Keeping%20Jake%20and%20Annika/002.jpg"><br><span class="caption">A good photo of the playroom demographics.  Grown ups, kids, and dogs.</span></a>
 
 The plan during the day was this:  call the big room upstairs the play room.  Load cartoons on the TV, dump toys all over the floor, throw in a couple of dogs, and let the pandemonium happen naturally.  This was a good formula.  Everyone had fun, including the adults.
 
@@ -27,8 +27,6 @@ Annika asked, "Have I ever stayed up this late before?"  I looked at my watch.  
 
 "Yeah, I think you've probably made it this late before."
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/jakeannika/bedtime.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>You can't tell because of the flash, but this was the layout of the room when everyone had to be still and quiet.  This is toward the end of the wakefulness, as the camera flash didn't elicit a comment, complaint, or even a question.</b></font>  <a onclick="window.open('/pgJakeAnnikaWeekend.html','win1','width=700,height=420,toolbar=no,location=no,directories=no,menubar=no,resizable=yes,scrollbars=no');" class="caption" href="#" >More pictures.</a> </td></tr></table>
-
 By 8:30, she confessed that she might go ahead and fall asleep.  I assured her that I was fine with that, and went downstairs to the freedom of grown-up pursuits.
 
 The only other incident of the night was Jake screaming at 10:00.  It took me a couple minutes to realize that it wasn't cats fighting outside.  When I went up to look, he was lying on the floor, having fallen out of bed.  I guess the bars on the baby beds are more than just decorative.  I put him back in the real bed where he flailed around like a fish for a minute, and then went back to sleep.
@@ -37,3 +35,4 @@ Mrs. theskinnyonbenny woke up at 7:30 because the light and fan in our bedroom w
 
 Sunday was short.  We had breakfast, spread toys all over everywhere, picked up toys, and then the grown-ups showed up to take the kids away.  Shortly after that, I fell asleep in my chair.
 
+More pictures <a href="/gal/007%20-%20Keeping%20Jake%20and%20Annika/">here</a>.

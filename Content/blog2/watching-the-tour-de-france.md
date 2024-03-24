@@ -1,16 +1,16 @@
 ---
 title: Watching the Tour de France
 date: 2004-07-07 21:08
-description: A description of my post.
+description: I can't get enough of the Tour de France on TV.  I've been watching the tour since all we got was a half-hour highlight show in the evening.  Now, OLN shows us every grueling minute three times a day, so if I make the slightest effort to watch, I can catch the stage.  This year, TIVO makes it all the more viewable, since I can skip the commercials and start the viewing when I'm ready for it.
 tags: sports
 id: 47
+ogImg: robbiemcewen.jpg
 ---
 I can't get enough of the Tour de France on TV.  I've been watching the tour since all we got was a half-hour highlight show in the evening.  Now, OLN shows us every grueling minute three times a day, so if I make the slightest effort to watch, I can catch the stage.  This year, TIVO makes it all the more viewable, since I can skip the commercials and start the viewing when I'm ready for it.
 
 I appreciate OLN's coverage, but the announcers assume that their viewers are absolute experts on bicycle racing.  Like I mentioned, I've been watching for years, and this is the first year where I really feel like I know what's going on.  They assume that you remember from minute to minute or broadcast to broadcast which riders are on which teams, and they assume that you know the names of the top dogs on each team too.
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/robbiemcewen.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The stage two finish, pictured just to add a little color.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/robbiemcewen.jpg" data-lightview-caption="The stage two finish, pictured just to add a little color." data-lightview-group="group1" style="width:350px;"><img src="/img/robbiemcewen.jpg" alt="/img/robbiemcewen.jpg"><br><span class="caption">The stage two finish, pictured just to add a little color.</span></a>
 
 They stick to the action - even though the action looks a lot alike from day to day.  That isn't a complaint.  No time gets wasted with Olympic-style profiles.  (Those things almost make me dread the doggone Olympics, but I guess I'll have the opportunity to complain about that next month.  But while I've already digressed, is there any more compelling story than the fact that all of the Olympic venues might not be ready?  That's a pretty serious embarrassment looming for Greece.)
 

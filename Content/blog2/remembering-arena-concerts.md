@@ -1,7 +1,7 @@
 ---
 title: Remembering Arena Concerts
 date: 2004-07-19 11:13
-description: A description of my post.
+description: On Sunday night, I will be at the Madonna concert in Atlanta.  I fully expect the most awe-inducing show that I've ever seen.  I'm also pretty excited just to have a couple of days off work, and a weekend away from yard-slave laboring, even if it is just for a road trip to Atlanta.
 tags: pop-culture
 id: 50
 ---
