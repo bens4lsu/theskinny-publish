@@ -1,15 +1,16 @@
 ---
 title: Things go to Hell When I Travel on Business
 date: 2004-08-03 19:44
-description: A description of my post.
+description: Something always goes to hell in a handbasket when I have to go on a work trip.  When I heard Gatsby moving around in the kitchen, I got up and walked in there to give him some attention.  But he wasn't there.  Instead, there's scratching in the cabinet above the stove.  I turned on the light and opened the door.
 tags: animals,travel
 id: 54
+ogImg: gatsby.jpg
 ---
 Something always goes to hell in a handbasket when I have to go on a work trip.  
 
 When I heard Gatsby moving around in the kitchen, I got up and walked in there to give him some attention.  But he wasn't there.  Instead, there's scratching in the cabinet above the stove.  I turned on the light and opened the door.
-<span class="spanEndPreview">&nbsp;</span><br /><br />
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/gatsby1.jpg"  width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Proud Gatsby</b></font></td></tr></table>
+
+<a class="lightview alignright" href="/img/gatsby1.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/gatsby1.jpg" alt="/img/gatsby1.jpg"><br><span class="caption"></span></a>
 
 Let me back up for a moment.  This takes place on the evening before my flight out of town for work.   Although he's getting better, Gatsby is having a little bit of a hard time adjusting to having two kittens in the house.  To lift his feline spirits, Mrs. theskinnyonbenny and I have taken to treating him like a celebrity when he comes in the house.  So, when I heard him in the kitchen, I started that way.
 
@@ -21,4 +22,4 @@ Anyway, I turned on the kitchen light and slowly opened the door again.  There i
 
 The mice are out in full force.  Now that we've cleared up the lethal level of mold spores, a mouse has moved in there.  And Gatsby just left us a dead mouse to play with in the back yard the other day.  In fact, in that picture above, you can see it by his proud little head.  Here's one more where he plays with it.  Are you impressed with my ability to catch an action photo?
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/gatsbymouse.jpg"  width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>This little mouse has had better days.</b></font></td></tr></table>
+<a class="lightview centered" href="/img/gatsbymouse.jpg" data-lightview-caption="This little mouse has had better days." data-lightview-group="group1"><img src="/img/gatsbymouse.jpg" alt="/img/gatsbymouse.jpg" style="max-width: 650px;"><br><span class="caption">This little mouse has had better days.</span></a>

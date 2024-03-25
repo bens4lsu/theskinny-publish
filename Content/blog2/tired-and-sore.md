@@ -1,7 +1,7 @@
 ---
 title: Tired and Sore
 date: 2004-08-12 19:36
-description: A description of my post.
+description: I have really put this out of shape body through too much in the past week.  Monday was one of the most sore days that I've had in several years.  Today isn't a lot better, to be honest.  I'm not really old enough yet to sit here an enumerate all of my aches and pains.  (Although I could see getting to that point in 20 years or so.  Won't that be exciting!)
 tags: sports,my-stories
 id: 56
 ---
@@ -9,8 +9,7 @@ I have really put this out of shape body through too much in the past week.  Mon
 
 Let's take a look at just the first half of last weekend:
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br /><b>Friday:</b>  Sat around all day.  Made plans to go cycling (that's a bicycle, which you pedal rather than a motorcycle which is easier, but noisier) Saturday morning.  Drank a little bit too much beer after work.
+<b>Friday:</b>  Sat around all day.  Made plans to go cycling (that's a bicycle, which you pedal rather than a motorcycle which is easier, but noisier) Saturday morning.  Drank a little bit too much beer after work.
 
 <b>Saturday:</b>  Woke up at 3:00 AM.  Thanked Heaven that I had more time to sleep.  
 

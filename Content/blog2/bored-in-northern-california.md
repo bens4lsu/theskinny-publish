@@ -1,12 +1,13 @@
 ---
 title: Bored in Northern California
 date: 2004-09-29 05:53
-description: A description of my post.
+description: For the last couple of days, I have been watching coverage of the Scott Peterson trial on television.  And I haven't just been watching the same panelists on Larry King.  No, I'm in Northern California, and I get trial coverage right on the local news.  The only real difference that I see in the trial coverage is the abudance of those courtroom drawings of the trial in action. 
 tags: current-events
 id: 64
 ---
 For the last couple of days, I have been watching coverage of the Scott Peterson trial on television.  And I haven't just been watching the same panelists on Larry King.  No, I'm in Northern California, and I get trial coverage right on the local news.
-<span class="spanEndPreview">&nbsp;</span><br /><br />The only real difference that I see in the trial coverage is the abudance of those courtroom drawings of the trial in action.  It makes me wonder who sits there and draws court all day.  Is that a paid official of the court?  I spent a minute or two searching for an answer, but didn't really find one.  At least one writer did kind of have the same ideal that I did.  I have to believe that <a HREF="http://www.sfexaminer.com/article/index.cfm/i/021304n_peterson" class="mainbox" frame="_blank">this article</a> was buried way in the back of the San Francisco paper when it did run.
+
+The only real difference that I see in the trial coverage is the abudance of those courtroom drawings of the trial in action.  It makes me wonder who sits there and draws court all day.  Is that a paid official of the court?  I spent a minute or two searching for an answer, but didn't really find one.  At least one writer did kind of have the same ideal that I did.  I have to believe that <a HREF="http://www.sfexaminer.com/article/index.cfm/i/021304n_peterson" class="mainbox" frame="_blank">this article</a> was buried way in the back of the San Francisco paper when it did run.
 
 Here's another question:  are criminal court rooms bathed in wierd light that make it the right choice for the artists to use all of those pastel colors?  Wasn't there anything in the trial that appeared in dark blue?
 

@@ -1,16 +1,16 @@
 ---
 title: Evacuating New Orleans
 date: 2004-09-15 10:51
-description: A description of my post.
+description: I went outside at 3:20 this morning.  Yes, it's pretty crazy to be up that early, but I find myself in the hour when only the crazies are awake from time to time.  My mission this morning was to drive to Mandeville and back to secure Velvet Elvis before Hurricane Ivan blows through.  Traffic had been ridiculous during the day, so I figured I would go out when it was only me and a few other nuts.
 tags: current-events, hurricanes
 id: 59
+ogImg: cars.jpg
 ---
 I went outside at 3:20 this morning.  Yes, it's pretty crazy to be up that early, but I find myself in the hour when only the crazies are awake from time to time.  My mission this morning was to drive to Mandeville and back to secure Velvet Elvis before Hurricane Ivan blows through.  Traffic had been ridiculous during the day, so I figured I would go out when it was only me and a few other nuts.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />
 My immediate impression at that hours was of the quiet.  The stillness and silence were unreal.  Did it just seem that way since a storm was pending?  I didn't think so.  It was unlike I ever heard it before.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/cars.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>This is the traffic at 3:30 this morning.  And those cars aren't moving.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/cars.jpg" data-lightview-caption="This is the traffic at 3:30 this morning.  And those cars aren't moving." data-lightview-group="group1" style="width:350px;"><img src="/img/cars.jpg" alt="/img/cars.jpg"><br><span class="caption">This is the traffic at 3:30 this morning.  And those cars aren't moving.</span></a>
 
 When I got to the interstate, I realized the reason for the silence.  There was no distant whisper of tire noise or rumble of eighteen wheelers from the interstate.  Yes, at that ungodly hour, there were thousands of cars and trucks sitting idle on I-10, waiting for the traffic to move.  I found a radio station taking calls from the people who were stuck.  Some had been traveling from New Orleans for nine hours and were only just to Baton Rouge.  To make matters worse, most of the gas stations were out of fuel.  Talk about a sucky night.
 
@@ -18,7 +18,7 @@ The drive to Mandeville was right from the twilight zone.  Traffic on I-12 was b
 
 Mandeville itself was a ghost town.  Every gas station was dark.  Waffle House was closed.  And I sure as heck could have used some coffee at that point.  There was no inclement weather yet. 
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/ve_dark.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Velvet Elvis all tucked in this morning.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/ve_dark.jpg" data-lightview-caption="Velvet Elvis all tucked in this morning." data-lightview-group="group1" style="width:350px;"><img src="/img/ve_dark.jpg" alt="/img/ve_dark.jpg"><br><span class="caption">Velvet Elvis all tucked in this morning.</span></a>
 
 The marina was pleasant.  More than pleasant, really.  There was a nice, cool breeze coming from the north.  The area was quiet as the inside of a cotton jar, except for the gentle clanging of rigging on masts.  The water was smooth, looking jet black but reflecting lights.  I really enjoyed being alone with my boat and docklines and cleats.  It was so peaceful, I am inclined to go out there at 4:00 AM every once in a while, just for the serenity.
 

@@ -1,26 +1,27 @@
 ---
 title: Faggotted Up
 date: 2004-09-17 11:06
-description: A description of my post.
+description: This was a mean little thing that I did, but also funny.  Sorry about the offensive title.
 tags: my-stories
 id: 61
 ---
 Here's a story that amuses me.  It started last week, with the following email from my friend Jackie.
 
-<blockquote>From:  <a href="mailto:Jackie@starmountlife.com">Jackie Loup</a>
-Sent: Friday, September 10, 2004 7:52 AM
-To: Ben Schultz
-Subject: Hello
-
-Ben,
-
-This lady is a friend of my friend, Gay.  She just got laid off at FiServe and saw the posting on the web.  Can you forward this to HR?  She is interested in the Product Management Business Analyst position.
-
-
-Thanks,
-
+<blockquote>From:  <a href="mailto:Jackie@_____________.com">Jackie Loup</a><br>
+Sent: Friday, September 10, 2004 7:52 AM<br>
+To: Ben Schultz<br>
+Subject: Hello<br>
+<br>
+Ben,<br>
+<br>
+This lady is a friend of my friend, Gay.  She just got laid off at FiServe and saw the posting on the web.  Can you forward this to HR?  She is interested in the Product Management Business Analyst position.<br>
+<br>
+<br>
+Thanks,<br>
+<br>
 Jackie</blockquote>
-<span class="spanEndPreview">&nbsp;</span><br /><br />Now you have to understand that Jackie and I worked together for several years.  For most of that time, we even shared an office.  She knows me well enough that by some clue in my glazed-over eyes, she could tell if I had spent lunch eating six pounds of cheese-laden Mexican food, or whether I had put myself through a rigorous workout.  In other words, she knows me well.  This will be important in a minute.
+
+Now you have to understand that Jackie and I worked together for several years.  For most of that time, we even shared an office.  She knows me well enough that by some clue in my glazed-over eyes, she could tell if I had spent lunch eating six pounds of cheese-laden Mexican food, or whether I had put myself through a rigorous workout.  In other words, she knows me well.  This will be important in a minute.
 
 I opened the resume, and it had the normal bullet-point bullcrap that people put in resumes.  Here's an excerpt:
 

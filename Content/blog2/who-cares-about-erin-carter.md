@@ -1,7 +1,7 @@
 ---
 title: Who Cares About Erin Carter
 date: 2023-09-13 16:02
-description: One night this week, I started watching Who is Erin Carter on Netflix, and I've got to tell you, I have never seen a more sloppily-written piece of television.  I got 35 minutes into episode one.  Good think I'm here to tell you what's wrong.
+description: One night this week, I started watching Who is Erin Carter on Netflix, and I've got to tell you, I have never seen a more sloppily-written piece of television.  I got 35 minutes into episode one.  Good thing I'm here to tell you what's wrong.
 tags: pop-culture, tv
 id: 2345
 ogImg: penelope.jpg
