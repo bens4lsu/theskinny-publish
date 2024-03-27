@@ -1,16 +1,18 @@
 ---
 title: My Magic Hat
 date: 2004-10-05 18:49
-description: A description of my post.
+description: I guess the magic in my dirty blue hat is gone.  There's no doubt that the magic existed, but there's also no doubt that it isn't there any more.  Let's review the history of the magic hat.  I bought the hat as a souvenir in Maine last August.  It was a nice hat.  Nothing special, but I liked it.  I had also bought a hat at the track in Saratoga on that same trip.  Again, it was nothing special.
 tags: sports
 id: 65
+ogImg: magichat.jpg
 ---
 I guess the magic in my dirty blue hat is gone.  There's no doubt that the magic existed, but there's also no doubt that it isn't there any more.  Let's review the history of the magic hat.
 
 I bought the hat as a souvenir in Maine last August.  It was a nice hat.  Nothing special, but I liked it.  I had also bought a hat at the track in Saratoga on that same trip.  Again, it was nothing special.
-<span class="spanEndPreview">&nbsp;</span><br /><br />When we returned home, I had to make a decision about which hat would be the one to wear most of the time.  This gives the hat the honor of being on my dome more often, but it also means that it gets caked with dirt, soaked in sweat, and is subject to being used as a napkin for french fry grease or epoxy.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/magichat.jpg" height=200 width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>The magic hat used to be blue, but it appears here in its current color:  dingy.</b></font></td></tr></table>
+When we returned home, I had to make a decision about which hat would be the one to wear most of the time.  This gives the hat the honor of being on my dome more often, but it also means that it gets caked with dirt, soaked in sweat, and is subject to being used as a napkin for french fry grease or epoxy.
+
+<a class="lightview alignright" href="/img/magichat.jpg" data-lightview-caption="The magic hat used to be blue, but it appears here in its current color:  dingy." data-lightview-group="group1" style="width:350px;"><img src="/img/magichat.jpg" alt="/img/magichat.jpg"><br><span class="caption">The magic hat used to be blue, but it appears here in its current color:  dingy.</span></a>
 
 The first football game of 2003 was a rainy day game against ULM.  (That's University of Louisiana at Monroe, for those of you out of state.  Yes, it's a real college with a real football team.  They have matching uniforms).  Now the first game is always hot as hell, so with sweat and rain certain in the forecast, the nasty hat got the call.
 

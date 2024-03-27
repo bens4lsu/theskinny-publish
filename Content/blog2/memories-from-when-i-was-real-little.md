@@ -1,13 +1,13 @@
 ---
 title: Memories from when I was Real Little
 date: 2004-11-12 21:45
-description: A description of my post.
+description: The other night, I got to trying to think of what were the earliest things that I could remember.  I came up with a good number of short scenes that were all before I moved from Baton Rouge during Kindergarten.  I remember the house we lived in on Woodbine, and I remember washing the car with my old man.  (Specifically, I remember him showing my how to get the whitewalls on the tires good and clean.)
 tags: my-youth
 id: 73
 ---
 The other night, I got to trying to think of what were the earliest things that I could remember.  I came up with a good number of short scenes that were all before I moved from Baton Rouge during Kindergarten.  I remember the house we lived in on Woodbine, and I remember washing the car with my old man.  (Specifically, I remember him showing my how to get the whitewalls on the tires good and clean.)
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />I remember doing things with my friend Kip, who -- like all friends that age -- is forced into friendship by parents who hang out together.  I remember us being interested but not really understanding the Olympics that were going on.  So that must have been the 1976.  I remember him telling me that a basketball game that was on TV was part of the Olympics, and me telling him that the Olympics couldn't <i>possibly</i> still be going on.  Whether this was indeed Olympic basketball and I couldn't fathom a two-week sporting event, or whether this conversation happened during basketball season months after the Olympics I haven't a clue.
+I remember doing things with my friend Kip, who -- like all friends that age -- is forced into friendship by parents who hang out together.  I remember us being interested but not really understanding the Olympics that were going on.  So that must have been the 1976.  I remember him telling me that a basketball game that was on TV was part of the Olympics, and me telling him that the Olympics couldn't <i>possibly</i> still be going on.  Whether this was indeed Olympic basketball and I couldn't fathom a two-week sporting event, or whether this conversation happened during basketball season months after the Olympics I haven't a clue.
 
 I remember a little bit about how the furniture in our old house was arranged.  We had a dark brown chair with yellow and orange flowers.  Ugly fabric.?  Not really.  You see, that pattern was just a really heavy duty plastic of some kind.  That chair stayed with us for years, living on the porch of many houses, and being called "Flo's Chair," since it was the only piece of furniture that the dog was allowed on, and it's where she could often be found.  Anyway, I remember climbing on Flo's chair (back when it was human furniture) and talking to my mom about the baby that was going to join our family.  I guess that would have made me four.  I don't think I'll remember much earlier than that.
 

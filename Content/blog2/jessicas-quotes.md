@@ -5,13 +5,12 @@ description: A description of my post.
 tags: the-office
 id: 84
 ---
-<a href="http://theskinnyonbenny.com/x/quotefile.php">My own quote file</a> was once one of my favorite pages on the site.  I've shamefully neglected it while bringing up other content.  It's one of the few pages that still has very sloppy formatting, and it even got accidentally omitted from the menu on the left when I rewrote that code.  I just added a new quote, but that's the first one in a while.
+<a href="http://theskinnyonbenny.com/x/quotefile">My own quote file</a> was once one of my favorite pages on the site.  I've shamefully neglected it while bringing up other content.  It's one of the few pages that still has very sloppy formatting, and it even got accidentally omitted from the menu on the left when I rewrote that code.  I just added a new quote, but that's the first one in a while.
 
 What reminded me of this is that I just stumbled on an email that I had gotten a few months ago.  One of my coworkers sent me her list of quotes, for my amusement.  It doesn't say so on the page, but I have a couple of rules for my quote file.  First, it's only things I hear, not things that I say.  Second, I have to hear or read it for myself.  That make the web log the appropriate place for this list.
 
+Jessica Rainey is leaving our company, but we owe her a debt of gratitude for collecting these for us.  I've used my best judgment about whether these people would want to be credited by name or not.  If you happen to be someone who's offended to be included, or offended that you weren't credited, then post a comment.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />Jessica Rainey is leaving our company, but we owe her a debt of gratitude for collecting these for us.  I've used my best judgment about whether these people would want to be credited by name or not.  If you happen to be someone who's offended to be included, or offended that you weren't credited, then post a comment.
-<p>
 <blockquote>I believe I have plans to stick a fork into my eyeball that day.  I'll be thinking of you all from the emergency room.</blockquote>
 -- Ben Schultz, in response to a meeting invitation.  (Note:  I still use a variation on that same response quite regularly.)
 
@@ -41,6 +40,6 @@ What reminded me of this is that I just stumbled on an email that I had gotten a
 
 <blockquote>...suggest you and Kirk try to discover how to finish the call Monday with ATB quite satisfied, and our Company maintaining its "position." This is hard.</blockquote>
 -- "Date Rape" Dan, APPRO Sales Manager years ago.  (Note:  I'm withholding Date Rape Dan's real last name for now.  He was so inept that I might just write a whole post about this guy some day.  Just to frighten you, he's now influential in our state's government. 
-</p>
+
 I might be pushing my luck.  My next few posts won't make fun of coworkers in any way whatsoever.
 

@@ -109,6 +109,9 @@ struct Menu: Component {
                         Link("Shit John Said", url: "/x/shitjohnsaid")
                     }.class("li-pagelink")
                     ListItem {
+                        Link("Limericks for Beasts", url: "/x/lyms")
+                    }.class("li-pagelink")
+                    ListItem {
                         Link("Dog Door Guide", url: "/x/speciesGuide")
                     }.class("li-pagelink")
                     ListItem {

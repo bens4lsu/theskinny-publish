@@ -1,14 +1,15 @@
 ---
 title: The End of Election Season
 date: 2004-11-04 06:34
-description: A description of my post.
+description: All of the talking heads and advertisements were really getting on my nerves.  Especially the past couple of weeks.  Yesterday I said that if there was a runoff in our Senate election, and if that meant I have to see the advertisement with David Vitter's premature babies one more time, I would yank out my own tongue and strangle myself with it.  Vitter won, sparing me the horrible decision of having to watch that commercial any more or to take my own life in a most horrifying and painful manner.
 tags: current-events
 id: 72
 ---
 Am I ever glad that election day has come and gone.
 
 All of the talking heads and advertisements were really getting on my nerves.  Especially the past couple of weeks.  Yesterday I said that if there was a runoff in our Senate election, and if that meant I have to see the advertisement with David Vitter's premature babies one more time, I would yank out my own tongue and strangle myself with it.  Vitter won, sparing me the horrible decision of having to watch that commercial any more or to take my own life in a most horrifying and painful manner.
-<span class="spanEndPreview">&nbsp;</span><br /><br />In case you're recalling <a href="http://www.theskinnyonbenny.com/blog/archives/00000063.php" class="mainbox">my previous post about Vitter</a>, he did win without the benefit of my vote.  I can't say that I'm too broken up about it.  He's not awful, and had there been a runoff, I certainly would have picked him over Chris John, who finished behind him.
+
+In case you're recalling <a href="/blog2/a-call-with-the-vitter-campaign/" class="mainbox">my previous post about Vitter</a>, he did win without the benefit of my vote.  I can't say that I'm too broken up about it.  He's not awful, and had there been a runoff, I certainly would have picked him over Chris John, who finished behind him.
 
 I'm not nuts about the result of the presidential election, but I wouldn't have been nuts about it had it gone the other way either.  On election day, I passed a bunch of poncho-clad volunteers waving Kerry signs at a busy intersection.  I can't imagine the candidate that would get me that excited.  I wish one of them would.  It would be nice to feel like you were potentially close to having a great leader.  Oh well.
 

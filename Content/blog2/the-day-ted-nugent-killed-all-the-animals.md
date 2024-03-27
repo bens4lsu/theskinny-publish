@@ -1,14 +1,15 @@
 ---
 title: The Day Ted Nugent Killed All the Animals
 date: 2004-10-29 12:55
-description: A description of my post.
-tags: pop-culture
+description: Does anyone besides me like that song, <i>The Day Ted Nugent Killed All the Animals</i>?  The IPOD picked that song for me while I walked the dog last night.  It got me thinking that someone could go out and put out a whole page explaining the cultural references in that tune.  I'll go ahead and do it myself.
+tags: pop-culture, music
 id: 71
 ---
 Does anyone besides me like that song, <i>The Day Ted Nugent Killed All the Animals</i>?  The IPOD picked that song for me while I walked the dog last night.  It got me thinking that someone could go out and put out a whole page explaining the cultural references in that tune.  I'll go ahead and do it myself.
 
-<embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/tednugent.mp3" TYPE="video/x-ms-wmf-plugin"  AUTOSTART="0" SHOWCONTROLS="1"  align="right" /><noembed>You'll have to find this song somewhere else.  Your browswer won't allow embedded media.  Sorry.</noembed>
-<span class="spanEndPreview">&nbsp;</span><br /><br /><b>Ted Nugent, also referred to as the Motor City Madman:</b>  Except for you youngsters, you will remember Ted Nugent as a hard rock singer from the 70s.  When I first heard this song, I just figured that they picked a random, former celebrity to make fun of.  But a year or two later, I read <a href="http://outside.away.com/outside/environment/200112/200112under_ted.html" class="mainbox">this article</a> in <i>Ouside</i> Magazine, and as it turns out, Ted is now famous for killing animals.  Who knew?  This article might be hard to read from the web browser, but I really enjoyed it.
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/the-day-ted-nugent-killed-all-the-animals/447484440?i=447484442"></iframe>
+
+<b>Ted Nugent, also referred to as the Motor City Madman:</b>  Except for you youngsters, you will remember Ted Nugent as a hard rock singer from the 70s.  When I first heard this song, I just figured that they picked a random, former celebrity to make fun of.  But a year or two later, I read <a href="https://www.outsideonline.com/outdoor-adventure/better-environmentalism-through-killing/" class="mainbox">this article</a> in <i>Ouside</i> Magazine, and as it turns out, Ted is now famous for killing animals.  Who knew?  This article might be hard to read from the web browser, but I really enjoyed it.
 
 <b>Greenpeace activists were crying in their hankies...</b>  Greenpeace is an animal rights activist group, most famous for buying boats and disrupting whaling ships in the late 80s.
 
@@ -24,9 +25,9 @@ In this song, Bob cried because he is famous as an animal lover.  The phrase, "h
 
 I suppose she must have made the news for animal activism at some point, but I don't really remember that.  She's certain to turn up on celebrity boxing or some celeb-reality show any time now, in a last ditch effort to stay famous.
 
-<b>Michigan Militia:</b>  A famous group of anti-government, gun-loving, kooks.  They had a newsworthy run in with the law once upon a time, but I don't remember the details.  The far right wingers among you will be glad to know that they're still running string.  <a href="http://www.michiganmilitia.com/" class="mainbox">http://www.michiganmilitia.com/</a> if you're interested.
+<b>Michigan Militia:</b>  A famous group of anti-government, gun-loving, kooks.  They had a newsworthy run in with the law once upon a time, but I don't remember the details.  The far right wingers among you will be glad to know that they're still running string.  <a href="https://en.wikipedia.org/wiki/Michigan_Militia" class="mainbox">https://en.wikipedia.org/wiki/Michigan_Militia</a> if you're interested.
 
-<b>Fred Bear:</b>  I didn't know this one, but I just looked it up, and he was an archer of renown, and has a line of equipment named after him.  The best (and briefest) biographical information I found <a href="http://www.uff.ufl.edu/Scholarships/ScholarshipInfo4.asp?ScholarshipFund=002807" class="mainbox">is here.</a>
+<b>Fred Bear:</b>  I didn't know this one, but I just looked it up, and he was an archer of renown, and has a line of equipment named after him.  The best (and briefest) biographical information I found <a href="https://en.wikipedia.org/wiki/Fred_Bear" class="mainbox">is here.</a>
 
 <b>...chasing Bambi's Mom with a knife:</b>  Can you guys imagine them making a Disney movie today where the lead mother -- a typical loving, nurturing character -- gets shot by a hunter?  It's a little hard to imagine that even being okayed by Walt and the boys back whenever it was that <i>Bambi</i> was made.  I'm sure every deer hunter has been asked about shooting Bambi's mother.
 
@@ -38,4 +39,5 @@ What made this mentionable was the source.  The article was on the front page of
 
 <b>Wang Dang, that orangutan:</b>  No cultural reference here, but the line was worth putting into writing.  I've listened to this a zillion times, and I still laugh when I hear this.
 
+<h3>Update 2024:  Wikipedia existed when this page was originally posted, but either the linked items didn't have entries, or I didn't know about Wikipedia at all.  The dead links from the original post have been updated.</h3>
 

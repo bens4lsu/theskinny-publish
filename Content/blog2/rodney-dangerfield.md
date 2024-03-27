@@ -1,12 +1,14 @@
 ---
 title: Rodney Dangerfield
 date: 2004-10-07 20:35
-description: A description of my post.
+description: I was a little saddened to hear that Rodney Dangerfield died this week.  I remember watching Rodney doing stand up on HBO and being or delivering the punch line in the Lite Beer From Miller Gang commercials back when I was a kid.  I've decided to memorialize Rodney with a brief review of all of his movies.  Okay, not all of them, but all of them that I could come up with off the top of my head.
 tags: pop-culture
 id: 66
+ogImg: rodney1.jpg
 ---
 I was a little saddened to hear that Rodney Dangerfield died this week.  I remember watching Rodney doing stand up on HBO and being or delivering the punch line in the Lite Beer From Miller Gang commercials back when I was a kid.  I've decided to memorialize Rodney with a brief review of all of his movies.  Okay, not all of them, but all of them that I could come up with off the top of my head.
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=140><img src="/img/rodney1.jpg" aborder=0 vspace=4/></td></tr><tr><td width=140><font face="verdana, arial, geneva" size=1 color=#666666><b>Rodney Dangerfield in Caddyshack</b></font></td></tr></table>
+
+<a class="lightview alignright" href="/img/rodney1.jpg" data-lightview-caption="Rodney Dangerfield in Caddyshack" data-lightview-group="group1" style="width:350px;"><img src="/img/rodney1.jpg" alt="/img/rodney1.jpg"><br><span class="caption">Rodney Dangerfield in Caddyshack</span></a>
 
 Caddyshack:  Possibly the best comedy of all time, and certainly Rodney's best performance.  Almost every scene in this movie is fantastic, and there are more quotable than Casablanca.  Look no farther than that recent commercial with Tiger Woods doing scenes from Karl the groundskeeper to see that this one is still culturally relevant.
 

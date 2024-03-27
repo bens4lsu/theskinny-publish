@@ -1,19 +1,19 @@
 ---
 title: Christopher Reeve and Roseanne Barr
 date: 2004-10-13 19:44
-description: A description of my post.
+description: I have no interest in letting this become the site for celebrity obituaries.  However, the passing of Christopher Reeve moved a reader enough to request that I comment, so I'll share a quick Superman story, and then move on.
 tags: pop-culture
 id: 67
 ---
 I have no interest in letting this become the site for celebrity obituaries.  However, the passing of Christopher Reeve moved a reader enough to request that I comment, so I'll share a quick Superman story, and then move on.
 
 The first video tape that our family owned was Superman II.  This was a betamax tape, acquired in the days when it wasn't clear that VHS would become the dominant format in the market.  I say "acquired" because we took it from my Uncle Steve's house when he passed away.  I'm not sure if no one else wanted the video, or if it was a last ditch effort to keep the kids quiet, but somehow, our family ended up with that video.  
-<span class="spanEndPreview">&nbsp;</span><br /><br />(It's odd that I remember where we got such an obscure childhood relic.  My sister brings up childhood episodes that I don't recall, or just barely recall one after another.  There must be hundreds of them that just didn't stick to my brain cells through a college career with too much drinking.)
+
+(It's odd that I remember where we got such an obscure childhood relic.  My sister brings up childhood episodes that I don't recall, or just barely recall one after another.  There must be hundreds of them that just didn't stick to my brain cells through a college career with too much drinking.)
 
 Anyway, Superman II is the one where Superman goes into some machine that takes away his powers (for some reason, Louis didn't want to date a guy with powers) just as three bad guys from Krypton land on the planet to wreak havoc.  Of course, it gets satisfactorily resolved, somehow or other.  As kids with a new video will do, we watched it over and over and over and over and over.  The thought is horrifying to me now.
 
 I can't name any other role that Reeve played, and I'm not interested enough to take 90 seconds to go look it up.
-
 
 But I did want to look up the Roseanne quote that I've heard about.  Here's the whole thing:
 
