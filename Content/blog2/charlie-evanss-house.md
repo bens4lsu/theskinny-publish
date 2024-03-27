@@ -1,15 +1,15 @@
 ---
 title: Charlie Evans's House
 date: 2004-11-13 20:10
-description: A description of my post.
-tags: my-youth
+description: While my entries are in this reminiscence theme, allow me to spin you another tale of childhood.  I guess most of us had that summer or two of childhood where we were old enough to run wild, but not quite old enough to drive or be tied down by a summer job of any consequence.  When I was of that age, we lived in a subdivision in Little Rock with tons of other kids of my age.  We spent every minute between waking up and curfew roaming the neighborhood in packs.  
+tags: my-youth, favorites
 id: 74
 ---
 While my entries are in this reminiscence theme, allow me to spin you another tale of childhood.  I guess most of us had that summer or two of childhood where we were old enough to run wild, but not quite old enough to drive or be tied down by a summer job of any consequence.  When I was of that age, we lived in a subdivision in Little Rock with tons of other kids of my age.  We spent every minute between waking up and curfew roaming the neighborhood in packs.  
 
 We played basketball, went to the pool, and spent hours and hours at someone's house watching MTV.  This was in the days of that network where the moon man was a current commercial, and veejays talked briefly between music videos.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />We did most of our video watching at Charlie Evans's house.  His was the place of preference because his parents worked late, because his dad had a really large collection of <i>Playboy</i>s (three stacks in his closet, and you could stumble on other issues if you would look deep in other magazine racks in the house), and because every summer he had two good looking female cousins come visit.  I think Charlie was jealous that he was the only one of us who couldn't make up lies about all of the scoring we did with his cousins every summer.
+We did most of our video watching at Charlie Evans's house.  His was the place of preference because his parents worked late, because his dad had a really large collection of <i>Playboy</i>s (three stacks in his closet, and you could stumble on other issues if you would look deep in other magazine racks in the house), and because every summer he had two good looking female cousins come visit.  I think Charlie was jealous that he was the only one of us who couldn't make up lies about all of the scoring we did with his cousins every summer.
 
 The fun at Charlie's ended when his mom got home.  In retrospect, she wasn't really that bad, but at the time she was the most feared force in the universe.  She was a gigantic woman, who we always referred to as "lard-ass," or often just as "L.A."  As a sideline, Lard Ass sold Avon, and she was occasionally could be persuaded to drop you a few bucks in exchange for leaving little baggied Avon catalogs on neighbors' doorknobs.
 

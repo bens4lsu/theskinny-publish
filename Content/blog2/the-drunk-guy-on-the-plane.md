@@ -1,13 +1,12 @@
 ---
 title: The Drunk Guy on the Plane
 date: 2004-11-19 15:48
-description: A description of my post.
-tags: travel
+description: At first, I thought it was my lucky day.  I was about to board a three and a half hour flight, and I just found out that I had been granted an unrequested first-class upgrade.  I'm not sure why; I'm just barely to the "silver" level of Delta's rank and grade system, but I guess that combined with low demand for those seats combined with having purchased a ticket that any sane person would laugh at got me through.
+tags: travel, favorites
 id: 75
 ---
 At first, I thought it was my lucky day.  I was about to board a three and a half hour flight, and I just found out that I had been granted an unrequested first-class upgrade.  I'm not sure why; I'm just barely to the "silver" level of Delta's rank and grade system, but I guess that combined with low demand for those seats combined with having purchased a ticket that any sane person would laugh at got me through.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />
 I settled into my big plush window seat, and asked for a diet coke, momentarily forgetting that I could have had a free vodka tonic, bloody mary, or beer.  Shit.  A few minutes later, my seat neighbor arrived.  He stumbled to his seat and started to try to stuff a large but mostly empty hanging bag under his seat.  He smelled like a distillery had exploded and he had just spent four glorious days rolling in its muck.
 
 My drunk friend introduced myself and asked if I was going to Miami for business or pleasure.  I had a momentary moment of panic.  I thought I was on the plane to San Juan.  Then I noticed his boarding pass sticking out of his pocket that said San Juan.  I replied, "business."  If he thinks he's going to Miami, then I'll just go with that.
