@@ -1,7 +1,7 @@
 ---
 title: Jessica's Quotes
 date: 2004-12-29 05:17
-description: A description of my post.
+description: My own quote file was once one of my favorite pages on the site.  I've shamefully neglected it while bringing up other content.  It's one of the few pages that still has very sloppy formatting, and it even got accidentally omitted from the menu on the left when I rewrote that code.  I just added a new quote, but that's the first one in a while.
 tags: the-office
 id: 84
 ---

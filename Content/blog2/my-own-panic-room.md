@@ -1,7 +1,7 @@
 ---
 title: My Own Panic Room
 date: 2004-12-21 19:54
-description: A description of my post.
+description: I woke up yesterday morning at around 5:00.  I'm not sure why I was up so early, but I was fresh and ready to start the day.  I went out to the living room where the gas fire still warmed the air.  I watched most of Sports Center and a little bit of the news on CNN.  Then I took a shower and went to work early.  It was a normal start to a day that would end very abnormally.
 tags: my-stories
 id: 81
 ---
@@ -9,7 +9,7 @@ I woke up yesterday morning at around 5:00.  I'm not sure why I was up so early,
 
 Maybe because it is the week of Christmas, but work was quiet.  I was able to work more or less uninterrupted on a semi-fun design document from 6:30 until my stomach finally made me get up and go out just after 1:00.  After lunch, I had a quick meeting (which was a little bit painful) followed by a call to resolve issues for a client.  That was more painful still, but not really as bad as I had expected it to be.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />When I got home, Mrs. theskinnyonbenny was geeked to go pick up our nephew to spend a few days with us.  I was pretty worn out and immediately started some preemptive complaining, but it was to no avail.  Off we went for a three-hour round trip.
+When I got home, Mrs. theskinnyonbenny was geeked to go pick up our nephew to spend a few days with us.  I was pretty worn out and immediately started some preemptive complaining, but it was to no avail.  Off we went for a three-hour round trip.
 
 Our 10 year old nephew Sam was excited to get away from real grown ups for a few days.  He chattered non-stop all the way back.  Our favorite pastime is to make up rhymes and songs with ridiculous and inappropriately off-color words.  A nighttime drive through Louisiana is a good place for that.  It was fun for a while, but I was tired of it before we made it home.
 

@@ -1,15 +1,16 @@
 ---
 title: More APPRO Christmas Ridicule
 date: 2004-12-27 08:42
-description: A description of my post.
+description: And now that the obligatory seasonal good cheer is out of the way, let's continue to make fun of my coworkers.  Oh yes, it didn't take long after my last post to get an email with the other groups who had to take those photos.  I was too just busy cooking and herding people through my house to cut out images and make up captions.  Let us proceed....
 tags: the-office
 id: 83
+ogImg: xmasredicule/her_eyeballsocket.jpg
 ---
 I would like to start by wishing all of my readers a very Merry Christmas and best wishes for the New Year.  It was a good holiday for the theskinnyonbenny family, and I sincerely hope it was good for all of you.  
 
 And now that the obligatory seasonal good cheer is out of the way, let's continue to make fun of my coworkers.  Oh yes, it didn't take long after my last post to get an email with the other groups who had to take those photos.  I was too just busy cooking and herding people through my house to cut out images and make up captions.  Let us proceed....
 
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table><tr><td valign = "center" class="caption">
+<table><tr><td valign = "center" class="caption">
 
 There are three teams of people who we haven't already covered.  I know you can't see their pictures too clearly, but I'm not guessing that's really what you want to see anyway.  I have them listed from best picture to worst.  
 

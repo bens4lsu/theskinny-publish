@@ -1,9 +1,10 @@
 ---
 title: APPRO Christmas Ridicule
 date: 2004-12-23 05:41
-description: A description of my post.
+description: In the interest of job security, I don't normally use this forum to make fun of my employer too much.  But once in a while, the satire gods throw you such a beautiful opportunity, you can't pass it up.  You see, some genius at work had the bright idea for each different team to take a picture, to format that into some sort of Christmas greeting PDF file, and to send those out to the clients that this particular team supports.  As my emailed response to these put it, "let the ridicule begin..."
 tags: the-office
 id: 82
+ogImg: xmasredicule/gladbenthumb.jpg
 ---
 <table>
 <tr><td align="left" colspan="2">
