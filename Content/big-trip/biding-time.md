@@ -1,7 +1,7 @@
 ---
 title: Biding Time
 date: 2024-03-31 19:36
-description: 
+description: A week and a half since my last post, and there's really not much new to report.  The boat is repaired and ready to go back in the water, but it was blowing 40 kts on Wednesday, making the boat lift out of the question, and then the boat yard has been closed for Easter break every day since.  
 tags: 
 id: 20240331
 ogImg: /img/bigtrip/resIMG_20240331_161037_IMG_2106.jpg
