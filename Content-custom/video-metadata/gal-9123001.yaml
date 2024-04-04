@@ -90,3 +90,12 @@ videos:
         embed: <iframe width="872" height="491" src="https://www.youtube.com/embed/uLhMsYtoRgQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20240227a.jpg
         duration: 0:24
+    -
+        id: 912345010
+        dateRecorded: 2024-04-05
+        name: Night Watch - Strait of Gibralter
+        caption: We had an eventful day passing from the Mediterranean into the Atlantic.
+        url: https://youtu.be/e2akm43LAH0
+        embed: <iframe width="1166" height="656" src="https://www.youtube.com/embed/e2akm43LAH0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: dolphin.jpg
+        duration: 3:32
