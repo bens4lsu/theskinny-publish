@@ -22,7 +22,7 @@ I was right by the helm, and I threw the boat into hard reverse.  [This was a ma
 She (I'm going with female but who knows) didn't show herself again, and she didn't bump the boat at all.  My heart, on the other hand, pounded as hard as it ever has for a good half hour.  
 
 The intense day was just getting underway.  As soon as we got out into the open water, a huge ferry was zooming towards us at a speed faster than boats should go, even while sounding their fog horn.  That was the beginning of several hours of constantly calculating where giant ships would be, while they all traveled at slightly different speeds and angles.  We were under sail downwind in a strong blow, and we couldn't maneuver freely due to fear of an accidental [jibe](https://en.wikipedia.org/wiki/Jibe).
-/img/bigtrip/
+
 I need to back up and talk about why were in Spain rather than in Gibraltar to begin with.  Cruising rumor has it that there's a marina in Gibralter with big private bath tubs, and that is very appealing to me.  
 
 <a class="lightview centered" href="/img/bigtrip/resIMG_2118.jpeg" data-lightview-caption="I'm not sure why this rock is so famous.  It's not really that pretty." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2118.jpeg" alt="/img/bigtrip/resIMG_2118.jpeg" style="max-width: 650px;"><br><span class="caption">I'm not sure why this rock is so famous.  It's not really that pretty.</span></a>
