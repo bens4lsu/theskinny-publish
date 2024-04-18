@@ -78,15 +78,17 @@ extension Galleries {
             let topFolder = try Folder(path: galFromSiteRoot)
             try topFolder.subfolders.forEach { galFolder in
                 let (id, name) = try Self.idFromFolderName(atPath: galFolder.name)
-                let galleryPath = galFromHttpRoot + galFolder.name
-                let filePath = galFromSiteRoot + galFolder.name
-                let imgRootPath = imgFromHttpRoot + galFolder.name + "/"
-                let normalImagePath = imgRootPath + "/data/normal.jpg"
-                let redImagePath = imgRootPath + "/data/red.jpg"
-                let images = try Self.galleryImages(inPath: filePath)
-                let htmlFilePath = filePath + "/gal-desc.txt"
-                let html = try  File(path: htmlFilePath).readAsString()
-                galleries.append( Gallery(id: id, name: name, path: galleryPath, filePath: filePath, imgRootPath: imgRootPath, html: html, normalImagePath: normalImagePath, redImagePath: redImagePath, images: images))
+                if !(EnvironmentKey.hideGalleryIDs.contains(id)) {
+                    let galleryPath = galFromHttpRoot + galFolder.name
+                    let filePath = galFromSiteRoot + galFolder.name
+                    let imgRootPath = imgFromHttpRoot + galFolder.name + "/"
+                    let normalImagePath = imgRootPath + "/data/normal.jpg"
+                    let redImagePath = imgRootPath + "/data/red.jpg"
+                    let images = try Self.galleryImages(inPath: filePath)
+                    let htmlFilePath = filePath + "/gal-desc.txt"
+                    let html = try  File(path: htmlFilePath).readAsString()
+                    galleries.append( Gallery(id: id, name: name, path: galleryPath, filePath: filePath, imgRootPath: imgRootPath, html: html, normalImagePath: normalImagePath, redImagePath: redImagePath, images: images))
+                }
             }
             return galleries.sorted(by: { $0.id > $1.id })
         } catch (let e) {

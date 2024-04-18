@@ -41,3 +41,7 @@ extension EnvironmentKey where Value == String {
     
     static let predictWindSrc = "https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000"
 }
+
+extension EnvironmentKey where Value == [Int] {
+    static let hideGalleryIDs = [185]
+}
