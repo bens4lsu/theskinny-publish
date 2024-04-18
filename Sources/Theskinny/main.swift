@@ -12,6 +12,14 @@ fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 do {
     shell("chflags -R uchg \(mediaPath)")
     
+    /*
+     
+    command to unlock folders recursive:
+     
+    chflags -R nouchg /Volumes/BenPortData/theskinny-media/img/gal
+     
+    */
+    
     
     try hideResourceImages()
     
@@ -23,6 +31,8 @@ do {
     ])
     
     try restoreSymlinks()
+    
+    shell("chflags -R nouchg \(mediaPath)")
     
     
 } catch (let e) {
