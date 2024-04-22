@@ -108,4 +108,14 @@ videos:
         embed: <iframe width="939" height="528" src="https://www.youtube.com/embed/D_wL4LE-iWo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240414.jpg
         duration: 2:28   
+    -
+        id: 912345012
+        dateRecorded: 2024-04-22
+        name: Night Watch - Atlantic Crossing Night 1 + Jibing
+        caption: It's the first night of what V has been calling "The Big Part" all winter.  All is well, so I say that out loud, and then show you how I jibe the sails single handedly.
+        url: https://youtu.be/OCELVcFwHYk
+        embed: >
+            <iframe width="1137" height="640" src="https://www.youtube.com/embed/OCELVcFwHYk" title="Night Watch: Atlantic Crossing Night 1 + Jibing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: moon.jpg
+        duration: 5:24
     
