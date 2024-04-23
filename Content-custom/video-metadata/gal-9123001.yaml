@@ -118,4 +118,15 @@ videos:
             <iframe width="1137" height="640" src="https://www.youtube.com/embed/OCELVcFwHYk" title="Night Watch: Atlantic Crossing Night 1 + Jibing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: moon.jpg
         duration: 5:24
+        
+    -
+        id: 912345013
+        dateRecorded: 2024-04-23
+        name: Night Watch - Atlantic Crossing Night 2 + Power Plant
+        caption: A short update after a good sailing day.  Plus, how we generate power outside of using the motor or generator.
+        url: https://youtu.be/cnaUJv0yk38
+        embed: >
+           <iframe width="1044" height="587" src="https://www.youtube.com/embed/cnaUJv0yk38" title="Night Watch: Atlantic Crossing Night 2 + Power Plant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: solar.jpg
+        duration: 3:00
     
