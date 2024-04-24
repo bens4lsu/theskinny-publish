@@ -129,4 +129,13 @@ videos:
            <iframe width="1044" height="587" src="https://www.youtube.com/embed/cnaUJv0yk38" title="Night Watch: Atlantic Crossing Night 2 + Power Plant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: solar.jpg
         duration: 3:00
-    
+    -
+        id: 912345014
+        dateRecorded: 2024-04-24
+        name: Night Watch - Atlantic Crossing Night 3 + Meteorology
+        caption: We have a long way to go, and we are becalmed.
+        url: https://youtu.be/Te3DGlDADuA
+        embed: >
+           <iframe width="1029" height="579" src="https://www.youtube.com/embed/Te3DGlDADuA" title="Night Watch: Atlantic Crossing Night 3 + Meteorology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240424.jpg
+        duration: 3:21
