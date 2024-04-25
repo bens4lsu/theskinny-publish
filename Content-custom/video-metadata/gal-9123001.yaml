@@ -139,3 +139,13 @@ videos:
            <iframe width="1029" height="579" src="https://www.youtube.com/embed/Te3DGlDADuA" title="Night Watch: Atlantic Crossing Night 3 + Meteorology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240424.jpg
         duration: 3:21
+    -
+        id: 912345015
+        dateRecorded: 2024-04-25
+        name: Night Watch - Atlantic Crossing Night 4 + Refrigeration and Swimming
+        caption: The calmest day, but we took a swim, and that was a lot of fun.  
+        url: https://youtu.be/nfMpbtN3FhY
+        embed: >
+           <iframe width="1044" height="587" src="https://www.youtube.com/embed/nfMpbtN3FhY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240425.jpg
+        duration: 3:08
