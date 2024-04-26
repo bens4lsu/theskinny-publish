@@ -150,13 +150,13 @@ videos:
         tn: mq20240425.jpg
         duration: 3:08
         
--
+    -
         id: 912345016
         dateRecorded: 2024-04-26
         name: Night Watch - Atlantic Crossing Night 5 + Maks is a Gross Eater
         caption: I have all kinds of cool boat tour things left to show you guys.  But I'm giving the amatuer ahour video editing persona an easy night instead.  But the add-on clip of the cat eating does end up being pretty funny, I think.
         url: https://youtu.be/8lMO3QHuVU0
         embed: >
-           <iframe width="1044" height="587" src="https://www.youtube.com/embed/nfMpbtN3FhY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        tn: mq20240425.jpg
-        duration: 3:08
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/8lMO3QHuVU0" title="Night Watch: Atlantic Crossing Night 5 + Maks is a Gross Eater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240426.jpg
+        duration: 3:57
