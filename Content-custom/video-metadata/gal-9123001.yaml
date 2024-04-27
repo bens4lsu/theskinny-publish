@@ -160,3 +160,13 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/8lMO3QHuVU0" title="Night Watch: Atlantic Crossing Night 5 + Maks is a Gross Eater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240426.jpg
         duration: 3:57
+    -
+        id: 912345017
+        dateRecorded: 2024-04-27
+        name: Night Watch - Atlantic Crossing Night 6 + Sailing Wing and Wing
+        caption: We're sailing pretty well tonight!  Our talk is about a particular sail configuration for downwwind.  Then, I throw in a few pictures from the day.  None of humans, because we're not fit to be seen at this point.
+        url: https://youtu.be/DdW7ou_5lWU
+        embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/DdW7ou_5lWU" title="Night Watch: Atlantic Crossing Night 6 + Sailing Wing and Wing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240427.jpg
+        duration: 4:22
