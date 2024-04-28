@@ -170,3 +170,13 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/DdW7ou_5lWU" title="Night Watch: Atlantic Crossing Night 6 + Sailing Wing and Wing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240427.jpg
         duration: 4:22
+    -
+        id: 912345018
+        dateRecorded: 2024-04-28
+        name: Night Watch - Atlantic Crossing Night 7 + Port Side Technical Room
+        caption: I am delighted by a middle of the night visitor, and a tour of the port tech room, where we take seawater into the boat and distribute it to the places where it belongs.  The last 2/3 of this one is pretty technical/geeky, so if boat systems aren't your thing, you can check out early without missing anything.
+        url: https://youtu.be/EGwYrnZVj5w
+        embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/EGwYrnZVj5w" title="Night Watch - Atlantic Crossing Night 7 + Port Side Technical Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240428.jpg
+        duration: 6:25
