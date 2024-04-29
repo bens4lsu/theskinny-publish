@@ -180,3 +180,13 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/EGwYrnZVj5w" title="Night Watch - Atlantic Crossing Night 7 + Port Side Technical Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240428.jpg
         duration: 6:25
+    -
+        id: 912345019
+        dateRecorded: 2024-04-29
+        name: Night Watch - Atlantic Crossing Night 8 + Other Vessels
+        caption: Sailing, but still not on a direct path to where we're going.  A quick discussion of what it looks like when we encounter a ship on the high seas.
+        url: https://youtu.be/pz_7UhwBG4E
+        embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/pz_7UhwBG4E" title="Night Watch   Atlantic Crossing Night 8 + Other Vessels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240429.jpg
+        duration: 3:23
