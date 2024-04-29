@@ -13,18 +13,21 @@ extension EnvironmentKey where Value == DateFormatter {
     static let defaultDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
         formatter.dateFormat = "MMMM dd, yyyy"
+        formatter.timeZone = .init(identifier: "UTC")
         return formatter
     }()
     
     static let hmsDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
         formatter.dateFormat = "MM/dd/yyyy hh:mm:ss"
+        formatter.timeZone = .init(identifier: "UTC")
         return formatter
     }()
     
     static let yyyyMMddDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy-MM-dd"
+        formatter.timeZone = .init(identifier: "UTC")
         return formatter
     }()
 

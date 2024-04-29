@@ -13,12 +13,13 @@ struct Video: Component, Decodable {
     
     let id: Int
     let name: String
-    let dateRecorded: Date?
     let caption: String
     let url: String
     let embed: String
     let tn: String
     let duration: TimeInterval
+    let dateRecorded: Date?
+
     
     private var _title: String?
     
@@ -34,6 +35,10 @@ struct Video: Component, Decodable {
     
     var formattedDate: String {
         if let dateRecorded {
+            if id == 912345019 {
+                print (dateRecorded)
+                print(EnvironmentKey.defaultDateFormatter.string(from: dateRecorded))
+            }
             return EnvironmentKey.defaultDateFormatter.string(from: dateRecorded)
         }
         return ""
