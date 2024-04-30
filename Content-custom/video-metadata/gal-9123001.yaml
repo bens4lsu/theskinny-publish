@@ -190,3 +190,13 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/pz_7UhwBG4E" title="Night Watch   Atlantic Crossing Night 8 + Other Vessels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240429.jpg
         duration: 3:23
+    -
+        id: 912345020
+        dateRecorded: 2024-04-30
+        name: Night Watch - Atlantic Crossing Night 9 + How We Flush
+        caption: Faster and more direct sailing day.  It would have been fun if we had done anything other than sit at the table and work.  
+        url: https://youtu.be/sh9Ov1BPxck
+        embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/sh9Ov1BPxck" title="Night Watch   Atlantic Crossing Night 9 + How We Flush" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240430.jpg
+        duration: 4:55
