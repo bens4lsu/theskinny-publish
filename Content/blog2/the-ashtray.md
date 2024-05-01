@@ -4,10 +4,11 @@ date: 2005-01-21 13:24
 description: Here's a quick note to whoever borrowed, broke, or stole the ashtray from the Regal Beagle on New Year's Eve:  we bought another one.  They're only eight bucks, so here are some thoughts:
 tags: short
 id: 91
+ogImg: jesusashtray.jpg
 ---
 Here's a quick note to whoever borrowed, broke, or stole the ashtray from the Regal Beagle on New Year's Eve:  we bought another one.  They're only eight bucks, so here are some thoughts:
 
-<a class="lightview centered" href="/img//img/jesusashtray.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img//img/jesusashtray.jpg" alt="/img//img/jesusashtray.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/jesusashtray.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/jesusashtray.jpg" alt="/img/jesusashtray.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
 
 If you picked it up from the position of your moral high horse in order to prevent my eternal damnation, thanks, but don't do that any more.  I'm not one who thinks that God doesn't appreciate the occasional chuckle.<br />
 
