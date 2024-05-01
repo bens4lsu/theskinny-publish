@@ -200,3 +200,13 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/sh9Ov1BPxck" title="Night Watch   Atlantic Crossing Night 9 + How We Flush" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240430.jpg
         duration: 4:55
+    -
+        id: 912345021
+        dateRecorded: 2024-05-01
+        name: Night Watch - Atlantic Crossing Night 10 + Course Change
+        caption: Today was mega-frustrating, so this is just a short update about our travails and about a change to our travel plan.
+        url: https://youtu.be/YyuaIx3zsQs
+        embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/YyuaIx3zsQs" title="Night Watch   Atlantic Crossing Night 10 + Course Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240501.jpg
+        duration: 3:04
