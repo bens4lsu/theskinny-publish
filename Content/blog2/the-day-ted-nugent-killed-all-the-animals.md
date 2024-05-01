@@ -1,7 +1,7 @@
 ---
 title: The Day Ted Nugent Killed All the Animals
 date: 2004-10-29 12:55
-description: Does anyone besides me like that song, <i>The Day Ted Nugent Killed All the Animals</i>?  The IPOD picked that song for me while I walked the dog last night.  It got me thinking that someone could go out and put out a whole page explaining the cultural references in that tune.  I'll go ahead and do it myself.
+description: Does anyone besides me like that song, The Day Ted Nugent Killed All the Animals?  The IPOD picked that song for me while I walked the dog last night.  It got me thinking that someone could go out and put out a whole page explaining the cultural references in that tune.  I'll go ahead and do it myself.
 tags: pop-culture, music
 id: 71
 ---

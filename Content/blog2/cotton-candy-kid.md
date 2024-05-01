@@ -1,14 +1,17 @@
 ---
 title: Cotton Candy Kid
 date: 2005-03-10 12:19
-description: A description of my post.
-tags: uncategorized
+description: What's up with this picture?
+tags: short
 id: 101
+ogImg: kidCottonCandy.jpg
 ---
-<skinny:nohome><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></td><td width=225><img src="/img/kidCottonCandy.jpg" width=250 aborder=0 vspace=4></td></tr><tr><td width=225><font face="verdana, arial, geneva" size=1 color=#666666><b>I don't get this.</b></font></td></tr></table><br />
-<br />
-</skinny:nohome>I came across this photo yesterday on an <a href="http://about.com">about.com</a> entry about cotton candy.  I have never seen anyone -- man, woman, or child -- look so angry about eating cotton candy.<br />
-<br />
-What happened here?  Have they already taken five rolls of film like this?  If so, wouldn't there be a better shot than this one?  Does he just dislike it?  If so, couldn't they have found a million other kids who did like it?<br />
-<br />
+<a class="lightview centered" href="/img/kidCottonCandy.jpg" data-lightview-caption="I don't get this.
+" data-lightview-group="group1"><img src="/img/kidCottonCandy.jpg" alt="/img/kidCottonCandy.jpg" style="max-width: 650px;"><br><span class="caption">I don't get this.
+</span></a>
+
+I came across this photo yesterday on an <a href="http://about.com">about.com</a> entry about cotton candy.  I have never seen anyone -- man, woman, or child -- look so angry about eating cotton candy.
+
+What happened here?  Have they already taken five rolls of film like this?  If so, wouldn't there be a better shot than this one?  Does he just dislike it?  If so, couldn't they have found a million other kids who did like it?<
+
 I'm baffled.

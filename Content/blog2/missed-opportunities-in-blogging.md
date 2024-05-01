@@ -1,12 +1,13 @@
 ---
 title: Missed Opportunities in Blogging
 date: 2005-03-09 06:05
-description: A description of my post.
+description: I was just reflecting on a couple of the missed opportunities that I let get by recently. Sometimes, you get a perfectly good -- maybe even great -- web log entry staring you in the face, and you get busy doing other things and never get it posted.
 tags: pop-culture,current-events
 id: 100
 ---
 I was just reflecting on a couple of the missed opportunities that I let get by recently. Sometimes, you get a perfectly good -- maybe even great -- web log entry staring you in the face, and you get busy doing other things and never get it posted.
-<span class="spanEndPreview">&nbsp;</span><br /><br />The most glaring omission is that I got through the entire election season last fall without making much fun of either bonehead candidate. I guess I was tired about hearing about it all of the time.  What made me thing of this is that <i>Hey Ya</i> came on the radio while I was on my way to work a few days ago. I remembered the Bush girls saying that W and Laura like to, "shake it like a Polaroid picture from time to time."
+
+The most glaring omission is that I got through the entire election season last fall without making much fun of either bonehead candidate. I guess I was tired about hearing about it all of the time.  What made me thing of this is that <i>Hey Ya</i> came on the radio while I was on my way to work a few days ago. I remembered the Bush girls saying that W and Laura like to, "shake it like a Polaroid picture from time to time."
 
 I was listening to that speech on the radio that night, and I was amused that the NPR people felt the need to explain that allusion.
 

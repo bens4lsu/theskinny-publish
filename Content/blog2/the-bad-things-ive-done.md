@@ -1,14 +1,16 @@
 ---
 title: The Bad Things I've Done
 date: 2005-03-16 11:19
-description: A description of my post.
+description: I think most people worry from time to time that they need to be better people.  I'm not immune to such thoughts, so I started to take stock in the bad things that I've done.  
 tags: my-youth
 id: 104
+ogImg: johanna_pugh.jpg
 ---
 I think most people worry from time to time that they need to be better people.  I'm not immune to such thoughts, so I started to take stock in the bad things that I've done.  
 
 I guess the first things that come to mind are that I like to drink, gamble, and eat too many cookies.  But like all drinkers, gamblers, and overeaters, I maintain that these vices cause no harm to others, and I therfore dismiss them from the list of bad things that I do.
-<span class="spanEndPreview">&nbsp;</span><br /><br />In high school, I used to sneak out of the house from time to time.  Mostly, this was to toilet paper another house in the neighborhood. and usually, whoever got it deserved it.  But not always.
+
+In high school, I used to sneak out of the house from time to time.  Mostly, this was to toilet paper another house in the neighborhood. and usually, whoever got it deserved it.  But not always.
 
 I did lots of mean things to my sister when I was growing up.  If I would yell at her good and loud, I could really put a scare into her.  More evil though, is the time that I swished her toothbrush in the toilet, and then put it back.  I don't know if I ever fessed up to that one.
 
@@ -20,8 +22,7 @@ Once, when a friend of mine had gotten a poor grade, we went to the engineering 
 
 While I was in school, I was a teller.  Just about every afternoon, when I would get thirsty, I would short five customers in a row 10 cents each.  Then, I would use the 50 cents to buy a coke.  Who would go back to the bank drive through just for ten cents?  I just figured out that if I had stayed a teller, and continued to do that for all of these years, I would have embezzled around $1600 by now.
 
-<skinny :nohome><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="275"><img src="/img/johanna_pugh.jpg" align="left"/></td></tr><tr><td width="275" class="caption">Although Johanna is one of my favorite co-workers, she was the victim of my "truck nuts" prank, and many a sudden scare.</td></tr></table></skinny>
-
+<a class="lightview alignright" href="/img/johanna_pugh.jpg" data-lightview-caption="Although Johanna is one of my favorite co-workers, she was the victim of my "truck nuts" prank, and many a sudden scare." data-lightview-group="group1" style="width:350px;"><img src="/img/johanna_pugh.jpg" alt="/img/johanna_pugh.jpg"><br><span class="caption">Although Johanna is one of my favorite co-workers, she was the victim of my "truck nuts" prank, and many a sudden scare.</span></a>
 
 Now that I'm a grown-up, it's harder for me to think of any really bad things that I've done.  At work, I like to sometimes send emails from other people's computers.  My favorite time was when I sent an email from one sales rep to the rest of the sales department (including her boss) that was something to the effect of, "If you were wondering what to get me for Christmas, I would really like some <a href="http://truck-nuts.com" target="_blank">truck nuts!"</a>
 

@@ -4,7 +4,7 @@ date: 2004-10-20 18:01
 description: I went to Voodoo Fest this past Saturday.  There was beautiful weather, and it was good to be outside hearing live music.  Let's jump right in with a review of the headliners' performance:
 tags: pop-culture, music, travel, new-orleans
 id: 69
-ogImg: voodoo04/greenday.jpg
+ogImg: /img/gal/009%20-%20Voodoo%20Fest%202004/res41stagewidenight.pg.jpg
 ---
 I went to <a href="http://www.voodoomusicfest.com/home.htm" target="_blank" class="mainbox">Voodoo Fest</a> this past Saturday.  There was beautiful weather, and it was good to be outside hearing live music.
 

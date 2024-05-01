@@ -1,12 +1,13 @@
 ---
 title: Biegnets
 date: 2004-12-09 10:23
-description: A description of my post.
+description: I only know of one place in Baton Rouge where you can get biegnets and cafe au lait, and of course, you can't get much more than that.  The place is called Coffee Call, and I would give you a link to their web site if I knew of one for them.  I'm not really here to advertise anyway.
 tags: food
 id: 77
 ---
 I only know of one place in Baton Rouge where you can get biegnets and cafe au lait, and of course, you can't get much more than that.  The place is called Coffee Call, and I would give you a link to their web site if I knew of one for them.  I'm not really here to advertise anyway.
-<span class="spanEndPreview">&nbsp;</span><br /><br />First of all, if you're not from around here, a biegnet is a big bit of fried dough served with a mound of powdered sugar.  I often hear people compare them to a doughnut, but I think a funnel cake is a better starting point.  They're bigger than a ping pong ball and smaller than a baseball.  Cafe au lait is just strong coffee mixed with warm milk.  (Louisianans aren't normally the types to stick fancy French names on mundane things, but "cafe au lait" persists as an exception to this rule.)
+
+First of all, if you're not from around here, a biegnet is a big bit of fried dough served with a mound of powdered sugar.  I often hear people compare them to a doughnut, but I think a funnel cake is a better starting point.  They're bigger than a ping pong ball and smaller than a baseball.  Cafe au lait is just strong coffee mixed with warm milk.  (Louisianans aren't normally the types to stick fancy French names on mundane things, but "cafe au lait" persists as an exception to this rule.)
 
 Running a biegnet shop has to be one of the noisiest, dirtiest jobs outside of construction.  The main culprit is the powdered sugar, which is normally poured over the biegnets to the point where the dust will gag you.  Coffee Call keeps several of the really big plastic garbage cans full of powdered sugar, and they just scoop it liberally over the biegnets.
 

@@ -1,14 +1,15 @@
 ---
 title: Three Man
 date: 2004-12-10 21:52
-description: A description of my post.
+description: Shelly Williams may have the foulest mouth that I know, but she can do research.  Last time I saw her, she gave me a pack of dice and a laminated copy of the official Three Man rules (so spilled drinks don't ruin the page).  I hereby reprint those rules for posterity.
 tags: my-stories
 id: 78
 ---
 It was some time late this football season when we decided that we needed to revive an old drinking game from college.  We remembered "Three Man" being a game with dice that made the players do a lot of drinking.  To be honest, we remembered a dice game called "Three Man" or "Four Man" or "Seven Man," but we couldn't remember which, and we certainly didn't remember all of the rules.
 
 Shelly Williams may have the foulest mouth that I know, but she can do research.  Last time I saw her, she gave me a pack of dice and a laminated copy of the official Three Man rules (so spilled drinks don't ruin the page).  I hereby reprint those rules for posterity.
-<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote class="caption">Everyone starts off by rolling one die until someone rolls a three.  This person then becomes the three man.  The game then proceeds around the circle with people taking turns rolling the dice.  The dice are only passed when someone rolls something that does not require drinking.  Here is what each roll means:
+
+<blockquote class="caption">Everyone starts off by rolling one die until someone rolls a three.  This person then becomes the three man.  The game then proceeds around the circle with people taking turns rolling the dice.  The dice are only passed when someone rolls something that does not require drinking.  Here is what each roll means:
 
 <table cellpadding="3"><tr><td valign="top" class="caption" align="right">3</td><td class="caption">Whoever is the three man must drink.  If the three man rolls this then he may pass the title to a person of his choosing.</td></tr><tr><td class="caption"  align="right">7</td><td class="caption">Person to the right of the roller drinks.</td></tr><tr><td class="caption" align="right">9</td><td class="caption">Person across from the roller drinks.</td></tr><tr><td class="caption" align="right">10</td><td class="caption">Social...everyone drinks.</td></tr><tr><td class="caption" align="right">11</td><td class="caption">Person to the left of the roller drinks.</td></tr></table> 
 
@@ -28,6 +29,6 @@ It's not really a rule difference, but I also remember that on ten, it was custo
 
 Now, I'm going to show the nerd side of myself a little bit.  I went ahead and figured out the odds of these different things happening.
 
-<table border=1><tr><td align="center">Event</td><td align="center">Odds - Real Rules</td><td align="center">Odds - LSU Rules</td></tr><tr><td align="center"> Doubles</td><td align="center">1/6</td><td align="center">1/6</td></tr><tr><td align="center">3 Man Drinks</td><td align="center">1/18</td><td align="center">11/36</td></tr><tr><td align="center">Drink to the right</td><td align="center">1/6</td><td align="center">1/6</td></tr><tr><td align="center">1 & 4</td><td align="center">1/18</td><td align="center">1/18</td></tr><tr><td align="center">Drink across</td><td align="center">1/12</td><td align="center">1/12</td></tr><tr><td align="center">Drink to the left</td><td align="center">1/18</td><td align="center">1/18</td></tr><tr><td align="center">Social</td><td align="center">1/12</td><td align="center">1/12</td></tr><tr><td align="center">Nothing happens</td><td align="center">13/36</td><td align="center">1/6</td></tr></table>
+<table border=1><tr><td align="center">Event</td><td align="center">Odds - Real Rules</td><td align="center">Odds - LSU Rules</td></tr><tr><td align="center"> Doubles</td><td align="center">1/6</td><td align="center">1/6</td></tr><tr><td align="center">3 Man Drinks</td><td align="center">1/18</td><td align="center">11/36</td></tr><tr><td align="center">Drink to the right</td><td align="center">1/6</td><td align="center">1/6</td></tr><tr><td align="center">1 & 4</td><td align="center">1/18</td><td align="center">1/18</td></tr><tr><td align="center">Drink across</td><td align="center">1/12</td><td align="center">1/12</td></tr><tr><td align="center">Drink to the left</td><td align="center">1/18</td><td align="center">1/18</td></tr><tr><td align="center">Social</td><td align="center">1/12</td><td align="center">1/12</td></tr><tr><td align="center">Nothing happens</td><td align="center">1/3</td><td align="center">1/6</td></tr></table>
 
 Now feel free to print this page and laminate it.

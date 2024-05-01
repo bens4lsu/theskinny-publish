@@ -4,7 +4,7 @@ date: 2004-08-03 19:44
 description: Something always goes to hell in a handbasket when I have to go on a work trip.  When I heard Gatsby moving around in the kitchen, I got up and walked in there to give him some attention.  But he wasn't there.  Instead, there's scratching in the cabinet above the stove.  I turned on the light and opened the door.
 tags: animals,travel
 id: 54
-ogImg: gatsby.jpg
+ogImg: gatsby1.jpg
 ---
 Something always goes to hell in a handbasket when I have to go on a work trip.  
 
