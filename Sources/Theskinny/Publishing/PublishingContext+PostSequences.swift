@@ -100,7 +100,7 @@ extension PublishingContext where Site == Theskinny {
     }
     
     var bigtripVideos: [Video] {
-        let albumIdsToInclude = [9123001]
+        let albumIdsToInclude = [9123001, 9123003]
         let albumsForThisSet = videoAlbums.filter { albumIdsToInclude.contains($0.id) }
         return albumsForThisSet.flatMap { $0.videos }
     }

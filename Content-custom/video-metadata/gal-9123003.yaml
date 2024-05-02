@@ -1,0 +1,23 @@
+
+id: 9123003
+slug: velvet-elvis-2024-big-trip
+name: >
+    Velvet Elvis 2024 Big Trip, Series 2
+caption:
+tn: mq20240502.jpg
+linkBack:
+    text: Velvet Elvis 2024 Big Trip
+    url:  /vid/velvet-elvis-2024-big-trip/
+videos:
+
+    -
+        id: 912345022
+        dateRecorded: 2024-05-02
+        name: Night Watch Atlantic Crossing Night 11 + Switch Panel
+        caption: |
+            A long one tonight.  In addition to the regular update, we have a quick fish story, a tour of our switch panel (nerd alert), and 30 seconds of zen.
+        url: https://youtu.be/QLoalAe1JRg
+        embed: >
+            <iframe width="1028" height="578" src="https://www.youtube.com/embed/QLoalAe1JRg" title="Night Watch   Atlantic Crossing Night 11 + Switch Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240502.jpg
+        duration: 6:39
