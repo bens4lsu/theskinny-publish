@@ -228,7 +228,7 @@ a { color: #9E2606; }
 .content p {line-height: 1.33; margin-block-end: 2em;}
 .spanEndPreview { display:none;}
 
-.content ul li {
+.content ul li, .content ol li {
     margin-bottom: 1.5em;
 }
 

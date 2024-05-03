@@ -1,16 +1,18 @@
 ---
 title: Report on Las Vegas Trip
 date: 2005-02-01 08:59
-description: A description of my post.
-tags: travel
+description: Anyone interested in how the trip to Las Vegas went?  I should start by lambasting that stupid "Whatever happens in Vegas stays in Vegas" advertising campaign.  Why don't they just take that last step and advertise. "Hey wives and girlfriends, your men sure are going to enjoy the hookers while you're at home and they're out here!"
+tags: travel, las-vegas
 id: 93
+ogImg: vegaspiechart.gif
 ---
 Anyone interested in how the trip to Las Vegas went?
 
 I should start by lambasting that stupid "Whatever happens in Vegas stays in Vegas" advertising campaign.  Why don't they just take that last step and advertise. "Hey wives and girlfriends, your men sure are going to enjoy the hookers while you're at home and they're out here!"
 
-We all know that the real reason people go to Las Vegas is to binge drink in that oxygenated air, allowing the party to go all night long with no effort at all.  Sure, there are strippers, but once you've been to <a href="http://www.theskinnyonbenny.com/blog/archives/00000020.php">Super Pussy</a>, the rest all pretty much seem the same.
-<span class="spanEndPreview">&nbsp;</span><br /><br />Here's one funny story, while we're on the topic.  The bachelor of the weekend was getting a lap dance when two other strippers walked up and said, "What's going on here?"  
+We all know that the real reason people go to Las Vegas is to binge drink in that oxygenated air, allowing the party to go all night long with no effort at all.  Sure, there are strippers, but once you've been to <a href="/blog2/evening-in-patpong">Super Pussy</a>, the rest all pretty much seem the same.
+
+Here's one funny story, while we're on the topic.  The bachelor of the weekend was getting a lap dance when two other strippers walked up and said, "What's going on here?"  
 
 The used the tone of voice that implied that they were witnessing something shocking and unusual.  This made me laugh, and I had to call them on it.
 
@@ -18,15 +20,13 @@ The used the tone of voice that implied that they were witnessing something shoc
 
 They turned and left without comment.
 
-
 We went to one other bar -- the loud music dance club type that all of the casinos have now.  It was a similar scene to the bar called Sports that we went to in college -- packed people, decent music, drinks, etc.  They had a balcony above the strip that was nice, and there were reports of celebrities there, although I never saw any for myself.
 
 We were standing around like the lame-dicks we were, comparing the chicks who were dancing.  It was amusing that some guys really liked the classy looking ones and some liked the trashy ones.  
 
 Our buddy Troy favored a platinum blond with a body full of tattoos.  She looked rough.  I felt pretty sure that if in some parallel universe I found myself in bed with her, whatever she would do would be not only a totally new experience, it would probably be something I could never have even dreamed up.  And it would probably hurt.
 
-
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=280><img src="/img/vegaspiechart.gif" aborder=0 vspace=4 width=275/></td></tr><tr><td width=280><font face="verdana, arial, geneva" size=1 color=#666666><b>Lest this article give the wrong impression about where we spent time, here is an accurate breakdown of our roughly 40 hours in Las Vegas.<br /><br /></b></font></td></tr></table>
+<a class="lightview alignright" href="/img/vegaspiechart.gif" data-lightview-caption="Lest this article give the wrong impression about where we spent time, here is an accurate breakdown of our roughly 40 hours in Las Vegas." data-lightview-group="group1" style="width:350px;"><img src="/img/vegaspiechart.gif" alt="/img/vegaspiechart.gif"><br><span class="caption">Lest this article give the wrong impression about where we spent time, here is an accurate breakdown of our roughly 40 hours in Las Vegas.</span></a>
 
 Now almost all of the time there was actually spent gambling.  It's just that sitting at a blackjack table for six hours straight doesn't really make for a riveting read.  I guess the best stories there were from the first night when we drank too much and acted totally obnoxious.
 
@@ -42,7 +42,7 @@ The guy brought our table good luck though, so don't be surprised if I start cal
 
 The gambling gods were good friends to most of our group.  I kept getting asked, "How much are you up?"  For the record, I was almost never up, although I got on a roll late and ended up coming home with just $100 less than I left with.  Very successful in my book, but not the hundreds and hundreds of profit that a lot of them had during different stretches over the weekend.
 
-And I almost forgot.  You know that <a href="http://www.theskinnyonbenny.com/blog/archives/00000092.php">ideal Sports Book</a>?  Bally's was pretty close.  It had close food and drink, good layout of screens, personal TV sets, and the people who took your bets were friendly.  
+And I almost forgot.  You know that <a href="/blog2/my-ideal-vegas-sports-book/">ideal Sports Book</a>?  Bally's was pretty close.  It had close food and drink, good layout of screens, personal TV sets, and the people who took your bets were friendly.  
 
 They need two major improvements:  First, they need more comfortable seats.  Also, they need the cocktail waitress to be quite a bit less scarce.  Other than that, I was pretty pleased with them.
 

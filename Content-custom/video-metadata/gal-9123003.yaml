@@ -21,3 +21,15 @@ videos:
             <iframe width="1028" height="578" src="https://www.youtube.com/embed/QLoalAe1JRg" title="Night Watch   Atlantic Crossing Night 11 + Switch Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240502.jpg
         duration: 6:39
+
+    -
+        id: 912345023
+        dateRecorded: 2024-05-03
+        name: Night Watch Atlantic Crossing Night 12 + The Rest of the Panel
+        caption: |
+            Still moving along.  Bigger waves, and a little rolling.  Let's see what else is on that big panel.
+        url: https://youtu.be/go5z9yofHdA
+        embed: >
+            <iframe width="1028" height="578" src="https://www.youtube.com/embed/go5z9yofHdA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: stove.jpg
+        duration: 3:51

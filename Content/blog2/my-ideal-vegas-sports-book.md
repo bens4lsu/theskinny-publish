@@ -1,7 +1,7 @@
 ---
 title: My Ideal Vegas Sports Book
 date: 2005-01-25 06:17
-description: A description of my post.
+description: Dry eyes, nosebleeds, itchy skin.  You guess it!  It's time to go to Las Vegas.  I imagine that I will spend a good percentage of my time in a sports book.  I've spent a lot of time in them over the years, and I've yet to find one that meets all of my criteria for an "ideal" sports book.
 tags: my-stories
 id: 92
 ---
@@ -10,7 +10,8 @@ Dry eyes, nosebleeds, itchy skin.  You guess it!  It's time to go to Las Vegas.
 I imagine that I will spend a good percentage of my time in a sports book.  I've spent a lot of time in them over the years, and I've yet to find one that meets all of my criteria for an "ideal" sports book.
 
 <ol><li>Free drinks.  None of this, "bet so much and you get a ticket for a free drink" crap.  Casinos set the expectation that I drink for free while I sit there and bet.  They can't change the rules on me now.  Hell, I tip the waitress a buck a drink, which is more than they're worth anyway.<br /><br />And while we're talking ideals and waitresses, they should be good looking.  I don't need an old hag bringing me my drink in the ideal sports book.</li>
-<span class="spanEndPreview">&nbsp;</span><br /><br /><li>I need huge screens, and seating situated so that I can see a bunch of them.  This seems obvious, but you would be surprised how many sports books have two or three big screens and then a bunch of regular televisions.</li>
+
+<li>I need huge screens, and seating situated so that I can see a bunch of them.  This seems obvious, but you would be surprised how many sports books have two or three big screens and then a bunch of regular televisions.</li>
 
 <li>A restroom close by.  I'm sometimes at these things by myself for hours.  I don't need the hassle of pocketing all my stuff and marching nine miles to the can just to get back and find my seat taken.  Have a john right there, for goodness sakes.</li>
 

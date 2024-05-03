@@ -1,16 +1,15 @@
 ---
 title: Know Your Steel
 date: 2005-02-04 15:50
-description: A description of my post.
-tags: gear-and-gadgets
+description: Last March, there was an interesting post to a sailing-related email list to which I subscribe.  I get a good bit of interesting stuff, and I generally just drag the message over to a folder so that I can give it a good read some time later.
+tags: gear-and-gadgets, sailing
 id: 94
 ---
 Last March, there was an interesting post to a sailing-related email list to which I subscribe.  I get a good bit of interesting stuff, and I generally just drag the message over to a folder so that I can give it a good read some time later.
 
 I know this is lengthy, but believe me, I did pare it down quite a bit.  Besides, I'm enjoy all of this nerd talk.
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>The March, 2004, Volume 30, Number 5 & 6 double issue of "Practical Sailor" magazine ran a comparison test on sailor's rigging knives.  They rated the Spyderco SALT 1 as a best buy.  The thing about this knife that caught my eye was the description of the H1 precipitation hardened stainless steel in the blade....</blockquote>
+<blockquote>The March, 2004, Volume 30, Number 5 & 6 double issue of "Practical Sailor" magazine ran a comparison test on sailor's rigging knives.  They rated the Spyderco SALT 1 as a best buy.  The thing about this knife that caught my eye was the description of the H1 precipitation hardened stainless steel in the blade....</blockquote>
 
 <blockquote>So, I went & looked up the properties of H1 stainless steel in the metallurgical literature at the SVSU library.  The H1 alloy is produced by the Myodo Foundry in Japan and it appears to be a real materials breakthrough.  Normally, with knife blade materials, there is a tradeoff between the hardness & ability to keep a sharp edge of high carbon tool steels and the corrosion resistance and nonmagnetic properties of the 300 series stainless steels.  Up until now, it was impossible to have both corrosion resistance and a really sharp blade in the same alloy.  The H1 alloy works differently....</blockquote>
 

@@ -1,12 +1,13 @@
 ---
 title: Magazine Reading
 date: 2005-02-24 09:31
-description: A description of my post.
+description: How do you like that?  It's been more than two weeks since I posted anything here.  I've gotten a couple of irate emails, and I'm sure lost a few of my 10 or so regular readers.  I just wasn't feeling like spending my free time at the computer lately.  I do spend my entire workday staring into the retina-melting screens you know.
 tags: pop-culture
 id: 96
 ---
 How do you like that?  It's been more than two weeks since I posted anything here.  I've gotten a couple of irate emails, and I'm sure lost a few of my 10 or so regular readers.  I just wasn't feeling like spending my free time at the computer lately.  I do spend my entire workday staring into the retina-melting screens you know.
-<span class="spanEndPreview">&nbsp;</span><br /><br />I haven't really been doing anything mentionable.  Last weekend, we went to my in-laws' in the north part of Louisiana.  It's a pretty slow place -- I read a bunch of magazines and watched a bunch of junky MTV shows.
+
+I haven't really been doing anything mentionable.  Last weekend, we went to my in-laws' in the north part of Louisiana.  It's a pretty slow place -- I read a bunch of magazines and watched a bunch of junky MTV shows.
 
 Here are the magazines that I read last weekend:
 

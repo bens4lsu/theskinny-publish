@@ -1,20 +1,22 @@
 ---
 title: Benny's Book Review:  The Last Season
 date: 2005-02-07 18:50
-description: A description of my post.
+description: I am currently reading Phil Jackson's book, <i>The Last Season</i>.  It has a subtile which I can't remember.  From reading the text, I'm pretty sure that Phil intended the subtitle to be, <i>...and Kobe Bryant is a no good whining bastard</i>, but the editors probably shot that down.  (Actually -- to be honest -- I downloaded an mp3 copy of Phil Jackson's book, and I've been listening to it while I walk the dog in the evening.  It's not the same as reading the book, but I don't really have the right verb.  "I'm currently listening to the book," doesn't work, because I'm not currently listening to it.  I'm currently typing on a laptop.  You see the problem.) 
 tags: pop-culture,book-reviews
 id: 95
+ogImg: philjackson.jpg
 ---
 I am currently reading Phil Jackson's book, <i>The Last Season</i>.  It has a subtile which I can't remember.  From reading the text, I'm pretty sure that Phil intended the subtitle to be, <i>...and Kobe Bryant is a no good whining bastard</i>, but the editors probably shot that down.
 
 (Actually -- to be honest -- I downloaded an mp3 copy of Phil Jackson's book, and I've been listening to it while I walk the dog in the evening.  It's not the same as reading the book, but I don't really have the right verb.  "I'm currently listening to the book," doesn't work, because I'm not currently listening to it.  I'm currently typing on a laptop.  You see the problem.) 
-<span class="spanEndPreview">&nbsp;</span><br /><br />For my non-basketball fan readers, Phil Jackson is the coach who won six NBA championships with Michael Jordan's Bulls, and then three more with the Shaq/Kobe Lakers.  He's a former player and current Buddhist.  He dates his owner's daughter, who also runs operations for the team.  And he coached two future hall-of-famers who couldn't stand each other.  
+
+For my non-basketball fan readers, Phil Jackson is the coach who won six NBA championships with Michael Jordan's Bulls, and then three more with the Shaq/Kobe Lakers.  He's a former player and current Buddhist.  He dates his owner's daughter, who also runs operations for the team.  And he coached two future hall-of-famers who couldn't stand each other.  
 
 Needless to say, this is a fun story.
 
 The bulk of the attention is rightly on Kobe.  He comes through as a selfish, spoiled sociopath.  Phil doesn't speculate about what happened in Colorado, and he doesn't need to.  He has story aplenty about how disruptive Kobe's personal issues were.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=190><img src="/img/philjackson.jpg" width=190 aborder=0 vspace=4/></td></tr><tr><td width=190><font face="verdana, arial, geneva" size=1 color=#666666><b>Phil Jackson</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/philjackson.jpg" data-lightview-caption="Phil Jackson" data-lightview-group="group1" style="width:350px;"><img src="/img/philjackson.jpg" alt="/img/philjackson.jpg"><br><span class="caption">Phil Jackson</span></a>
 
 Even given his dislike for Kobe, he talks plainly about how necessary Kobe was to the Lakers winning.  The reason that Kobe didn't regularly guard the opponents best guard was that he would get too tired to be the explosive force on offense that he needed to be.
 
