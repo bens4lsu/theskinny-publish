@@ -44,3 +44,14 @@ videos:
             <iframe width="1028" height="578" src="https://www.youtube.com/embed/HpqAurVHewY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240504.jpg
         duration: 3:34
+    -
+        id: 912345025
+        dateRecorded: 2024-05-05
+        name: Night Watch Atlantic Crossing Night 14 + Starboard Technical Room
+        caption: |
+            The sailing is fine.  Our special feature is the grand finale for the boat systems nerds.  
+        url: https://youtu.be/1AdZC6AHoQk
+        embed: >
+            <iframe width="1028" height="578" src="https://www.youtube.com/embed/1AdZC6AHoQk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240505.jpg
+        duration: 6:19
