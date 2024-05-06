@@ -55,3 +55,15 @@ videos:
             <iframe width="1028" height="578" src="https://www.youtube.com/embed/1AdZC6AHoQk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240505.jpg
         duration: 6:19
+        
+    -
+        id: 912345026
+        dateRecorded: 2024-05-06
+        name: Night Watch Atlantic Crossing Night 15 + Starboard Technical Room
+        caption: |
+            About 350 miles to landfall.  A look at how we watch tv in the cockpit, and a look at a couple more of the screens at the chart table.
+        url: https://youtu.be/3FwndcNfyv4
+        embed: >
+            <iframe width="1028" height="578" src="https://www.youtube.com/embed/3FwndcNfyv4" title="Night Watch   Atlantic Crossing Night 15 + Radar and Sail Steer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240506.jpg
+        duration: 6:27
