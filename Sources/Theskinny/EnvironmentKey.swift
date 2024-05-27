@@ -46,5 +46,5 @@ extension EnvironmentKey where Value == String {
 }
 
 extension EnvironmentKey where Value == [Int] {
-    static let hideGalleryIDs = [Int]()
+    static let hideGalleryIDs = [186] // [Int]()
 }
