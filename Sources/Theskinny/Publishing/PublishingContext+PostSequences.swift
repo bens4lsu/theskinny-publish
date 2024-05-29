@@ -125,6 +125,7 @@ extension PublishingContext where Site == Theskinny {
             try? Gallery(183, dateString: "2024-03-09"),
             try? Gallery(184, dateString: "2024-04-17"),
             try? Gallery(185, dateString: "2024-04-18"),
+            try? Gallery(186, dateString: "2024-05-29"),
         ].compactMap{ $0 }
         return pgSet
     }
