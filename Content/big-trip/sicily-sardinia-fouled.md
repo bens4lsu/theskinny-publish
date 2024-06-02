@@ -17,15 +17,15 @@ I hope the local grocery economy will recover quickly now that we are gone.
 
 (More text after some Sicily photos)
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1562.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1562.jpeg" alt="/img/bigtrip/resIMG_1562.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1562.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1562.jpeg" alt="/img/bigtrip/resIMG_1562.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1584.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1584.jpeg" alt="/img/bigtrip/resIMG_1584.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1584.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1584.jpeg" alt="/img/bigtrip/resIMG_1584.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1629.jpeg" data-lightview-caption="The size of these peppers!" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1629.jpeg" alt="/img/bigtrip/resIMG_1629.jpeg" style="max-width: 650px;"><br><span class="caption">The size of these peppers!</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1629.jpeg" data-lightview-caption="The size of these peppers!" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1629.jpeg" alt="/img/bigtrip/resIMG_1629.jpeg" ><br><span class="caption">The size of these peppers!</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1641.jpeg" data-lightview-caption="If you travel to Sicily, definitely take a tourist boat out to see it from the sea.  It's beautiful from out there." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1641.jpeg" alt="/img/bigtrip/resIMG_1641.jpeg" style="max-width: 650px;"><br><span class="caption">If you travel to Sicily, definitely take a tourist boat out to see it from the sea.  It's beautiful from out there.</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1641.jpeg" data-lightview-caption="If you travel to Sicily, definitely take a tourist boat out to see it from the sea.  It's beautiful from out there." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1641.jpeg" alt="/img/bigtrip/resIMG_1641.jpeg" ><br><span class="caption">If you travel to Sicily, definitely take a tourist boat out to see it from the sea.  It's beautiful from out there.</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1657.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1657.jpeg" alt="/img/bigtrip/resIMG_1657.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1657.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1657.jpeg" alt="/img/bigtrip/resIMG_1657.jpeg" ><br><span class="caption"></span></a>
 
 A full day of motor sailing brought us to the north side of the island.  We bashed into the wind all day.  The sailing wasn't fun, so we tucked into a little cover on a small volcano north of Sicily and got a good night's sleep, followed by a great sail the next day.  Another day yet, and we were to Sardinia.
 
@@ -33,11 +33,11 @@ We chose a marina in a quiet little town that is mostly shut down for the winter
 
 (Even more text after these pictures)
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1681.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1681.jpeg" alt="/img/bigtrip/resIMG_1681.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1681.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1681.jpeg" alt="/img/bigtrip/resIMG_1681.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1682.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1682.jpeg" alt="/img/bigtrip/resIMG_1682.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1682.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1682.jpeg" alt="/img/bigtrip/resIMG_1682.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_1699.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1699.jpeg" alt="/img/bigtrip/resIMG_1699.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_1699.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_1699.jpeg" alt="/img/bigtrip/resIMG_1699.jpeg" ><br><span class="caption"></span></a>
 
 
 Leaving on Saturday, we had ideal conditions for putting out the Code 0 (big, giant downwind sail at the very front of the boat).  But I neglected to get any practice on closed-loop furlers, and as I pulled out sail, the furling mechanism was wrapping itself around the sail instead of just unfurling line like a drum furler would have.  V and I went forward to get things untangled. but the wind had a good grip on the bit of the sail that had gotten let out.  I asked for the boat to be steered into the wind so that the sail would luff, and when the boat turned, it went right over one of the sheets on that sail that was half deployed.
@@ -58,4 +58,4 @@ After that, we had a couple of drinks and enjoyed being anchored on a warm after
 
 At some point, I'll do some technical videos about our sail rigging, but I have a lot left to learn first.
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_9013.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_9013.jpeg" alt="/img/bigtrip/resIMG_9013.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_9013.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_9013.jpeg" alt="/img/bigtrip/resIMG_9013.jpeg" ><br><span class="caption"></span></a>

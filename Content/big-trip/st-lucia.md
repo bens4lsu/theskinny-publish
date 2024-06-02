@@ -25,12 +25,12 @@ Here's a funny part:  When we bought the dinghy, the guy told us we could go to 
 
 As soon as we had rigging repairs completed and the engine and generator serviced (just regular maintenance), we set off.  We have a bit of a learning curve regarding how to secure the dinghy to the retractible davits on Velvet Elvis, and at one point, we had the dinghy hanging off sideways out in the ocean.  It's always something with us.
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2541.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2541.jpeg" alt="/img/bigtrip/resIMG_2541.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2541.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2541.jpeg" alt="/img/bigtrip/resIMG_2541.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2552.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2552.jpeg" alt="/img/bigtrip/resIMG_2552.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2552.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2552.jpeg" alt="/img/bigtrip/resIMG_2552.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2563.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2563.jpeg" alt="/img/bigtrip/resIMG_2563.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2563.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2563.jpeg" alt="/img/bigtrip/resIMG_2563.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2572.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2572.jpeg" alt="/img/bigtrip/resIMG_2572.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2572.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2572.jpeg" alt="/img/bigtrip/resIMG_2572.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2581.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2581.jpeg" alt="/img/bigtrip/resIMG_2581.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2581.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2581.jpeg" alt="/img/bigtrip/resIMG_2581.jpeg" ><br><span class="caption"></span></a>

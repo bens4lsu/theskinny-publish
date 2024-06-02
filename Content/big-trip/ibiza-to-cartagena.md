@@ -21,18 +21,18 @@ After dark on Tuesday, we gave up on UPS ever delivering the anchor that they ha
 
 I like how we've managed to be in port for weekends.  I'd much rather be on work calls and transforming data while rolling through the sea, leaving my weekends to walk and explore old cities.  
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" alt="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" alt="/img/bigtrip/resIMG_20240302_141636_IMG_1864.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" alt="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" alt="/img/bigtrip/resIMG_20240303_134547_IMG_1892.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" alt="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" alt="/img/bigtrip/resIMG_20240303_140215_GPTempDownload6.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" alt="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" alt="/img/bigtrip/resIMG_20240303_144240_IMG_1906.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" alt="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" alt="/img/bigtrip/resIMG_20240303_153217_IMG_1917.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" data-lightview-caption="Parking the dinghy back in its garage." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" alt="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" style="max-width: 650px;"><br><span class="caption">Parking the dinghy back in its garage.</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" data-lightview-caption="Parking the dinghy back in its garage." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" alt="/img/bigtrip/resIMG_20240304_113344_IMG_1931.jpg" ><br><span class="caption">Parking the dinghy back in its garage.</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/IMG_1953.jpeg" data-lightview-caption="The coast of continental Spain." data-lightview-group="group1"><img src="/img/bigtrip/IMG_1953.jpeg" alt="/img/bigtrip/IMG_1953.jpeg" style="max-width: 650px;"><br><span class="caption">The coast of continental Spain.</span></a>
+<a class="lightview centered" href="/img/bigtrip/IMG_1953.jpeg" data-lightview-caption="The coast of continental Spain." data-lightview-group="group1"><img src="/img/bigtrip/IMG_1953.jpeg" alt="/img/bigtrip/IMG_1953.jpeg" ><br><span class="caption">The coast of continental Spain.</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/IMG_1954.jpeg" data-lightview-caption="Cartagena" data-lightview-group="group1"><img src="/img/bigtrip/IMG_1954.jpeg" alt="/img/bigtrip/IMG_1954.jpeg" style="max-width: 650px;"><br><span class="caption">Cartagena</span></a>
+<a class="lightview centered" href="/img/bigtrip/IMG_1954.jpeg" data-lightview-caption="Cartagena" data-lightview-group="group1"><img src="/img/bigtrip/IMG_1954.jpeg" alt="/img/bigtrip/IMG_1954.jpeg" ><br><span class="caption">Cartagena</span></a>

@@ -19,14 +19,14 @@ The next day, we sailed some more and stopped at Saint-Pierre.  We took a moorin
 
 We really didn't go inland at all.  And like I mentioned at the top, we didn't do much that was specific to Martinique, other than be treated rudely for our poor attempts to communicate in French.  But it was a fun return to a social life, however briefly it lasted.
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2591.jpeg" data-lightview-caption="Rosie's first step on land in almost a month.  Every boat in the Carribean seems to have a dog who is not allowed to get off of its vessel." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2591.jpeg" alt="/img/bigtrip/resIMG_2591.jpeg" style="max-width: 650px;"><br><span class="caption">Rosie's first step on land in almost a month.  Every boat in the Carribean seems to have a dog who is not allowed to get off of its vessel.</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2591.jpeg" data-lightview-caption="Rosie's first step on land in almost a month.  Every boat in the Carribean seems to have a dog who is not allowed to get off of its vessel." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2591.jpeg" alt="/img/bigtrip/resIMG_2591.jpeg" ><br><span class="caption">Rosie's first step on land in almost a month.  Every boat in the Carribean seems to have a dog who is not allowed to get off of its vessel.</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2594.jpeg" data-lightview-caption="Les Anses-d'Arlet" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2594.jpeg" alt="/img/bigtrip/resIMG_2594.jpeg" style="max-width: 650px;"><br><span class="caption">Les Anses-d'Arlet</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2594.jpeg" data-lightview-caption="Les Anses-d'Arlet" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2594.jpeg" alt="/img/bigtrip/resIMG_2594.jpeg" ><br><span class="caption">Les Anses-d'Arlet</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2598.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2598.jpeg" alt="/img/bigtrip/resIMG_2598.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2598.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2598.jpeg" alt="/img/bigtrip/resIMG_2598.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2614.jpeg" data-lightview-caption="Saint Pierre" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2614.jpeg" alt="/img/bigtrip/resIMG_2614.jpeg" style="max-width: 650px;"><br><span class="caption">Saint Pierre</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2614.jpeg" data-lightview-caption="Saint Pierre" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2614.jpeg" alt="/img/bigtrip/resIMG_2614.jpeg" ><br><span class="caption">Saint Pierre</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2616.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2616.jpeg" alt="/img/bigtrip/resIMG_2616.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2616.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2616.jpeg" alt="/img/bigtrip/resIMG_2616.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2620.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2620.jpeg" alt="/img/bigtrip/resIMG_2620.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2620.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2620.jpeg" alt="/img/bigtrip/resIMG_2620.jpeg" ><br><span class="caption"></span></a>

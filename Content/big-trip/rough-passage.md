@@ -26,20 +26,20 @@ Most of my latest pictures are close ups of hull damage and steering mechanisms.
 
 First, a few pics from Palma, Mallorca: 
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" alt="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" alt="/img/bigtrip/resIMG_20240220_082117_IMG_1717.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" alt="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" alt="/img/bigtrip/resIMG_20240220_083920_IMG_1718.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" alt="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" alt="/img/bigtrip/resIMG_20240221_121846_IMG_1738.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" alt="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>x
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" alt="/img/bigtrip/resIMG_20240221_124429_IMG_1741.jpg" ><br><span class="caption"></span></a>x
 
 And not much from Ibiza, but there was at least a nice sunset in the marina.  
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" alt="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" alt="/img/bigtrip/resIMG_20240225_184530_IMG_1802.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" alt="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" alt="/img/bigtrip/resIMG_20240225_184737_IMG_1804.jpg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" alt="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" alt="/img/bigtrip/resIMG_20240226_091330_IMG_1805.jpg" ><br><span class="caption"></span></a>
 
 I'm not posting pictures of my damage just yet.  Too traumatic.  Maybe later.

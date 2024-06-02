@@ -16,7 +16,7 @@ We bounced off the dock (ouch) and started blowing toward a moored mega yacht. M
 
 Once we ascertained that we were more or less safe, I went for a swim and sawed the prop free.
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2318.jpeg" data-lightview-caption="The liberated fishing net" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2318.jpeg" alt="/img/bigtrip/resIMG_2318.jpeg" style="max-width: 650px;"><br><span class="caption">The liberated fishing net</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2318.jpeg" data-lightview-caption="The liberated fishing net" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2318.jpeg" alt="/img/bigtrip/resIMG_2318.jpeg" ><br><span class="caption">The liberated fishing net</span></a>
 
 From there, we were able to get back to the fuel dock, fill up, and get to a med moor for the stay.
 
@@ -26,9 +26,9 @@ On top of that, the people were very nice, there is boat service by very compete
 
 Before we even officially checked in to the country, I scheduled the boat repair that we needed, and an unbidden laundry lady showed up to handle our sweaty clothes.  That left us to mostly wander around, eat, and drink for most of the time that we were there.
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2334.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2334.jpeg" alt="/img/bigtrip/resIMG_2334.jpeg" style="max-width: 650px;"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2334.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2334.jpeg" alt="/img/bigtrip/resIMG_2334.jpeg" ><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2336.jpeg" data-lightview-caption="You know how you go to the beach, and it's never as pretty in the pictures as it is in real life?  Well somehow, this beach is prettier in the picture.  It's fine in real life too, but not this nice." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2336.jpeg" alt="/img/bigtrip/resIMG_2336.jpeg" style="max-width: 650px;"><br><span class="caption">You know how you go to the beach, and it's never as pretty in the pictures as it is in real life?  Well somehow, this beach is prettier in the picture.  It's fine in real life too, but not this nice.</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2336.jpeg" data-lightview-caption="You know how you go to the beach, and it's never as pretty in the pictures as it is in real life?  Well somehow, this beach is prettier in the picture.  It's fine in real life too, but not this nice." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2336.jpeg" alt="/img/bigtrip/resIMG_2336.jpeg" ><br><span class="caption">You know how you go to the beach, and it's never as pretty in the pictures as it is in real life?  Well somehow, this beach is prettier in the picture.  It's fine in real life too, but not this nice.</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/resIMG_2353.jpeg" data-lightview-caption="At the vet's office, to get paperwork for the next country." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2353.jpeg" alt="/img/bigtrip/resIMG_2353.jpeg" style="max-width: 650px;"><br><span class="caption">At the vet's office, to get paperwork for the next country.</span></a>
+<a class="lightview centered" href="/img/bigtrip/resIMG_2353.jpeg" data-lightview-caption="At the vet's office, to get paperwork for the next country." data-lightview-group="group1"><img src="/img/bigtrip/resIMG_2353.jpeg" alt="/img/bigtrip/resIMG_2353.jpeg" ><br><span class="caption">At the vet's office, to get paperwork for the next country.</span></a>
 

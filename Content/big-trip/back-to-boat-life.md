@@ -28,14 +28,14 @@ We even cooked home made food yesterday for the first time since we arrived.
 
 As I write, it's blowing out there:
 
-<a class="lightview centered" href="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" data-lightview-caption="This shows that in the last hour, the average wind speed has been 19 kts, with gusts up to about 32." data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" alt="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" style="max-width: 650px;"><br><span class="caption">This shows that in the last hour, the average wind speed has been 19 kts, with gusts up to about 32.</span></a>
+<a class="lightview centered" href="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" data-lightview-caption="This shows that in the last hour, the average wind speed has been 19 kts, with gusts up to about 32." data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" alt="/img/bigtrip/IMG_20240119_112555_IMG_1315.jpg" ><br><span class="caption">This shows that in the last hour, the average wind speed has been 19 kts, with gusts up to about 32.</span></a>
 
 <iframe width="1034" height="582" src="https://www.youtube.com/embed/aeep-JfdU-g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a class="lightview centered" href="/img/bigtrip/IMG_20240119_100038_IMG_1314.jpg" data-lightview-caption="This is one of my favorite pictures that I've ever taken.  It looked that surreal and more in real life.
-" data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240119_100038_IMG_1314.jpg" alt="/img/bigtrip/IMG_20240119_100038_IMG_1314.jpg" style="max-width: 650px;"><br><span class="caption">This is one of my favorite pictures that I've ever taken.  It looked that surreal and more in real life.
+" data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240119_100038_IMG_1314.jpg" alt="/img/bigtrip/IMG_20240119_100038_IMG_1314.jpg" ><br><span class="caption">This is one of my favorite pictures that I've ever taken.  It looked that surreal and more in real life.
 </span></a>
 
-<a class="lightview centered" href="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" data-lightview-caption="Nav station is pretty comfortable" data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" alt="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" style="max-width: 650px;"><br><span class="caption">Nav station is pretty comfortable</span></a>
+<a class="lightview centered" href="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" data-lightview-caption="Nav station is pretty comfortable" data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" alt="/img/bigtrip/IMG_20240118_204619_IMG_1311.jpg" ><br><span class="caption">Nav station is pretty comfortable</span></a>
 
-<a class="lightview centered" href="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" data-lightview-caption="Maks's spot in the belly of the boat." data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" alt="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" style="max-width: 650px;"><br><span class="caption">Maks's spot in the belly of the boat.</span></a>
+<a class="lightview centered" href="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" data-lightview-caption="Maks's spot in the belly of the boat." data-lightview-group="group1"><img src="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" alt="/img/bigtrip/IMG_20240118_131729_IMG_1307.jpg" ><br><span class="caption">Maks's spot in the belly of the boat.</span></a>
