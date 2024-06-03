@@ -78,15 +78,28 @@ videos:
            <iframe width="1028" height="578" src="https://www.youtube.com/embed/7xTFsXPmUOY" title="Night Watch   Atlantic Crossing Night 16 + Routine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240507.jpg
         duration: 4:44
-#   -
-#       id: 912345028
-#       dateRecorded: 2024-05-08
-#       name: Night Watch Atlantic Crossing Night 17 + Passage Wrapup
-#       caption: |
-#           I think this should be my last night watch.  Thanks to everyone for all of your comments and feedback.  There's been more than one night where that was the motivation to create another video.  No plans to post tomorrow, but we'll have more online throughout the summer.
-#       url: https://youtu.be/hi-H6Y87EtY
-#       embed: >
-#           <iframe width="1028" height="578" src="https://www.youtube.com/embed/hi-H6Y87EtY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#       tn: mq20240508.jpg
-#       duration: 2:51
-#
+    -
+       id: 912345028
+       dateRecorded: 2024-05-08
+       name: Night Watch Atlantic Crossing Night 17 + Passage Wrapup
+       caption: |
+           I think this should be my last night watch.  Thanks to everyone for all of your comments and feedback.  There's been more than one night where that was the motivation to create another video.  No plans to post tomorrow, but we'll have more online throughout the summer.
+       url: https://youtu.be/hi-H6Y87EtY
+       embed: >
+           <iframe width="1028" height="578" src="https://www.youtube.com/embed/hi-H6Y87EtY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20240508.jpg
+       duration: 2:51
+       
+    -
+       id: 912345029
+       dateRecorded: 2024-06-03
+       name: V Shows Us Montserrat Vocano Ruins
+       caption: |
+           Most of the time, I can rearrange work stuff to do the island field trips with the family.  Sometimes I caan't.  I didn't get to go see the volcano ruins in Montserrat, so V did a little video for me.
+           
+           (This was really recorded on May 30 or so, but I'm dating it later so that it shows in the big trip feed in a more logical place.)
+       url: https://youtu.be/XF_0EZZL1YQ
+       embed: >
+           <iframe width="1111" height="625" src="https://www.youtube.com/embed/XF_0EZZL1YQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20240531.jpg
+       duration: 1:02
