@@ -11,6 +11,7 @@ fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 
 do {
     shell("chflags -R uchg \(mediaPath)")
+    shell("chmod -R 777 ./tmp")
     
     /*
      
