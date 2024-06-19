@@ -1,7 +1,7 @@
 ---
 title: Statia
 date: 2024-06-18 16:16
-description: Montserrat started a string of very small, lightly populated islands that I could not have identified before this trip.  There is one anchorage, and it had only two other boats there when we arrived.  Others came and went, but there were at most seven or so boats floating around out there.
+description: Statia, or St. Eustatius if you prefer, is our first Dutch island.  It’s just a tiny little roundish thing out here in the Caribbean, with not a whole lot of people.  There’s a decent little waterfront, and then a steep climb up to the town proper.  It’s a pretty little town with stone streets and friendly people.  It’s a nice place.
 tags: 
 id: 20240618
 ogImg: /img/bigtrip/IMG_3068.jpeg

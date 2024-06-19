@@ -446,7 +446,10 @@ div.divH4Sub div img {
 div.divH4Sub div iframe {
     width:100%;
     aspect-ratio: 16/9;
+    
 }
+
+iframe { max-width:100%; }
 
 .grid-span-2 {
     grid-column: span 2;
