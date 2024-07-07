@@ -118,17 +118,7 @@ extension PublishingContext where Site == Theskinny {
         return BlogPosts(items: posts)
     }
     
-    var bigTripPGs: [Gallery] {
-        let pgSet = [
-            try? Gallery(181, dateString: "2024-01-29"),
-            try? Gallery(182, dateString: "2024-02-21"),
-            try? Gallery(183, dateString: "2024-03-09"),
-            try? Gallery(184, dateString: "2024-04-17"),
-            try? Gallery(185, dateString: "2024-04-18"),
-            try? Gallery(186, dateString: "2024-05-29"),
-        ].compactMap{ $0 }
-        return pgSet
-    }
+    
     
     var bigtripAll: TripPosts {
         let typeErasedBlogPosts = self.bigtripPosts.items.map {
@@ -137,7 +127,7 @@ extension PublishingContext where Site == Theskinny {
         let typeErasedVideos = self.bigtripVideos.map {
             TripPost(.video($0))
         }
-        let typeErasedGalleries = self.bigTripPGs.map {
+        let typeErasedGalleries = EnvironmentKey.bigTripPGs.map {
             TripPost(.pg($0))
         }
         return TripPosts(items: typeErasedBlogPosts + typeErasedVideos + typeErasedGalleries)

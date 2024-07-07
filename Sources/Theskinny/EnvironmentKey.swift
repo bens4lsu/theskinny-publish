@@ -48,3 +48,18 @@ extension EnvironmentKey where Value == String {
 extension EnvironmentKey where Value == [Int] {
     static let hideGalleryIDs = [Int]()
 }
+
+extension EnvironmentKey where Value == [Gallery] {
+    static let bigTripPGs = {
+        let pgSet = [
+            try? Gallery(181, dateString: "2024-01-29"),
+            try? Gallery(182, dateString: "2024-02-21"),
+            try? Gallery(183, dateString: "2024-03-09"),
+            try? Gallery(184, dateString: "2024-04-17"),
+            try? Gallery(185, dateString: "2024-04-18"),
+            try? Gallery(186, dateString: "2024-05-29"),
+            try? Gallery(187, dateString: "2024-07-07")
+        ].compactMap{ $0 }
+        return pgSet
+    }()
+}
