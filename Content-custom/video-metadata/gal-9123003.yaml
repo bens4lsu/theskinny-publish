@@ -111,3 +111,13 @@ videos:
            <iframe width="834" height="469" src="https://www.youtube.com/embed/bHX3AaCnKX0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        tn: mq20240619.jpg
        duration: 0:18
+    -
+       id: 912345031
+       dateRecorded: 2024-07-10
+       name: Night Watch - New World Edition
+       caption: Our first Night Watch video since the crossing.  Just a quick update followed by a minute of sailing footage from a couple of days ago when we were moving with speed through a wavy ocean.
+       url: https://youtu.be/elbd7CN-J0E
+       embed: >
+           <iframe width="954" height="537" src="https://www.youtube.com/embed/elbd7CN-J0E" title="Night Watch - New World Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20240710.jpg
+       duration: 3:13
