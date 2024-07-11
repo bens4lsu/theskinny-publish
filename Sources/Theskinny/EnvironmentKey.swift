@@ -46,7 +46,7 @@ extension EnvironmentKey where Value == String {
 }
 
 extension EnvironmentKey where Value == [Int] {
-    static let hideGalleryIDs: [Int] = [187]
+    static let hideGalleryIDs: [Int] = []
 }
 
 extension EnvironmentKey where Value == [Gallery] {
@@ -58,7 +58,7 @@ extension EnvironmentKey where Value == [Gallery] {
             try? Gallery(184, dateString: "2024-04-17"),
             try? Gallery(185, dateString: "2024-04-18"),
             try? Gallery(186, dateString: "2024-05-29"),
-            try? Gallery(187, dateString: "2024-07-07")
+            try? Gallery(187, dateString: "2024-07-11")
         ].compactMap{ $0 }
         return pgSet
     }()
