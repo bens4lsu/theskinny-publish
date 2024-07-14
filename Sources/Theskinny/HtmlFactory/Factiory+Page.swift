@@ -26,6 +26,8 @@ extension TsobHTMLFactory {
                 return makePagePgHome(for: page, context: context)
             case "velvet-elvis/beneteau":
                 return makePageBeneteauHome(for: page, context: context)
+            case "big-trip-reversed":
+                return makePageBigTripReversed(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -112,8 +114,17 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
-        
-        
+    }
+    
+    fileprivate func makePageBigTripReversed(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Travel Page")
+        let btContext = context.bigtripAll
+        let mainContent = TripPostsReversed(tripPosts: btContext)
+        let pageMain = AnyPageMain(mainContent: mainContent, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
     }
     
 }
