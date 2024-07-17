@@ -121,3 +121,18 @@ videos:
            <iframe width="954" height="537" src="https://www.youtube.com/embed/elbd7CN-J0E" title="Night Watch - New World Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        tn: mq20240710.jpg
        duration: 3:13
+    -
+       id: 912345032
+       dateRecorded: 2024-07-17
+       name: BVI Video Highlight Reel
+       caption: |
+          Unedited clips from my library pieced together.  
+          
+          Partying on board, dancing at Foxy's, and jumping from Willie T's.  And about 10 seconds of a late-week snorkel.
+          
+          Annika did finally work up the nerve to jump, but I couldn't find the video evidence.
+       url: https://youtu.be/BiEYfVEVZJs
+       embed: >
+           <iframe width="970" height="546" src="https://www.youtube.com/embed/BiEYfVEVZJs" title="BVI Video Highlight Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20240717.jpg
+       duration: 5:35
