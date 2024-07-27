@@ -8,7 +8,7 @@ ogImg: /img/gal/189%20-%20BVI%20Mega%20Gallery/resIMG_20240616_103240_dji_fly__1
 ---
 The British Virgin Islands are by far the most popular cruising grounds in the Caribbean.  I went in expecting to have a lot of fun, but to be underwhelmed by the "touristy" destination.  But it turns out that there's a reason for its popularity.  There's something that's a lot of fun on every island, and they're all just a 2 or 3 hour sail away.
 
-The highlight of the trip, of course, was welcoming our first on board visitors.  Many good times were had, and the best place to get a feel for those is in the <a href="/gal/189%20-%20BVI%20Mega%20Gallery/">photo gallery</a>.
+The highlight of the trip, of course, was welcoming our first on board visitors.  Many good times were had.
 
 We ticked all of the must stop places:  
 

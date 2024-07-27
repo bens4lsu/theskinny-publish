@@ -35,5 +35,3 @@ On the fiasco front, we started having trouble with dinghy fuel.  A pinhole on t
 More concerning was that one of the control pads for the air conditioning went out.  We made do my moving the other one back and forth, but then one day, some salt water splashed on the spare and we were down to none.  Air conditioning was fun while it lasted.
 
 <a class="lightview centered" href="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240701_170545_IMG_3614.jpg" data-lightview-caption="Ice Cream in Old San Juan" data-lightview-group="group1"><img src="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240701_170545_IMG_3614.jpg" alt="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240701_170545_IMG_3614.jpg" ><br><span class="caption">Ice Cream in Old San Juan</span></a>
-
-Lots more pictures <a href="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/">over here</a>.
