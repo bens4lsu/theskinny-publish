@@ -136,3 +136,13 @@ videos:
            <iframe width="970" height="546" src="https://www.youtube.com/embed/BiEYfVEVZJs" title="BVI Video Highlight Reel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        tn: mq20240717.jpg
        duration: 5:35
+    -
+       id: 912345033
+       dateRecorded: 2024-07-28
+       name: Night Watch - Final Chapter + Mobile Ship Channel at Night
+       caption: The worst part of any trip we take is passing Mobile at night.  And somehow, we alsways end up passing at night.
+       url: https://youtu.be/fc762rR7Vv4
+       embed: >
+           <iframe width="1104" height="621" src="https://www.youtube.com/embed/fc762rR7Vv4" title="Night Watch   Final Chapter + Mobile Ship Channel at Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20240728.jpg
+       duration: 1:51
