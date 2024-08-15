@@ -13,6 +13,11 @@ do {
     shell("chflags -R uchg \(mediaPath)")
     shell("chmod -R 777 ./tmp")
     
+    defer {
+        try? restoreSymlinks()
+        shell("chflags -R nouchg \(mediaPath)")
+    }
+    
     /*
      
     command to unlock folders recursive:
@@ -31,9 +36,7 @@ do {
         .imageGalleries()
     ])
     
-    try restoreSymlinks()
     
-    shell("chflags -R nouchg \(mediaPath)")
     
     
 } catch (let e) {
