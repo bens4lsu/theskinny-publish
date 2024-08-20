@@ -33,10 +33,9 @@ do {
         .writePostPages(),
         .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
-        .imageGalleries()
+        .imageGalleries(),
+//        .dailyPhotos()
     ])
-    
-    
     
     
 } catch (let e) {

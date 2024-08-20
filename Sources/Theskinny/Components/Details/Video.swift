@@ -35,10 +35,6 @@ struct Video: Component, Decodable {
     
     var formattedDate: String {
         if let dateRecorded {
-            if id == 912345019 {
-                print (dateRecorded)
-                print(EnvironmentKey.defaultDateFormatter.string(from: dateRecorded))
-            }
             return EnvironmentKey.defaultDateFormatter.string(from: dateRecorded)
         }
         return ""

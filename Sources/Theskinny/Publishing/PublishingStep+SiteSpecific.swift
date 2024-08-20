@@ -8,6 +8,7 @@
 import Foundation
 import Plot
 import Publish
+import Files
 
 extension PublishingStep where Site == Theskinny {
     
@@ -133,6 +134,23 @@ extension PublishingStep where Site == Theskinny {
                 page.content.imagePath = Path(gallery.normalImagePath)
                 page.content.body.html = html.render()
                 context.addPage(page)
+            }
+        }
+    }
+    
+    static func dailyPhotos() -> Self {
+        .step(named: "Daily Photos") { context in
+            let years = context.dailyPhotosAll
+            for year in years {
+                let thisFolder = try Folder(path: ".")
+                try thisFolder.createSubfolderIfNeeded(at: "\(year)")
+                for dailyphoto in year.dp {
+                    let path = "/dailyphoto/\(year)/\(dailyphoto.year)\(dailyphoto.month)\(dailyphoto.day)"
+                    var page = Page(path: Path(path), content: Content())
+                    let html = HTML(.component(dailyphoto))
+                    page.content.body.html = html.render()
+                    context.addPage(page)
+                }
             }
         }
     }
