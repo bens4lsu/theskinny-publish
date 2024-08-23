@@ -43,12 +43,6 @@ extension EnvironmentKey where Value == String {
     static let emptyImg = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+P+/HgAFhAJ/wlseKgAAAABJRU5ErkJggg=="
     
     static let predictWindSrc = "https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000"
-    
-    static let dailyphotostore = "/Volumes/BenPortData/theskinny-media/dailyphotostore"
-}
-
-extension EnvironmentKey where Value == [Int] {
-    static let hideGalleryIDs: [Int] = []
 }
 
 extension EnvironmentKey where Value == [Gallery] {
@@ -70,3 +64,4 @@ extension EnvironmentKey where Value == [Gallery] {
         return pgSet
     }()
 }
+

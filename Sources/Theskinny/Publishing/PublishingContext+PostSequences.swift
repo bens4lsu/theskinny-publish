@@ -152,40 +152,6 @@ extension PublishingContext where Site == Theskinny {
         return decoded
     }
     
-    var dailyPhotosAll: [DailyPhotoYear] {
-        var years = [DailyPhotoYear]()
-        let rootPath = EnvironmentKey.dailyphotostore
-        do {
-            let topFolder = try Folder(path: rootPath)
-            try topFolder.subfolders.forEach { folder in
-                var dp = [DailyPhoto]()
-                guard let year = UInt16(folder.name) else {
-                    throw DailyPhotoError.errorInFolderName
-                }
-                try folder.files.forEach { file in
-                    if file.extension == "jpg" {
-                        guard let year = UInt16(file.name.substring(from: 0, to: 3)),
-                              let month = UInt8(file.name.substring(from: 4, to: 5)),
-                              let day = UInt8(file.name.substring(from: 6, to: 7))
-                        else {
-                            throw DailyPhotoError.errorInFileName
-                        }
-                        let imagePath = "/dailyphoto/\(folder.name)/\(year)\(month)\(day).jpg"
-                        let captionFilePath = "\(rootPath)/\(folder.name)/\(year)\(month)\(day).txt"
-                        var caption = ""
-                        if let captionFile = try? File(path: captionFilePath) {
-                            caption = try captionFile.readAsString()
-                        }
-                        dp.append(DailyPhoto(imagePath: imagePath, caption: caption, month: month, day: day, year: year))
-                    }
-                }
-                years.append(DailyPhotoYear(dp: dp, year: year))
-            }
-        } catch (let e) {
-            print ("Error loading daily photots: \(e)")
-        }
-        return years
-    }
 
 }
 

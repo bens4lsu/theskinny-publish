@@ -16,3 +16,13 @@ extension Int {
         !self.isEven
     }
 }
+
+extension UInt8 {
+    func zeroPadded(_ numDigitsUInt: UInt16) -> String {
+        let numDigits = Int(numDigitsUInt)
+        return String (
+            (String(repeating: "0", count: numDigits) + String(self))
+                .suffix(numDigits)
+        )
+    }
+}

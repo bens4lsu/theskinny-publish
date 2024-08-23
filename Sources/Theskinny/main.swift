@@ -34,7 +34,7 @@ do {
         .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
         .imageGalleries(),
-//        .dailyPhotos()
+ //       .dailyPhotos()
     ])
     
     
@@ -65,9 +65,9 @@ fileprivate func hideResourceImages() throws {
 
 fileprivate func restoreSymlinks() throws {
     shell ("chflags -R nouchg Resources/img")
-    shell ("chflags -R nouchg Output/img")
+    //shell ("chflags -R nouchg Output/img")
     shell ("rm -r Resources/img")
-    shell ("rm -r Output/img")
+    //shell ("rm -r Output/img")
     shell ("cd Resources && ln -s \(mediaPath)/img img")
     shell ("cd Output && ln -s \(mediaPath)/img img")
     shell ("cd Resources && ln -s \(mediaPath)/sound sound")

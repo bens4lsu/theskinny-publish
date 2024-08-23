@@ -36,7 +36,7 @@ struct Gallery: Component {
     }
 
     init(_ id: Int) throws {
-        let galleryLoad = Galleries.imageGalleries.filter{ $0.id == id }.first
+        let galleryLoad = ImageGalleryData.imageGalleries.filter{ $0.id == id }.first
         guard let gallery = galleryLoad else {
             throw GalleryLoadError.attemptToLoadGalleryWithInvalidID
         }

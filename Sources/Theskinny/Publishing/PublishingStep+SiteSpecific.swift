@@ -128,7 +128,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func imageGalleries() -> Self {
         .step(named: "Image galleries"){ context in
-            for gallery in Galleries.imageGalleries {
+            for gallery in ImageGalleryData.imageGalleries {
                 var page = Page (path: Path(gallery.path), content: Content())
                 let html = HTML(.component(gallery))
                 page.content.imagePath = Path(gallery.normalImagePath)
@@ -140,13 +140,14 @@ extension PublishingStep where Site == Theskinny {
     
     static func dailyPhotos() -> Self {
         .step(named: "Daily Photos") { context in
-            let years = context.dailyPhotosAll
+            let years = DailyPhotoData.years
+            let outputFolder = try Folder(path: ".")
+            let dailyphotoFolder = try outputFolder.createSubfolderIfNeeded(at: "dailyphoto")
             for year in years {
-                let thisFolder = try Folder(path: ".")
-                try thisFolder.createSubfolderIfNeeded(at: "\(year)")
                 for dailyphoto in year.dp {
-                    let path = "/dailyphoto/\(year)/\(dailyphoto.year)\(dailyphoto.month)\(dailyphoto.day)"
-                    var page = Page(path: Path(path), content: Content())
+                    //let path = "\(yearFolder.path)\(dailyphoto.year)\(dailyphoto.month.zeroPadded(2))\(dailyphoto.day.zeroPadded(2))"
+                    
+                    var page = Page(path: Path(dailyphoto.link), content: Content())
                     let html = HTML(.component(dailyphoto))
                     page.content.body.html = html.render()
                     context.addPage(page)
