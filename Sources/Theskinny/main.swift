@@ -49,7 +49,7 @@ do {
 fileprivate func hideResourceImages() throws {
     let root = try Folder(path: ".")
     try root.subfolder(at: "tmp").delete()
-    shell ("rm Output/img && rm Output/sound")
+    shell ("rm Output/img && rm Output/sound && rm Output/dailyphotostore")
     let tmpFolder = try root.createSubfolderIfNeeded(at: "tmp")
     let galleryFolder = try Folder(path: "\(mediaPath)/img/gal")
     for f in galleryFolder.subfolders {
@@ -61,6 +61,7 @@ fileprivate func hideResourceImages() throws {
     }
     shell ("rm Resources/img")
     shell ("rm Resources/sound")
+    shell ("rm Resources/dailyphotostore")
     shell ("mkdir Resources/img")
     shell ("mkdir Resources/img/gal")
     shell ("mv tmp/* Resources/img/gal")
@@ -68,13 +69,16 @@ fileprivate func hideResourceImages() throws {
 
 fileprivate func restoreSymlinks() throws {
     shell ("chflags -R nouchg Resources/img")
-    //shell ("chflags -R nouchg Output/img")
+    shell ("chflags -R nouchg Output/img")
     shell ("rm -r Resources/img")
-    //shell ("rm -r Output/img")
+    shell ("rm -r Output/img")
     shell ("cd Resources && ln -s \(mediaPath)/img img")
     shell ("cd Output && ln -s \(mediaPath)/img img")
+    shell ("cd Output && ln -s \(mediaPath)/dailyphotostore dailyphotostore")
     shell ("cd Resources && ln -s \(mediaPath)/sound sound")
     shell ("cd Output && ln -s \(mediaPath)/sound sound")
+    shell ("cd Resources && ln -s \(mediaPath)/dailyphotostore dailyphotostore")
+
 }
 
 

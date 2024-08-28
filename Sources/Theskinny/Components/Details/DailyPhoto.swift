@@ -30,8 +30,29 @@ struct DailyPhoto: Component, Comparable {
         "/dailyphotostore/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2)).jpg"
     }
     
+    var dateString: String {
+        let yyyyMMdd = "\(year.zeroPadded(4))\(month.zeroPadded(2))\(day.zeroPadded(2))"
+        let date = EnvironmentKey.yyyyMMddDateFormatter.date(from: yyyyMMdd) ?? Date()
+        let str = EnvironmentKey.defaultDateFormatter.string(from: date)
+        return str
+    }
+    
+    var topLinks: TopNavLinks {
+        var prevLinkInfo: LinkInfo? = nil
+        var nextLinkInfo: LinkInfo? = nil
+        if let prevLink {
+            prevLinkInfo = LinkInfo("Previous", prevLink)
+        }
+        if let nextLink {
+            nextLinkInfo = LinkInfo("Next", nextLink)
+        }
+        return TopNavLinks(prevLinkInfo, nil, nextLinkInfo)
+    }
+    
     var body: Component {
         Div {
+            topLinks
+            H3(dateString)
             Div {
                 Paragraph(caption).class("dailyphotocaption")
                 Image(imagePath).class("dailyphotoimage")

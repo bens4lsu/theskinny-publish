@@ -143,10 +143,14 @@ extension PublishingStep where Site == Theskinny {
             for year in DailyPhotoData.years {
                 
                 // page for dailyphoto/20xx/index.html
-                if let yearLink = year.link,
-                   let redirString = year.dp.first?.link
+                let yearLink = year.link
+                if let redirString = year.first?.link
                 {
-                    try writeRedirect(atPage: Path(yearLink), to: Path(redirString), onContext: &context)
+                    var redirPage = Page(path: Path(yearLink), content: Content())
+                    let redirScript = Script("window.location.replace(\"/blog2/\(yearLink)\");")
+                    let redirHtml = HTML(redirScript.convertToNode())
+                    redirPage.content.body.html = redirHtml.render()
+                    context.addPage(redirPage)
                 }
                 
                 // individual image pages

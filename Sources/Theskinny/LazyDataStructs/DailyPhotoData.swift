@@ -21,11 +21,8 @@ struct DailyPhotoYear: Comparable {
     var prevYearLink: String?
     var nextYearLink: String?
     
-    var link: String? {
-        dp.sorted().first?.link
-    }
+    var link: String
 
-    
     var first: DailyPhoto? {
         dp.sorted().first
     }
@@ -72,7 +69,8 @@ struct DailyPhotoData {
                         dp.append(DailyPhoto(caption: caption, month: month, day: day, year: year))
                     }
                 }
-                years.append(DailyPhotoYear(dp: dp, year: year))
+                let yearRedirectPath = "\(rootPath)/\(folder.name)"
+                years.append(DailyPhotoYear(dp: dp, year: year, link: yearRedirectPath))
             }
         } catch (let e) {
             print ("Error loading daily photots: \(e)")
