@@ -64,13 +64,12 @@ struct DailyPhotoData {
                         else {
                             throw DailyPhotoError.errorInFileName
                         }
-                        let imagePath = "/dailyphoto/\(folder.name)/\(year)\(month)\(day).jpg"
-                        let captionFilePath = "\(rootPath)/\(folder.name)/\(year)\(month)\(day).txt"
+                        let captionFilePath = "\(rootPath)/\(folder.name)/\(year.zeroPadded(4))\(month.zeroPadded(2))\(day.zeroPadded(2)).txt"
                         var caption = ""
                         if let captionFile = try? File(path: captionFilePath) {
                             caption = try captionFile.readAsString()
                         }
-                        dp.append(DailyPhoto(imagePath: imagePath, caption: caption, month: month, day: day, year: year))
+                        dp.append(DailyPhoto(caption: caption, month: month, day: day, year: year))
                     }
                 }
                 years.append(DailyPhotoYear(dp: dp, year: year))

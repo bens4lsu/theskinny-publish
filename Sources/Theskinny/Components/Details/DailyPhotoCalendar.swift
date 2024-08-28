@@ -38,9 +38,7 @@ struct DailyPhotoCalendar {
     struct DayCellContent: Component {
         var dailyPhoto: DailyPhoto?
         var number: Int
-        //var index: ImageIndex?
-        //var rowBreakAfter: Bool
-        //var isLast: Bool
+
         var isSelected: Bool
         
         var link: String? {
@@ -50,7 +48,7 @@ struct DailyPhotoCalendar {
         
         
         var body: Component {
-            TableCell{
+            var cell: Component = TableCell{
                 if let link {
                     Link(String(number), url: link)
                 }
@@ -58,6 +56,15 @@ struct DailyPhotoCalendar {
                     Text(String(number))
                 }
             }
+            
+            if isSelected {
+                cell = cell.class("cell-selected")            }
+            
+            if link != nil {
+                cell = cell.class("cell-with-link")
+            }
+            
+            return cell
         }
     }
 
@@ -115,7 +122,7 @@ struct DailyPhotoCalendar {
                         .filter { $0.year == year && $0.month == month && $0.day == day }
                         .first
                     let isSelected = dp?.year == year && dp?.month == selectedMonth && dp?.day == selectedDay
-                    let dayCellContent = DayCellContent(dailyPhoto: dp, number: i, isSelected: isSelected)
+                    let dayCellContent = DayCellContent(dailyPhoto: dp, number: day, isSelected: isSelected)
                     table.append(DayCell.numbered(dayCellContent))
                 }
                 else {
@@ -130,7 +137,16 @@ struct DailyPhotoCalendar {
         }
         
         var body: Component {
-            var componentRows = [TableRow]()
+            let topRow = TableRow {
+                TableCell { Text("S") }.class("cell-dayofweek-heading")
+                TableCell { Text("M") }.class("cell-dayofweek-heading")
+                TableCell { Text("T") }.class("cell-dayofweek-heading")
+                TableCell { Text("W") }.class("cell-dayofweek-heading")
+                TableCell { Text("T") }.class("cell-dayofweek-heading")
+                TableCell { Text("F") }.class("cell-dayofweek-heading")
+                TableCell { Text("S") }.class("cell-dayofweek-heading")
+            }
+            var componentRows = [topRow]
             for row in 1...5 {
                 var componentColumns = [DayCell]()
                 for column in 1...7 {
@@ -161,7 +177,7 @@ struct DailyPhotoCalendar {
         init(year: UInt16, selectedMonth: UInt8, selectedDay: UInt8) {
             var tableData = [MonthTable]()
             for i in 1...12 {
-                tableData.append(MonthTable(month: UInt8(i), year: year, selectedMonth: selectedMonth, selectedDay: selectedDay))
+                tableData.append(MonthTable(month: UInt8(i) - 1, year: year, selectedMonth: selectedMonth, selectedDay: selectedDay))
             }
             self.monthTables = tableData
         }
@@ -169,10 +185,16 @@ struct DailyPhotoCalendar {
         var body: Component {
             var componentRows = [TableRow]()
             for row in 1...4 {
-                var componentColumns = [MonthTable]()
+                var componentColumns = [Component]()
                 for column in 1...3 {
                     let idx = (row - 1) * 3 + column - 1
-                    componentColumns.append(monthTables[idx])
+                    let monthTable = monthTables[idx]
+                    let monthLabel = Text(monthTables[idx].monthName)
+                    let cell = TableCell {
+                        monthLabel
+                        monthTable
+                    }
+                    componentColumns.append(cell)
                 }
                 let componentRow = TableRow {
                     ComponentGroup(members: componentColumns)

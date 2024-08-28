@@ -13,7 +13,7 @@ import Publish
 
 struct DailyPhoto: Component, Comparable {
 
-    let imagePath: String
+    //let imagePath: String
     let caption: String
     let month: UInt8
     let day: UInt8
@@ -23,13 +23,19 @@ struct DailyPhoto: Component, Comparable {
     var nextLink: String?
     
     var link: String {
-        "dailyphoto/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2))"
+        "/dailyphoto/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2))"
+    }
+    
+    var imagePath: String {
+        "/dailyphotostore/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2)).jpg"
     }
     
     var body: Component {
         Div {
-            Paragraph(caption)
-            Image(imagePath)
+            Div {
+                Paragraph(caption).class("dailyphotocaption")
+                Image(imagePath).class("dailyphotoimage")
+            }.class("dailyphototop")
             DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day)
         }
     }

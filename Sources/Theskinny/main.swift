@@ -12,10 +12,12 @@ fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 do {
     shell("chflags -R uchg \(mediaPath)")
     shell("chmod -R 777 ./tmp")
+    shell("chflags nohidden Output")
     
     defer {
         try? restoreSymlinks()
         shell("chflags -R nouchg \(mediaPath)")
+        shell("chflags hidden Output")
     }
     
     /*
@@ -36,6 +38,7 @@ do {
         .imageGalleries(),
         .dailyPhotos()
     ])
+    shell("say \"site generation is complete.\"")
     
     
 } catch (let e) {
