@@ -36,6 +36,16 @@ extension StringProtocol {
         let substring = self[range]
         return String(substring)
     }
+    
+    func dowToNumber() -> Int {
+        if self == "Monday" { return 2 }
+        else if self == "Tuesday" { return 3 }
+        else if self == "Wednesday" { return 4 }
+        else if self == "Thursday" { return 5 }
+        else if self == "Friday" { return 6 }
+        else if self == "Saturday" { return 7 }
+        return 1
+    }
 }
 
 

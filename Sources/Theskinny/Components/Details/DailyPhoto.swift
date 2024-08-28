@@ -8,15 +8,6 @@
 import Foundation
 import Plot
 import Publish
-import Ink
-import Files
-
-enum DailyPhotoError: Error {
-    case errorInFileName
-    case errorInFolderName
-}
-
-
 
 
 
@@ -39,6 +30,7 @@ struct DailyPhoto: Component, Comparable {
         Div {
             Paragraph(caption)
             Image(imagePath)
+            DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day)
         }
     }
     
@@ -54,33 +46,5 @@ struct DailyPhoto: Component, Comparable {
 }
 
 
-struct DailyPhotoYear: Component, Equatable, Comparable {
-    var dp = [DailyPhoto]()
-    var year: UInt16
-    
-    
-    var prevYearLink: String?
-    var nextYearLink: String?
-    
-    var link: String? {
-        dp.sorted().first?.link
-    }
-    
-    var body: Component {
-        EmptyComponent()
-    }
-    
-    var first: DailyPhoto? {
-        dp.sorted().first
-    }
-    
-    var last: DailyPhoto? {
-        dp.sorted().last
-    }
-    
-    static func < (lhs: DailyPhotoYear, rhs: DailyPhotoYear) -> Bool {
-        lhs.year < rhs.year
-    }
 
-}
 

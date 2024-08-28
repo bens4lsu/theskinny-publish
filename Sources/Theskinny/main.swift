@@ -34,7 +34,7 @@ do {
         .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
         .imageGalleries(),
- //       .dailyPhotos()
+        .dailyPhotos()
     ])
     
     

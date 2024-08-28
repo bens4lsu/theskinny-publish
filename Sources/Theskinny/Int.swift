@@ -17,7 +17,7 @@ extension Int {
     }
 }
 
-extension UInt8 {
+extension UnsignedInteger {
     func zeroPadded(_ numDigitsUInt: UInt16) -> String {
         let numDigits = Int(numDigitsUInt)
         return String (

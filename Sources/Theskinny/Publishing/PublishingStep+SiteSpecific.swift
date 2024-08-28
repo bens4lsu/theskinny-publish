@@ -93,7 +93,7 @@ extension PublishingStep where Site == Theskinny {
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
             print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
-            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: context)
+            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: &context)
         }
     }
     
@@ -118,12 +118,12 @@ extension PublishingStep where Site == Theskinny {
         }
     }
     
-    static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: PublishingContext<Theskinny>) throws {
-        let path = pagePath.appendingComponent("index.html")
-        let page = Page(path: path, content: Content())
+    static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: inout PublishingContext<Theskinny>) throws {
+        //let path = pagePath.appendingComponent("index.html")
+        var page = Page(path: pagePath, content: Content())
         let redirectHtml = HTML(.body(.redirect(to: redirPath.string)))
-        let file = try context.createOutputFile(at: page.path)
-        try file.write(redirectHtml.render())
+        page.content.body.html = redirectHtml.render()
+        context.addPage(page)
     }
     
     static func imageGalleries() -> Self {
@@ -140,13 +140,17 @@ extension PublishingStep where Site == Theskinny {
     
     static func dailyPhotos() -> Self {
         .step(named: "Daily Photos") { context in
-            let years = DailyPhotoData.years
-            let outputFolder = try Folder(path: ".")
-            let dailyphotoFolder = try outputFolder.createSubfolderIfNeeded(at: "dailyphoto")
-            for year in years {
+            for year in DailyPhotoData.years {
+                
+                // page for dailyphoto/20xx/index.html
+                if let yearLink = year.link,
+                   let redirString = year.dp.first?.link
+                {
+                    try writeRedirect(atPage: Path(yearLink), to: Path(redirString), onContext: &context)
+                }
+                
+                // individual image pages
                 for dailyphoto in year.dp {
-                    //let path = "\(yearFolder.path)\(dailyphoto.year)\(dailyphoto.month.zeroPadded(2))\(dailyphoto.day.zeroPadded(2))"
-                    
                     var page = Page(path: Path(dailyphoto.link), content: Content())
                     let html = HTML(.component(dailyphoto))
                     page.content.body.html = html.render()
