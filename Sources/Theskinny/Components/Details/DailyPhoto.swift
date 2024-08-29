@@ -31,7 +31,7 @@ struct DailyPhoto: Component, Comparable {
     }
     
     var dateString: String {
-        let yyyyMMdd = "\(year.zeroPadded(4))\(month.zeroPadded(2))\(day.zeroPadded(2))"
+        let yyyyMMdd = "\(year.zeroPadded(4))-\(month.zeroPadded(2))-\(day.zeroPadded(2))"
         let date = EnvironmentKey.yyyyMMddDateFormatter.date(from: yyyyMMdd) ?? Date()
         let str = EnvironmentKey.defaultDateFormatter.string(from: date)
         return str
@@ -58,7 +58,17 @@ struct DailyPhoto: Component, Comparable {
                 Image(imagePath).class("dailyphotoimage")
             }.class("dailyphototop")
             DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day)
+            
+            Div {
+                H3("Other years:")
+                
+                List {
+                    ComponentGroup(members: DailyPhotoData.allYearLinks(except: year))
+                }.listStyle(.inlineListOfLinks)
+            }.class("dailyphoto-otheryears")
         }
+        
+        
     }
     
     static func < (lhs: DailyPhoto, rhs: DailyPhoto) -> Bool {

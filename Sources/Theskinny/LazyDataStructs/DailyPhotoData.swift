@@ -7,10 +7,11 @@
 
 import Foundation
 import Files
+import Plot
 
 enum DailyPhotoError: Error {
-    case errorInFileName
-    case errorInFolderName
+    case errorInFileName(name: String)
+    case errorInFolderName(name: String)
 }
 
 
@@ -51,7 +52,7 @@ struct DailyPhotoData {
             try topFolder.subfolders.forEach { folder in
                 var dp = [DailyPhoto]()
                 guard let year = UInt16(folder.name) else {
-                    throw DailyPhotoError.errorInFolderName
+                    throw DailyPhotoError.errorInFolderName(name: folder.name)
                 }
                 try folder.files.forEach { file in
                     if file.extension == "jpg" {
@@ -59,7 +60,7 @@ struct DailyPhotoData {
                               let month = UInt8(file.name.substring(from: 4, to: 5)),
                               let day = UInt8(file.name.substring(from: 6, to: 7))
                         else {
-                            throw DailyPhotoError.errorInFileName
+                            throw DailyPhotoError.errorInFileName(name: file.name)
                         }
                         let captionFilePath = "\(rootPath)/\(folder.name)/\(year.zeroPadded(4))\(month.zeroPadded(2))\(day.zeroPadded(2)).txt"
                         var caption = ""
@@ -69,7 +70,8 @@ struct DailyPhotoData {
                         dp.append(DailyPhoto(caption: caption, month: month, day: day, year: year))
                     }
                 }
-                let yearRedirectPath = "\(rootPath)/\(folder.name)"
+                // path to page where you can land and redirect to the first picture of the year
+                let yearRedirectPath = "/dailyphoto/\(folder.name)/index.html"
                 years.append(DailyPhotoYear(dp: dp, year: year, link: yearRedirectPath))
             }
         } catch (let e) {
@@ -107,8 +109,49 @@ struct DailyPhotoData {
         return years
     }()
     
-   
-    static var allFlattened: [DailyPhoto] = {
-        years.map { $0.dp }.joined().sorted()
+    static var lastJson: String {
+        get throws {
+            struct Coded: Codable {
+                let year: String
+                let month: String
+                let day: String
+            }
+            
+            guard let dp = Self.years.last?.dp.last else {
+                return "{}"
+            }
+            let coded = Coded(year: dp.year.zeroPadded(4), month: dp.month.zeroPadded(2), day: dp.day.zeroPadded(2))
+            let encoder = JSONEncoder()
+            let jsonData = try encoder.encode(coded)
+            return String(data: jsonData, encoding: .utf8) ?? "{}"
+        }
+    }
+    
+    static let allYearLinks: [(String, Component)] = {
+        Self.years.map { item in
+            let component = Div {
+                Link(item.year.zeroPadded(4), url: item.link)
+            }.class("dailyphotoDivOtherYear")
+            
+            return (item.year.zeroPadded(4), component )
+        }
     }()
+    
+    static func allYearLinks(except yearToOmit: UInt16) -> [Component] {
+        
+        print (allYearLinks.filter {
+            $0.0 == "2012"
+        })
+        
+        return Self.allYearLinks.filter { link in
+            link.0 != yearToOmit.zeroPadded(4)
+        }.map { item in
+            item.1
+        }
+    }
+    
+   
+//    static var allFlattened: [DailyPhoto] = {
+//        years.map { $0.dp }.joined().sorted()
+//    }()
 }

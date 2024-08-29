@@ -525,6 +525,9 @@ div.micro-post-media img {
 
 .inline-list-of-links {
     display: inline-block;
+}
+
+.inline-list-of-links > a {
     margin-right: 1.5em;
 }
 
@@ -656,6 +659,16 @@ table.littletable .cell-dayofweek-heading {
 .dailyphototop .dailyphotocaption {
     text-align: left;
     justify-self: center;
+}
+
+.dailyphoto-otheryears {
+    margin-top: 40px;
+}
+
+.dailyphotoDivOtherYear {
+    display: inline-block;
+    margin-right: 12px;
+    margin-top: 8px;
 }
 
 @media (min-width: 650px) {

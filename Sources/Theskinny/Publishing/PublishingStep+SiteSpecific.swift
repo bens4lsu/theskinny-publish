@@ -144,14 +144,16 @@ extension PublishingStep where Site == Theskinny {
                 
                 // page for dailyphoto/20xx/index.html
                 let yearLink = year.link
-                if let redirString = year.first?.link
-                {
-                    var redirPage = Page(path: Path(yearLink), content: Content())
-                    let redirScript = Script("window.location.replace(\"/blog2/\(yearLink)\");")
+                
+                let redirPage = Page(path: Path(yearLink), content: Content())
+                if let firstPageOfYear = year.first?.link {
+                    let redirScript = Script("window.location.replace(\"\(firstPageOfYear)\")")
                     let redirHtml = HTML(redirScript.convertToNode())
-                    redirPage.content.body.html = redirHtml.render()
-                    context.addPage(redirPage)
+                    let file = try context.createOutputFile(at: redirPage.path)
+                    try file.write(redirHtml.render())
                 }
+
+                
                 
                 // individual image pages
                 for dailyphoto in year.dp {
