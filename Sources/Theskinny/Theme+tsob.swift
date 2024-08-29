@@ -13,3 +13,4 @@ extension Theme where Site == Theskinny {
         Theme(htmlFactory: TsobHTMLFactory(), resourcePaths: ["Resources/style/style.css"])
     }
 }
+

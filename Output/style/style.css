@@ -525,6 +525,9 @@ div.micro-post-media img {
 
 .inline-list-of-links {
     display: inline-block;
+}
+
+.inline-list-of-links > a {
     margin-right: 1.5em;
 }
 
@@ -561,8 +564,8 @@ table th {
 }
 
 .pg-instruction-box {
-    background-color:#CDCDCD; 
-    border:2px solid #AD7070; 
+    background-color:#CDCDCD;
+    border:2px solid #AD7070;
     width:30%;
     padding:12px;
     margin-bottom: 50px;
@@ -595,6 +598,77 @@ table th {
 .lv_window_dark .lv_slider_number_active, .lv_window_dark .lv_slider_number_active:hover {
     background-color: #5d5d5d;
     color: pink;
+}
+
+
+.bigtable {
+    margin: 0 auto;
+}
+
+.bigtable td {
+    text-align:center;
+    font-weight: bold;
+    padding: 6px;
+}
+
+table.littletable {
+    border-spacing: 4px 3px;
+    margin:6px;
+    border:none;
+    border-collapse: separate;
+}
+
+table.littletable td {
+    padding: 2px 4px;
+    text-align:center;
+    font-weight:normal;
+    border:none;
+
+}
+
+table.littletable .cell-with-link {
+    background-color: #DDDDDD;
+}
+
+table.littletable .cell-with-link a {
+    color: #9e2606;
+}
+
+table.littletable .cell-selected {
+    background-color: #9e2606;
+}
+
+table.littletable .cell-selected a {
+    color: #dddddd;
+}
+
+table.littletable .cell-dayofweek-heading {
+    font-weight: bold;
+}
+
+.dailyphototop {
+    display: grid;
+    grid-template: 2fr/1fr;
+    margin-bottom:40px;
+}
+
+.dailyphototop .dailyphotoimage {
+    justify-self: center;
+}
+
+.dailyphototop .dailyphotocaption {
+    text-align: left;
+    justify-self: center;
+}
+
+.dailyphoto-otheryears {
+    margin-top: 40px;
+}
+
+.dailyphotoDivOtherYear {
+    display: inline-block;
+    margin-right: 12px;
+    margin-top: 8px;
 }
 
 @media (min-width: 650px) {

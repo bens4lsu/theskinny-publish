@@ -27,6 +27,7 @@ extension TsobHTMLFactory {
                                    "/scripts/lightview.js",
                                    "/scripts/mastodon-timeline.js",
                                    "/scripts/menu.js?v=\(EnvironmentKey.styleAndScriptVersion)",
+                                   "./scripts/dailyphotoimgage.js"
         ]
         
         

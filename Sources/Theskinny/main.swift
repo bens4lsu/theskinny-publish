@@ -32,11 +32,11 @@ do {
     try hideResourceImages()
     
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
-//        .writePostPages(),
-//        .writeRedirectsFromWordpressUrls(),
-//        .writeVideoAlbumPages(),
-//        .imageGalleries(),
-//        .dailyPhotos()
+        .writePostPages(),
+        .writeRedirectsFromWordpressUrls(),
+        .writeVideoAlbumPages(),
+        .imageGalleries(),
+        .dailyPhotos()
     ])
     shell("say \"site generation is complete.\"")
     

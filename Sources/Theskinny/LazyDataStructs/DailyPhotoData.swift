@@ -146,23 +146,22 @@ struct DailyPhotoData {
     static var scriptCommon: String {
         """
             function dpPath() {
-                var today = function() {
-                    var x = new Date();
-                    var y = x.getFullYear().toString();
-                    var m = (x.getMonth() + 1).toString();
-                    var d = x.getDate().toString();
-                    d = ('0' + d).substring(d.length - 1);
-                    m = ('0' + m).substring(m.length - 1);
-                    var yyyymmdd = y + m + d;
-                    return yyyymmdd;
-                }();
-            
-                var latest = \"\(lastDayString)\";
-            
-                var winner = today < latest ? today : latest;
-                var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
-                return pathPart
+                var x = new Date();
+                var y = x.getFullYear().toString();
+                var m = (x.getMonth() + 1).toString();
+                var d = x.getDate().toString();
+                d = ('0' + d).substring(d.length - 1);
+                m = ('0' + m).substring(m.length - 1);
+                var yyyymmdd = y + m + d;
+                return yyyymmdd;
             }
+        
+            var today = dpPath();
+            var latest = \"\(lastDayString)\";
+        
+            var winner = today < latest ? today : latest;
+            var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
+            
         """
     }
     
@@ -170,9 +169,10 @@ struct DailyPhotoData {
         scriptCommon + 
         """
             
-            var dailyphotoImg = "/dailyphotostore" + dpPath() + ".jpg";
-            var i = document.getElementById(\"homeDPImage\");
-            i.src = dailyphotoImg;
+            var dailyphotoImg = "/dailyphotostore" + pathPart + ".jpg";
+            console.log(pathPart);
+            console.log($('#homeDPImage'));
+            $('#homeDPImage').attr(dailyphotoImg);
 
         """
     }
@@ -181,7 +181,7 @@ struct DailyPhotoData {
         scriptCommon +
         """
             
-            var dailyphotoRedirect = "/dailyphoto" + dpPath();
+            var dailyphotoRedirect = "/dailyphoto" + pathPart;
             window.location.replace(dailyphotoRedirect);
 
         """

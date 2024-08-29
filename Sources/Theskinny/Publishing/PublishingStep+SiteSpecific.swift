@@ -148,6 +148,12 @@ extension PublishingStep where Site == Theskinny {
             page.content.body.html = html.render().replacingOccurrences(of: "&lt;", with: "<")
             context.addPage(page)
             
+            //script file for image on home page
+            let scriptI = DailyPhotoData.scriptImage
+            let scriptIFileName = "./scripts/dailyphotoimgage.js"
+            let file = try context.createOutputFile(at: Path(scriptIFileName))
+            try file.write(scriptI)
+            
             for year in DailyPhotoData.years {
                 
                 // page for dailyphoto/20xx/index.html

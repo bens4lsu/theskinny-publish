@@ -26,11 +26,12 @@ struct TsobHTMLFactory: HTMLFactory {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "theskinnyonbenny.com")
         let pageContent = HomePage(context)
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
-
+        
         return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+        
     }
     
     
