@@ -8,6 +8,13 @@
 import Foundation
 import Files
 
+enum GalleryLoadError: Error {
+    case noSpaceInDirectoryName
+    case nonIntegerFirstPartOfDirectoryName
+    case errorReadingCaptionFile
+    case attemptToLoadGalleryWithInvalidID
+}
+
 struct ImageGalleryData {
     
     static let hideGalleryIDs: [Int] = []

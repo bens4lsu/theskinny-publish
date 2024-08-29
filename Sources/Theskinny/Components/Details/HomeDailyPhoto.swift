@@ -14,7 +14,7 @@ struct HomeDailyPhoto: Component {
     var body: Component {
         Div {
             H1("The Daily Photo")
-            Image("https://dynamic.theskinnyonbenny.com/dp/currentImgBinary")
+            Image("/dailyphotostore/2005/20051001.jpg").id("homeDPImage")
             Div {
                 Text("Have you seen them all?  Check the ")
                 Link("daily photo page", url: "/dailyphoto")

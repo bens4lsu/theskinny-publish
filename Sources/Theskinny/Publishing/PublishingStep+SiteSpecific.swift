@@ -93,7 +93,7 @@ extension PublishingStep where Site == Theskinny {
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
             print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
-            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: &context)
+            try writeRedirect(atPage: "/video-albums/index.html", to: "/vid", onContext: &context)
         }
     }
     
@@ -119,11 +119,11 @@ extension PublishingStep where Site == Theskinny {
     }
     
     static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: inout PublishingContext<Theskinny>) throws {
-        //let path = pagePath.appendingComponent("index.html")
-        var page = Page(path: pagePath, content: Content())
-        let redirectHtml = HTML(.body(.redirect(to: redirPath.string)))
-        page.content.body.html = redirectHtml.render()
-        context.addPage(page)
+        //var page = Page(path: pagePath, content: Content())
+        let redirScript = Script("window.location.replace(\"\(redirPath.string)\")")
+        let redirHtml = HTML(redirScript.convertToNode())
+        let file = try context.createOutputFile(at: pagePath)
+        try file.write(redirHtml.render())
     }
     
     static func imageGalleries() -> Self {
@@ -138,22 +138,23 @@ extension PublishingStep where Site == Theskinny {
         }
     }
     
-    static func dailyPhotos() -> Self {
+    static func dailyPhotos() throws -> Self {
         .step(named: "Daily Photos") { context in
+            
+            //redirect for /dailyphoto
+            let script = DailyPhotoData.scriptRedirect
+            let html = HTML(.component(Script(script)))
+            var page = Page(path: Path("/dailyphoto"), content: Content())
+            page.content.body.html = html.render().replacingOccurrences(of: "&lt;", with: "<")
+            context.addPage(page)
+            
             for year in DailyPhotoData.years {
                 
                 // page for dailyphoto/20xx/index.html
                 let yearLink = year.link
-                
-                let redirPage = Page(path: Path(yearLink), content: Content())
                 if let firstPageOfYear = year.first?.link {
-                    let redirScript = Script("window.location.replace(\"\(firstPageOfYear)\")")
-                    let redirHtml = HTML(redirScript.convertToNode())
-                    let file = try context.createOutputFile(at: redirPage.path)
-                    try file.write(redirHtml.render())
+                    try writeRedirect(atPage: Path(yearLink), to: Path(firstPageOfYear), onContext: &context)
                 }
-
-                
                 
                 // individual image pages
                 for dailyphoto in year.dp {

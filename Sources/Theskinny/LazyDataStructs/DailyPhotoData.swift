@@ -12,6 +12,7 @@ import Plot
 enum DailyPhotoError: Error {
     case errorInFileName(name: String)
     case errorInFolderName(name: String)
+    case fileOutOfPlace(_ text: String)
 }
 
 
@@ -62,6 +63,11 @@ struct DailyPhotoData {
                         else {
                             throw DailyPhotoError.errorInFileName(name: file.name)
                         }
+                        
+                        guard folder.name == year.zeroPadded(4) else {
+                            throw DailyPhotoError.fileOutOfPlace("\(file.name) in folder \(year)")
+                        }
+                        
                         let captionFilePath = "\(rootPath)/\(folder.name)/\(year.zeroPadded(4))\(month.zeroPadded(2))\(day.zeroPadded(2)).txt"
                         var caption = ""
                         if let captionFile = try? File(path: captionFilePath) {
@@ -109,23 +115,7 @@ struct DailyPhotoData {
         return years
     }()
     
-    static var lastJson: String {
-        get throws {
-            struct Coded: Codable {
-                let year: String
-                let month: String
-                let day: String
-            }
-            
-            guard let dp = Self.years.last?.dp.last else {
-                return "{}"
-            }
-            let coded = Coded(year: dp.year.zeroPadded(4), month: dp.month.zeroPadded(2), day: dp.day.zeroPadded(2))
-            let encoder = JSONEncoder()
-            let jsonData = try encoder.encode(coded)
-            return String(data: jsonData, encoding: .utf8) ?? "{}"
-        }
-    }
+
     
     static let allYearLinks: [(String, Component)] = {
         Self.years.map { item in
@@ -138,11 +128,6 @@ struct DailyPhotoData {
     }()
     
     static func allYearLinks(except yearToOmit: UInt16) -> [Component] {
-        
-        print (allYearLinks.filter {
-            $0.0 == "2012"
-        })
-        
         return Self.allYearLinks.filter { link in
             link.0 != yearToOmit.zeroPadded(4)
         }.map { item in
@@ -151,7 +136,54 @@ struct DailyPhotoData {
     }
     
    
-//    static var allFlattened: [DailyPhoto] = {
-//        years.map { $0.dp }.joined().sorted()
-//    }()
+    static var lastDayString: String {
+        guard let dp = Self.years.last?.dp.last else {
+            return ""
+        }
+        return "\(dp.year.zeroPadded(4))\(dp.month.zeroPadded(2))\(dp.day.zeroPadded(2))"
+    }
+    
+    static var scriptCommon: String {
+        """
+            function dpPath() {
+                var today = function() {
+                    var x = new Date();
+                    var y = x.getFullYear().toString();
+                    var m = (x.getMonth() + 1).toString();
+                    var d = x.getDate().toString();
+                    d = ('0' + d).substring(d.length - 2);
+                    m = ('0' + m).substring(m.length - 2);
+                    var yyyymmdd = y + m + d;
+                    return yyyymmdd;
+                }();
+            
+                var latest = \"\(lastDayString)\";
+            
+                var winner = today < latest ? today : latest;
+                var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
+                return pathPart
+            }
+        """
+    }
+    
+    static var scriptImage: String {
+        scriptCommon + 
+        """
+            
+            var dailyphotoImg = "/dailyphotostore" + dpPath() + ".jpg";
+            var i = document.getElementById(\"homeDPImage\");
+            i.src = dailyphotoImg;
+
+        """
+    }
+    
+    static var scriptRedirect: String {
+        scriptCommon +
+        """
+            
+            var dailyphotoRedirect = "/dailyphoto" + dpPath();
+            window.location.replace(dailyphotoRedirect);
+
+        """
+    }
 }
