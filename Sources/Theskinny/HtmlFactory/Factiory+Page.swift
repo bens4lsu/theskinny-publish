@@ -61,10 +61,11 @@ extension TsobHTMLFactory {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
         let pageContent = Article { page.body }
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
-        return HTML(
+        let html = HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+        return html
     }
     
     fileprivate func makePageHTMLBlogArchiveByDate(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {

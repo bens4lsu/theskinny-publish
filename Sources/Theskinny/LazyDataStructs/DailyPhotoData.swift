@@ -151,8 +151,8 @@ struct DailyPhotoData {
                     var y = x.getFullYear().toString();
                     var m = (x.getMonth() + 1).toString();
                     var d = x.getDate().toString();
-                    d = ('0' + d).substring(d.length - 2);
-                    m = ('0' + m).substring(m.length - 2);
+                    d = ('0' + d).substring(d.length - 1);
+                    m = ('0' + m).substring(m.length - 1);
                     var yyyymmdd = y + m + d;
                     return yyyymmdd;
                 }();

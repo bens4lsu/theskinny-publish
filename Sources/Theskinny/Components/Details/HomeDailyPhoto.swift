@@ -20,6 +20,8 @@ struct HomeDailyPhoto: Component {
                 Link("daily photo page", url: "/dailyphoto")
                 Text(" to be sure.")
             }.class("div-dp-message")
+            
+            Script(DailyPhotoData.scriptImage)
         }.class("div-home-dailyphoto")
     }
 }
