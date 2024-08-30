@@ -54,7 +54,7 @@ struct DailyPhoto: Component, Comparable {
             topLinks
             H3(dateString)
             Div {
-                Paragraph(caption).class("dailyphotocaption")
+                Paragraph(Markdown(caption)).class("dailyphotocaption")
                 Image(imagePath).class("dailyphotoimage")
             }.class("dailyphototop")
             DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day)
