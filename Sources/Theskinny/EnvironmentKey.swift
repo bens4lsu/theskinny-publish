@@ -59,7 +59,8 @@ extension EnvironmentKey where Value == [Gallery] {
             try? Gallery(189, dateString: "2024-07-15"),
             try? Gallery(190, dateString: "2024-07-27"),
             try? Gallery(191, dateString: "2024-08-09"),
-            try? Gallery(192, dateString: "2024-08-15")
+            try? Gallery(192, dateString: "2024-08-15"),
+            try? Gallery(193, dateString: "2024-09-03"),
         ].compactMap{ $0 }
         return pgSet
     }()
