@@ -9,6 +9,7 @@ import Foundation
 import Files
 import Plot
 
+
 enum DailyPhotoError: Error {
     case errorInFileName(name: String)
     case errorInFolderName(name: String)

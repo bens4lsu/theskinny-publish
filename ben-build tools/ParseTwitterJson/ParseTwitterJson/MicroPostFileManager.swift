@@ -54,15 +54,15 @@ class MicroPostFileManager {
     
     private func fileContentsAsYaml(_ post: Tweet, _ media: String) -> String /* return YAML */ {
 
-"""
--
-    date: \(formatter.string(from: post.created_at))
-    source: twitter
-    sourceUrl: https://twitter.com/bens4lsu/status/\(post.id)
-    content: |
-        \(post.full_text.replacingOccurrences(of: "\n", with: "\n        "))
-    media: \(media)
-"""
+        """
+        -
+            date: \(formatter.string(from: post.created_at))
+            source: twitter
+            sourceUrl: https://twitter.com/bens4lsu/status/\(post.id)
+            content: |
+                \(post.full_text.replacingOccurrences(of: "\n", with: "\n        "))
+            media: \(media)
+        """
 
         
     }

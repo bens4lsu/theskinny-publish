@@ -499,6 +499,16 @@ div.micro-post-container {
     padding-left: 15px;
     padding-right: 15px;
     overflow: hidden;
+    margin: auto;
+}
+
+div.micro-post-parent-container {
+    clear: both;
+}
+
+.h2-micro-post-header {
+    text-align: center;
+    margin-top: 30px;
 }
 
 div.micro-post-icon-top {

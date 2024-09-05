@@ -11,6 +11,7 @@ import Publish
 
 struct MicroPost: Component, Decodable {
     
+    
     enum PostSource: String, Decodable {
         case mastodon
         case twitter
@@ -36,7 +37,7 @@ struct MicroPost: Component, Decodable {
     }
     
     
-    var body: Plot.Component {
+    var body: Component {
         Div {
             Div {
                 Div {
@@ -57,66 +58,10 @@ struct MicroPost: Component, Decodable {
     }
 }
 
-struct MicroPosts: Component {
-    let mposts: [MicroPost]
-    let allYears: Set<String>?
+extension MicroPost: Comparable {
     
-    let formatterYYYY: DateFormatter = {
-        let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy"
-        return formatter
-    }()
-    
-    var years: Set<String> {
-        return Set(mposts.map {
-            formatterYYYY.string(from: $0.date)
-        })
+    static func < (lhs: MicroPost, rhs: MicroPost) -> Bool {
+        lhs.date < rhs.date
     }
     
-    var postsByYear: [String: [MicroPost]] {
-        var result = [String: [MicroPost]]()
-        for year in years {
-            result[year] = mposts.filter {
-                formatterYYYY.string(from: $0.date) == year
-            }
-        }
-        return result
-    }
-    
-    var latestYear: String? {
-        years.sorted().last
-    }
-
-    var body: Plot.Component {
-        guard let latestYear = self.latestYear else {
-            return EmptyComponent()
-        }
-        
-        return Article {
-            H4("Previous Years")
-            previousYearLinks()
-            H2("\(latestYear) Micro Posts from Social Media")
-            List(postsByYear[latestYear]!) { post in
-                post
-            }.listStyle(.listAsDivs)
-        }
-    }
-    
-    func forYear(year: String) -> Component {
-        if let posts = postsByYear[year] {
-            return MicroPosts(mposts: posts, allYears: years)
-        }
-        return EmptyComponent()
-    }
-    
-    func previousYearLinks() -> Component {
-        var years = allYears ?? years
-        if let latestYear {
-            years.remove(latestYear)
-        }
-        return List(years.sorted()) { year in
-            Link(year, url: "/micro-posts/\(year)")
-        }.listStyle(.inlineListOfLinks)
-    }
 }
-

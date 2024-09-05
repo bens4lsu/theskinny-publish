@@ -172,4 +172,26 @@ extension PublishingStep where Site == Theskinny {
             }
         }
     }
+    
+    
+    static func oldMicroPosts() throws ->Self {
+        .step(named: "Old Micro Posts") { context in
+            for (year, posts) in MicroPostData.postsByYear {
+                let url = "/micro-posts/\(year)"
+                let urlRev = url + "/reversed"
+                
+                let mposts = MicroPosts(mposts: posts, allYears: MicroPostData.years, year: year)
+                
+                var page = Page (path: Path(url), content: Content())
+                let html = HTML(.component(mposts.bodySorted(url: urlRev, direction: > )))  //revUrl here because that gets used to generate the link to the reversed page
+                page.content.body.html = html.render()
+                context.addPage(page)
+                
+                var pageRev = Page (path: Path(urlRev), content: Content())
+                let htmlRev = HTML(.component(mposts.bodySorted(url: url, direction: < ))) //url here because that gets used to generate the link to the default page
+                pageRev.content.body.html = htmlRev.render()
+                context.addPage(pageRev)
+            }
+        }
+    }
 }

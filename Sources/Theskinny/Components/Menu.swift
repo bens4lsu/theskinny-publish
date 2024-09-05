@@ -54,6 +54,12 @@ struct Menu: Component {
         }
     }
     
+    private var listItemOldTweets: ListItem {
+        ListItem {
+            Link ("Old Tweets", url: "/micro-posts/\(MicroPostData.years.max() ?? "")")
+        }
+    }
+    
     
     var body: Component {
 
@@ -85,6 +91,7 @@ struct Menu: Component {
                         Link("2024 Big Trip", url: "/vid/velvet-elvis-2024-big-trip")
                     }.class("li-pagelink")
                 }
+                listItemOldTweets.class("li-pagelink")
                 listItemAdop.class("li-pagelink")
                 Collapser(text: "Velvet Elvi", elementId: "velvet-elvi").component {
                     ListItem {
@@ -149,6 +156,7 @@ struct Menu: Component {
                 ListItem {
                     Link("Videos", url: "/vid")
                 }
+                listItemOldTweets
                 listItemAdop
                 ListItem {
                     Link("Other pages", url: "/mobileSitemap")

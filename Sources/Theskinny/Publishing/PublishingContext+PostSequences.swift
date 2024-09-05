@@ -132,26 +132,6 @@ extension PublishingContext where Site == Theskinny {
         }
         return TripPosts(items: typeErasedBlogPosts + typeErasedVideos + typeErasedGalleries)
     }
-    
-    var microPosts: [MicroPost] {
-        let paths =  [self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/mastodon-posts.yaml",
-                      self.site.path(for: Theskinny.SectionID.home).parent + "Content-custom/twitter-posts.yaml"
-        ]
-        
-        let decoder = YAMLDecoder()
-        var decoded = [MicroPost]()
-        do {
-            for path in paths {
-                let file = try File(path: path)
-                let fileYaml = try file.readAsString()
-                decoded += try decoder.decode([MicroPost].self, from: fileYaml)
-            }
-        } catch(let e) {
-            print ("Yaml file decode error on:  \(e)")
-        }
-        return decoded
-    }
-    
 
 }
 

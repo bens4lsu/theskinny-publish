@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B52923072AAEB65100FE4AF2 /* MastodonResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52923062AAEB65100FE4AF2 /* MastodonResponse.swift */; };
 		B52923092AAEC38700FE4AF2 /* MicroPostFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52923082AAEC38700FE4AF2 /* MicroPostFileManager.swift */; };
+		B54A9F032C894EB100028B92 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54A9F022C894EB100028B92 /* Date.swift */; };
 		B5AC68E42AABCD11009AC8E8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AC68E32AABCD11009AC8E8 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		B52923062AAEB65100FE4AF2 /* MastodonResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MastodonResponse.swift; sourceTree = "<group>"; };
 		B52923082AAEC38700FE4AF2 /* MicroPostFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MicroPostFileManager.swift; sourceTree = "<group>"; };
+		B54A9F022C894EB100028B92 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		B5AC68E02AABCD11009AC8E8 /* MastodonGetter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MastodonGetter; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5AC68E32AABCD11009AC8E8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				B5AC68E32AABCD11009AC8E8 /* main.swift */,
+				B54A9F022C894EB100028B92 /* Date.swift */,
 				B52923082AAEC38700FE4AF2 /* MicroPostFileManager.swift */,
 				B52923062AAEB65100FE4AF2 /* MastodonResponse.swift */,
 			);
@@ -96,7 +99,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
-				LastUpgradeCheck = 1430;
+				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					B5AC68DF2AABCD11009AC8E8 = {
 						CreatedOnToolsVersion = 14.3.1;
@@ -129,6 +132,7 @@
 				B52923092AAEC38700FE4AF2 /* MicroPostFileManager.swift in Sources */,
 				B5AC68E42AABCD11009AC8E8 /* main.swift in Sources */,
 				B52923072AAEB65100FE4AF2 /* MastodonResponse.swift in Sources */,
+				B54A9F032C894EB100028B92 /* Date.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,9 +172,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -228,9 +234,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -252,6 +260,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -261,6 +270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};

@@ -8,7 +8,6 @@ import Files
 fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 
 
-
 do {
     shell("chflags -R uchg \(mediaPath)")
     shell("chmod -R 777 ./tmp")
@@ -36,7 +35,8 @@ do {
         .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
         .imageGalleries(),
-        .dailyPhotos()
+        .dailyPhotos(),
+        .oldMicroPosts()
     ])
     shell("say \"site generation is complete.\"")
     

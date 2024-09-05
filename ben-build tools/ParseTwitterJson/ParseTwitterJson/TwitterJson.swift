@@ -35,6 +35,13 @@ struct Tweet: Codable {
     var in_reply_to_status_id_str: String?
     var media_url: String?
     
+    var year: String {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy"
+        let yearString = formatter.string(from: created_at)
+        return yearString
+    }
+    
 }
 
 
