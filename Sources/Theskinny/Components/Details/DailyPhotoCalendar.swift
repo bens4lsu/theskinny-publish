@@ -177,7 +177,7 @@ struct DailyPhotoCalendar {
         init(year: UInt16, selectedMonth: UInt8, selectedDay: UInt8) {
             var tableData = [MonthTable]()
             for i in 1...12 {
-                tableData.append(MonthTable(month: UInt8(i) - 1, year: year, selectedMonth: selectedMonth, selectedDay: selectedDay))
+                tableData.append(MonthTable(month: UInt8(i), year: year, selectedMonth: selectedMonth, selectedDay: selectedDay))
             }
             self.monthTables = tableData
         }
