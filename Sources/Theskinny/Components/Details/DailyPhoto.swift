@@ -22,6 +22,9 @@ struct DailyPhoto: Component, Comparable {
     var prevLink: String?
     var nextLink: String?
     
+    var prevMonthLink: String?
+    var nextMonthLink: String?
+    
     var link: String {
         "/dailyphoto/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2))"
     }
@@ -49,6 +52,18 @@ struct DailyPhoto: Component, Comparable {
         return TopNavLinks(prevLinkInfo, nil, nextLinkInfo)
     }
     
+    var monthLinks: TopNavLinks {
+        var prevMonthInfo: LinkInfo? = nil
+        var nextMonthInfo: LinkInfo? = nil
+        if let previous = DailyPhotoData.monthLink(forYear: year, month: month, direction: .previous) {
+            prevMonthInfo = LinkInfo("Previous Month", previous)
+        }
+        if let next = DailyPhotoData.monthLink(forYear: year, month: month, direction: .next) {
+            nextMonthInfo = LinkInfo("Next Month", next)
+        }
+        return TopNavLinks(prevMonthInfo, nil, nextMonthInfo)
+    }
+    
     var body: Component {
         Div {
             topLinks
@@ -57,8 +72,13 @@ struct DailyPhoto: Component, Comparable {
                 Paragraph(Markdown(caption)).class("dailyphotocaption")
                 Image(imagePath).class("dailyphotoimage")
             }.class("dailyphototop")
-            DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day)
+            DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day).class("dailyphoto-big-cal")
             
+            Div {
+                DailyPhotoCalendar.MonthTable(month: month, year: year, selectedMonth: month, selectedDay: day)
+                monthLinks
+            }.class("dailyphoto-little-cal")
+
             Div {
                 H3("Other years:")
                 

@@ -37,9 +37,12 @@ struct DailyPhotoYear: Comparable {
     static func < (lhs: DailyPhotoYear, rhs: DailyPhotoYear) -> Bool {
         lhs.year < rhs.year
     }
-
 }
 
+enum MonthLinkDirection {
+    case next
+    case previous
+}
 
 struct DailyPhotoData {
     
@@ -116,7 +119,7 @@ struct DailyPhotoData {
         return years
     }()
     
-
+    
     
     static let allYearLinks: [(String, Component)] = {
         Self.years.map { item in
@@ -136,7 +139,53 @@ struct DailyPhotoData {
         }
     }
     
+    static func monthLink(forYear year: UInt16, month: UInt8, direction: MonthLinkDirection) -> String? {
+        var newMonth: UInt8? = month
+        
+        switch direction {
+        case .previous:
+            newMonth = allMonthLinks.filter {
+                let yearPart = $0.key.substring(from: 0, to: 3)
+                let monthPart = $0.key.substring(from: 4, to: 5)
+                return yearPart == year.zeroPadded(4) && monthPart < month.zeroPadded(2)
+            }.compactMap { UInt8($0.key.substring(from: 4, to: 5))}
+                .sorted()
+                .last
+                
+                
+        case .next:
+            newMonth = allMonthLinks.filter {
+                let yearPart = $0.key.substring(from: 0, to: 3)
+                let monthPart = $0.key.substring(from: 4, to: 5)
+                return yearPart == year.zeroPadded(4) && monthPart > month.zeroPadded(2)
+            }.compactMap { UInt8($0.key.substring(from: 4, to: 5))}
+                .sorted()
+                .first
+        }
+        
+        if newMonth != nil {
+            return allMonthLinks["\(year.zeroPadded(4))\(newMonth!.zeroPadded(2))"]
+        }
+        return nil
+    }
+    
+    static let allMonthLinks: [String: String] = {
+        var tmp = [String: String]()
+        for y in years {
+            for dp in y.dp {
+                let key = "\(dp.year.zeroPadded(4))\(dp.month.zeroPadded(2))"
+                if tmp[key] == nil {
+                    tmp[key] = dp.link
+                }
+            }
+        }
+        return tmp
+    }()
+    
    
+    
+    // MARK: For generating Javascript redirects to the latest image/page
+    
     static var lastDayString: String {
         guard let dp = Self.years.last?.dp.last else {
             return ""

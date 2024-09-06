@@ -9,6 +9,13 @@ import Foundation
 import Plot
 import Publish
 
+
+enum DailyPhotoBuildMethod {
+    case none
+    case currentYear
+    case all
+}
+
 extension EnvironmentKey where Value == DateFormatter {
     static let defaultDateFormatter: DateFormatter = {
         let formatter = DateFormatter()
@@ -70,5 +77,14 @@ extension EnvironmentKey where Value == [Gallery] {
         ].compactMap{ $0 }
         return pgSet
     }()
+}
+
+extension EnvironmentKey where Value == DailyPhotoBuildMethod {
+    static var dailyPhotoBuildMethod: DailyPhotoBuildMethod = .all
+}
+
+extension EnvironmentKey where Value == Bool {
+    static var buildImageGalleries = true
+    static var buildOldTweets = true
 }
 
