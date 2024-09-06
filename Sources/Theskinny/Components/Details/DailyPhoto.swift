@@ -65,7 +65,9 @@ struct DailyPhoto: Component, Comparable {
     }
     
     var body: Component {
-        Div {
+        let littleMonthTable = DailyPhotoCalendar.MonthTable(month: month, year: year, selectedMonth: month, selectedDay: day)
+        
+        return  Div {
             topLinks
             H3(dateString)
             Div {
@@ -75,7 +77,10 @@ struct DailyPhoto: Component, Comparable {
             DailyPhotoCalendar.YearTable(year: year, selectedMonth: month, selectedDay: day).class("dailyphoto-big-cal")
             
             Div {
-                DailyPhotoCalendar.MonthTable(month: month, year: year, selectedMonth: month, selectedDay: day)
+                Div {
+                    Text(littleMonthTable.monthName)
+                    littleMonthTable
+                }.class("dailyphoto-little-cal-inner-box")
                 monthLinks
             }.class("dailyphoto-little-cal")
 

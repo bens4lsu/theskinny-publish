@@ -613,6 +613,7 @@ table th {
 
 .bigtable {
     margin: 0 auto;
+    display: none;
 }
 
 .bigtable td {
@@ -656,6 +657,24 @@ table.littletable .cell-dayofweek-heading {
     font-weight: bold;
 }
 
+
+.dailyphoto-little-cal {
+    display: table;
+    margin: 0 auto;
+    max-width:260px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.dailyphoto-little-cal .top-nav-links {
+    font-weight:normal;
+}
+
+.dailyphoto-little-cal-inner-box {
+    border: 2px solid #444; 
+    padding: 10px 6px;
+}
+
 .dailyphototop {
     display: grid;
     grid-template: 2fr/1fr;
@@ -664,6 +683,7 @@ table.littletable .cell-dayofweek-heading {
 
 .dailyphototop .dailyphotoimage {
     justify-self: center;
+    max-width:100%;
 }
 
 .dailyphototop .dailyphotocaption {
@@ -680,6 +700,34 @@ table.littletable .cell-dayofweek-heading {
     margin-right: 12px;
     margin-top: 8px;
 }
+
+
+    
+
+
+
+.haiku-single-entry {
+    padding-bottom: 40px;
+}
+
+.haiku-single-entry a {
+    text-decoration: none;
+}
+.haiku-single-entry a h1 {
+    color: #000;
+    margin: 0;
+}
+
+
+#tsob-fullpage-iframe {
+    width: 100%; aspect-ratio:16/9;
+}
+
+img.greenline {
+    display: block;
+    margin:auto;
+}
+
 
 @media (min-width: 650px) {
     .wrapper {
@@ -823,34 +871,25 @@ table.littletable .cell-dayofweek-heading {
     }
 
 
-
 @media (min-width: 650px) and (max-width: 810px) {
     .menu {
         font-size:75%;
         padding-left: 0;
     }
-    
+        
+}
+
+@media (min-width: 1055px) {
+
+    .dailyphoto-little-cal {
+        display: none;
+    }
+
+    .bigtable {
+        display: table;
+    }
+
 }
 
 
-.haiku-single-entry {
-    padding-bottom: 40px;
-}
 
-.haiku-single-entry a {
-    text-decoration: none;
-}
-.haiku-single-entry a h1 {
-    color: #000;
-    margin: 0;
-}
-
-
-#tsob-fullpage-iframe {
-    width: 100%; aspect-ratio:16/9;
-}
-
-img.greenline {
-    display: block;
-    margin:auto;
-}

@@ -616,12 +616,6 @@ table th {
     display: none;
 }
 
-.dailyphoto-little-cal {
-    display: table;
-    margin: 0 auto;
-    max-width:260px;
-}
-
 .bigtable td {
     text-align:center;
     font-weight: bold;
@@ -668,8 +662,18 @@ table.littletable .cell-dayofweek-heading {
     display: table;
     margin: 0 auto;
     max-width:260px;
+    font-weight: bold;
+    text-align: center;
 }
 
+.dailyphoto-little-cal .top-nav-links {
+    font-weight:normal;
+}
+
+.dailyphoto-little-cal-inner-box {
+    border: 2px solid #444; 
+    padding: 10px 6px;
+}
 
 .dailyphototop {
     display: grid;
