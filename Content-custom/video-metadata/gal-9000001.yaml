@@ -1,7 +1,7 @@
 id: 9000001
-slug: interesting-unusual-funny-2023
+slug: interesting-unusual-funny-2023-2024
 name: >
-    Interesting, Unusual, and Funny 2023
+    Interesting, Unusual, and Funny 2023 - 2024
 caption: 
 tn: mq2kk.jpg
 linkBack:
@@ -49,3 +49,13 @@ videos:
         embed: <iframe width="1082" height="609" src="https://www.youtube.com/embed/IPJ4Pd6E7Yw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         tn: mq20231213b.jpg
         duration: 0:13
+    -
+        id: 912345034
+        dateRecorded: 2024-09-10
+        name: Hurricane Francine Prep
+        caption: |
+            
+        url: https://youtu.be/tPMubTBkpOY
+        embed: <iframe width="728" height="410" src="https://www.youtube.com/embed/tPMubTBkpOY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240910.jpg
+        duration: 2:45

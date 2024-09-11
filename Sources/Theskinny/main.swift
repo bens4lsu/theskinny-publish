@@ -38,7 +38,7 @@ do {
         .dailyPhotos(),
         .oldMicroPosts()
     ])
-    shell("say \"site generation is complete.\"")
+    shell("say \"Ding.\"")
     
     
 } catch (let e) {
