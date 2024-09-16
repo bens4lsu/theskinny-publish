@@ -79,12 +79,5 @@ extension EnvironmentKey where Value == [Gallery] {
     }()
 }
 
-extension EnvironmentKey where Value == DailyPhotoBuildMethod {
-    static var dailyPhotoBuildMethod: DailyPhotoBuildMethod = .all
-}
 
-extension EnvironmentKey where Value == Bool {
-    static var buildImageGalleries = true
-    static var buildOldTweets = true
-}
 
