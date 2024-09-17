@@ -76,7 +76,7 @@ extension PublishingStep where Site == Theskinny {
             let factory = TsobHTMLFactory()
             var maxVideoId = Int.min
             var maxAlbumId = Int.min
-            for var album in context.videoAlbums {
+            for var album in VideoData.videoAlbums {
                 var page = Page(path: "video-albums/\(album.slug)", content: Content())
                 page.title = album.name
                 album.videos = album.videos.sorted()
@@ -99,7 +99,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func writeIndivVideoPages(forAlbum album: VideoAlbum, usingFactory factory: TsobHTMLFactory, onContext context: inout PublishingContext<Theskinny>, backToPage: Page) throws {
         for video in album.videos {
-            let bigTripAlbumIds = context.bigtripVideos.map { $0.id }
+            let bigTripAlbumIds = VideoData.bigtripVideos.map { $0.id }
             let bigTripHtml: Bool = bigTripAlbumIds.contains(video.id)
             
             var page = Page(path: "\(video.link)", content: Content())

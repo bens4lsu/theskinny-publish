@@ -1,0 +1,27 @@
+
+id: 9123004
+slug: pegasus-velvet-elvis-other-boat-stuff
+name: >
+    Pegasus Velvet Elvis: Other Boat Stuff
+caption:
+tn: mq20240917.jpg
+linkBack:
+    text: |
+        Pegasus Velvet Elvis: Other Boat Stuff
+    url:  /vid/velvet-elvis-2024-big-trip/
+videos:
+
+    -
+        id: 912345035
+        dateRecorded: 2024-09-17
+        name: Sliding Door Hardware
+        caption: >
+            The door latch broke in Key West, and we pretty much had to pull it all out just to release ourselves from the cabin.  Here, I repair the door.  
+            
+            This video is really meant to help me out if I ever need to mess with this hardware again.
+        url: https://youtu.be/ajBYFcfqKQk
+        embed: >
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/ajBYFcfqKQk" title="Sliding Door Hardware" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240917.jpg
+        duration: 3:54
+

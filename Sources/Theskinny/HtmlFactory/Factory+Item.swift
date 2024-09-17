@@ -59,7 +59,7 @@ extension TsobHTMLFactory {
         // this is a page that lists several albums.  clicking on the albums should go to a page that lists all
         // of the videos for that album.
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Video Albums on theskinnyonbenny.com")
-        var albumsToShow = context.videoAlbums.filter { album in
+        var albumsToShow = VideoData.videoAlbums.filter { album in
             item.metadata.videoAlbums?.contains(album.id) ?? false
         }.sorted()
         albumsToShow = Array(albumsToShow.reversed())
