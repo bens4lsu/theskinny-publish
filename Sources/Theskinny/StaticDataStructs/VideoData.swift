@@ -39,7 +39,12 @@ struct VideoData {
     }()
     
     static let bigtripVideos: [Video] = {
+        
+        //  This makes them show up on the feed of everything from the big trip.
+        //  To adjust what shows up on the video gallery cover page, adjust the
+        //  .md file in Content/vid.
         let albumIdsToInclude = [9123001, 9123003]
+        
         let albumsForThisSet = videoAlbums.filter { albumIdsToInclude.contains($0.id) }
         return albumsForThisSet.flatMap { $0.videos }
     }()

@@ -31,12 +31,12 @@ do {
     try hideResourceImages()
     
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
-        .writePostPages(),
-        .writeRedirectsFromWordpressUrls(),
-        .writeVideoAlbumPages(),
-        .imageGalleries(),
-        .dailyPhotos(),
-        .oldMicroPosts()
+       .writePostPages(),
+       .writeRedirectsFromWordpressUrls(),
+       .writeVideoAlbumPages(),
+       .imageGalleries(),
+       .dailyPhotos(),
+       .oldMicroPosts()
     ])
     shell("say \"Ding.\"")
     
