@@ -26,6 +26,7 @@ extension TsobHTMLFactory {
                                    "https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28",
                                    "/scripts/lightview.js",
                                    "/scripts/mastodon-timeline.js",
+                                   "/scripts/bluesky-timeline.js",
                                    "/scripts/menu.js?v=\(EnvironmentKey.styleAndScriptVersion)",
                                    "./scripts/dailyphotoimgage.js"
         ]
