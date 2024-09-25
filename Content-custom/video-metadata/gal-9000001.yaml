@@ -70,4 +70,13 @@ videos:
         embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/hVzcnRUAky0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240919.jpg
         duration: 0:13
+    -
+        id: 912345037
+        dateRecorded: 2024-09-25
+        name: Rosie's Favorite Commercial
+        caption: 
+        url: https://youtu.be/pO6L3TwzFW4
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/pO6L3TwzFW4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240925.jpg
+        duration: 0:27
 

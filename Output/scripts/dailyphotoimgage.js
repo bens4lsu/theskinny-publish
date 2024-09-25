@@ -11,7 +11,7 @@
 
         function pathPart() {
             var today = dpPath();
-            var latest = "20240921";
+            var latest = "20240927";
 
             var winner = today < latest ? today : latest;
             var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
@@ -21,7 +21,7 @@
         $(document).ready(function(){
 
             var today = dpPath();
-            var latest = "20240921";
+            var latest = "20240927";
 
             var winner = today < latest ? today : latest;
             var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
