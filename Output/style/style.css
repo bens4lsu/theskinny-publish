@@ -376,11 +376,11 @@ div.twitter-tweet {
     padding: 0;
 }
 
-.mt-user > a, .toot-text {
+.mt-user > a, .toot-text, .bsky-post-text {
     color: #000;
 }
 
-.mt-toot {
+.mt-toot, .bsky-post {
     margin: 0.25rem;
     padding: 1rem 0.5rem 0.5rem 4rem;
     position: relative;
@@ -388,6 +388,40 @@ div.twitter-tweet {
     background-color: transparent;
     border-bottom: 2px solid #a6a6a6;
     font-size: 100%;
+}
+
+.bsky-post-media {
+    margin-bottom: 10px;
+}
+
+.mt-avatar {
+  position: absolute;
+  top: 1rem;
+  left: 5px;
+  width: 3rem;
+  height: 3rem;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+  background-color: var(--bg-color);
+  border-radius: 5px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.bsky-post-date {
+    font-size: 75%;
 }
 
 
@@ -398,8 +432,12 @@ div.twitter-tweet {
     font-size: 80%;
 }
 
-.mt-footer a.btn, .mt-toot a {
+.mt-footer a.btn, .mt-toot a, .bsky-post a {
     color: #9E2606;
+}
+
+.bsky-post-media img {
+    max-width:100%;
 }
 
 

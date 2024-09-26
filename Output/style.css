@@ -376,11 +376,11 @@ div.twitter-tweet {
     padding: 0;
 }
 
-.mt-user > a, .toot-text {
+.mt-user > a, .toot-text, .bsky-post-text {
     color: #000;
 }
 
-.mt-toot {
+.mt-toot, bsky-post {
     margin: 0.25rem;
     padding: 1rem 0.5rem 0.5rem 4rem;
     position: relative;
@@ -398,8 +398,12 @@ div.twitter-tweet {
     font-size: 80%;
 }
 
-.mt-footer a.btn, .mt-toot a {
+.mt-footer a.btn, .mt-toot a, .bsky-post a {
     color: #9E2606;
+}
+
+.bsky-post-media img {
+    max-width:100%;
 }
 
 
