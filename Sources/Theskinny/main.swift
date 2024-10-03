@@ -36,7 +36,7 @@ do {
         .writeVideoAlbumPages(),
         .imageGalleries(),
         .dailyPhotos(),
-        .oldMicroPosts()
+        .oldMicroPosts(),
     ])
     shell("say \"Ding.\"")
     

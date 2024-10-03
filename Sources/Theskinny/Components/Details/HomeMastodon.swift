@@ -24,3 +24,6 @@ struct HomeMastodon: Component {
         }.class("div-home-tweets")
     }
 }
+
+
+

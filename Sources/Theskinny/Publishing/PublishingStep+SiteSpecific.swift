@@ -146,6 +146,7 @@ extension PublishingStep where Site == Theskinny {
             let html = HTML(.component(Script(script)))
             var page = Page(path: Path("/dailyphoto"), content: Content())
             page.content.body.html = html.render().replacingOccurrences(of: "&lt;", with: "<")
+
             context.addPage(page)
             
             //script file for image on home page
@@ -167,6 +168,7 @@ extension PublishingStep where Site == Theskinny {
                     var page = Page(path: Path(dailyphoto.link), content: Content())
                     let html = HTML(.component(dailyphoto))
                     page.content.body.html = html.render()
+                    page.imagePath = Path(dailyphoto.imagePath)
                     context.addPage(page)
                 }
             }

@@ -11,13 +11,12 @@ import Publish
 
 struct LayoutFooter: Component {
     var site: any Website
-    let currentYear = Calendar.current.component(.year, from: Date())
     
     var body: Component {
         Footer{
             Div {
                 Div {
-                    Text("© 2004 - \(currentYear) \(site.name)")
+                    Text("© 2004 - \(EnvironmentKey.currentYear) \(site.name)")
                 }
                 Div {
                     Text("Generated using ")

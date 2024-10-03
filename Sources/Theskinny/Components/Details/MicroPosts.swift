@@ -22,7 +22,7 @@ struct MicroPosts: Component {
         
         return Article {
             Paragraph("When Twitter became a cesspool in 2023, I wrote a little script to pull down my old data.  I repurposed it here, again with a program, so if you read something from a random old year, you might just be the first person ever to read it.  In other words, there's no editing going on here.  You can see that in 2023, I jumped from Twitter to Mastodon to post thoughts on my home page, so there's a little icon to tell you where the source was.").class("pg-instruction-box caption")
-            H4("Previous Years")
+            H4("Other Years")
             previousYearLinks()
             Div {
                 

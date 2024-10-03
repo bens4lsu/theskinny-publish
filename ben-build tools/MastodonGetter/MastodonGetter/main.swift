@@ -21,9 +21,10 @@ if let (data, _) = try await getPosts() {
     let mpfm = MicroPostFileManager()
     var output = ""
     for post in mastodonResponse {
-        if post.createdAt.year < Date().year {
-            output += try await mpfm.getYaml(post) + "\n\n"
-        }
+//        if post.createdAt.year < Date().year {
+//            output += try await mpfm.getYaml(post) + "\n\n"
+//        }
+        output += try await mpfm.getYaml(post) + "\n\n"
     }
     try output.write(toFile: mpfm.yamlFile, atomically: true, encoding: .utf8)
 }

@@ -50,6 +50,8 @@ extension EnvironmentKey where Value == Int {
     static let blogPostsPerPage = 12
     //static let styleAndScriptVersion = Int.random(in: Int.min...Int.max)
     static let styleAndScriptVersion = 1029
+    
+    static let currentYear: Int = Calendar.current.component(.year, from: Date())
 }
 
 extension EnvironmentKey where Value == String {

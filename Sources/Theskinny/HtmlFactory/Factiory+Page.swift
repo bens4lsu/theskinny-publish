@@ -58,7 +58,10 @@ extension TsobHTMLFactory {
             }
         }
         
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        let imgPath = page.imagePath?.string ?? EnvironmentKey.emptyImg
+        let imgNode = Node.ogImgNode(imgPath, context: context)
+        htmlHeadInfo.additionalNodes.append(imgNode)
         let pageContent = Article { page.body }
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         let html = HTML(
