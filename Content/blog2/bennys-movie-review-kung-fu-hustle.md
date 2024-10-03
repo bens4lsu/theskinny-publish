@@ -1,14 +1,13 @@
 ---
-title: Benny's Movie Review:  <i>Kung Fu Hustle</i>
+title: Benny's Movie Review:  Kung Fu Hustle
 date: 2005-05-31 06:07
-description: A description of my post.
+description: I've decided that I might drop in an occasional movie review.  But I won't be writing about movies that everyone reviews and that you've already decided to see or to not see anyway.  So don't come back looking for my thoughts on Hitch or Revenge of the Sith.  By the time I finally see those, you will have long since formed an opinion for yourself.
 tags: pop-culture
 id: 121
 ---
 I've decided that I might drop in an occasional movie review.  But I won't be writing about movies that everyone reviews and that you've already decided to see or to not see anyway.  So don't come back looking for my thoughts on <i>Hitch</i> or <i>Revenge of the Sith</i>.  By the time I finally see those, you will have long since formed an opinion for yourself.
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br />But I do end up going to an inordinate number of movies that no one has heard of, much less knows that they're actually showing in a Baton Rouge theater.  Most of these pay at the Seigen Lane theater, and often, there's no more than a person or two in the movies other than my group.
+But I do end up going to an inordinate number of movies that no one has heard of, much less knows that they're actually showing in a Baton Rouge theater.  Most of these pay at the Seigen Lane theater, and often, there's no more than a person or two in the movies other than my group.
 
 So, has anyone else not heard of <i>Kung Fu Hustle</i>?  I had never heard of it before Mrs. theskinnyonbenny picked it as a rainy holiday pastime yesterday.  She billed it as "a kung-fu movie spoof."
 

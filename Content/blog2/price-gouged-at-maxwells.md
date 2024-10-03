@@ -1,14 +1,15 @@
 ---
 title: Price Gouged at Maxwell's
 date: 2005-04-26 08:44
-description: A description of my post.
+description: On Friday afternoon, I got a call from Mrs. theskinnyonbenny.  She wanted to marinate a good steak, and then sit outside at the Regal Beagle cook on the grill, drink a few martinis, and eat.  She had seen a recipe for a certain marinade meat combination that she wanted to try.  It called for center cut tenderloin.
 tags: food
 id: 111
 ---
 On Friday afternoon, I got a call from Mrs. theskinnyonbenny.  She wanted to marinate a good steak, and then sit outside at the Regal Beagle cook on the grill, drink a few martinis, and eat.
 
 She had seen a recipe for a certain marinade meat combination that she wanted to try.  It called for center cut tenderloin.
-<span class="spanEndPreview">&nbsp;</span><br /><br />I went to Maxwell's market on Corporate boulevard, and browsed the meats in the case.  They had boneless sirloin, filet tips, and even a full tenderloin displayed, but no center cut pieces.  I asked the guy behind the counter.
+
+I went to Maxwell's market on Corporate boulevard, and browsed the meats in the case.  They had boneless sirloin, filet tips, and even a full tenderloin displayed, but no center cut pieces.  I asked the guy behind the counter.
 
 He went to the back and pulled out a long tenderloin.  He let me pick the piece I wanted.  "From there to about there," is how I specified it.  He cut the piece wrapped it up, and gave it to me to take to the cash register.
 

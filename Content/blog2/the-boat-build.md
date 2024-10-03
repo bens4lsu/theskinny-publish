@@ -1,16 +1,15 @@
 ---
 title: The Boat Build
 date: 2005-04-19 15:04
-description: A description of my post.
-tags: my-stories
+description: If you know me, you know that I am in the process of building a canoe in my garage.  You probably also know that this project has been going on since the Carter administration.  It hasn't really been that long, but I did start cutting out forms the day that LSU played in the Cotton Bowl.  So that would put me two years and four months into the build.
+tags: my-stories, boats, home
 id: 109
 ---
 If you know me, you know that I am in the process of building a canoe in my garage.  You probably also know that this project has been going on since the Carter administration.
 
 It hasn't really been that long, but I did start cutting out forms the day that LSU played in the Cotton Bowl.  So that would put me two years and four months into the build.
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br />This is a project that probably takes most hobbyists a couple of months.
+This is a project that probably takes most hobbyists a couple of months.
 
 The main problem is that I have a really small garage.  When it gets cluttered up with crap from other things that are going on, that puts my canoe building on hold until it gets cleaned out.
 

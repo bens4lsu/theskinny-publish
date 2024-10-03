@@ -4,6 +4,7 @@ date: 2005-05-13 07:25
 description: The other day, I came in to work, and was told that I look "snazzy."  From my perspective, I looked like I always look, but there must have been something different that day.  I like the thought of "unintentionally snazzy" being a phrase to describe me, though.
 tags: my-stories
 id: 117
+ogImg: annscube.jpg
 ---
 The other day, I came in to work, and was told that I look "snazzy."  From my perspective, I looked like I always look, but there must have been something different that day.  I like the thought of "unintentionally snazzy" being a phrase to describe me, though.
 
@@ -19,13 +20,17 @@ While I'm talking about work, I'll mention the departure of Tom the programmer, 
 
 Their bickering is a regular source of amusement for me.  Yesterday, it was over how some information was stored in the database.  I prompted me to email them this haiku:
 
-<center><b>A Haiku for Toni</b>
-There are no zeros<br />Saved there in the database<br />Open it and see</center>
+**A Haiku for Toni**
+There are no zeros
+Saved there in the database
+Open it and see
 
 I know that this really isn't amusing anyone other than me, but sometimes self-amusement is reward enough.
 
 Since only the real nerds have stuck with me this long, we came up with this joke earlier in the week:
 
-<center><b>A programmers grocery list</b></center><blockquote>< ?php include("/home/users/web/b1051/sl.theskinn/public_html/blog/archives/include117.txt"); ?></blockquote>
+**A programmers grocery list**
+
+<h3>(Update 2023:  I bet this is hilarious, but it's coded in a seperate file that never made the jump to modern web tech.)</h3>
 
 Getting back to my unintentional snazziness, my next hair do will be a real hum-dinger.  Consider yourself warned.

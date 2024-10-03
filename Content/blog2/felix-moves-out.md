@@ -1,15 +1,16 @@
 ---
 title: Felix Moves Out
 date: 2005-05-17 20:46
-description: A description of my post.
+description: From time to time, I get asked why I don't have any kids clinging to my britches as I push the stroller through Wal Mart.  People don't actually word their question like that, but that's what I hear.  I understand that the joy of raising your children outweighs my ability to go to Vegas on a lark, eat dinner at nice restaurants without advance planning, or sitting outside in the silence while catching up on my reading.  However, there are some signs that I might not be the world's best primary caregiver.
 tags: animals
 id: 118
+ogImg: oscarFelix.jpg
 ---
 From time to time, I get asked why I don't have any kids clinging to my britches as I push the stroller through Wal Mart.  People don't actually word their question like that, but that's what I hear.
 
 I understand that the joy of raising your children outweighs my ability to go to Vegas on a lark, eat dinner at nice restaurants without advance planning, or sitting outside in the silence while catching up on my reading.  However, there are some signs that I might not be the world's best primary caregiver.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />When Mrs. theskinnyandbenny and I first moved into our house, we had two cats:  Oscar and Felix.  They were nice, normal cats.  I had started feeding them as stray kittens, and at some point, we moved, took them with us, and became responsible for their veternary care.
+When Mrs. theskinnyandbenny and I first moved into our house, we had two cats:  Oscar and Felix.  They were nice, normal cats.  I had started feeding them as stray kittens, and at some point, we moved, took them with us, and became responsible for their veternary care.
 
 Our new house was on a very busy street.  We took pains to keep the two cats inside, so they wouldn't join the legions of roadkill (mostly possums -- don't freak out) that litter our road.  I went as far as to have a cat door installed for the upstairs balcony, so that they could go out there at their leisure.
 
@@ -21,7 +22,7 @@ We tried drugs.  The vet perscribed an anti-depressant for Felix's anger, and ca
 
 (No shit, there really is such a thing as cat birth control pills.)
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/oscarFelix.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b></b>Felix and Oscar</font></td></tr></table>
+<a class="lightview alignright" href="/img/oscarFelix.jpg" data-lightview-caption="Felix and Oscar" data-lightview-group="group1" style="width:350px;"><img src="/img/oscarFelix.jpg" alt="/img/oscarFelix.jpg"><br><span class="caption">Felix and Oscar</span></a>
 
 After the first time I pulled it on him, Felix was too smart to be fooled by the "nasty pill hidden in the cheese" ruse.  I started stuffing the pill down his mouth.
 

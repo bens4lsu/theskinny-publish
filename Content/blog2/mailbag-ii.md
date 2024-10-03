@@ -4,6 +4,7 @@ date: 2004-05-17 12:10
 description: More mail from friends.
 tags: correspondence
 id: 34
+ogImg: shelly_abby.jpg
 ---
 You've finally sent me enough miscellaneous stuff to have another mailbag session.  I wish I would get more so that we could do this more often.
 

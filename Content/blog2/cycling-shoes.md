@@ -1,7 +1,7 @@
 ---
 title: Cycling Shoes
 date: 2005-05-20 05:33
-description: A description of my post.
+description: When I started riding in organized cycling events, I was always amazed at the guys with big, fat guts that could ride up and down hills like mother---ers with motors.  How did they get so fit, but manage to stay fat?  I don't really know how mother nature lets that happen, but I'm a walking/peddling laboratory for study of the phenomenon.  I'm at least 15-20 pounds over my ideal weight, and I'm five pounds of pure gut over the heaviest that I've ever been.  (If you've seen me and don't think this could be, then you should see me clad in some tight synthetic cycling gear.  It ain't pretty.)
 tags: sports
 id: 119
 ---
@@ -9,10 +9,9 @@ When I started riding in organized cycling events, I was always amazed at the gu
 
 I don't really know how mother nature lets that happen, but I'm a walking/peddling laboratory for study of the phenomenon.  I'm at least 15-20 pounds over my ideal weight, and I'm five pounds of pure gut over the heaviest that I've ever been.  (If you've seen me and don't think this could be, then you should see me clad in some tight synthetic cycling gear.  It ain't pretty.)
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />But even so, I'm knocking out my ususal 40 minute rides in 35 minutes.  There's a short hill near my house that I like to sprint up.  My goal has usually been to keep my speed above 14 mph going up, but on my last two rides, I've topped 17.
+But even so, I'm knocking out my ususal 40 minute rides in 35 minutes.  There's a short hill near my house that I like to sprint up.  My goal has usually been to keep my speed above 14 mph going up, but on my last two rides, I've topped 17.
 
 I guess with another 20 pounds on my belly, I'll be ready to start racing.  Who's bringing the Krispy Kreme's to the office tomorrow?
-
 
 I had gotten some new cycling shoes early this year.  The way cycling shoes work nowdays is that they have clips that snap in to a binding on the pedal, similar to a really small ski boot cliping into the ski.  This system is called a "clipless" pedal, presumably by a non-English speaking person who didn't know the usual meaning of the suffix "-less."
 

@@ -1,18 +1,20 @@
 ---
 title: The Alange & Sohne
 date: 2005-04-12 08:42
-description: A description of my post.
-tags: gear-and-gadgets
+description: One of my favorite gifts is a knock-off of a nice watch.  My dad seems to know a good watch guy, in the sea of Bangkok vendors who sell any counterfit consumer product that you can dream of.
+tags: gear-and-gadgets, favorites
 id: 108
+ogImg: /img/watch.jpg
 ---
 One of my favorite gifts is a knock-off of a nice watch.
 
 My dad seems to know a good watch guy, in the sea of Bangkok vendors who sell any counterfit consumer product that you can dream of.
 
-<skinny :nohome><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=225><img src="/img/watch.jpg" width=250 aborder=0 vspace=4/></td></tr><tr><td width=225><font face="verdana, arial, geneva" size=1 color=#666666><b>My Alange & Sohne</b></font></td></tr></table><p></p></skinny>
+<a class="lightview alignright" href="/img/watch.jpg" data-lightview-caption="My Alange & Sohne" data-lightview-group="group1" style="width:350px;"><img src="/img/watch.jpg" alt="/img/watch.jpg"><br><span class="caption">My Alange & Sohne</span></a>
 
 At Christmas, he gave me an Alange & Sohne.  I had never heard of the brand, but it looks pretty cool.  I searched the web for the real McCoy.  I didn't find the exact copy of mine (or I guess I should say the one that mine copied), but <a href="http://www.demesy.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=JDFW&Product_Code=42815&Category_Code=BR1" target="_blank">this one</a> was fairly close.
-<span class="spanEndPreview">&nbsp;</span><br /><br />The thing that might cause you to choke on your own spit is the price.  I can't imagine spending $26K on a watch.  Wouldn't it be fun to have so much money that this seemed like a reasonable price for a nice watch?
+
+The thing that might cause you to choke on your own spit is the price.  I can't imagine spending $26K on a watch.  Wouldn't it be fun to have so much money that this seemed like a reasonable price for a nice watch?
 
 At any rate, the knock offs sometimes seem to lack the features that one might expect.  I went ahead and made a comparison chart, so that when you might be in the market for a watch, you can decide whether you want to grab a replica, or go ahead and spring for the real thing.
 

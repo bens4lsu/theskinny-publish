@@ -1,20 +1,21 @@
 ---
 title: The Middle of the Night
 date: 2005-05-06 07:36
-description: A description of my post.
+description: I woke up at 2:30 this morning, and within ten minutes, it was clear to me that I wasn't getting back to sleep.  This happens to me from time to time.  Usually, it's nice to have a quiet dark house.  I have enough reading to catch up on and enough hobbies to occupy my time that it usually isn't a problem.  But today, I just wanted to watch TV.  Here's what I did between the time I woke up and the time I went to work.
 tags: my-stories
 id: 114
 ---
 I woke up at 2:30 this morning, and within ten minutes, it was clear to me that I wasn't getting back to sleep.  This happens to me from time to time.  Usually, it's nice to have a quiet dark house.  I have enough reading to catch up on and enough hobbies to occupy my time that it usually isn't a problem.
 
 But today, I just wanted to watch TV.  Here's what I did between the time I woke up and the time I went to work.
-<span class="spanEndPreview">&nbsp;</span><br /><br /><b>2:30 - 3:30:</b>  Watched the last hour of OLN's Tour de Georgia broadcast.  
+
+**2:30 - 3:30:**  Watched the last hour of OLN's Tour de Georgia broadcast.  
 
 OLN condensed a six-day stage race down to a two or three hour broadcast.  I had already watched the first few stages, and I accidentally came ac cross an article that spoiled who won for me, but I watched anyway.  
 
 This was a good race.  It had just about all of the big-name Americans in cycling.  I need to try to get to that event next year.
 
-<b>3:30 - 3:35:</b>  Five minutes of Lassie in black and white.  
+**3:30 - 3:35:**  Five minutes of Lassie in black and white.  
 
 I used to watch Lassie reruns in the middle of the night for a couple of reasons.  First, there is absolutely nothing else on during that time of the night.  Second, the shows are unintentionally hilarious.  
 
@@ -22,7 +23,7 @@ My favorite episode had Lassie stuck behind an electric fence.  "Don't try to ju
 
 After five minutes, it dawned on me that I had a better option.
 
-<b>3:35 - 5:35:</b>  Last couple of episodes of <i>Arrested Development</i>.
+**3:35 - 5:35:**  Last couple of episodes of <i>Arrested Development</i>.
 
 I borrowed the first season on DVD, having never caught an episode.  I've been watching an episode or two every night that I wake up at an ungodly hour and can't go back to sleep.
 
@@ -30,7 +31,7 @@ I borrowed the first season on DVD, having never caught an episode.  I've been w
 
 I haven't seen any of season two.  I'm watching for those to start again in reruns.  Let me know if you notice it on your TV guide.
 
-<b>5:35 - 7:00:</b>  On the Internet.  
+**5:35 - 7:00:**  On the Internet.  
 
 I got on the Internet because at the end of the cycling broadcast, Phil Liggit implored me to go to oln.com and let them know whether I would like to see live Tour de Georgia coverage next year.  
 

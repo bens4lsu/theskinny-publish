@@ -1,14 +1,15 @@
 ---
 title: Ann, The Drunk Chick in Ireland
 date: 2005-05-05 10:12
-description: A description of my post.
-tags: travel
+description: This is one of my old stories, but one I haven't told in a while.  It came up just the other day.  In November of 1995, Mrs. theskinnyonbenny and I were newly married and on our honeymoon in Ireland.  November is a cool drizzly month in Ireland (as I suspect most months are), but we were having a good trip. 
+tags: travel, favorites
 id: 113
 ---
 This is one of my old stories, but one I haven't told in a while.  It came up just the other day.
 
 In November of 1995, Mrs. theskinnyonbenny and I were newly married and on our honeymoon in Ireland.  November is a cool drizzly month in Ireland (as I suspect most months are), but we were having a good trip. 
-<span class="spanEndPreview">&nbsp;</span><br /><br />We spent most days driving from one small town to another.  We would eat a big breakfast, and then suffer through the nasty food that they serve the rest of the time.  It got dark early, so we would find a pub where the heavy thick beer would help the unsalted potato mush dinner go down more easily.
+
+We spent most days driving from one small town to another.  We would eat a big breakfast, and then suffer through the nasty food that they serve the rest of the time.  It got dark early, so we would find a pub where the heavy thick beer would help the unsalted potato mush dinner go down more easily.
 
 One night, we were in a nice little place in the seaside town of Kinsale.  We were sampling local beer and whisky and sitting by a fireplace shooting the breeze.  The place was mostly empty.
 

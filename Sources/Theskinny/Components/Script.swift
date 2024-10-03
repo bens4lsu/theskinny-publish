@@ -26,4 +26,4 @@ public struct Script: Component {
     }
 }
 
-extension HTML.ScriptContext: HTMLScriptableContext { }
+extension HTML.ScriptContext: @retroactive HTMLScriptableContext { }

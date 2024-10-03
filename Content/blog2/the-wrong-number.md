@@ -1,8 +1,8 @@
 ---
 title: The Wrong Number
 date: 2005-03-29 08:13
-description: A description of my post.
-tags: the-office
+description: Here's an amusing thing that just happened to me.
+tags: the-office, short, favorites
 id: 107
 ---
 Here's an amusing thing that just happened to me.
