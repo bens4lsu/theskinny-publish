@@ -34,7 +34,7 @@ Three interesting observations:
 <p>Then, the whole band followed by fire truck thing was repeated for LSU players.  The kickers seemed no less pathetic.
 </p>
 
-<p>I really had to hope that either Baton Rouge had borrowed fire trucks from other cities, or that no one's house would alight while the parade was happening.  There had to be close to 20 big engines in the parade, and Iï¿½ve got to imagine that this represents a significant portion of our city's fire fighting capacity.
+<p>I really had to hope that either Baton Rouge had borrowed fire trucks from other cities, or that no one's house would alight while the parade was happening.  There had to be close to 20 big engines in the parade, and I've got to imagine that this represents a significant portion of our city's fire fighting capacity.
 </p>
 
 <p>But the real embarrassment is that there was one part of the parade that was supposed to shower the teams in ticker tape.  That's what you do when you win the championship, right?  Have a ticker tape parade?  I'm almost positive I've heard of that.

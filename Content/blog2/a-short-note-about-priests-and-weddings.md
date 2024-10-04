@@ -1,7 +1,7 @@
 ---
 title: A Short Note about Priests and Weddings
 date: 2005-10-05 13:36
-description: A description of my post.
+description: I read this article in Sunday's New York Times.  My first reaction was, "What crazy people.  Who would behave like this at someone else's wedding?"  Then I remembered that at a close friend's wedding reception, the groom's father got into an angry shouting match with the priest who presided, and threatened to drop an ass-kicking on him.  I'm pretty sure alcohol was involved there.
 tags: my-stories
 id: 143
 ---
@@ -9,7 +9,7 @@ I read <a href="http://www.nytimes.com/2005/10/02/fashion/sundaystyles/02TRASHER
 
 Then I remembered that at a close friend's wedding reception, the groom's father got into an angry shouting match with the priest who presided, and threatened to drop an ass-kicking on him.  I'm pretty sure alcohol was involved there.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />I think the whole episode was kind of embarrassing to the family, and I for one had almost forgotten the whole thing.  So I leave it written here so that we don't accidentally forget.
+I think the whole episode was kind of embarrassing to the family, and I for one had almost forgotten the whole thing.  So I leave it written here so that we don't accidentally forget.
 
 It's a wonder that I have a single friend left.
 

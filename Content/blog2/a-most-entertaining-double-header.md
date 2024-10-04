@@ -24,7 +24,7 @@ You can't beat a 300-yard walk from one event to the next.  The setup was like J
 <a class="lightview alignright" href="/img/AtBaseBall0427.JPG" data-lightview-caption="The narrator watches baseball." data-lightview-group="group1" style="width:350px;"><img src="/img/AtBaseBall0427.JPG" alt="/img/AtBaseBall0427.JPG"><br><span class="caption">The narrator watches baseball.</span></a>
 
 
-The baseball game was moved up to an earlier than expected start for the typical LSU baseball fan, who is around age 80.  An 8:30 start meant that LSU Baseball Fan would have to drive home around midnight, which of course, would really put a damper on that 5:30 am breakfast at Dennyï¿½s with their geriatric buddies.
+The baseball game was moved up to an earlier than expected start for the typical LSU baseball fan, who is around age 80.  An 8:30 start meant that LSU Baseball Fan would have to drive home around midnight, which of course, would really put a damper on that 5:30 am breakfast at Denny's with their geriatric buddies.
 
 Stacie did manage to catch the attached photo of your favorite web scribe.  I know that it's my site, and that I don't have to publish this, but I sure as hell would put the same photo of any of you here, so in the name of journalistic integrity, here is the photo that Stacie titled, "7th Inning Stretch."
 

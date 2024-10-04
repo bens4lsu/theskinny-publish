@@ -1,7 +1,7 @@
 ---
 title: The "America" Songs
 date: 2005-08-18 21:06
-description: A description of my post.
+description: When MTV2 first hit the air, they showed nothing but videos.  You know, just like the original MTV, but almost 20 years later.  For one of their early years, they started playing all of the videos in the MTV library in alphabetical order by song.  They started at the turn of the new year, and the drill lasted all the way into May.
 tags: pop-culture
 id: 134
 ---
@@ -10,7 +10,8 @@ When MTV2 first hit the air, they showed nothing but videos.  You know, just lik
 For one of their early years, they started playing all of the videos in the MTV library in alphabetical order by song.  They started at the turn of the new year, and the drill lasted all the way into May.
 
 That made for a fun game.  Guess what the next song would be, and wait around to see how many in-between songs that you had totally forgotten.  It would often be dozens.  It was also interesting to see how many versions of a particular song they had.  And, of course, there was lots and lots and lots of crap that you never heard of in the first place.
-<span class="spanEndPreview">&nbsp;</span><br /><br />This year, I started playing the songs on my ipod alphabetically.  Not every time I listen, but every time that I can't decide what to listen to, I just pick up where I left off on the list.  I've worked through all of the songs that start with punctuation or numbers, and I'm well into the A's.  That doesn't seem like much, but it's a couple hundred songs in.
+
+This year, I started playing the songs on my ipod alphabetically.  Not every time I listen, but every time that I can't decide what to listen to, I just pick up where I left off on the list.  I've worked through all of the songs that start with punctuation or numbers, and I'm well into the A's.  That doesn't seem like much, but it's a couple hundred songs in.
 
 I notice that there are some trends:  songs that start with an apostrophe or parentheses are more likely to be jazz or swing.  There are seventeen songs that start with "Ain't," and almost all of them are 60s R&B.  There are six totally different songs called "Angel" and six more that start with "Angel" and are then followed by more words.
 
@@ -36,6 +37,8 @@ The friend was one of those with some level of disgust for a modern update of a 
 
 "Yeah.  She probably thinks it's about pie." (That was my only contribution to the conversation.)
 
-But what really caught my attention and made this whole thing blogworthy, was this version.  I don't remember hearing this before, and it definitely caught me by surprise.  It's a cover by the Brady Bunch, and to save you the pain of trying to find the version for yourself, I've made it so you can play the tune for yourself right here.  <embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/AmericanPie.mp3" TYPE="video/x-ms-wmf-plugin"  AUTOSTART="0" SHOWCONTROLS="1"  align="right" /><noembed>You'll have to find this song somewhere else.  Your browser won't allow embedded media.  Sorry.</noembed>
+But what really caught my attention and made this whole thing blogworthy, was this version.  I don't remember hearing this before, and it definitely caught me by surprise.  It's a cover by the Brady Bunch, and to save you the pain of trying to find the version for yourself, I've made it so you can play the tune for yourself right here.  
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/american-pie/1452808950?i=1452809473"></iframe>
 
 I don't really have anything that I can add that would make this funnier than it is all by itself.

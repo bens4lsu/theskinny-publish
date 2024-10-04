@@ -1,21 +1,22 @@
 ---
 title: The San Antonio Saints
 date: 2005-10-09 20:30
-description: A description of my post.
+description: I guess that today was the day that all of our new Saints fans in San Antonio found out what being a Saints fan is all about.  Joe San Antonio was probably settling into his couch at noon, pretty geeked up about his new favorite NFL team.  He went to the game last week, yelled long and loud, and saw his team play pretty well in beating a mediocre Buffalo squad.  Today's game was against 0-4 Green Bay, who was additionally handicapped by multiple injuries to key players.
 tags: sports
 id: 145
+ogImg: favre.jpg
 ---
 I guess that today was the day that all of our new Saints fans in San Antonio found out what being a Saints fan is all about.
 
 Joe San Antonio was probably settling into his couch at noon, pretty geeked up about his new favorite NFL team.  He went to the game last week, yelled long and loud, and saw his team play pretty well in beating a mediocre Buffalo squad.  Today's game was against 0-4 Green Bay, who was additionally handicapped by multiple injuries to key players.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />The first couple of series were good.  The Saints stopped the Packers on their first series; they drove for a field goal their first offensive series.  And then they turned into the Saints that Louisiana has always known.  A lackluster, uninspired performance slowly degraded to a humiliation.  Final score:  Packers 52, Saints 3.
+The first couple of series were good.  The Saints stopped the Packers on their first series; they drove for a field goal their first offensive series.  And then they turned into the Saints that Louisiana has always known.  A lackluster, uninspired performance slowly degraded to a humiliation.  Final score:  Packers 52, Saints 3.
 
 That was a little hard to type.
 
 Joe SA will learn not too get too bent about any particular loss.  Just as they will be astoundingly bad, they will have a few games that are impressively good.  And they will keep you thinking that they just might sneak into the playoffs.
 
-<skinny :nohome><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/favre.jpg"/></td></tr><tr><td class="caption" width="250">Green Bay quarterback Brett Favre celebrates a touchdown against the Saints earlier today.</td></tr></table></skinny>
+<a class="lightview alignright" href="/img/favre.jpg" data-lightview-caption="Green Bay quarterback Brett Favre celebrates a touchdown against the Saints earlier today." data-lightview-group="group1" style="width:350px;"><img src="/img/favre.jpg" alt="/img/favre.jpg"><br><span class="caption">Green Bay quarterback Brett Favre celebrates a touchdown against the Saints earlier today.</span></a>
 
 When all the games are played, the Saints' record will be just bad enough to miss the playoffs, but just good enough to prevent them from getting a stud in the draft next spring.  I hope I'm wrong, but history is with me on this one.
 

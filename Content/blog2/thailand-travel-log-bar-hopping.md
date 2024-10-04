@@ -17,7 +17,7 @@ From there, we headed to another bar in Pat-Pong.  This was just across and down
 
 The last stop was a bar a couple of streets down from my parents, where they are regular enough to be well known by the staff.  It is a stifling hot place, with a band in the corner.  They keep the drinks coming for you, but give you a hard time if the necessity of not dropping dead from dehydration compels you to order water between every few beers.  Mom has become very popular with the staff, and this was her first visit back since her surgery.  Several waitresses pulled up stools to our table, and spent the evening sitting there with us, getting up only to bring more drinks to the table.  
 
-So that brings us to the try-out of Mom's boob.  She calls the fake one "Swell," which in Momï¿½s accent is pronounced "Sway-ull."  She let the waitresses give it a go, so that they could see what it might be like to have three breasts.  I'm not sure they came to a consensus about the best place for a third breast.  Fortunately, I was playing pool with Dad and didn't have to witness this for myself.
+So that brings us to the try-out of Mom's boob.  She calls the fake one "Swell," which in Mom's accent is pronounced "Sway-ull."  She let the waitresses give it a go, so that they could see what it might be like to have three breasts.  I'm not sure they came to a consensus about the best place for a third breast.  Fortunately, I was playing pool with Dad and didn't have to witness this for myself.
 
 Dad took the opportunity about this time to get the hell out of Dodge.  
 

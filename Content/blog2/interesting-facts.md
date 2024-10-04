@@ -1,14 +1,15 @@
 ---
 title: Interesting Facts
 date: 2005-08-11 05:24
-description: A description of my post.
-tags: the-office
+description: Back in the spring, our company had a users conference.  We bring as many clients down to New Orleans as will come, and bombard them with all of the gee-whiz neato things that they could do with their software but probably aren't.  There is also a lot of opportunity to socialize (or kiss asses, depending on one's nature).  They make a particular effort to schedule activities where clients interact with the teams of people that support them specifically.
+tags: the-office, favorites
 id: 132
 ---
 Back in the spring, our company had a users conference.  We bring as many clients down to New Orleans as will come, and bombard them with all of the gee-whiz neato things that they could do with their software but probably aren't.
 
 There is also a lot of opportunity to socialize (or kiss asses, depending on one's nature).  They make a particular effort to schedule activities where clients interact with the teams of people that support them specifically.
-<span class="spanEndPreview">&nbsp;</span><br /><br />Before the conference started, we were asked to list an interesting fact about ourselves that few others knew.  Then, after lunch one day there was a game where peolple tried to match up the little known facts with the people to which they belonged.
+
+Before the conference started, we were asked to list an interesting fact about ourselves that few others knew.  Then, after lunch one day there was a game where peolple tried to match up the little known facts with the people to which they belonged.
 
 But we didn't really know why we were being asked for an interesting fact about ourselves.  And given the fact that we spend 40+ hours a week staring into the glow of a monitor while seated in a cube farm makes it difficult to come up with things that could be described as "interesting."
 
@@ -20,15 +21,15 @@ A new programmer starts working.  He's putting a program on our test system, and
 
 <blockquote>
 I can only poop at work.
-
+<br><br>
 I was a twin, but I ate the other fetus while in the womb.
-
+<br><br>
 Anything that starts, "I was once so drunk that I...."
-
+<br><br>
 Because of closed adoptions, I accidentally married my first cousin.
-
+<br><br>
 I lost my scab collection, because it was mistaken for a bowl of corn flakes.
-
+<br><br>
 I have a small wiener.
 </blockquote>
 
@@ -36,6 +37,6 @@ Imagine yourself at a new job, finding a file of "interesting facts" with these 
 
 It's a good list, because it doesn't get less funny with age.  In fact, I'm having a good laugh as I write this. 
 
-If you have more good ones, please don't hesitate to add them to the comments or <a href="mailto:bens@theskinnyonbenny.com">email me</a> for my own amusement.
+If you have more good ones, please don't hesitate to add them to the comments or email me for my own amusement.
 
 

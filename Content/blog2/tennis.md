@@ -1,7 +1,7 @@
 ---
 title: Tennis
 date: 2005-06-22 08:10
-description: A description of my post.
+description: Earlier this week, I took a tennis lesson.  I don't really play too much tennis.  Up until a year or two ago, I played for a couple of hours one night a week with a group of guys from work.  We all sucked (more or less), but we kept up a regular game for a year or more.  It was something to get outside and do with no distracting computer monitors.
 tags: sports
 id: 126
 ---
@@ -9,7 +9,7 @@ Earlier this week, I took a tennis lesson.
 
 I don't really play too much tennis.  Up until a year or two ago, I played for a couple of hours one night a week with a group of guys from work.  We all sucked (more or less), but we kept up a regular game for a year or more.  It was something to get outside and do with no distracting computer monitors.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />The first thing that the pro did was check my grip.  It is how I held a racquet when I was a kid, and how I have held it ever since.
+The first thing that the pro did was check my grip.  It is how I held a racquet when I was a kid, and how I have held it ever since.
 
 The second thing that he did was to change my grip.  He put my hand around the handle in a way that was completely unnatural.  It was like trying to use scissors left handed.
 

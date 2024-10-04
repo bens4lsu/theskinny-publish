@@ -31,6 +31,6 @@ Since only the real nerds have stuck with me this long, we came up with this jok
 
 **A programmers grocery list**
 
-<h3>(Update 2023:  I bet this is hilarious, but it's coded in a seperate file that never made the jump to modern web tech.)</h3>
+<h3>(Update 2024:  I bet this is hilarious, but it's coded in a seperate file that never made the jump to modern web tech.)</h3>
 
 Getting back to my unintentional snazziness, my next hair do will be a real hum-dinger.  Consider yourself warned.

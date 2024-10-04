@@ -1,18 +1,20 @@
 ---
 title: Fauxlogna
 date: 2005-07-22 13:25
-description: A description of my post.
+description: The new Whole Foods store in our area opened on Wednesday of this week, and being the diligent reporter of what's happening locally, I joined about seventy thousand other Baton Rougans to see how it was.  To be honest, there's nothing substantive to share.  It's just a big store with a good but expensive selection of produce, meat, and cheese, not to mention a highly diverse selection of olives and nuts.
 tags: food
 id: 129
+ogImg: fauxlogna.jpg
 ---
 The new Whole Foods store in our area opened on Wednesday of this week, and being the diligent reporter of what's happening locally, I joined about seventy thousand other Baton Rougans to see how it was.  To be honest, there's nothing substantive to share.  It's just a big store with a good but expensive selection of produce, meat, and cheese, not to mention a highly diverse selection of olives and nuts.
-<span class="spanEndPreview">&nbsp;</span><br /><br />It does remind me that I have some fauxlogna (my word for fake, soy based bologna) in my fridge.  Fauxlogna is a suitable substitute for bologna on a sandwich, where you have at least cheese, bread, and mayonnaise to camouflage its natural flavor.  
+
+It does remind me that I have some fauxlogna (my word for fake, soy based bologna) in my fridge.  Fauxlogna is a suitable substitute for bologna on a sandwich, where you have at least cheese, bread, and mayonnaise to camouflage its natural flavor.  
 
 As a solo food, it is not nearly as appealing.  First of all, it is pretty much brown instead of pink.  I know that's because it isn't full of dye, but it is still pretty ugly to look at.  
 
 Second of all, it stinks to high heaven.  I don't know what they do to make it taste sort of like real bologna, but it doesn't leave a pleasant aroma in its stead.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/fauxlogna.jpg" aborder=0 vspace=4 wwidth=250/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Brown fauxlogna, next to pink ham on my kitchen counter.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/fauxlogna.jpg" data-lightview-caption="Brown fauxlogna, next to pink ham on my kitchen counter." data-lightview-group="group1" style="width:350px;"><img src="/img/fauxlogna.jpg" alt="/img/fauxlogna.jpg"><br><span class="caption">Brown fauxlogna, next to pink ham on my kitchen counter.</span></a>
 
 But heck, real bologna doesn't smell all that great either.  From what part of a cow or pig does the "bologna" cut come?  Could I even go to a butcher and ask for a bologna?
 

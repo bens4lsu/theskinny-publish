@@ -1,19 +1,18 @@
 ---
 title: Hurricane Katrina
 date: 2005-08-31 14:37
-description: A description of my post.
+description: Even before the hurricane, I was behind in my posting, but the events in Louisiana the last few days have made it even more difficult to add to this blog.  Here are some notes I've made about what's happening from here.
 tags: current-events, hurricanes
 id: 136
+ogImg: neworleansguy.jpg
 ---
 Even before the hurricane, I was behind in my posting, but the events in Louisiana the last few days have made it even more difficult to add to this blog.  Here are some notes I've made about what's happening from here.
-
-
 
 <b>Sunday, August 28:</b>
 
 Mrs. theskinnyonbenny woke up with an excitement that I haven't seen in weeks.  I don't think anyone enjoys a hurricane party followed by a good storm more than she does.  
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />I spent the day water sealing the new planter boxes that I built.  The weather was beautiful during the day.  The sky was clear, but there was a good breeze.  After water sealing, I fixed the outdoor speakers.  Mrs. theskinnyonbenny and two of our friends filed in through the day with ice, food, and liquor.
+I spent the day water sealing the new planter boxes that I built.  The weather was beautiful during the day.  The sky was clear, but there was a good breeze.  After water sealing, I fixed the outdoor speakers.  Mrs. theskinnyonbenny and two of our friends filed in through the day with ice, food, and liquor.
 
 In the evening, we turned on the weather channel, and started the grill.  We had six people outside.  I have to brag that I made some kick-ass hot dogs.  But I was pretty exhausted, and not really in the spirit.
 
@@ -29,11 +28,7 @@ George Sells, Baton Rouge anchorman to young female CBS reporter:<i>Let me ask y
 
 Honest to God, I didn't make that up.
 
-
 At midnight I got a rude wakeup from Mrs. theskinnyonbenny.  We had four people in the house, along with four cats and five dogs.  Due to cat allergies, people had to be rearranged, and I got booted to the spare room.
-
-
-
 
 <b>Monday, August 29</b>
 
@@ -53,16 +48,13 @@ The dogs ran each other ragged all day, and settled down, unable to keep their e
 
 Power came back on, and we enjoyed air conditioning through the night.
 
-
-
-
 <b>Tuesday, August 30</b>
 
 Mrs. theskinnyonbenny and I went back to work.  Work life in Baton Rouge is sort of normal, but all conversation has to do with the storm and its aftermath.
 
 The reports from Slidell aren't very good.  There's an interstate span right by our marina that is demolished.  Reports are that most of the town has been destroyed.  But a helicopter flyover shows that houses are still where they should be, and a later report says that the Eden Isles subdivision just got 3-4 feet of flooding.  
 
-There's only a slim chance that small little <a href="/ve/ve_home.php">Velvet Elvis</a> survived the storm, but it's a strong little boat, and stranger things occur.  Those among you who gamble might want to start a pool.
+There's only a slim chance that small little <a href="/velvet-elvis/rhodes-22/">Velvet Elvis</a> survived the storm, but it's a strong little boat, and stranger things occur.  Those among you who gamble might want to start a pool.
 
 It turns out that things are getting worse rather than better for New Orleans.  A levee is breached, and the flood waters are rising.  
 
@@ -70,7 +62,7 @@ The attitude in Baton Rouge is kind of grim, and kind of incredulous.
 
 The after-work realization is that the cable is still out, the electricity is back out, and the dogs tore a small truckload of dirt out of my new boxes and spread it around my previously-clean patio.  This storm has gone from an exciting adventure to a sucky experience.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/neworleansguy.jpg" aborder=0 vspace=4 wwidth=250/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>This looter takes home some beer to go with his new wardrobe (which is water ruined), TV (which has no power to run it), and automobile (which is water-ruined).</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/neworleansguy.jpg" data-lightview-caption="This looter takes home some beer to go with his new wardrobe (which is water ruined), TV (which has no power to run it), and automobile (which is water-ruined)." data-lightview-group="group1" style="width:350px;"><img src="/img/neworleansguy.jpg" alt="/img/neworleansguy.jpg"><br><span class="caption">This looter takes home some beer to go with his new wardrobe (which is water ruined), TV (which has no power to run it), and automobile (which is water-ruined).</span></a>
 
 But not as sucky for me as for those who have to hear about the water rising over their houses in New Orleans.  I was riding with Shelly, and heard a report forecasting eight foot flood waters.  I guess I should label this comment...
 
@@ -82,13 +74,9 @@ Ed Buggs' sidekick:  Moogley Googley
 
 Yes, he actually expressed his dismay with the phrase "Moogley Googley."  If I had known where their studios were, Shelly would have driven down and beat the tar out of the guy.
 
-
 We went down to the field house at LSU, an indoor track arena that they are using to evacuate sick people.  It was a pretty sobering experience.  They are mostly old and handicapped people who have nowhere to go, no one to care for them, and are relegated to medical care in a gymnasium from volunteer medical students.  If you're in a position to read this blog, consider your blessings.
 
 My take on the looters:  if they're stealing food, then let them.  They have to try to live, and the food is just going to go bad anyway.  If they're stealing stuff from people's homes, just shoot them.  After a few of them get shot, the looting should slow down quite a bit.
-
-
-
 
 <b>Today</b>
 

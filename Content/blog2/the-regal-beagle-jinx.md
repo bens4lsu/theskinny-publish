@@ -1,7 +1,7 @@
 ---
 title: The Regal Beagle Jinx
 date: 2005-06-10 10:50
-description: A description of my post.
+description: College baseball for LSU finished up yesterday, ending college sports for the year (sorry Track and Field -- I just don't care), and starting the long, hot countdown to football season.  Hopefully, the end of the school year takes with it the Regal Beagle LSU Jinx.
 tags: sports
 id: 122
 ---
@@ -9,7 +9,7 @@ College baseball for LSU finished up yesterday, ending college sports for the ye
 
 Hopefully, the end of the school year takes with it the Regal Beagle LSU Jinx.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />If you aren't up to speed, last summer, we built an outdoor grill and patio with a cement bar and some aluminum bar stools.  Its rigged with some rudimentary luxuries like fans and a built in beer cooler.  One of the last additions was a TV, mounted up high.  It is the perfect place to watch a game.
+If you aren't up to speed, last summer, we built an outdoor grill and patio with a cement bar and some aluminum bar stools.  Its rigged with some rudimentary luxuries like fans and a built in beer cooler.  One of the last additions was a TV, mounted up high.  It is the perfect place to watch a game.
 
 Unfortunately, LSU is oh-for when someone watches them play out there.  And unlike the good luck talisman (my old hat), it seems to apply across sports.  A quick rundown:
 

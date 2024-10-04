@@ -1,17 +1,17 @@
 ---
 title: Laughing After a Disaster
 date: 2005-09-02 05:45
-description: A description of my post.
+description: There are blogs aplenty if you want to read about how horrible the hurricane damage and evacuation to Baton Rouge is.  And other than mentioning that I still have no electricity, I won't complain today.  Or at least, I won't complain here.  Instead, I want to compile a list of the amusing things that happened this week.  If you have your own story to share, please email me, and I'll pass it on.
 tags: current-events, hurricanes
 id: 137
 ---
 There are blogs aplenty if you want to read about how horrible the hurricane damage and evacuation to Baton Rouge is.  And other than mentioning that I still have no electricity, I won't complain today.  Or at least, I won't complain here.
 
-Instead, I want to compile a list of the amusing things that happened this week.  If you have your own story to share, please <a href="mailto:bens@theskinnyonbenny.com">email me</a>, and I'll pass it on.
-<span class="spanEndPreview">&nbsp;</span><br /><br />But first, let me mention that there is a small arena at LSU that gets used for livestock shows, garden shows, and the occasional rodeo.  Now, it is set up as a shelter for all of the animals that people took on their evacuation but aren't allowed to keep wherever they are staying.
+Instead, I want to compile a list of the amusing things that happened this week.  If you have your own story to share, please email me, and I'll pass it on.
+
+But first, let me mention that there is a small arena at LSU that gets used for livestock shows, garden shows, and the occasional rodeo.  Now, it is set up as a shelter for all of the animals that people took on their evacuation but aren't allowed to keep wherever they are staying.
 
 We went by there last night to take a stack of old newspapers.  It was nice.  The animals are taken care of by Veterinary students, and they are let out to play on the arena floor.  If you're in Baton Rouge and have the time, drop by with your leftover dog food, newspapers, bowls, kennels, or just by the students lunch.
-
 
 On to our stories.
 
@@ -23,13 +23,13 @@ Man:  <i>It wasn't no big deal.  They were soaking wet, and I had a dry pair in 
 
 Who says chivalry is dead?
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 A friend of mine went back to work the day after the hurricane.  She was dressed in jeans, and had hair up and little makeup.  The next day, she went in with normal work clothes and makeup.
 
 As soon as she walked in the door on that second day, she got told, "Someone got their power back on!"
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Some people that I know in North Louisiana have three evacuees staying at their house.  All three happen to be nuns.
 
@@ -43,10 +43,9 @@ The man of the house walked into the bathroom to find their nun bras hanging on 
 
 I asked about what makes a bra a "nun bra."  Apparently, they don't have any laces or frilly parts.
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I saved the best story for last, and I promise that this isn't made up.
-
 
 I know a couple who are both in their 70s.  For the hurricane, they went to stay at their son's house.  Their son is in the same city where they live, so it's safe to say that they had rarely -- if ever -- spent the night there before.
 

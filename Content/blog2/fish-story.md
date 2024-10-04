@@ -1,14 +1,16 @@
 ---
 title: Fish Story
 date: 2005-06-14 09:04
-description: A description of my post.
+description: I went on a fishing trip last week.  We went out to a marsh in the middle of nowhere Wednesday evening, and spent the time fishing off the dock, grilling steak, and drinking beer.  On Thursday, we took a guided charter out around barrier islands and caught fish all morning.  It's a good way to spend a day and a half.
 tags: my-stories
 id: 123
+ogImg: EdBeer.jpg
 ---
 I went on a fishing trip last week.  We went out to a marsh in the middle of nowhere Wednesday evening, and spent the time fishing off the dock, grilling steak, and drinking beer.  On Thursday, we took a guided charter out around barrier islands and caught fish all morning.  It's a good way to spend a day and a half.
 
 When we got out there on Wednesday, we had company on the pier.  There was a older guy and his new wife, who locked their keys in their car in their excitement to catch fish.  There was also a guy with a little coon ass girl, who started running smack as soon as I started fishing.
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/EdBeer.jpg" aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Eddie drinks beer and cooks steak.</b></font></td></tr></table>
+
+<a class="lightview alignright" href="/img/EdBeer.jpg" data-lightview-caption="Eddie drinks beer and cooks steak." data-lightview-group="group1" style="width:350px;"><img src="/img/EdBeer.jpg" alt="/img/EdBeer.jpg"><br><span class="caption">Eddie drinks beer and cooks steak.</span></a>
 
 (Put that annoying Cajun accent on a little girls voice in your head):  "What you doing?  You killin him," she said, as I tried to dig a deep hook out of the mouth of a trout.
 
@@ -18,7 +20,7 @@ The fish bit well early, but I never caught a keeper on Wednesday night.
 
 We fished hard on a warm, sunny Thursday morning.  It took a while to find a spot where there was a consistent bite.  We probably brought up around 40 speckled trout from this one site.  Then, a group of porpoises swam in and broke up the party, running the trout in all different directions.  We ended up with a total of about 75 fish from both Wednesday and Thursday.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=200><img src="/img/SamReeling.jpg" aborder=0 vspace=4/></td></tr><tr><td width=200><font face="verdana, arial, geneva" size=1 color=#666666><b>Sam reels in a giant redfish.</b></font></td></tr></table>
+<a class="lightview alignright" href="/img/SamReeling.jpg" data-lightview-caption="Sam reels in a giant redfish." data-lightview-group="group1" style="width:350px;"><img src="/img/SamReeling.jpg" alt="/img/SamReeling.jpg"><br><span class="caption">Sam reels in a giant redfish.</span></a>
 
 Our route home Thursday afternoon brought us through New Orleans.  We had to cross from the west side of the Mississippi to downtown over a bridge that charges a dollar to go in that direction.  Of course, we couldn't come up with a dollar in cash.
 

@@ -1,14 +1,15 @@
 ---
 title: Date Rape Dan
 date: 2005-08-09 14:19
-description: A description of my post.
-tags: the-office
+description: Once upon a time, I worked for a company with a VP of sales who was a complete doofus.  Come to think of it, that describes more than one sales VP that I've had the pleasure of knowing, but one particular guy is story-worthy.  I called him "Date Rape Dan," because in a meeting where we decided to decline some particular client request, Dan had this immortal quote, which seemed to be taken right from the date rape handbook.
+tags: the-office, favorites
 id: 131
 ---
 Once upon a time, I worked for a company with a VP of sales who was a complete doofus.  Come to think of it, that describes more than one sales VP that I've had the pleasure of knowing, but one particular guy is story-worthy.
 
 I called him "Date Rape Dan," because in a meeting where we decided to decline some particular client request, Dan had this immortal quote, which seemed to be taken right from the date rape handbook:
-<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>Sometimes no doesn't really mean no.  Sometimes no means maybe.</blockquote>
+
+<blockquote>Sometimes no doesn't really mean no.  Sometimes no means maybe.</blockquote>
 
 It seems clear to me that even a moderately sharp sixth grader could say what Date Rape Dan meant to convey without sounding so stupid.
 

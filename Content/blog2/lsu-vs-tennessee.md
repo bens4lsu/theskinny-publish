@@ -1,7 +1,7 @@
 ---
 title: LSU vs. Tennessee
 date: 2005-09-27 19:47
-description: A description of my post.
+description: It's a good thing that college football isn't normally played on Monday night.  It's a bad thing that I used up my "way too drunk" tailgate day on a Monday.
 tags: sports, football, hurricanes
 id: 140
 ---
@@ -9,8 +9,7 @@ It's a good thing that college football isn't normally played on Monday night.
 
 It's a bad thing that I used up my "way too drunk" tailgate day on a Monday.
 
-
-<span class="spanEndPreview">&nbsp;</span><br /><br />Before Hurricane Rita blew in, we had the mother of tailgate parties planned.  I was heading to campus at 5:00 AM or so, just to make sure we could have the party in the spot that we like,  On Monday, I got out there a bit before noon, and I had to squat right next to another tailgate to get an address in my general tailgate neighborhood.
+Before Hurricane Rita blew in, we had the mother of tailgate parties planned.  I was heading to campus at 5:00 AM or so, just to make sure we could have the party in the spot that we like,  On Monday, I got out there a bit before noon, and I had to squat right next to another tailgate to get an address in my general tailgate neighborhood.
 
 It was probably the hottest tailgate I remember, which might (or might not) have something to do with all of the drinking.  It was miserable, but at least I wasn't in costume.  The best I saw was a guy in a white body suit, with purple and gold tiger stripes dyed into the fabric.  He accessorized with cowboy boots, a holster, with whisky bottles in place of sidearms, and a ten gallon hat.  Very stylish.
 
@@ -18,7 +17,7 @@ There were some people with a couple of giant poodles with "LSU" and "Tigers" sh
 
 The Tennessee fans were scarce, and I missed the opportunity to trade mean-spirited barbs with strangers from across the country.  At one point, I turned my venom on a guy in turquoise for the offense not wearing colors that reveal his affiliation to either team in the game that day.
 
-I found nothing hypocritical about the fact that I did this in a <a href="http://www.theskinnyonbenny.com/blog/archives/00000065.php">blue hat</a>.
+I found nothing hypocritical about the fact that I did this in a <a href="http://www.theskinnyonbenny.com/blog2/archives/65">blue hat</a>.
 
 Speaking of that blue hat, I came across an interesting theory on the cumulation of superstition that solves the multi-superstition conundrum.  The conundrum arises because there are thousands of fans, each with their own superstitions.  For a given game, some follow their superstitions and some don't.  So whose superstitions actually drive the outcome of the game?
 
