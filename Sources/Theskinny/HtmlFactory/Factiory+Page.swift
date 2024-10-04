@@ -28,6 +28,8 @@ extension TsobHTMLFactory {
                 return makePageBeneteauHome(for: page, context: context)
             case "big-trip-reversed":
                 return makePageBigTripReversed(for: page, context: context)
+            case "mobileSitemap":
+                return makePageMobileSitemap(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -125,6 +127,19 @@ extension TsobHTMLFactory {
         let btContext = context.bigtripAll
         let mainContent = TripPostsReversed(tripPosts: btContext)
         let pageMain = AnyPageMain(mainContent: mainContent, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
+    fileprivate func makePageMobileSitemap(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Sitemap")
+        let component = ComponentGroup {
+            H1("Sitemap")
+            Menu(.mobileSitemap)
+        }
+        let pageMain = AnyPageMain(mainContent: component, site: context.site)
         return HTML(
             htmlHeadInfo.node,
             .body(.component(pageMain))

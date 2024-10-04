@@ -12,10 +12,28 @@ import Publish
 
 struct Menu: Component {
     
-    enum MenuLayoutScreen {
-        case narrow
-        case medium
-        case full
+    enum MenuLocation {
+        case sidebar
+        case mobileSitemap
+        
+        var cssClass: String {
+            switch self {
+            case .sidebar:
+                "menu"
+            case .mobileSitemap:
+                "mobileSitemap"
+            }
+        }
+    }
+    
+    let menuLocation: MenuLocation
+    
+    init() {
+        self.menuLocation = .sidebar
+    }
+    
+    init (_ menuLocation: MenuLocation) {
+        self.menuLocation = menuLocation
     }
     
     private var listItemHome: ListItem {
@@ -145,6 +163,29 @@ struct Menu: Component {
                         Link("Daisy On Honor", url: "/x/daisyOnHonor")
                     }.class("li-pagelink todo")
                 }
+                Collapser(text: "Benny Elsewhere", elementId: "collapser-elsewhere").component {
+                    ListItem {
+                        Link("Bluesky", url:"https://bsky.app/profile/bens4lsu.bsky.social")
+                    }
+                    ListItem {
+                        Link("Facebook", url:"https://www.facebook.com/Bens4lsu/")
+                    }
+                    ListItem {
+                        Link("Insta", url: "https://www.instagram.com/bens4lsu/")
+                    }
+                    ListItem {
+                        Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/")
+                    }
+                    ListItem {
+                        Link("VE Facebook", url: "https://www.instagram.com/sailvelvetelvis/")
+                    }
+                    ListItem {
+                        Link("VE Web", url: "https://sailvelvetelvis.com")
+                    }
+                    ListItem {
+                        Link("Benny @ Work", url:"https://concordbusinessservicesllc.com")
+                    }
+                }
             }.class("fullScreenMenu")
             
             List {
@@ -161,13 +202,10 @@ struct Menu: Component {
                 ListItem {
                     Link("Other pages", url: "/mobileSitemap")
                 }
-                ListItem {
-                    Link("Benny's Posts", url: "https://mastodon.social/@bens4lsu").attribute(named: "target", value: "_blank")
-                }
             }.class("mobileMenu")
             
             
-        }.class("menu")
+        }.class(menuLocation.cssClass)
     }
     
     private struct Collapser {
