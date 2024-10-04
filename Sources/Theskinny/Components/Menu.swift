@@ -166,25 +166,25 @@ struct Menu: Component {
                 Collapser(text: "Benny Elsewhere", elementId: "collapser-elsewhere").component {
                     ListItem {
                         Link("Bluesky", url:"https://bsky.app/profile/bens4lsu.bsky.social")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("Facebook", url:"https://www.facebook.com/Bens4lsu/")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("Insta", url: "https://www.instagram.com/bens4lsu/")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("VE Facebook", url: "https://www.instagram.com/sailvelvetelvis/")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("VE Web", url: "https://sailvelvetelvis.com")
-                    }
+                    }.class("li-pagelink")
                     ListItem {
                         Link("Benny @ Work", url:"https://concordbusinessservicesllc.com")
-                    }
+                    }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")
             
