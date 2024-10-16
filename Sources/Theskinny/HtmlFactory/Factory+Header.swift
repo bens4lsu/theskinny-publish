@@ -19,13 +19,13 @@ extension TsobHTMLFactory {
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
         let stylesheetPaths: [Path] = ["/style/lightview.css",
-                                       "/style/mastodon-timeline.css?v=\(EnvironmentKey.styleAndScriptVersion)",
+                                       //"/style/mastodon-timeline.css?v=\(EnvironmentKey.styleAndScriptVersion)",
                                        "/style/style.css?v=\(EnvironmentKey.styleAndScriptVersion)",
         ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
                                    "https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28",
                                    "/scripts/lightview.js",
-                                   "/scripts/mastodon-timeline.js",
+                                   //"/scripts/mastodon-timeline.js",
                                    "/scripts/bluesky-timeline.js",
                                    "/scripts/menu.js?v=\(EnvironmentKey.styleAndScriptVersion)",
                                    "./scripts/dailyphotoimgage.js"

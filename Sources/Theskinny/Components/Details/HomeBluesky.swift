@@ -23,12 +23,45 @@ struct HomeBluesky: Component {
                     link-target="_blank"
                     link-image="true"
                     load-more="true"
-                    custom-styles=".border-slate-300 { border-color: red; }"
+                    custom-styles="\(customStyles)"
                   >
                   </bsky-embed>
                 """)
                 
+                Div {
+                    Link("More posts, powered by Bluesky for now...", url: "https://bsky.app/profile/bens4lsu.bsky.social").toNewScreen()
+                }.class("mt-footer")
             }.class("mt-timeline")
         }.class("div-home-tweets")
     }
+    
+    var customStyles: String { """
+
+    .w-full { padding-right: 15px; }
+    
+    article article { 
+        max-width: 285px;
+        position: relative;
+        left: -15px;
+    }
+    
+    article article.border-slate-300 {
+        border: 1px solid #a6a6a6;
+        border-radius: 8px;
+    }
+    
+    article:first-of-type {
+        border-top: 2px solid #a6a6a6;
+    }
+    
+    .gap-2, .w-full:before, .border-slate-300 {
+        border-style: none;
+    }
+    
+    .mt-8 { display: none; }
+
+    """
+    }
 }
+
+

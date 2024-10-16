@@ -22,6 +22,7 @@ struct HomePage: Component {
             Div {
                 HomeMainMessage(context)
                 HomeMastodon()
+                HomeBluesky()
                 HomeBlogPost(context.allBlogPosts!)
                 HomeBigTrip(tripPosts: context.bigtripAll)
                 HomeDailyPhoto()
