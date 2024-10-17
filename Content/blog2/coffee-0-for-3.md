@@ -8,7 +8,9 @@ id: 173
 I'm having the damnedest time making a decent pot of coffee at my house.
 
 Sunday morning, I woke up early.  Mrs. theskinnyonbenny was out of town, so I had the house to myself.  I decided to make a pot of coffee.
-<span class="spanEndPreview">&nbsp;</span><br /><br />Our coffee maker is one of those that keeps a pot's worth of water hot, so that you don't have to wait the couple of minutes to heat the water that you put in.  For sure, a good feature on a pot that you use every day.  But maybe not on a maker that you haven't used in three weeks.
+
+
+Our coffee maker is one of those that keeps a pot's worth of water hot, so that you don't have to wait the couple of minutes to heat the water that you put in.  For sure, a good feature on a pot that you use every day.  But maybe not on a maker that you haven't used in three weeks.
 
 The first pot I tried was a failure.  The preceding three weeks of keeping the water warm had evaporated my reserve, so that all I got was a trickle of really thick, sludgy coffee.  It wasn't enough for a cup full, but it wouldn't have been drinkable had there been enough anyway.
 

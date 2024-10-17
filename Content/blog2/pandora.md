@@ -9,7 +9,9 @@ Mrs. theskinnyonbenny should be warned.  I'm going to download a lot of stuff fr
 
 The culprit is <a href="http://pandora.com">pandora.com</a>.  I had been waiting for this to become available since hearing about the music genome project on an <a href="http://www.npr.org/templates/story/story.php?storyId=4661167
 ">NPR story</a>.
-<span class="spanEndPreview">&nbsp;</span><br /><br />Here's the jist of it:  they had a bunch of music experts listen to thousands and thousands of songs, and categorize something like 80 technical qualities about the sounds that only music theorists really understand.  Then, you tell the system what artists or songs you like, and the system looks for songs that are musically similar based on those categorizations.
+
+
+Here's the jist of it:  they had a bunch of music experts listen to thousands and thousands of songs, and categorize something like 80 technical qualities about the sounds that only music theorists really understand.  Then, you tell the system what artists or songs you like, and the system looks for songs that are musically similar based on those categorizations.
 
 I set up a few channels a couple of weeks ago.  When songs I don't like come up, I give it a thumbs down.  When a particularly good one comes up, I give it a thumbs up.  The system keeps track of this, learns my preferences, and makes better and better suggestions.
 

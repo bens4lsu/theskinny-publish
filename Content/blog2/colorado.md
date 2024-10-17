@@ -11,7 +11,9 @@ It was a very nice trip, but I don't have too much to tell that would interest y
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG" width="240"/></td></tr><tr><td class="caption" width="250">Rocky Mountain Oysters</td></tr></table>
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />First and foremost, I tried Rocky Mountain Oysters  for the first time.  I was kind of nervous, but I've been talking about it long enough, and it was time to try.  The first thing you notice is that they aren't shaped like testicles.  Assuming that the bull's testicle is roughly round like ours, someone pounds them flat before battering and frying them.
+
+
+First and foremost, I tried Rocky Mountain Oysters  for the first time.  I was kind of nervous, but I've been talking about it long enough, and it was time to try.  The first thing you notice is that they aren't shaped like testicles.  Assuming that the bull's testicle is roughly round like ours, someone pounds them flat before battering and frying them.
 
 After they're cooked, the fry batter is all that you taste anyway.  They are kind of firm -- a little firmer than fried eggplant would be, but similar tasting.  I cleaned my plate.  They aren't hard to get down, once you make yourself forget what it is that you're eating.
 

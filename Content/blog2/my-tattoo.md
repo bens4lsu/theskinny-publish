@@ -1,12 +1,13 @@
 ---
 title: My Tattoo
 date: 2005-11-01 12:11
-description: A description of my post.
+description: When my nephew was around 6 or so, someone dropped off some wet and stick on tattoos for him.  He wasn't around when they were received, so I decided to take one of the tattoos and put it on an ass cheek.  The idea was that when he came to proudly show off his new tattoo, I could say, "Wow, I have one just like that!"  Then, I could drop my pants and get a big laugh.  Everyone knows that six year old boys (and I) find butt cheeks amazingly funny.
 tags: my-stories
 id: 153
 ---
-Well, that snapshot of my own butt in my last post got me more feedback than anything since I described <a href="http://www.theskinnyonbenny.com/blog/archives/00000062.php">my argument</a> with a four-year old.  It reminds me that I told a story last week where my butt was a central figure.  Fear not; this post is not illustrated.
-<span class="spanEndPreview">&nbsp;</span><br /><br />When my nephew was around 6 or so, someone dropped off some wet and stick on tattoos for him.  He wasn't around when they were received, so I decided to take one of the tattoos and put it on an ass cheek.  
+Well, that snapshot of my own butt in my last post got me more feedback than anything since I described <a href="http://www.theskinnyonbenny.com/blog2/archives/62">my argument</a> with a four-year old.  It reminds me that I told a story last week where my butt was a central figure.  Fear not; this post is not illustrated.
+
+When my nephew was around 6 or so, someone dropped off some wet and stick on tattoos for him.  He wasn't around when they were received, so I decided to take one of the tattoos and put it on an ass cheek.  
 
 The idea was that when he came to proudly show off his new tattoo, I could say, "Wow, I have one just like that!"  Then, I could drop my pants and get a big laugh.  Everyone knows that six year old boys (and I) find butt cheeks amazingly funny.
 

@@ -1,14 +1,14 @@
 ---
 title: A Tailgate Party Chronology
 date: 2005-10-17 13:31
-description: A description of my post.
+description: This weekend, we had our first LSU tailgate party of the year that actually happened on a Saturday.  We had absolutely perfect weather to sit outside and cook and bullshit for the entire day.  I think we can all agree that God owed us some good football weather, and he didn't disappoint.
 tags: sports
 id: 148
 ---
 This weekend, we had our first LSU tailgate party of the year that actually happened on a Saturday.  We had absolutely perfect weather to sit outside and cook and bullshit for the entire day.  I think we can all agree that God owed us some good football weather, and he didn't disappoint.
 
 It turns out that I was out there 16 hours straight.  How is this possible?  Let me recall....
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table><tr><td valign="top">4:15:  </td><td valign="top">Out of bed.  Yes, that's 4:15 AM.<br />
+<table><tr><td valign="top">4:15:  </td><td valign="top">Out of bed.  Yes, that's 4:15 AM.<br />
 
 </td></tr><tr><td valign="top">5:00:  </td><td valign="top">Finished loading the Jeep with all of the tailgate stuff.  Go to the convenience store for bags of ice and a big bottle of water.<br /><br />The Baton Rouge paper isn't delivered to the house yet, so I resolve that I don't get to read the pre-game coverage this morning.<br /><br />
 

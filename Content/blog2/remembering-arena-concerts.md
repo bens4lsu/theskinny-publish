@@ -8,7 +8,9 @@ id: 50
 On Sunday night, I will be at the Madonna <a href="/x/madonna&esther.html" class="mainbox">(Esther?)</a> concert in Atlanta.  I fully expect the most awe-inducing show that I've ever seen.  I'm also pretty excited just to have a couple of days off work, and a weekend away from yard-slave laboring, even if it is just for a road trip to Atlanta.
 
 Thinking about my upcoming road trip has also reminded me of some of my other concert experiences.  
-<span class="spanEndPreview">&nbsp;</span><br /><br />My first concert was as a young teen-ager.  Bryan Adams.  It happened to fall on a day that I had a dentist appointment.  Apparently, the dentist had a slot or two open and had lost big in his regular poker game the night before.  He convinced my mom that now was a good day to remove a couple of wisdom teeth.
+
+
+My first concert was as a young teen-ager.  Bryan Adams.  It happened to fall on a day that I had a dentist appointment.  Apparently, the dentist had a slot or two open and had lost big in his regular poker game the night before.  He convinced my mom that now was a good day to remove a couple of wisdom teeth.
 
 This dentist was a real piece of work.  When he put his hands in my mouth, I could taste the grits that he had for breakfast.  I'm not making this up.  I remember it well, because I hadn't yet acquired a taste for grits.
 

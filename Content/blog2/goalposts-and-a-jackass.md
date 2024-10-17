@@ -1,20 +1,22 @@
 ---
 title: Goalposts and a Jackass
 date: 2005-11-22 09:30
-description: A description of my post.
+description: It's been over a week since I mentioned college football here, so we're long overdue.  I've enjoyed just about every LSU game this season, particularly the overtime wins over Alabama and Auburn.  The Bama win is a fresh memory.  The Auburn win will go down in history as "the missed field goal game."
 tags: the-office,sports
 id: 159
+ogImg: /img/tailgate04/field.jpg
 ---
 It's been over a week since I mentioned college football here, so we're long overdue.
 
 I've enjoyed just about every LSU game this season, particularly the overtime wins over Alabama and Auburn.  The Bama win is a fresh memory.  The Auburn win will go down in history as "the missed field goal game."
 
 I have an unfortunate tell, which immediately makes apparent to anyone listening to me the fact that I'm full of bullshit.  That's the only reason that I can't make this claim convincingly:
-<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>When I was an Electrical Engineering senior at LSU, we started a project where we would put circuits in the goal posts of the football stadium.  These circuits would be able to use electricity and magnetism to crate a force on footballs, which could divert a poorly kicked ball away from the posts, making it more likely that a kick would miss.</blockquote>
+
+<blockquote>When I was an Electrical Engineering senior at LSU, we started a project where we would put circuits in the goal posts of the football stadium.  These circuits would be able to use electricity and magnetism to crate a force on footballs, which could divert a poorly kicked ball away from the posts, making it more likely that a kick would miss.</blockquote>
 
 Any of you have had 10 conversations with me in the last two years has already closed his browser, having heard this story to the point of nauseam.  But, if you look back at the games, it really seems plausible.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="http://www.theskinnyonbenny.com/img/tailgate04/field.jpg" width="220"/></td></tr><tr><td class="caption" width="250">Perhaps the H-shaped goals are the problem.</td></tr></table>
+<a class="lightview alignright" href="/img/tailgate04/field.jpg" data-lightview-caption="Perhaps the H-shaped goals are the problem." data-lightview-group="group1" style="width:350px;"><img src="/img/tailgate04/field.jpg" alt="/img/tailgate04/field.jpg"><br><span class="caption">Perhaps the H-shaped goals are the problem.</span></a>
 
 What are the real reasons for such poor field goal kicking?  
 

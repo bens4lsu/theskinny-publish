@@ -20,7 +20,9 @@ If you order the chicken feet at Dim Sum, do you eat the whole thing, bone and a
 
 Ben
 </blockquote>
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/chickenfeet.jpg"/></td></tr><tr><td class="caption" width="250">Chicken Feet</td></tr></table>
+
+
+<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/chickenfeet.jpg"/></td></tr><tr><td class="caption" width="250">Chicken Feet</td></tr></table>
 
 <center><img src="/img/greenline.gif"/></center>
 

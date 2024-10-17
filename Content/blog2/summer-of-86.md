@@ -9,7 +9,9 @@ Many of my readers will be too young (or too old -- Hi Dad), to remember the day
 
 Bank in the summer of 1986, I was 15, and enjoying the freedom that comes with being old enough to run wild, but too young to drive and work.  But most of my friends were 16 and driving, so it was the best of both worlds.  And this isn't one of those "I didn't know how well I had it" types of posts.  I knew that it was great even at the time.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />A group of us went that summer to the Bryan Adams concert.  I had a dentist appointment that morning, and it was decided that I needed to have a couple of incoming wisdom teeth removed.  
+
+
+A group of us went that summer to the Bryan Adams concert.  I had a dentist appointment that morning, and it was decided that I needed to have a couple of incoming wisdom teeth removed.  
 
 "We've got time.  Let's do it now."
 

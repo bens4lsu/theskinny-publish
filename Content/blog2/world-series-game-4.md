@@ -8,7 +8,9 @@ id: 151
 I normally don't really care about major league baseball.
 
 The game is too slow, and any particular game in the regular season is too meaningless.  By the time the games are important, it's football season, and regular season football ranks higher on my interest scale than post season baseball.  No question about it.
-<span class="spanEndPreview">&nbsp;</span><br /><br />This week, I've been working with a client in San Antonio, which is full of die-hard Astros fans.  The Stros are in the World Series this year.  I think it's their first trip to the series, but it's certainly their first in many years.  
+
+
+This week, I've been working with a client in San Antonio, which is full of die-hard Astros fans.  The Stros are in the World Series this year.  I think it's their first trip to the series, but it's certainly their first in many years.  
 
 (A quick internet search would answer that question, but I'm too lazy to conduct such a search.  However, I'm not too lazy to type all of this text about how lazy I am.)
 
@@ -22,6 +24,6 @@ I knew I was in trouble when the ticker on the screen said,  "Later tonight on F
 
 Fortunately for me -- unfortunately for the fans here -- the Astros ran out of decent pitchers in the 14th inning.  Tim McCarver told me to stay tuned for the post game report, but I had seen more baseball than I have all season up to that point.  I finally went to sleep.
 
-If you are a baseball fan and haven't looked already, check out <a href="http://sportsillustrated.cnn.com/baseball/mlb/boxscores/2005/10/25/12373_boxscore.html" target="blank">the box score</a>.  Both teams used an unbelievable number of players.  The strategy of who to put in and pull out, and when to do it is what kept the game interesting.
+If you are a baseball fan and haven't looked already, check out <a href="https://www.baseball-almanac.com/box-scores/boxscore.php?boxid=200510260HOU" target="blank">the box score</a>.  Both teams used an unbelievable number of players.  The strategy of who to put in and pull out, and when to do it is what kept the game interesting.
 
 I'm not sure if I'll watch game 5 tonight or not.  Is there a football game on instead?

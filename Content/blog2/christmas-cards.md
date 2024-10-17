@@ -8,7 +8,9 @@ id: 169
 <div><p>We received this card from a client this week...</p></div>
 
 <div><center><img src="/img/xmascard.jpg"/></center></div>
-<span class="spanEndPreview">&nbsp;</span><br /><br /><div><p>As our Spanish-speaking cohort was away on vacation, we relied on the internet for a translation...</p></div>
+
+
+<div><p>As our Spanish-speaking cohort was away on vacation, we relied on the internet for a translation...</p></div>
 
 <div><center><img src="/img/translation.jpg"/></center></div>
 

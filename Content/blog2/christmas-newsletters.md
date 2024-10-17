@@ -8,7 +8,9 @@ id: 168
 I started to make up a phony version of one of those photocopied Christmas mailings that you get from people this time of year.  The idea was that I could make a big deal out of everyday, mundane shit that happens to everyone, and it would be funny.
 
 The problem is that when I tried to write out the everyday, mundane shit, it ends up reading <i>exactly like the ones that people really send</i>.  For example,
-<span class="spanEndPreview">&nbsp;</span><br /><br /><blockquote>Sally is very excited to be driving around town in her new Hyundai Sonata!</blockquote>
+
+
+<blockquote>Sally is very excited to be driving around town in her new Hyundai Sonata!</blockquote>
 
 <p>or this...</p>
 

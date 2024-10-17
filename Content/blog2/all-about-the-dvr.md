@@ -9,7 +9,9 @@ Now that November sweeps is over, we're suddenly catapulted from a TV universe w
 
 It makes it all the more annoying that the cable box DVR just chose not to record The Apprentice finale last week.  It's not that The Apprentice is that good a show.  It's pretty much the same thing, season after season.  And the people aren't especially intriguing or anything this season.  It's just that I have the whole season of watching invested in the show, and now I've missed the last episode, and don't know who won.  
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />Sure, I could look on the internet, but I'm not so interested that I want to read about the show.  That's just crazy.
+
+
+Sure, I could look on the internet, but I'm not so interested that I want to read about the show.  That's just crazy.
 
 By far, the biggest drawback of Cox's standard issue DVR box is the fact that it sometimes just decides not to record your show.  There seems to be no rhyme or reason, and an informal poll tells me that it happens to some people more than others.
 

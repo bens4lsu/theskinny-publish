@@ -9,7 +9,9 @@ When we first got Lili as a new dog, one of the cats happened to catch and kill 
 
 A more serious crime has been repeated the last two days, but this time, the dog is the perpetrator.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />Somehow, she has figured out how to get out of the back yard.  This is a bad thing, since we live on a busy street.  Fortunately though, her escape hole -- which I have not been able to find -- allows her into the next door neighbor's back yard, which is also fenced.
+
+
+Somehow, she has figured out how to get out of the back yard.  This is a bad thing, since we live on a busy street.  Fortunately though, her escape hole -- which I have not been able to find -- allows her into the next door neighbor's back yard, which is also fenced.
 
 The neighbors in that house arrived soon after Hurricane Katrina.  They seem pleasant enough.  The man has some sort of small consulting company, and after the storm evacuation, he moved all of his employees into rental houses in Baton Rouge.  He has a wife and a toddler.  We haven't talked to them much, but they seem pleasant enough.
 

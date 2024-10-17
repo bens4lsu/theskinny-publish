@@ -8,7 +8,8 @@ id: 158
 Wednesday and Thursday last week were a pain in the ass.
 
 To start with, Wednesday is the one night of the week that I should be in front of the TV.  I haven't done too many posts this year about what I'm watching on TV, but if I ever get around to reviewing the good and the bad on TV this fall, then you will see that Wednesday is important.  For example, Wednesday at 8:00 is the only double-DVR hour of the week with <i>Lost</i>, <i>Veronica Mars</i>, and <i>Apprentice: Martha Stewart</i> vying for viewers.
-<span class="spanEndPreview">&nbsp;</span><br /><br /><div><p>The last two weeks, I've left the DVRs churning to help handle Satchmo or Ella during their dog training.  (Satchmo is the one you might have seen in <a href="http://theskinnyonbenny.com/dailyphoto/page.php?year=2005&month=11&day=02">here</a>, and Ella is his sister.  I'm not complaining about that.  They are fun dogs, and I like working with them.  I thought Satchmo had proven that he wasn't as dumb as advertised when he nailed a "come and sit" drill right off the bat.  But then, he tried to eat three pebbles off the ground as class progressed.
+
+The last two weeks, I've left the DVRs churning to help handle Satchmo or Ella during their dog training.  (Satchmo is the one you might have seen in <a href="/dailyphoto/2005/20051102/">here</a>, and Ella is his sister.  I'm not complaining about that.  They are fun dogs, and I like working with them.  I thought Satchmo had proven that he wasn't as dumb as advertised when he nailed a "come and sit" drill right off the bat.  But then, he tried to eat three pebbles off the ground as class progressed.
 
 The pain in the ass started right after that.  I had to pick up a rental car.  You see, I found out at about 4:30 PM on Wednesday that I had to be in Montgomery, AL for a 9:00 meeting the next morning.  There were no flights available, so I was going to have to make the five hour drive.
 
@@ -22,39 +23,37 @@ Four and a half hours later, I was driving through wooded desolation well south 
 
 I made it to my meeting right on time, and could have easily made it with time to spare.
 
-I have a number of methods for coping with long, dull meetings.  One is to keep writing, no matter how irrelevant the topic becomes.  As long as my hand is writing something, I tend to pay some attention.  This method also gives the benefit of being able to reflect on notes like these.  You can click on any of the images to see the full sized text, in case you have trouble reading them.</p></div>
+I have a number of methods for coping with long, dull meetings.  One is to keep writing, no matter how irrelevant the topic becomes.  As long as my hand is writing something, I tend to pay some attention.  This method also gives the benefit of being able to reflect on notes like these.  You can click on any of the images to see the full sized text, in case you have trouble reading them.
 
-<div><center><a href="#" onclick="window.open('/img/regnotes1.jpg')"><img src="/img/regnotes1.jpg" width="600"/></a></center></div>
+<a class="lightview centered" href="/img/regnotes1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/regnotes1.jpg" alt="/img/regnotes1.jpg"><br><span class="caption"></span></a>
 
-<div><p>I've pretty much decided that it was indeed <i>not</i> my B. O., as I did not smell it again after I left the meeting.
+I've pretty much decided that it was indeed _not_ my B. O., as I did not smell it again after I left the meeting.
 
-I decided against posting the second snip of text that I was going to include.  I have a little census, where I counted the males, females, Caucasians, and minorities that were in on the meeting.  The gag is that I included "redneck" as a distinct ethnic group.  If you want to see it, shoot me an email, and I'll share it with you.</p></div>
+I decided against posting the second snip of text that I was going to include.  I have a little census, where I counted the males, females, Caucasians, and minorities that were in on the meeting.  The gag is that I included "redneck" as a distinct ethnic group.  If you want to see it, shoot me an email, and I'll share it with you.
 
-<div><center><a href="#" onclick="window.open('/img/regnotes3.jpg')"><img src="/img/regnotes3.jpg" width="600"/></a></center></div>
+<a class="lightview centered" href="/img/regnotes3.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/regnotes3.jpg" alt="/img/regnotes3.jpg"><br><span class="caption"></span></a>
 
-<div><center><a href="#" onclick="window.open('/img/regnotes4.jpg')"><img src="/img/regnotes4.jpg" width="600"/></a></center></div>
+<a class="lightview centered" href="/img/regnotes4.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/regnotes4.jpg" alt="/img/regnotes4.jpg"><br><span class="caption"></span></a>
 
-<div><p>My guess on who would represent this company was way off.  It ended up being just one guy, and he wasn't there to look slick at all.
+My guess on who would represent this company was way off.  It ended up being just one guy, and he wasn't there to look slick at all.
 
 We also got to review a consulting report provided by one of their other vendors.  I won't mention the company by name, but if you know who put the green Start button at the bottom left of your computer screen, you have a good idea about this report.
 
-I won't reveal anything that gives away any secrets or anything, but the report wasn't even labeled "Confidential."  In fact, it was the least professional consulting report I could imagine.  Here are my two favorite parts:</p></div>
+I won't reveal anything that gives away any secrets or anything, but the report wasn't even labeled "Confidential."  In fact, it was the least professional consulting report I could imagine.  Here are my two favorite parts:
 
-<div><center><a href="#" onclick="window.open('/img/msreport1.jpg')"><img src="/img/msreport1.jpg" width="600"/></a></center></div>
+<a class="lightview centered" href="/img/msreport1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/msreport1.jpg" alt="/img/msreport1.jpg"><br><span class="caption"></span></a>
 
-<div><p>Clear as can be.
+Clear as can be.
 
-This next paragraph spanned a page break, so just read it as if it were connected.</p></div>
+This next paragraph spanned a page break, so just read it as if it were connected.
 
-<div><center><a href="#" onclick="window.open('/img/msreport2a.jpg')"><img src="/img/msreport2a.jpg" width="600"/></a></center></div>
-<div><center><a href="#" onclick="window.open('/img/msreport2b.jpg')"><img src="/img/msreport2b.jpg" width="600"/></a></center></div>
+<a class="lightview centered" href="/img/msreport2a.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/msreport2a.jpg" alt="/img/msreport2a.jpg"><br><span class="caption"></span></a>
 
-<div><p>
+<a class="lightview centered" href="/img/msreport2b.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/msreport2b.jpg" alt="/img/msreport2b.jpg"><br><span class="caption"></span></a>
 
 I almost forgot to mention this:  during the meeting, a person from the client's site referred to "Spike and Shaggy."  From the context, I knew these were nicknames for my co-workers.  I asked and found out later which guys are referred to as "Spike and Shaggy."  I don't think it's common knowledge in Baton Rouge.  
 
 I won't spoil the surprise now.  Go ahead APPRO people, and speculate amongst yourselves.  Here's one hint:  one of them is still around, and one doesn't work with us any more.  Gambling is encouraged.
-
 
 The drive home was probably my favorite part of the day.  Mostly because I was going home, but the two Red Bulls didn't hurt either.
 
@@ -63,4 +62,3 @@ I spent the whole five hour drive home chewing up a cheap gas station cigar, and
 By myself is also the only time I can choose my playlist (no one I know likes all of the songs that I do) and turn the volume up really, really loud.  The volume is necessary to drown out my singing, which is also loud, but important.  
 
 The last hour of loud, obnoxious singing next to a clear bottle of green-brown spittle was almost fun.
-</p></div>

@@ -14,7 +14,9 @@ Here's a shrunken version of what the whole thing looks like.  Doesn't getting s
 
 I don't deal too much with outside vendors, but the few that I have worked with have all had the sense not to send something like this to me.  And they don't even know about this web site.  Let us proceed...</td><td><img src="/img/xmasredicule/gladwholething.jpg"/></td></tr></table>
 
-<span class="spanEndPreview">&nbsp;</span><br /><br /><table><tr><td valign = "center" class="caption">
+
+
+<table><tr><td valign = "center" class="caption">
 
 Let's start with this group of fine looking guys on the left.  What you guys can't possibly know is the story behind this part of the picture.  You see, that's me standing in the back, and I have one thumb up each of those guys asses.
 

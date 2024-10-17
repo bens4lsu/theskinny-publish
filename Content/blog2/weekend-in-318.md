@@ -1,14 +1,15 @@
 ---
 title: Weekend in 318
 date: 2005-11-08 15:10
-description: A description of my post.
-tags: my-stories,travel
+description: On Sunday morning, the air was cool as we motored down the Red River.  Not so cool that you were uncomfortable, but just cool enough to raise a few goose bumps when the sun went behind a cloud.  The banks were devoid of houses, so for a couple of hours we had just seen hills, trees, and birds.  "ARE YOU CHECKING FOR LOGS?"
+tags: my-stories,travel, natchitoches
 id: 155
 ---
 On Sunday morning, the air was cool as we motored down the Red River.  Not so cool that you were uncomfortable, but just cool enough to raise a few goose bumps when the sun went behind a cloud.  The banks were devoid of houses, so for a couple of hours we had just seen hills, trees, and birds.
 
 "ARE YOU CHECKING FOR LOGS?"
-<span class="spanEndPreview">&nbsp;</span><br /><br />The question came from the front of the boat.  Loudly.  
+
+The question came from the front of the boat.  Loudly.  
 
 Mrs. theskinnyonbenny answered more loudly, with annoyance.  "YES, I'M CHECKING FOR LOGS."
 
@@ -22,7 +23,7 @@ We had driven into the town of Clarence Friday night.  I've driven up there a th
 
 There was a thin sliver of moon this weekend, and Saturday night, a bright planet slid down past it.  The brightness from the star was enough to cause a slight shadow of lighter black on the deep dark ground.
 
-Natchitoches is the main town in that area, although it is just a tiny little place, with only the slight charm.  Surprisingly, there are two productions going on in town right now:  a movie whose name I forget that seems to be a <a href="http://www.theskinnyonbenny.com/blog/archives/00000012.php">geezer movie</a>, and a pilot for some TV show.  
+Natchitoches is the main town in that area, although it is just a tiny little place, with only the slight charm.  Surprisingly, there are two productions going on in town right now:  a movie whose name I forget that seems to be a <a href="http://www.theskinnyonbenny.com/blog2/archives/12">geezer movie</a>, and a pilot for some TV show.  
 
 We went by the hospital Friday night on our way to a Mexican restaurant in order to give Mrs. theskinnyonbenny's mother the chance to read an X-ray that was important to someone or other.
 

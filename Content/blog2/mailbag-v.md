@@ -1,8 +1,8 @@
 ---
 title: Mailbag V
 date: 2005-09-23 08:52
-description: A description of my post.
-tags: It's been a long time since I did a mailbag post, and I've been saving up some good ones.  I've used my best judgment about whether to use real names or not.  I have a lot of ones that people forward me from their office, and I don't want anyone to get in trouble.
+description: It's been a long time since I did a mailbag post, and I've been saving up some good ones.  I've used my best judgment about whether to use real names or not.  I have a lot of ones that people forward me from their office, and I don't want anyone to get in trouble.
+tags: correspondence, poetry
 id: 139
 ogImg: kyle.jpg
 ---

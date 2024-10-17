@@ -11,7 +11,9 @@ Some notes on things that weren't good enough to merit their own post....<br />
 Forbes posted a list of the <a href="http://www.forbes.com/lists/2005/fictional/Rank.html" target="_blank">top 15 richest fictional characters.</a>  It seems like they might have done this a time or two, but this year's was the first time that I had heard of it.<br />
 <br />
 Before I knew who was on the list, I guessed Richie Rich and Daddy Warbucks.  What do you know?  Numbers 2 and 3!  Benny knows fake rich people!
-<span class="spanEndPreview">&nbsp;</span><br /><br />Number one was Santa Claus.  Clearly, that's a bogus selection, prompted by the season.  Their logic was that Santa must have infinite money in order to provide toys to all of the children, but obviously don't understand Santa.  He does all of this with <i>magic</i>, not money.  Fools.<br />
+
+
+Number one was Santa Claus.  Clearly, that's a bogus selection, prompted by the season.  Their logic was that Santa must have infinite money in order to provide toys to all of the children, but obviously don't understand Santa.  He does all of this with <i>magic</i>, not money.  Fools.<br />
 <br />
 <center><img src="/img/greenline.gif"></center><br />
 <br />

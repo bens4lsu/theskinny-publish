@@ -2,7 +2,7 @@
 title: Mailbag III
 date: 2004-07-21 07:46
 description: When I got to work this morning, I had a note on my computer that said, "Check in the morning."  I had the sense yesterday evening to write a note, knowing that I would forget to check.  However, I neglected to tell myself what I was checking.  Getting old sucks.
-tags: mom
+tags: mom, correspondence
 id: 51
 ---
 When I got to work this morning, I had a note on my computer that said, "Check in the morning."  I had the sense yesterday evening to write a note, knowing that I would forget to check.  However, I neglected to tell myself what I was checking.  Getting old sucks.

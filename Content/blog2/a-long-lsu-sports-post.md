@@ -8,7 +8,9 @@ id: 164
 There was a recent <a href="http://www.businessreport.com/pollResults.cfm?cateid=19" target="_blank">poll result</a> in the <a href="http://www.businessreport.com" target="_blank">Baton Rouge Business Report</a> that was interesting.  It asked which LSU coach was the best.  The results were...
 
 <table cellpading="15"><tr><td width=150>John Brady</td><td width=150>Men's Basketball</td><td>3.42%</td></tr><tr><td>Pokey Chatman</td><td>Women's Basketball</td><td>83.15%</td></tr><tr><td>Smoke Leval</td><td>Baseball</td><td>2.60%</td></tr><tr><td>Les Miles</td><td>Football</td><td>10.82%</td></tr></table>
-<span class="spanEndPreview">&nbsp;</span><br /><br />Wow, who would have suspected such a skewed result?  Especially since it's skewed in favor of the coach of a minor sport, a woman, and an African-American.  Perhaps the business people in Baton Rouge aren't the Neanderthals that I had imagined that they are.
+
+
+Wow, who would have suspected such a skewed result?  Especially since it's skewed in favor of the coach of a minor sport, a woman, and an African-American.  Perhaps the business people in Baton Rouge aren't the Neanderthals that I had imagined that they are.
 
 There's a ton of interesting information in that result, but let's compare Pokey and Smoke.  When you start thinking about it, they have a lot in common:
 

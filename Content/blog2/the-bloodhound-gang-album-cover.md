@@ -1,19 +1,20 @@
 ---
 title: The Bloodhound Gang Album Cover
 date: 2005-10-19 13:20
-description: A description of my post.
+description: There's an oft emailed url to a web page for the worst album covers of all time.  Even if you've seen it before, it deserves an occasional re-read.  I think there's a new one to add to the worst cover of all time.  Except now, it's called "cover art" instead of an "album cover," since it actually just comes with the downloaded music files from whichever service you get them these days.
 tags: pop-culture
 id: 149
+ogImg: bloodhoundgang.jpg
 ---
-<div>There's an oft emailed url to a <a href="http://porktornado.diaryland.com/albumcover.html" target="_blank">web page for the worst album covers of all time</a>.  Even if you've seen it before, it deserves an occasional re-read.
+There's an oft emailed url to a <a href="https://web.archive.org/web/20060205060954/http://porktornado.diaryland.com/albumcover.html" target="_blank">web page for the worst album covers of all time</a>.  Even if you've seen it before, it deserves an occasional re-read.
 
 I think there's a new one to add to the worst cover of all time.  Except now, it's called "cover art" instead of an "album cover," since it actually just comes with the downloaded music files from whichever service you get them these days.
 
-<span class="spanEndPreview">&nbsp;</span><br /><br />The <i>Hefty Fine</i> cover from Bloodhound gang is atrocious.
+The *Hefty Fine* cover from Bloodhound gang is atrocious.
 
-</div><div><center><img src="/img/bloodhoundgang.jpg"/></center></div>
+<a class="lightview centered" href="/img/bloodhoundgang.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bloodhoundgang.jpg" alt="/img/bloodhoundgang.jpg"><br><span class="caption"></span></a>
 
-<div>"Hefty Fine."  Get it?  This guy is hefty, and his fine is apparently to be forced to lie in a box.  It's such a natural looking pose.  Like he's just walking around nude, and decided to lie in a box.
+"Hefty Fine."  Get it?  This guy is hefty, and his fine is apparently to be forced to lie in a box.  It's such a natural looking pose.  Like he's just walking around nude, and decided to lie in a box.
 
 Notice the shadow going up from his head.  Apparently, there's a light way down low, just below the cutoff point for the photograph.  I hope that whoever had to set up the lighting got paid time and a half that day.
 
@@ -36,4 +37,3 @@ I wonder how the producer approached this guy.  I suspect he was just walking do
 "You're in?  Great!"
 
 One more note:  I read that the music on this album is as god-awful as its cover.  I haven't listened to it, so let me know if you think this is a killer CD.  Otherwise, I probably won't give it a try.
-</div>

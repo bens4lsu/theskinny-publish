@@ -2,7 +2,7 @@
 title: Random Notes IV
 date: 2005-10-06 17:27
 description: Here is a collection of random observations with the uniting theme that they come from my business trip in Philidelphia.  Think of it as four mini-blog posts, that you get for the low low price of one single post.
-tags: uncategorized, favorites
+tags: uncategorized, favorites, poetry
 id: 144
 ---
 Here is a collection of random observations with the uniting theme that they come from my business trip in Philidelphia.  Think of it as four mini-blog posts, that you get for the low low price of one single post.
@@ -25,11 +25,11 @@ He just nodded without smiling.  He made no reply.
 
 **A Limerick**
 
-We can't get the sys to print docs<br>
+<blockquote>We can't get the sys to print docs<br>
 And for three days straight, I've worn socks<br>
 Being on site<br>
 Makes me feel much spite<br>
-For a living, I'd rather suck cocks<br>
+For a living, I'd rather suck cocks</blockquote>
 
 (no not really, but it's a good limerick, don't you think?)
 
