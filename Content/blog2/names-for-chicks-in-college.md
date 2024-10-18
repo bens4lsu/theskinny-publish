@@ -1,7 +1,7 @@
 ---
 title: Names for Chicks In College
 date: 2006-01-24 16:18
-description: A description of my post.
+description: I have this little sheet of paper where I jot down ideas for posts as I think of them or as I have them suggested to me.  This gives me the illusion that I have tons of ideas to share with everyone, but when I read line by line down the list, it becomes amazingly clear how little I really have to say to you guys.
 tags: my-youth
 id: 180
 ---

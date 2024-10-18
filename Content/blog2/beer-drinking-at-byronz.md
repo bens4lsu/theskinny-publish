@@ -1,7 +1,7 @@
 ---
 title: Beer Drinking at Byronz
 date: 2006-03-10 10:08
-description: A description of my post.
+description: There's a new restaurant a handful of blocks away from our house that we've been visiting very regularly since it opened.  I really wanted to be able to pan Byronz Bistro.  Just based on the location, the look of the building, and how long they took to renovate the building, I expected high prices, average food, and overworked, unattentive staff.  I guess I'm a pessimist.
 tags: food
 id: 193
 ---

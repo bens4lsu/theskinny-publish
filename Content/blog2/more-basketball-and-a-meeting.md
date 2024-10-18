@@ -1,7 +1,7 @@
 ---
 title: More Basketball and a Meeting
 date: 2006-03-20 17:03
-description: A description of my post.
+description: As I predicted in this space on Friday morning, my bracket crashed and burned spectacularly.  I followed up my 14-2 Thursday with a 6-10 Friday, and of the 6 I picked correctly, 3 were a 1 seed beating a 16 seed.  So really, you could call my record 3-10 on games that were questionable.  It's perhaps the most unimpressive day one can have when picking basketball results.
 tags: sports,my-stories
 id: 197
 ---
@@ -13,7 +13,7 @@ I just made the travel reservations for an upcoming work trip, and as I was doin
 
 That won't happen, but I'll at least have a chance to drive down and witness the hoopla before the game, and maybe I'll catch it at a sports bar near the stadium.  If any of you know Indianapolis at all, shoot me a pointer or two.
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Things I should have done today, but couldn't because clients are in town for a meeting:
 

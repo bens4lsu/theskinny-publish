@@ -1,7 +1,7 @@
 ---
 title: LSU vs. Duke
 date: 2006-03-24 08:20
-description: A description of my post.
+description: I'm sure that there's an age when a man's body and mind go through a change, and that change causes the first thought in the morning to be about the need to urinate, rather than "I'm horny."  I don't know when that happens, but I'll let you know when I get there.
 tags: sports
 id: 198
 ---
@@ -23,5 +23,7 @@ Best moments from the final minute of the game:
 But my absolute favorite part of the game -- and I'm going to reveal a bit about my evil inner nature here -- was watching Redick cry at the end.  I wrote this a couple of hours before posting it, just to give myself a chance to find a picture of Redick crying.  I didn't have as much time as I would have liked to search, but I couldn't find one on the main sports sites Friday morning.  The Duke sports site didn't help me out either.  If I find one later, I'll post it somewhere around here.
 
 Two last things to mention.  First, I saw <a href="http://www.apple.com/pr/library/2006/mar/14hoops.html" target="_blank">this article</a> about the games from this years' tournament being available for video ipod.  I'm certainly willing to pay $2 for the ipod version of this game.  I searched the itunes store this morning, but I guess the games aren't out yet.
+
+<h3>(2024 update:  The link to the article does not work, but I did purchase the game, and I still have an mp4 of it on a hard drive somewhere.  I don't believe I've ever watched it.)</h3>
 
 Finally, a note of warning to anyone who happens to be with me Saturday, or in other games if LSU happens to win on Saturday.  I happened to be wearing a new pair of shamrock pajama pants during the game.  So if we're at a bar during a game during the rest of this too-short season, I'm going to look like a fool.

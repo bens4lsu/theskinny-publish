@@ -1,13 +1,15 @@
 ---
 title: Oscars/Movies
 date: 2006-03-07 09:57
-description: A description of my post.
+description: The biggest question that I always have while watching the Oscar broadcast is, how do they phase out celebrities that no longer make the A-list?  On Sunday, for example, there was old Jack Nicholson, sitting front and center for the whole broadcast, and then being the presenter for the Best Picture award.  Has he been an A-lister so long that he has tenure?
 tags: pop-culture
 id: 192
 ---
 The biggest question that I always have while watching the Oscar broadcast is, how do they phase out celebrities that no longer make the A-list?
 
-On Sunday, for example, there was old Jack Nicholson, sitting front and center for the whole broadcast, and then being the presenter for the Best Picture award.  Has he been an A-lister so long that he has tenure?  <span class="spanEndPreview">&nbsp;</span>I think it's been a while since he was nominated for anything.  How does he keep his clout?
+On Sunday, for example, there was old Jack Nicholson, sitting front and center for the whole broadcast, and then being the presenter for the Best Picture award.  Has he been an A-lister so long that he has tenure?  
+
+I think it's been a while since he was nominated for anything.  How does he keep his clout?
 
 On the other hand, there was no sign of Tom Hanks, other than an appearance in a video segment.  Did he choose to forgo the party?  I would think that he's just as well entrenched.  To think that Tom wasn't invited to be a presenter, but Keanu Reeves was is a bigger leap than my mind can manage.
 
@@ -17,7 +19,7 @@ I also liked the very beginning, where a camera zoomed in on the Brokeback Mount
 
 Everyone seems to have an opinion about <i>Brokeback Mountain</i>, but damn near nobody has seen it.  Well, I went and watched it, and really, all of the hype is because of gay cowboys in the 70s.  Suppose you swap out gay cowboys for the same story, but make it interfaith or interracial or some other reason why society didn't want them to hook up.  What you're left with is a slow moving movie where you feel moderate pity for the characters.  It's a yawner.  But the scenery is really pretty, if that makes it worth your seven bucks.
 
-I think the real reason that people are afraid to go see it was expressed by Larry David, in <a href="http://select.nytimes.com/gst/abstract.html?res=F50917FA3B540C728CDDA80894DE404482" target="_blank">this article</a>.
+I think the real reason that people are afraid to go see it was expressed by Larry David, in <a href="https://www.nytimes.com/2006/01/01/opinion/cowboys-are-my-weakness.html" target="_blank">this article</a>.
 
 <blockquote>I just know that if I saw that movie, the voice inside my head that delights in torturing me would have a field day.  "You like those cowboys, don't you?  They're kind of cute....  You can't fool me, gay man.  Go ahead, stop fighting it.  You're gay!  You're gay!"  Not that there's anything wrong with it.</blockquote>
 

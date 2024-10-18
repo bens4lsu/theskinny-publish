@@ -2,7 +2,7 @@
 title: Haunted
 date: 2006-02-21 09:41
 description: A description of my post.
-tags: my-stories
+tags: my-stories, books, tv
 id: 190
 ---
 I was just recently talking about all of those ghost shows on late night cable TV.  I had been watching one about a bar that was haunted by a former bartender who had blown out his brains with a shotgun in the back room.  It was one of those shows where actors play the parts, and then they switch over to the actual people for little interview segments.  
@@ -10,8 +10,6 @@ I was just recently talking about all of those ghost shows on late night cable T
 It's a cheaply made program.  By showing the same acting segment several times, sandwiching commercial breaks, they end up having an hour-long show with fifteen minutes of actual acting footage.
 
 Even though the shows are 100 percent cheese, this one gave me a little fright at 2:00 Saturday morning.  I figured that cowardice was an indication that it was time to turn off the TV and go to bed.
-
-
 
 I'm happy to make fun of those shows, but at the risk of sounding like someone who should himself be ridiculed, I think there's a house in my neighborhood that's haunted.
 
@@ -33,7 +31,6 @@ I made haste, and got the heck out of there.
 
 Since then, I've walked past the same house dozens and dozens of times without seeing anything unusual.  From time to time, the front is lit up, and there are people living there.  Once, I passed as the people were dragging their trash to the curb.  I passed up the opportunity to ask if they sensed that their house was haunted.  I would rather think that it is.
 
-
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/lunarpark.jpg"/></td></tr><tr><td class="caption" width="250">Bret Easton Ellis's <i>Lunar Park</i></td></tr></table>
+<a class="lightview alignright" href="/img/lunarpark.jpg" data-lightview-caption="Bret Easton Ellis's <i>Lunar Park</i>" data-lightview-group="group1" style="width:350px;"><img src="/img/lunarpark.jpg" alt="/img/lunarpark.jpg"><br><span class="caption">Bret Easton Ellis's <i>Lunar Park</i></span></a>
 
 That's my whole ghost story, but if you like creepy stories, I have a book recommendation for you.  I started <i>Lunar Park</i> as an audiobook, and had trouble listening to anything else until I was through with the story.  In a couple of years, I will have forgotten the details, and then I'm actually going to read it.

@@ -1,7 +1,7 @@
 ---
 title: Crawfish Boil Fireball
 date: 2006-04-06 16:48
-description: A description of my post.
+description: Over the few years I've been doing these posts, I imagine that I've told a number of stories where the principal theme is some boneheaded thing that I did, which lead to odd consequences.  This one should top all of the rest of these.  
 tags: my-stories
 id: 201
 ---

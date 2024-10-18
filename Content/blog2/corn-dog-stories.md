@@ -1,60 +1,63 @@
 ---
 title: Corn Dog Stories
 date: 2006-04-14 10:06
-description: A description of my post.
-tags: sports,my-stories,my-youth
+description: I think I mentioned once that Auburn fans think that the LSU fans smell like corn dogs.  I had heard this through word of mouth, and then at the Auburn game last year, I actually heard an Auburn guy walking around LSU's campus say, "It sure does smell like corn dogs around here."
+tags: sports,my-stories,my-youth, favorites
 id: 205
+ogImg: corndog.jpg
 ---
 I think I mentioned once that Auburn fans think that the LSU fans smell like corn dogs.  I had heard this through word of mouth, and then at the Auburn game last year, I actually heard an Auburn guy walking around LSU's campus say, "It sure does smell like corn dogs around here."
 
-I never saw anything written before this week, when someone sent me the text from <a href="http://mb8.theinsiders.com/fauburnfrm13.showMessage?topicID=8.topic">this message board post</a>.  I'm not sure if this is what started the whole corn dog think, or if it was the most eloquent culmination of the rumor.  The post is dated from 2003, so I doubt it's going anywhere.  But just in case it does, here is what it says.  Sorry that it makes this post overly long, but it's worth the read.  
+I never saw anything written before this week, when someone sent me the text from this message board post.  I'm not sure if this is what started the whole corn dog think, or if it was the most eloquent culmination of the rumor.  The post is dated from 2003, so I doubt it's going anywhere.  But just in case it does, here is what it says.  Sorry that it makes this post overly long, but it's worth the read.  
 
-<blockquote>LSU fans smell just like corn dogs.
+<h3>(2024 update: The link to the message board no longer works.  I tried to find it on the wayback machine, and I didn't find it there either.)</h3>
 
-Yes, it is often said, but so, so true. 
-
-LSU fans do smell like corn dogs.
-
-I would never tell them that to their face though. This is something better said at internet distances. Even now, I am afraid.
-
-I am afraid that they'll know I said it. I'll walk past an LSU fan someday, and he'll see that look in my eye that gives it away. That look that says, "gee, what is that smell? Is it corn dogs?" The next thing you know, I'll have flat tires on my car.
-
-If you only learn one thing from me today, remember not to tell LSU fans how they smell - you know, like corn dogs.
-
-LSU fans seem, somehow, sensitive to that whole corn dog issue.
-
-I think this may be why a lot of fans get beaten up by LSU fans. If you attend a game in Baton Rouge, try to avoid telling them that they smell like corn dogs. Say something else instead. Like, "Wow, LSU sure does have a great team this year. This is going to be a great SEC game."
-
-It's hard. I know. It's like when you're having sex and you try to think about baseball. That corn dog smell is just so overwhelming. It makes it hard for you to think about football or baseball or whatever else. Your brain wanders into corn dog topics like: "Gee, I wonder if I took a bite of your finger, if you would taste just like a corn dog?"; or "Is this a real person or is it a giant corn dog trying to make me think it is a real person?" or "What did that giant corn dog just say?" or "Excuse me, Mister, why is it that you smell just exactly like corn dogs smell?" or, of course, after a silencer: "Madam, did you just let the corn dogs out?"
-
-Heck, after what I've heard about LSU fans, I think it may be better not to smell them at all. Okay, not all of them. Some of them are nice. Sure. Smell the nice ones. That's okay.
-
-You know what else is a bad thing to do? Holding your nose around them. They are real sensitive to that, too. Try holding your breath. But don't be obvious about it. Somehow they know you're trying not to breathe in the corn dog smell. And that offends them. They'll likely punch you for that if they catch on to what you're doing. 
-
-If you do breathe it in long enough, though, it'll permeate your whole body, and then you'll smell like a corn dog just like they do. But don't say, "Dang, now I smell like a corn dog." They take offense to that. And they will throw things. But not corn dogs. Hard stuff. Stuff that leaves bruises and makes you bleed. Then you may have to get stitches or something. Just don't say it. If you do start smelling like a corn dog, just shut up about it. Okay?
-
-I think kids are acutely aware of corn dog smells too. Counsel your kids on how to behave around LSU fans. If LSU fans are driving around town, do not let your kids stick their heads out of your car window and sniff the air. No. Keep your windows rolled up. An odd change in their expression - indicating they smell corn dogs - might get a wrench or pipe or some other object tossed at your windshield. So, that's dangerous. Let your kids stick their heads out of the car windows as you drive - on some other weekend.
-
-I know you are just as puzzled as I am about some of this corn dog stuff. What puzzles me most is that I've never actually seen any of these LSU fans with a corn dog in their hand. Okay, maybe there's no mystery there - maybe they already ate the corn dogs. Who knows? Maybe there's a corn dog factory in Baton Rouge and they all work there. Maybe, there's a corn dog lotion that they wear, or a French perfume. Maybe their city council puts corn dog juice in the water supply - kind of like fluoride. The politics there are probably weird. The big political issue during the city election is whether they should add more ketchup or more mustard to the water. Don't comment on it though. It's not politically correct over there. It's like a malnutrition issue or something. It's like the corn dogs are probably added to the water to prevent starvation or something.
-
-I know when you go to Baton Rouge, you're thinking: "Ahhhh. Here I am in Baton Rouge, Louisiana. I'll bet the people here smell just like boiled crawfish or shrimp etoufe' [sic] or some fancy Cajun food." But just stop thinking that. That's just a myth. They smell just like corn dogs.
-
-In fact, please listen to my advice. Leave them alone about the corn dog odor. And don't try masking the odor with something stronger. They'll curse at you. They'll say something like: "WTF, how dare you smoke a cigar in my home." or "WTF!! Are you too good for the smell of corn dogs?" and they'll cuss out your kids too: "WTF!!! Little Mister fancy pants over here acts like he doesn't want to smell like corn dogs." 
-
-Cajuns are not like us. Don't you see that, yet? They are really sensitive about being sniffed and about their corn dog aroma. They know they smell like corn dogs and it is no laughing matter to them at all. I know. I know. We sniff the bammers and the UGA dawgs and the Ole messes, and we keep a straight face with each of them, but don't press your luck with the Cajun tiger fans. Don't refer to Death Valley as corn dog valley either. I mean that's just wrong. Even if you've been drinking, they'll beat you up and curse out your kids.
-
-Along these lines, be extra careful when you laugh in their direction - even if you're laughing about something else. Like baseball or football, or sex or whatever. If you can't control yourself and you must laugh though, do not snort. The snorting makes them think that you smell their corn dog body odor from a distance or that you're choking on it or something. They'll likely burn your van for that. We lost a campus building over just one snort. 
-
-So, just remember. You can love one another without sniffing each other. You can enjoy the clash of a couple of good football teams. You can enjoy the thrill of the rivalry. But after the game, please heed my words. Please just move along. No sniffing the opposing fans this Saturday. Okay? Get your corn dog jollies at home. 
-
+<blockquote>LSU fans smell just like corn dogs.<br>
+<br>
+Yes, it is often said, but so, so true. <br>
+<br>
+LSU fans do smell like corn dogs.<br>
+<br>
+I would never tell them that to their face though. This is something better said at internet distances. Even now, I am afraid.<br>
+<br>
+I am afraid that they'll know I said it. I'll walk past an LSU fan someday, and he'll see that look in my eye that gives it away. That look that says, "gee, what is that smell? Is it corn dogs?" The next thing you know, I'll have flat tires on my car.<br>
+<br>
+If you only learn one thing from me today, remember not to tell LSU fans how they smell - you know, like corn dogs.<br>
+<br>
+LSU fans seem, somehow, sensitive to that whole corn dog issue.<br>
+<br>
+I think this may be why a lot of fans get beaten up by LSU fans. If you attend a game in Baton Rouge, try to avoid telling them that they smell like corn dogs. Say something else instead. Like, "Wow, LSU sure does have a great team this year. This is going to be a great SEC game."<br>
+<br>
+It's hard. I know. It's like when you're having sex and you try to think about baseball. That corn dog smell is just so overwhelming. It makes it hard for you to think about football or baseball or whatever else. Your brain wanders into corn dog topics like: "Gee, I wonder if I took a bite of your finger, if you would taste just like a corn dog?"; or "Is this a real person or is it a giant corn dog trying to make me think it is a real person?" or "What did that giant corn dog just say?" or "Excuse me, Mister, why is it that you smell just exactly like corn dogs smell?" or, of course, after a silencer: "Madam, did you just let the corn dogs out?"<br>
+<br>
+Heck, after what I've heard about LSU fans, I think it may be better not to smell them at all. Okay, not all of them. Some of them are nice. Sure. Smell the nice ones. That's okay.<br>
+<br>
+You know what else is a bad thing to do? Holding your nose around them. They are real sensitive to that, too. Try holding your breath. But don't be obvious about it. Somehow they know you're trying not to breathe in the corn dog smell. And that offends them. They'll likely punch you for that if they catch on to what you're doing. <br>
+<br>
+If you do breathe it in long enough, though, it'll permeate your whole body, and then you'll smell like a corn dog just like they do. But don't say, "Dang, now I smell like a corn dog." They take offense to that. And they will throw things. But not corn dogs. Hard stuff. Stuff that leaves bruises and makes you bleed. Then you may have to get stitches or something. Just don't say it. If you do start smelling like a corn dog, just shut up about it. Okay?<br>
+<br>
+I think kids are acutely aware of corn dog smells too. Counsel your kids on how to behave around LSU fans. If LSU fans are driving around town, do not let your kids stick their heads out of your car window and sniff the air. No. Keep your windows rolled up. An odd change in their expression - indicating they smell corn dogs - might get a wrench or pipe or some other object tossed at your windshield. So, that's dangerous. Let your kids stick their heads out of the car windows as you drive - on some other weekend.<br>
+<br>
+I know you are just as puzzled as I am about some of this corn dog stuff. What puzzles me most is that I've never actually seen any of these LSU fans with a corn dog in their hand. Okay, maybe there's no mystery there - maybe they already ate the corn dogs. Who knows? Maybe there's a corn dog factory in Baton Rouge and they all work there. Maybe, there's a corn dog lotion that they wear, or a French perfume. Maybe their city council puts corn dog juice in the water supply - kind of like fluoride. The politics there are probably weird. The big political issue during the city election is whether they should add more ketchup or more mustard to the water. Don't comment on it though. It's not politically correct over there. It's like a malnutrition issue or something. It's like the corn dogs are probably added to the water to prevent starvation or something.<br>
+<br>
+I know when you go to Baton Rouge, you're thinking: "Ahhhh. Here I am in Baton Rouge, Louisiana. I'll bet the people here smell just like boiled crawfish or shrimp etoufe' [sic] or some fancy Cajun food." But just stop thinking that. That's just a myth. They smell just like corn dogs.<br>
+<br>
+In fact, please listen to my advice. Leave them alone about the corn dog odor. And don't try masking the odor with something stronger. They'll curse at you. They'll say something like: "WTF, how dare you smoke a cigar in my home." or "WTF!! Are you too good for the smell of corn dogs?" and they'll cuss out your kids too: "WTF!!! Little Mister fancy pants over here acts like he doesn't want to smell like corn dogs." <br>
+<br>
+Cajuns are not like us. Don't you see that, yet? They are really sensitive about being sniffed and about their corn dog aroma. They know they smell like corn dogs and it is no laughing matter to them at all. I know. I know. We sniff the bammers and the UGA dawgs and the Ole messes, and we keep a straight face with each of them, but don't press your luck with the Cajun tiger fans. Don't refer to Death Valley as corn dog valley either. I mean that's just wrong. Even if you've been drinking, they'll beat you up and curse out your kids.<br>
+<br>
+Along these lines, be extra careful when you laugh in their direction - even if you're laughing about something else. Like baseball or football, or sex or whatever. If you can't control yourself and you must laugh though, do not snort. The snorting makes them think that you smell their corn dog body odor from a distance or that you're choking on it or something. They'll likely burn your van for that. We lost a campus building over just one snort. <br>
+<br>
+So, just remember. You can love one another without sniffing each other. You can enjoy the clash of a couple of good football teams. You can enjoy the thrill of the rivalry. But after the game, please heed my words. Please just move along. No sniffing the opposing fans this Saturday. Okay? Get your corn dog jollies at home. <br>
+<br>
 Enough with this corn dog talk. Let's play ball...
 </blockquote>
 
 I kind of like the whole running theme about being afraid of the violent LSU fan, and I kind of dislike it at the same time.  But the fact that I smell like a corn dog to Auburn fans isn't even the point of this post.  I have a couple of corn dog stories that are worth telling on their own merit.
 
-<center><img src="/img/greenline.gif" /></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/corndog.jpg"/></td></tr></table>
+<a class="lightview alignright" href="/img/corndog.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/corndog.jpg" alt="/img/corndog.jpg"><br><span class="caption"></span></a>
 
 This story probably won't seem funny when you read it, but it certainly was to me at the time.
 
@@ -62,7 +65,7 @@ Amber went out to lunch one day.  She came back to her desk and spread out a cor
 
 I hadn't seen a corn dog in years and years, and I wasn't the only one who found the scene to be hilarious.  The corn dog's appearance was so random and surprising that we continued to talk about the whole thing for a couple of months.  Amber took corn dog related abuse until it stopped being funny any more.  And with this childish group, that was a long time.
 
-<center><img src="/img/greenline.gif" /></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I have a better corn dog story than that from back in college.  But I have to introduce a few characters that you don't yet know.
 

@@ -1,9 +1,10 @@
 ---
 title: Puke, Strawberries, and Animals
 date: 2006-04-10 06:45
-description: A description of my post.
+description: I noticed a trend in television this week that I doubt any others will point out.  In the course of one week, I have witnessed no less than three realistic-looking vomitings on scripted television shows.  I can't remember which show started the trend (Lost maybe?), but it was followed by last week's episode of Huff, and then capped by a multiple Tony Soprano puking last night.
 tags: animals,my-stories,pop-culture
 id: 202
+ogImg: /img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg
 ---
 I have a little bit of news about things that happened over the weekend, but first, I have an entertainment note.
 
@@ -31,10 +32,10 @@ On Sunday, I did a little bit of cleanup in the yard, then went for a bike ride.
 
 When I got back from the ride, we had gotten a new kitten.  Our neighbor found a couple of strays somewhere.  He offered us one and kept the other.  Then, to top it off, we got a new puppy yesterday evening.  So, there are a lot of noisy, whiny animals around here this morning.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg"/ width="250"/></td></tr><tr><td class="caption" width="250">The new dog, who has no name yet.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" data-lightview-caption="The new dog, who has no name yet." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" alt="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg"><br><span class="caption">The new dog, who has no name yet.</span></a>
 
 Last night after dinner, we were sitting in front of the TV (between puke scenes) with some strawberry short cake.  The puppy and kitten were becoming acquainted with each other on the couch with Mrs. theskinnyonbenny.  There was a distraction, and the puppy somehow ended up with a nose full of Cool Whip, some of which she transferred to the cat's eyebrow.
 
-Now, the scene of the puppy and kitten sitting side by side, oblivious to the fact that they are wearing whipped cream on their nose and eyebrow was probably the cutest damned scene that's ever existed on this planet.  Unfortunately for posterity, I was too busy feeding my face to get up and take a picture.  But the fact that I considered putting down my food to get the camera gives you some indication of how postcard-worthy the scene was.  You can see the pictures that I did take <a onclick="window.open('/pg2.php?spgmGal=49%20-%20New%20Animals%20-%20Spring%202006','49NewAnimalsSpring2006','width=625, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');"  >here</a>.
+Now, the scene of the puppy and kitten sitting side by side, oblivious to the fact that they are wearing whipped cream on their nose and eyebrow was probably the cutest damned scene that's ever existed on this planet.  Unfortunately for posterity, I was too busy feeding my face to get up and take a picture.  But the fact that I considered putting down my food to get the camera gives you some indication of how postcard-worthy the scene was.  You can see the pictures that I did take <a href="/gal/017%20-%20New%20Animals%20-%20Spring%202006/">here</a>.
 
 I can't tell if the little cat is a boy or girl, because he/she freaks the f--k out when I try to flip him/her over.  I should be scratched to shreds by the end of this week, unless I give up, and just name it something gender neutral.

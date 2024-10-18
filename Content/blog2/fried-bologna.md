@@ -1,7 +1,7 @@
 ---
 title: Fried Bologna
 date: 2006-03-28 15:17
-description: A description of my post.
+description: Three reasons that I'm not going to jot down the fried bologna recipe that Tyler just told me at work today.
 tags: food
 id: 199
 ---
