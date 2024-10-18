@@ -3,7 +3,7 @@
 
 The first _Velvet Elvis_ was a 1998 Rhodes 22 manufactured by <a href="http://www.generalboats.com/http___www.generalboats.com/home.html" target="_blank">General Boats</a>.  She spent her first few years as a demo boat, going to boat shows and being sailed by her loving manufacturers.
 
-(2023 update:  from here on, I'm keeping the content what it was back in 2005 - 2012.  You'll see some present-tense language that is dated.)
+<h3>(2023 update:  from here on, I'm keeping the content what it was back in 2005 - 2012.  You'll see some present-tense language that is dated.)</h3>
 
 In 2000, General Boats decided to let her go to the poor youngish sailers in Louisiana who were buying on credit and couldn't afford an entirely new boat.  Within a day, she had damage.  Within a month, she had a name.
 

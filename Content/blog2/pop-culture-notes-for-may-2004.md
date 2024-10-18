@@ -33,4 +33,4 @@ Just so you aren't left wondering, the conversation this morning was about how m
 
 Agree?  Disagree?  I've decided to keep the bulletin board around.  Let us know what you think in the pop culture forum.
 
-<div class="caption">2023 update:  The message board was a lot of fun, but it didn't last too long.  It was too hard to keep the bots from adding spam, even way back then.</div>
+<h3>2023 update:  The message board was a lot of fun, but it didn't last too long.  It was too hard to keep the bots from adding spam, even way back then.</h3>

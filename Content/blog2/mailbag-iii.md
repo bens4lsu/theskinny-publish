@@ -9,7 +9,7 @@ When I got to work this morning, I had a note on my computer that said, "Check i
 
 But that's irrelevant to the mail column.  You guys really haven't sent me anything I can use, although I'm happy that there's finally some regular posting on the <a class="mainbox" href="http://theskinnyonbenny.com/stl-web/bulletin/bb/index.php" target="_blank">bulletin board </a>.  Keep it up.  Now to the mailbag.
 
-(2024 update:  ahh, I miss the old message board.  I ended up shutting it down in the period between the beginning of bot-spam and the beginning of captchas).  Also, I just open-published people's email addresses.  They are either dead now, or edited out of the post.
+<h3>(2024 update:  ahh, I miss the old message board.  I ended up shutting it down in the period between the beginning of bot-spam and the beginning of captchas.  Also, I just open-published people's email addresses.  They are either dead now, or edited out of the post.)</h3>
 
 <BLOCKQUOTE>From: Sarah Schultz <A HREF="mailto:SSchultz@ctbpublishing.com" class="mainbox">SSchultz@ctbpublishing.com</A>
 

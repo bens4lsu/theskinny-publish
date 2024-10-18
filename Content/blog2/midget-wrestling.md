@@ -35,4 +35,4 @@ I'm having trouble inserting this tidbit in a graceful fashion, so I'll just blu
 
 The fights lasted a good while.  Believe it or not, there were several close calls, when the count got to two, but time after time, the m----t on bottom dug deep inside himself for a little extra, and threw the upper m----t off.  After two fights of this, the smoke burned eyes and throats, we had seen m----ts bleed, and it was one o'clock in the morning, so that ended the night of m----t wrestling.
 
-<div class="caption">2023 update:  I replaced the offensive term for little people with a masked version of the same offensive term.  Sincere apologies to all who were offended, and sincere relief that no one ever visits these pages.</div>
+<h3>2023 update:  I replaced the offensive term for little people with a masked version of the same offensive term.  Sincere apologies to all who were offended, and sincere relief that no one ever visits these pages.</h3>

@@ -10,7 +10,9 @@ I sure would like to do more posts that just regurgitate email.  It isn't that I
 Here we go...
 <blockquote>I added your site "theskinnyonbenny.com" to a site ring for greymatter users. If you do not want to be in it just let me know and I will take your site out of it.<br><br>have a great day<br>Jim F. </blockquote>
 
-Man, links from strangers are awesome.  Back atcha:  http://jdfitz.com  (2024 update: domain is now for sale.  Shame.)
+Man, links from strangers are awesome.  Back atcha:  http://jdfitz.com  
+
+<h3>(2024 update: domain is now for sale.  Shame.)</h3>
 
 My dad recently went to Nepal.  He sent this dispatch.  I know it's long, but I thought it was a good read.
 

@@ -1,9 +1,10 @@
 ---
 title: Aging in Reverse
 date: 2006-01-31 11:17
-description: A description of my post.
+description: Last Summer, I noticed an odd new mole on my shoulder.  It was skinny, and it stuck up enough that you could wiggle it back and forth.  When Summer ended, I started wearing a shirt more often, and since it was at the base of my neck where I couldn't see, I forgot all about it.  Heck, it might have gone away altogether.
 tags: my-stories
 id: 183
+ogImg: monjunis.jpg
 ---
 Last Summer, I noticed an odd new mole on my shoulder.  It was skinny, and it stuck up enough that you could wiggle it back and forth.  When Summer ended, I started wearing a shirt more often, and since it was at the base of my neck where I couldn't see, I forgot all about it.  Heck, it might have gone away altogether.
 
@@ -19,7 +20,7 @@ Speaking of aging, there's an Italian restaurant near our house called Monjuni's
 
 The oddest thing about Monjuni's is the number of old people with walkers that you see there.  I don't want it to sound like I'm making fun of people with walkers.  I'm not.  I just don't understand why they (as a group) eat at Monjuni's more than at other places in town.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/monjunis.jpg" width="245"/></td></tr><tr><td class="caption" width="250">The entrance to Monjuni's, uncharacteristically without a person with a walker.</td></tr></table>
+<a class="lightview alignright" href="/img/monjunis.jpg" data-lightview-caption="The entrance to Monjuni's, uncharacteristically without a person with a walker." data-lightview-group="group1" style="width:350px;"><img src="/img/monjunis.jpg" alt="/img/monjunis.jpg"><br><span class="caption">The entrance to Monjuni's, uncharacteristically without a person with a walker.</span></a>
 
 Before Saturday, I had eaten there in person once, and ordered takeout from there twice.  On each visit, I had seen a person with a walker.  On Saturday, there were three patrons with walkers.  This is way out of line with a random disbursement of patrons with walkers to restaurants in town.
 

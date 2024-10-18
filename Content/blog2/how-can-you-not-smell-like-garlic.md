@@ -1,7 +1,7 @@
 ---
 title: How Can You Not Smell Like Garlic?
 date: 2006-01-25 15:22
-description: A description of my post.
+description: Yesterday, I had a five-side combo plate at Serop's Express, a nearby Greek and Lebanese cafeteria-style restaurant.  I like the Lebanese bean salad as one of my sides.  It consists of little red beans, something green (parsley or cilantro, maybe?), something to give it moisture, and lots of white specks of minced garlic.  Yum.
 tags: food
 id: 181
 ---

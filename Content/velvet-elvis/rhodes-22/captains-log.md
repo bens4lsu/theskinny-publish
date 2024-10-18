@@ -2,7 +2,7 @@
 
 <h2>Captain's Log</h2>
 
-<div class="caption">2023 update:  I didn't really keep up with this log over the course of owning the boat, but here's what I did record.</div>
+<h3>2023 update:  I didn't really keep up with this log over the course of owning the boat, but here's what I did record.</h3>
 
 <table class="baldtable"><tr><th>Date</th><th>Route</th><th>Conditions</th><th>Crew</th></tr>
 <tr><td>2005-07-04</td><td>From Oak Harbor, crossed about 2/3 of the lake, and then turned back.</td><td>Very good wind and moderately choppy water.  Too many other boats, but very nice otherwise.  Moved quickly with full main and genoa reefed to 80%.</td><td>The admiral, Dan, Cathy, another guy named Dan and his wife, whose name I don't recall.</td></tr>

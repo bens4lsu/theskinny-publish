@@ -1,17 +1,16 @@
 ---
 title: Colorado
 date: 2005-11-29 14:16
-description: A description of my post.
+description: We just got back from Colorado, for a long weekend trip for our 10th anniversary.  I have a few photos out there for you, but you don't really take too many photos when there are just two of you on a trip.  Who wants to have photos taken of them by themselves?
 tags: travel
 id: 161
+ogImg: /img/gal/015%20-%20Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG
 ---
-We just got back from Colorado, for a long weekend trip for our 10th anniversary.  I have <a onclick="window.open('\pg2.php?spgmGal=Colorado%20-%20Thanksgiving%202005','ColoradoThanksgiving2005','width=625, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');">a few photos</a> out there for you, but you don't really take too many photos when there are just two of you on a trip.  Who wants to have photos taken of them by themselves?
+We just got back from Colorado, for a long weekend trip for our 10th anniversary.  I have <a href="/gal/015%20-%20Colorado%20-%20Thanksgiving%202005/">a few photos</a> out there for you, but you don't really take too many photos when there are just two of you on a trip.  Who wants to have photos taken of them by themselves?
 
 It was a very nice trip, but I don't have too much to tell that would interest you here.  Only a couple of little things:
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG" width="240"/></td></tr><tr><td class="caption" width="250">Rocky Mountain Oysters</td></tr></table>
-
-
+<a class="lightview alignright" href="/img/gal/015%20-%20Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG" data-lightview-caption="Rocky Mountain Oysters" data-lightview-group="group1" style="width:350px;"><img src="/img/gal/015%20-%20Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG" alt="/img/gal/015%20-%20Colorado%20-%20Thanksgiving%202005/photo_DSC01157.JPG"><br><span class="caption">Rocky Mountain Oysters</span></a>
 
 First and foremost, I tried Rocky Mountain Oysters  for the first time.  I was kind of nervous, but I've been talking about it long enough, and it was time to try.  The first thing you notice is that they aren't shaped like testicles.  Assuming that the bull's testicle is roughly round like ours, someone pounds them flat before battering and frying them.
 

@@ -1,15 +1,14 @@
 ---
 title: Pandora
 date: 2006-01-06 07:13
-description: A description of my post.
-tags: gear-and-gadgets
+description: There's this cool new app: Pandora.  See here what it's all about.
+tags: gear-and-gadgets, music
 id: 171
 ---
 Mrs. theskinnyonbenny should be warned.  I'm going to download a lot of stuff from itunes this weekend.
 
 The culprit is <a href="http://pandora.com">pandora.com</a>.  I had been waiting for this to become available since hearing about the music genome project on an <a href="http://www.npr.org/templates/story/story.php?storyId=4661167
 ">NPR story</a>.
-
 
 Here's the jist of it:  they had a bunch of music experts listen to thousands and thousands of songs, and categorize something like 80 technical qualities about the sounds that only music theorists really understand.  Then, you tell the system what artists or songs you like, and the system looks for songs that are musically similar based on those categorizations.
 
@@ -23,7 +22,7 @@ There's a menu item that you can click to tell you why it's playing a certain so
 
 <blockquote>Based on what you've told us so far, we're playing this track because it features mellow rock instrumentation, a subtle use of vocal harmony, mild rhythmic syncopation, acoustic sonority and major key tonality.</blockquote>
 
-<p>Of course, I have no idea what this means.  I probably know someone or other who could explain "mild rhythmic syncopation" or "acoustic sonority," but I won't remember to ask.  The one thing that I need to tell it is that female vocalists are okay.  I don't get any sings with female singers at all.
+Of course, I have no idea what this means.  I probably know someone or other who could explain "mild rhythmic syncopation" or "acoustic sonority," but I won't remember to ask.  The one thing that I need to tell it is that female vocalists are okay.  I don't get any sings with female singers at all.
 
 Here's a five-song playlist of songs I never heard before this morning.  I know that no one will actually follow up and try to listen to any of these, because I see such things, and I don't follow up and try to listen.</p>
 
@@ -32,4 +31,4 @@ Here's a five-song playlist of songs I never heard before this morning.  I know 
 </li><li>Placebo - Pure Morning
 </li><li>Diamond Nights - Dirty Thief</li></ul>
 
-<p>Happy listening.</p>
+Happy listening.

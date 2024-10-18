@@ -2,7 +2,7 @@
 
 <h2>Captain's Log</h2>
 
-<div class="caption">2023 update:  I didn't really keep up with this log over the course of owning the boat, but here's what I did record.</div>
+<h3>2023 update:  I didn't really keep up with this log over the course of owning the boat, but here's what I did record.</h3>
 
 <table><tr><th>Date</th><th>Route</th><th>Conditions</th><th>Crew</th></tr>
 <tr><td>2014-04-18</td><td>First day on the new Velvet Elvis.  After an hour and change (13:30 - 14:45, say) shakedown sail from West End, New Orleans, we motored directly into the wind for 3.5 hours (15:00 - 18:30) to get to Eden isles.

@@ -17,6 +17,8 @@ Atlanta, on the other hand, has to be added to the list of cities that I don't l
 
 Miami, Washington DC, and Vancouver are on the list of cities to try, and cities that I expect to be exciting.  Phoenix and Denver are suspected drags, but I haven't been to either, so I'll hold off judgment.  New Orleans and Las Vegas don't count.  They're in a league of their own.  If you think your home town belongs in that stratosphere, let me know -- but don't bother if you can't take your open drink from one building to another.
 
-Back to Atlanta.  There was an article in their paper one day while we were there about <a class="mainbox" href="http://www.ajc.com/living/content/epaper/editions/saturday/faith_values_14101a6c669e50680028.html" target="_blank">bible study in Hooters.</a>  (2024 update: no surprise, but the link is dead.)
+Back to Atlanta.  There was an article in their paper one day while we were there about <a class="mainbox" href="http://www.ajc.com/living/content/epaper/editions/saturday/faith_values_14101a6c669e50680028.html" target="_blank">bible study in Hooters.</a>  
+
+<h3>(2024 update: no surprise, but the link is dead.)</h3>
 
 This takes place in the suburb of Kennesaw, which happens to be where Sarah (from the post just before this one) lives.  Neither Sarah nor the paper bothered to mention that Kennesaw may have the most thriving community of racist, right-wing nuts in the east.  But perhaps the Hooters group can bring a more christian attitude to town.

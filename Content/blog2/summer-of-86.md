@@ -1,15 +1,13 @@
 ---
 title: Summer of '86
 date: 2005-11-23 17:48
-description: A description of my post.
-tags: my-youth
+description: Many of my readers will be too young (or too old -- Hi Dad), to remember the day before Bryan Adams wasn't a pussy.  Back in the summer of 1986, I was 15, and enjoying the freedom that comes with being old enough to run wild, but too young to drive and work.  But most of my friends were 16 and driving, so it was the best of both worlds.  And this isn't one of those "I didn't know how well I had it" types of posts.  I knew that it was great even at the time.
+tags: my-youth, music
 id: 160
 ---
 Many of my readers will be too young (or too old -- Hi Dad), to remember the day before Bryan Adams wasn't a pussy.
 
-Bank in the summer of 1986, I was 15, and enjoying the freedom that comes with being old enough to run wild, but too young to drive and work.  But most of my friends were 16 and driving, so it was the best of both worlds.  And this isn't one of those "I didn't know how well I had it" types of posts.  I knew that it was great even at the time.
-
-
+Back in the summer of 1986, I was 15, and enjoying the freedom that comes with being old enough to run wild, but too young to drive and work.  But most of my friends were 16 and driving, so it was the best of both worlds.  And this isn't one of those "I didn't know how well I had it" types of posts.  I knew that it was great even at the time.
 
 A group of us went that summer to the Bryan Adams concert.  I had a dentist appointment that morning, and it was decided that I needed to have a couple of incoming wisdom teeth removed.  
 
@@ -27,7 +25,7 @@ It's odd.  I can picture the girl who drove, and for that summer, we were pretty
 
 I know that we were comfortable enough with each other to bandy around the word "piss" right in front of Culson Johnson's mom.  It went back and forth between us before we noticed her stare, which shamed us into an apology.
 
-<embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/AintGonnaCry.mp3" TYPE="video/x-ms-wmf-plugin"  AUTOSTART="0" SHOWCONTROLS="1"  align="right" /><noembed>You'll have to find this song somewhere else.  Your browser won't allow embedded media.  Sorry.</noembed>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/aint-gonna-cry/1440823482?i=1440824125"></iframe>
 
 Once we got to the arena, I felt a lot better.  And it ended up being a good show.  I had an old Bryan Adams song randomly come up on the IPOD playlist the other day, and it still holds up as a good 1980s rock and roll song.
 

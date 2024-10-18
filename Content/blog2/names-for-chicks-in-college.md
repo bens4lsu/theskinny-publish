@@ -5,7 +5,9 @@ description: A description of my post.
 tags: my-youth
 id: 180
 ---
-I have this little sheet of paper where I jot down ideas for posts as I think of them or as I have them suggested to me.  This gives me the illusion that I have tons of ideas to share with everyone, but when I read line by line down the list, it becomes amazingly clear how little I really have to say to you guys.<br /><br />This post has been hanging around on my page for a good year now.  It's not that this is a bad idea, it's just that I know that there were <i>a lot</i>  more chicks to list, but for the life of me, I can't remember any more.
+I have this little sheet of paper where I jot down ideas for posts as I think of them or as I have them suggested to me.  This gives me the illusion that I have tons of ideas to share with everyone, but when I read line by line down the list, it becomes amazingly clear how little I really have to say to you guys.
+
+This post has been hanging around on my page for a good year now.  It's not that this is a bad idea, it's just that I know that there were _a lot_  more chicks to list, but for the life of me, I can't remember any more.
 
 It's been thirteen years since college, and that has taken a big toll on my now semi-elderly memory.  I used to make fun of a guy by name of Paul for "writing a book," about our little adventures.  The truth is that he was smart for wanting to write some of that stuff down.  I often couldn't remember what happened the previous day, so there's no chance that I remember much of it now.
 
@@ -30,3 +32,5 @@ She also had sex with one of the guys in a public room in the fraternity house, 
 <li><b>The Flying Nun:</b>  The Flying Nun was a good friend of the Bearded Whore.  She looked a good bit like Sally Field, but not in a cute, complimentary way.</li></ul>
 
 Now sigh with relief that you aren't on the list.
+
+<h3>(2024 update:  no corrections here, but 52-year-old Benny is embarrassed for and ashamed of 35-year-old Benny.)</h3>

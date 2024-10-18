@@ -1,14 +1,13 @@
 ---
 title: The Director of Aquatics
 date: 2006-01-09 13:28
-description: A description of my post.
+description: My cat won't let me piss or take a bath in peace.
 tags: animals
 id: 172
 ---
 I have a strategy for dealing with the cold January evening when I just can't get rid of the chill.
 
 But before I explain my strategy, I feel compelled to defend the contention it is ever cold indoors in Baton Rouge, even in January.  The first thing to understand is that our house was built before that most innovative technology:  insulation.  There's none in the walls, there's none above the ceiling, and there certainly isn't any beneath the wood floors, built on piers above a big, cold, muddy plain beneath the house.
-
 
 And because summer is so miserable, we have the biggest, hungriest, turbo-powered air conditioning unit that average people could possibly afford.  But it's just as powerful a heater.  The result of this is that the house turns into a sweltering rain forest, complete with monkeys calling from upstairs and the occasional flash of Macaw plumage within about five minutes of cranking on the heater.  So, we usually just leave the central heat off.
 

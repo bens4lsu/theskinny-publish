@@ -10,7 +10,7 @@ This is the index of our personal page, where we chronicle some of our adventure
 
 
 
-<div class="caption">2023 update:  I only ever wrote the one set of posts for this boat's specific page, and that only covered the "getting there" part of the trip to Cuba.  But the story is pretty good.</div>
+<h3>2023 update:  I only ever wrote the one set of posts for this boat's specific page, and that only covered the "getting there" part of the trip to Cuba.  But the story is pretty good.</h3>
 
 <h2>Trip to Cuba</h2>
 <div class="list-of-links"><ul class="compact">

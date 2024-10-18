@@ -1,7 +1,7 @@
 ---
 title: Judge Mathis
 date: 2006-01-18 16:10
-description: A description of my post.
+description: I have the damnedest problems with this one particular landscape light in the front yard.  The thing's either not lit, or burning dimly as a candle.  Each time I clean things up and get it fixed, something else goes wrong.
 tags: my-stories
 id: 178
 ---
@@ -22,7 +22,7 @@ Perry took Doug LLewellyn's advice and started the process of going to court.  B
 
 I think Perry wanted to do the Judge Mathis show, because there's no way to lose.  See, if you are the one who was sued, and if you lose, the show pays your damages.  If you are the one who filed suit and you lose, the show pays you anyway.  On top of all of this, you get a free trip to Chicago.  Doesn't get much better than that, does it?
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/judgemathis.jpg"/></td></tr><tr><td class="caption" width="250">Judge Mathis</td></tr></table>
+<a class="lightview alignright" href="/img/judgemathis.jpg" data-lightview-caption="Judge Mathis" data-lightview-group="group1" style="width:350px;"><img src="/img/judgemathis.jpg" alt="/img/judgemathis.jpg"><br><span class="caption">Judge Mathis</span></a>
 
 I checked out the <a href="http://www.askjudgemathis.com/" target="_blank">Judge Mathis web site</a> this week, and the most interesting part is the link where you can request the good Judge as a speaker for your seminar.  His speaking fee is up to $15,000, and he requires a first class plane ticket, as well as a ticket and accommodations for an assistant.
 

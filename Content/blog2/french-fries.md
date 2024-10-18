@@ -1,7 +1,7 @@
 ---
 title: French Fries
 date: 2006-02-03 14:37
-description: A description of my post.
+description: There's a plague going around Baton Rouge's sports bars, and no one even seems to care.  The problem is waffle fries.  By my count, Walk Ons, Pluckers, and Champs have all chosen waffle fries over real fries on their menu.  Now, I know that the only purpose of fries is to act as the shovel, to get ketchup or cheese, or if you're really brave, chili and jalapenos into your gullet.
 tags: food
 id: 184
 ---

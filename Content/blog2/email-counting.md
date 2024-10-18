@@ -1,7 +1,7 @@
 ---
 title: Email Counting
 date: 2006-02-07 08:51
-description: A description of my post.
+description: Overall, I get too much email.  I went back to a regular week from last October and counted the messages in my various email accounts.
 tags: my-stories
 id: 186
 ---
@@ -15,7 +15,7 @@ Overall, I get too much email.  I went back to a regular week from last October 
 	<li><i>From Alan:  144 messages.</i>  Alan's tend to be informational, where I'm on the CC line.  I read them all, but they normally don't require any follow up.  Although he sends enough to be broken out individually, this seems to have been a particularly email-heavy week for him.</li>
 	<li><i>All else:  231 messages.</i>  These are the true emails sent directly to me.  I look at them all.</li>
 	</ul></li>
-<li><b><a href="mailto:bens@theskinnyonbenny.com">bens@theskinnyonbenny.com</a> got 2 emails.</b>  This is the one account that didn't get enough email.  More on that later.</li>
+<li><b>bens@theskinnyonbenny.com got 2 emails.</b>  This is the one account that didn't get enough email.  More on that later.</li>
 <li><b>My Rhodes list email got 149 messages.</b>  This is a specific account that I use for an email list with like-minded sailors.  This is a pretty typical week.</li>
 <li><b>My Yahoo email address got 2658 messages</b>, broken down as
 	<ul><li><i>2553 items automatically sorted to the folder where they put my spam</i>.  This is the account I use for online shopping, so there's a lot of junk coming here.</li>
@@ -29,7 +29,8 @@ I don't look at hardly any of the spam.  I recently opened one just to see what 
 
 So if you see any noseless, earless, dead fifteen year olds out there, slip me a heads-up.  He/she is after me.
 
-
-Now back to the <a href="mailto:bens@theskinnyonbenny.com">bens@theskinnyonbenny.com</a> email.  I get a pathetically small amount of email from my web site readers.  No one has sent me a written page to post, a picture of the day, a drawing they made during a meeting in weeks and weeks.  
+Now back to the bens@theskinnyonbenny.com email.  I get a pathetically small amount of email from my web site readers.  No one has sent me a written page to post, a picture of the day, a drawing they made during a meeting in weeks and weeks.  
 
 are actually only about five different people who have sent my anything recently.  The rest of you have until the end of the month to amuse me.  If you fail to email me anything, you officially suck.
+
+<h3>2024 update:  theskinnyonbenny.com no longer has any active email accounts.  It never did start getting messages.  Not even spam.</h3>

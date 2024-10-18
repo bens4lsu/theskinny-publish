@@ -1,7 +1,7 @@
 ---
 title: Driving to Montgomery
 date: 2005-11-21 17:53
-description: A description of my post.
+description: Wednesday and Thursday last week were a pain in the ass.
 tags: the-office,travel
 id: 158
 ---

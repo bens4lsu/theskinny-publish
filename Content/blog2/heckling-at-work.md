@@ -1,14 +1,13 @@
 ---
 title: Heckling at Work
 date: 2006-01-12 12:05
-description: A description of my post.
-tags: the-office
+description: Last week, I looked up from my desk as a new woman was being led through the office from area to area for the "first day new guy tour."  The proper etiquette, of course, is to nod politely and say, "Welcome aboard," as if we're all happy little shipmates.  For some reason, I was possessed to boo.  I didn't get too obnoxious with it.  It was just a medium-volume, low-pitched booooooooo, similar to what I would do when the opponents come out on court to warm up before a basketball game.
+tags: the-office, favorites
 id: 174
 ---
 Last week, I looked up from my desk as a new woman was being led through the office from area to area for the "first day new guy tour."  The proper etiquette, of course, is to nod politely and say, "Welcome aboard," as if we're all happy little shipmates.
 
 For some reason, I was possessed to boo.  I didn't get too obnoxious with it.  It was just a medium-volume, low-pitched booooooooo, similar to what I would do when the opponents come out on court to warm up before a basketball game.
-
 
 I didn't really think about doing this to the poor woman; it just came naturally.  I didn't realize that I was acting like an ass until I looked up from my keyboard and noticed others staring at me.
 
@@ -20,7 +19,7 @@ It was a little slow.  The lady was going through the motions of entering a loan
 
 She got to a field where she was supposed to select the type of decisioning that their system would run.  Since they were a new partner to us, our company's products weren't listed, so she picked one that would work for her demo.  Somewhere in the name she selected was the acronym for a little-known competitor of ours.
 
-The guy who was Chief Sales Officer at the time (a guy named Brett -- not <a href="http://www.theskinnyonbenny.com/blog/archives/00000131.php">Date Rape Dan</a>) was not one who would have normally been characterized as stable.  But he had been well behaved up to this point.  But, he lost his battle for appropriate behavior when the lady picked a competitor's product.
+The guy who was Chief Sales Officer at the time (a guy named Brett -- not <a href="http://www.theskinnyonbenny.com/blog2/archives/131">Date Rape Dan</a>) was not one who would have normally been characterized as stable.  But he had been well behaved up to this point.  But, he lost his battle for appropriate behavior when the lady picked a competitor's product.
 
 He put his fist over his mouth, lowered his voice a fake octave below normal, and let out a loud, bellowing "SSSUUUUUUKKKKKKSSSSS."
 

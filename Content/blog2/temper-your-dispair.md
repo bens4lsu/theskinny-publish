@@ -25,5 +25,6 @@ God Bless America.
 <h3>Update 1/23/2017:</h3>  
 <p>See?  Bill Cassidy, of all people, puts forth a plan that is arguably more Socialist than Obamacare.</p>  
 
-<h3>2023 update</h3>  
-<p>The 1/23/17 link is dead now, and even though the predictions above are pretty much correct, I'm cringing at my 2017 optimism.  There should have been soooo much despair!)</p>
+<h3>2023 update <br><br>
+
+The 1/23/17 link is dead now, and even though the predictions above are pretty much correct, I'm cringing at my 2017 optimism.  There should have been soooo much despair!)</h3>

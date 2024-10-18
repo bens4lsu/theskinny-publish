@@ -11,7 +11,7 @@ Gripe #1:
 
 These two DirectTV commercials, which attempt (poorly) to make fun of merging cable companies.  I'll post the first one.  I know there's at least one more, wherein the guy from all of those mockumentaries dumps boiled shrimp and ice all over the conference room table.
 
-(2023 update:  embedded video no longer exists, and I don't remember what this was to search up a replacement.)
+<h3>(2023 update:  embedded video no longer exists, and I don't remember what this was to search up a replacement.)</h3>
 
 It's not just that they've come up with a not-funny ad for these comedy stars to read.  It's not that YouTube makes me watch a commercial so that I can get to the commercial that I'm trying to watch.  It's that they piss on the whole premise of this spot by ending with, "Now part of the AT&T family."
 

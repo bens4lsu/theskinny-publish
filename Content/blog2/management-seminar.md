@@ -1,7 +1,7 @@
 ---
 title: Management Seminar
 date: 2005-12-08 06:55
-description: A description of my post.
+description: Any time I start dreaming about work, I know that it's time for a vacation.  I suppose I should be worried when updating content for this site becomes a subject of one of my dreams.  Actually, one recent dream included both.
 tags: the-office
 id: 165
 ---

@@ -21,4 +21,4 @@ And how about <a href="http://www.alltooflat.com/serious/adventures/rps/" target
 
 I need another hobby like I need a hole in the head, so no, I'm not going to start studying up.  But I would encourage any of you to look into this when you have some spare time.  Maybe you can pinch hit for me, next time I face an RPS challenge.
 
-<div class="caption">2023 update:  links to dead pages removed ☹️</div>
+<h3>2023 update:  links to dead pages removed ☹️</h3>

@@ -38,6 +38,6 @@ They made a second approach, and the passenger transfer was successful.
 
 <strike>See also, Tyler's account of this adventure</strike><br/>
 
-<span class="caption">2023 update:  link to Tyler's 2005 myspace is, unsurprisingly, no longer live.</span>
+<h3>2023 update:  link to Tyler's 2005 myspace is, unsurprisingly, no longer live.</h3>
 
 We started a slow sail back, pausing only to retch a stomach full of semi-digested food and sea water back into the blue for Neptune.
