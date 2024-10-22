@@ -4,6 +4,7 @@ date: 2018-10-10 09:32
 description: Recap and pictures from the Kidder & Schultz third annual Oktoberfest.
 tags: my-stories
 id: 2201
+ogImg: oktoberfest2018_1.jpg
 ---
 This Saturday, the accounting firm of Mrs. theskinnyonbenny, LLC held their third annual Oktoberfest charity fundraiser.  It was a fun filled night with a really good turnout, and it just promises to get bigger and better from here.
 

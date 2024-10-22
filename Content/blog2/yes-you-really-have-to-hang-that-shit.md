@@ -4,6 +4,7 @@ date: 2016-12-09 15:21
 description: I hate to break it to you, but you have to keep hanging that shit forever.  Look at all the shitty Christmas decorations I put on the tree this year.
 tags: young-ruski
 id: 2066
+ogImg: ornament1.JPG
 ---
 <b>Dear theskinnyonbenny.  How long to I have to keep hanging up crappy ornaments that my kids made in preschool?</b>
 

@@ -4,6 +4,7 @@ date: 2017-01-23 14:17
 description: Someone pulled off a good one on the whole skinnyonbenny family, and we don't even know who did it.
 tags: young-ruski
 id: 2093
+ogImg: mysterytext.jpg
 ---
 A couple of weeks ago, Mrs. theskinnyonbenny and I both got this text message.
 

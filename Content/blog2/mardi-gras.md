@@ -4,6 +4,7 @@ date: 2015-02-24 21:21
 description: My out of state friends might be lead to believe that Mardi Gras is a long weekend in February.  In fact, it goes on and on forever.  Technically, Carnival starts on Kings Day (January 6) every year, and runs to a date that is chosen with some relation to Easter, which we all know comes from a ritual that the Pope does featuring chicken blood and full moons.  I went to public school, so that's about all I know on how Easter gets scheduled.
 tags: mardi-gras, new-orleans
 id: 1952
+ogImg: resIMG_20150212_181544_4101.JPG
 ---
 [Pics in this post are clickable for bigger versions.]
 

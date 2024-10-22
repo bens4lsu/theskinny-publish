@@ -4,6 +4,7 @@ date: 2023-05-10 10:42
 description: I have some great ideas for TV shows that they should make.
 tags: pop-culture,things-i-just-dreamed-up
 id: 2321
+ogImg: tarapool1.jpg
 ---
 Last night, we watched <i>My Cousin Vinnie</i>.  Probably the first time I've seen it since the 90s, and it turns out that the reason it was so popular is that it's good.  It's still good.  I didn't remember much other than the main plot outline, and it had me laughing.
 

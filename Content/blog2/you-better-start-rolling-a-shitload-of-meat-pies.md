@@ -4,6 +4,7 @@ date: 2020-03-02 18:00
 description: My sweet son V likes nothing more than shopping for trucks. He apparently took his inquiry a little further this week, and entered his contact information into a form. As soon as he started getting messages from the dealer, he got a little nervous.
 tags: young-ruski
 id: 2263
+ogImg: vanyamessage1.jpg
 ---
 My sweet son V likes nothing more than shopping for trucks.  He apparently took his inquiry a little further this week, and entered his contact information into a form.  As soon as he started getting messages from the dealer, he got a little nervous.  
 

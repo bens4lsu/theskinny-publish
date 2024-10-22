@@ -19,7 +19,7 @@ It was one of those songs that both Mrs. theskinnyonbenny and I bought independe
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/CmQy6qgV2cM" frameborder="0" allowfullscreen></iframe>
 
-(2023 update:  the linked video is no longer online, and I have no idea what it was.)
+<h3>(2023 update:  the linked video is no longer online, and I have no idea what it was.)</h3>
 
 I'm ready for a full blown cover, in the style of a self-important piano bar singer in a swanky hotel lobby.  Can someone do that for me?
 
@@ -33,7 +33,7 @@ Let's go ahead and embed that one too.
 
 <iframe width="840" height="630" src="https://www.youtube.com/embed/rX0cSaaLcXo" title="Three&#39;s Company Season Four theme song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-(2023 update:  I'm tickled pink that this is still online.)
+<h3>(2023 update:  I'm tickled pink that this is still online.)</h3>
 
 Unrelated, except that it was also a drive-time musing:
 

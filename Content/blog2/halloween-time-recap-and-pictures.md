@@ -4,6 +4,7 @@ date: 2016-11-07 12:55
 description: It's been like a year and a half since I got photos posted to this web site in any sort of manner that is timely enough to share.  Until now.  We kicked off spooky weekend number one with a visit to a "haunted corn maze" out in the middle of nowhere.  It ended up being a really big corn maze that I suspect looked very little like its map picture:
 tags: my-stories,young-ruski
 id: 2055
+ogImg: /img/gal/138%20-%20Halloween%202016/resIMG_20161031_084752_6438.JPG
 ---
 It's been like a year and a half since I got photos posted to this web site in any sort of manner that is timely enough to share.  
 

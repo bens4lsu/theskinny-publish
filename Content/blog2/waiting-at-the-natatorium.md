@@ -4,6 +4,7 @@ date: 2020-01-23 19:02
 description: Taking your kids to practice sounds like fun before you have to do it.  Here's what I'm thinking about while I'm just sitting around waiting for practice to be over.
 tags: uncategorized
 id: 2239
+ogImg: waitingatswim.jpg
 ---
 The worst thing about waiting for the kids to finish swim practice is that it's so hard to do anything <i>but</i> wait.
 

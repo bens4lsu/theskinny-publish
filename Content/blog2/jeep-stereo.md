@@ -4,6 +4,7 @@ date: 2018-08-30 15:53
 description: Driving a Jeep is great, as long as you don't mind rain dripping on you while you're driving, the check engine light being permanently alight, and if you want a consistently working stereo.
 tags: my-stories
 id: 2194
+ogImg: IMG_4938.jpg
 ---
 I often get asked if I like driving a Jeep Wrangler,and my stock reply is, "It's great, as long as you don't mind getting rained on while you drive." I'm on my 3rd Jeep, and given enough time, there's going to be a bit of water finding its way past the roof on a rainy day.
 

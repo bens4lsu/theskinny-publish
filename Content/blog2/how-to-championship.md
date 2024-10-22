@@ -4,6 +4,7 @@ date: 2020-01-16 17:48
 description: Every time that one of my teams plays for a championship -- an experience that I may or may not ever have again -- I get better at how to do it.  Here are my championship stories and how I get better at it every year.
 tags: my-stories
 id: 2235
+ogImg: championship-night-early.jpg
 ---
 I think I've got it figured out, y'all.  
 

@@ -4,6 +4,7 @@ date: 2015-06-09 21:00
 description: After being mostly away the past two weeks, our kids started camps this week.  Vanya is doing dance, arts, and music at a camp that he seems to be enjoying quite a bit.  Kolya is going to one that seems pretty similar to preschool.  Let's face it, though.  Preschool is a day-long session of dicking around in fun ways that also happen to be educational for little kids.  Drawing, Play-doh, songs.  It's a pretty good day compared to yours and mine.
 tags: young-ruski
 id: 1978
+ogImg: IMG_20150531_163558_1609.JPG
 ---
 This is the third week since schools let out in Baton Rouge, and the city is firmly situated into the rhythms of Summer.  Traffic is better, people are out until late, and packs of camp kids broadcast noises from unexpected city blocks.
 

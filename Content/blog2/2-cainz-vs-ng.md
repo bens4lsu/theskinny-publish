@@ -14,5 +14,4 @@ I know 2 Chainz music, but I've never heard an interview with him.  He's a pot d
 If you stick it out for seven minutes, she concedes that he's pretty much right and then changes the subject.
 <iframe width="653" height="367" src="https://www.youtube.com/embed/cKGKTkTJQ68" title="2 Chainz to Nancy Grace: States should legalize pot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h2>2023 update</h2>
-This isn't the original clip.  It went offline, and I'm afraid we lost a lot of the original crazy.
+<h3>(2023 update:  This isn't the original clip.  It went offline, and I'm afraid we lost a lot of the original crazy.)</h3>

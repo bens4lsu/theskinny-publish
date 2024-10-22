@@ -2,8 +2,9 @@
 title: School Drive
 date: 2017-08-10 09:58
 description: I wonder whose job it is to come up with new neighborhood street names.  I'm thinking that this might be the job for me.  Here's how I get to that idea.
-tags: uncategorized
+tags: young-ruski
 id: 2143
+ogImg: v_firstdayschool.jpg
 ---
 It's the first full week of August, and school is back underway.  V is a big middle schooler, which to him means the freedom to mill about aimlessly before classes start in the morning, severely limited recess, and authority to use the sandwich press in the cafeteria at lunchtime.  Two positives to one negative -- not bad.
 

@@ -4,6 +4,7 @@ date: 2016-01-08 15:54
 description: I'm going to write a whole post dumping on Clemson football, and then tell you in a single sentence that I want them to win the national championship.
 tags: sports, football
 id: 2004
+ogImg: clemsonmascot.jpg
 ---
 Just as the ACC is sort of a low-rent version of the SEC, Clemson is the obvious low-rent equivalent to LSU.
 

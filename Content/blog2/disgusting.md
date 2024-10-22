@@ -4,6 +4,7 @@ date: 2023-05-04 09:47
 description: Your author discovers his disgust index and has some thoughts on the matter.
 tags: my-stories
 id: 2318
+ogImg: disgusttest.jpg
 ---
 I think that I've been a hater of internet polls from the dawn of internet polls, and certainly since the dawn of internet polls that encourage one to share their results to Facebook.
 

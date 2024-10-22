@@ -4,6 +4,7 @@ date: 2017-01-18 10:54
 description: The Louisiana Marathon &mdash; or as it's officially known in my skull, the Louisiana Marathon of Mimosa Consumption &mdash; was Sunday.  I got up early and hauled a small tailgate party's worth of chairs, tables, and music out into the driveway so that I could collapse exhaustedly into my chair and nurse my breakfast alcohol as healthy people who had already run 23 miles (23!) that morning passed.
 tags: my-stories
 id: 2084
+ogImg: vmarathon.jpg
 ---
 The Louisiana Marathon &mdash; or as it's officially known in my skull, the Louisiana Marathon of Mimosa Consumption &mdash; was Sunday.  I got up early and hauled a small tailgate party's worth of chairs, tables, and music out into the driveway so that I could collapse exhaustedly into my chair and nurse my breakfast alcohol as healthy people who had already run 23 miles (23!) that morning passed.
 

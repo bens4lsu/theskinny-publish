@@ -2,8 +2,9 @@
 title: About This Cat
 date: 2020-08-02 09:26
 description: We went on a Covid-summer road trip that took us the whole Summer.  The cat took an entirely different Summer vacation in the Ozarks.
-tags: animals,travel
+tags: animals,travel,favorites
 id: 2274
+ogImg: IMG_6403.jpeg
 ---
 More than ever, we wanted a Summer-long trip again this year.
 

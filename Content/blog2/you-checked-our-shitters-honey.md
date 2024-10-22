@@ -4,6 +4,7 @@ date: 2014-12-08 18:31
 description: The Saturday after Thanksgiving, we went to get our Christmas tree. The specific criteria we had made it hard to find a place to go:
 tags: my-stories, christmas
 id: 1911
+ogImg: tree2014.jpg
 ---
 The Saturday after Thanksgiving, we went to get our Christmas tree.  The specific criteria we had made it hard to find a place to go.
 

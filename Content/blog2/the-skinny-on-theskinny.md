@@ -4,6 +4,7 @@ date: 2015-05-20 13:26
 description: This year, I moved the site to a new web host for the first time.  Since theskinny was the very, very first thing I ever did on the internet, it's chok-a-block full of pages that were developed really, really wrong.  That means that pretty much every page, feed, menu, and link broke when I moved domains.
 tags: meta
 id: 1964
+ogImg: sunsetswing.jpg
 ---
 A year ago January, a momentous milestone passed without notice.  The 10th anniversary of theskinnyonbenny.com.
 

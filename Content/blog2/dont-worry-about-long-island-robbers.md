@@ -4,6 +4,7 @@ date: 2023-05-26 08:35
 description:  We were at Great Exuma that Summer just before Fourth of July weekend.  Our generator had long since shit the bed.  Goodbye, sweet air conditioning.  Goodbye working outlets from which we can charge the devices that we need in order to pay the bills.  And goodbye to the most efficient way to keep the boat's batteries topped off.
 tags: sailing, velvet-elvis-beneteau
 id: 2332
+ogImg: /img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg
 ---
 
 There was a terrible news article this week about a tourist couple, sleeping in a rental house somewhere on Great Exuma (I'm assuming Georgetown), who were woken by masked gunmen, driven to an ATM, and made to withdraw and turn over some cash.  Fortunately, they weren't hurt.
@@ -16,7 +17,7 @@ Let's go back.
 
 We were at Great Exuma that Summer just before Fourth of July weekend.  Our generator had long since shit the bed.  Goodbye, sweet air conditioning.  Goodbye working outlets from which we can charge the devices that we need in order to pay the bills.  And goodbye to the most efficient way to keep the boat's batteries topped off.
 
-<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg" data-lightview-caption="Ghost marina" data-lightview-group="group1" style="width:350px;"><img src="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg" alt="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg"><br><span class="caption">Ghost marina</span></a>
+<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg" data-lightview-caption="Ghost marina" data-lightview-group="group1" style="width:350px;"><img src="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg" alt="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210701_163732_IMG_2194.jpg"><br><span class="caption">Ghost marina</span></a>
 
 Our only alternate power source was the boat's main engine.  Not ideal, but it kept the batteries up so that we could get around, navigate, and generally function.
 
@@ -36,7 +37,7 @@ It turned out that the marina was a ghost town.
 
 We poked around a bit, and walked up the road a little to see if there was a resort in shouting distance.  But there wasn't, and eventually, we piled back into Velvet Elvis and sailed over the shallowest sand we could possibly have floated above.  Another hour or two south brought us to a nearly empty ancchorage, with enough depth and plenty of room to swing on the anchor.  
 
-<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg" alt="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg"><br><span class="caption"></span></a>
+<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg" alt="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_113806_S0512075_JPG.jpg"><br><span class="caption"></span></a>
 
 Long Island is this long, skinny island with a single primary road that runs from one end to the other.  I think it's a tad under 100 miles long, and all of the places to eat and things to see and do are spread up and down the entire length.  So renting a car is a necessity.
 
@@ -54,7 +55,7 @@ Mrs. theskinnyonbenny told the host about our predicament and offered a fee for 
 
 But then as we were leaving, his wife came out, and made the PayPal cash advance happen.  I think that she even declined to take a big fee on it (which was nice, because I bet our bar tab was more than our college era monthly rent). 
 
-<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg" data-lightview-caption="Hanging out at Tiny's" data-lightview-group="group1" style="width:350px;"><img src="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg" alt="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg"><br><span class="caption">Hanging out at Tiny's</span></a>
+<a class="lightview alignright" href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg" data-lightview-caption="Hanging out at Tiny's" data-lightview-group="group1" style="width:350px;"><img src="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg" alt="/img/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/resIMG_20210702_191642_IMG_2215.jpg"><br><span class="caption">Hanging out at Tiny's</span></a>
 
 And that, my friends, is why you won't be robbed by gunmen in Long Island who want you to take money out of the ATM and hand it over to them.
 
@@ -70,4 +71,4 @@ When we returned, it was dark, and Mrs. theskinnyonbenny tripped over that out-o
 
 Happier tales of Long Island next week!
 
-PS, I wrote about other bits of our star-crossed summer <a href="https://theskinnyonbenny.com/blog2/archives/2289">here</a> and <a href="https://theskinnyonbenny.com/blog2/archives/2284">here</a>, but there is actually a lot more to tell.  I'll get to it eventually.  More photos from Long Island are <a href="https://theskinnyonbenny.com/pg4.php?spgmGal=169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards">here</a>.
+PS, I wrote about other bits of our star-crossed summer <a href="/blog2/archives/2289">here</a> and <a href="/blog2/archives/2284">here</a>, but there is actually a lot more to tell.  I'll get to it eventually.  More photos from Long Island are <a href="/gal/169%20-%20Summer%202021%20Pt%203%20-%20Long%20Island%20and%20Lizards/">here</a>.

@@ -4,6 +4,7 @@ date: 2019-01-03 09:31
 description: Ko just turned 8.  He thinks he can drive.
 tags: young-ruski
 id: 2210
+ogImg: kolyasafety.jpg
 ---
 Last time we went to the farm, I took the Jeep out into the pasture and then turned the driving over to the kids.  They cruised up and down, and to be honest, they drive a lot better than I did at either of their ages.
 
@@ -25,5 +26,4 @@ Here's one more of him that I forgot to throw in with my photo set from <a href=
 
 <a class="lightview centered" href="/img/kolyasafety.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/kolyasafety.jpg" alt="/img/kolyasafety.jpg" width="400px"><br><span class="caption"></span></a>
 
-
-And while we're talking photos, I just created the daily photo page for 2019.  Part of me wonders why I still spend the time.  I get so much more interaction through social media, and that's all faster and easier.  But here, I have a little more permanence.  No question about which platform I posted what.  Nothing lost when my myspace password was hacked.  And, there's still a surprising amount of traffic (meaning that the number of hits each month is a positive integer).  So check out <a href="http://theskinnyonbenny.com/dailyphoto/2019/page.php?year=2019&month=01&day=03">2019</a>, and maybe take a look at <a href="http://theskinnyonbenny.com/dailyphoto/2018/page.php?year=2018&month=1&day=2">2018</a> or <a href="http://theskinnyonbenny.com/blog2/">some other things that I wrote this year</a>, if you haven't visited in a while.
+And while we're talking photos, I just created the daily photo page for 2019.  Part of me wonders why I still spend the time.  I get so much more interaction through social media, and that's all faster and easier.  But here, I have a little more permanence.  No question about which platform I posted what.  Nothing lost when my myspace password was hacked.  And, there's still a surprising amount of traffic (meaning that the number of hits each month is a positive integer).  So check out <a href="/dailyphoto/2019/page.php?year=2019&month=01&day=03">2019</a>, and maybe take a look at <a href="/dailyphoto/2018/page.php?year=2018&month=1&day=2">2018</a> or <a href="/blog2/">some other things that I wrote this year</a>, if you haven't visited in a while.

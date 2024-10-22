@@ -9,7 +9,7 @@ My sister recently left a job where she worked for a real nut. Their business wa
 
 Below is the text from an email that boss man sent the advertising agency describing a commercial he wanted to make. All wording and grammer are exactly as he sent them, with the excitation that I've replaced the brand name with blanks.
 
-<div style="margin-left:2.5em;">
+<blockquote>
 Seen 1<br /><br />
 Picture<br /><br />
 You MUST BE OVER 18 TO SEE THIS VIDEO<br /><br />
@@ -42,5 +42,4 @@ Picture: show a person outside and a bird dropping shit on a person hand.<br /><
 Picture: wipe bird crap with a dry rag.<br /><br />
 Speech: would you wipe bird crap with a dry rag or would you use water? Then why are you using just toilet paper? <br /><br />
 speech: Our wipes are all natural biodegradable wipes with Aloe. To make your your skin cool, clean and comfortable, also good for your septic and the environment. Please like and share.<br /><br />
-
-</div>
+</blockquote>

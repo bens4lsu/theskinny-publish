@@ -4,6 +4,7 @@ date: 2020-01-09 09:07
 description: A few guilty paragraphs about not posting more, a funny text message, and a video from New Year's that made us laugh.
 tags: my-stories
 id: 2228
+ogImg: spurriertext.jpg
 ---
 Happy New Year, Internet.
 

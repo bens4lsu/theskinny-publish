@@ -4,6 +4,7 @@ date: 2017-07-25 16:51
 description: AFor the first time in many years, we went on Summer vacation without taking the helm of a sailboat.  Instead, I took the helm of the motor van San Clemente< for a tour of the Pacific Northwest.  We started out north of Seattle, ferried through the San Juan Islands of Washington, crossed over the Vancouver island in Canada.  From there, we crossed British Columbia and visited several Canadian National Parks in their Rocky Mountain range.  Finally, we circled back into Washington for a few days before heading home.
 tags: travel
 id: 2126
+ogImg: /img/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg
 ---
 For the first time in many years, we went on Summer vacation without taking the helm of a sailboat.  Instead, I took the helm of the motor van <i>San Clemente</i> for a tour of the Pacific Northwest.  We started out north of Seattle, ferried through the San Juan Islands of Washington, crossed over the Vancouver island in Canada.  From there, we crossed British Columbia and visited several Canadian National Parks in their Rocky Mountain range.  Finally, we circled back into Washington for a few days before heading home.
 
@@ -13,7 +14,17 @@ Several times, I've said that you could pick the ugliest two mile square of Brit
 
 Flipping through the photo galleries is going to be the best place to follow our journey.  Click any little pic to see more.
 
-<table border="0" cellpadding="2em" cellspacing="0" width="100%" height="1"><tbody><tr><td width="50%" height="113"><a href="/gal/145");"><img border="0" src="/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg" height="109" name="i145PacificNorthwestPt1"></a></td><td width="50%" height="113"><a href="/gal/144");"><img border="0" src="/gal/144%20-%20Pacific%20Northwest%20Pt.%202/data/normal.jpg" height="109" name="i144PacificNorthwestPt2"></a></td></tr><tr><td width="50%" height="38" class="caption">Pacific Northwest Pt. 1</td><td width="50%" height="38" class="caption">Pacific Northwest Pt. 2</td></tr><tr><td width="50%" height="113"><a href="/gal/143");"><img border="0" src="/gal/143%20-%20Pacific%20Northwest%20Pt.%203/data/normal.jpg" height="109" name="i143PacificNorthwestPt3"></a></td><td width="50%" height="113">&nbsp;</td></tr></table>
+<div style = "max-width: 400px;>
+<a class="lightview centered" href="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg" data-lightview-caption="Pacific Northwest pt 1" data-lightview-group="group1"><img src="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg" alt="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg"><br><span class="caption">Pacific Northwest Pt. 1</span></a>
+</div>
+
+<div style = "max-width: 400px;>
+<a class="lightview centered" href="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%202/data/normal.jpg" data-lightview-caption="Pacific Northwest Pt. 2" data-lightview-group="group1"><img src="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%202/data/normal.jpg" alt="/img/gal/145%20-%20Pacific%20Northwest%20Pt.%202/data/normal.jpg"><br><span class="caption">Pacific Northwest Pt. 2</span></a>
+</div>
+
+<div style = "max-width: 400px;>
+<a class="lightview centered" href="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/data/normal.jpg" data-lightview-caption="Pacific Northwest Pt. 3" data-lightview-group="group1"><img src="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/data/normal.jpg" alt="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/data/normal.jpg"><br><span class="caption">Pacific Northwest Pt. 3</span></a>
+</div>
 
 On our last night camping, we passed a woman who had locked herself out of her vehicle.  She waved us down to use a phone, but she couldn't catch her friend.  We wished her well and went to set up our campsite. 
 
@@ -25,7 +36,7 @@ Sure enough, a skinny black bear was crossing the road about 50 yards in front o
 
 She looked right up at us, but then moved across the road with little apparent interest.  I decided to brave a picture.  I fumbled with the camera forever, but finally clicked off a pic.  It should have been natural.  I had taken right at 1000 pictures with that camera so far on the trip.  But I apparently was so freaked out of my head that I couldn't work it.  Here's the shot I got.
 
-<a class="lightview centered" href="/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG" alt="/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG"  ><br><span class="caption centered"></span></a>
+<a class="lightview centered" href="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG" alt="/img/gal/143%20-%20Pacific%20Northwest%20Pt.%203/resIMG_20170717_214404_8791.JPG"  ><br><span class="caption centered"></span></a>
 
 Once we got out of bear eyesight, we nosily made our way back to camp, undid the van, and drove the phone to the woman.
 

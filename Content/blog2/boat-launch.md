@@ -2,7 +2,7 @@
 title: Boat Launch
 date: 2009-10-13 16:56
 description: A description of my post.
-tags: my-stories
+tags: my-stories, favorites
 id: 642
 ---
 "She has two speeds:  slow, and stopped."

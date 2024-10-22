@@ -4,6 +4,7 @@ date: 2023-06-22 07:18
 description: Yes, LSU holds the record for the Rocco's Jello Shot challenge, but the record is tainted.  I'm not happy about what I consider to be foul play.
 tags: sports, currentevents
 id: 2335
+ogImg: roccos-board.jpg
 ---
 
 LSU has blown away the record with the Rocco's Jello Shot Challenge, but I'm here to make the case that the record is tainted.

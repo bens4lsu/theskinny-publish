@@ -25,6 +25,6 @@ Jesus H. Christ, it's a terrible song!
 
 So to recap, parents in the 80s were okay with the rape song being on the radio all the time, but not the black kids on cassette tapes chanting "Hey, we want some pussy," a vulgarly worded, but entirely normal sentiment for young men.
 
-Now that I've peaked your interests, I present what I promise is the only playlist to ever feature these three songs together:
+Now that I've piqued your interests, I present what I promise is the only playlist to ever feature these three songs together:
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Abens4lsu%3Aplaylist%3A33FFFjxVaGGAJfahxDgt9Q" width="300" height="380" frameborder="0" allowtransparency="true" style="display:block;margin-left:auto;margin-right:auto;margin-top:2.5em;"></iframe>

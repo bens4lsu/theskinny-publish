@@ -4,6 +4,7 @@ date: 2018-01-16 09:14
 description: It's really cold, and earlier this winter, it even snowed in Baton Rouge!
 tags: young-ruski
 id: 2173
+ogImg: snowday2.jpg
 --- 
 School is closed today because it's really cold, getting colder, and there's a slight chance of winter precipitation later.
 

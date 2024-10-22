@@ -4,6 +4,7 @@ date: 2017-08-18 09:29
 description: I was helping V with a book report, and there's a giant picture of an old ship with six thousand little labels for every line and sail.  Boat geeks and readers of parent blogs alike with rejoice in this internet content. 
 tags: young-ruski
 id: 2147
+ogImg: WarshipNomenclature.jpg
 ---
 Bright people, when they struggle with something, will seek out tools and techniques that help them manage more easily.  V has a lot of trouble spelling, and so to help, he'll often use a dictation app to help him get from his thoughts -- which he can easily verbalize -- to the written form.
 
