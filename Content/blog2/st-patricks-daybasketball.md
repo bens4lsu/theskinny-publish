@@ -1,7 +1,7 @@
 ---
 title: St. Patrick's Day/Basketball
 date: 2006-03-17 08:43
-description: A description of my post.
+description: Every year, the NCAA basketball tournament, St. Patrick, and perfect Spring temperatures conspire to make this the best weekend of the year.  Either the basketball or the St. Patrick's day parade alone would make this a big deal for me, but the combination of the two make this bigger than Christmas, Thanksgiving, New Year's Day, or the highly overrated Fourth of July.  Heck, it might eclipse all of the fun in those days combined.
 tags: animals,sports, holidays, st-patricks-day
 id: 196
 ---

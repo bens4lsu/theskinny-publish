@@ -4,7 +4,7 @@ date: 2006-04-10 06:45
 description: I noticed a trend in television this week that I doubt any others will point out.  In the course of one week, I have witnessed no less than three realistic-looking vomitings on scripted television shows.  I can't remember which show started the trend (Lost maybe?), but it was followed by last week's episode of Huff, and then capped by a multiple Tony Soprano puking last night.
 tags: animals,my-stories,pop-culture
 id: 202
-ogImg: /img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg
+ogImg: /img/gal/017%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg
 ---
 I have a little bit of news about things that happened over the weekend, but first, I have an entertainment note.
 
@@ -32,7 +32,7 @@ On Sunday, I did a little bit of cleanup in the yard, then went for a bike ride.
 
 When I got back from the ride, we had gotten a new kitten.  Our neighbor found a couple of strays somewhere.  He offered us one and kept the other.  Then, to top it off, we got a new puppy yesterday evening.  So, there are a lot of noisy, whiny animals around here this morning.
 
-<a class="lightview alignright" href="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" data-lightview-caption="The new dog, who has no name yet." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" alt="/img/gal/49%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg"><br><span class="caption">The new dog, who has no name yet.</span></a>
+<a class="lightview alignright" href="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" data-lightview-caption="The new dog, who has no name yet." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg" alt="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/data/normal.jpg"><br><span class="caption">The new dog, who has no name yet.</span></a>
 
 Last night after dinner, we were sitting in front of the TV (between puke scenes) with some strawberry short cake.  The puppy and kitten were becoming acquainted with each other on the couch with Mrs. theskinnyonbenny.  There was a distraction, and the puppy somehow ended up with a nose full of Cool Whip, some of which she transferred to the cat's eyebrow.
 

@@ -57,7 +57,8 @@ body {
     "main"
     "blog"
     "trip"
-    "dailyphoto";
+    "dailyphoto"
+    "after";
 }
 
 .div-home-main-mess {
@@ -74,6 +75,12 @@ body {
     background-color: #d0d28c;
     border: 1px solid black;
     border-radius: 12px;
+}
+
+.div-home-after {
+    grid-area: after;
+    margin-top: 50px;
+    border-top: 1px solid #6a6a6a;
 }
 
 .div-mirror {
@@ -781,7 +788,8 @@ img.greenline {
         "main main"
         "tweets blog"
         "tweets trip"
-        "shelly dailyphoto";
+        "shelly dailyphoto"
+        "after after";
     }
     
     .div-home-big-trip {

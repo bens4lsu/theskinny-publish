@@ -1,19 +1,20 @@
 ---
 title: On the Way to Las Vegas
 date: 2006-05-16 09:00
-description: A description of my post.
+description: I think I alluded to the fact that I would be in Las Vegas all of last week, so naturally, I have a story or two to share.  The week was scheduled where Sunday evening through mid-day Wednesday, I was there as a representative of a vendor hosting a conference.  There was some time for fun, but not a whole lot.  From mid-day Wednesday through the next weekend, I was there just for my own recreation.
 tags: the-office,travel
 id: 211
+ogImg: atairport.jpg
 ---
 I think I alluded to the fact that I would be in Las Vegas all of last week, so naturally, I have a story or two to share.  The week was scheduled where Sunday evening through mid-day Wednesday, I was there as a representative of a vendor hosting a conference.  There was some time for fun, but not a whole lot.  From mid-day Wednesday through the next weekend, I was there just for my own recreation.
 
-You will be as surprised as I was to find out that the stories worth telling were from the work trip.  With only the rare exception, my vacation days can be described succinctly:  gamble a little, eat a good meal, drink too much, sleep it off.  It's not that there weren't good stories from these days.  I'm sure there were.  It's just that I was relaxed and having fun rather than making mental notes about the amusing things happening around me.  The best way for me to tell that story is through <a onclick="window.open('/pg3.php?spgmGal=48%20-%20Las%20Vegas%20-%20May%202006','48LasVegasMay2006','width=625, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >this collection of photos</a>.
+You will be as surprised as I was to find out that the stories worth telling were from the work trip.  With only the rare exception, my vacation days can be described succinctly:  gamble a little, eat a good meal, drink too much, sleep it off.  It's not that there weren't good stories from these days.  I'm sure there were.  It's just that I was relaxed and having fun rather than making mental notes about the amusing things happening around me.  The best way for me to tell that story is through <a href="http://localhost:8000/gal/018%20-%20Las%20Vegas%20-%20May%202006/" target="_blank" >this collection of photos</a>.
 
 Stories of this trip will probably drag out a little bit.  I would prefer to put up one mile-long post, but I'm super busy this week, so I'll just post what I can as I can.  I might even mix in other posts before I finish all of the Vegas stories.  
 
 The flight from Baton Rouge to Las Vegas connected through Dallas, and was populated by roughly 15 of my coworkers.  Someone, of course, made the obligatory comment about the state of the company should the plane go down, and I pointed out that the group of us didn't really do all that much work anyway, and that perhaps the company would be a little better off.  I didn't get much of a laugh at that.  The truth hurts.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/atairport.jpg"/></td></tr><tr><td class="caption" width="250">This wasn't everyone on the flight, but a good contingency of the Equifax people getting ready to board the plane.</td></tr></table>
+<a class="lightview alignright" href="/img/atairport.jpg" data-lightview-caption="This wasn't everyone on the flight, but a good contingency of the Equifax people getting ready to board the plane." data-lightview-group="group1" style="width:350px;"><img src="/img/atairport.jpg" alt="/img/atairport.jpg"><br><span class="caption">This wasn't everyone on the flight, but a good contingency of the Equifax people getting ready to board the plane.</span></a>
 
 The plane from Baton Rouge to Dallas was one of those tiny little tubes, much smaller than a bus.  I had the first row -- with bulkhead legroom, and the only empty seat on the flight right next to me.  As I was settling in to zone out with a magazine, Steve Uffman -- the Kingpin Honcho of our division -- walked in at the last minute, paused at my row, and said, "I got your email, let's talk about that when we get a chance."
 
@@ -35,7 +36,7 @@ After about three rounds of this cheer, she realized that she was doomed to perf
 
 Steve had the class to ignore the commotion altogether.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/limo.jpg"/></td></tr><tr><td class="caption" width="250">Getting ready to ride out to the hotel.</td></tr></table>
+<a class="lightview alignright" href="/img/limo.jpg" data-lightview-caption="Getting ready to ride out to the hotel." data-lightview-group="group1" style="width:350px;"><img src="/img/limo.jpg" alt="/img/limo.jpg"><br><span class="caption">Getting ready to ride out to the hotel.</span></a>
 
 I had a chance to get back into my game on the way from Dallas to Vegas, as Steve was seated directly across from me, and I had a chance to answer his questions.  Once we arrived, I saw him go to one of the limo for hire guys, and made sure to stick behind him, so I could save myself the expense of a cab ride to the MGM.
 

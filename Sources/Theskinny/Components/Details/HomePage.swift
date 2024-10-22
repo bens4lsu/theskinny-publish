@@ -21,12 +21,12 @@ struct HomePage: Component {
         Article {
             Div {
                 HomeMainMessage(context)
-                HomeMastodon()
                 HomeBluesky()
                 HomeBlogPost(context.allBlogPosts!)
                 HomeBigTrip(tripPosts: context.bigtripAll)
                 HomeDailyPhoto()
                 HomeShelly()
+                HomeAfterThought(context)
             }.class("div-home-wrapper-inner")
         }
     }

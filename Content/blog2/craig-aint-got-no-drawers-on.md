@@ -1,8 +1,8 @@
 ---
 title: Craig Ain't Got No Drawers On
 date: 2006-05-01 07:25
-description: A description of my post.
-tags: the-office,travel
+description: The best office/work related party that I've ever been to -- and one of the 10-15 best parties of any kind that I've been to -- was an APPRO Users' Conference party at the House of Blues in New Orleans.  This was probably somewhere around 6-8 years ago, but I think anyone who was there will confirm that it was a mighty powerful throwdown.
+tags: the-office,travel, new-orleans, las-vegas
 id: 209
 ---
 The best office/work related party that I've ever been to -- and one of the 10-15 best parties of any kind that I've been to -- was an APPRO Users' Conference party at the House of Blues in New Orleans.  This was probably somewhere around 6-8 years ago, but I think anyone who was there will confirm that it was a mighty powerful throwdown.
@@ -13,8 +13,7 @@ Before someone throws this into the comments, I'll confess that I showed my wien
 
 I can only think of one other thing that I did which was bad enough that people remembered the next day.  It was a good number of years ago too, so I won't mention it, in hopes that it's forgotten by now.
 
-Anyway, the House of Blues thing featured copious amounts of alcohol.  At the time, it was the most alcohol ever consumed at a private party at the House of Blues in New Orleans.  Also, <a href="http://www.marvawright.com/
-" target="_blank">Marva Wright</a>, who was great.
+Anyway, the House of Blues thing featured copious amounts of alcohol.  At the time, it was the most alcohol ever consumed at a private party at the House of Blues in New Orleans.  Also, <a href="http://www.marvawright.com/" target="_blank">Marva Wright</a>, who was great.
 
 The highlight of her performance was when she decided to pick on Craig, who was the president of the company.  Craig was an uptight guy in those days (and perhaps he still is).  He was uptight at work, and seemed to get even more stressed in crowds of heavily-drinking employees and customers.  He usually made himself scarce pretty early in the party.
 
