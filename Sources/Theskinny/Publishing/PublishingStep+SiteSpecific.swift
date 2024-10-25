@@ -150,10 +150,10 @@ extension PublishingStep where Site == Theskinny {
             context.addPage(page)
             
             //script file for image on home page
-            let scriptI = DailyPhotoData.scriptImage
-            let scriptIFileName = "./scripts/dailyphotoimgage.js"
-            let file = try context.createOutputFile(at: Path(scriptIFileName))
-            try file.write(scriptI)
+//            let scriptI = DailyPhotoData.scriptImage
+//            let scriptIFileName = "./scripts/dailyphotoimgage.js"
+//            let file = try context.createOutputFile(at: Path(scriptIFileName))
+//            try file.write(scriptI)
             
             for year in DailyPhotoData.years {
                 

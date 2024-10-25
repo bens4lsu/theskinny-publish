@@ -28,7 +28,7 @@ extension TsobHTMLFactory {
                                    //"/scripts/mastodon-timeline.js",
                                    "/scripts/bluesky-timeline.js",
                                    "/scripts/menu.js?v=\(EnvironmentKey.styleAndScriptVersion)",
-                                   "./scripts/dailyphotoimgage.js"
+                                   // - now this is written directly into index.html  "./scripts/dailyphotoimgage.js"
         ]
         
         

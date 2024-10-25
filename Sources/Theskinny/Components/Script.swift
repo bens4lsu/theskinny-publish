@@ -12,18 +12,22 @@ import Publish
 
 public struct Script: Component {
     
-    public var body: Component { node }
-    private var node: Node<HTML.ScriptContext>
-        
-        
-    public init(_ string: String) {
+    private var string: String
+    
+    public var body: Component {
         let node: Node<HTML.ScriptContext> = .script(.text(string))
-        self.init(node: node)
+        return node
     }
     
-    private init(node: Node<HTML.ScriptContext>) {
-        self.node = node
+    public var headerNode: Node<HTML.HeadContext> {
+        let node = Node.raw(string) as Node<HTML.HeadContext>
+        return .element(named: "script", nodes: [node])
     }
+        
+    public init(_ string: String) {
+        self.string = string
+    }
+
 }
 
 extension HTML.ScriptContext: @retroactive HTMLScriptableContext { }

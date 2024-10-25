@@ -220,10 +220,7 @@ struct DailyPhotoData {
                     var today = dpPath();
                     var latest = \"\(lastDayString)\";
 
-                    var winner = today < latest ? today : latest;
-                    var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
-                    
-                    var dailyphotoImg = "/dailyphotostore" + pathPart + ".jpg";
+                    var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
                     $('#homeDPImage').attr('src', dailyphotoImg);
             });
             
