@@ -1,7 +1,7 @@
 ---
 title: Too Much Masturbation
 date: 2006-06-07 14:02
-description: A description of my post.
+description: On the Wednesday the week of my Las Vegas trip, I checked out of the MGM (work trip) and into Caesar's (my trip).  I had just gotten up to my room in the newest tower at Caesar's when my cell phone rang.  It was Sharples.  "Hey, what are you doing?"
 tags: my-stories
 id: 218
 ---

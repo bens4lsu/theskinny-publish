@@ -1,8 +1,8 @@
 ---
 title: Entourage 
 date: 2006-07-14 10:27
-description: A description of my post.
-tags: pop-culture
+description: There's an announcement today that the final eight episodes of The Sopranos on HBO are postponed until March.  We Sopranos fans are a patient group.  With the end of that series, Entourage and Curb Your Enthusiasm become the only two series for which I would be willing to subscribe.  (I like Big Love too, but wouldn't pay extra just to see it.)  But it would be difficult to justify the monthly charge just on the strength of a couple of half-hour comedies.
+tags: pop-culture, tv
 id: 227
 ---
 There's an announcement today that the final eight episodes of The Sopranos on HBO are postponed until March.  We Sopranos fans are a patient group.

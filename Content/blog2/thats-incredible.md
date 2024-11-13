@@ -1,8 +1,8 @@
 ---
 title: That's Incredible
 date: 2006-06-15 06:24
-description: A description of my post.
-tags: sports
+description: I really wish someone would run a weekend marathon of old That's Incredible episodes from the 1970s.  I bet that show is so over-the-top bad, that the producers are embarrassed to have been associated with it.  But when I was in elementary school, everyone watched it every single week.  (I wonder what it's competition was.  Sure, there were just three channels, but still....)
+tags: sports, tv, pop-culture
 id: 220
 ---
 I really wish someone would run a weekend marathon of old <i>That's Incredible</i> episodes from the 1970s.  I bet that show is so over-the-top bad, that the producers are embarrassed to have been associated with it.

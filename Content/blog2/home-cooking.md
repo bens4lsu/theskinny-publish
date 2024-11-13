@@ -1,8 +1,8 @@
 ---
 title: Home Cooking
 date: 2006-07-11 15:09
-description: A description of my post.
-tags: my-youth
+description: Probably the funniest thing about my mom is how she pronounces "potato."  She changes every single sound of that first syllable, and comes up with a word pronounced roughly like "buh-TA-tuh."  This led to hundreds of conversations in my life that went something like this....  
+tags: my-youth, food
 id: 226
 ---
 Probably the funniest thing about my mom is how she pronounces "potato."  She changes every single sound of that first syllable, and comes up with a word pronounced roughly like "buh-TA-tuh."  This led to hundreds of conversations in my life that went something like this:

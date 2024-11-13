@@ -1,8 +1,8 @@
 ---
 title: Dull
 date: 2006-05-31 21:37
-description: A description of my post.
-tags: uncategorized
+description: Let's face it.  Unless you travel somewhere -- and somewhere doesn't include Baton Rouge -- summer is D - U - L - L, dull.  College baseball is over (at least for me it's over), and the NBA will be done pretty soon.  Let's not pretend that Major League Baseball is interesting.  (At least not the games.  The steroid controversies are a little interesting.)  I have yet to cut the sleeves off of a collared shirt, and therefore don't have that part of my brain that would also allow me to follow NASCAR.
+tags: uncategorized, sports
 id: 215
 ---
 Let's face it.  Unless you travel somewhere -- and somewhere doesn't include Baton Rouge -- summer is D - U - L - L, dull.

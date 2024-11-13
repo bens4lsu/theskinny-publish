@@ -1,7 +1,7 @@
 ---
 title: Gluttony
 date: 2006-06-23 12:43
-description: A description of my post.
+description: Last Friday evening, I dropped Mrs. theskinnyonbenny off at the airport.  A quick "be careful, love you, yada yada," and I peeled out of the airport loading lane, free for a day and a half to myself.
 tags: my-stories
 id: 223
 ---
@@ -25,11 +25,11 @@ Those who have seen me eat are saying to themselves, "Oh yeah.  Gross.  I've see
 
 After that, I shoved the remains of my meal back into the bag, wiped my hands and mouth on that T-shirt, and watched bad movies all night.
 
-<div><center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-<div><table cellpadding="2" align="center"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/kkcheeseburger.jpg"></td></tr></table></div>
+<a class="lightview centered" href="/img/kkcheeseburger.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/kkcheeseburger.jpg" alt="/img/kkcheeseburger.jpg"><br><span class="caption"></span></a>
 
-<div>While we're on the subject of gluttony, I saw this sandwich in <a href="http://www.usatoday.com/money/industries/food/2006-06-23-cheeseburger-usat_x.htm" target="_blank">today's USA today.</a>  It's a bacon cheeseburger, with the buns replaced by a sliced Krispy Kreme doughnut.  1000 calories, 45 grams of fat.  Lord have mercy, I would like to try one of those.</div></div>
+While we're on the subject of gluttony, I saw this sandwich in <a href="http://www.usatoday.com/money/industries/food/2006-06-23-cheeseburger-usat_x.htm" target="_blank">today's USA today.</a>  It's a bacon cheeseburger, with the buns replaced by a sliced Krispy Kreme doughnut.  1000 calories, 45 grams of fat.  Lord have mercy, I would like to try one of those.
 
 
 

@@ -1,9 +1,10 @@
 ---
 title: Fourth of July, New York
 date: 2006-07-06 21:01
-description: A description of my post.
-tags: travel,pop-culture
+description: Twice on the Fourth of July, I got called a big fatty.  The first time, I was handling my gut -- grabbing handfuls and jiggling it up and down while seated.  Putting this in writing makes me realize that it's odd behavior, but I'm sure it was to make some point or other.  Amanda asked, "Goodness, you aren't riding your bike any more?"
+tags: travel,pop-culture, new-york, music
 id: 225
+ogImg: madonnahorse.jpg
 ---
 Twice on the Fourth of July, I got called a big fatty.
 
@@ -15,12 +16,13 @@ The other time was even less expected.  I was coming from the front of the house
 
 He laughed and said, "Man!  You need to lose some damn weight!"  Apparently my gut was bouncing around like Santa Claus after a Krispy Kreme binge.  Honest friends:  at least I have that going for me.
 
-<EMBED  type="application/x-mplayer2" src="/sound/AverageMan.mp3" autostart="0" showcontrols="1"   height="50" border="1" align="right" /><noembed>You will just have to imagine the tune.  Your browser doesn&#8217;t support this plugin.</noembed>(I've linked to the tune <a href="/sound/AverageMan.mp3" target="_blank">here</a>, so you can enjoy it too.  The first 20 seconds or so kind of suck, so stick with it.  Promise it's good.)
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/average-man/1595575539?i=1595575778"></iframe>
 
+(I've linked to the tune <a href="https://music.apple.com/us/album/average-man/1595575539?i=1595575778" target="_blank">here</a>, so you can enjoy it too.  The first 20 seconds or so kind of suck, so stick with it.  Promise it's good.)
 
 But overall, the Fourth was a good day.  There was some worry about heavy rain in the morning getting in our way, but it cleared up just before 12:00, and stayed dry through the afternoon.  We cooked and drank all afternoon.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/bellman.jpg"></td></tr><tr><td class="caption" width="250">Mrs. theskinnyonbenny shows a concierge all about the Pegu, which he hadn't known about.</td></tr></table>
+<a class="lightview centered" href="/img/bellman.jpg" data-lightview-caption="Mrs. theskinnyonbenny shows a concierge all about the Pegu, which he hadn't known about." data-lightview-group="group1"><img src="/img/bellman.jpg" alt="/img/bellman.jpg"><br><span class="caption">Mrs. theskinnyonbenny shows a concierge all about the Pegu, which he hadn't known about.</span></a>
 
 Heather mixed drinks based on lessons that she learned while we were in New York last Wednesday through Saturday.  I mentioned the Pisco Sour, which was <a href="http://en.wikipedia.org/wiki/Pisco" target="_blank">Pisco</a>, lime juice, some other mixer that I can't remember, and an egg white, shaken and served on the rocks with a few drops of bitters.  It was very, very good.
 
@@ -28,7 +30,7 @@ Our New York cocktail tour started at <a href="http://www.peguclub.com/flash/" t
 
 The main reason for flying to New York was that we had tickets to Madonna last Thursday night.  As you might expect, Madonna put on a hell of a show, with tons of acrobatic dancers, lights, video, etc.  The show went for a full two hours, with many set and costume changes that all happened while other things were going on, so there was never a break in the music.  
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/madonnastage.jpg"></td></tr><tr><td class="caption" width="250">The stage.</td></tr></table>
+<a class="lightview centered" href="/img/madonnastage.jpg" data-lightview-caption="The stage." data-lightview-group="group1"><img src="/img/madonnastage.jpg" alt="/img/madonnastage.jpg"><br><span class="caption">The stage.</span></a>
 
 Here are a few other cool things about the show:
 
@@ -36,9 +38,9 @@ Here are a few other cool things about the show:
 
 <li>If you've seen any press about the show, you know about the part where she rides up and down on a saddle (which was on a stage spur right near us), and about the cross of mirrors.  If you haven't done your homework, <a href="http://www.thesop.org/article.php?id=1488">this article</a> is pretty good.</li>
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/madonnahorse.jpg"></td></tr><tr><td class="caption" width="250">The horse riding thing.</td></tr></table>
+<a class="lightview centered" href="/img/madonnahorse.jpg" data-lightview-caption="The horse riding thing." data-lightview-group="group1"><img src="/img/madonnahorse.jpg" alt="/img/madonnahorse.jpg"><br><span class="caption">The horse riding thing.</span></a>
 
-<li>The most common question I get asked is, "Did she sing any of her old songs?"  Fortunately, in my opinion, she kept those to a minimum.  I can remember three songs from the 80s, so let's say there were four or so.  Lucky Star was sung to the beat of Hung Up -- that latest MTV hit, with the dancing around the ugly room in a leotard -- and one of the others was put to the beat of a (Donna Summer?) disco hit.  So it really didn't seem like we were subjected to much 80s Madonna pop music.  I get the feeling that Madonna dislikes that old stuff as much as I do.
+<li>The most common question I get asked is, "Did she sing any of her old songs?"  Fortunately, in my opinion, she kept those to a minimum.  I can remember three songs from the 80s, so let's say there were four or so.  Lucky Star was sung to the beat of Hung Up -- that latest MTV hit, with the dancing around the ugly room in a leotard -- and one of the others was put to the beat of a (Donna Summer?) disco hit.  So it really didn't seem like we were subjected to much 80s Madonna pop music.  I get the feeling that Madonna dislikes that old stuff as much as I do.<br><br>
 
 By the way, I remembered the details of what songs went with what beats much better directly after the show, but the specifics fail me these many days later.</li></ul>
 
@@ -49,7 +51,7 @@ We went to the show with three gay couples.  As this show sort of capped off gay
 
 Toward the end of the show, Madonna dropped a white disco suit looking outfit to reveal a swimsuit looking dance thing.  When she did that, there was a guy's voice behind me that said in awe, "Look at that Ass!"
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/madonna2.jpg"></td></tr><tr><td class="caption" width="250">Madge in the white disco outfit.</td></tr></table>
+<a class="lightview centered" href="/img/madonna2.jpg" data-lightview-caption="Madge in the white disco outfit." data-lightview-group="group1"><img src="/img/madonna2.jpg" alt="/img/madonna2.jpg"><br><span class="caption">Madge in the white disco outfit.</span></a>
 
 I turned around with arm in air to high-five someone who was like-minded, but when I saw the guy, it was clear that he was just another homosexual, whose awe meant, "Man, I'm really impressed with her dedication to leg lifts," rather than the intention that I thought he meant:  "I'm not sure these seats are worth $186, but I would gladly pay four times that amount to slap one of those cheeks."  Even though it was clear to us both that we were on different pages, he gamely participated in my high-five.
 

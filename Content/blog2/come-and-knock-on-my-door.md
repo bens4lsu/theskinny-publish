@@ -1,7 +1,7 @@
 ---
 title: Come and Knock on My Door
 date: 2006-06-20 20:04
-description: A description of my post.
+description: I got to thinking about Three's Company today.  And I've decided that a big part of why it's no big deal for people of my generation to have opposite-sex roommates is that our parents spent so much time in 1979 defending Jack's right to cohabitate with Janet and Chrissy.  I know this sounds ludicrous, but I remember that it really was a controversy when that show was a prime-time series.
 tags: my-youth,pop-culture
 id: 222
 ---
@@ -35,7 +35,7 @@ Eddie called that first night and seemed to have a nice chat about liking flower
 
 He mentioned that she seemed not to know what he was talking about.  As if she never considered the coincidence of her unfortunate name.
 
-<EMBED  src="/sound/IDontAccept.wav" autostart="0" showcontrols="1"   height="50" border="1" align="right"><noembed>You will just have to imagine an old, drugged out "I don't accept."  Your browser doesn't support this plugin.</noembed>
+Listen <a href="/sound/IDontAccept.wav" target="_blank">here</a>.
 
 We continued to call her, but I suggested that since we were rather poor college students, that we call collect.  So every night, after getting a buzz, we'd dial her up via the collect call operator.  The way it worked was that a voice tells you to say your name.  Some piece of equipment makes a recording of what you say, and then when the person answers the phone, the voice says something like, "Press 1 to accept a collect call from..." and then plays back your recording.
 

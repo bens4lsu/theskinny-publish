@@ -1,13 +1,14 @@
 ---
 title: Such a Loosely Bound Collection of Crap, That I Can't Think of a Title
 date: 2006-06-28 10:50
-description: A description of my post.
+description: I feel bad for little Blossom.  Last night, Lili detected some creature in one of our bushes, and did her beagle bark (BARROOOOOOOOOOO!!!) for about fifteen minutes.  I dragged her into the house, but she just went back out the door and started up again.  Blossom is her faithful sidekick, and hung out outside with the crazy beagle.
 tags: animals,my-stories
 id: 224
+ogImg: blossom-pillow.jpg
 ---
 I feel bad for little Blossom.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/blossom-pillow.jpg"></td></tr><tr><td class="caption" width="250">Blossom is getting too big for some of her favorite spots.</td></tr></table>
+<a class="lightview alignright" href="/img/blossom-pillow.jpg" data-lightview-caption="Blossom is getting too big for some of her favorite spots." data-lightview-group="group1" style="width:350px;"><img src="/img/blossom-pillow.jpg" alt="/img/blossom-pillow.jpg"><br><span class="caption">Blossom is getting too big for some of her favorite spots.</span></a>
 
 Last night, Lili detected some creature in one of our bushes, and did her beagle bark (BARROOOOOOOOOOO!!!) for about fifteen minutes.  I dragged her into the house, but she just went back out the door and started up again.  Blossom is her faithful sidekick, and hung out outside with the crazy beagle.
 
@@ -17,31 +18,31 @@ This wouldn't make me feel bad by itself, but little do they know that tonight t
 
 I imagine that some of you will think I'm a real jerk.  Especially those who heard only my side of a conversation with Mrs. theskinnyonbenny yesterday.
 
-<blockquote>(General Greetings, etc.)
+<blockquote>(General Greetings, etc.)<br><br>
 
-...
+...<br><br>
 
-"Well, okay, but you can't be in my way.  You'll have to sit out back with the dogs."
+"Well, okay, but you can't be in my way.  You'll have to sit out back with the dogs."<br><br>
 
-...
+...<br><br>
 
-"A couple of hours."
+"A couple of hours."<br><br>
 
-...
+...<br><br>
 
 "Well, hey, you're the one crimping my style."</blockquote>
 
 I don't sound like quite the a-hole when you see the whole conversation:
 
-<blockquote>"I think I'm going to skip my thing tonight and just come home.  But will you still mop the floors like you said you would?"
+<blockquote>"I think I'm going to skip my thing tonight and just come home.  But will you still mop the floors like you said you would?"<br><br>
 
-"Well, okay, but you can't be in my way.  You'll have to sit out back with the dogs."
+"Well, okay, but you can't be in my way.  You'll have to sit out back with the dogs."<br><br>
 
-"How long will I have to stay back there?"
+"How long will I have to stay back there?"<br><br>
 
-"A couple of hours."
+"A couple of hours."<br><br>
 
-"Hours!!??  Maybe I'll just go somewhere else then."
+"Hours!!??  Maybe I'll just go somewhere else then."<br><br>
 
 "Well, hey, you're the one crimping my style."</blockquote>
 
@@ -61,8 +62,6 @@ That's the kind of thing that I do in those stretches where I don't post for a l
 
 <li>I would take up fishing.  I go once in a while, but I would actually learn good spots to go, what kind of lures to use, and buy a nice boat to fish from.  If I had more time.  And more money.  Which I don't.</li></ul>
 
-
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 We're about to embark on a long weekend trip, so this is probably my last post this week.  I should have something or other to relate about the trip when I get back.

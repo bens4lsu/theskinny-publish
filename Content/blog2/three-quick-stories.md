@@ -1,31 +1,32 @@
 ---
 title: Three quick stories
 date: 2006-06-16 13:00
-description: A description of my post.
+description: Three really short stories, but they're all funny.
 tags: sailing, favorites
 id: 221
+ogImg: pickles.jpg
 ---
 Nothing real to post, but I have a few short stupid but amusing stories.
 
 This first one is from an email I got this week.
 
-<blockquote>From: Stacie 
-Sent: Wednesday, June 14, 2006 3:00 PM
-Subject: Funny Observation
-
-Today, while washing my hands in the ladies room, a younger co-worker was struggling at the sink next to me.  She kept waiving her hands under the faucet but was puzzled as to why the water would not flow.  
-Frustrated, she looked over at me and inquired, "do any of these work?"  
-I replied, "yes, turn the nob." 
-She manually turned the faucet on and washed in silence.  
+<blockquote>From: Stacie <br>
+Sent: Wednesday, June 14, 2006 3:00 PM <br>
+Subject: Funny Observation <br>
+ <br>
+Today, while washing my hands in the ladies room, a younger co-worker was struggling at the sink next to me.  She kept waiving her hands under the faucet but was puzzled as to why the water would not flow.   <br>
+Frustrated, she looked over at me and inquired, "do any of these work?"   <br>
+I replied, "yes, turn the nob."  <br>
+She manually turned the faucet on and washed in silence.   <br>
 I've seen people struggle with turning on sinks with sensors, but never the reverse.  I'm beginning to recognize gaps between mine and the next generation.
 </blockquote>
 
 I know what you're thinking.  Posting this puts me right there with that dumb shit columnist <a href="http://www.2theadvocate.com/columnists/smiley/
 " target="_blank">Smiley Anders</a>.  Insulting, but all too true.
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/pickles.jpg"/ width="230"/></td></tr><tr><td class="caption" width="250">Pickles</td></tr></table>
+<a class="lightview centered" href="/img/pickles.jpg" data-lightview-caption="Pickles" data-lightview-group="group1"><img src="/img/pickles.jpg" alt="/img/pickles.jpg"><br><span class="caption">Pickles</span></a>
 
 Check out this bin of pickles at the Subway yesterday.  And this was at 1:30 in the afternoon.  Just to mess with the lady, I told her how to dress my sandwich like this,
 
@@ -33,9 +34,11 @@ Check out this bin of pickles at the Subway yesterday.  And this was at 1:30 in 
 
 She thought I was serious, and gave my face a close examination to determine whether I was insane or just an imbecile.  It gave me a good laugh, but I was the only one who thought it was funny.
 
-<center><img src="/img/greenline.gif"/></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-<table cellpadding="2" align="left"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/turkshead.jpg"/ width="190"/></td></tr><tr><td class="caption" width="250">A plainish Turk's head knot.</td></tr></table>
+<a class="lightview centered" href="/img/turkshead.jpg" data-lightview-caption="A plainish Turk's head knot.
+" data-lightview-group="group1"><img src="/img/turkshead.jpg" alt="/img/turkshead.jpg"><br><span class="caption">A plainish Turk's head knot.
+</span></a>
 
 I don't know what made me think of this story yesterday.  It probably won't be a funny read, but I have nothing else to post, so what the hell.
 
