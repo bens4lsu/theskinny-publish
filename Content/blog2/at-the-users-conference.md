@@ -1,13 +1,16 @@
 ---
 title: At the Users Conference
 date: 2006-05-19 06:11
-description: A description of my post.
+description: Some long winded work story, but then it takes a turn for the wet and gross.
 tags: the-office,travel
 id: 212
+ogImg: ben_wiped.jpg
 ---
 Hopefully by now, all of you have played with the career builder <a href="http://www.careerbuilder.com/monk-e-mail/Default.aspx" target="_blank">monk-e-mail</a>.  When we discovered this at my office, it was very difficult to get work done for a couple of days, but good lord did we laugh at those monkeys.
 
 Still, I have the occasional monkey pop up in my email.  I've had monkeys claiming to be Chuck Norris, Johnny Cash, and Fat Bastard from the Austin Powers movies.  But most often, the monkey claims to be someone higher up the corporate ladder at Equifax.  And most often of all, the monkey claims to be CEO Rick Smith.  They mostly sound like <a href="http://www.careerbuilder.com/monk-e-mail/?mid=5439343" target="_blank">this one</a>, with a general pattern of "Good morning and welcome," followed by something that Rick might actually say, followed by some sort of insult or asinine comment.  I realize that I'm a child, but it keeps being funny.
+
+<h3>Update 2024:  I remember laughing pretty hard at the monk-e-mail.  I wish it still existed.</h3>
 
 So when Rick addressed the audience at the users' conference in Las Vegas, I had a bit of hope that he would start with "Good Morning and Welcome," and a little part of me fantasized that he might even mispronounce his company as "Eequifax," like the monkeys do.
 
@@ -21,7 +24,7 @@ But sprinting through the bedroom, I kicked some piece of furniture, causing a p
 
 So the walk to the conference center was daunting.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/ben_wiped.jpg"/></td></tr><tr><td class="caption" width="250">After the end of sessions on Monday</td></tr></table>
+<a class="lightview alignright" href="/img/ben_wiped.jpg" data-lightview-caption="After the end of sessions on Monday" data-lightview-group="group1" style="width:350px;"><img src="/img/ben_wiped.jpg" alt="/img/ben_wiped.jpg"><br><span class="caption">After the end of sessions on Monday</span></a>
 
 I hadn't been out late the night before, but I was exhausted by the time of the vendor reception at 4:30.  I had one drink, and sampled the (not very good) selection of breaded and fried food.  And then I got out of there.
 
@@ -35,7 +38,7 @@ So while the Forbes guy was speaking, Alan's and my common boss sat down next to
 
 It wasn't too long after that first session on Tuesday that I had my most horrifying experience of the trip.  It was about thirty minutes before an interface meeting where I was involved.  I took a restroom break, to have a -- well a "number two" is the nice way to put it.  Excuse me for being crude; it's important to the story.
 
-<table cellpadding="2" align="left"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/ben_vegaspants.jpg"/></td></tr><tr><td class="caption" width="250">The back of my pants on Tuesday</td></tr></table>
+<a class="lightview alignright" href="/img/ben_vegaspants.jpg" data-lightview-caption="The back of my pants on Tuesday" data-lightview-group="group1" style="width:350px;"><img src="/img/ben_vegaspants.jpg" alt="/img/ben_vegaspants.jpg"><br><span class="caption">The back of my pants on Tuesday</span></a>
 
 When I pulled up my pants, the back part of my right leg was soaked.
 

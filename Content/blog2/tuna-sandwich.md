@@ -1,9 +1,10 @@
 ---
 title: Tuna Sandwich
 date: 2006-05-25 07:07
-description: A description of my post.
+description: Yesterday after basketball at lunch, I went to the Subway on Government street.  I was in front of him in line, having trouble figuring out what to order.  "I dunno... what are you going to have?"
 tags: food
 id: 214
+ogImg: Subwaytuna.jpg
 ---
 Yesterday after basketball at lunch, I went to the Subway on Government street.  I was in front of him in line, having trouble figuring out what to order.
 
@@ -11,7 +12,7 @@ Yesterday after basketball at lunch, I went to the Subway on Government street. 
 
 "I'm going to have tuna!"
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></spacer></td><td width="250" ><img src="/img/Subwaytuna.jpg"/></td></tr><tr><td class="caption" width="250">A subway tuna sandwich, with too much additional crap on it, in my opinion.</td></tr></table>
+<a class="lightview alignright" href="/img/Subwaytuna.jpg" data-lightview-caption="A subway tuna sandwich, with too much additional crap on it, in my opinion." data-lightview-group="group1" style="width:350px;"><img src="/img/Subwaytuna.jpg" alt="/img/Subwaytuna.jpg"><br><span class="caption">A subway tuna sandwich, with too much additional crap on it, in my opinion.</span></a>
 
 "Well, that sounds good."  To the girl behind the counter, "a foot long tuna on wheat."
 

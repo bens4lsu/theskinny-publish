@@ -47,11 +47,11 @@ struct Theskinny: Website {
         }
         
         if ogImgStr.prefix(4) != "http" && ogImgStr.prefix(5) != "/img/" {
-            ogImgStr = Theskinny.urlString + "/img/" + ogImgStr
+            ogImgStr = "/img/" + ogImgStr
         }
-        else if ogImgStr.first == "/" {
-            ogImgStr = Theskinny.urlString + ogImgStr
-        }
+//        else if ogImgStr.first == "/" {
+//            ogImgStr = Theskinny.urlString + ogImgStr
+//        }
         
         let encoded = ogImgStr.addingPercentEncoding(withAllowedCharacters: .whitespacesAndNewlines.inverted)
         return encoded
