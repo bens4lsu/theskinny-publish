@@ -15,7 +15,7 @@
 
         function pathPart() {
             var today = dpPath();
-            var latest = "20241117";
+            var latest = "20241118";
 
             var winner = today < latest ? today : latest;
             var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
@@ -25,7 +25,7 @@
         $(document).ready(function(){
 
             var today = dpPath();
-            var latest = "20241117";
+            var latest = "20241118";
 
             var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
             $('#homeDPImage').attr('src', dailyphotoImg);
