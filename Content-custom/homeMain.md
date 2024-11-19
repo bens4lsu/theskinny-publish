@@ -1,11 +1,3 @@
-<!--<h1>Wrapping Up the Big Trip</h1>
+Well, I updated my Bluesky handle to use theskinnyonbenny as the domain for my account, and it broke the feed on my home page.  I'll have to figure that out later.
 
-This is long overdue.  Time to start planning next Summer's sail.
--->
-<h1>Programming Note</h1>
-
-My "Tweets" on the left side of the full screen version of this page are from Bluesky now.  It's been about a year on Mastodon, which I liked just fine, but I can't find anyone to follow over there.  Bluesky seems fine for now.  
-
-So to round them up, Twitter is full of nazis, Mastodon is a ghost town, Threads is full of stupid, and Bluesky is the closest I've gotten to Twitter in its heyday.  I'm still looking for some of the comedians that I liked to follow.
-
-Scroll to the bottom for a little surprise having to do with this topic.
+For now, check out the feed directly at <a href="https://bsky.app/profile/ben.theskinnyonbenny.com" target="_blank">https://bsky.app/profile/ben.theskinnyonbenny.com</a>

@@ -17,7 +17,7 @@ struct HomeBluesky: Component {
 
                 Markdown("""
                     <bsky-embed
-                    username="bens4lsu.bsky.social"
+                    username="@ben.theskinnyobenny.com"
                     mode=""
                     limit="9"
                     link-target="_blank"
@@ -29,7 +29,7 @@ struct HomeBluesky: Component {
                 """)
                 
                 Div {
-                    Link("More posts, powered by Bluesky for now...", url: "https://bsky.app/profile/bens4lsu.bsky.social").toNewScreen()
+                    Link("More posts, powered by Bluesky for now...", url: "https://bsky.app/profile/ben.theskinnyonbenny.com").toNewScreen()
                 }.class("mt-footer")
             }.class("mt-timeline")
         }.class("div-home-tweets")

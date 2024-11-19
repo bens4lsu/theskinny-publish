@@ -32,11 +32,11 @@ do {
     
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
         .writePostPages(),
-       .writeRedirectsFromWordpressUrls(),
-      .writeVideoAlbumPages(),
-      .imageGalleries(),
-      .dailyPhotos(),
-      .oldMicroPosts(),
+        .writeRedirectsFromWordpressUrls(),
+        .writeVideoAlbumPages(),
+        .imageGalleries(),
+        .dailyPhotos(),
+        .oldMicroPosts(),
     ])
     shell("say \"Ding.\"")
     
