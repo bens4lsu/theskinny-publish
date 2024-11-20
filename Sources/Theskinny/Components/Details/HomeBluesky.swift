@@ -17,7 +17,7 @@ struct HomeBluesky: Component {
 
                 Markdown("""
                     <bsky-embed
-                    username="@ben.theskinnyobenny.com"
+                    username="ben.theskinnyonbenny.com"
                     mode=""
                     limit="9"
                     link-target="_blank"
