@@ -31,4 +31,6 @@ Monday morning, I worked while the family slept in.  After that, we drove uptown
 
 <a class="lightview centered" href="/img/skeletonhouse2024.jpeg" data-lightview-caption="Skeleton house mixed it up this year and did a Taylor Swift yard." data-lightview-group="group1"><img src="/img/skeletonhouse2024.jpeg" alt="/img/skeletonhouse2024.jpeg"><br><span class="caption">Skeleton house mixed it up this year and did a Taylor Swift yard.</span></a>
 
+<a href="/gal/194%20-%20Taylor%20Swift%20in%20NOLA/">More pics, including some that the kids took at the show.</a>
+
 Happy Halloween!
