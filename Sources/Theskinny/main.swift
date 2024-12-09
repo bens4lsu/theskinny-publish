@@ -4,7 +4,6 @@ import Plot
 import Files
 
 
-
 fileprivate var mediaPath: String { "/Volumes/BenPortData/theskinny-media" }
 
 

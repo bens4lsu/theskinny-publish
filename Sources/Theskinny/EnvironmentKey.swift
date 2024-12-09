@@ -43,6 +43,12 @@ extension EnvironmentKey where Value == DateFormatter {
         formatter.dateFormat = "yyyy"
         return formatter
     }()
+    
+    static let formatteryyyyMMddWithSlashes: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy/MM/dd"
+        return formatter
+    }()
 
 }
 
