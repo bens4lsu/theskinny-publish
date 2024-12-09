@@ -29,9 +29,17 @@ extension HTMLListStyle {
         }
     }
     
+    static var listOfFlexItems: HTMLListStyle {
+        HTMLListStyle(elementName: "") { listItem in
+            Div(listItem).class("book")
+        }
+    }
+    
     func componentListOfLinks(links: [Link]) -> Component {
         List(links) { link in
             link
         }.listStyle(.listOfLinks)
     }
+    
+    
 }

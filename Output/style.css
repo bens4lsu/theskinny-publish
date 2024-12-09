@@ -770,6 +770,31 @@ img.greenline {
     margin:auto;
 }
 
+.book {
+    margin-top: 20px;
+    margin-right: 12px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 15px;
+    width: 275px;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+.book div {
+    margin-bottom: 1em;
+}
+
+.books-div-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
 
 @media (min-width: 650px) {
     .wrapper {

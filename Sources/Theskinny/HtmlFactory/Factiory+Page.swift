@@ -30,6 +30,8 @@ extension TsobHTMLFactory {
                 return makePageBigTripReversed(for: page, context: context)
             case "mobileSitemap":
                 return makePageMobileSitemap(for: page, context: context)
+            case "books":
+                return makePageBooks(for: page, context: context)
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -103,6 +105,16 @@ extension TsobHTMLFactory {
         )
     }
     
+    fileprivate func makePageBooks(for page: Publish.Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Books Read")
+        let pageContent = Books()
+        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
+        return HTML (
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
     fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
         let pageMain = AnyPageMain(mainContent: Galleries(), site: context.site)
@@ -113,7 +125,7 @@ extension TsobHTMLFactory {
     }
     
     fileprivate func makePageBeneteauHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Beneteau Velvet Elvis")
         let component = VEBeneteauHome(mdComponent: page, posts: context.beneteauBlogPosts)
         let pageMain = AnyPageMain(mainContent: component, site: context.site)
         return HTML(

@@ -16,25 +16,37 @@ class GoodreadsData {
     enum GoodreadsHowConsumed {
         case book
         case audiobook
+        
+        var audiobookIndicator: String? {
+            switch self {
+            case .audiobook:
+                return  "(audiobook)"
+            default:
+                return nil
+            }
+        }
     }
     
-    struct GoodreadsBook {
+    struct GoodreadsBook: Comparable {
+        
         let bookId: Int
         let title: String
         let author: String
         let myRating: UInt8?
         let dateRead: Date
         let howConsumed: GoodreadsHowConsumed
+        
+        static func < (lhs: GoodreadsData.GoodreadsBook, rhs: GoodreadsData.GoodreadsBook) -> Bool {
+            // reverse sort (intentional)
+            rhs.dateRead < lhs.dateRead
+        }
     }
     
     private static let file = try? File(path: "./Content-custom/goodreads_library_export.csv")
     static let fileDate = file?.creationDate ?? Date()
     
     static let books: [GoodreadsBook] = {
-        
-   
-        
-        
+    
         guard let file,
               let csv = try? CSV<Named>(string: file.readAsString())
         else {
@@ -70,6 +82,6 @@ class GoodreadsData {
                 books.append(book)
             }
         }
-        return books
+        return books.sorted()
     }()
 }
