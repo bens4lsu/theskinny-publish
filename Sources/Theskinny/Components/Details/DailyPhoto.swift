@@ -33,8 +33,11 @@ struct DailyPhoto: Component, Comparable {
         "/dailyphotostore/\(year)/\(year)\(month.zeroPadded(2))\(day.zeroPadded(2)).jpg"
     }
     
+    var yyyyMMdd: String {
+        "\(year.zeroPadded(4))-\(month.zeroPadded(2))-\(day.zeroPadded(2))"
+    }
+    
     var dateString: String {
-        let yyyyMMdd = "\(year.zeroPadded(4))-\(month.zeroPadded(2))-\(day.zeroPadded(2))"
         let date = EnvironmentKey.yyyyMMddDateFormatter.date(from: yyyyMMdd) ?? Date()
         let str = EnvironmentKey.defaultDateFormatter.string(from: date)
         return str

@@ -45,12 +45,19 @@ struct DailyPhotoCalendar {
             dailyPhoto?.link
         }
         
+        var linkId: String? {
+            guard let uniquePart = dailyPhoto?.yyyyMMdd else {
+                return nil
+            }
+            return "a-dailyphoto a-dailyphoto-\(uniquePart)"
+        }
+        
         
         
         var body: Component {
             var cell: Component = TableCell{
-                if let link {
-                    Link(String(number), url: link)
+                if let link, let linkId {
+                    Link(String(number), url: link).class(linkId)
                 }
                 else {
                     Text(String(number))
