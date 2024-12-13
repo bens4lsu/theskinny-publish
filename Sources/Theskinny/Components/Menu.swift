@@ -124,7 +124,7 @@ struct Menu: Component {
                         Text("Playlists ♪")
                     }.class("todo")
                     ListItem {
-                        Link("Books", url: "/books")
+                        Link("Books 📙", url: "/books")
                     }
                     ListItem {
                         Text("Movies 🎥")
