@@ -17,12 +17,12 @@ enum DailyPhotoError: Error {
 }
 
 
-struct DailyPhotoYear: Comparable {
+class DailyPhotoYear: Comparable {
     var dp = [DailyPhoto]()
     var year: UInt16
     
-    var prevYearLink: String?
-    var nextYearLink: String?
+    var prevYear: DailyPhotoYear?
+    var nextYear: DailyPhotoYear?
     
     var link: String
 
@@ -34,7 +34,17 @@ struct DailyPhotoYear: Comparable {
         dp.sorted().last
     }
     
+    init (dp: [DailyPhoto], year: UInt16, link: String) {
+        self.dp = dp
+        self.year = year
+        self.link = link
+    }
+    
     static func < (lhs: DailyPhotoYear, rhs: DailyPhotoYear) -> Bool {
+        lhs.year < rhs.year
+    }
+    
+    static func == (lhs: DailyPhotoYear, rhs: DailyPhotoYear) -> Bool {
         lhs.year < rhs.year
     }
 }
@@ -99,8 +109,8 @@ struct DailyPhotoData {
             if i > 0 {
                 prevYear = years[i - 1]
             }
-            years[i].prevYearLink = prevYear?.link
-            years[i].nextYearLink = nextYear?.link
+            years[i].prevYear = prevYear
+            years[i].nextYear = nextYear
             
             years[i].dp.sort()
             for j in 0...years[i].dp.count - 1 {
@@ -112,8 +122,8 @@ struct DailyPhotoData {
                 if j > 0 {
                     prevSlide = years[i].dp[j - 1]
                 }
-                years[i].dp[j].nextLink = nextSlide?.link
-                years[i].dp[j].prevLink = prevSlide?.link
+                years[i].dp[j].nextLink = nextSlide?.link ?? years[i].nextYear?.first?.link
+                years[i].dp[j].prevLink = prevSlide?.link ?? years[i].prevYear?.last?.link
             }
         }
         return years
