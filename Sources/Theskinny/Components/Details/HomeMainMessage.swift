@@ -27,6 +27,12 @@ struct HomeMainMessage: Component {
     
     var cust: Component {
         
+        ComponentGroup {
+            Text("Nothing big here, just a few pics from the Christmas season.")
+            ImageGalleryLinkSet(195)
+            EmptyComponent()
+        }
+        
 //        let vgLink1 = VideoGalleryLink(url: "/video/lsubaton-rouge-lakes-are-a-disaster-right-now/", image: "mq20231028.jpg", caption: "LSU Lakes Are a Disaster Right Now")
 //        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
 //        let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
@@ -39,7 +45,7 @@ struct HomeMainMessage: Component {
 //        }
 //        
 
-        EmptyComponent()
+//        EmptyComponent()
     }
     
     init(_ context: PublishingContext<Theskinny>) {
