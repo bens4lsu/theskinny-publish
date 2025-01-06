@@ -348,7 +348,7 @@ a.lightview img {
 }
 
 a.lightview.centered img {
-    width: 800px;
+    max-width: 800px;
 }
 
 a.lightview.centered span.caption {
