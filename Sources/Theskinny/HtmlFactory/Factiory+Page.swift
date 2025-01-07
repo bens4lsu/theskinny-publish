@@ -14,6 +14,10 @@ extension TsobHTMLFactory {
         if page.path.string.prefix(5) == "/gal/" {
             return makePageImgGal(for: page, context: context)
         }
+        else if page.content.body.html.contains("redirect=\"true\"") {
+            return makePageRedirectDefault(for: page, context: context)
+        }
+                    
         return {
             switch page.path {
             case "blog/blogArchiveByDate":
@@ -156,6 +160,12 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
+    }
+    
+    fileprivate func makePageRedirectDefault(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        HTML {
+            page.body
+        }
     }
     
 }

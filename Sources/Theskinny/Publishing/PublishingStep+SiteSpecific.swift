@@ -56,15 +56,11 @@ extension PublishingStep where Site == Theskinny {
     }
     
     
-    static func writeRedirectsFromWordpressUrls() -> Self {
+    static func writeRedirectsFromWordpressUrls() throws -> Self {
         .step(named: "Write redirects for wordpress urls") { context in
             let allPosts = context.allBlogPostsReversed.items 
-            let factory = TsobHTMLFactory()
             for post in allPosts {
-                let page = Page(path: "blog2/archives/\(post.id)/index.html", content: Content())
-                let html = factory.makeRedirectFromOldBlogPath(for: page, context: context, newName: post.slug)
-                let file = try context.createOutputFile(at: page.path)
-                try file.write(html.render())
+               try writeRedirect(atPage: "/blog2/archives/\(post.id)", to: "/blog2/\(post.slug)", onContext: &context)
             }
             let max = allPosts.map({ $0.id }).max() ?? -1
             print("NOTICE:  Max blog post id is currently \(max)")
@@ -119,11 +115,14 @@ extension PublishingStep where Site == Theskinny {
     }
     
     static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: inout PublishingContext<Theskinny>) throws {
-        //var page = Page(path: pagePath, content: Content())
         let redirScript = Script("window.location.replace(\"\(redirPath.string)\")")
-        let redirHtml = HTML(redirScript.convertToNode())
-        let file = try context.createOutputFile(at: pagePath)
-        try file.write(redirHtml.render())
+        let attrib = Attribute<PublishingContext<Theskinny>>(name: "redirect", value: "true")
+        let redirHtml = HTML(redirScript.convertToNode()).node.attribute(attrib)
+        var page = Page(path: pagePath, content: Content())
+        page.content.body.html = redirHtml.render()
+                                        .replacingOccurrences(of: "&lt;", with: "<")
+        
+        context.addPage(page)
     }
     
     static func imageGalleries() -> Self {
@@ -176,7 +175,7 @@ extension PublishingStep where Site == Theskinny {
     }
     
     
-    static func oldMicroPosts() throws ->Self {
+    static func oldMicroPosts() throws -> Self {
         .step(named: "Old Micro Posts") { context in
             for (year, posts) in MicroPostData.postsByYear {
                 let url = "/micro-posts/\(year)"
@@ -195,5 +194,9 @@ extension PublishingStep where Site == Theskinny {
                 context.addPage(pageRev)
             }
         }
+    }
+    
+    static func printDate() -> Self {
+        .step(named: "Date Stamp: \(Date())") { _ in }
     }
 }

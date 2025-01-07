@@ -30,14 +30,17 @@ do {
     try hideResourceImages()
     
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
+        .printDate(),
         .writePostPages(),
         .writeRedirectsFromWordpressUrls(),
-       .writeVideoAlbumPages(),
-       .imageGalleries(),
-       .dailyPhotos(),
-       .oldMicroPosts(),
+        .writeVideoAlbumPages(),
+        .imageGalleries(),
+        .dailyPhotos(),
+        .oldMicroPosts(),
+        .printDate()
     ])
     shell("say \"Ding.\"")
+    print (Date())
     
     
 } catch (let e) {

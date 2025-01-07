@@ -62,14 +62,6 @@ struct TsobHTMLFactory: HTMLFactory {
         )
     }
     
-
-    
-    
-    func makeRedirectFromOldBlogPath(for page: Publish.Page, context: PublishingContext<Theskinny>, newName: String) -> HTML {
-        let script = Script("window.location.replace(\"/blog2/\(newName)\");")
-        return HTML(script.convertToNode())
-    }
-    
     
     func makeTagDetailsHTML(for page: Publish.TagDetailsPage, context: Publish.PublishingContext<Theskinny>) throws -> HTML? {
         let items = context.items(taggedWith: page.tag)

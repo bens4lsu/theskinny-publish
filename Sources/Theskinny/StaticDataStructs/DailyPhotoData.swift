@@ -91,7 +91,7 @@ struct DailyPhotoData {
                     }
                 }
                 // path to page where you can land and redirect to the first picture of the year
-                let yearRedirectPath = "/dailyphoto/\(folder.name)/index.html"
+                let yearRedirectPath = "/dailyphoto/\(folder.name)"
                 years.append(DailyPhotoYear(dp: dp, year: year, link: yearRedirectPath))
             }
         } catch (let e) {
