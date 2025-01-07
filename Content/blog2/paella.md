@@ -21,7 +21,7 @@ Annika's text inspired me to make paella.  Saturday evening came, and it was get
 
 But then Sunday, I made one.  A meat-lover's paella, with steak, chicken, and chorizo.
 
-It was somewhat of a hit.  Right after I took it out of the oven, Mrs. theskinnyonbenny and I took Ko and a couple of his friends to a mall.  While they tooled around, I looked at my phone and saw this post from V:
+It was somewhat of a hit.  Right after I took it out of the oven, Mrs. theskinnyonbenny and I took Ko and a couple of his friends to a mall.  While the kids tooled around, Mrs. theskinnyonbenny and I went for a drink. At the bar, Ilooked at my phone and saw this post from V:
 
 <a class="lightview centered" href="/img/IMG_4518.PNG" data-lightview-caption="
 " data-lightview-group="group1"><img src="/img/IMG_4518.PNG" alt="/img/IMG_4518.PNG"><br><span class="caption">
@@ -41,11 +41,11 @@ He hesitantly opened the door.  "Are you sure?"
 
 My annoyed voice kicked in.  "Yes!  put it right in there," I said, leaning toward the oven and pointing wildly.
 
-So he did.  (I'll be fair:  it turns out that he lacked confidence that the ramekin could handle being put right in the hot oven.)
+So he did.  (I'll be fair:  it turns out that he lacked confidence that the ramekin could handle being put right into the hot oven.)
 
 And that's it.
 
 V did nothing else to help on this particular night.
 
-But, "Me ad my dad made this..."
+But, "Me and my dad made this..."
 
