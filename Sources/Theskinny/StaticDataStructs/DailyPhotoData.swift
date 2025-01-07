@@ -141,44 +141,6 @@ struct DailyPhotoData {
         }
     }()
     
-    static func allYearLinks(except yearToOmit: UInt16) -> [Component] {
-        return Self.allYearLinks.filter { link in
-            link.0 != yearToOmit.zeroPadded(4)
-        }.map { item in
-            item.1
-        }
-    }
-    
-    static func monthLink(forYear year: UInt16, month: UInt8, direction: MonthLinkDirection) -> String? {
-        var newMonth: UInt8? = month
-        
-        switch direction {
-        case .previous:
-            newMonth = allMonthLinks.filter {
-                let yearPart = $0.key.substring(from: 0, to: 3)
-                let monthPart = $0.key.substring(from: 4, to: 5)
-                return yearPart == year.zeroPadded(4) && monthPart < month.zeroPadded(2)
-            }.compactMap { UInt8($0.key.substring(from: 4, to: 5))}
-                .sorted()
-                .last
-                
-                
-        case .next:
-            newMonth = allMonthLinks.filter {
-                let yearPart = $0.key.substring(from: 0, to: 3)
-                let monthPart = $0.key.substring(from: 4, to: 5)
-                return yearPart == year.zeroPadded(4) && monthPart > month.zeroPadded(2)
-            }.compactMap { UInt8($0.key.substring(from: 4, to: 5))}
-                .sorted()
-                .first
-        }
-        
-        if newMonth != nil {
-            return allMonthLinks["\(year.zeroPadded(4))\(newMonth!.zeroPadded(2))"]
-        }
-        return nil
-    }
-    
     static let allMonthLinks: [String: String] = {
         var tmp = [String: String]()
         for y in years {
@@ -191,6 +153,43 @@ struct DailyPhotoData {
         }
         return tmp
     }()
+    
+    static let allMonthKeys: [String] = {
+        allMonthLinks.map {$0.0}.sorted()
+    }()
+    
+    static func allYearLinks(except yearToOmit: UInt16) -> [Component] {
+        return Self.allYearLinks.filter { link in
+            link.0 != yearToOmit.zeroPadded(4)
+        }.map { item in
+            item.1
+        }
+    }
+    
+    static func monthLink(forYear year: UInt16, month: UInt8, direction: MonthLinkDirection) -> String? {
+        var linkKey = ""
+        
+        let lookup = year.zeroPadded(4) + month.zeroPadded(2)
+        guard let index = allMonthKeys.firstIndex(of: lookup) else {
+            return nil
+        }
+        
+        switch direction {
+        case .previous:
+            if index > 0 {
+                linkKey = allMonthKeys[index - 1]
+            }
+                
+        case .next:
+            if index < allMonthKeys.count - 1 {
+                linkKey = allMonthKeys[index + 1]
+            }
+        }
+        
+        return allMonthLinks[linkKey]
+    }
+    
+
     
    
     
