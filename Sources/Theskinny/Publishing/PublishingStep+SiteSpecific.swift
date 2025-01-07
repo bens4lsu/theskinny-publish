@@ -89,7 +89,7 @@ extension PublishingStep where Site == Theskinny {
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
             print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
-            try writeRedirect(atPage: "/video-albums/index.html", to: "/vid", onContext: &context)
+            try writeRedirect(atPage: "/video-albums", to: "/vid", onContext: &context)
         }
     }
     
