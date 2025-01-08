@@ -14,12 +14,13 @@ let package = Package(
     dependencies: [
         .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.8.0"),
         .package(url: "https://github.com/jpsim/Yams.git", from: "5.0.5"),
-        .package(url: "https://github.com/swiftcsv/SwiftCSV.git", from: "0.8.0")
+        .package(url: "https://github.com/swiftcsv/SwiftCSV.git", from: "0.8.0"),
+        .package(url: "https://github.com/ShawnMoore/XMLParsing.git", from: "0.0.3")
     ],
     targets: [
         .executableTarget(
             name: "Theskinny",
-            dependencies: ["Publish", "Yams", "SwiftCSV"]
+            dependencies: ["Publish", "Yams", "SwiftCSV", "XMLParsing"]
         )
     ]
 )
