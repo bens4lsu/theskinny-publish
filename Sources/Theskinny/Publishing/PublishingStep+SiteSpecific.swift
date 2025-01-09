@@ -168,6 +168,7 @@ extension PublishingStep where Site == Theskinny {
                     let html = HTML(.component(dailyphoto))
                     page.content.body.html = html.render()
                     page.imagePath = Path(dailyphoto.imagePath)
+                    page.date = dailyphoto.date
                     context.addPage(page)
                 }
             }
@@ -198,5 +199,20 @@ extension PublishingStep where Site == Theskinny {
     
     static func printDate() -> Self {
         .step(named: "Date Stamp: \(Date())") { _ in }
+    }
+    
+    static func playlists() -> Self {
+        .step(named: "Music Playlists") { context in
+            for playlist in AppleMusicData.playlists {
+                let path = playlist.pageName
+                var page = Page (path: Path(path), content: Content())
+                let html = HTML(.component(playlist))
+                page.content.body.html = html.render()
+                context.addPage(page)
+            }
+            
+            // redirect for /playlists
+            try writeRedirect(atPage: "/playlist", to: "/playlist/RecentlyPlayed", onContext: &context)
+        }
     }
 }

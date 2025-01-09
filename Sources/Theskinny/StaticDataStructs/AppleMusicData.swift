@@ -24,7 +24,8 @@ struct AppleMusicData {
             
             for file in xmlFiles {
                 let xmlData = try file.read()
-                let decoded = try XMLDecoder().decode(AppleMusicLibPlaylist.self, from: xmlData)
+                var decoded = try XMLDecoder().decode(AppleMusicLibPlaylist.self, from: xmlData)
+                decoded.dateUpdated = file.modificationDate
                 playlists.append(decoded)
                 
                 let trouble = decoded.playlist.filter {$0.artist == nil || $0.album == nil}
@@ -39,6 +40,12 @@ struct AppleMusicData {
         catch {
             print ("error loading music XML: \(error)")
             exit(9)
+        }
+    }()
+    
+    static let allLinks = {
+        playlists.map {
+            Link($0.name, url: $0.pageName)
         }
     }()
     

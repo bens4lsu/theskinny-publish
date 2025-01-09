@@ -37,6 +37,7 @@ do {
         .imageGalleries(),
         .dailyPhotos(),
         .oldMicroPosts(),
+        .playlists(),
         .printDate()
     ])
     shell("say \"Ding.\"")

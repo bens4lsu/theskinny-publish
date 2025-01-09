@@ -119,19 +119,19 @@ struct Menu: Component {
                         Link("Beneteau (2016-2023)", url: "/velvet-elvis/beneteau")
                     }.class("li-pagelink")
                 }
-                Collapser(text: "Media ♪ 📙 🎥 📺", elementId: "media-consumed").component {
+                Collapser(text: "Media ♪ ", elementId: "media-consumed").component {
                     ListItem {
-                        Text("Playlists ♪")
-                    }.class("todo")
+                        Link("♪ Playlists", url: "/playlist")
+                    }.class("li-pagelink")
                     ListItem {
-                        Link("Books 📙", url: "/books")
-                    }
+                        Link("📙 Books", url: "/books")
+                    }.class("li-pagelink")
                     ListItem {
-                        Text("Movies 🎥")
-                    }.class("todo")
+                        Text("🎥 Movies")
+                    }.class("li-pagelink todo")
                     ListItem {
-                        Text("TV 📺")
-                    }.class("todo")
+                        Text("📺 TV")
+                    }.class("li-pagelink todo")
                 }
                 
                 Collapser(text: "Extras", elementId: "collapser-extras").component {
