@@ -364,6 +364,12 @@ a.lightview.centered span.caption {
     margin-bottom: 20px;
 }
 
+.alignleft {
+    display: inline-block;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
 .caption, a .caption {
     font-weight: bold;
     color:#4C4C4C;
