@@ -28,7 +28,7 @@ do {
     
     
     try hideResourceImages()
-    
+        
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
         .printDate(),
         .writePostPages(),
