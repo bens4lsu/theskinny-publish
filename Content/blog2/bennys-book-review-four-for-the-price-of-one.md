@@ -1,21 +1,22 @@
 ---
 title: Benny's Book Review:  Four for the Price of One
 date: 2007-06-22 07:19
-description: A description of my post.
-tags: book-reviews
+description: Having spent close to a month in Russia, mostly without TV and almost entirely without newspapers, magazines, or internet, I got a lot of book reading done.  Here are my thoughts.
+tags: books
 id: 302
+ogImg: books/darkitaly.jpg
 ---
 Having spent close to a month in Russia, mostly without TV and almost entirely without newspapers, magazines, or internet, I got a lot of book reading done.  Here are my thoughts.
-<p>&nbsp;</p>
-<center><img src="/img/books/darkitaly.jpg"></img></center>
 
-<a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780865477247&itm=1" target="_blank">The Dark Heart of Italy</a>, by Tobias Jones
+<a class="lightview centered" href="/img/darkitaly.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/darkitaly.jpg" alt="/img/darkitaly.jpg"><br><span class="caption"></span></a>
+
+## The Dark Heart of Italy, by Tobias Jones
 
 Here's the crux of this book:  an Englishman moves to Italy, and then pens a book about how corrupt and backwards Italy is.  Sounds like it might be interesting, but it is really very very very far from interesting.  Unless you have some strangely acute interest in the nuances of politics of Italy, you will agree with me that this is a terrible fucking book.
-<p>&nbsp;</p><p>&nbsp;</p>
-<center><br /><br /><img src="/img/books/russka.jpg"></img></center>
 
-<a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780865477247&itm=1" target="_blank">Russka</a>, by Edward Rutherfurd
+<a class="lightview centered" href="/img/books/russka.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/books/russka.jpg" alt="/img/books/russka.jpg"><br><span class="caption"></span></a>
+
+## Russka, by Edward Rutherfurd
 
 This is a new type of book for me.  It tries to teach the reader a bit of Russian history, though information given in the course of a fictional narrative.  
 
@@ -24,10 +25,10 @@ Some of my favorite novels have taught me a bit of history by accidentally inclu
 This book is a little different, as its primary purpose was to educate.  The story isn't terrible, but one plot narrative can't possibly span the thousand years covered in this novel, even given its more than 900 page heft.  What you get instead is a series of short soap-operas, joined by generational ties and coincidence.
 
 This isn't to say that it was bad.  It was a decent read.  And it certainly beat the hell out of trying to read Russian history directly.  So if you're interested in learning some Russian history, give it a whirl.  If you're looking for a good book, give it a pass.
-<p>&nbsp;</p><p>&nbsp;</p>
-<center><br /><br /><img src="/img/books/kafka.jpg"></img></center>
 
-<a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9781400079278&itm=1" target="_blank">Kafka on the Shore</a>, by Haruki Murakami
+<a class="lightview centered" href="/img/books/kafka.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/books/kafka.jpg" alt="/img/books/kafka.jpg"><br><span class="caption"></span></a>
+
+## Kafka on the Shore, by Haruki Murakami
 
 This is the second of Murakami's novels that I've read, and it seems to me that he might be the novel equivalent of the Coen brothers.  weird but good.  And this is indeed a weird-ass book.
 
@@ -40,10 +41,10 @@ The other story is way more strange.  It involves a retarded man who has some sp
 As I feared, this is a really crappy explanation  Bottom line: this is worth the short time that it takes to read.
 
 One warning:  like the other Murakami book that I read, this one throws you a lot of mysterious things, and doesn't get around to explaining them all.  It's a little disappointing when it ends.  There are enough clues to let your mind make up a plausible explanation, but if you need the author to lay it all out nice and clean, you won't get it here.
-<p>&nbsp;</p><p>&nbsp;</p>
-<center><br /><br /><img src="/img/books/beanfield.jpg"></img></center>
 
-<a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780805063745&itm=1" target="_blank">Milagro Beanfield War</a>, by John Nichols
+<a class="lightview centered" href="/img/books/beanfield.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/books/beanfield.jpg" alt="/img/books/beanfield.jpg"><br><span class="caption"></span></a>
+
+## Milagro Beanfield War, by John Nichols
 
 I've never read John Nicols before, and I'm actually not finished with this even though I started it on my trip.  But what great writing!  I can't remember a book where I read a paragraph and enjoyed it so much that I go back to the beginning and read it again.
 

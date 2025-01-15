@@ -23,9 +23,9 @@ I've had some god-awful Thanksgivings, but some really, really good ones too.  H
 
 <ul><li><b>1993 (I think)</b>:  My first trip to Las Vegas.  My first intensive weekend of sports gambling.  My first Thanksgiving that mixed feasting and binge drinking.  It blew my young, impressionable mind.</li>
 
-<li><b>1995</b>:  The future Mrs. theskinnyonbenny and I were to get married the Saturday after Thanksgiving.  We had both spent Wednesday night separately in the French Quarter.  Me, bar hopping with my bachelor party crew, and she watching the swinging dicks with the bachelorettes.  We crossed the River Thursday afternoon, and went to my Aunt Maryâ€™s for dinner.  Crystal and Brent went with us, and the four of us got set up at a kidâ€™s table outside of the normal dining room.  
+<li><b>1995</b>:  The future Mrs. theskinnyonbenny and I were to get married the Saturday after Thanksgiving.  We had both spent Wednesday night separately in the French Quarter.  Me, bar hopping with my bachelor party crew, and she watching the swinging dicks with the bachelorettes.  We crossed the River Thursday afternoon, and went to my Aunt Mary's for dinner.  Crystal and Brent went with us, and the four of us got set up at a kid's table outside of the normal dining room.  
 
-Crystal, Brent, and I chowed down and then slept on the floor in front of a football game.  The future Mrs. theskinnyonbenny found that seeing food made her want to puke, and then spent nap time listening to my family tell stories.  (She thinkâ€™s itâ€™s rude to sleep on other peoplesâ€™ floors during the middle of the day.  I remember a particular Super Bowl party and a different Thanksgiving where she got mad at me for this behavior.) 
+Crystal, Brent, and I chowed down and then slept on the floor in front of a football game.  The future Mrs. theskinnyonbenny found that seeing food made her want to puke, and then spent nap time listening to my family tell stories.  (She think's it's rude to sleep on other peoples' floors during the middle of the day.  I remember a particular Super Bowl party and a different Thanksgiving where she got mad at me for this behavior.) 
 
 That night, back in Baton Rouge, we ate more Thanksgiving food at the only place we could find open -- a nasty buffet connected to one of the riverboat casinos in town.  I don't know why this was funny, but it was.</li>
 

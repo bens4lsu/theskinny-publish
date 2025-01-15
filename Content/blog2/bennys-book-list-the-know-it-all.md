@@ -1,15 +1,16 @@
 ---
 title: Benny's Book List:  The Know it All
 date: 2006-08-24 05:59
-description: A description of my post.
-tags: book-reviews
+description: By the time you see this post, I might have updated my little reading list to the side.  Or then again, I might not have.  This summer has featured really bad television along with Mrs. theskinnyonbenny being out of town or at work dinners more often than I'm used to.  The result is that I've been reading books like Burgess Meredith in that old Twilight Zone episode.
+tags: books
 id: 238
+ogImg: smartest_big.jpg
 ---
 By the time you see this post, I might have updated my little reading list to the side.  Or then again, I might not have.  This summer has featured really bad television along with Mrs. theskinnyonbenny being out of town or at work dinners more often than I'm used to.  The result is that I've been reading books like Burgess Meredith in <a href="http://en.wikipedia.org/wiki/Time_Enough_at_Last" target="_blank">that old <i>Twilight Zone</i></a> episode.
 
 Although I've been pretty happy with most of my choices, I'm compelled to pass along some praise for <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780743250627&itm=1" target="_blank">this book</a>.  I've been reading a little bit every day, and rarely does a day pass where I fail to laugh out loud, even when reading all by myself.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/smartest_big.jpg"></td></tr></table>
+<a class="lightview alignright" href="/img/smartest_big.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/smartest_big.jpg" alt="/img/smartest_big.jpg"><br><span class="caption"></span></a>
 
 The jist of it is this:  the author gives us a running narrative as he reads the <i>Encyclopaedia Britannica</i> all the way through from A to Z.  As he reads, he comments on entries.  Sometimes, he highlights an odd fact that was learned in the Encyclopedia, but other times, he relates real-life stories that touch only tangentially on the coincident Encyclopedia text.  Either way, it's a riot.
 
@@ -19,7 +20,7 @@ Last night, I was reading in the P's.  In the midst of his comments for <b>Plato
 
 I'm a little bit disappointed in one thing.  I hit an entry one day recently where he used the phrase "va-va-voom."  You know -- the goofy phrase that old men used to say when they would see a good looking woman.  I had just mentioned that I was going to start trying to bring back "va-va-voom" and lo and behold, here it is in a popular book.  Now I will get none of the credit when this term comes back as a full blown popular expression.
 
-I also just realized that A. J. Jacobs is the same writer who did <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&EAN=9780553373752&itm=3" target="_blank"><i>The Two Kings</i></a>.  This was a fifteen minute illustrated booklet which hillariously and blasphemously compared Jesus and Elvis.  For example, I remember a page that was something like, 
+I also just realized that A. J. Jacobs is the same writer who did *The Two Kings*.  This was a fifteen minute illustrated booklet which hillariously and blasphemously compared Jesus and Elvis.  For example, I remember a page that was something like, 
 
 "Jesus healed the sick..."
 

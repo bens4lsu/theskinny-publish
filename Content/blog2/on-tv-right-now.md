@@ -9,7 +9,7 @@ As far as I know, there's only one channel running new TV shows right now.  And 
 
 I direct this primarily at <i>John From Cincinnati</i>, the new show launched right after <em>The Sopranos</em> ended.  I watched the first episode, where they introduced a lot of odd characters and strange goings-on.  The second episode inc1
 included more strange goings-on, a lot of shouting by Rebecca De Mornay, the confirmation that Dylan from 90210 and Al Bundy are main characters, and was capped by the resurrection of a shttp://theskinnyonbenny.com/blog2/wp-admin/post.php?action=edit&post=309
-Benâ€™s Web Log â€º Edit â€” WordPressurfer kid from the dead.  After that episode, I was optimistic that we had a weird-as-shit, but entertaining new show.
+Ben's Web Log â€º Edit â€” WordPressurfer kid from the dead.  After that episode, I was optimistic that we had a weird-as-shit, but entertaining new show.
 
 But then the writers decided, "Now that we knew some characters, who needs things like plot or coherence?"  They notched up the screaming and the weird, culminating (at least for me) with last night's hour of people yelling at each other for no reason at all, sprinkled with people saying sentences that were complete nonsense, presumably mysteries to be revealed later.
 

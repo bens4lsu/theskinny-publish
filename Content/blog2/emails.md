@@ -49,10 +49,10 @@ Sent: Monday, March 03, 2008 12:36 PM
 To: Singleton, Carla; Stewart, Todd; QA
 Subject: RE: Billing and AR regression tests in Integration
 
-Oh lawdy...Todd, please forgive my response...Iâ€™m over medicated. ? 
+Oh lawdy...Todd, please forgive my response...I'm over medicated. ? 
 </blockquote>
 
-This is probably one of my favorite emails that I've ever gotten.  About once a week, I respond "Oh lawdy...Todd, please forgive my response...Iâ€™m over medicated. ? " to a random email.  It's a guarantied laugh (for me) every time.
+This is probably one of my favorite emails that I've ever gotten.  About once a week, I respond "Oh lawdy...Todd, please forgive my response...I'm over medicated. ? " to a random email.  It's a guarantied laugh (for me) every time.
 
 <BLOCKQUOTE>
 From: 

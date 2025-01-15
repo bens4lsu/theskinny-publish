@@ -11,21 +11,21 @@ Today, Baby K noticed this phenomenon for the first time.
 
 â€œWhassaaat?â€� he asked, pointing at the window.
 
-â€œThatâ€™s just water on the window.â€�
+â€œThat's just water on the window.â€�
 
 â€œMama do that.  Mama wash.â€�
 
-â€œHahahaha.  No, Mama didnâ€™t wash anything.  It just happens by itself.â€�
+â€œHahahaha.  No, Mama didn't wash anything.  It just happens by itself.â€�
 
 â€œPapa do that.â€�
 
-â€œNo.  Itâ€™s called condensation.  No one does it.  It just happens.â€�
+â€œNo.  It's called condensation.  No one does it.  It just happens.â€�
 
 â€œOla do it.â€�  
 
-He thinkâ€™s our cleaning lady is named Ola.  Much like the Bluth family thinking their youngest son is named Anyong.
+He think's our cleaning lady is named Ola.  Much like the Bluth family thinking their youngest son is named Anyong.
 
-â€œNo baby.  Ola didnâ€™t do it.â€�
+â€œNo baby.  Ola didn't do it.â€�
 
 â€œCah-mul?â€�
 
@@ -33,7 +33,7 @@ He thinkâ€™s our cleaning lady is named Ola.  Much like the Bluth family th
 
 He nods.
 
-â€œNo, Carmel didnâ€™t come over this morning to wash our windows.â€�
+â€œNo, Carmel didn't come over this morning to wash our windows.â€�
 
 â€œWhassaaat?â€�
 
@@ -41,4 +41,4 @@ He nods.
 
 â€œCon-say-doâ€�
 
-â€œRight.  Letâ€™s go see if Mama is awake yet.â€�
+â€œRight.  Let's go see if Mama is awake yet.â€�

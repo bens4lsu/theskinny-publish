@@ -1,13 +1,14 @@
 ---
 title: Dog Kus
 date: 2009-01-07 22:33
-description: A description of my post.
-tags: animals,book-reviews
+description: I got a book of haikus about dogs for Christmas, and it is the bomb.
+tags: animals,books, poetry
 id: 451
+ogImg: books/dog-ku.jpg
 ---
 Stacie gave me <a href="http://www.amazon.com/Dog-ku-Clever-Haikus-Cleverly-Written/dp/0312377142/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1231384831&sr=8-1" target="_blank">this book</a> for Christmas.
 
-<center><img src="/img/books/dog-ku.jpg" /></center>
+<a class="lightview centered" href="/img/dog-ku.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/dog-ku.jpg" alt="/img/dog-ku.jpg"><br><span class="caption"></span></a>
 
 The subtitle, which is difficult to read, is "Very Clever Haikus Cleverly Written by Very Clever Dogs."  The book starts out with a definite winner:
 

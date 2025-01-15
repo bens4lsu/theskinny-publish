@@ -16,7 +16,7 @@ Were made out of turnip greens
 
 Every time
 I kiss you girl
-It taste like pork anâ€™ beans</blockquote>
+It taste like pork an' beans</blockquote>
 
 The band we were listening to was called the Zydepunks.  Their web site bills them as, "New Orleans' Favorite Cajun Irish Jewish Punk band."  That's probably as good as I could describe them, except to say that it was a lot better than you would think Cajun Irish Jewish Punk music would be.
 

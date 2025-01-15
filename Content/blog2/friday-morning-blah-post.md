@@ -31,7 +31,7 @@ That warms the cockles of my heart.
 
 I'm doing this underdog pool where every week I have to pick one college football game where I expect the underdog to pull the upset.  You get the number of points that the betters were giving on that game.  So if you pick a long shot who wins you get a lot of points, and if you pick a slight underdog, you get a few points.  I'm not on the board yet, but only because Michigan State blew a sizable lead to Notre Dame last weekend.  Here's how I emailed my pick for this Saturday.
 
-<blockquote>WHAT COMES OUT OF A CHINAMANâ€™S ASS?
+<blockquote>WHAT COMES OUT OF A CHINAMAN'S ASS?
 
 I'll take Rice.
 </blockquote>

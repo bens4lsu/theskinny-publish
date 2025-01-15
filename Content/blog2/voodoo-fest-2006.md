@@ -21,7 +21,7 @@ The French Quarter isn't that big, but we kept finding ourselves in the setting 
 
 Perv mentioned that in a comment on that post, and there was one other comment that made me remember something else about that place:
 
-<blockquote>the picture reminds me of how Greg Brady (of Brady Bunch fame) decorated his room when he got to move into his dadâ€™s old office! Was there a lava lamp? </blockquote>
+<blockquote>the picture reminds me of how Greg Brady (of Brady Bunch fame) decorated his room when he got to move into his dad's old office! Was there a lava lamp? </blockquote>
 
 Awesome observation there.  I had mentioned the caution tape meant to keep you out of the kitchen, but I forgot to provide the fact that it was hanging down vertically, just like those beads that you had to walk through to get into the main part of Greg Brady's attic room.
 

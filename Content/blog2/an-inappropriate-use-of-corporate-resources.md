@@ -92,7 +92,7 @@ Subject: FW: Candy from Strangers
 
 Team,
 
-Iâ€™d like you to meet my new significant other in my life.  I hope you all can meet him soon.
+I'd like you to meet my new significant other in my life.  I hope you all can meet him soon.
 
 Thanks,
 

@@ -2,7 +2,7 @@
 title: Benny's Book Review:  The Last Season
 date: 2005-02-07 18:50
 description: I am currently reading Phil Jackson's book, <i>The Last Season</i>.  It has a subtile which I can't remember.  From reading the text, I'm pretty sure that Phil intended the subtitle to be, <i>...and Kobe Bryant is a no good whining bastard</i>, but the editors probably shot that down.  (Actually -- to be honest -- I downloaded an mp3 copy of Phil Jackson's book, and I've been listening to it while I walk the dog in the evening.  It's not the same as reading the book, but I don't really have the right verb.  "I'm currently listening to the book," doesn't work, because I'm not currently listening to it.  I'm currently typing on a laptop.  You see the problem.) 
-tags: pop-culture,book-reviews
+tags: pop-culture,books
 id: 95
 ogImg: philjackson.jpg
 ---

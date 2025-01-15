@@ -11,14 +11,14 @@ I can split the atoms of a molecule.
 
 (Not a single atom.  But ones tied to a molecule?  No prob.)
 
-Iâ€™m feeling so good, because I just went to check on our house, and thereâ€™s a crew from Illinois working to reconnect our electricity.
+I'm feeling so good, because I just went to check on our house, and there's a crew from Illinois working to reconnect our electricity.
 
-If youâ€™re reading this from outside of Louisiana, you might just think that Hurricane Gustov rolled up to our coast, and then fizzled into nothing.  But here we are, ten days later, and the conversation started in Baton Rouge is still, â€œSo, do you guys have power yet?â€�   Weâ€™ve barely talked Tigers or Saints.  Instead, we discuss curfews, road closures, near-riots in food stamp lines.
+If you're reading this from outside of Louisiana, you might just think that Hurricane Gustov rolled up to our coast, and then fizzled into nothing.  But here we are, ten days later, and the conversation started in Baton Rouge is still, â€œSo, do you guys have power yet?â€�   We've barely talked Tigers or Saints.  Instead, we discuss curfews, road closures, near-riots in food stamp lines.
 
 Good times.
 
 We came back from Florida Sunday.  Stayed in Slidell (with electricity) Sunday night, and then took three hours (normally an hour and a half) to get into town Monday morning.  
 
-Monday evening, our office got electricity, so Mrs, theskinnyonbenny, Vanya, me, and two dogs have been sleeping on an air mattress on the floor over there.  Itâ€™s not the worst way to get through a week, but I wonâ€™t be leading a gypsy lifestyle any time soon.
+Monday evening, our office got electricity, so Mrs, theskinnyonbenny, Vanya, me, and two dogs have been sleeping on an air mattress on the floor over there.  It's not the worst way to get through a week, but I won't be leading a gypsy lifestyle any time soon.
 
-Next hurricane, letâ€™s do this:  everyone I know without power puts in $10.  Last one to have it restored gets the pot.  For this storm, weâ€™d  be talking about $400 or so.  That would make it a little more bearable.  Every day, youâ€™re either happy to get your power back, or youâ€™re happy that one other contestant is eliminated from the mix.
+Next hurricane, let's do this:  everyone I know without power puts in $10.  Last one to have it restored gets the pot.  For this storm, we'd  be talking about $400 or so.  That would make it a little more bearable.  Every day, you're either happy to get your power back, or you're happy that one other contestant is eliminated from the mix.

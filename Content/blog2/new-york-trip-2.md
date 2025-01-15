@@ -5,7 +5,7 @@ description: A description of my post.
 tags: my-stories
 id: 397
 ---
-I donâ€™t even know how long itâ€™s been since I typed up one of these.  I have a lot of ground to cover, and a lot of ground I wonâ€™t get to, as Iâ€™m in the middle of an ultra-busy two weeks.  After next week, Iâ€™ll get back to one or two blogs a week, a regular photo of the day, and a link of the week update every week.  But for this week and next, youâ€™ll just have to settle for what I can puke out, a minute here and a minute there.
+I don't even know how long it's been since I typed up one of these.  I have a lot of ground to cover, and a lot of ground I won't get to, as I'm in the middle of an ultra-busy two weeks.  After next week, I'll get back to one or two blogs a week, a regular photo of the day, and a link of the week update every week.  But for this week and next, you'll just have to settle for what I can puke out, a minute here and a minute there.
 
 This past weekend, we went on a little excursion to New York.  We ate pretty good, drank in some cool bars, walked up and down the Avenues people watching and shopping.  Monday evening, we met several other people at <a href="http://www.flatironlounge.com" target="_blank">Flatiron Lounge</a>.
 

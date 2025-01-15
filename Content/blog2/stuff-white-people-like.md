@@ -32,7 +32,7 @@ It's difficult to pick examples, because almost every entry is relevant to me.  
 </tr><tr>
 	<td><a href="http://stuffwhitepeoplelike.wordpress.com/2008/01/22/17-gifted-children/" target="_blank">#16 Gifted Children</a> </td>
 </tr><tr>
-	<td>"Iâ€™m pretty sure the last non-gifted white child was born in 1962 in Reseda, CA. Since then, itâ€™s been a pretty sweet run."
+	<td>"I'm pretty sure the last non-gifted white child was born in 1962 in Reseda, CA. Since then, it's been a pretty sweet run."
 	
 	Isn't that the truth?
 	
@@ -52,7 +52,7 @@ It's difficult to pick examples, because almost every entry is relevant to me.  
 </tr><tr>
 	<td>I had a year-long submission into Vegetarianism, although it wasn't militantly enforced.  I'm not nuts about inhumane treatment of animals on the feed lots, and I'll buy organic if I have the choice and there's not too much of a price difference.  But still.
 	
-	"If you require a favor from a vegetarian white person, you should invite them to a dinner with your family. When your mother/grandmother offers them a dish with meat in it, they will reject it saying that they are vegetarian. When the meal is over, tell them that your mom is very embarrassed, and that in your culture rejecting food is the equivalent of spitting on someoneâ€™s grave. They will then owe you favor, this can be repeated when you need trips to the airport, someone to help you move, a small interest free loan, or a place for your friend to crash."
+	"If you require a favor from a vegetarian white person, you should invite them to a dinner with your family. When your mother/grandmother offers them a dish with meat in it, they will reject it saying that they are vegetarian. When the meal is over, tell them that your mom is very embarrassed, and that in your culture rejecting food is the equivalent of spitting on someone's grave. They will then owe you favor, this can be repeated when you need trips to the airport, someone to help you move, a small interest free loan, or a place for your friend to crash."
 	<br/><br/>
 	</td>
 </tr><tr>
@@ -66,7 +66,7 @@ It's difficult to pick examples, because almost every entry is relevant to me.  
 </tr><tr>
 	<td>Three years ago, I mentioned in <a href="http://theskinnyonbenny.com/blog2/archives/114">a post</a> how good a show this was.  I can't believe I haven't mentioned it since, but I've watched the whole series twice, and I'm ready to start on it again.  There are rumors of getting the cast together for a movie, which I hope happens soon.
 	
-	"If you are ever a white personâ€™s house, and you see an orange box in their DVD collection, you should say, 'Oh, you have Arrested Development, I love that show!' To which you will be offered a glass of wine, and perhaps an invitation to 80s night."
+	"If you are ever a white person's house, and you see an orange box in their DVD collection, you should say, 'Oh, you have Arrested Development, I love that show!' To which you will be offered a glass of wine, and perhaps an invitation to 80s night."
 	<br/><br/>
 	</td>
 </tr><tr>
@@ -116,7 +116,7 @@ It's difficult to pick examples, because almost every entry is relevant to me.  
 </tr><tr>
 	<td>I'm not sure how it took them to #93 to get to this one.
 	
-	"If you let them continue talking to you they are likely to spend hours talking to you about bands youâ€™ve never heard of and providing you with a weekly mix CD of rarities that you do not want."
+	"If you let them continue talking to you they are likely to spend hours talking to you about bands you've never heard of and providing you with a weekly mix CD of rarities that you do not want."
 	<br/><br/>
 	</td>
 </tr>
