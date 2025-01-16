@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Ben Schultz on 5/19/23.
 //
@@ -80,11 +80,12 @@ struct Menu: Component {
     
     
     var body: Component {
-
+        
         Div {
             List {
                 listItemHome.class("li-pagelink")
                 listItemBigTrip.class("li-pagelink")
+                
                 Collapser(text: "Blog", elementId: "collapser-blog").component {
                     listItemBlog.class("li-pagelink")
                     ListItem {
@@ -94,10 +95,12 @@ struct Menu: Component {
                         Link("Tag List", url: "/tags")
                     }.class("li-pagelink")
                 }
+                
                 Collapser(text: "Photo Galleries", elementId: "collapser-photos").component {
                     listItemDailyPhotos.class("li-pagelink")
                     listItemGalleries.class("li-pagelink")
                 }
+                
                 Collapser(text: "Videos", elementId: "collapser-videos").component {
                     ListItem {
                         Link("Family Vids", url: "/vid/family-home-videos/")
@@ -109,8 +112,10 @@ struct Menu: Component {
                         Link("2024 Big Trip", url: "/vid/velvet-elvis-2024-big-trip")
                     }.class("li-pagelink")
                 }
+                
                 listItemOldTweets.class("li-pagelink")
                 listItemAdop.class("li-pagelink")
+                
                 Collapser(text: "Velvet Elvi", elementId: "velvet-elvi").component {
                     ListItem {
                         Link("Rhodes 22 (2000-2016)", url: "/velvet-elvis/rhodes-22")
@@ -119,6 +124,7 @@ struct Menu: Component {
                         Link("Beneteau (2016-2023)", url: "/velvet-elvis/beneteau")
                     }.class("li-pagelink")
                 }
+                
                 Collapser(text: "Media ♪ ", elementId: "media-consumed").component {
                     ListItem {
                         Link("♪ Playlists", url: "/playlist")
@@ -154,6 +160,7 @@ struct Menu: Component {
                         Link("Crystal On Oprah", url: "/x/crystalOnOprah")
                     }.class("li-pagelink")
                 }
+                
                 Collapser(text: "From Others", elementId: "collapser-others").component {
                     ListItem {
                         Link("Tyler's Haikus", url: "/haikus")
@@ -174,27 +181,31 @@ struct Menu: Component {
                         Link("Daisy On Honor", url: "/x/daisyOnHonor")
                     }.class("li-pagelink todo")
                 }
+                
                 Collapser(text: "Benny Elsewhere", elementId: "collapser-elsewhere").component {
                     ListItem {
-                        Link("Bluesky", url:"https://bsky.app/profile/bens4lsu.bsky.social")
+                        Link("Bluesky", url:"https://bsky.app/profile/ben.theskinnyonbenny.com").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("Facebook", url:"https://www.facebook.com/Bens4lsu/")
+                        Link("Photobot", url:"https://bsky.app/profile/photobot.theskinnyonbenny.com").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("Insta", url: "https://www.instagram.com/bens4lsu/")
+                        Link("Facebook", url:"https://www.facebook.com/Bens4lsu/").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/")
+                        Link("Insta", url: "https://www.instagram.com/bens4lsu/").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("VE Facebook", url: "https://www.instagram.com/sailvelvetelvis/")
+                        Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("VE Web", url: "https://sailvelvetelvis.com")
+                        Link("VE Insta", url: "https://www.instagram.com/sailvelvetelvis/").toNewScreen()
                     }.class("li-pagelink")
                     ListItem {
-                        Link("Benny @ Work", url:"https://concordbusinessservicesllc.com")
+                        Link("VE Web", url: "https://sailvelvetelvis.com").toNewScreen()
+                    }.class("li-pagelink")
+                    ListItem {
+                        Link("Benny @ Work", url:"https://concordbusinessservicesllc.com").toNewScreen()
                     }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")

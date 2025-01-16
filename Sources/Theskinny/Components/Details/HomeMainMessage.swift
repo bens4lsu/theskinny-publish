@@ -26,12 +26,18 @@ struct HomeMainMessage: Component {
     }
     
     var cust: Component {
+
+// Photo Gallery
         
-        ComponentGroup {
-            Text("Nothing big here, just a few pics from the Christmas season.")
-            ImageGalleryLinkSet(195)
-            EmptyComponent()
-        }
+//        ComponentGroup {
+//            Text("Nothing big here, just a few pics from the Christmas season.")
+//            ImageGalleryLinkSet(195)
+//            EmptyComponent()
+//        }
+
+
+
+// Video Galleries
         
 //        let vgLink1 = VideoGalleryLink(url: "/video/lsubaton-rouge-lakes-are-a-disaster-right-now/", image: "mq20231028.jpg", caption: "LSU Lakes Are a Disaster Right Now")
 //        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
@@ -45,7 +51,10 @@ struct HomeMainMessage: Component {
 //        }
 //        
 
-//        EmptyComponent()
+
+
+// Nothing
+        EmptyComponent()
     }
     
     init(_ context: PublishingContext<Theskinny>) {
