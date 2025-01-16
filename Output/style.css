@@ -550,7 +550,7 @@ div.micro-post-container {
     margin: auto;
 }
 
-div.micro-post-parent-container {
+div.micro-post-parent-container, div.clear-both {
     clear: both;
 }
 

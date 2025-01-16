@@ -13,7 +13,7 @@ import Plot
 
 class LetterboxdData {
     
-    struct LetterboxdMovie: Comparable {
+    class LetterboxdMovie: Comparable {
         
         let dateWatched: String
         let title: String
@@ -21,9 +21,22 @@ class LetterboxdData {
         let rating: Float?
         let letterboxdUrl: String
         
+        init(dateWatched: String, title: String, year: String, rating: Float?, letterboxdUrl: String) {
+            self.dateWatched = dateWatched
+            self.title = title
+            self.year = year
+            self.rating = rating
+            self.letterboxdUrl = letterboxdUrl
+        }
+        
         static func < (lhs: LetterboxdData.LetterboxdMovie, rhs: LetterboxdData.LetterboxdMovie) -> Bool {
             // reverse sort (intentional)
             rhs.dateWatched < lhs.dateWatched
+        }
+        
+        static func == (lhs: LetterboxdData.LetterboxdMovie, rhs: LetterboxdData.LetterboxdMovie) -> Bool {
+            // reverse sort (intentional)
+            rhs.dateWatched == lhs.dateWatched
         }
     }
     

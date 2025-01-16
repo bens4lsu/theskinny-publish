@@ -28,17 +28,17 @@ do {
     
     
     try hideResourceImages()
-        
+            
     try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
-        .printDate(),
-        .writePostPages(),
-        .writeRedirectsFromWordpressUrls(),
-        .writeVideoAlbumPages(),
-        .imageGalleries(),
-        .dailyPhotos(),
-        .oldMicroPosts(),
-        .playlists(),
-        .printDate()
+//        .printDate(),
+//        .writePostPages(),
+//        .writeRedirectsFromWordpressUrls(),
+//        .writeVideoAlbumPages(),
+//        .imageGalleries(),
+//        .dailyPhotos(),
+//        .oldMicroPosts(),
+//        .playlists(),
+//        .printDate()
     ])
     shell("say \"Ding.\"")
     print (Date())

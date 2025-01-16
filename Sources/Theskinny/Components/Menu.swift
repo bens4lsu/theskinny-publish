@@ -133,11 +133,11 @@ struct Menu: Component {
                         Link("📙 Books", url: "/books")
                     }.class("li-pagelink")
                     ListItem {
-                        Text("🎥 Movies")
-                    }.class("li-pagelink todo")
+                        Link("🎥 Movies", url: "/movies")
+                    }.class("li-pagelink")
                     ListItem {
-                        Text("📺 TV")
-                    }.class("li-pagelink todo")
+                        Link("📺 TV", url: "/tv")
+                    }.class("li-pagelink")
                 }
                 
                 Collapser(text: "Extras", elementId: "collapser-extras").component {

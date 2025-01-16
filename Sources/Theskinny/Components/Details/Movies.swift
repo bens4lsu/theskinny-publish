@@ -49,7 +49,7 @@ struct Movies: Component {
     var body: Component {
         Div {
             Div {
-                H1("Movies I watched")
+                H1("Movies Watched")
                 Div ("I really don't watch that many movies, and then I forget to log some of them that I do watch.  But here's what I logged, at least.").class("pg-instruction-box caption")
                 H3("Watch list last updated \(lastUpdateDate).  ")
             }

@@ -27,7 +27,7 @@ class GoodreadsData {
         }
     }
     
-    struct GoodreadsBook: Comparable {
+    class GoodreadsBook: Comparable {
         
         let bookId: Int
         let title: String
@@ -36,9 +36,23 @@ class GoodreadsData {
         let dateRead: Date
         let howConsumed: GoodreadsHowConsumed
         
+        init(bookId: Int, title: String, author: String, myRating: UInt8?, dateRead: Date, howConsumed: GoodreadsHowConsumed) {
+            self.bookId = bookId
+            self.title = title
+            self.author = author
+            self.myRating = myRating
+            self.dateRead = dateRead
+            self.howConsumed = howConsumed
+        }
+        
         static func < (lhs: GoodreadsData.GoodreadsBook, rhs: GoodreadsData.GoodreadsBook) -> Bool {
             // reverse sort (intentional)
             rhs.dateRead < lhs.dateRead
+        }
+        
+        static func == (lhs: GoodreadsData.GoodreadsBook, rhs: GoodreadsData.GoodreadsBook) -> Bool {
+            // reverse sort (intentional)
+            rhs.dateRead == lhs.dateRead
         }
     }
     

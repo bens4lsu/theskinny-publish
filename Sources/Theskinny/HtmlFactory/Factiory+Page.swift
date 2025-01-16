@@ -27,7 +27,7 @@ extension TsobHTMLFactory {
             case "micro-posts":
                 return makePageHTMLMicroPosts(for: page, context: context)
             case "pgHome":
-                return makePagePgHome(for: page, context: context)
+                return makePageHTMLDefault(for: page, context: context, content: Galleries(), title: "Photo Galleries")
             case "velvet-elvis/beneteau":
                 return makePageBeneteauHome(for: page, context: context)
             case "big-trip-reversed":
@@ -35,7 +35,11 @@ extension TsobHTMLFactory {
             case "mobileSitemap":
                 return makePageMobileSitemap(for: page, context: context)
             case "books":
-                return makePageBooks(for: page, context: context)
+                return makePageHTMLDefault(for: page, context: context, content: Books(), title: "Books Read")
+            case "movies":
+                return makePageHTMLDefault(for: page, context: context, content: Movies(), title: "Movies Watched")
+            case "tv":
+                return makePageHTMLDefault(for: page, context: context, content: TVShows(), title: "TV Shows Watched")
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
@@ -65,7 +69,6 @@ extension TsobHTMLFactory {
                 return "theskinnyonbenny.com"
             }
         }
-        
         var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
         let imgPath = page.imagePath?.string ?? EnvironmentKey.emptyImg
         let imgNode = Node.ogImgNode(imgPath, context: context)
@@ -78,6 +81,18 @@ extension TsobHTMLFactory {
         )
         return html
     }
+        
+        
+    fileprivate func makePageHTMLDefault(for page: Publish.Page, context: PublishingContext<Theskinny>, content: any Component, title: String) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: title)
+        let pageMain = AnyPageMain(mainContent: content, site: context.site)
+        return HTML (
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+        
+
     
     fileprivate func makePageHTMLBlogArchiveByDate(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Blog Index of Articles by Date")
@@ -109,24 +124,16 @@ extension TsobHTMLFactory {
         )
     }
     
-    fileprivate func makePageBooks(for page: Publish.Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Books Read")
-        let pageContent = Books()
-        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
-        return HTML (
-            htmlHeadInfo.node,
-            .body(.component(pageMain))
-        )
-    }
+
     
-    fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
-        let pageMain = AnyPageMain(mainContent: Galleries(), site: context.site)
-        return HTML(
-            htmlHeadInfo.node,
-            .body(.component(pageMain))
-        )
-    }
+//    fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+//        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
+//        let pageMain = AnyPageMain(mainContent: Galleries(), site: context.site)
+//        return HTML(
+//            htmlHeadInfo.node,
+//            .body(.component(pageMain))
+//        )
+//    }
     
     fileprivate func makePageBeneteauHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Beneteau Velvet Elvis")
