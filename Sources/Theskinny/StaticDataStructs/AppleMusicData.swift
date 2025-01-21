@@ -17,7 +17,8 @@ struct AppleMusicData {
         do {
             let xmlFiles = try Folder(path: Plot.EnvironmentKey.appleMusicFilePath).files.filter { file in
                 file.extension == "xml" &&
-                file.name != "Music.xml"
+                file.name != "Music.xml" &&
+                file.name != "Library.xml"
             }
             
             var playlists = [AppleMusicLibPlaylist]()
