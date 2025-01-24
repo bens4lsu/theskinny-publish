@@ -1,7 +1,7 @@
 id: 9000001
-slug: interesting-unusual-funny-2023-2024
+slug: interesting-unusual-funny-2023-2025
 name: >
-    Interesting, Unusual, and Funny 2023 - 2024
+    Interesting, Unusual, and Funny 2023 - 2025
 caption: 
 tn: mq2kk.jpg
 linkBack:
@@ -79,4 +79,12 @@ videos:
         embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/pO6L3TwzFW4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240925.jpg
         duration: 0:27
-
+    -
+        id: 912345038
+        dateRecorded: 2025-01-24
+        name: Maks Drinks Water Funny
+        caption: 
+        url: https://youtu.be/W66citF_B5o
+        embed: <iframe width="879" height="494" src="https://www.youtube.com/embed/W66citF_B5o" title="Maks Drinks Water Funny" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20240124.jpg
+        duration: 0:13
