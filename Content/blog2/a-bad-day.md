@@ -1,7 +1,7 @@
 ---
 title: A Bad Day
 date: 2006-08-02 09:30
-description: A description of my post.
+description: You know how in Peanuts, a really angry person would be represented by a sour face and a big bunch of scribble right over their head?  Well that's how Mrs. theskinnyonbenny looked yesterday morning.  It started at 3:30 in the morning.  For some reason, I was awake, watching a show about crocodiles on the National Geographic channel.  To my great surprise, Mrs. theskinnyonbenny bolted out of the bedroom angry enough to be fitted for a straight jacket.
 tags: uncategorized
 id: 232
 ---

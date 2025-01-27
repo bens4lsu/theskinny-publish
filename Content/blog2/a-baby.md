@@ -1,20 +1,21 @@
 ---
 title: A Baby
 date: 2006-07-28 15:48
-description: A description of my post.
+description: This little thing is my new nephew, born a couple of weeks back.  The photo came to me with the following stream of consciousness:
 tags: my-stories
+ogImg: This little thing is my new nephew, born a couple of weeks back.  The photo came to me with the following stream of consciousness:
 id: 231
 ---
-<theskinn:nohome><table cellpadding="2" align="center"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/caleb.jpg"></td></tr></table></theskinn:nohome>
+<a class="lightview alignright" href="/img/caleb.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/caleb.jpg" alt="/img/caleb.jpg"><br><span class="caption"></span></a>
 
 This little thing is my new nephew, born a couple of weeks back.  The photo came to me with the following stream of consciousness:
 
 <blockquote>These are the "newbie" pictures of Caleb. We have a bunch more, but they are in a slide show that I don't know how to turn into individual pictures. He's even cuter now! Ben- why isn't there a picture of this gorgeous baby on your web page?? I think he looks just like you!
-
+<br><br>
 Caleb Lee Myers, born July 8, 2006 at 11:21pm, weighing 7lbs, 8oz, and at 22 inches long (Yes, he was almost two feet long!!)...
-
+<br><br>
 Talk to you all soon!
-
+<br><br>
 Love,
 Sarah & Neil</blockquote>
 
@@ -33,12 +34,12 @@ Heck, my previous nephew got saddled with Benjamin as a middle name.  Perhaps th
 
 Let's call a spade a spade, and just for today, agree to admit the following rules of thumb.
 
-<b>Newborn babies:</b>  Usually kind of ugly.
+**Newborn babies:**  Usually kind of ugly.
 
-<b>One year olds:</b>  Have their own look and personality, and they are usually pretty cute by then.
+**One year olds:**  Have their own look and personality, and they are usually pretty cute by then.
 
-<b>Toddlers and Little Kids:</b>  Almost always adorable.
+**Toddlers and Little Kids:**  Almost always adorable.
 
-<b>Older kids:</b>  Develop their own way.  We all know someone who was an awkward kid that one year returned from Summer break as a beauty.  Heck, we saw Marsha Brady facilitate such a change for a classmate in the course of one episode.  Conversely, we've also known people who peaked in cuteness when they were six.  It's part of what makes people interesting.  No matter how you slice it, they ultimately turn into snotty teenagers.  Sorry parents, there's nothing you can do about that.
+**Older kids:**  Develop their own way.  We all know someone who was an awkward kid that one year returned from Summer break as a beauty.  Heck, we saw Marsha Brady facilitate such a change for a classmate in the course of one episode.  Conversely, we've also known people who peaked in cuteness when they were six.  It's part of what makes people interesting.  No matter how you slice it, they ultimately turn into snotty teenagers.  Sorry parents, there's nothing you can do about that.
 
-<b>Brides:</b>  They aren't all beautiful.  Just check the wedding page in Sunday's paper.  But when we're together in person, it's okay to pretend that they all are.
+**Brides:**  They aren't all beautiful.  Just check the wedding page in Sunday's paper.  But when we're together in person, it's okay to pretend that they all are.
