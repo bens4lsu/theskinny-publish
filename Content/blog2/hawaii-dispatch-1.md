@@ -1,15 +1,17 @@
 ---
 title: Hawaii Dispatch 1
 date: 2006-07-19 21:37
-description: A description of my post.
+description:  It's an odd thing to be sent to Hawaii on a business trip.  Of course, there's the excitement that you're going to such an awesome destination, but then again, you're being sent away for business, so you spend your days working while you know that all of your co-guests at the hotel are swimming, taking in sights, and doing generally fun vacation things.  You get back to the hotel at 6:00 pm, just in time to see all of the beautiful tan people head in to wash the salt and sand out of their cracks and to hit the nightlife.  You, on the other hand, have time for a swim, a bite, and a relatively early bed time.
 tags: the-office,travel
 id: 228
+ogImg: hawaii-falls.jpg
 ---
  It's an odd thing to be sent to Hawaii on a business trip.  Of course, there's the excitement that you're going to such an awesome destination, but then again, you're being sent away for business, so you spend your days working while you know that all of your co-guests at the hotel are swimming, taking in sights, and doing generally fun vacation things.  You get back to the hotel at 6:00 pm, just in time to see all of the beautiful tan people head in to wash the salt and sand out of their cracks and to hit the nightlife.  You, on the other hand, have time for a swim, a bite, and a relatively early bed time.
 
 Nowhere does the fact that you aren't a tourist hit home more than the early morning.  I've been waking up early, getting a coffee, and taking a long morning walk on the beach.  It's just an excellent, excellent way to start the day.  But then when the walk is over, it is TORTURE to go up, shower, and put on workplace-appropriate clothes.  The worst part is the elevator ride down, wearing kakhis -- PANTS!  IN HAWAII!, collared shirt, socks, and shoes next to morning beach people.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/hawaii-tree.jpg"></td></tr><tr><td class="caption" width="250">I'm becoming a better photographer, but I don't have anyone to take picutres of, so I end up with a bunch of pretty but cheesy looking photos like this.  All of my pictures are up without any digital editing, other than to be cropped or resized.</td></tr></table>
+
+<a class="lightview alignright" href="/img/hawaii-tree.jpg" data-lightview-caption="I'm becoming a better photographer, but I don't have anyone to take picutres of, so I end up with a bunch of pretty but cheesy looking photos like this.  All of my pictures are up without any digital editing, other than to be cropped or resized." data-lightview-group="group1" style="width:350px;"><img src="/img/hawaii-tree.jpg" alt="/img/hawaii-tree.jpg"><br><span class="caption">I'm becoming a better photographer, but I don't have anyone to take picutres of, so I end up with a bunch of pretty but cheesy looking photos like this.  All of my pictures are up without any digital editing, other than to be cropped or resized.</span></a>
 
 But still, I'm here for free.  I've been in a beautiful setting for each sunrise and sunset.  I've eaten good meals, and I've had a whole lot of fun.  I'm not complaining.  (Although I cut my foot on a pice of coral while swimming yesterday evening, and it sure does bother me now.  I'm not counting on sympathy.)
 
@@ -17,7 +19,7 @@ Mrs. theskinnyonbenny would love this place for the summer weather.  High temper
 
 Mrs. theskinnyonbenny tops the list of who I wish could be here, but she's not the only one.  The hotel hosted a party sponsored by the Bicardi distributor on Sunday night.  It was a fun party, but I couldn't help but think that if Eddie or the Sharples had been here, we would have shown all of the young college-aged kids how to really throw down.  We might have ended up in jail, but they would all still be telling stories on us.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="500" ><img src="/img/hawaii-outrigger.jpg"></td></tr><tr><td class="caption" width="250">This is the finish of an outrigger race Sunday morning</td></tr></table>
+<a class="lightview alignright" href="/img/hawaii-outrigger.jpg" data-lightview-caption="This is the finish of an outrigger race Sunday morning." data-lightview-group="group1" style="width:350px;"><img src="/img/hawaii-outrigger.jpg" alt="/img/hawaii-outrigger.jpg"><br><span class="caption">This is the finish of an outrigger race Sunday morning.</span></a>
 
 The party featured a DJ and several cash bars on a pool deck and lawn right in front of the ocean.  I have some standards when it comes to rum, so I stuck to beer.  Their beer choices were Budweiser and Bud light, seved in bottle-shaped aluminum.  I thought at first that they were those lined bottles to keep beer colder, but in fact, they were the worst of all worlds.  The taller narrow bottle shaped and heat conducting aluminum conspired to ensure that you could not possibly drink a whole beer in the time that it took the beer to get warm.  The bottle-shaped can is a horrible, horrible invention that should go the way of the dodo bird as quickly as possible.
 
@@ -25,7 +27,7 @@ I didn't drink enough warm beer to do anything regretable, but I did tell a guy 
 
 I think I had six beers, but I only got charged for half of them, thanks to a very nice but incompetant waiter.  I talked to him a lot, and as I closed out the tab, he confessed that it was his first day on the job.  I gave a generous tip, understanding that he had a tough assignment for the first day, and as thanks for putting half of my beers on someone else's bill.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/hawaii-falls.jpg"></td></tr><tr><td class="caption" width="250">The little spec beneath the waterfall is me.  This was also on Sunday.</td></tr></table>
+<a class="lightview alignright" href="/img/hawaii-falls.jpg" data-lightview-caption="The little spec beneath the waterfall is me.  This was also on Sunday." data-lightview-group="group1" style="width:350px;"><img src="/img/hawaii-falls.jpg" alt="/img/hawaii-falls.jpg"><br><span class="caption">The little spec beneath the waterfall is me.  This was also on Sunday.</span></a>
 
 I saw the same waiter this evening, and he clearly remembered me.  I didn't order a drink, and I didn't have the heart to admit that I've given up the sauce for a short time.  I'm not on some moral high ground or anything.  It's just that I had our New York trip, followed by Fourth of July weekend, followed by Mrs. theskinnyonbenny's birthday, followed by this hotel party.  All of these have involved a lot of drinks, and I'm feeling the need to detox for a while.
 
