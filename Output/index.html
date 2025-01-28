@@ -1,30 +1,34 @@
 <!DOCTYPE html><html><head><meta charset="UTF-8"/><meta property="og:site_name" content="theskinnyonbenny.com"/><link rel="canonical" href="https://theskinnyonbenny.com"/><meta name="twitter:url" content="https://theskinnyonbenny.com"/><meta property="og:url" content="https://theskinnyonbenny.com"/><title>theskinnyonbenny.com</title><meta name="twitter:title" content="theskinnyonbenny.com"/><meta property="og:title" content="theskinnyonbenny.com"/><meta name="description" content="Personal Website, Ben Schultz, Baton Rouge"/><meta name="twitter:description" content="Personal Website, Ben Schultz, Baton Rouge"/><meta property="og:description" content="Personal Website, Ben Schultz, Baton Rouge"/><meta name="twitter:card" content="summary"/><script src="https://code.jquery.com/jquery-3.7.0.min.js"></script><script src="https://www.googletagmanager.com/gtag/js?id=G-KL8PZZGY28"></script><script src="/scripts/lightview.js"></script><script src="/scripts/bluesky-timeline.js"></script><script src="/scripts/menu.js?v=1035"></script><link rel="stylesheet" href="/style/lightview.css" type="text/css"/><link rel="stylesheet" href="/style/style.css?v=1035" type="text/css"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="shortcut icon" href="/img/headers/favicon.ico" type="image/png"/><link rel="alternate" href="/feed.rss" type="application/rss+xml" title="Subscribe to theskinnyonbenny.com"/><script>    function dpPath() {
-            var x = new Date();
-            var y = x.getFullYear().toString();
-            var m = (x.getMonth() + 1).toString();
-            var d = x.getDate().toString();
-            d = ('0' + d).substring(d.length - 1);
-            m = ('0' + m).substring(m.length - 1);
-            var yyyymmdd = y + m + d;
-            return yyyymmdd;
-        }
+        var x = new Date();
+        var y = x.getFullYear().toString();
+        var m = (x.getMonth() + 1).toString();
+        var d = x.getDate().toString();
+        d = ('0' + d).substring(d.length - 1);
+        m = ('0' + m).substring(m.length - 1);
+        var yyyymmdd = y + m + d;
+        return yyyymmdd;
+    }
+    function dateToShow() {
+        let x = ["20250101","20250102","20250103","20250104","20250105","20250106","20250107","20250109","20250110","20250115","20250116","20250117","20250121","20250124"].filter((dt) => {
+            return dt <= dpPath();
+        });
+        return x.sort().pop();
+    }
 
-        function pathPart() {
-            var today = dpPath();
-            var latest = "20250124";
+    function pathPart() {
+        let winner = dateToShow();
 
-            var winner = today < latest ? today : latest;
-            var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
-            return pathPart
-        }
+        var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
+        return pathPart
+    }
 
-        $(document).ready(function(){
+    $(document).ready(function(){
 
-            var today = dpPath();
-            var latest = "20250124";
+        var today = dpPath();
+        var latest = "20250124";
 
-            var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
-            $('#homeDPImage').attr('src', dailyphotoImg);
+        var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
+        $('#homeDPImage').attr('src', dailyphotoImg);
     });
     
     $(document).ready(function(){
@@ -73,5 +77,5 @@ article:first-of-type {
 .mt-8 { display: none; }
 "
   >
-  </bsky-embed><div class="mt-footer"><a href="https://bsky.app/profile/ben.theskinnyonbenny.com" target="_blank">More posts, powered by Bluesky for now...</a></div></div></div><div class="div-home-latestblog"><div class="divPostShort"><div class="divPostFlexbox"><div class="divPostStuff"><h2><a href="/blog2/family-wedding-and-record-snow">Family Wedding and Record Snow</a></h2><h3>January 24, 2025</h3><div>Since we spoke last, theskinnyonbenny family caught up with family at a wedding and then enjoyed the biggest snow storm ever.</div></div><div class="divPostThumbnail"><a href="/blog2/family-wedding-and-record-snow"><img src="/img//video-thumbnails/mq20240124b.jpg"/></a></div></div><div class="top-nav-links divPostEndLink"><div class="link-arrow link-arrow-left"></div><div class="link-arrow link-middle"></div><div class="link-arrow link-arrow-right"><a href="/blog2/family-wedding-and-record-snow" class="div-right-text">read</a><div class="div-right-ticks">»</div></div></div></div></div><div class="home-big-trip"><div class="divPostShort"><h2><a href="/big-trip">2024 Velvet Elvis Big Trip</a></h2><div><div class="divH4Sub"><div><h4><a href="/gal/193%20-%20Key%20West%20and%20Dry%20Tortugas">Photo Gallery: Key West and Dry Tortugas</a></h4><span class="caption">September 03, 2024</span></div><div><img src="/img/gal/193%20-%20Key%20West%20and%20Dry%20Tortugas//data/normal.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/big-trip/dominican-republic-and-bahamas">Dominican Republic and Bahamas</a></h4><span class="caption">August 16, 2024</span></div><div><img src="/img/gal/192%20-%20Southernmost%20Bahamas/resIMG_20240715_185458_IMG_3897.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/gal/192%20-%20Southernmost%20Bahamas">Photo Gallery: Southernmost Bahamas</a></h4><span class="caption">August 15, 2024</span></div><div><img src="/img/gal/192%20-%20Southernmost%20Bahamas//data/normal.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/gal/191%20-%20Dominican%20Republic">Photo Gallery: Dominican Republic</a></h4><span class="caption">August 09, 2024</span></div><div><img src="/img/gal/191%20-%20Dominican%20Republic//data/normal.jpg"/></div></div></div><div class="divH4Sub"><div class="grid-span-2"><h4><a href="/velvet-elvis/real-time-tracking">Real Time Map</a></h4></div><div class="grid-span-2 padtop"><iframe src="https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000" frameborder="0" allowfullscreen></iframe></div></div></div></div><div class="div-home-dailyphoto"><h1>The Daily Photo</h1><img src="/dailyphotostore/2005/20051001.jpg" id="homeDPImage"/><div class="div-dp-message">Have you seen them all?  Check the <a href="/dailyphoto">daily photo page</a> to be sure.</div></div><div class="div-home-shelly"><div><img src="/img/shelly1.jpg" alt="shelly">
+  </bsky-embed><div class="mt-footer"><a href="https://bsky.app/profile/ben.theskinnyonbenny.com" target="_blank">More posts, powered by Bluesky for now...</a></div></div></div><div class="div-home-latestblog"><div class="divPostShort"><div class="divPostFlexbox"><div class="divPostStuff"><h2><a href="/blog2/death-and-other-ways-to-break-all-your-shit">Death and Other Ways to Break All Your Expensive Shit</a></h2><h3>January 28, 2025</h3><div>There's a mystery in this show.  And the mystery isn't the show's mystery.  The mystery is whether this thing that's bothering me is sloppy production or a clue meant to be found.</div></div><div class="divPostThumbnail"><a href="/blog2/death-and-other-ways-to-break-all-your-shit"><img src="/img/death-and-other-screenshot.jpg"/></a></div></div><div class="top-nav-links divPostEndLink"><div class="link-arrow link-arrow-left"></div><div class="link-arrow link-middle"></div><div class="link-arrow link-arrow-right"><a href="/blog2/death-and-other-ways-to-break-all-your-shit" class="div-right-text">read</a><div class="div-right-ticks">»</div></div></div></div></div><div class="home-big-trip"><div class="divPostShort"><h2><a href="/big-trip">2024 Velvet Elvis Big Trip</a></h2><div><div class="divH4Sub"><div><h4><a href="/gal/193%20-%20Key%20West%20and%20Dry%20Tortugas">Photo Gallery: Key West and Dry Tortugas</a></h4><span class="caption">September 03, 2024</span></div><div><img src="/img/gal/193%20-%20Key%20West%20and%20Dry%20Tortugas//data/normal.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/big-trip/dominican-republic-and-bahamas">Dominican Republic and Bahamas</a></h4><span class="caption">August 16, 2024</span></div><div><img src="/img/gal/192%20-%20Southernmost%20Bahamas/resIMG_20240715_185458_IMG_3897.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/gal/192%20-%20Southernmost%20Bahamas">Photo Gallery: Southernmost Bahamas</a></h4><span class="caption">August 15, 2024</span></div><div><img src="/img/gal/192%20-%20Southernmost%20Bahamas//data/normal.jpg"/></div></div></div><div><div class="divH4Sub"><div><h4><a href="/gal/191%20-%20Dominican%20Republic">Photo Gallery: Dominican Republic</a></h4><span class="caption">August 09, 2024</span></div><div><img src="/img/gal/191%20-%20Dominican%20Republic//data/normal.jpg"/></div></div></div><div class="divH4Sub"><div class="grid-span-2"><h4><a href="/velvet-elvis/real-time-tracking">Real Time Map</a></h4></div><div class="grid-span-2 padtop"><iframe src="https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000" frameborder="0" allowfullscreen></iframe></div></div></div></div><div class="div-home-dailyphoto"><h1>The Daily Photo</h1><img src="/dailyphotostore/2005/20051001.jpg" id="homeDPImage"/><div class="div-dp-message">Have you seen them all?  Check the <a href="/dailyphoto">daily photo page</a> to be sure.</div></div><div class="div-home-shelly"><div><img src="/img/shelly1.jpg" alt="shelly">
     <div class="caption">"I don't think the new layout of the skinny.  Too busy.  You suck."  -- Shelly Williams, February 15, 2011 via text message</div></div></div><div class="div-home-after"></div></div></article><footer class="main-footer"><div class="footer-text"><div>© 2004 - 2025 theskinnyonbenny.com</div><div>Generated using <a href="https://github.com/johnsundell/publish">Publish</a>.  Written in Swift.</div></div></footer></div></body></html>

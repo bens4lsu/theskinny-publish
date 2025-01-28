@@ -24,7 +24,7 @@ struct TsobHTMLFactory: HTMLFactory {
         
     func makeHomeHTML<T: Website>(for index: Index, section: Section<T>, context: PublishingContext<Theskinny>) throws -> HTML {
         var htmlHeadInfo = HeaderInfo(location: context.index, title: "theskinnyonbenny.com")
-        htmlHeadInfo.additionalNodes = [Script(DailyPhotoData.scriptImage).headerNode]
+        try htmlHeadInfo.additionalNodes = [Script(DailyPhotoData.scriptImage).headerNode]
         let pageContent = HomePage(context)
         let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
         

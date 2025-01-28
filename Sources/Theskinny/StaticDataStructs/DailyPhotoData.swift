@@ -14,6 +14,7 @@ enum DailyPhotoError: Error {
     case errorInFileName(name: String)
     case errorInFolderName(name: String)
     case fileOutOfPlace(_ text: String)
+    case dpArrayOfYearsIsEmpty
 }
 
 
@@ -195,6 +196,26 @@ struct DailyPhotoData {
     
     // MARK: For generating Javascript redirects to the latest image/page
     
+    static var latestYear: DailyPhotoYear {
+        get throws {
+            guard let latestDPYear = years.last?.year,
+                  let thisYear = UInt16(EnvironmentKey.formatterYYYY.string(from: Date()))
+            else {
+                throw (DailyPhotoError.dpArrayOfYearsIsEmpty)
+            }
+            let yearToUse = thisYear < latestDPYear ? thisYear : latestDPYear
+            return years.filter { $0.year == yearToUse}.first!
+        }
+    }
+    
+    static func allDatesFor(year yearObject: DailyPhotoYear) -> String {
+        let yearStringsInArray = yearObject.dp.map { $0.yyyyMMdd }
+        let encoder = JSONEncoder()
+        let jsonString = String(data:try! encoder.encode(yearStringsInArray), encoding: .utf8)?
+            .replacingOccurrences(of: "-", with: "")
+        return jsonString ?? ""
+    }
+    
     static var lastDayString: String {
         guard let dp = Self.years.last?.dp.last else {
             return ""
@@ -202,59 +223,107 @@ struct DailyPhotoData {
         return "\(dp.year.zeroPadded(4))\(dp.month.zeroPadded(2))\(dp.day.zeroPadded(2))"
     }
     
-    static var scriptCommon: String {
+    // MARK: Script Strings
+    
+    static var javascriptCurrentDateString: String {
         """
             function dpPath() {
-                    var x = new Date();
-                    var y = x.getFullYear().toString();
-                    var m = (x.getMonth() + 1).toString();
-                    var d = x.getDate().toString();
-                    d = ('0' + d).substring(d.length - 1);
-                    m = ('0' + m).substring(m.length - 1);
-                    var yyyymmdd = y + m + d;
-                    return yyyymmdd;
+                var x = new Date();
+                var y = x.getFullYear().toString();
+                var m = (x.getMonth() + 1).toString();
+                var d = x.getDate().toString();
+                d = ('0' + d).substring(d.length - 1);
+                m = ('0' + m).substring(m.length - 1);
+                var yyyymmdd = y + m + d;
+                return yyyymmdd;
+            }
+        """
+    }
+    
+    static var scriptCommon: String {
+        get throws {
+            
+            try javascriptCurrentDateString +
+            """
+            
+                function dateToShow() {
+                    let x = \(allDatesFor(year: latestYear)).filter((dt) => {
+                        return dt <= dpPath();
+                    });
+                    return x.sort().pop();
                 }
-        
+            
                 function pathPart() {
-                    var today = dpPath();
-                    var latest = \"\(lastDayString)\";
+                    let winner = dateToShow();
 
-                    var winner = today < latest ? today : latest;
                     var pathPart = "/" + winner.toString().substring(0,4) + "/" + winner;
                     return pathPart
                 }
-
+            
                 $(document).ready(function(){
-
+            
                     var today = dpPath();
                     var latest = \"\(lastDayString)\";
-
+            
                     var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
                     $('#homeDPImage').attr('src', dailyphotoImg);
-            });
-            
-        """
+                });
+                
+            """
+        }
     }
     
     static var scriptImage: String {
-        scriptCommon + 
+        get throws {
+            try scriptCommon +
+            """
+            
+                $(document).ready(function(){
+                    var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
+                    $('#homeDPImage').attr('src', dailyphotoImg);
+                });
+            
+            """
+        }
+    }
+    
+    static var scriptRedirect: String {
+        get throws {
+            try scriptCommon +
+            """
+                
+                var dailyphotoRedirect = "/dailyphoto" + pathPart();
+                window.location.replace(dailyphotoRedirect);
+            
+            """
+        }
+    }
+    
+    static var scriptCalendar: String {
+        javascriptCurrentDateString +
         """
-        
-            $(document).ready(function(){
-                var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
-                $('#homeDPImage').attr('src', dailyphotoImg);
+            $('.cell-with-link').each(function(i, elem) {
+                let a = $(elem).children('a').first()
+                let thisDate = a.attr('href').slice(-8);
+                if (thisDate > dpPath()) {
+                    let number = a.text();
+                    a.replaceWith(number);
+                    $(elem).removeClass();
+                }
+            });
+            
+            $('div.link-arrow-right').each(function(i, elem) {
+                let childLinks = $(elem).children('a');
+                for (let i = 0; i < childLinks.length; i++) {
+                    let linkTo = $(childLinks[i]).attr('href').slice(-8);
+                    if (linkTo > dpPath()) {
+                       $(elem).remove();
+                    }
+                 }    
             });
         
         """
     }
     
-    static var scriptRedirect: String {
-        scriptCommon +
-        """
-            
-            var dailyphotoRedirect = "/dailyphoto" + pathPart();
-            window.location.replace(dailyphotoRedirect);
-
-        """
-    }
+    
 }

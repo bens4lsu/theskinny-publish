@@ -207,6 +207,9 @@ struct Menu: Component {
                     ListItem {
                         Link("Benny @ Work", url:"https://concordbusinessservicesllc.com").toNewScreen()
                     }.class("li-pagelink")
+                    ListItem {
+                        Link("Goodreads", url:"https://www.goodreads.com/review/list/3743890-ben?ref=nav_mybooks").toNewScreen()
+                    }.class("li-pagelink")
                 }
             }.class("fullScreenMenu")
             

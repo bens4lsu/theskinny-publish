@@ -121,6 +121,10 @@ extension PublishingStep where Site == Theskinny {
         var page = Page(path: pagePath, content: Content())
         page.content.body.html = redirHtml.render()
                                         .replacingOccurrences(of: "&lt;", with: "<")
+                                        .replacingOccurrences(of: "&gt;", with: ">")
+        
+
+        
         
         context.addPage(page)
     }
@@ -141,10 +145,11 @@ extension PublishingStep where Site == Theskinny {
         .step(named: "Daily Photos") { context in
             
             //redirect for /dailyphoto
-            let script = DailyPhotoData.scriptRedirect
+            let script = try DailyPhotoData.scriptRedirect
             let html = HTML(.component(Script(script)))
             var page = Page(path: Path("/dailyphoto"), content: Content())
             page.content.body.html = html.render().replacingOccurrences(of: "&lt;", with: "<")
+                                        .replacingOccurrences(of: "&gt;", with: ">")
 
             context.addPage(page)
             
@@ -165,8 +170,10 @@ extension PublishingStep where Site == Theskinny {
                 // individual image pages
                 for dailyphoto in year.dp {
                     var page = Page(path: Path(dailyphoto.link), content: Content())
-                    let html = HTML(.component(dailyphoto))
-                    page.content.body.html = html.render()
+                    let html = HTML(.component(Script(DailyPhotoData.scriptCalendar)),
+                                    .component(dailyphoto))
+                    page.content.body.html = html.render().replacingOccurrences(of: "&gt;", with: ">")
+                                                .replacingOccurrences(of: "&lt;", with: "<")
                     page.imagePath = Path(dailyphoto.imagePath)
                     page.date = dailyphoto.date
                     context.addPage(page)
