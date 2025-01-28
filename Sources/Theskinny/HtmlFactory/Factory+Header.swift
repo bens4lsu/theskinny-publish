@@ -51,8 +51,11 @@ extension TsobHTMLFactory {
         
         var additionalNodes = [Node<HTML.HeadContext>]()
         
-        var noCacheAttrib1 = Attribute<HTML.MetaContext>(name: "http-equiv", value: "pragma")
-        var noCacheAttrib2 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache")
+        let noCacheAttrib1 = Attribute<HTML.MetaContext>(name: "http-equiv", value: "pragma")
+        let noCacheAttrib2 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache")
+        
+        let noCacheAttrib3 = Attribute<HTML.MetaContext>(name: "http-equiv", value:"no-cache")
+        let noCacheAttrib4 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache, must-revalidate, post-check=0, pre-check=0")
         
         var node: Node<HTML.DocumentContext> {
             .head(
@@ -78,6 +81,7 @@ extension TsobHTMLFactory {
                     addNode
                 }),
                 .meta(noCacheAttrib1, noCacheAttrib2),
+                .meta(noCacheAttrib3, noCacheAttrib4),
                 additionalNodeGa()
             )
         }
