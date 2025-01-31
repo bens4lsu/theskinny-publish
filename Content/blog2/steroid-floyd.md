@@ -1,15 +1,17 @@
 ---
 title: Steroid Floyd
 date: 2006-08-08 08:29
-description: A description of my post.
+description: I'm the only person that I know anymore who's truly a fan of professional cycling.  I used to have a couple of buddies at work who kept up with it, but no more.  It's just me spending my July evenings alone with Paul Sherwin and Phil Liggit on OLN.
 tags: sports
 id: 233
+ogImg: landis.jpg
 ---
 I'm the only person that I know anymore who's truly a fan of professional cycling.  I used to have a couple of buddies at work who kept up with it, but no more.  It's just me spending my July evenings alone with Paul Sherwin and Phil Liggit on OLN.
 
 Because people know I'm a fan, I get asked about the whole Floyd Landis thing a lot.  But before getting to the details, I should disclose that I've never been much of a Floyd Landis fan.  It always looks like he's sneering on the bike, and you never see a sign of really good sportsmanship from him like you do from a lot of the other riders.  Plus, should the name of the winner of the Tour de France evoke memories of the barber in Mayberry?
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/landis.jpg"></td></tr><tr><td class="caption" width="250">Floyd Landis</td></tr></table>
+<a class="lightview alignright" href="/img/landis.jpg" data-lightview-caption="Floyd Landis" data-lightview-group="group1" style="width:350px;"><img src="/img/landis.jpg" alt="/img/landis.jpg"><br><span class="caption">Floyd Landis</span></a>
+
 Even before the second test was in, I didn't think Landis's excuses rang true.  For one thing, the story didn't stay consistent.  At one point, the excuse was "a false positive, caused by a shot of whisky after the previous day's race."
 
 I don't know much about doping in sport, but I'm pretty sure a shot of whisky doens't ever, ever manifest itself as synthetic testosterone in the urine.
@@ -35,7 +37,5 @@ This sort of thing would have us all talking about who is behind the scam.  The 
 I really do have a question about that point that I make.  How is it that his testosterone could be through the roof on one stage, but be back to normal the very next day?
 
 The good news is that I really like Oscar Pereiro, the defacto winner of the race.  The main reason I like him so much is that he's the star of this segment, which I saved from the 2005 Tour de France.  Oscar wasn't expected to compete this year.  Had he won a fair race over non-juiced opponents, it would be a great story.  It's a shame he was deprived of that.  I'm pulling for you next year Oscar.
-
-<EMBED  pluginspage="http://www.microsoft.com/windows/mediaplayer/download/default.asp" type="application/x-mplayer2" src="/vid/TourDeFrance-DropToValleyFloor.mpg" autostart="0" showcontrols="1"   height="350" border="1" align="right" /><noembed>You will just have to imagine the video.  Your browser doesn&#8217;t support this plugin.</noembed>
 
 While I'm on the topic, and since no one has read this far anyway, how about Lance Armstrong?  I am 100% convinced that rumors of his drug use are nothing but false.  Every time he addresses such rumors -- which is really, really frequently -- he comes across convincingly and credible.  While drug tests got better and better in the first half of this decade, his competitors fell by the wayside.  Only Armstrong and Jan Ulrich got stronger year after year after year.  Let's also not forget that Armstrong was subject to one of sport's most demanding testing programs.  These guys are subject to random testing 365 days a year, no matter what country they are in, whether there is a race coming up, or whether they are expected to participate or not.  They are geared toward more frequent tests for the sport's elite.  And for all of that, Armstrong never failed a drug test.

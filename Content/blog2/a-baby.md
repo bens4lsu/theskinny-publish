@@ -3,7 +3,7 @@ title: A Baby
 date: 2006-07-28 15:48
 description: This little thing is my new nephew, born a couple of weeks back.  The photo came to me with the following stream of consciousness:
 tags: my-stories
-ogImg: This little thing is my new nephew, born a couple of weeks back.  The photo came to me with the following stream of consciousness:
+ogImg: caleb.jpg
 id: 231
 ---
 <a class="lightview alignright" href="/img/caleb.jpg" data-lightview-caption="" data-lightview-group="group1" style="width:350px;"><img src="/img/caleb.jpg" alt="/img/caleb.jpg"><br><span class="caption"></span></a>

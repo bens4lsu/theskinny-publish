@@ -97,6 +97,7 @@ struct BlogPosts: Component {
             post.linkToNext = LinkInfo(text: items[i+1].title, url: "\(rootStr.rawValue)\(items[i+1].slug)")
         }
         post.midLink = LinkInfo(text: "Index", url: rootStr.index)
+    
         return post
     }
 }

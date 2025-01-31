@@ -10,7 +10,12 @@ import Plot
 import Publish
 
 
-class LinkInfo: Decodable {
+class LinkInfo: Decodable, CustomStringConvertible {
+    
+    var description: String {
+        "text: \(text), url: \(url)"
+    }
+    
     let text: String
     let url: String
     
