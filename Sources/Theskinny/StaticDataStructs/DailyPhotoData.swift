@@ -302,24 +302,26 @@ struct DailyPhotoData {
     static var scriptCalendar: String {
         javascriptCurrentDateString +
         """
-            $('.cell-with-link').each(function(i, elem) {
-                let a = $(elem).children('a').first()
-                let thisDate = a.attr('href').slice(-8);
-                if (thisDate > dpPath()) {
-                    let number = a.text();
-                    a.replaceWith(number);
-                    $(elem).removeClass();
-                }
-            });
-            
-            $('div.link-arrow-right').each(function(i, elem) {
-                let childLinks = $(elem).children('a');
-                for (let i = 0; i < childLinks.length; i++) {
-                    let linkTo = $(childLinks[i]).attr('href').slice(-8);
-                    if (linkTo > dpPath()) {
-                       $(elem).remove();
+            $(document).ready(function(){
+                $('.cell-with-link').each(function(i, elem) {
+                    let a = $(elem).children('a').first()
+                    let thisDate = a.attr('href').slice(-8);
+                    if (thisDate > dpPath()) {
+                        let number = a.text();
+                        a.replaceWith(number);
+                        $(elem).removeClass();
                     }
-                 }    
+                });
+                
+                $('div.link-arrow-right').each(function(i, elem) {
+                    let childLinks = $(elem).children('a');
+                    for (let i = 0; i < childLinks.length; i++) {
+                        let linkTo = $(childLinks[i]).attr('href').slice(-8);
+                        if (linkTo > dpPath()) {
+                           $(elem).remove();
+                        }
+                     }    
+                });
             });
         
         """

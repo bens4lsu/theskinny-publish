@@ -170,8 +170,9 @@ extension PublishingStep where Site == Theskinny {
                 // individual image pages
                 for dailyphoto in year.dp {
                     var page = Page(path: Path(dailyphoto.link), content: Content())
-                    let html = HTML(.component(Script(DailyPhotoData.scriptCalendar)),
-                                    .component(dailyphoto))
+                    let html = HTML(.component(dailyphoto),
+                                    .component(Script(DailyPhotoData.scriptCalendar))
+                    )
                     page.content.body.html = html.render().replacingOccurrences(of: "&gt;", with: ">")
                                                 .replacingOccurrences(of: "&lt;", with: "<")
                     page.imagePath = Path(dailyphoto.imagePath)

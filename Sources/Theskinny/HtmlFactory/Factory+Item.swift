@@ -100,7 +100,6 @@ extension TsobHTMLFactory {
         let pageMain = AnyPageMain(mainContent: haiku, site: context.site, custPersonImageClass: "topleft-tc", custHeaderClass: "header-tc")
 
         return HTML(
-           //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
@@ -115,7 +114,6 @@ extension TsobHTMLFactory {
         let pageMain = AnyPageMain(mainContent: dispatch, site: context.site, custPersonImageClass: "topleft-sw", custHeaderClass: "header-sw")
 
         return HTML(
-           //.head(for: context.index, on: context.site, stylesheetPaths: ["/TsobTheme/style.css"]),
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
