@@ -146,3 +146,16 @@ videos:
            <iframe width="1104" height="621" src="https://www.youtube.com/embed/fc762rR7Vv4" title="Night Watch   Final Chapter + Mobile Ship Channel at Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        tn: mq20240728.jpg
        duration: 1:51
+    -
+       id: 912345040
+       dateRecorded: 2025-02-06
+       name: Golden Hour 2024
+       caption: |
+        The Mac Photos app made this video for me, featuring sunsets last year.  While I'm not nuts about their choice of music, I am a fan of the computer maing a video where I had to do fuck-all production.
+
+        Update:  I had to replace the music because there was a copyright block on the one that my Mac chose.  WTF, apple!
+       url: https://youtu.be/fMfJc55p8mc
+       embed: >
+           <iframe width="957" height="538" src="https://www.youtube.com/embed/fMfJc55p8mc" title="Golden Hour   2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       tn: mq20250206.jpg
+       duration: 1:07

@@ -46,6 +46,8 @@ struct VideoData {
         let albumIdsToInclude = [9123001, 9123003]
         
         let albumsForThisSet = videoAlbums.filter { albumIdsToInclude.contains($0.id) }
-        return albumsForThisSet.flatMap { $0.videos }
+        let retVal = albumsForThisSet.flatMap { $0.videos }
+        //print(retVal)
+        return retVal
     }()
 }
