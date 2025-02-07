@@ -39,22 +39,23 @@ struct HomeMainMessage: Component {
 
 // Video Galleries
         
-      let vgLink1 = VideoGalleryLink(url: "/video/maks-drinks-water-funny/", image: "mq20240124.jpg", caption: "Maks Drinks Water Funny")
-//        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
-       
-       return ComponentGroup {
-
-           H2("A Short Nonsense Video")
-           VideoGalleryLinkSet(links: [vgLink1])
-           H2("Wedding and Monster Snow Pics")
-           ImageGalleryLinkSet(196)
-       }
-//        
-
+//      let vgLink1 = VideoGalleryLink(url: "/video/maks-drinks-water-funny/", image: "mq20240124.jpg", caption: "Maks Drinks Water Funny")
+////        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
+//       
+//       return ComponentGroup {
+//
+//           H2("A Short Nonsense Video")
+//           VideoGalleryLinkSet(links: [vgLink1])
+//           H2("Wedding and Monster Snow Pics")
+//           ImageGalleryLinkSet(196)
+//       }
 
 
-// Nothing
-//        EmptyComponent()
+
+
+        // Nothing
+        
+        EmptyComponent()
     }
     
     init(_ context: PublishingContext<Theskinny>) {

@@ -28,19 +28,36 @@ struct HomeAfterThought: Component {
     
     var cust: Component {
         
-//        let vgLink1 = VideoGalleryLink(url: "/video/lsubaton-rouge-lakes-are-a-disaster-right-now/", image: "mq20231028.jpg", caption: "LSU Lakes Are a Disaster Right Now")
-//        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
-//        let vgSet1 = VideoGalleryLinkSet(links: [vgLink1, vgLink2])
-//
-//        return ComponentGroup {
-//            H2("New Photo Gallery Posted...")
-//            ImageGalleryLinkSet(181)
-//            //H2("And Also A Couple Of Quick Videos To Watch...")
-//            //VideoGalleryLinkSet(links: [vgLink1, vgLink2])
-//        }
-//
+        // Photo Gallery
+                
+        //       ComponentGroup {
+        //           Text("Nothing big here, just a few pics from the Christmas season.")
+        //           ImageGalleryLinkSet(196)
+        //           EmptyComponent()
+        //       }
 
-        EmptyComponent()
+
+
+        // Video Galleries
+                
+              let vgLink1 = VideoGalleryLink(url: "/video/maks-drinks-water-funny/", image: "mq20240124.jpg", caption: "Maks Drinks Water Funny")
+        //        let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
+               
+               return ComponentGroup {
+
+                   H2("A Short Nonsense Video")
+                   VideoGalleryLinkSet(links: [vgLink1])
+                   H2("Wedding and Monster Snow Pics")
+                   ImageGalleryLinkSet(196)
+               }
+        //
+
+
+
+        // Nothing
+        //        EmptyComponent()
+
+
     }
     
     init(_ context: PublishingContext<Theskinny>) {
