@@ -66,6 +66,9 @@ class TVData {
                 allSeries.append(series)
     
             }
+            else {
+                print (row)
+            }
         }
         return allSeries.sorted()
     }()

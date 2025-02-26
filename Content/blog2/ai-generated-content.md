@@ -39,7 +39,7 @@ So yeah, I’ll have another glass. And maybe I’ll even dust off my own leathe
 
 I don't really find it to be very good.  I think at this point I can hear the ChatGPT voice on anything it writes.  Like this line:
 
->First sip: bam! You taste that smoke, but it’s not slapping you around.
+> First sip: bam! You taste that smoke, but it’s not slapping you around.
 
 I don't think I would ever try to review the taste of something without resorting to an adjective.
 
