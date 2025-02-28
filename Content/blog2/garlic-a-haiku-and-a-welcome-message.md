@@ -1,11 +1,11 @@
 ---
 title: Garlic, a Haiku, and a Welcome Message
 date: 2006-10-13 13:10
-description: A description of my post.
-tags: uncategorized,food
+description: A long story about how the calzones at DeAngelo's make me smell so bad, and that there's nothing that can be done about it.  Also, a haiku and a note about my site stats.
+tags: favorites,food, poetry, meta
 id: 250
 ---
-I used to go to <a href="http://www.deangelospizzeria.com/" target="_blank">DeAngelo's</a> for lunch a lot.  Invariably, Mrs. theskinnyonbenny would complain about my reeking of garlic after I would eat there. 
+I used to go to <a href="http://web.archive.org/web/20060809050324/http://deangelospizzeria.com//" target="_blank">DeAngelo's</a> for lunch a lot.  Invariably, Mrs. theskinnyonbenny would complain about my reeking of garlic after I would eat there. 
 
 I got tired of hearing about my stench, but not tired enough to give up those delicious calzones altogether.  One day after lunch at DeAngelo's, I waited until after work and then went to the gym.  I spent 45 minutes on a stair climber, drenching myself with sweat.  I followed that with a long shower, and then brushed my teeth.  I even went as far as to change into clean clothes.
 
@@ -19,7 +19,7 @@ Later at dinner, she liked the look of my sandwich and asked for a bite.  Accord
 
 If this is the grossest thing that you know about me, consider yourself lucky.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Timmy B. sent me an awesome haiku earlier this week:
 
@@ -27,7 +27,7 @@ Timmy B. sent me an awesome haiku earlier this week:
 With nitrous oxide gives you 
 More shits and giggles </blockquote>
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I don't look at my site stats very much, but one night this week, Dancing with the Stars was on the TV, and I got bored.  It crossed my mind to check out my stats.
 

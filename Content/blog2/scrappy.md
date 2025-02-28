@@ -1,11 +1,12 @@
 ---
 title: Scrappy
 date: 2006-10-11 01:36
-description: A description of my post.
+description: You know what really wasn't ever satisfactorily explained?  How is it that Scooby Doo has a nephew?  I don't remember seeing the episode where they premiered Scrappy Doo, but I would like to take a look back and see if there's any mention of where the little guy came from.  I have my own hypothesis.
 tags: pop-culture
 id: 249
+ogImg: scrappy.jpg
 ---
-You know what really wasn't ever satisfactorilly explained?  How is it that Scooby Doo has a nephew?  I don't remember seeing the episode where they premiered Scrappy Doo, but I would like to take a look back and see if there's any mention of where the little guy came from.
+You know what really wasn't ever satisfactorily explained?  How is it that Scooby Doo has a nephew?  I don't remember seeing the episode where they premiered Scrappy Doo, but I would like to take a look back and see if there's any mention of where the little guy came from.
 
 I have my own hypothesis.
 
@@ -13,7 +14,9 @@ First, let's agree that this wasn't a nephew through marriage.  If Scooby had an
 
 I'm going with the theory that Scooby has a sister who is a bitch at some sort of Doberman breeding ground.  Based on my own experience with puppies, it's probably a rural house in Ascension Parish, Louisiana.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="125" ><img src="/img/scrappy.jpg"></td></tr><tr><td class="caption" width="125">The Yoko Ono of Saturday morning cartoons.</td></tr></table>
+<a class="lightview alignright" href="/img/scrappy.jpg" data-lightview-caption="The Yoko Ono of Saturday morning cartoons.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/scrappy.jpg" alt="/img/scrappy.jpg"><br><span class="caption">The Yoko Ono of Saturday morning cartoons.
+</span></a>
 
 Scooby's sister bitch is probably producing satisfactory litters of puppies, returning her owner a nice profit.  But then one day, out comes an obnoxious little shit, who not only speaks, but who speaks without Scooby's impediment.  Needless to say, no one wanted to buy this puppy.
 

@@ -1,8 +1,8 @@
 ---
 title: Friday Morning Blah Post
 date: 2006-09-29 10:07
-description: A description of my post.
-tags: uncategorized
+description: I have anger issues this morning.  I don't have any good reason to be annoyed, but the messages in my Inbox at work are getting on my last nerve.  Reading documents with crap like this are part of my problem:
+tags: short, correspondence, the-office
 id: 244
 ---
 I have anger issues this morning.  I don't have any good reason to be annoyed, but the messages in my Inbox at work are getting on my last nerve.  Reading documents with crap like this are part of my problem:

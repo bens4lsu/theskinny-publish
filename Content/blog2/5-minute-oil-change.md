@@ -1,7 +1,7 @@
 ---
 title: 5 Minute Oil Change
 date: 2006-10-09 08:42
-description: A description of my post.
+description: Here's my public service announcement for this week.  My recommendation for your next oil change.
 tags: my-stories
 id: 247
 ---
@@ -19,6 +19,6 @@ I'm back on the road in the amount of time that it took you to read this post.
 
 No shit.
 
-And here's a tip that I didn't know before ZI went:  you can print a $5 off coupon from <a href="http://www.5minuteoilchange.com/" target="_blank">their web site.</a>
+And here's a tip that I didn't know before I went:  you can print a $5 off coupon from <a href="https://www.take5.com" target="_blank">their web site.</a>
 
 Traveling away from the place on Airline Highway, I hit some debris in the road, but for a minute, I'm sure that it was something from the bottom of my car that they forgot to re-attach.  I wait for the oil to pour out, for my engine to seize, for my vehicle to catch on fire.  But nothing happens.

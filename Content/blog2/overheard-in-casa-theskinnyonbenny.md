@@ -1,8 +1,8 @@
 ---
 title: Overheard in Casa theskinnyonbenny
 date: 2006-10-20 07:21
-description: A description of my post.
-tags: my-stories
+description: A Netflix charge and what exactly is a banshee?
+tags: my-stories, favorites, short
 id: 251
 ---
 "Did Netflix charge us for that movie?"
@@ -25,7 +25,7 @@ id: 251
 
 "Okay."
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 "We could retire a lot sooner if we would just quit spending money like banshees."
 

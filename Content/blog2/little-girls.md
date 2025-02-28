@@ -1,15 +1,18 @@
 ---
 title: Little Girls
 date: 2006-10-05 14:06
-description: A description of my post.
+description: My friends Steve and Jodie have two adorable little girls.  He told me a story of how they were being entertained by his computer's screen saver.  He had one of those screen savers that scrolled through some collection of pictures and showed each picture for some number of seconds before rolling on to the next.  Each time a new picture would come up, the girls would say "Ooooh.  Doggie."  Or "Ooooh.  Airplane."  Or whatever the picture was that came up.
 tags: my-stories
 id: 246
+ogImg: ww-package.jpg
 ---
 My friends Steve and Jodie have two adorable little girls.  He told me a story of how they were being entertained by his computer's screen saver.
 
 He had one of those screen savers that scrolled through some collection of pictures and showed each picture for some number of seconds before rolling on to the next.  Each time a new picture would come up, the girls would say "Ooooh.  Doggie."  Or "Ooooh.  Airplane."  Or whatever the picture was that came up.
 
-<table cellpadding="2" align="left"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/ww-package.jpg"></td></tr><tr><td class="caption" width="250">Disclaimer:  This image was not intended for the entertainment of your children.</td></tr></table>
+<a class="lightview centered" href="/img/ww-package.jpg" data-lightview-caption="Disclaimer:  This image was not intended for the entertainment of your children.
+" data-lightview-group="group1"><img src="/img/ww-package.jpg" alt="/img/ww-package.jpg"><br><span class="caption">Disclaimer:  This image was not intended for the entertainment of your children.
+</span></a>
 
 Then, a picture came up that someone took during our Halloween party in 2004.  It wasn't the one that I've pictured here, but it must have looked somewhat like this, but taking up the whole screen.
 
