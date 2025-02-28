@@ -1,15 +1,16 @@
 ---
 title: Weekend Tailgate
 date: 2006-09-12 04:57
-description: A description of my post.
+description: On Saturday morning, I got to the tailgate party spot early.  Between 5:30 and 6:30, I unloaded the astounding amount of crap that I can fit into a Jeep.  Although it was still dark, it was already kind of hot.  The air was heavy with humidity and there was nary a breeze.  I sat down to cool off and switched from hot coffee to a cold bloody mary.  About that time, a large group of joggers passed through.  I shouted my encouragement.  "Hey psychopaths!  Come get a donut and a beer!"  
 tags: my-stories
 id: 240
+ogImg: blossomskirt.jpg
 ---
 On Saturday morning, I got to the tailgate party spot early.  Between 5:30 and 6:30, I unloaded the astounding amount of crap that I can fit into a Jeep.  Although it was still dark, it was already kind of hot.  The air was heavy with humidity and there was nary a breeze.
 
 I sat down to cool off and switched from hot coffee to a cold bloody mary.  About that time, a large group of joggers passed through.  I shouted my encouragement.  "Hey psychopaths!  Come get a donut and a beer!"  
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/blossomskirt.jpg"></td></tr><tr><td class="caption" width="250">Like many LSU cheerleaders, Blossom has trouble keeping her skirt on.</td></tr></table>
+<a class="lightview centered" href="/img/blossomskirt.jpg" data-lightview-caption="Like many LSU cheerleaders, Blossom has trouble keeping her skirt on." data-lightview-group="group1"><img src="/img/blossomskirt.jpg" alt="/img/blossomskirt.jpg"><br><span class="caption">Like many LSU cheerleaders, Blossom has trouble keeping her skirt on.</span></a>
 
 One lady yelled something back.  It seemed to be a good-natured reply, but I couldn't make out the words.  How is it that something that makes it difficult to yell could be good for you?
 
@@ -27,7 +28,7 @@ I got home, cleaned up, and changed in time to see the weather clear up a bit.
 
 Getting back to the tailgate party, it was a good time.  Having started on the bloody marys by 6:30, you might correctly guess that I had plenty too much to drink.  The day flew by -- it seems like we were out there a few hours rather than 12 hours.  
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/benkiss.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Ben makes out with Beethoven.  Or Mozart.  Whoever.</td></tr></table>
+<a class="lightview centered" href="/img/benkiss.jpg" data-lightview-caption="Ben makes out with Beethoven.  Or Mozart.  Whoever." data-lightview-group="group1"><img src="/img/benkiss.jpg" alt="/img/benkiss.jpg"><br><span class="caption">Ben makes out with Beethoven.  Or Mozart.  Whoever.</span></a>
 
 I suppose this picture merits some explanation.  From where we set up the tailgate, the nearest restroom is in the music building.  As you come in the door, you're greeted by this statue. I can't remember if this is Beethoven or Mozart;  all of those old composers sport the same hairstyle.  After a full day of going in and out, I for some reason decided to ask a girl to take a picture of me making out with him.  She complied, with the stipulation that she be able to take the picture with her camera also.  All was good.
 

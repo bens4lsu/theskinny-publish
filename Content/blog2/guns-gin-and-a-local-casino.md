@@ -1,17 +1,18 @@
 ---
 title: Guns, Gin, and a Local Casino
 date: 2006-08-17 15:17
-description: A description of my post.
+description: An interesting tattoo, me being a dick, and a sweeeeeet offer.
 tags: my-stories
 id: 236
+ogImg: guns.jpg
 ---
 Earlier this week, I saw a guy at the gym who had an interesting tattoo on his bicep.  It looked something like this:
 
-<table cellpadding="2" align="center" width="100%"><tr><td width="100%" ><img src="/img/guns.jpg"></td></tr></table>
+<a class="lightview centered" href="/img/guns.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/guns.jpg" alt="/img/guns.jpg"><br><span class="caption"></span></a>
 
 Do I really need to make fun of this?  I think it just stands as funny on its own.  I will, however, let you know when this guy kicks my ass for making fun of him on the internet.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Last Friday night, at around 11:00, we were sitting outside in the back yard having drinks and shooting the shit.  We had cooked some fish a number of hours earlier (which were delicious, by the way) and were several drinks into the night. 
 
@@ -33,13 +34,13 @@ I started to walk toward Mrs. theskinnyonbenny, but I found myself unable to wip
 
 Yes, we actually served up an Olive oil and Black Cherry Fresca and let her drink it.  I am such a dick.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I've entered the ranks of casino-going high rollers.  I received a card in the mail that entitles me to two free room at the casino's hotel.
 
 But there are different levels of high-rollers, and I'm clearly on the very very bottom rung.  Here's how I know.
 
-First the coupon is for the <a href="http://www.harrahs.com/casinos/horseshoe-bossier-city/hotel-casino/property-home.shtml" target="_blank">Horseshoe Casino in Bossier City, LA</a>.  Not exactly the Bellagio.
+First the coupon is for the <a href="https://www.caesars.com/horseshoe-bossier-city" target="_blank">Horseshoe Casino in Bossier City, LA</a>.  Not exactly the Bellagio.
 
 Then, I'm only allowed to the first of my free nights between September 4 and September 18.  And I'm only allowed to use the second of my free nights between September 19 and October 10.  Here's the kicker:  my free nights have to be <i>on a school night</i>.  That's right.  If I want to go to the Horseshoe Casino in Bossier City, LA, and if it happens to be a Friday or Saturday night, I'm going to be paying full price, just like everyone else.
 

@@ -1,9 +1,10 @@
 ---
 title: Football Preview Post
 date: 2006-08-31 14:15
-description: A description of my post.
+description: Nothing says "it's time for football" better than a message like this.
 tags: sports
 id: 239
+ogImg: TailgateMap.jpg
 ---
 Nothing says "it's time for football" better than a message like this.
 
@@ -20,7 +21,7 @@ Jeez Ed, I don't care about when I cook, but lay off the sauce when operating th
 
 So anyway, I'm frying the armadillo on Saturday the ninth.  If you've forgotten the location, here's a map.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/TailgateMap.jpg"></td></tr></table>
+<a class="lightview centered" href="/img/TailgateMap.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/TailgateMap.jpg" alt="/img/TailgateMap.jpg"><br><span class="caption"></span></a>
 
 I'm really looking forward to it all this year.  Last year, the tailgate regulars were scarce, as the hurricane had them scattered all over the place.  Eddie didn't make it out other than one short appearance, as he failed to count months correctly and ended up with a newborn right in time for football season.  So we're long overdue for a good throwdown.
 
@@ -28,7 +29,7 @@ Today is that first day of the year where the summer humidity is gone.  This is 
 
 Getting back to football, I like the way LSU's season shapes up.  The toughest game early in the season is a visit to Auburn, but Auburn is installing a new defense, and we'll be the first major college challenge.  If this game were late in the season, I would worry, but I think they will blow a coverage or two, and the talented Tigers (as opposed to the War Eagle Plainsman Tigers) will make them pay.
 
-I am so extremely happy to be <a href="/ve/page.php?fn=ve_s4.content">sailing again</a> for the fall.  It usually works out that I catch at least half of the Saints games on the radio from the sailboat, and with almost every game at noon on Sunday, this season promises to be no different.  I'm a fan, so I'm able to convince myself that the Saints have a shot at the playoffs every year.  But every year they become a minor embarrassment.  (At least we don't have a quarterback who laughs at his interceptions any more.  That should make it a little better.)
+I am so extremely happy to be <a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">sailing again</a> for the fall.  It usually works out that I catch at least half of the Saints games on the radio from the sailboat, and with almost every game at noon on Sunday, this season promises to be no different.  I'm a fan, so I'm able to convince myself that the Saints have a shot at the playoffs every year.  But every year they become a minor embarrassment.  (At least we don't have a quarterback who laughs at his interceptions any more.  That should make it a little better.)
 
 Speaking of sailing -- and I'm off on a tangent now -- I just took a call from Mrs. theskinnyonbenny to let me know that she had obtained new boat insurance.  After a couple of queries about how much they're sticking us for and what a hassle it was to get insurance for a boat that was previously totaled by a hurricane, I concluded my questioning.  She wrapped up with a deadpan, "So I guess you can go ramming other boats willy-nilly now."
 

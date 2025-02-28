@@ -1,7 +1,7 @@
 ---
 title: My Swap Wife
 date: 2006-08-09 15:46
-description: A description of my post.
+description: This is the week that I've officially turned on Wife Swap.  For a few weeks in a row, I've found that I uncharacteristically didn't want to watch.  The episodes that were starting looked to be just like other episodes (or maybe the same ones) that I had already seen.  But I've come to realize that pretty much all of the episodes are exactly the same, and that I've had enough.  Just like potato chips.
 tags: my-stories
 id: 234
 ---

@@ -1,8 +1,8 @@
 ---
 title: Victory Over Japan Day
 date: 2006-08-14 09:32
-description: A description of my post.
-tags: uncategorized
+description: I just recently learned that today is a holiday.  Victory Over Japan Day.  "Where?" one might you ask.
+tags: my-stories
 id: 235
 ---
 I just recently learned that today is a holiday.  Victory Over Japan Day.  

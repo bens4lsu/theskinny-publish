@@ -14,15 +14,19 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
 
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/easter-cruise-2012">Easter Cruise 2012</a> (I haven't written about a trip in four years??!!!)</div>	
 <div class="list-of-links"><a href="/velvet-elvis/rhodes-22/easter-cruise-2008">Easter Cruise 2008</a></div>
+<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-fool-captain">God Looks out for Incompetent Captains</a></div>
+
+<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-road-to-edenton">Driving to Edenton for a post-hurricane overhaul.</a></div>
+<div class="list-of-links"><a href="/gal/014%20-%20Velvet%20Elvis%20Damage%20Photos/" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
+
+
+
+
 <div class="list-of-links">Bringing <i>Velvet Elvis</i> Home After Post-Katrina Restore<ul class="compact">
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 1</a></li>
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-2">Page 2</a></li>
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-3">Page 3</a></li>
 <ul></div>
-<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-road-to-edenton">Driving to Edenton for a post-hurricane overhaul.</a></div>
-<div class="list-of-links"><a href="/gal/14" target="_blank">Photo Gallery:  Damage Photos After Hurricane Katrina</a></div>
-<div class="list-of-links"><a href="/velvet-elvis/rhodes-22/the-fool-captain">God Looks out for Incompetent Captains</a></div>
-
 
 <div class="list-of-links">Boat Maintenance, Spring 2005:  This is a short tale of chores and a little sailing at the end of March and the beginning of April.  I had quite a stretch, and took some killer photos (most of which aren't posted, but the prints are great).  Sorry to subject you to a bunch of puppy shots, but they're only small and cute for a short little while, and this trip happened to coincide with that stage for Lily.<ul class="compact">
     <li><a href="/velvet-elvis/rhodes-22/spring-2005-1">March 26:  Sailing to Slidell</a></li>

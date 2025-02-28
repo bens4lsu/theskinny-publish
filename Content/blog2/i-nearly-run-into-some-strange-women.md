@@ -1,7 +1,7 @@
 ---
 title: I Nearly Run Into Some Strange Women
 date: 2006-08-23 14:28
-description: A description of my post.
+description: The other day, I was bicycling around the lakes near LSU. I was coming up behind a walker who was cruising down the center of the bike path. This isn't uncommon, and it's not a big deal. But I don't want to just fly up past with an inch or two to spare. I would either scare the shit out of her, or if she veers the wrong way, cause an accident with no serious injury, but one that features a lot of spilled blood.
 tags: my-stories
 id: 237
 ---
