@@ -1,9 +1,10 @@
 ---
 title: My Dogs are Smarter Than Me
 date: 2006-11-20 07:05
-description: A description of my post.
+description: As you probably know, I have a beagle (Lily) and a basset hound (Blossom).  What you might not know is that they -- especially the beagle -- have hundreds of years of breeding telling them that they want to take off.  They sit in the yard and ache at the thought of all of the squirrels and cats in the neighborhood that they can chase noisily in lieu of deer and rabbits.
 tags: animals
 id: 259
+ogImg: gal/023%20-%20Dog%20Escapes/resIMG_20061107_0615.JPG
 ---
 As you probably know, I have a beagle (Lily) and a basset hound (Blossom).  What you might not know is that they -- especially the beagle -- have hundreds of years of breeding telling them that they want to take off.  They sit in the yard and ache at the thought of all of the squirrels and cats in the neighborhood that they can chase noisily in lieu of deer and rabbits.
 
@@ -13,7 +14,7 @@ When Lily was a puppy, an invisible fence helpedme to convince her that this was
 
 Blossom came later, and she's a natural follower.  I thought that I could put a shock collar on her, and all would continue to be good.  But Blossom is also stupid, and her stupidity worked against me in this case.  When she got shocked, she ran forward -- into the pain -- rather than back away from it.  It only took a couple of tries before she knew that if she ran past the wire line, it wasn't so bad.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0615.JPG" width="235"></td></tr><tr><td class="caption" width="250">Compromised dog wire and lattice in the back yard.</td></tr></table>
+<a class="lightview centered" href="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0615.JPG" data-lightview-caption="Compromised dog wire and lattice in the back yard." data-lightview-group="group1"><img src="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0615.JPG" alt="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0615.JPG"><br><span class="caption">Compromised dog wire and lattice in the back yard.</span></a>
 
 Lily watched and learned, and as of a few weeks ago, my invisible fence was no deterrent at all.
 
@@ -23,7 +24,10 @@ In retrospect, that was a laughably foolish assumption.  They were happy enough 
 
 I put up more wire to keep them from getting to their new hole.  Then, I spent several more hours putting more dog wire under the house in spots where the lattice looked vulnerable.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0614.JPG" width="235"></td></tr><tr><td class="caption" width="250">The dogs come home worn out.  They immediately hit the couch after I brought them home after one escape.</td></tr></table>
+
+<a class="lightview centered" href="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0614.JPG" data-lightview-caption="The dogs come home worn out.  They immediately hit the couch after I brought them home after one escape.
+" data-lightview-group="group1"><img src="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0614.JPG" alt="/img/gal/023%20-%20Dog%20Escapes/resIMG_20061107_0614.JPG"><br><span class="caption">The dogs come home worn out.  They immediately hit the couch after I brought them home after one escape.
+</span></a>
 
 That's when they learned that they could bend and break the wire in spots where I didn't have a good spot to steak or nail one part of the wire's border.  I don't know how much time they spent exploring, but they found two or three spots.  We spent a couple of weeks on a drill where they would take advantage of a weakness, then I would fortify the weakness.  In another day or two, they would have found a new spot and be out terrorizing the neighborhood cats once again.  I spent more time crawling under the house that I care to admit.
 
@@ -31,7 +35,6 @@ Last weekend, I think I found a trump card.  I crawled under the house yet again
 
 This method has worked for a full week, so maybe I've finally won.
 
-The complete (but small) collection of photos of their damage is<a onclick="window.open('/pg3.php?spgmGal=023%20-%20Dog%20Escapes','023DogEscapes','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" onmouseover="chgImg ('i023DogEscapes','img023DogEscapesRed');" onmouseout="chgImg ('i023DogEscapes','img023DogEscapes');" >
-here</a>.
+The complete (but small) collection of photos of their damage is <a href="https://theskinnyonbenny.com/gal/023%20-%20Dog%20Escapes/"  target="_blank">here</a>.
 
 

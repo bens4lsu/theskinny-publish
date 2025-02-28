@@ -2,7 +2,6 @@
 title: Dancing With the Stars Lineup
 date: 2006-09-14 08:46
 description: Dancing With the Stars had its season premier this week, and predictably, the dumpy commentator from the business news channel was eliminated.  I say it was predictable -- and that guy was noticeably more clumsy than some of his opponents, but I can't honestly say that I can look at their performances and tell a good one from a bad one.  I watch with the same naive innocence that I did when I was real little, watching football without a good understanding of the rules.  Some can just follow the ball and enjoy a football game, where the more experienced viewer will might watch for particular offensive or defensive formations.  The really, really serious viewer will notice the positioning of specific blockers or defensive players away from the ball.
-
 tags: pop-culture
 id: 241
 ---

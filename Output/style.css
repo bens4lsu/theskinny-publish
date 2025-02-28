@@ -381,6 +381,7 @@ blockquote {
     padding-left: 2em;
     line-height: 1.75;
     font-size: 90%;
+    clear: both;
 }
 
 div.twitter-tweet {

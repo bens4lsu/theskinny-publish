@@ -1,23 +1,24 @@
 ---
 title: Working for the Week(end)
 date: 2006-12-17 22:31
-description: A description of my post.
-tags: my-stories
+description: As I mentioned in my previous post, I've been out and about a ton lately.  I spent the week of December 4 away from the office, on a rather dull work trip.  It was four straight days of meetings, and through almost all of it, I was talking or people were paying attention to me.  (That might seem natural to you if you don't do a lot of meetings in corporate America.  In reality, most meetings require you to only pay about 35-40 percent of your attention.)
+tags: the-office, music
 id: 264
+ogImg: /img/gal/024%20-%20Loverboy%20in%20Lutcher/resPicture009.jpg
 ---
 As I mentioned in my previous post, I've been out and about a ton lately.  I spent the week of December 4 away from the office, on a rather dull work trip.  It was four straight days of meetings, and through almost all of it, I was talking or people were paying attention to me.  (That might seem natural to you if you don't do a lot of meetings in corporate America.  In reality, most meetings require you to only pay about 35-40 percent of your attention.)
 
 I normally make a lot of notes so that I remember the funny things that might have happened while at a client's site.  But all I had written from this trip were the statistics from a meeting on Wednesday morning:
 
 <blockquote>RBC Meeting 12/6/06
-
+<br><br>
 Facial hair demographics:
-
-8 Goatees
-9 Clean shaves
-1 Full beard
-1 Bushy 'stache with a soul patch
-1 Female
+<br><br>
+8 Goatees<br>
+9 Clean shaves<br>
+1 Full beard<br>
+1 Bushy 'stache with a soul patch<br>
+1 Female<br>
 </blockquote>
 
 Just for the record, a lot -- but by no means all -- of the goatees belonged to bald or balding men.  The beard was worn by a stereotypical bearded technical systems architect type, and the bushy 'stache/soul patch guy was a super-nice guy from one of the other vendors.  The female never spoke during this meeting (and it was the only one she attended), and we didn't talk afterwards.
@@ -38,7 +39,7 @@ When we got there, Randy Jackson of Zebra was performing solo, with an acoustic 
 
 By the way, Zebra has two hits that I promise you know, and a handful of others that had short MTV runs in the 80s.  I'm not going to try to describe them in text or hunt down relevant links for you tonight, but search Zebra from Itunes, and sort the results by relevance.  You'll remember.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/gal/024 - Loverboy in Lutcher/resPicture009.jpg"></td></tr><tr><td class="caption" width="250">Steve's new shirt.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/024%20-%20Loverboy%20in%20Lutcher/resPicture009.jpg" data-lightview-caption="Steve's new shirt." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/024%20-%20Loverboy%20in%20Lutcher/resPicture009.jpg" alt="/img/gal/024%20-%20Loverboy%20in%20Lutcher/resPicture009.jpg"><br><span class="caption">Steve's new shirt.</span></a>
 
 Toward the end of his set, Randy mentioned that Zebra t-shirts were for sale at one of the booths at the back of the barn, which sent Steve high-tailing it away from us like we had set his ass on fire.  Jackson wasn't even done with his sentence, and Steve was long gone without a word to any of us.  He returned by the end of the next song with his prize.
 
@@ -56,4 +57,4 @@ Fortunately for me, he either didn't hear, or thought that she was addressing me
 
 I just about kissed him on the lips, but then considered that this might be another crime.
 
-I have <a onclick="window.open('/pg3.php?spgmGal=024%20-%20Loverboy%20in%20Lutcher','024LoverboyinLutcher','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" onmouseover="chgImg ('i024LoverboyinLutcher','img024LoverboyinLutcherRed');" onmouseout="chgImg ('i024LoverboyinLutcher','img024LoverboyinLutcher');" >more pictures posted</a> from the Lutcher scene.  Look for the queen of the festival in the background for additional bonus points.
+I have <a href="/gal/024%20-%20Loverboy%20in%20Lutcher/" target="_blank">more pictures posted</a> from the Lutcher scene.  Look for the queen of the festival in the background for additional bonus points.

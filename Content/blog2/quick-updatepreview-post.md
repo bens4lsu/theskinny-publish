@@ -1,8 +1,8 @@
 ---
 title: Quick Update/Preview Post
 date: 2006-12-14 13:04
-description: A description of my post.
-tags: uncategorized
+description: This is just a note to test whether the "Submit Post" button on my site still works.
+tags: meta
 id: 263
 ---
 This is just a note to test whether the "Submit Post" button on my site still works.
