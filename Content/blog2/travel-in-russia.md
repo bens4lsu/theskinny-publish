@@ -2,20 +2,21 @@
 title: Travel in Russia
 date: 2007-03-22 19:08
 description: A description of my post.
-tags: travel
+tags: travel, russia
 id: 284
+ogImg: gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG
 ---
 You know how you'll sometimes run into a foreign student and tourist, and they have something about them -- either in appearance or action -- which is incredibly foreign, nerdy, and funny?  The best example I can think of is the wearing of socks with sandals.
 
 When you travel to another country, you can be acting normally, speaking normally, and dressed normally, but still get laughed at for some reason unbeknownst to you.  You're the one to them who's wearing socks with sandals, and you can't even identify what it is that makes you a source of ridicule.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG" width="235"></td></tr><tr><td class="caption" width="250">We got laughed at for some unkown reason at the Roman Holiday restaurant.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG" data-lightview-caption="We got laughed at for some unkown reason at the Roman Holiday restaurant." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG" alt="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG"><br><span class="caption">We got laughed at for some unkown reason at the Roman Holiday restaurant.</span></a>
 
 All part of the fun of travel to another country.
 
 I haven't done a lot of travel to other countries, and Russia is the first place that I've visited where most of the people that I encounter -- whether in stores, restaurants, or just in the street -- speak little or no English at all.
 
-Fortunately, I've been listening to <a href="http://www.simonsays.com/content/book.cfm?tab=13&pid=412566" target="_blank">Pimsleur's Russian Language Lessons</a> as I walk the dogs at night.  I haven't been a religious devotee of my lessons, but I've averaged about one a week.  I had gone through 41 of 90 lessons by the time we left.
+Fortunately, I've been listening to <a href="https://www.pimsleur.com/learn-russian/lifetime-subscription/?srsltid=AfmBOopUglEbbQdpUncLOzueibPRRrNRvTVYPQezGZTvAKWQ1ZKXXq9T" target="_blank">Pimsleur's Russian Language Lessons</a> as I walk the dogs at night.  I haven't been a religious devotee of my lessons, but I've averaged about one a week.  I had gone through 41 of 90 lessons by the time we left.
 
 This was indeed helpful.  I definitely wasn't able to speak full conversations with the natives, but I could pick out words and phrases.  Combined with frantic gesturing, we were able to discern people's meanings without too much trouble.
 
@@ -23,7 +24,9 @@ There were a couple of instances where I was able to approach a Russian, ask a q
 
 (My other favorite Russian word is the one for "sixteen."  It sounds almost just like the English sentence, "She snots it.")
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070316_1215.JPG" height="235"></td></tr><tr><td class="caption" width="250">I don't know if Peg Bundy is the inspiration, but red hair (although often tinted toward purple) is very popular with Russian women.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070316_1215.JPG" data-lightview-caption="I don't know if Peg Bundy is the inspiration, but red hair (although often tinted toward purple) is very popular with Russian women.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070316_1215.JPG" alt="/img/gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070316_1215.JPG"><br><span class="caption">I don't know if Peg Bundy is the inspiration, but red hair (although often tinted toward purple) is very popular with Russian women.
+</span></a>
 
 It's unbelievably fun to learn about other countries' different cultures.  Who are their celebrities?  What movies do they watch?  What sports are popular?  I think in many western countries, their stars and ours are the same.  That didn't seem to be the case in Russia.  Their MTV showed some videos that I knew, but more that I didn't.  Their pop music tended to be really bad, cheesy pop.  Think Enrique Igasias in Russian.  I saw a number of episodes of dubbed "The Simpsons," and a Russian "Married With Children," recognizable by a similar set, similar-looking cast members, and a similar red wig.
 

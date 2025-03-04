@@ -1,13 +1,13 @@
 ---
 title: A Week of Sports
 date: 2007-01-13 07:41
-description: A description of my post.
+description: I started several posts this week, but never had the time to go back and look over what I read, fix the really dumb mistakes, and get them posted.  There were a lot of sports-related topics on my mind this week, so I've combined a few different false-starts into a single weekly sports post for today.
 tags: sports
 id: 269
 ---
 I started several posts this week, but never had the time to go back and look over what I read, fix the really dumb mistakes, and get them posted.  There were a lot of sports-related topics on my mind this week, so I've combined a few different false-starts into a single weekly sports post for today.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 The king of all sports is over for the year.  Sigh.  I've got nothing to say about Florida's pasting of Ohio State.  It always feels weird during the bowl games to pull for the conference rivals that I hope to see beaten and/or seriously injured during the regular season, but I'm glad to see the national championship back in the SEC where it belongs.
 
@@ -21,7 +21,7 @@ Now that college is done, I'm very much looking forward the Saints game Saturday
 
 The main thing is going to be keeping Jeff Garcia from getting loose and having the chance to make creative plays.  They defended similar quarterbacks (Tony Romo, Michael Vick) very well this season.  I can't wait to see how it goes, and I can't bear to read or watch another minute of prognostication.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I haven't mentioned the Nick Saban thing because there isn't much to add to what all of the columnists have already written.  I do think it's interesting that he's replaced TO as the representation of all that is wrong with sports.  I don't really begrudge the guy for going to Bama, although I wish he had "followed his heart" back to another conference.  
 
@@ -31,12 +31,12 @@ I did feel sorry for Huizinga, the Dolphins owner.  Saban left him to face the M
 " target="_blank">Bill Simmons had a really good column this week</a>, and he did a good job of summarizing the common sense take on Saban's move.
 
 <blockquote>Hearing the news that Nick Saban was headed to Alabama. Yippee!!!!!! The Patriots just lost the biggest coaching threat in their division!!!!! You'll hear no "Nick Saban is a lying scumbag" comments from this guy. For one thing, coaches pull this crap all the time -- they switch schools, switch teams, jump back and forth from college to the pros, and only remain loyal to themselves and their bank accounts. So this shouldn't have been a surprise to anyone. When we go more than three months without a visible coach boning over a pro team or a college, let me know.
-
+<br><br>
 But here's why I enjoyed this particular bone job so much: Last spring, Saban was deciding between Drew Brees and Daunte Culpepper and ended up signing the wrong guy. Huge mistake on about 20 different levels, but the important thing to remember is that one decision killed Miami's entire season. And he made it. Anyway, the season finally ends and Saban says to himself, "Well, I can kill myself working 16 hours a day trying to make it work in a tough division with Culpepper, Joey Harrington and Cleo Lemon as my QBs ... or I can get a fresh start with the most famous coaching job in college football for $32 million guaranteed. Hmmmmmm."
-
+<br><br>
 I mean ... OF COURSE he was going to leave! Did you really think he was sticking around? I'm surprised he didn't leave treadmarks. So Saban rides off into the sunset, never to be seen again, and the poor Dolphins fans wake up tomorrow and they're still stuck with Culpepper, Harrington and Lemon. How is that fair? I hope the Dolphins fans band together and break the record for "most turd sandwiches ever FedEx'd to one person."</blockquote>
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 While I'm doing a sports post, I might as well make a couple of basketball notes.
 

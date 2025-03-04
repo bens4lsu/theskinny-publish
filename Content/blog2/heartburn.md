@@ -1,7 +1,7 @@
 ---
 title: Heartburn
 date: 2007-01-15 08:14
-description: A description of my post.
+description: If there's anything more boring than a blog where people recommend random music that they like (especially without a feature that allows you to play the song right then and there), then it's a diet blog.  I mention this only because I'm veering very close to boring diet blog territory with this post.  But stick with me a moment.
 tags: food
 id: 271
 ---

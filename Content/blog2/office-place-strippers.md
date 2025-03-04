@@ -1,7 +1,7 @@
 ---
 title: Office Place Strippers
 date: 2007-02-02 16:09
-description: A description of my post.
+description: Many years ago, I was fairly certain that Scott Adams had a secret camera in our offices, and used it to grab the easy pickings for Dilbert strips.  Now, I've gotten to be fairly certain that he loaned the tapes to the group of people who write episodes of The Office for NBC.
 tags: the-office
 id: 275
 ---

@@ -1,15 +1,16 @@
 ---
 title: Random Notes VI
 date: 2006-11-13 23:07
-description: A description of my post.
-tags: uncategorized
+description: This post is an unorganized mess of links, graphics, and junk.  Hopefully, the busy screen will distract you from the fact that I don't have anything to say.
+tags: uncategorized, poetry
 id: 257
+ogImg: bsb_cover.jpg
 ---
-<center><img src="/img/bsb_cover.jpg"></center>
+<a class="lightview centered" href="/img/bsb_cover.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/bsb_cover.jpg" alt="/img/bsb_cover.jpg"><br><span class="caption"></span></a>
 
 This post is an unorganized mess of links, graphics, and junk.  Hopefully, the busy screen will distract you from the fact that I don't have anything to say.
 
-<table cellpadding="2" align="right"><tr><td width="5"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/costello.jpg"></td></tr></table>
+<a class="lightview centered" href="/img/costello.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/costello.jpg" alt="/img/costello.jpg"><br><span class="caption"></span></a>
 
 I was browsing a co-worker's hard drive for something new and interesting to listen to.  I've never been a fan of Elvis Costello, but I checked the folder with his music anyway.  I had to take a screen shot of the directory.  Every folder here is a complete and different album.
 
@@ -19,36 +20,36 @@ So without any sort of self-censorship, the library of crap grows and grows and 
 
 (I just reread this post so far, and I really like this phrase:  "So without any sort of self-censorship, the library of crap grows and grows and grows."  It's much like this blog in that aspect.)
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Speaking of interesting musical facts (not that it was all that interesting), a couple of weeks ago, I Googled myself, and found a couple of interesting links that I hadn't seen <a href="http://theskinnyonbenny.com/blog2/archives/182">before</a>.  The most amusing find was a band named after a guy who had the same name as me.
 
-It took another few clicks for me to find their CD on sale for $1.99 at <a href="http://www.secondspin.com/music/browse-artist.jsp?productId=993855" target="_blank">SecondSpin.com</a>.  That's the cover up there at the top of the post.  A few clicks after that, and I had ordered my own copy.
+It took another few clicks for me to find their CD on sale for $1.99 at SecondSpin.com.  That's the cover up there at the top of the post.  A few clicks after that, and I had ordered my own copy.
+
+<h3>2024 update: RIP secondspin.com.  Dead link removed</h3>
 
 It's worth $1.99 to me just for the CD cover alone.  I shall display it proudly. I have only listened to fits and starts of the music so far, and as you might have guessed, it's not all that great.  It sort of reminds me of that solo album that Jimmy Page put out in the early 90's, but I don't think it's all that good.  I have yet to stumble on a snippet of music that included any vocal part.  But who knows?  I might become a fan yet.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/bsb_1.jpg"></td></tr><tr><td class="caption" width="250">A photo from the CD case of the guy who took my name to the record companies.  Isn't he just the shit?  I bet you wish you'd have thought to hold your electric guitar as if it were a violin.</td></tr></table>
+<a class="lightview centered" href="/img/bsb_1.jpg" data-lightview-caption="A photo from the CD case of the guy who took my name to the record companies.  Isn't he just the shit?  I bet you wish you'd have thought to hold your electric guitar as if it were a violin." data-lightview-group="group1"><img src="/img/bsb_1.jpg" alt="/img/bsb_1.jpg"><br><span class="caption">A photo from the CD case of the guy who took my name to the record companies.  Isn't he just the shit?  I bet you wish you'd have thought to hold your electric guitar as if it were a violin.</span></a>
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/bsb_2.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">A photo of the entire band.  That's me, second from the right.</td></tr></table>
+<a class="lightview centered" href="/img/bsb_2.jpg" data-lightview-caption="A photo of the entire band.  That's me, second from the right." data-lightview-group="group1"><img src="/img/bsb_2.jpg" alt="/img/bsb_2.jpg"><br><span class="caption">A photo of the entire band.  That's me, second from the right.</span></a>
 
 It's not related to the band, but on a different search result, I also found out that a guy with my name was married to <a href="http://en.wikipedia.org/wiki/Liz_Claiborne" target="_blank">Liz Claiborne</a>.  I have to admit that I didn't really know that Liz was a real person rather than just a brand name.
-
-<center><img src="/img/greenline.gif"></center>
 
 Here's an email that I got from Shelly a couple of weeks ago.  I'm making the judgment that this is really about me rather than about her life up in New Jersey, so I'm putting it in my own blog rather than making a new page in the ongoing series of pages about Shelly.
 
 <blockquote>Two things happened on the train today that made me think of you:
 First, a Chinese lady had a walkman -- a real tape playing walkman.  I couldn't believe me eyes. I didn't know any of those were still around.  Second, the man in the seat in front of me had the WORST hair piece you have ever seen.  I mean, it didn't even look like he tried to blend it in.  I don't know why those things made me think of you -- probably b/c you have an even more warped sense of humor than I do.</blockquote>
 
-I think I know the real reason that the hairpiece guy reminded you of me is that I'm the only one I know who consistently gets annoyed that <a href="http://www.2theadvocate.com/columnists/pat" target="_blank">Baton Rouge meteorologist Pat Shingleton</a> doesn't try a little harder to hide the fact that he has a bad, bad hairpiece.  Why oh why doesn't he either get one that blends in with that little bit of real hair on the side, or just go bald?  Seriously Pat, viewers of local news don't care if you have hair on your dome or not.  Sheeze.
+I think I know the real reason that the hairpiece guy reminded you of me is that I'm the only one I know who consistently gets annoyed that <a href="https://www.wbrz.com/news/pat-shingleton-will-deliver-final-forecast-after-40-years-at-wbrz/" target="_blank">Baton Rouge meteorologist Pat Shingleton</a> doesn't try a little harder to hide the fact that he has a bad, bad hairpiece.  Why oh why doesn't he either get one that blends in with that little bit of real hair on the side, or just go bald?  Seriously Pat, viewers of local news don't care if you have hair on your dome or not.  Sheeze.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I don't know who made up this haiku.  It was recited to me, and if the source was revealed, I didn't take note.  Nevertheless, it was good enough to pass on.
 
-<center>Haikus are easy.
+<blockquote>Haikus are easy.
 But some of them don't make sense.
-Refrigerator.</center>
+Refrigerator.</blockquote>
 
 <center><img src="/img/greenline.gif"></center>
 

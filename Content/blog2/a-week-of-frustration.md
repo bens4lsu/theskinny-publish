@@ -1,9 +1,10 @@
 ---
 title: A Week of Frustration
 date: 2007-04-09 13:46
-description: A description of my post.
+description: It was a dull weekend, with mostly cool cloudy weather.  To be honest, I have absolutely nothing to blog about.  I would advise you to skip the rest of this post and check back later in the week  Here's what I've been up to.
 tags: my-stories
 id: 288
+ogImg: upstracking.jpg
 ---
 It was a dull weekend, with mostly cool cloudy weather.  To be honest, I have absolutely nothing to blog about.  I would advise you to skip the rest of this post and check back later in the week.
 
@@ -19,7 +20,9 @@ On Friday, I waited during the prescribed appointment time for a Sears service r
 
 Other bits of frustration:
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/upstracking.jpg"></td></tr><tr><td class="caption" width="250">Tracking information from UPS for my centerboard.</td></tr></table>
+<a class="lightview alignright" href="/img/upstracking.jpg" data-lightview-caption="Tracking information from UPS for my centerboard.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/upstracking.jpg" alt="/img/upstracking.jpg"><br><span class="caption">Tracking information from UPS for my centerboard.
+</span></a>
 
 UPS lost the centerboard to my boat.  This is a large, heavy piece of fiberglass that fits just into a particular slot on newer Rhodes 22 sailboats.  This part is useful only for this particular sailboat, and only for ones that have the newer diamond board configuration.  There are probably less than 100 boats who could possibly use this board, and probably only one in the world where the part is needed now.  I would love to find who ended up with my centerboard and see what they're doing with it.
 

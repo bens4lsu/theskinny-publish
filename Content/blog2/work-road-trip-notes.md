@@ -1,9 +1,10 @@
 ---
 title: Work Road Trip Notes
 date: 2007-02-01 10:51
-description: A description of my post.
+description: I'm posting this from a short work trip to North Carolina.  I flew into Raleigh with Tyler (of sporadic haiku acclaim) and Ann, a sixty year old career woman whose energy and patience is double what we younger guys have.  While we were walking out of the Raleigh airport, she's moving along at a good clip, toting what appears to be seventy-five pounds of luggage.  We got to an intersection, and she asked, "You guys want to take a short cut out of here?"
 tags: the-office,travel
 id: 274
+ogImg: bigouthouse.jpg
 ---
 I'm posting this from a short work trip to North Carolina.  I flew into Raleigh with Tyler (of sporadic haiku acclaim) and Ann, a sixty year old career woman whose energy and patience is double what we younger guys have.
 
@@ -27,9 +28,9 @@ Once past the shortcut door, we had to march through the zig zag line of people 
 
 When the elevator door closed, Ann went back to her energetic self.  "Shit, that's too far to walk for no good reason."
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-<table><tr><td><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td ><img src="/img/bigouthouse.jpg"></td></tr><tr><td class="caption" >This really big outhouse serves the work population of a large building in an office park in Rocky Mount, NC.</td></tr></table></div></td></tr><tr><td>
+<a class="lightview alignright" href="/img/This really big outhouse serves the work population of a large building in an office park in Rocky Mount, NC." data-lightview-caption="bigouthouse.jpg" data-lightview-group="group1" style="width:350px;"><img src="/img/This really big outhouse serves the work population of a large building in an office park in Rocky Mount, NC." alt="/img/This really big outhouse serves the work population of a large building in an office park in Rocky Mount, NC."><br><span class="caption">bigouthouse.jpg</span></a>
 
 I spent the afternoon in a meeting going line by line through some technical documentation.  There were a couple of odd things about the location of our meeting.  First, there was no indoor plumbing.  Honest to God.  The facilities were in a large clean mobile home type of out building, with boat type of commodes without water in the bowl.  Second, it was right along a frequently used train tracks.  After a while, I started interrupting the meeting with announcements about the trains.
 
@@ -41,9 +42,9 @@ I spent the afternoon in a meeting going line by line through some technical doc
 
 Another lady asked, "Do you have them all memorized?"
 
-"Yeah, I took a look over the train schedule during the drive over.  There wasn't much else to do."  I'm not sure if she believed me.</td></tr></table>
+"Yeah, I took a look over the train schedule during the drive over.  There wasn't much else to do."  I'm not sure if she believed me.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 That night at dinner, we got seated at a long table against the wall at an Outback Steakhouse.
 

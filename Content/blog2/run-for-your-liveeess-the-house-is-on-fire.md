@@ -1,9 +1,10 @@
 ---
 title: RUN FOR YOUR LIVEEESS!  THE HOUSE IS ON FIRE!!!
 date: 2007-02-07 12:23
-description: A description of my post.
+description: The day before yesterday, I got home from work, and I was feeling a little bit funk, so I decided to hop in the shower.  I went to the spare bathroom downstairs because the combination of the shower head and the water pressure is the best I know.  It reminds you of that Seinfeld episode where Kramer got a shower head that they use to hose down elephants at the circus.  I could hose down an elephant in my downstairs bathroom, and to shower under that kind of stream is nice.
 tags: my-stories
 id: 276
+ogImg: firetrucks.jpg
 ---
 The day before yesterday, I got home from work, and I was feeling a little bit funk, so I decided to hop in the shower.  I went to the spare bathroom downstairs because the combination of the shower head and the water pressure is the best I know.  It reminds you of that Seinfeld episode where Kramer got a shower head that they use to hose down elephants at the circus.  I could hose down an elephant in my downstairs bathroom, and to shower under that kind of stream is nice.
 
@@ -13,8 +14,9 @@ Five or ten minutes later, I was all pink and clean.  I shut off the water and s
 
 I hurried to get dry and thow on a robe.  I got to the front door just as three firemen were walking up.  Claycut was blocked by two huge firetrucks.  Several more firemen were unloading gear behind them.
 
-<img src="/img/firetrucks.jpg" />
-
+<a class="lightview centered" href="/img/firetrucks.jpg" data-lightview-caption="<img src="/img/firetrucks.jpg" />
+" data-lightview-group="group1"><img src="/img/firetrucks.jpg" alt="/img/firetrucks.jpg"><br><span class="caption"><img src="/img/firetrucks.jpg" />
+</span></a>
 The alarm company had probably tried to phone, but I didn't hear through the roaring waterfall and closed door.  They also failed to reach Mrs. theskinnyonbenny at work or by cell -- not that she would have known what was happening either.  So they did what they should have done -- call out the fire department.
 
 I'm glad to know that they respond so quickly.

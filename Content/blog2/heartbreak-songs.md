@@ -1,8 +1,8 @@
 ---
 title: Heartbreak Songs
 date: 2006-10-26 17:04
-description: A description of my post.
-tags: my-stories
+description: On my quest to listen to all of my music alphabetically, I'm up to the songs that start with "Heart."  You might not be surprised to hear that there's a lot of country music in this section.  Lots of country music writers out there with heartache.  So how do I make sure that I listen to all of the songs?
+tags:music
 id: 254
 ---
 On my quest to listen to all of my music alphabetically, I'm up to the songs that start with "Heart."  You might not be surprised to hear that there's a lot of country music in this section.  Lots of country music writers out there with heartache.

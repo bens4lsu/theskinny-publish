@@ -1,7 +1,7 @@
 ---
 title: Charlie Weis Quotes
 date: 2007-01-04 11:41
-description: A description of my post.
+description: Top ten quotes from Charlie Weis's halftime speech during yesterday's Sugar Bowl.
 tags: sports
 id: 268
 ---

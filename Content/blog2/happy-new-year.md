@@ -1,7 +1,7 @@
 ---
 title: Happy New Year!
 date: 2007-01-03 08:14
-description: A description of my post.
+description: In a few days, the memory of my burning intestines will fade, and New Year's Day 2007 will be a happy memory of being curled in a chair, half asleep, half awake, watching football, and not passing a single thought through my head the entire day.
 tags: my-stories
 id: 267
 ---

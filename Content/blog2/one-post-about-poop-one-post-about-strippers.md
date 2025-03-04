@@ -1,7 +1,7 @@
 ---
 title: One Post About Poop, One Post About Strippers
 date: 2007-01-18 21:31
-description: A description of my post.
+description: I had a conference call scheduled today at 11:00.  Unfortunately, I hadn't had a chance to take my morning bathroom break yet, and the call promised to be a difficult one.  I dialed in to the number, and found that it was just hold music.  The host hadn't started the call yet.
 tags: my-stories
 id: 272
 ---
@@ -13,13 +13,14 @@ Fast forward 45 minutes. I'm on my second toilet of the morning, wishing away st
 
 If you know me, you will realize that I'm dying to give detail after gory detail about my diarrhea.  But in order to keep it from getting too gross, I'll keep it to two more quick details.
 
-<URL><li>It looked like wet sand, but brownish-green.  In fact, it was the greenest poo that I've ever seen.  (I ate a lot of cole slaw last night.  Cabbage?)</li><li>It came on suddenly and strongly enough, that I had to discard my underwear in a gas station restroom today.</li></ul>
+- It looked like wet sand, but brownish-green.  In fact, it was the greenest poo that I've ever seen.  (I ate a lot of cole slaw last night.  Cabbage?)
+- It came on suddenly and strongly enough, that I had to discard my underwear in a gas station restroom today.
 
 I went home, showered, and changed, and my little problem gradually subsided.
 
 So when your work day is hectic, take a little time for caution.  Think before you pray.  And pay good attention to your time zone conversions.  I was on the call four hours ahead of when I needed to be.  There was no need at all to pray for the loosey-gooseys.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 We have a coworker who has a really nice personal milestone coming up.  The nicest member of our team sent the rest of us an email suggesting that we send some sort of gesture of congratulations.  She intended a gift or perhaps a cocktail hour after work one evening.
 
@@ -36,9 +37,10 @@ Over the years, the mainstream subdivisions moved farther and farther south, tak
 If those places can hang on, it will be really convenient for that group of future strippers who are today the little girls of the young families who live out in those suburbs.
 
 That reminds me of something else funny that I read earlier this week.  Bill Simmons started giving his wife a weekly sidebar on one of his columns on espn.com.  This is from her sidebar this week.
+
 <blockquote>The "Deal or No Deal" models bug me because they peek into the suitcases now and milk their 10 seconds for all it's worth. Ladies, just shut your trap, open the case and be thankful you're not clinging to a stripper's pole anymore.</blockquote>
 
 I hadn't really thought about it, but that is an annoying facet of that show.  It used to be just once or twice a show that they would do that, but now, it's every single box.  Buncha monkeys is what they are.  Really good looking monkeys, but monkeys nevertheless.
 
-<i>Deal or No Deal</i> has passed <i>American Idol</i> as the show that I have least interest in watching, but am strangely unable to turn off if I happen to catch a little by accident.
+_Deal or No Deal_ has passed _American Idol_ as the show that I have least interest in watching, but am strangely unable to turn off if I happen to catch a little by accident.
 

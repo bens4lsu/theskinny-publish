@@ -1,7 +1,7 @@
 ---
 title: Junior Achievement
 date: 2006-10-25 09:00
-description: A description of my post.
+description: This week, I did my first stint as a Junior Achievement volunteer.  I was assigned a class of 7th graders at a school right down the street from my house.  All of the junior high stereotypes were in full play:  the boys who were too cool to participate, the class clowns, the smart pretty girl who kissed my butt.  From what I saw, very little has changed in the junior high classroom in the last 20 years.
 tags: my-stories
 id: 253
 ---

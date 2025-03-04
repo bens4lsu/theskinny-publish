@@ -1,17 +1,20 @@
 ---
 title: Buffa's
 date: 2006-11-01 10:09
-description: A description of my post.
-tags: food
+description: On Sunday, we went to the Voodoo Fest (or, officially, I think it's the "Voodoo Music Experience") in city park.  I may tell you what I thought about the festival itself later in the week, but more importantly, I need to tell you about where we went afterwards.
+tags: food, travel, new-orleans, music
 id: 255
+ogImg: buffas_steve.jpg
 ---
-On Sunday, we went to the <a href="http://www.voodoomusicfest.com/" target="_blank">Voodoo Fest</a> (or, officially, I think it's the "Voodoo Music Experience") in city park.  I may tell you what I thought about the festival itself later in the week, but more importantly, I need to tell you about where we went afterwards.
+On Sunday, we went to the <a href="https://en.wikipedia.org/wiki/Voodoo_Music_%2B_Arts_Experience" target="_blank">Voodoo Fest</a> (or, officially, I think it's the "Voodoo Music Experience") in city park.  I may tell you what I thought about the festival itself later in the week, but more importantly, I need to tell you about where we went afterwards.
 
-Our original destination was <a href="http://www.portofcallneworleans.com/" target="_blank">Port of Call</a>, which all regular visitors to New Orleans know well.  I had been talking off and on for at least an hour about how I was looking forward to one of their potatoes (yes, really).  But we got there, and it was packed to overflowing.  It seemed a long shot to get four spots at the bar near each other, and they only have 8 or 10 tables, so it was going to be a long, long time before we got to eat.
+Our original destination was <a href="https://portofcallnola.com" target="_blank">Port of Call</a>, which all regular visitors to New Orleans know well.  I had been talking off and on for at least an hour about how I was looking forward to one of their potatoes (yes, really).  But we got there, and it was packed to overflowing.  It seemed a long shot to get four spots at the bar near each other, and they only have 8 or 10 tables, so it was going to be a long, long time before we got to eat.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/buffas_steve.jpg"></td></tr><tr><td class="caption" width="250">Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.</td></tr></table>
+<a class="lightview alignright" href="/img/buffas_steve.jpg" data-lightview-caption="Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_steve.jpg" alt="/img/buffas_steve.jpg"><br><span class="caption">Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.
+</span></a>
 
-We walked back to a place that we had passed on our way over to Port of Call.  <a href="http://listings.bestofneworleans.com/gyrobase/Location.html?Location=oid%3A10331" target="_blank">Buffa's</a> is right across Esplanade Blvd.  
+We walked back to a place that we had passed on our way over to Port of Call.  <a href="https://www.buffasbar.com" target="_blank">Buffa's</a> is right across Esplanade Blvd.  
 
 We walked in to a smallish bar area.  A long bar took up the space on the left, and a few small tables were on the right.  The bartender was a big energetic guy.  He was friendly, but kind of crazy as well.  He looked like an American Indian with long straight hair, but he could have been white, Hispanic, or Asian too.
 
@@ -19,10 +22,10 @@ He went back to check whether the kitchen was open for us.  (It was after 10:00 
 
 The menu was a list on a chalkboard that looked something like this:
 
-<center>Hamburger
-Cheeseburger
-Buffaburger
-(about two other items, which seemed unappealing)</center>
+- Hamburger
+- Cheeseburger
+- Buffaburger
+- (about two other items, which seemed unappealing)
 
 Jodie ordered first.  "I'll have a cheeseburger."
 
@@ -32,7 +35,7 @@ Jodie ordered first.  "I'll have a cheeseburger."
 
 We each took a turn ordering Buffaburgers and drinks.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/buffas_tinman.jpg"></td></tr><tr><td class="caption" width="250">An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a <i>Gone With the Wind</i> movie photo, which ironically, beat out <i>The Wizard of Oz</a> for Best Picture whatever year that was.</td></tr></table>
+<a class="lightview alignright" href="/img/buffas_tinman.jpg" data-lightview-caption="An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a <i>Gone With the Wind</i> movie photo, which ironically, beat out <i>The Wizard of Oz</i> for Best Picture whatever year that was." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_tinman.jpg" alt="/img/buffas_tinman.jpg"><br><span class="caption">An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a <i>Gone With the Wind</i> movie photo, which ironically, beat out <i>The Wizard of Oz</i> for Best Picture whatever year that was.</span></a>
 
 We hung out in there for a little while, watching the end of the Sunday night football game.  There was a small group of people in there, and it was very comfortable.  If I lived in that neighborhood, I would be in there all the time.
 
@@ -48,8 +51,7 @@ One corner of the room had an old television (that would probably have changed c
 
 Even though the lighting was fine, the room was accessorized by several brass lamps.  There was also a "help yourself" bookshelf full of paperbacks.
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/buffas_wide.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">The "TV on a cigarette machine area" in the back room.  The bright spot is the TV.  The couch is in the very foreground.  The book rack is over to the right.  Notice the brass lamp also.</td></tr></table>
-
+<a class="lightview alignright" href="/img/buffas_wide.jpg" data-lightview-caption="The "TV on a cigarette machine area" in the back room.  The bright spot is the TV.  The couch is in the very foreground.  The book rack is over to the right.  Notice the brass lamp also." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_wide.jpg" alt="/img/buffas_wide.jpg"><br><span class="caption">The "TV on a cigarette machine area" in the back room.  The bright spot is the TV.  The couch is in the very foreground.  The book rack is over to the right.  Notice the brass lamp also.</span></a>
 
 What other oddities can I describe?  Oh yes, there was a shopping cart in one corner.  And the windows (long and oval-shaped) weren't parallel with the ground or ceiling.
 
@@ -61,7 +63,7 @@ This surprised my companions and left them responseless.  But I had heard him re
 
 The burgers were huge, delicious, and far from well done.  I think it was a full inch thick, cooked, and it was seasoned very well.  The fact that the middle was pretty much raw didn't bother me (after a day of drinking, especially), and in fact, it allowed me to finish half of Mrs. theskinnyonbenny's Buffaburger.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="190" ><img src="/img/buffas_lamp.jpg"></td></tr><tr><td class="caption" width="190">This setup of a lamp on top of encyclopedia volumes was set up at the end of our cafeteria-style table.</td></tr></table>
+<a class="lightview alignright" href="/img/buffas_lamp.jpg" data-lightview-caption="This setup of a lamp on top of encyclopedia volumes was set up at the end of our cafeteria-style table." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_lamp.jpg" alt="/img/buffas_lamp.jpg"><br><span class="caption">This setup of a lamp on top of encyclopedia volumes was set up at the end of our cafeteria-style table.</span></a>
 
 On his way out, Steve peeked through a window and into the kitchen.  He later reported that Buffa's is the <i>last</i> place that you want your meat less than fully cooked, but I'm still alive and relatively healthy.
 

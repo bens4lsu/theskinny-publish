@@ -1,7 +1,7 @@
 ---
 title: Please Set Your Blackberry on Fire.  Right Now.
 date: 2007-01-16 08:01
-description: A description of my post.
+description: Several years ago, I was a true corridor crawler, spending all day every day going meeting to meeting to meeting.  We reorganized the company a few years ago, and the resulting structure and physical layout eliminated 90% of the internal meetings that wasted the days away.
 tags: the-office
 id: 270
 ---
