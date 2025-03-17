@@ -23,7 +23,7 @@ struct HomePage: Component {
                 HomeMainMessage(context)
                 HomeBluesky()
                 HomeBlogPost(context.allBlogPosts!)
-                HomeBigTrip(tripPosts: context.bigtripAll)
+                //HomeBigTrip(tripPosts: context.bigtripAll)
                 HomeDailyPhoto()
                 HomeShelly()
                 HomeAfterThought(context)

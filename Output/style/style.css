@@ -819,15 +819,15 @@ img.greenline {
         grid-template-areas:
         "main main"
         "tweets blog"
-        "tweets trip"
-        "shelly dailyphoto"
+        "tweets dailyphoto"
+        "shelly shelly"
         "after after";
     }
     
-    .div-home-big-trip {
-        grid-area: trip
-        
-    }
+/*    .div-home-big-trip {*/
+/*        grid-area: trip*/
+/*        */
+/*    }*/
     
     .div-home-tweets {
         display:block;

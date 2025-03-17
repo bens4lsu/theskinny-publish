@@ -78,6 +78,38 @@ struct Menu: Component {
         }
     }
     
+    public var elsewhere: Component {
+        ComponentGroup {
+            ListItem {
+                Link("Bluesky", url:"https://bsky.app/profile/ben.theskinnyonbenny.com").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("Photobot", url:"https://bsky.app/profile/photobot.theskinnyonbenny.com").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("Facebook", url:"https://www.facebook.com/Bens4lsu/").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("Insta", url: "https://www.instagram.com/bens4lsu/").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("VE Insta", url: "https://www.instagram.com/sailvelvetelvis/").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("VE Web", url: "https://sailvelvetelvis.com").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("Benny @ Work", url:"https://concordbusinessservicesllc.com").toNewScreen()
+            }.class("li-pagelink")
+            ListItem {
+                Link("Goodreads", url:"https://www.goodreads.com/review/list/3743890-ben?ref=nav_mybooks").toNewScreen()
+            }.class("li-pagelink")
+        }
+    }
+    
     
     var body: Component {
         
@@ -183,33 +215,7 @@ struct Menu: Component {
                 }
                 
                 Collapser(text: "Benny Elsewhere", elementId: "collapser-elsewhere").component {
-                    ListItem {
-                        Link("Bluesky", url:"https://bsky.app/profile/ben.theskinnyonbenny.com").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Photobot", url:"https://bsky.app/profile/photobot.theskinnyonbenny.com").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Facebook", url:"https://www.facebook.com/Bens4lsu/").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Insta", url: "https://www.instagram.com/bens4lsu/").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("VE Facebook", url: "https://www.facebook.com/sailvelvetelvis/").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("VE Insta", url: "https://www.instagram.com/sailvelvetelvis/").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("VE Web", url: "https://sailvelvetelvis.com").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Benny @ Work", url:"https://concordbusinessservicesllc.com").toNewScreen()
-                    }.class("li-pagelink")
-                    ListItem {
-                        Link("Goodreads", url:"https://www.goodreads.com/review/list/3743890-ben?ref=nav_mybooks").toNewScreen()
-                    }.class("li-pagelink")
+                    elsewhere
                 }
             }.class("fullScreenMenu")
             

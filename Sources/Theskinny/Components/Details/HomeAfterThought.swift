@@ -66,7 +66,7 @@ struct HomeAfterThought: Component {
     
     var body: Component {
         Div {
-            content
+            //content
         }.class("div-home-after")
     }
 }

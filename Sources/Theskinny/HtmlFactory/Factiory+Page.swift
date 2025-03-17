@@ -40,6 +40,8 @@ extension TsobHTMLFactory {
                 return makePageHTMLDefault(for: page, context: context, content: Movies(), title: "Movies Watched")
             case "tv":
                 return makePageHTMLDefault(for: page, context: context, content: TVShows(), title: "TV Shows Watched")
+            case "elsewhere":
+                return makePageHTMLDefault(for: page, context: context, content: ElsewherePage(), title: "Benny Elsewhere")
             default:
                 return makePageHTMLDefault(for: page, context: context)
             }
