@@ -362,6 +362,7 @@ a.lightview.centered span.caption {
     float: right;
     margin-left: 25px;
     margin-bottom: 20px;
+    clear: right;
 }
 
 .alignleft {
@@ -369,6 +370,7 @@ a.lightview.centered span.caption {
     float: left;
     margin-right: 25px;
     margin-bottom: 20px;
+    clear: left;
 }
 .caption, a .caption {
     font-weight: bold;
@@ -381,7 +383,7 @@ blockquote {
     padding-left: 2em;
     line-height: 1.75;
     font-size: 90%;
-    clear: both;
+    clear: top;
 }
 
 div.twitter-tweet {

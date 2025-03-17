@@ -1,9 +1,10 @@
 ---
 title: Disciplining Your Children
 date: 2014-09-19 11:34
-description: A description of my post.
+description: There's no one of my age -- at least no one whose family hails from the rural South -- who hasn't heard, "When I was bad, Daddy made me go outside and pick my own switch."  I always dismissed this as old person hyperbole.  In my mind it belongs with, "I walked fourteen miles to school barefoot every day, and it was uphill in both directions."
 tags: young-ruski
 id: 1882
+ogImg: /gal/049%20-%20Nov%20and%20Early%20Dec%202008/resIMG_5161.JPG
 ---
 There's no one of my age -- at least no one whose family hails from the rural South -- who hasn't heard, "When I was bad, Daddy made me go outside and pick my own switch."
 

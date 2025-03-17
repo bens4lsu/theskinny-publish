@@ -1,7 +1,7 @@
 ---
 title: Taco Bell to Mike Andersons with "What I Did This Week" In-between
 date: 2007-03-11 06:37
-description: A description of my post.
+description: One day recently at work, Tyler went to the restroom and found that someone had printed out articles from the Sports Illustrated web site, read them on the can, and left them in there.  That has nothing to do with the long and eventful week that I'm about to share, but this is a rather long post.  So those of you at work might want to go ahead and print this one out.  Save it for "private concentration time."  And if you do that, please shoot me a quick email to let me know.  I would be so proud.  And one more thing -- be sure to leave it for the next guy.
 tags: my-stories,food
 id: 282
 ---
@@ -13,52 +13,54 @@ There are strong signs of boredom.  Exhibit #1 -- the email links I get to oddba
 
 <blockquote>Mom taught her 2 kids to fake retardation
 A woman admitted Monday that she coached her two children to fake retardation starting when they were 4 and 8 years old so she could collect Social Security benefits on their behalf.
-
-<a href="http://www.msnbc.msn.com/id/17360272/from/ET/" target="_blank">http://www.msnbc.msn.com/id/17360272/from/ET/</a>
-
-When fake bull testicles are outlawed ...
+<br><br>
+<a href="https://www.nbcnews.com/id/wbna17360272" target="_blank">https://www.nbcnews.com/id/wbna17360272</a>
+<br><br>
+When fake bull testicles are outlawed ...<br>
 Fake bull testicles and other anatomically explicit vehicle decorations would be banned from Maryland roads under a bill pending in the state legislature.
-
+<br><br>
 <a href="http://www.msnbc.msn.com/id/17302498/from/ET/" target="_blank">http://www.msnbc.msn.com/id/17302498/from/ET/</a></blockquote>
 
 I had just turned off the projector after completing a presentation when this popped into my Inbox with a subject line featuring "bull testicles."  I have to admit that this would have been hilarious -- and mucho embarrassing -- if the message had come up while I was in view of the whole room.
 
-<blockquote>Wouldn't it be better to just slug hubby?
+<blockquote>Wouldn't it be better to just slug hubby?<br>
 A Chinese businessman has advertised on the Internet for a stand-in mistress to be beaten up by his wife to vent her anger and to protect his real mistress, Chinese media reported on Monday.
-
-<a href="http://www.msnbc.msn.com/id/17302498/from/ET/" target="_blank">http://www.msnbc.msn.com/id/17342230/from/ET/ 	</a>
-
+<br><br>
+<a href="https://www.nbcnews.com/id/wbna17302498" target="_blank">https://www.nbcnews.com/id/wbna17302498</a>
+<br><br>
 What is with the Thai people and elephants?
-
-Man claims record for most squat thrusts
+<br><br>
+Man claims record for most squat thrusts<br>
 New Yorker Ashrita Furman looked around for a record he could break, and settled on doing the most squat thrusts in one minute. Then he decided on a place _ the back of an elephant in northern Thailand.
-
-<a href="http://www.msnbc.msn.com/id/17283620/from/ET/" target="_blank">http://www.msnbc.msn.com/id/17283620/from/ET/</a></blockquote>
+<br><br>
+<a href="https://www.nbcnews.com/id/wbna17283620" target="_blank">https://www.nbcnews.com/id/wbna17283620</a></blockquote>
 
 I had always thought that the comments were generated automatically by msnbc when she clicked some sort of "send this story to a friend" type of button.  But I'm doubtful that the link authors would put, "What is with the Thai people and elephants?" in their message.  That just reads in Shelly's voice to me.  And also, it didn't originally have the question mark.  So perhaps she's even summarizing all of these articles for my benefit.
 
 Some are barely newsworthy:
 
 <blockquote>I guess this is the equivalence of saying "Kangaroo spotted in Louisiana"
-
+<br><br>
 1st Beaver spotted in NYC in 200 years - Yahoo! News
+<br><br>
+<a href="https://www.nytimes.com/2007/02/23/nyregion/23beaver.html" target="_blank">https://www.nytimes.com/2007/02/23/nyregion/23beaver.html</a></blockquote>
 
-<a href="http://news.yahoo.com/s/ap/20070223/ap_on_sc/bronx_beaver" target="_blank">http://news.yahoo.com/s/ap/20070223/ap_on_sc/bronx_beaver</a></blockquote>
-
-The jist of this one is that some beavers moved in to some river or stream in the Bronx for the first time in a zillion years.  Clearly the beaver isn't as hardy as their Louisiana cousins, <a href="http://theskinnyonbenny.com/dailyphoto/2007/page.php?year=2007&month=03&day=06" target="_blank">the nutria</a>, who might be seen in any urban polluted ditch in the state.
+The jist of this one is that some beavers moved in to some river or stream in the Bronx for the first time in a zillion years.  Clearly the beaver isn't as hardy as their Louisiana cousins, <a href="/dailyphoto/2007/20070306" target="_blank">the nutria</a>, who might be seen in any urban polluted ditch in the state.
 
 Speaking of big giant rodents, one day, I was finishing lunch at my desk.  There's only one place where I can grab lunch and get back in a 10-minute span:  the Kentucky Fried Taco Bell.  I had just finished a bean burrito and spicy chicken burrito when an email popped in about the rat infestation at Taco Bell's in New York.
 
 I wadded up my burrito wrapper, hit the trash can, and replied with something similar to, "Fuck you.  I just finished my Taco Bell lunch.  There's no way I'm reading this article."
 
-<table cell padding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/rats.jpg"></td></tr><tr><td class="caption" width="250">The cover story about Taco Bell rats that I received in the mail.</td></tr></table>
+<a class="lightview alignright" href="/img/rats.jpg" data-lightview-caption="The cover story about Taco Bell rats that I received in the mail.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/rats.jpg" alt="/img/rats.jpg"><br><span class="caption">The cover story about Taco Bell rats that I received in the mail.
+</span></a>
 
 I failed to estimate Shelly's love of being a pain in the ass, and I failed to factor in her boredom.  A couple of days later, I got a letter in the mail.  I opened it up, and it's a small newspaper cutout with the article about the rats at Taco Bell.  But Shelly is hard-core, and that wasn't the end of it.  A week later, a letter arrived with a full page cover photo and a long writeup about the rats.  And I got another email about "Taco Bell's new menu items":  
 
-<blockquote>Gordita Rata
-Grilled Rat Burrito
-Ratchos Bell Grande
-Rati Melt
+<blockquote>Gordita Rata<br>
+Grilled Rat Burrito<br>
+Ratchos Bell Grande<br>
+Rati Melt<br>
 Rat Droppings and Cheese</blockquote>
 
 As far as I know, Shelly is still planning to come to Louisiana next weekend for St. Patrick's day.  I have to think that it will do her a lot of good.

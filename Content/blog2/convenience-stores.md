@@ -1,7 +1,7 @@
 ---
 title: Convenience Stores
 date: 2007-03-02 13:57
-description: A description of my post.
+description: I'm a big fan of a good convenience store.  Some will think that there's not much difference between convenience stores, but those people would be wrong.  Sure, they all keep the tobacco and dirty magazines behind the counter, but aside from that, there are big differences.
 tags: food
 id: 281
 ---

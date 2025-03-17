@@ -1,7 +1,7 @@
 ---
 title: Travel in Russia
 date: 2007-03-22 19:08
-description: A description of my post.
+description: You know how you'll sometimes run into a foreign student and tourist, and they have something about them -- either in appearance or action -- which is incredibly foreign, nerdy, and funny?  The best example I can think of is the wearing of socks with sandals.
 tags: travel, russia
 id: 284
 ogImg: gal/032%20-%20Russia%20Trip%201%20-%20Moscow/resIMG_20070315_1209.JPG
@@ -36,7 +36,7 @@ Moscow is a huge city -- a large business center with a population that's perhap
 
 A good portion of that small airport is dedicated to security.  To catch the plane home, we had to go through the following checkpoints:
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070315_1197.JPG" width="235"></td></tr><tr><td class="caption" width="250">Comfortable train travel means less need for the hassle of airports.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070315_1197.JPG" data-lightview-caption="Comfortable train travel means less need for the hassle of airports." data-lightview-group="group1" style="width:350px;"><img src="/img/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070315_1197.JPG" alt="/img/gal/031%20-%20Russia%20Trip%201%20-%20Yaroslavl%20and%20Ivan/resIMG_20070315_1197.JPG"><br><span class="caption">Comfortable train travel means less need for the hassle of airports.</span></a>
 
 <ul><li>All bags (check and carry-on) x-rayed.  Mrs. theskinnyonbenny claims that the woman watching the screen was actually busy doing her nails.</li>
 

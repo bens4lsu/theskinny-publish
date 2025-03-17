@@ -1,9 +1,10 @@
 ---
 title: Went Sailing Sunday
 date: 2014-10-30 12:09
-description: A description of my post.
-tags: sailing
+description: Tigers beat a conference team in a game that many expected them to lose.  Saints win an important game that many expected them to lose.  On Saturday, I had drinks with good friends and laughed my ass off all night.
+tags: sailing, boats
 id: 1897
+ogImg: plane1.jpg
 ---
 Tigers beat a conference team in a game that many expected them to lose.  Saints win an important game that many expected them to lose.  On Saturday, I had drinks with good friends and laughed my ass off all night.
 
@@ -19,8 +20,8 @@ Once we were home, the Saints looked great in a win against the Packers.  I coul
 
 Really good day. 
 
-<a class="lightview centered" href="/img/plane1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane1.jpg" alt="/img/plane1.jpg" width="350px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/plane1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane1.jpg" alt="/img/plane1.jpg"><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/plane2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane2.jpg" alt="/img/plane2.jpg" width="350px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/plane2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane2.jpg" alt="/img/plane2.jpg"><br><span class="caption"></span></a>
 
-<a class="lightview centered" href="/img/plane3.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane3.jpg" alt="/img/plane3.jpg" width="350px"><br><span class="caption"></span></a>
+<a class="lightview centered" href="/img/plane3.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/plane3.jpg" alt="/img/plane3.jpg"><br><span class="caption"></span></a>

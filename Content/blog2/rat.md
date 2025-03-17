@@ -1,7 +1,7 @@
 ---
 title: Rat
 date: 2014-09-22 18:30
-description: A description of my post.
+description: A few weeks ago, I was about to head out the back door to put a couple of pork shoulders on the barbecue.  Just as I was on my way out, Paul showed up and grabbed the door.  I was home by myself, so I welcomed the excuse to ditch the kitchen cleanup and to sit out, smell the meat, and run our mouths.
 tags: animals,my-stories
 id: 1890
 ---
