@@ -52,6 +52,14 @@ extension PublishingStep where Site == Theskinny {
                 page.body.html = html.render()
                 context.addPage(page)
             }
+            
+            // redirect pages for /blog and /blog2
+            for pathString in ["/blog", "/blog2"] {
+                var page = Page(path: Path(pathString), content: Content())
+                let html = HTML(.component(Script.redirectToBlogCurrent))
+                page.body.html = html.render()
+                context.addPage(page)
+            }
         }
     }
     

@@ -31,3 +31,11 @@ public struct Script: Component {
 }
 
 extension HTML.ScriptContext: @retroactive HTMLScriptableContext { }
+
+// MARK: Some specific scripts
+
+extension Script {
+    static var redirectToBlogCurrent: Script {
+        Script("window.location.replace(\"/blog/current\");")
+    }
+}
