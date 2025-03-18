@@ -1,8 +1,8 @@
 ---
 title: Jazz Fest
 date: 2007-05-08 06:40
-description: A description of my post.
-tags: my-stories
+description: It seems a little like we had a three day weekend.  Not bad.  What stretched the weekend out was a busy Friday night, that made it seem like two nights.  I got home around 6:00, which is super-late for a Friday, but then we grilled steaks with a few others.  That seemed like the Friday night activity.
+tags: music
 id: 295
 ---
 It seems a little like we had a three day weekend.  Not bad.
@@ -17,7 +17,7 @@ I did manage the whole day without using a portable toilet.  I think I sweated t
 
 My favorite show was Stephen Marley, who by sound could have been his old man Bob.  He looked the part as well -- or at least the tiny spec of a guy I could see on stage was a black guy with long dreadlocks.  That's about as much detail as I could honestly give.
 
-Marley is also on the lineup for the Lollapalooza show in Chicago this summer.  Have you seen their <a href="http://www.lollapalooza.com/lineup/Lolla_Static_Lineup_Page.pdf">lineup for this year</a>?  It's just fantastic.  There are 10 or 11 acts that I would love to see.  If I were in charge of putting together the lineup with an unlimited budget, I don't think I could have done better.  (Okay, G. Love and Special Sauce is at least 10 years late, but the rest of the lineup kicks ass.)
+Marley is also on the lineup for the Lollapalooza show in Chicago this summer.  Have you seen their lineup for this year?  It's just fantastic.  There are 10 or 11 acts that I would love to see.  If I were in charge of putting together the lineup with an unlimited budget, I don't think I could have done better.  (Okay, G. Love and Special Sauce is at least 10 years late, but the rest of the lineup kicks ass.)
 
 The people-watching was an absolute highlight.  Where else can one see such a collection of ugly people, beautiful people, freaks, the insane, wild costumes, and include everyone from babies to geezers the age of Methuselah?
 

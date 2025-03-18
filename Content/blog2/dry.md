@@ -1,7 +1,7 @@
 ---
 title: Dry
 date: 2007-04-18 10:50
-description: A description of my post.
+description: First of all -- and this is WAY overdue -- a sincere public thanks for everyone who called, emailed, or told one of us in passing some sort of  congratulations in the past few weeks.  I won't get too sentimental, but we have great friends, none of whom has ever received a Christmas card from us.
 tags: my-youth
 id: 291
 ---

@@ -1,19 +1,19 @@
 ---
 title: Your Mother and I Have Been Recently Intimate
 date: 2007-04-26 14:19
-description: A description of my post.
+description: Just so you know, there's going to be some vulgar language in this post.  There's not a lot, but there's one really bad word used in a really offensive way.  If you're offended by such things, move along now.
 tags: my-youth
 id: 293
 ---
 Just so you know, there's going to be some vulgar language in this post.  There's not a lot, but there's one really bad word used in a really offensive way.  If you're offended by such things, move along now.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 I've been a fan of Blink 182 since I first heard Dammit on KLSU, which had to be somewhere around 1995 or so.  I bought all of their studio albums over the years, but I didn't pick up the live album with mostly the same songs.  Which means that I missed this masterpiece.
 
 If your computer, browser, and corporate network policy allow you to listen to this, go ahead and give it a go.  It's a short song, so stick with it until the end of the singing.  The last 20 seconds or so are just junk, so you can cut it off then.
 
-<EMBED  NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/FamilyReunion.mp3" TYPE="application/x-mplayer2"  AUTOSTART="0" SHOWCONTROLS="1"  height="50" align="right"><noembed>Sorry Captain.  Your browser does not support plug-ins for digital video.</noembed>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/family-reunion-live-1999/1471263710?i=1471263814"></iframe>
 
 The last line kills me.  Takes this from a song that I really enjoy to a masterpiece.
 

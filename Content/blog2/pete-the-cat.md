@@ -1,16 +1,16 @@
 ---
 title: Pete the Cat
 date: 2007-05-19 08:33
-description: A description of my post.
+description: When we were at the French Quarter Festival a few weekends ago, we went into a couple of those galleries on Royal St.  In one, we happened to meet an artist who had a lot of cool little paintings of a cartoonish dark blue cat.  There were some pictures of the little cat (Pete, his name turns out to be) doing cat-like things, but there were also some of the cat in places of local interest.  For example, there's one of the cat sitting on the statue in Jackson Square.
 tags: my-stories
 id: 298
+ogImg: pete_miscalc.jpg
 ---
-When we were at the French Quarter Festival a few weekends ago, we went into a couple of those galleries on Royal St.  In one, we happened to meet an artist who had a lot of cool little paintings of a cartoonish dark blue cat.  There were some pictures of the little cat (Pete, his name turns out to be) doing cat-like things, but there were also some of the cat 
-in places of local interest.  For example, there's one of the cat sitting on the statue in Jackson Square.
+When we were at the French Quarter Festival a few weekends ago, we went into a couple of those galleries on Royal St.  In one, we happened to meet an artist who had a lot of cool little paintings of a cartoonish dark blue cat.  There were some pictures of the little cat (Pete, his name turns out to be) doing cat-like things, but there were also some of the cat in places of local interest.  For example, there's one of the cat sitting on the statue in Jackson Square.
 
 There are also some where the cat is added in take-offs of more famous art.  There's the cat stretching his paw to meet God's hand on his take of the Sistine Chapel ceiling.  There's MC Escher drawing himself in the reflective ball with Pete on a chair in the background.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/pete_miscalc.jpg" width="370"></td></tr><tr><td class="caption" width="250">My old gray friend Oscar did this to our armior many years ago (when it was new).</td></tr></table>
+<a class="lightview alignright" href="/img/pete_miscalc.jpg" data-lightview-caption="My old gray friend Oscar did this to our armior many years ago (when it was new)." data-lightview-group="group1" style="width:350px;"><img src="/img/pete_miscalc.jpg" alt="/img/pete_miscalc.jpg"><br><span class="caption">My old gray friend Oscar did this to our armior many years ago (when it was new).</span></a>
 
 I'm writing this post while without internet access (odd, I know), and I don't remember the guy's name.  But he was a super-nice guy, and interesting to boot.  He looks the part of "hippie who never left the 70s," but he's actually a retired electrical engineer.  Educated at Auburn, so probably not a very good electrical engineer (I'm an EE grad from LSU, you know), but one of us nevertheless.
 
@@ -20,7 +20,7 @@ I'm writing this post while without internet access (odd, I know), and I don't r
 
 Another one that I liked was pictured with an article that he had printed copies of from an Alabama magazine.  It had the cat on top of Bear Bryant's houndstooth hat, on his head, on the sideline of a football game.
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/pete_streetcar.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Pete the Cat rides a streetcar (through the countryside, it appears).</td></tr></table>
+<a class="lightview alignleft" href="/img/pete_streetcar.jpg" data-lightview-caption="Pete the Cat rides a streetcar (through the countryside, it appears)." data-lightview-group="group1" style="width:350px;"><img src="/img/pete_streetcar.jpg" alt="/img/pete_streetcar.jpg"><br><span class="caption">Pete the Cat rides a streetcar (through the countryside, it appears).</span></a>
 
 If the perspective of the photographs of the prints looks a bit off, it's because they're hung on slanted walls.  In the upstairs of our house, the walls rise straight up to about waist height, and then they slope up and in to follow the roof line the rest of the way up.  If you have trouble picturing this, think of trying to hang pictures on the sloped wall in your attic.
 
@@ -34,7 +34,7 @@ I tried the middle of the picture, thinking that if balanced better, I wouldn't 
 
 The problem with these is that it's impossible to pull the wire on the back of the picture tight enough.  You start to pull the eye rings out of the frame before you get it tight enough to stay taught.  Even if you bonded the eye rings so that they magically weren't a problem, arm strength alone doesn't take out enough slack to keep the wire taut.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/pete_beatle.jpg"></td></tr><tr><td class="caption" width="250">Pete drives a Beatle, like Mrs. theskinnyonbenny used to.</td></tr></table>
+<a class="lightview alignright" href="/img/pete_beatle.jpg" data-lightview-caption="Pete drives a Beatle, like Mrs. theskinnyonbenny used to." data-lightview-group="group1" style="width:350px;"><img src="/img/pete_beatle.jpg" alt="/img/pete_beatle.jpg"><br><span class="caption">Pete drives a Beatle, like Mrs. theskinnyonbenny used to.</span></a>
 
 I was about ready to surrender.  I had started thinking of building brackets out of wood or molding, attached to the wall in a way where I could slide the picture down into the bracket.  The bracket would hold the bottom and sides of the picture firmly.
 

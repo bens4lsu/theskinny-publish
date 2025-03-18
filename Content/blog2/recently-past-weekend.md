@@ -1,7 +1,7 @@
 ---
 title: Recently Past Weekend
 date: 2007-05-22 23:42
-description: A description of my post.
+description: Mrs. theskinnyonbenny often complains that we don't get invited anywhere.  This isn't true, but it's a complaint that she likes to fall back on when we hit a Friday or Saturday night with nothing to do.  The weekend before we left for Russia (two weekends ago, now) was especially busy.  Not with getting ready to travel, but with stuff that we were invited to do.
 tags: my-stories
 id: 299
 ---
@@ -19,7 +19,7 @@ Elton thought that the live show was better than the album performances.  Both w
 
 I didn't catch any of that in the live show.  It was rehearsed, polished, still good, but different.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 On Saturday that same weekend, we went to Eddie's for boiled crabs.  I don't know where Ed got this particular catch, but they were huge, and he boiled them to perfection.  We smashed them open and got piles and piles of sweet moist crab meat.  Its perfect flavor spread over the entire mouth and melted away with a hint of spiciness.  Oh, so good.
 
@@ -33,7 +33,7 @@ Mrs. theskinnyonbenny suggested that I make fun of faux-friends named Freddie an
 
 Once Mrs. theskinnyonbenny and Freddie had a little too much to drink, they argued about which of them was more awesome.  I had a really good idea:  an awesome contest.  Some weekend soon, we'll get together, drink a little too much, and then each of them will have ten minutes to convince the rest of us that he or she is the more awesome.  Then, the other person gets ten minutes to present his or her side.  They can make a speech, sing, dance, or do whatever awesome power moves that they think will be convincing.  Winner by vote will be deemed the more awesome.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 We got up early Sunday and finished some yard work that wouldn't wait until after our trip.  Around lunch time, we threw the dogs in the Jeep, and started driving toward Gange and Pop-pop's house, where they would be living for the next three and a half weeks.
 

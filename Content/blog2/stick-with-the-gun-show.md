@@ -2,8 +2,9 @@
 title: Stick With "The Gun Show"
 date: 2007-05-03 06:02
 description: A description of my post.
-tags: my-stories
+tags: I got home late yesterday evening, and the Sharples were sitting out back in the Regal Beagle, bullshitting with Mrs. theskinnyonbenny.  Soon after I sat down, we had a conversation that went something like this.
 id: 294
+ogImg: dikfore.jpg
 ---
 I got home late yesterday evening, and the Sharples were sitting out back in the Regal Beagle, bullshitting with Mrs. theskinnyonbenny.  Soon after I sat down, we had a conversation that went something like this.
 
@@ -17,7 +18,9 @@ Me:  Well they're the best we know of.  We haven't exactly sampled all of the ve
 
 (A pause)
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/dikfore.jpg"></td></tr><tr><td class="caption" width="250">A similarly themed t-shirt from <a href="http://www.bustedtees.com/shirt/dikfore/male" target="_blank">bustedtees.com</a></td></tr></table>
+<a class="lightview alignright" href="/img/dikfore.jpg" data-lightview-caption="A similarly themed t-shirt from bustedtees.com<
+" data-lightview-group="group1" style="width:350px;"><img src="/img/dikfore.jpg" alt="/img/dikfore.jpg"><br><span class="caption">A similarly themed t-shirt from bustedtees.com<
+</span></a>
 
 Me:  Let's see, there was that place by Greco's.  They're cheap, but they botched someone's declaw.
 

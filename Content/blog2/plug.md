@@ -1,13 +1,14 @@
 ---
 title: Plug
 date: 2007-06-04 01:03
-description: A description of my post.
+description: One time back in February or March, I pulled the vacuum cleaner out of the closet, and its plug looked like this:
 tags: my-stories
 id: 300
+ogImg: plug.jpg
 ---
 One time back in February or March, I pulled the vacuum cleaner out of the closet, and its plug looked like this:
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/plug.jpg"></td></tr><tr><td class="caption" width="250">Vacuum cleaner plug</td></tr></table>
+<a class="lightview alignright" href="/img/plug.jpg" data-lightview-caption="Vacuum cleaner plug" data-lightview-group="group1" style="width:350px;"><img src="/img/plug.jpg" alt="/img/plug.jpg"><br><span class="caption">Vacuum cleaner plug</span></a>
 
 I knew, of course, that the prongs were bent from pulling the plug out of the wall by the cord, rather than by the plug itself.  I knew it to be the work of the cleaning lady, and I snapped this picture thinking that I would write a post about it.
 
