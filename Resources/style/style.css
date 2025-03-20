@@ -343,8 +343,18 @@ a.lightview {
     margin-bottom: 60px;
 }
 
+a.lightview.alignright {
+    max-width: 350px;
+    width: fit-content;
+    padding-left: 12px;
+}
+
 a.lightview img {
     max-width:100%;
+}
+
+a.alignright img {
+
 }
 
 a.lightview.centered img {
@@ -376,6 +386,10 @@ a.lightview.centered span.caption {
     font-weight: bold;
     color:#4C4C4C;
     font-size:80%;
+    display: inline-block;
+    word-break: break-word;
+    width:0;
+    min-width: 100%;
 }
 
 blockquote {

@@ -1,15 +1,18 @@
 ---
 title: Drop off at the Highland Ace
 date: 2007-06-26 11:05
-description: A description of my post.
-tags: uncategorized
+description: Last week, I needed to get my pocket knife sharpened.  It's serrated, so I didn't have anything that would get it sharp myself.  It just happens that there are two and only two hardware stores in town that I know will bother with a serrated blade.  One is close to my house, but it burned down last year and hasn't reopened.  So I made the longer drive to Highland Ace Hardware.
+tags: my-stories, favorites
 id: 303
+ogImg: eustace.jpg
 ---
 Last week, I needed to get my pocket knife sharpened.  It's serrated, so I didn't have anything that would get it sharp myself.  It just happens that there are two and only two hardware stores in town that I know will bother with a serrated blade.  One is close to my house, but it burned down last year and hasn't reopened.  So I made the longer drive to Highland Ace Hardware.
 
 From the front counter, I was directed to the machine shop window in the back right corner.  I walked back, and stood to the side of an old man who looked a lot like the elderly farmer guy (Eustace) in the "Courage the Cowardly Dog" cartoon.
-<span class="spanEndPreview">&nbsp;</span>     
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="150" align="center" ><img src="/img/eustace.jpg" aligh="right"></td></tr><tr><td class="caption" width="150">Eustace from Courage the Cowardly Dog.</td></tr></table>
+
+<a class="lightview alignright" href="/img/eustace.jpg" data-lightview-caption="Eustace from Courage the Cowardly Dog.
+" data-lightview-group="group1"><img src="/img/eustace.jpg" alt="/img/eustace.jpg"><br><span class="caption">Eustace from Courage the Cowardly Dog.
+</span></a>
 
 I daydreamed as Eustace tried to get the guy behind the window to understand what tube he needed for his lawn mower tire.  I thought the counter guy might be a friend or a relative, because he was so rude to Eustace.  No one would be that rude to a stranger.  Especially an old man.
 
