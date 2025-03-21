@@ -18,14 +18,14 @@ And who amongst my age-group peers doesn't remember the video fondly?
 
 How good was the year 1984 for new music?  There are 7 albums released that year that I still listen to to this day.  Two of these are definitely in my list of top 20 albums of all time.  You can tell me which two.
 
-<ul><li>*1984*, Van Halen</li>
-<li>*Born in the USA*, Springsteen</li>
-<li>*Purple Rain*, Prince</li>
-<li>*The Unforgettable Fire*, U2</li>
-<li>*Like a Virgin*, Madonna</li>
-<li>*Reckless*, Bryan Adams</li>
-<li>*Private Dancer*, Tina Turner</li></ul>
+<ul><li><i>1984</i>, Van Halen</li>
+<li><i>Born in the USA</i>, Springsteen</li>
+<li><i>Purple Rain</i>, Prince</li>
+<li><i>The Unforgettable Fire</i>, U2</li>
+<li><i>Like a Virgin</i>, Madonna</li>
+<li><i>Reckless</i>, Bryan Adams</li>
+<li><i>Private Dancer</i>, Tina Turner</li></ul>
 
 No wonder it seems like music quality has gone downhill ever since.
 
-You might contend that I took a step down with those last two, but I just listened to *Reckless* from start to finish while on a road trip a couple of weeks ago, and it's better than you remember.
+You might contend that I took a step down with those last two, but I just listened to Reckless from start to finish while on a road trip a couple of weeks ago, and it's better than you remember.

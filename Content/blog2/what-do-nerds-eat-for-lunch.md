@@ -7,20 +7,20 @@ id: 713
 ---
 I just received this invite to a lunch today.  The emphasis in the message is mine.
 
-<blockquote>From: ______________
-Sent: Tuesday, February 02, 2010 9:04
+<blockquote>From: ______________<br>
+Sent: Tuesday, February 02, 2010 9:04<br>
 Subject: BRAG Lunch today
-
-The BRAG Lunch is a monthly, informal round-table lunch
-for developers within the Greater Baton Rouge area. It is FREE and open to
-developers of all skill levels.
-
-______________ will be starting us out talking on the
-Liskov Substitution Principle and we'll see where we go from there.** Should
-be yet another great meeting. If you would like to come, please use the
-eventbrite link below to register so that we can get a rough estimate of the
-space needed.
-
+<br><br>
+The BRAG Lunch is a monthly, informal round-table lunch<br>
+for developers within the Greater Baton Rouge area. It is FREE and open to<br>
+developers of all skill levels.<br>
+<br>
+<b>______________ will be starting us out talking on the<br>
+Liskov Substitution Principle and we'll see where we go from there.</b> Should<br>
+be yet another great meeting. If you would like to come, please use the<br>
+eventbrite link below to register so that we can get a rough estimate of the<br>
+space needed.<br>
+<br>
 We hope to see you there!</blockquote>
 
 Liskov Substitution Principle?

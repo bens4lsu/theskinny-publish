@@ -9,7 +9,7 @@ The biggest story of my football lifetime is LSU's national championship this se
 
 Three interesting observations:
 
-<ul><li><p><b>**Being champions is fun.**</b>  It's not just fun in the immediate celebration, water cooler excitement, rah-rah way that you thing about.  Being national champions just makes everything seem a little better.  I've had several real conversations at work along these lines:</p>
+<ul><li><p><b>Being champions is fun.</b>  It's not just fun in the immediate celebration, water cooler excitement, rah-rah way that you thing about.  Being national champions just makes everything seem a little better.  I've had several real conversations at work along these lines:</p>
 
 <p>Me:  "What's the matter?"</p>
 
