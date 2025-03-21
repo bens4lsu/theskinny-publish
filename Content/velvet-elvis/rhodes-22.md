@@ -1,5 +1,5 @@
 
-<h2>Home Page for the first *Velvet Elvis*</h2>
+<h2>Home Page for the first <i>Velvet Elvis</i></h2>
 
 The first _Velvet Elvis_ was a 1998 Rhodes 22 manufactured by <a href="http://www.generalboats.com/http___www.generalboats.com/home.html" target="_blank">General Boats</a>.  She spent her first few years as a demo boat, going to boat shows and being sailed by her loving manufacturers.
 

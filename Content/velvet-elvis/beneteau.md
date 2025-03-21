@@ -1,4 +1,4 @@
-<h1>Home Page for the Beneteau *Velvet Elvis*</h1>
+<h1>Home Page for the Beneteau <i>Velvet Elvis</i></h1>
 
 <a class="lightview centered" href="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" alt="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" width="650px"><br><span class="caption"></span></a>
 

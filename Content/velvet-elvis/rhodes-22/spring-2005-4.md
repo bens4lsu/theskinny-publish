@@ -14,7 +14,7 @@ I remember once when I was talking to Mom on the phone, someone in her house was
 
 At any rate, I wasn't pulling anyone's leg in this case.  But I don't think I convinced anyone until I was motivated enough to go buy that Audubon guide.
 
-<h2>April 3:  *Velvet Elvis* is Sinking</h2>
+<h2>April 3:  <i>Velvet Elvis</i> is Sinking</h2>
 
 The morning of April 3, I planned to do a little bit of cleanup from the previous day and then go home.  But when I went down to the boat, there was an inch or two of water above the carpet.  This was far, far more water than I had ever seen before.
 

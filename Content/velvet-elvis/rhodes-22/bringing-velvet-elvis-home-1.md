@@ -1,6 +1,6 @@
 <div class="top-nav-links"><div class="link-arrow link-arrow-left"><div class="div-left-ticks">«</div><a href="/velvet-elvis/rhodes-22" class="div-left-text">Rhodes 22 Velvet Elvis</a></div></div>
 
-<h2>Bringing *Velvet Elvis* Home</h2>
+<h2>Bringing <i>Velvet Elvis</i> Home</h2>
 		
 <h4>August 24</h4>
 		

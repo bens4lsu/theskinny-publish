@@ -80,13 +80,13 @@ id: -1
               <li><blockquote class="quotefile">My teeth don't need no frickin' pickin'!</blockquote>
               <p>-- Mrs. theskinnyonbenny, in the loud, North Louisiana voice she uses after too much liquor, on the occasion of being offered a toothpick.  Dec. 1, 2005.</p></li>
               <li><blockquote class="quotefile">I lay in bed and think every night.</blockquote>
-              <p>-- Trey Warren, in a meeting on Dec. 20, 2005.  I'm glad there's *some* time during the day when thought occurs.</p></li>
+              <p>-- Trey Warren, in a meeting on Dec. 20, 2005.  I'm glad there's <i>some</i> time during the day when thought occurs.</p></li>
               <li><blockquote class="quotefile">If hell was anything like West Virginia, I'd be in church every day.</blockquote>
               <p>-- Tyler Cummings by IM 1/26/06 (from West Virginia, as a matter of fact)</p></li>
               <li><blockquote class="quotefile">Boy, I hope I'm able to get around as good as you when I'm your age.</blockquote>
               <p>-- Noel Nevarez, to me, after playing basketball on 3/21/06.  It's the first time I've been told something like this.</p></li>
               <li><blockquote class="quotefile">If it were up to my dad, that show would still be winning Emmys today.</blockquote>
-              <p>-- Eric Ducote, in reference to *The A Team* on 3/29/06.  Gee I hadn't remembered that show racking up all of the Emmys.</p></li>
+              <p>-- Eric Ducote, in reference to <i>The A Team</i> on 3/29/06.  Gee I hadn't remembered that show racking up all of the Emmys.</p></li>
               <li><blockquote class="quotefile">Now do you see why I was driven to drink at such a young age?</blockquote>
               <p>-- Mrs. theskinnyonbenny, on the way home after a weekend at her parents'.</p></li>
               <li><blockquote class="quotefile">So what do you look like without any eyeballs in?</blockquote>

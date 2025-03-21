@@ -37,7 +37,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<table class="baldtable">
 		<tr>
 		<td>
-		Vincent Price in reruns of the TV show *Batman* (Egghead)
+		Vincent Price in reruns of the TV show <i>Batman</i> (Egghead)
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -51,7 +51,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		The crazy prisoner at the end of the movie&nbsp;*Identity*
+		The crazy prisoner at the end of the movie <i>Identity</i>
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -123,7 +123,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<td><imgheight="85"src="/img/bald/iram.jpg">
 		</td>
 		<td>
-		A coworker of mine, in case you were wondering.&nbsp;&nbsp;
+		A coworker of mine, in case you were wondering.  
 
 		</td>
 		</tr>
@@ -145,7 +145,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		Ed Norton in&nbsp;*American History X*
+		Ed Norton in <i>American History X</i>
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -170,7 +170,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<img src="/img/bald/drevil.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		</tr>
 		<tr>
@@ -191,7 +191,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		John Candy in&nbsp;*Stripes*
+		John Candy in <i>Stripes</i>
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -200,7 +200,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<img src="/img/bald/johncandy.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		</tr>
 		<tr>
@@ -215,7 +215,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 
 		</td>
 		<td>
-		There are lots of Lex Luthors, but let's face it.&nbsp; Most of us know the one from&nbsp;*Superfriends*&nbsp;best.&nbsp; Especially since Gene Hackman kept his hair in most of the movies.
+		There are lots of Lex Luthors, but let's face it.  Most of us know the one from <i>Superfriends</i> best.  Especially since Gene Hackman kept his hair in most of the movies.
 
 		</td>
 		</tr>
@@ -246,7 +246,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<img src="/img/bald/sinead.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		</tr>
 		<tr>
@@ -260,7 +260,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<img src="/img/bald/fester.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		</tr>
 		<tr>
@@ -288,7 +288,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<imgheight="85"height=104 src="/img/bald/carville.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		</tr>
 		<tr>
@@ -302,7 +302,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<imgheight="85"src="/img/bald/moby.jpg">
 
 		</td>
-		<td>&nbsp;
+		<td> 
 		</td>
 		<tr>
 		<td>
