@@ -31,7 +31,7 @@ At one point, I was chasing down a loose basketball.  The ball bounced in the wa
 
 "Ben."
 
-"<i>Ben!?</i>"  She asked this in a disgusted look and tone.  The response would have been appropriate if I had ignored her question and replied, "I like to eat turds," but it was a wholly inappropriate response to a common first name.
+"*Ben!?*"  She asked this in a disgusted look and tone.  The response would have been appropriate if I had ignored her question and replied, "I like to eat turds," but it was a wholly inappropriate response to a common first name.
 
 "What's wrong with that?"
 

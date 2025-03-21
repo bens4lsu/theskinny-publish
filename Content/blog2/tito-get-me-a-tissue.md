@@ -9,11 +9,11 @@ I'm watching the Fiesta Bowl right now, and a West Virginia player named Tito Go
 
 Anyway, Gonzales got teary-eyed on the phone with the offensive coordinator after the play, and the play by play guy pulled the cleverest 20-odd year old quote right out of memory:  "Tito, get me a tissue."
 
-For my sake, he didn't have to site the source.  As a teenager, I watched the,/i Eddie Murphy stand-up routine on HBO dozens and dozens of times.  I don't remember if it was <i>Raw</i> or <i>Delerious</i>, but it was the earlier, funnier one.  Eddie is making fun of Michael Jackson.  He imitates MJ singing, "She's Out of My Life," getting choked up while singing the song.  Finally, he has to pause his singing and ask, "Tito, get me a tissue."
+For my sake, he didn't have to site the source.  As a teenager, I watched the,/i Eddie Murphy stand-up routine on HBO dozens and dozens of times.  I don't remember if it was *Raw* or *Delerious*, but it was the earlier, funnier one.  Eddie is making fun of Michael Jackson.  He imitates MJ singing, "She's Out of My Life," getting choked up while singing the song.  Finally, he has to pause his singing and ask, "Tito, get me a tissue."
 
 Great pull during the game today.  I'm impressed.
 
-Singing from the <i>Off the Wall</i> album isn't the only thing that makes this one seem dated.  I remember that this particular stand up concert is where I first heard of that new disease called "Aids."  As I recall, Murphy was astounded that there existed a new sexually transmitted disease that could actually kill.  He asked, "What's next?  One where you stick your dick in and explode?  The bitch be laying there saying, 'Maybe I should see a doctor about this.' "
+Singing from the *Off the Wall* album isn't the only thing that makes this one seem dated.  I remember that this particular stand up concert is where I first heard of that new disease called "Aids."  As I recall, Murphy was astounded that there existed a new sexually transmitted disease that could actually kill.  He asked, "What's next?  One where you stick your dick in and explode?  The bitch be laying there saying, 'Maybe I should see a doctor about this.' "
 
 Or something pretty close to that anyway.
 

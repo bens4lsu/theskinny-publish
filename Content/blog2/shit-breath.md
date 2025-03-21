@@ -1,7 +1,7 @@
 ---
 title: Shit Breath
 date: 2007-07-11 10:40
-description: A description of my post.
+description: I'm not interested in being the writer of a "daddy blog," describing the daily doeses of puke, projectile urine, and spinach-looking poop just to ruin your lunches.  But I haven't read another father's post where poor old dad's dogs figured out about the poop diaper first.
 tags: young-ruski
 id: 308
 ---

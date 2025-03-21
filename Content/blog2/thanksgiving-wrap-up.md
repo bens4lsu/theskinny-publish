@@ -21,13 +21,13 @@ We had planned to go from there and catch a couple of horse races, but were too 
 
 I've had some god-awful Thanksgivings, but some really, really good ones too.  Here are my three favorites.
 
-<ul><li><b>1993 (I think)</b>:  My first trip to Las Vegas.  My first intensive weekend of sports gambling.  My first Thanksgiving that mixed feasting and binge drinking.  It blew my young, impressionable mind.</li>
+<ul><li>**1993 (I think)**:  My first trip to Las Vegas.  My first intensive weekend of sports gambling.  My first Thanksgiving that mixed feasting and binge drinking.  It blew my young, impressionable mind.</li>
 
-<li><b>1995</b>:  The future Mrs. theskinnyonbenny and I were to get married the Saturday after Thanksgiving.  We had both spent Wednesday night separately in the French Quarter.  Me, bar hopping with my bachelor party crew, and she watching the swinging dicks with the bachelorettes.  We crossed the River Thursday afternoon, and went to my Aunt Mary's for dinner.  Crystal and Brent went with us, and the four of us got set up at a kid's table outside of the normal dining room.  
+<li>**1995**:  The future Mrs. theskinnyonbenny and I were to get married the Saturday after Thanksgiving.  We had both spent Wednesday night separately in the French Quarter.  Me, bar hopping with my bachelor party crew, and she watching the swinging dicks with the bachelorettes.  We crossed the River Thursday afternoon, and went to my Aunt Mary's for dinner.  Crystal and Brent went with us, and the four of us got set up at a kid's table outside of the normal dining room.  
 
 Crystal, Brent, and I chowed down and then slept on the floor in front of a football game.  The future Mrs. theskinnyonbenny found that seeing food made her want to puke, and then spent nap time listening to my family tell stories.  (She think's it's rude to sleep on other peoples' floors during the middle of the day.  I remember a particular Super Bowl party and a different Thanksgiving where she got mad at me for this behavior.) 
 
 That night, back in Baton Rouge, we ate more Thanksgiving food at the only place we could find open -- a nasty buffet connected to one of the riverboat casinos in town.  I don't know why this was funny, but it was.</li>
 
-<li><b>2005</b>:  Colorado trip for our 10th wedding anniversary.  First time in a zillion years I had been in a good, heavy snow.  Drank bottle after bottle of wine out by the bonfire, swapping stories with strangers.  This is how every Thanksgiving should be spent.   
+<li>**2005**:  Colorado trip for our 10th wedding anniversary.  First time in a zillion years I had been in a good, heavy snow.  Drank bottle after bottle of wine out by the bonfire, swapping stories with strangers.  This is how every Thanksgiving should be spent.   
 I would like to take this opportunity to invite any and all of you readers to go to Colorado with us for Thanksgiving next year.  Your only obligation should you accept this invite is to stay in the room and watch my kid while Mrs. theskinnyonbenny and I try to drink them out of wine by the bonfire.  That, and pay for your own trip, in case there was any question about that aspect of the invitation).</li></ul>

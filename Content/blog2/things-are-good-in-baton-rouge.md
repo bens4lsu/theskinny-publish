@@ -5,7 +5,7 @@ description: You know, this really is probably the best time of year in Louisian
 tags: my-stories, my-observations, mrs-theskinnyonbenny
 id: 18
 ---
-You know those parts in the movie <i>Airplane!</i> where Ted Striker goes into a story, and then when we return to the present tense, the person being told the story has committed suicide in a particularly painful or grotesque way?
+You know those parts in the movie *Airplane!* where Ted Striker goes into a story, and then when we return to the present tense, the person being told the story has committed suicide in a particularly painful or grotesque way?
 
 I got to be on the receiving end of such story telling on Thursday night.  I met Heather and a coworker for a drink, and guy talked on and on and on.  It was mostly his business plans, which I really couldn't have followed had I wanted to.
 

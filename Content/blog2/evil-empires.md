@@ -5,7 +5,7 @@ description: A description of my post.
 tags: current-events
 id: 1007
 ---
-I guess today is the easiest workday in history, if you happen to be a writer for <i>The Daily Show</i>.
+I guess today is the easiest workday in history, if you happen to be a writer for *The Daily Show*.
 
 If you haven't seen it, Transocean issued a proxy statement (whatever the hell that is) calling 2010 their best safety year ever and disclosing millions of dollars in pay hikes and salary increases for top executives.
 

@@ -44,7 +44,7 @@ After the Tigers' lackluster performance in the SEC Championship game on Saturda
 
 On the other hand, I can't fathom that Miles actually went to Dallas to lobby the Cotton Bowl in case of a championship game loss.  Any other coach in the country would have told the athletic director something like, "Are you out of your mind?  I'm trying to win a championship game over here!"
 
-In fact, while we were watching the game on Saturday, Mrs. theskinnyonbenny had the nerve to ask about who the Tigers might play in the Cotton Bowl.  She received an ugly, scornful reaction from the real football fans for daring to even mention it.  It was a sincere reaction too -- we were angered by her willingness to give up on the team during the game.  To find out that the <i>head coach</i>, of all people had done the same thing before the game kicked off makes me wonder.
+In fact, while we were watching the game on Saturday, Mrs. theskinnyonbenny had the nerve to ask about who the Tigers might play in the Cotton Bowl.  She received an ugly, scornful reaction from the real football fans for daring to even mention it.  It was a sincere reaction too -- we were angered by her willingness to give up on the team during the game.  To find out that the *head coach*, of all people had done the same thing before the game kicked off makes me wonder.
 
 I guess I'll go with this opinion for now:  Miles had a good season, and we should be pleased.  He's younger than most head coaches in the league, and he's probably still a bit wet behind the ears.  He'll probably make fewer dumb decisions each year.  Time will tell if he's a great (or even good) SEC coach or not.
 

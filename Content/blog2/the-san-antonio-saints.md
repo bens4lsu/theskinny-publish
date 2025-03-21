@@ -26,9 +26,9 @@ At some point early, Joe probably got mad at the game.  His wife probably laughe
 
 Last week, I got annoyed with the San Antonio fans who brought, "San Antonio Saints" signs to the Alamo dome.
 
-This made my wife laugh at me.  "Let them have the Saints. Why do you want them sucking <i>us</i> down every season?"
+This made my wife laugh at me.  "Let them have the Saints. Why do you want them sucking *us* down every season?"
 
-But they're <i>our</i> pathetic NFL franchise.  It matters.
+But they're *our* pathetic NFL franchise.  It matters.
 
 Last week, we talked to some people in Philadelphia who were disdainful about their team, saying that they "always choke in the big game."  The Eagles lost the Super Bowl last year.  They lost the NFC Championship game the year before.
 

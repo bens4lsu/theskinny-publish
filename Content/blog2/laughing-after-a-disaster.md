@@ -17,9 +17,9 @@ On to our stories.
 
 This one was from a news broadcast.  A mass of people were waiting to be evacuated from New Orleans to Baton Rouge, and the reporter found a woman who had been picked up without as much as a pair of shoes.  A man that she didn't know had given her his shoes, and the reporter thought he would make a good interview.
 
-Reporter:  <i>Sir, why would you give your own shoes to a total stranger?</i>
+Reporter:  *Sir, why would you give your own shoes to a total stranger?*
 
-Man:  <i>It wasn't no big deal.  They were soaking wet, and I had a dry pair in my backpack.</i>
+Man:  *It wasn't no big deal.  They were soaking wet, and I had a dry pair in my backpack.*
 
 Who says chivalry is dead?
 

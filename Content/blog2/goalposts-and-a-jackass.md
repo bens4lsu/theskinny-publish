@@ -21,7 +21,7 @@ What are the real reasons for such poor field goal kicking?
 
 I'm not sure about the answers, but I can make up the bullshit.
 
-At least I'm aware of the fact that it doesn't fly when I make up a story.  I had a coworker once upon a time who <i>loved</i> to make up self-glorifying stories, and who was just as bad -- if not worse -- a bullshitter as me.
+At least I'm aware of the fact that it doesn't fly when I make up a story.  I had a coworker once upon a time who *loved* to make up self-glorifying stories, and who was just as bad -- if not worse -- a bullshitter as me.
 
 Unfortunately, this guy wasn't blessed with the awareness of his own inability to shovel crap.  Therefore, he was known far and wide as someone to be disliked and mistrusted.
 

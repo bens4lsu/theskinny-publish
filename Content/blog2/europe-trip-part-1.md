@@ -5,7 +5,7 @@ description: I couldn't even find Slovenia on a map before I went there.  This p
 id: 2309
 ogImg: /img/gal/176%20-%20Eurpoe%202022%20pt%201%20-%20Slovenia%20Croatia%20Montenegro/resIMG_20220523_152653_IMG_8002_HEIC.jpg
 ---
-Back on May 20, <i>Velvet Elvis</i> finally earned her release and left the shop.  She's very close to being in a state as close to full repair as is possible, afer suffering an electrical surge just about a year ago.  V and I motor-sailed her back to her home dock, and for the first time in a while, I really enjoyed being out on the water.
+Back on May 20, *Velvet Elvis* finally earned her release and left the shop.  She's very close to being in a state as close to full repair as is possible, afer suffering an electrical surge just about a year ago.  V and I motor-sailed her back to her home dock, and for the first time in a while, I really enjoyed being out on the water.
 
 Meanwhile, we dream of new boats.  On top of the disrepair, we'd really like another cabin and another head.  We even went to the boat show in Annapolis back in October to see what features and designs the manufacturers are trotting out there now.
 

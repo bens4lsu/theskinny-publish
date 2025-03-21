@@ -51,8 +51,7 @@ I don't know who made up this haiku.  It was recited to me, and if the source wa
 But some of them don't make sense.
 Refrigerator.</blockquote>
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 One day recently, I was playing a pickup game of basketball during my lunch time.  There were about five us from the office, all white and uncoordinated and tired from the first couple of games that we played.  We invited three fresh young tall black guys to join for four-on-four, and any sane person would have guessed that they would have been the three best players on the court.
 
 In fact, they probably were, but I took the job of guarding one of the tall athletic guys.  Again, the betting man would have given short odds on my opponent scoring at will.  But as it turned out, I held him to only a couple of buckets, and I think both of those came when I had rolled off to cover someone else.

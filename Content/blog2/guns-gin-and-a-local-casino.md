@@ -42,7 +42,7 @@ But there are different levels of high-rollers, and I'm clearly on the very very
 
 First the coupon is for the <a href="https://www.caesars.com/horseshoe-bossier-city" target="_blank">Horseshoe Casino in Bossier City, LA</a>.  Not exactly the Bellagio.
 
-Then, I'm only allowed to the first of my free nights between September 4 and September 18.  And I'm only allowed to use the second of my free nights between September 19 and October 10.  Here's the kicker:  my free nights have to be <i>on a school night</i>.  That's right.  If I want to go to the Horseshoe Casino in Bossier City, LA, and if it happens to be a Friday or Saturday night, I'm going to be paying full price, just like everyone else.
+Then, I'm only allowed to the first of my free nights between September 4 and September 18.  And I'm only allowed to use the second of my free nights between September 19 and October 10.  Here's the kicker:  my free nights have to be *on a school night*.  That's right.  If I want to go to the Horseshoe Casino in Bossier City, LA, and if it happens to be a Friday or Saturday night, I'm going to be paying full price, just like everyone else.
 
 (I was just informed that this is actually a very nice hotel, so I'm glad that I was at least invited somewhere nice.  But still, it's Bossier City on a weekday.)
 

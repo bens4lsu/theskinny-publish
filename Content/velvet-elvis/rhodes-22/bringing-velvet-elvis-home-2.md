@@ -37,7 +37,7 @@ Mrs. theskinnyonbenny met me on the dock.  She had remembered the fenders, but n
 
 We tied up, had lunch, and came to realize that it was really, really hot out there.  I was pouring sweat.  I bet I drank two gallons of fluid on this day, and I couldn't have made water if I had tried.
 
-After lunch, it took another couple of hours to rig the boat and do some basic provisioning.  There's no need for it to have taken that long, but it was the first time I raised the mast on <i>Velvet Elvis</i>, and I made a boneheaded error that took a little time to rectify.
+After lunch, it took another couple of hours to rig the boat and do some basic provisioning.  There's no need for it to have taken that long, but it was the first time I raised the mast on *Velvet Elvis*, and I made a boneheaded error that took a little time to rectify.
 
 By and by, we were on the lake.  At 3:45, we cut the motor and were officially sailing for the first time in more than a year.
 

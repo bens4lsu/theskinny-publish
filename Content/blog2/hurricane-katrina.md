@@ -8,7 +8,7 @@ ogImg: neworleansguy.jpg
 ---
 Even before the hurricane, I was behind in my posting, but the events in Louisiana the last few days have made it even more difficult to add to this blog.  Here are some notes I've made about what's happening from here.
 
-<b>Sunday, August 28:</b>
+**Sunday, August 28:**
 
 Mrs. theskinnyonbenny woke up with an excitement that I haven't seen in weeks.  I don't think anyone enjoys a hurricane party followed by a good storm more than she does.  
 
@@ -20,17 +20,17 @@ At 9:00 PM, we got a sudden downpour, and that broke up the party.  We put all o
 
 Stupid quote number 12:  
 
-Louisiana Governor Kathleen Blanco:  <i>"We have lots of trees in Louisiana.  They make our state very beautiful, but the falling branches cause power lines to come down."</i>  
+Louisiana Governor Kathleen Blanco:  *"We have lots of trees in Louisiana.  They make our state very beautiful, but the falling branches cause power lines to come down."*  
 
 Stupid quote number 14: 
 
-George Sells, Baton Rouge anchorman to young female CBS reporter:<i>Let me ask you a </i>(stumbles for word) <i>... a female question</i>.  The reporter starts to look a bit skeptical.  <i>When you are out covering a storm, what do you do about your hair?</i>
+George Sells, Baton Rouge anchorman to young female CBS reporter:*Let me ask you a *(stumbles for word) *... a female question*.  The reporter starts to look a bit skeptical.  *When you are out covering a storm, what do you do about your hair?*
 
 Honest to God, I didn't make that up.
 
 At midnight I got a rude wakeup from Mrs. theskinnyonbenny.  We had four people in the house, along with four cats and five dogs.  Due to cat allergies, people had to be rearranged, and I got booted to the spare room.
 
-<b>Monday, August 29</b>
+**Monday, August 29**
 
 I spent the night with frequent wakeups caused by cats getting in my face.  We had power, but the room was pitch dark.  Finally, I got out of bed and wandered around looking for a clock.   All were reset due to a power flicker.  Finally I found one.  It was before 6:00.
 
@@ -48,7 +48,7 @@ The dogs ran each other ragged all day, and settled down, unable to keep their e
 
 Power came back on, and we enjoyed air conditioning through the night.
 
-<b>Tuesday, August 30</b>
+**Tuesday, August 30**
 
 Mrs. theskinnyonbenny and I went back to work.  Work life in Baton Rouge is sort of normal, but all conversation has to do with the storm and its aftermath.
 
@@ -68,7 +68,7 @@ But not as sucky for me as for those who have to hear about the water rising ove
 
 Stupid quote #52:
 
-Ed Buggs:  <i>...expecting 8 feet of water uptown.</i>
+Ed Buggs:  *...expecting 8 feet of water uptown.*
 
 Ed Buggs' sidekick:  Moogley Googley
 
@@ -78,7 +78,7 @@ We went down to the field house at LSU, an indoor track arena that they are usin
 
 My take on the looters:  if they're stealing food, then let them.  They have to try to live, and the food is just going to go bad anyway.  If they're stealing stuff from people's homes, just shoot them.  After a few of them get shot, the looting should slow down quite a bit.
 
-<b>Today</b>
+**Today**
 
 Another morning at work goes pretty quietly, and as normally as possible.  I realize another reason to feel blessed:  I don't have to spend a month with ____ evacuated at my house.  (I won't fill in the blank in case this gets back to him/her).
 

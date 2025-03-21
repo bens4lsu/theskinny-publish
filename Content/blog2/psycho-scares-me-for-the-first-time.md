@@ -13,7 +13,7 @@ By coincidence, Mrs. theskinnyonbenny had recently put a different shower curtai
 
 (For the record, they were just those of Mrs. theskinnyonbenny.  Although it's not out of the question that she could plot my murder, there's no way it would be in a manner that gets blood all over the bathroom.  Not even the guest bathroom.)
 
-I'm sure it was the combination of footsteps, darker than usual shower, and already having a metal blade scraping across my head, but let me reiterate, it was scary.  And I haven't seen <i>Psycho</i> in at least a few years.
+I'm sure it was the combination of footsteps, darker than usual shower, and already having a metal blade scraping across my head, but let me reiterate, it was scary.  And I haven't seen *Psycho* in at least a few years.
 
-I'm sure that any day now, I'll wake in the middle of the night, quivering in horror about <i>The Exorcist</i>.
+I'm sure that any day now, I'll wake in the middle of the night, quivering in horror about *The Exorcist*.
 

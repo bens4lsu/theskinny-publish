@@ -13,7 +13,7 @@ Before the conference started, we were asked to list an interesting fact about o
 
 But we didn't really know why we were being asked for an interesting fact about ourselves.  And given the fact that we spend 40+ hours a week staring into the glow of a monitor while seated in a cube farm makes it difficult to come up with things that could be described as "interesting."
 
-(In case you were wondering, my fact was <i>not</i>, "I got in trouble for ridiculing the CEO of the company that bought us on my personal web site."  I would have liked to put that, but I was too chicken shit.)
+(In case you were wondering, my fact was *not*, "I got in trouble for ridiculing the CEO of the company that bought us on my personal web site."  I would have liked to put that, but I was too chicken shit.)
 
 Anyway, while people struggled to come up with their interesting facts, I typed the ones that amused me in a text file.  I thought it might be good to save for posterity.  Then, I saved the file and forgot all about it.
 

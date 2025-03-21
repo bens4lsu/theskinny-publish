@@ -9,7 +9,7 @@ The votes are in.  I put a poll about what to name the kid up on the main page, 
 <table cellpadding=4 cellspacing=0 border=1 align=center>
 <tr>
 <td width=200 bgcolor="#C0C0C0"><font face="verdana, arial, geneva" size=1 color=#000000>
-<b>Name The Kid</b><br /><br />
+**Name The Kid**<br /><br />
 We did this once before in the early days of theskinnyonbenny, but with a cat.  The boy's name in Russia is Ivan Konstantinovich _______.  You help chose what his American name will be.  Actually, your vote is in no way binding, but it might be fun.<br /><br />
 What should this baby's English name be?<br /><br />
 

@@ -18,7 +18,7 @@ So the water started blowing in.  First, it was a small cold stream on my thigh,
 
 And then something odd happened:  I started to laugh.
 
-Instead of being annoying, it was unbelievably fun.  The rain felt cold and fresh and clean.  I turned up the radio, and pushed the gas harder.  I sprayed water from my tires up into the air, adding to the monsoon.  By this time, I was laughing like a stoner in front of an <i>Animal House</i> rerun.
+Instead of being annoying, it was unbelievably fun.  The rain felt cold and fresh and clean.  I turned up the radio, and pushed the gas harder.  I sprayed water from my tires up into the air, adding to the monsoon.  By this time, I was laughing like a stoner in front of an *Animal House* rerun.
 
 At home, I figured that I would put the cover on, to minimize the soaking seats.  In the few minutes that I was completely outside, I was drenched.  I walked up to the front door, wet pants stuck to my legs.  I splashed barefoot through the puddles.  The rain was cold in the air, but warm in the puddles over previously sizzling concrete.
 

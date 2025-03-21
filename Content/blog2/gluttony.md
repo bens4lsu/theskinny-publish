@@ -21,7 +21,7 @@ The other reason I ordered from there was that I knew they bring the take-out or
 
 When I got my box back home, I fed my face like Cookie Monster.  That is, my left hand would be stuffing cheese fries down my gullet as fast as I could swallow, while my right hand was loading up another fistful of fries.  I'm not sure how I avoided suffocation, as there was never a point where my mouth wasn't full.
 
-Those who have seen me eat are saying to themselves, "Oh yeah.  Gross.  I've seen him when he eats like that."  To you, I say "au contraire."  I was so gross that I made the <i>dogs</i> lose their appetites.  Did I mention the grease dripping down my wrists?  No chance a napkin was going to get near them.
+Those who have seen me eat are saying to themselves, "Oh yeah.  Gross.  I've seen him when he eats like that."  To you, I say "au contraire."  I was so gross that I made the *dogs* lose their appetites.  Did I mention the grease dripping down my wrists?  No chance a napkin was going to get near them.
 
 After that, I shoved the remains of my meal back into the bag, wiped my hands and mouth on that T-shirt, and watched bad movies all night.
 

@@ -39,7 +39,7 @@ Dog lover left pretty quickly, and not long after, crazy semi-homeless came by t
 
 A little while later, I could hear him on the other boat.  "Like that lady over there said, she was a busybody!"
 
-We ended up bullshitting with the members of the other crew for a while.  They were a couple from New York, who had worked their way down over the course of several years.  One gets the impression that they might just be staying one step ahead of the law.  A real mariner <i>Dukes of Hazard</i> type of thing.  They would probably make for a good reality show.  The third member of the crew was Oscar, who Mrs. theskinnyonbenny compared to the scary bounty hunter guy from <i>Raising Arizona</i>.
+We ended up bullshitting with the members of the other crew for a while.  They were a couple from New York, who had worked their way down over the course of several years.  One gets the impression that they might just be staying one step ahead of the law.  A real mariner *Dukes of Hazard* type of thing.  They would probably make for a good reality show.  The third member of the crew was Oscar, who Mrs. theskinnyonbenny compared to the scary bounty hunter guy from *Raising Arizona*.
 
 Oscar was itching for a fight, and the only enemies he could muster were the high school kids, who come to the lakefront to sit in their cars and stare into their cell phones late at night.  I didn't see any sign of drinking, smoking pot, sex, and I didn't even hear loud music.  I'm glad I grew up in the 80s.  His partner talked him down the few times he expressed his need to scratch the itch.
 

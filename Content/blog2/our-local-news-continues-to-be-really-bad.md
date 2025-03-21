@@ -13,4 +13,4 @@ By the way, I was the one who told the reporter to go hunt down the Onion video 
 
 All I was trying to do was to throw out some trash on my way into a convenience store.  They were standing by the trash can.  I thought that they were waiting for someone in particular to show up, and as I tossed my garbage, the lady started asking quesitons.  As I answered, the camera guy lifted his camera and started shooting.  
 
-If I had known it was coming, I could have tried to put on a straight face and answered with things like, "I only rent movies that feature elderly ladies wearing nothing but bras and panties."  Or, "Do these redbox machines give you an option for betamax?"  Or, "You work at the TV station.  Can you tell me what's going to happen on <i>Lost</i>?"
+If I had known it was coming, I could have tried to put on a straight face and answered with things like, "I only rent movies that feature elderly ladies wearing nothing but bras and panties."  Or, "Do these redbox machines give you an option for betamax?"  Or, "You work at the TV station.  Can you tell me what's going to happen on *Lost*?"

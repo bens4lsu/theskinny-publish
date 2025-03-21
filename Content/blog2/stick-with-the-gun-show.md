@@ -40,7 +40,7 @@ Sharples:  I really need a good vet.
 
 Me:  Why?  Is someone sick?
 
-Sharples (flexing his bicep):  Yeah, these puppies are <i>sick</i>!
+Sharples (flexing his bicep):  Yeah, these puppies are *sick*!
 
 All of that just to get me to ask, "Is someone sick?"
 

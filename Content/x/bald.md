@@ -37,7 +37,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		<table class="baldtable">
 		<tr>
 		<td>
-		Vincent Price in reruns of the TV show <i>Batman</i> (Egghead)
+		Vincent Price in reruns of the TV show *Batman* (Egghead)
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -51,7 +51,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		The crazy prisoner at the end of the movie&nbsp;<I>Identity</I>
+		The crazy prisoner at the end of the movie&nbsp;*Identity*
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -145,7 +145,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		Ed Norton in&nbsp;<I>American History X</I>
+		Ed Norton in&nbsp;*American History X*
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -191,7 +191,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 		</tr>
 		<tr>
 		<td>
-		John Candy in&nbsp;<I>Stripes</I>
+		John Candy in&nbsp;*Stripes*
 
 		</td>
 		<td><img src="/img/bald/benbald.jpg">
@@ -215,7 +215,7 @@ Just for the record, I only recorded real comparisons that came to people sponta
 
 		</td>
 		<td>
-		There are lots of Lex Luthors, but let's face it.&nbsp; Most of us know the one from&nbsp;<I>Superfriends</I>&nbsp;best.&nbsp; Especially since Gene Hackman kept his hair in most of the movies.
+		There are lots of Lex Luthors, but let's face it.&nbsp; Most of us know the one from&nbsp;*Superfriends*&nbsp;best.&nbsp; Especially since Gene Hackman kept his hair in most of the movies.
 
 		</td>
 		</tr>

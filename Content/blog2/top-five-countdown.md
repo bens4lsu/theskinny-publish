@@ -5,7 +5,7 @@ description: A description of my post.
 tags: pop-culture
 id: 334
 ---
-It's a little known fact that I count every time that I hear any song.  Any song ever.  For example, do you know that theme from <i>The Nutcracker</i>, whose name I don't know, but which is used in one out of three commercials between now and January 1?  Well, I've heard that 5917 times in my life.  This year, it will probably break into the top five.
+It's a little known fact that I count every time that I hear any song.  Any song ever.  For example, do you know that theme from *The Nutcracker*, whose name I don't know, but which is used in one out of three commercials between now and January 1?  Well, I've heard that 5917 times in my life.  This year, it will probably break into the top five.
 
 As it currently stands, the top five looks like this:  
 
@@ -21,7 +21,7 @@ As it currently stands, the top five looks like this:
 	<td align="center">4</td><td>"Rocky Top," as performed by the University of Tennessee Band</td>
 	<td align="center">7,104</td>
 </tr><tr>
-	<td align="center">3</td><td>The opening credit theme song for <i>Three's Company</i></td>
+	<td align="center">3</td><td>The opening credit theme song for *Three's Company*</td>
 	<td align="center">9,824</td>
 </tr><tr>
 	<td align="center">2</td><td>"Brown Eyed Girl," as performed by Van Morrison, followed by any number of covers, and every band ever to play at a wedding, bar mitzva, or office party.</td>

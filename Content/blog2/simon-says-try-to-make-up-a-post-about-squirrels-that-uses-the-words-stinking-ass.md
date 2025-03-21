@@ -11,7 +11,7 @@ But I ended up with a kid who thew his first spiral at the age of three.  He's a
 
 Swim lessons have been an exercise of holding onto the side of the pool while crying.  Just like they were around this time last year.  He got through his first lesson without tears this afternoon, but no one was mistaking the kid at the far end of the pool for Aquaman.  Nevertheless, he was pretty proud of himself at the end. 
 
-As we drove away, he passed two joggers, running shirtless.  Vanya looked out his open window and shouted, "Hey!  You running NAKED!"  I'm not sure they made out what he said, but the one closer to our car looked over, so they definitely heard that he said <i>something</i> to them.
+As we drove away, he passed two joggers, running shirtless.  Vanya looked out his open window and shouted, "Hey!  You running NAKED!"  I'm not sure they made out what he said, but the one closer to our car looked over, so they definitely heard that he said *something* to them.
 
 I had told him that we could go play on the Indian Mounds if he got through swimming without crying, so we pulled into a parking lot, and climbed to the top.  I had my headphones with me, but it was a pretty evening, and I was enjoying the quiet.  There was a far away air conditioner and an occasional car, but mostly, it was just the sound of little bare feet running through the grass.  
 

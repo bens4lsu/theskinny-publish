@@ -20,4 +20,4 @@ My favorite story in this vein is one I heard on the radio a number of years ago
 
 The lazy bastard hired to paint the wall had painted right over a poster announcing a Willie Nelson concert.  The people had been worshiping Willie's image, showing through the white paint.
 
-<b>Postscript 4/25:</b>  Since my godson happens to live in Chicago, I called his parents to demand that he be given the opportunity to see the apparition.  I really wanted a picture of the kid standing next to the salt virgin.  But alas, on Friday, it rained really hard up there, and the salt stain is gone.
+**Postscript 4/25:**  Since my godson happens to live in Chicago, I called his parents to demand that he be given the opportunity to see the apparition.  I really wanted a picture of the kid standing next to the salt virgin.  But alas, on Friday, it rained really hard up there, and the salt stain is gone.

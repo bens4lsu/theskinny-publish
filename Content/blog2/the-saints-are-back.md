@@ -23,8 +23,7 @@ That felt good, so we decided to do it again.  Not wishing to suffer any persona
 
 While these fans might have deserved their ass-kickings, I feel kind of bad about the two Chinese students outside the Superdome.  Their backpacks and calculus books suggest that they were just looking for a library in which to study, when they got beat up for no reason.
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 Outside of the game, it was a fun night.  On top of our little fantasies about pummeling the young, female, and Asian, we made fun of a friend of ours from college, who I'll just call "Troy."
 
 (I just think it's goofy when people put names in quotation marks.  His name really was Troy.  We were actually friends with two guys named Troy, but we called the other one Guido, so as not to confuse ourselves.)

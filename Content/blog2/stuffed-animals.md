@@ -1,15 +1,16 @@
 ---
 title: Stuffed Animals
 date: 2007-06-27 15:12
-description: A description of my post.
+description: My sister's kid and my kid are about the same age, but hers is a hoss, and mine is a pipsqueak.  So earlier this week, I opened a box of no-longer-fitting clothes that she sent me.  On top of the clothes, she had this stuffed rabbit.  I immediately exclaimed, "Where the hell did Softy come from?"
 tags: my-youth
 id: 304
+ogImg: softy.jpg
 ---
-My sister's kid and my kid are about the same age, but hers is a <i>hoss</i>, and mine is a pipsqueak.  So earlier this week, I opened a box of no-longer-fitting clothes that she sent me.
+My sister's kid and my kid are about the same age, but hers is a *hoss*, and mine is a pipsqueak.  So earlier this week, I opened a box of no-longer-fitting clothes that she sent me.
 
 On top of the clothes, she had this stuffed rabbit.  I immediately exclaimed, "Where the hell did Softy come from?"
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" align="center" ><img src="/img/softy.jpg" align="right"></td></tr><tr><td class="caption" width="250">A current photograph of Softy.</td></tr></table>
+<a class="lightview alignright" href="/img/softy.jpg" data-lightview-caption="A current photograph of Softy." data-lightview-group="group1" ><img src="/img/softy.jpg" alt="/img/softy.jpg"><br><span class="caption">A current photograph of Softy.</span></a>
 
 Softy had been my toy as a kid.  He had a partner, whose name -- creatively enough -- was Hardy.  They were both rabbits, one with a soft forehead and one with a hard forehead.
 
@@ -17,15 +18,15 @@ Hardy and Softy were never main characters in the world of me and my stuffed ani
 
 How Softy ended up with my grown sister in a house in a city that I've rarely visited and never lived near is anyone's guess.  And most of my stuffed animals' whereabouts are unknown.  I did a quick census.
 
-<b>Hardy, small white rabbit</b>:  destroyed by a (real) dog or cat many, many, many years ago.
+**Hardy, small white rabbit**:  destroyed by a (real) dog or cat many, many, many years ago.
 
-<b>Elephant whose name I forget</b>:  The stuffed elephant was really more of a throw pillow than a stuffed animal.  While Hardy and Softy were minor characters in our dramas, the elephant took no part at all.  He was a fake stuffed throw pillow even to my other stuffed animals.  His (because none of my stuffed animals were ever female) whereabouts are unknown.  But who cares?
+**Elephant whose name I forget**:  The stuffed elephant was really more of a throw pillow than a stuffed animal.  While Hardy and Softy were minor characters in our dramas, the elephant took no part at all.  He was a fake stuffed throw pillow even to my other stuffed animals.  His (because none of my stuffed animals were ever female) whereabouts are unknown.  But who cares?
 
-<b>Alpo, green dog with black ears</b>:  Alpo stayed with my grandparents while they were alive, and then he joined the rest of us wherever we were living at the time.  He was a good one.  Whereabouts also unknown.
+**Alpo, green dog with black ears**:  Alpo stayed with my grandparents while they were alive, and then he joined the rest of us wherever we were living at the time.  He was a good one.  Whereabouts also unknown.
 
-<b>Honkey, sock monkey</b>:  Honkey was second in seniority and was a part of any adventure that included stuffed animals.  Again, his current whereabouts are unknown.
+**Honkey, sock monkey**:  Honkey was second in seniority and was a part of any adventure that included stuffed animals.  Again, his current whereabouts are unknown.
 
-<b>A-a, bear</b>:  First, the pronunciation.  "A-a" is like the very first sound in the word "ostrich," said very short and quickly, and repeated twice.  Try it out loud.
+**A-a, bear**:  First, the pronunciation.  "A-a" is like the very first sound in the word "ostrich," said very short and quickly, and repeated twice.  Try it out loud.
 
 A-a was my first stuffed animal, and perhaps my first toy at all.  I of course have no memory of the time before A-a.  He was my chief general and most common sidekick.  He looked like just a plain brown teddy bear.
 
@@ -33,6 +34,6 @@ A-a was with us one summer in the early 1980s.  Our family was on vacation, roll
 
 (Pause to wipe the tear from my eye.)
 
-We were in the middle of nowhere, on a Sunday.  I'm pretty sure that it was even Father's Day.  Some nice old couple picked us up, drove us a million miles to the nearest airport, and helped us get on a plane home.  It was so long ago, I remember that they waited at the gate with us before we boarded the plane.
+We were in the middle of nowhere, on a Sunday.  I'm pretty sure that it was even Father's Day.  Some nice old couple picked us up, drove us a million miles to the nearest airport, and helped us get on a plane home.  It was so long ago, but I remember that they waited at the gate with us before we boarded the plane.
 
 It's probably a good thing that A-a was taken in some sort of catastrophe, so I didn't reach the day -- years and years later -- where I had to decide whether he came to college with me or not.

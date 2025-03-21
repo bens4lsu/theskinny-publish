@@ -12,15 +12,15 @@ I find that I can't bear any politician who is making decisions from day to day.
 
 But like I said, I am interested in the entertainment value of a political debate.  So I recently did a <a href="http://www.technorati.com/search" target="_blank">Technorati search</a> on the phrases "Dick Chaney" and "LSU" to read up on the local argument about whether he should or shouldn't have been invited to speak at this year's commencement.
 
-Apparently, I'm not the only one who is non-political around here.  the only result in a 40-million page search was <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=20797959&blogID=123794326" target="_blank">one guy's myspace entry</a>, which pretty much just says that he's part of that whole graduation ceremony.  I'm still baffled.  There's not <i>one single blogger</i> out there who wants to criticize or defend LSU for having Chaney as a speaker?  That's unbelievable.
+Apparently, I'm not the only one who is non-political around here.  the only result in a 40-million page search was <a href="http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=20797959&blogID=123794326" target="_blank">one guy's myspace entry</a>, which pretty much just says that he's part of that whole graduation ceremony.  I'm still baffled.  There's not *one single blogger* out there who wants to criticize or defend LSU for having Chaney as a speaker?  That's unbelievable.
 
 It's become clear to me that I should run the country, no matter how difficult it will be to run for president with old pictures of me flexing my muscles in Kathy Michael's panties floating around.  So here's a quick and dirty idea about my platform:
 
-<ul><li><b>Dick Chaney</b>:  Go ahead and euthanize the old bastard.  Actually, why not eliminate the vice president position altogether?  Their only job is to break ties in the Senate and step in when the president croaks.  How about we just say that Senate motions need a 51-49 majority in order to pass, and that Secretary of State steps in when the president gets killed.<br><br>
+<ul><li>**Dick Chaney**:  Go ahead and euthanize the old bastard.  Actually, why not eliminate the vice president position altogether?  Their only job is to break ties in the Senate and step in when the president croaks.  How about we just say that Senate motions need a 51-49 majority in order to pass, and that Secretary of State steps in when the president gets killed.<br><br>
 
 So there.  Including travel, staff, office expenses, etc. I've just saved the government a couple million dollars a year.</li>
 
-<li><b>Immigration</b>:  Look, we're pretty much all here because our grandparents or their grandparents flocked in when the going got bad in their own countries.  And believe it or not, they lived in neighborhoods where few people spoke English.  And we all turned out okay, didn't we?  (Actually, we turned into a bunch of fat shits, come to think of it.)<br><br>
+<li>**Immigration**:  Look, we're pretty much all here because our grandparents or their grandparents flocked in when the going got bad in their own countries.  And believe it or not, they lived in neighborhoods where few people spoke English.  And we all turned out okay, didn't we?  (Actually, we turned into a bunch of fat shits, come to think of it.)<br><br>
 
 Okay, I concede that we probably don't need millions of illegals coming in each year.  So make sure people have the chance to come in legally when the going gets bad in their country.  Immigrants are being hired on construction crews and to clean hotel rooms anyway.  You might as well make it worthwhile to do legally, so you can collect taxes from them.<br><br>
 
@@ -28,7 +28,7 @@ You obviously don't vote for some sort of immigrant amnesty when you don't have 
 
 And if you really want to keep the Mexican border closed, then stop putting them on a bus back across, and start shooting.</li>
 
-<li><b>Ga$oline</b>:  Sure, it's expensive, but until you quit paying over $5/gallon of bottled water (do the math), I don't really care.  If we can dig up crude oil from underneath Saudi Arabia, ship it here, refine it into gasoline, distribute it to stations nationwide, and mark up the price by 40% for taxes, and it <i>still</i> costs well less than the most abundant liquid on the planet, then what problem, exactly, are we trying to solve?<br><br>
+<li>**Ga$oline**:  Sure, it's expensive, but until you quit paying over $5/gallon of bottled water (do the math), I don't really care.  If we can dig up crude oil from underneath Saudi Arabia, ship it here, refine it into gasoline, distribute it to stations nationwide, and mark up the price by 40% for taxes, and it *still* costs well less than the most abundant liquid on the planet, then what problem, exactly, are we trying to solve?<br><br>
 
 Here's the real story:  gas has been so cheap for so long that everyone in the country bought an SUV.  Demand went up.  Prices went up.  Now, they'll start trading SUVs for cars.  Demand will go down.  Prices will follow.<br><br>
 

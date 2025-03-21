@@ -18,8 +18,7 @@ As an outspoken proponent of both LSU and the state of Louisiana, I always find 
 
 
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 The night before last, I was asleep, and woke to Lily giving quiet little barks.  Usually, this means she wants me to scoot over a foot or so, so that she can jump into bed.  I slid over and closed my eyes, but she continued to whisper bark.
 
 I finally woke up enough to look down.  When she saw my eyes open, she took a few steps toward the door, and looked back.  I closed my eyes.  She whisper barked again.

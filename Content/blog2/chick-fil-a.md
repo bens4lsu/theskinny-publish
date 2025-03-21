@@ -41,6 +41,6 @@ In most of these cases, I started to watch but fell asleep.  I can sleep through
 
 I used to consistently get a nap at the Seigen movie theater in Baton Rouge.  Three or four times in a row I went there, watched a little bit of the show, had a nap, and then watched the end.
 
-When we went to see <i>Shine</i> I watched the beginning, where Geoffery Rush was sane.  I dozed off, and when I woke up, he was crazy.  I never did find out what made him go crazy.  
+When we went to see *Shine* I watched the beginning, where Geoffery Rush was sane.  I dozed off, and when I woke up, he was crazy.  I never did find out what made him go crazy.  
 
 When I asked Mrs. theskinnyonbenny, she just got annoyed and said, "You should have stayed awake if you wanted to know what happened in the movie."

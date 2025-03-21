@@ -30,7 +30,7 @@ I hadn't been out late the night before, but I was exhausted by the time of the 
 
 After a very quick nap, I got talked into a late dinner and a couple of bar stops with a couple of co-workers and some clients from Boston.  But Tuesday was the day where I really had things to do for the conference, so I was in bed by 12:30 for the second night in a row.
 
-The turnout for the first session on Tuesday morning was a little lighter, but there were still a lot of people.  The speaker was the publisher of <i>Forbes</i> magazine -- not Steve Forbes, but his employee who actually runs the magazine from day to day.  He's not a name that you've heard of, but he was very interesting.
+The turnout for the first session on Tuesday morning was a little lighter, but there were still a lot of people.  The speaker was the publisher of *Forbes* magazine -- not Steve Forbes, but his employee who actually runs the magazine from day to day.  He's not a name that you've heard of, but he was very interesting.
 
 My co-worker Alan hadn't made it down yet when this session started.  And unbeknownst to me, when I had gone to the room the night before, he called several of our co-workers claiming to have gotten in a bar fight and been put in jail.  It was all bullshit, but with Alan, you can't exactly rule it out altogether.  On top of that, his performance was apparently pretty convincing.
 

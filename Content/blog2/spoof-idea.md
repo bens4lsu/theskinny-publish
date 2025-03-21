@@ -1,11 +1,11 @@
 ---
 title: Spoof Idea
 date: 2007-07-31 14:08
-description: A description of my post.
-tags: uncategorized
+description: I wonder if Mad Magazine has done a spoof with Harry Potter with a lot of nose hair, but called him "Hairy Snotter."  Probably like ten years ago.
+tags: short
 id: 315
 ---
-I wonder if <em>Mad Magazine</em> has done a spoof with Harry Potter with a lot of nose hair, but called him "Hairy Snotter."
+I wonder if *Mad Magazine* has done a spoof with Harry Potter with a lot of nose hair, but called him "Hairy Snotter."
 
 Probably like ten years ago.
 

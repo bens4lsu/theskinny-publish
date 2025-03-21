@@ -5,7 +5,7 @@ description: Many years ago, I was fairly certain that Scott Adams had a secret 
 tags: the-office
 id: 275
 ---
-Many years ago, I was fairly certain that Scott Adams had a secret camera in our offices, and used it to grab the easy pickings for Dilbert strips.  Now, I've gotten to be fairly certain that he loaned the tapes to the group of people who write episodes of <i>The Office</i> for NBC.
+Many years ago, I was fairly certain that Scott Adams had a secret camera in our offices, and used it to grab the easy pickings for Dilbert strips.  Now, I've gotten to be fairly certain that he loaned the tapes to the group of people who write episodes of *The Office* for NBC.
 
 I can recollect a lot of episodes that were plucked right from APPRO in the past few years: the annual review, having to do layoffs, outing the gay employee, and -- most like our own office -- having "funny awards" presentations.
 
@@ -39,7 +39,7 @@ Rather than excited or juvenile, the mood was just uncomfortable.  We didn't all
 
 It felt a little like a setup.  Was there a secret camera for some cable comedy show?  Was the boss going to walk in and fire us all?  No one knew.
 
-After a while, the woman was on the table in her g-string and pasties.  There were some half-hearted tucking of dollars into her garter belt, and I'll admit that I pocketed a couple of those dollars for my own trouble that afternoon.  It was every bit as uncomfortable as that episode of <i>The Office</i> last night.
+After a while, the woman was on the table in her g-string and pasties.  There were some half-hearted tucking of dollars into her garter belt, and I'll admit that I pocketed a couple of those dollars for my own trouble that afternoon.  It was every bit as uncomfortable as that episode of *The Office* last night.
 
 When it was done, we laughed a little bit, split apart, and returned to our various buildings.  Back to work, neither enlivened nor entertained.
 

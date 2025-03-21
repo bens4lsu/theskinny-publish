@@ -47,7 +47,7 @@ Mrs. theskinnyonbenny's evaluation included this tidbit:
 
 To be honest, I don't really understand what this means, but it kind of seems like they're saying that Mrs. theskinnyonbenny doesn't know how to act like a woman.  I guess someone should have answered that they do in fact like to draw pictures of flowers.  
 
-Did I mention that this test was developed in the 1940s?  I'm quite sure that she doesn't conform to the normal picture of a wife in the 40s.  But even so, I have to again mention that it <i>such</i> a stupid notion to think that you could tell this about someone from how they answer true/false statements.
+Did I mention that this test was developed in the 1940s?  I'm quite sure that she doesn't conform to the normal picture of a wife in the 40s.  But even so, I have to again mention that it *such* a stupid notion to think that you could tell this about someone from how they answer true/false statements.
 
 But fortunately, the bottom line is this:
 

@@ -15,21 +15,21 @@ The ridicule was actually for his writing style:  rated R topics written at a re
 
 Anyway, my post idea is to list the nicknames that we had for the different girls who hung around in college.  Now, not all of the girls who hung around got nicknames.  In fact, most of them really didn't.  I've omitted ones that include part or all of a real name, which weren't usually that funny anyway.  And I certainly omitted any that the ladies gave to themselves.  In other words, It's not good if it's not mean.
 
-<ul><li><b>The Bearded Whore:</b>  The Bearded Whore was a largish chick with an unfortunate amount of facial hair.  The hair was blond, so you didn't notice so much from afar, but up close, you could really see a good, long beard.
+<ul><li>**The Bearded Whore:**  The Bearded Whore was a largish chick with an unfortunate amount of facial hair.  The hair was blond, so you didn't notice so much from afar, but up close, you could really see a good, long beard.
 
 I went on two dates with The Bearded Whore one fall semester, and I still take shit about it to this day.  Mostly from my wife.  But she was okay.  She could put away more pizza than me, and I once lost a bet when she was able to belch loudly enough to make bar patrons across the room turn around and wonder what the noise had been.</li>
 
-<li><b>The Big, The Black, and The Ugly:</b>  These three chicks showed up at the fraternity house one night, and ended up hanging around off and on for a while.  They were all big and ugly, but one was fatter than the others, one was uglier than the others, and one was black.  Thus their names.  
+<li>**The Big, The Black, and The Ugly:**  These three chicks showed up at the fraternity house one night, and ended up hanging around off and on for a while.  They were all big and ugly, but one was fatter than the others, one was uglier than the others, and one was black.  Thus their names.  
 
 I didn't have much use for the Big or the Ugly, but the Black was kind of nice.  I ran into her at a bar one night, and she came up to talk.  I told her that we wouldn't hang around with her until she had bought us all a round of beers, and she marched to the bar and came back with a bunch of beers without the slightest complaint.  
 
 She also had sex with one of the guys in a public room in the fraternity house, but all I ever got out of knowing her was that one free beer.</li>
 
-<li><b>Weeping Willow:</b>  I don't really remember this chick, but I remember the stories.  They all had to do with sobering up naked next to some guy, and bursting into mad bawling at the realization of what she had just done.  It was a pattern, and it never ceased to be funny.</li>
+<li>**Weeping Willow:**  I don't really remember this chick, but I remember the stories.  They all had to do with sobering up naked next to some guy, and bursting into mad bawling at the realization of what she had just done.  It was a pattern, and it never ceased to be funny.</li>
 
-<li><b>The Lop of Shit:</b>  The Lop of Shit really did look like a big, fat lop of blubber, but "Lop of Shit" seemed funnier than "Lop of Blubber."  I didn't really know her, but she was always pleasant.</li>
+<li>**The Lop of Shit:**  The Lop of Shit really did look like a big, fat lop of blubber, but "Lop of Shit" seemed funnier than "Lop of Blubber."  I didn't really know her, but she was always pleasant.</li>
 
-<li><b>The Flying Nun:</b>  The Flying Nun was a good friend of the Bearded Whore.  She looked a good bit like Sally Field, but not in a cute, complimentary way.</li></ul>
+<li>**The Flying Nun:**  The Flying Nun was a good friend of the Bearded Whore.  She looked a good bit like Sally Field, but not in a cute, complimentary way.</li></ul>
 
 Now sigh with relief that you aren't on the list.
 

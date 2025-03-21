@@ -15,7 +15,7 @@ Al Sharpton's speech was fun.  I like that the teleprompter worker couldn't find
 
 The "Help is on the Way" slogan that was unveiled is nothing short of offensive.  Americans aren't a bunch of helpless babies waiting on the Democrats to ride in on their white horses and give us the help we need.  I think that's a serious blunder.
 
-<a class="lightview alignright" href="/img/Kerry.jpg" data-lightview-caption="Good Grief.  Is he <i>trying</i> to get people to laugh at him?  Rediculous." data-lightview-group="group1" style="width:350px;"><img src="/img/Kerry.jpg" alt="/img/Kerry.jpg"><br><span class="caption">Good Grief.  Is he <i>trying</i> to get people to laugh at him?  Rediculous.</span></a>
+<a class="lightview alignright" href="/img/Kerry.jpg" data-lightview-caption="Good Grief.  Is he *trying* to get people to laugh at him?  Rediculous." data-lightview-group="group1" style="width:350px;"><img src="/img/Kerry.jpg" alt="/img/Kerry.jpg"><br><span class="caption">Good Grief.  Is he *trying* to get people to laugh at him?  Rediculous.</span></a>
 
 The crowd shots of the convention are the most fun.  I play a game with myself:  Random delegate, or celebrity?  Ben Afflack, Michael Moore, and the 50 year old, overweight black woman in a business suit are easy.  But, is that semi-decrepit man the guy who played Dr. Johnny Fever on WKRP, or just a random delegate.  I read that Jerry Springer was a delegate, but I didn't see him on the cameras.
 

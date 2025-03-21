@@ -14,7 +14,7 @@ I remember once when I was talking to Mom on the phone, someone in her house was
 
 At any rate, I wasn't pulling anyone's leg in this case.  But I don't think I convinced anyone until I was motivated enough to go buy that Audubon guide.
 
-<h2>April 3:  <i>Velvet Elvis</i> is Sinking</h2>
+<h2>April 3:  *Velvet Elvis* is Sinking</h2>
 
 The morning of April 3, I planned to do a little bit of cleanup from the previous day and then go home.  But when I went down to the boat, there was an inch or two of water above the carpet.  This was far, far more water than I had ever seen before.
 
@@ -48,7 +48,7 @@ It was a crappy Sunday.
 <h2>April 11:  Post Mortem</h2>
 
 I went by the house last Friday afternoon and checked over the boat.  There was about an eighth of a inch of water in the bilge.  And there had been a pretty good rain during the week.  Feeling pretty good.
-There was also a very small puddle of water in the lazarette.  That isn't normal for <i>Velvet Elvis</i>, but I'm guessing it's just drippings from the wet things that were stored in there.  I'm sure there's a good mold colony growing on all of my nice clean stuff, but hell, it is a boat after all.
+There was also a very small puddle of water in the lazarette.  That isn't normal for *Velvet Elvis*, but I'm guessing it's just drippings from the wet things that were stored in there.  I'm sure there's a good mold colony growing on all of my nice clean stuff, but hell, it is a boat after all.
 
 <a class="lightview alignright" href="/img/ve_dark.jpg" data-lightview-caption="Velvet Elvis, at 04:00, the day before Hurricane Ivan last fall." data-lightview-group="group1" style="width:350px;"><img src="/img/ve_dark.jpg" alt="/img/ve_dark.jpg"><br><span class="caption">Velvet Elvis, at 04:00, the day before Hurricane Ivan last fall.</span></a>
 

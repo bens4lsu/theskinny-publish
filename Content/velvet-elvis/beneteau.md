@@ -1,8 +1,8 @@
-<h1>Home Page for the Beneteau <i>Velvet Elvis</i></h1>
+<h1>Home Page for the Beneteau *Velvet Elvis*</h1>
 
 <a class="lightview centered" href="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" alt="/img/gal/170%20-%20Summer%202021%20Pt%202%20-%20Exumas/resIMG_20210623_142222_IMG_2063.jpg" width="650px"><br><span class="caption"></span></a>
 
-The second <i>Velvet Elvis</i> is a 2013 Beneteau Oceanis 41.  She follows <a href="/velvet-elvis/rhodes-22">her namesake</a> as our family's headquarters for over-water adventure.
+The second *Velvet Elvis* is a 2013 Beneteau Oceanis 41.  She follows <a href="/velvet-elvis/rhodes-22">her namesake</a> as our family's headquarters for over-water adventure.
 
 In the Spring of 2016, we opened a <a href="http://sailvelvetelvis.com">charter operation</a>, where we offer a full-day eco-tour of the wetlands on the Eastern end of Lake Pontchartrain, or a sunset cocktail cruise.  Please let your friends know, espeically if they have a budget for entertaining clients.
 

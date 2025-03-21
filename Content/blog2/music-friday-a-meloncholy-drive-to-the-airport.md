@@ -15,7 +15,7 @@ I was actually lukewarm on Video Games when it came out, but it grew on me durin
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/HO1OV5B_JDw" frameborder="0" allowfullscreen></iframe>
 
-Now I know that this was a 2011 song, but I just wrote that it grew on <i>me</i> in 2012.  I know this, because I downloaded a lot of free (bug legal) best-of the year songs this past January, and this was definitely one of them.
+Now I know that this was a 2011 song, but I just wrote that it grew on *me* in 2012.  I know this, because I downloaded a lot of free (bug legal) best-of the year songs this past January, and this was definitely one of them.
 
 This tUnE-yArDs song was one of my downloads too, but I keep forgetting about it.  A handful of times this year, I've come across the song or the video, and I always thing, "What is that?  I should download it."  But I think I'll remember it now.
 

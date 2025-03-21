@@ -36,7 +36,7 @@ Counter guy came back a couple of minutes later, having realized or been told th
 
 "Let me come around.  I'm sure they were right there."
 
-"They <i>were</i> there.  That old guy found them when you were in the back."
+"They *were* there.  That old guy found them when you were in the back."
 
 "He left?"
 

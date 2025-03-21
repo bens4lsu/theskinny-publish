@@ -18,13 +18,13 @@ The first football game of 2003 was a rainy day game against ULM.  (That's Unive
 
 The next couple of games were also hot, dirty days.  The nasty hat got the call, and the Tigers started winning.
 
-On the morning of the Florida game, I went to campus before daylight to stake out a good spot for a tailgate party.  Since it was so early, I forgot to throw on a hat.  I called Mrs. theskinnyonbenny and asked her to bring it.  Mrs. theskinnyonbenny chose the <i>other</i> new hat, and LSU lost to Florida.
+On the morning of the Florida game, I went to campus before daylight to stake out a good spot for a tailgate party.  Since it was so early, I forgot to throw on a hat.  I called Mrs. theskinnyonbenny and asked her to bring it.  Mrs. theskinnyonbenny chose the *other* new hat, and LSU lost to Florida.
 
 Note:  if any USC boosters ever make it to this page, you really should shoot Mrs. theskinnyonbenny a twenty in the mail.  I'm convinced that it was only because of this miscommunication that USC "shares" the national title, according to most.
 
 The only time after the Florida game that I took it off during football was right after the half of the South Carolina game.  I had taken a shower during halftime, and didn't put it back on right away.  LSU had three miserable series, but they found their game right as I found my lid.
 
-On the weekend of the Arkansas game, it picked up a sticker from a little kid, and <i>the sticker is still there!</i>  Now this was Thanksgiving weekend almost a year ago.  Tell me <i>that</i> isn't magic!
+On the weekend of the Arkansas game, it picked up a sticker from a little kid, and *the sticker is still there!*  Now this was Thanksgiving weekend almost a year ago.  Tell me *that* isn't magic!
 
 With all of those games last season, including the SEC and national championship games, plus the couple of early games this season, the hat went 15-0.  
 

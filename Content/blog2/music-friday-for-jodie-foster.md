@@ -13,13 +13,13 @@ Even Clarice Fucking Starling get spooked by the idea of the potential public ba
 
 Given the topic, my song selection this morning is cheesy, but I like the tune, and I would like it if the topic of the lyrics were something more mundane.  But this one brings some strong lyrics.
 
-<i>When I was at church they taught me something else
+*When I was at church they taught me something else
 If you preach hate at the service those words aren't anointed
 That holy water that you soak in has been poisoned
 When everyone else is more comfortable remaining voiceless
 Rather than fighting for humans that have had their rights stolen
 I might not be the same, but that's not important
-No freedom till we're equal, damn right I support it</i>
+No freedom till we're equal, damn right I support it*
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/hlVBg7_08n0" frameborder="0" allowfullscreen></iframe>
 

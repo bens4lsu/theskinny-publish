@@ -7,7 +7,7 @@ id: 1388
 ---
 A few years ago, I created <a href="http://www.pandora.com/?sc=sh99121514412040048&shareImp=true" target="_blank">a Pandora station, mixing Washington DC go go artists with New Orleans funk bands</a> -- close musical cousins to be sure.  The first name I typed in to start the station was Chuck Brown.
 
-Last Friday, the creator of <i>Treme</i> and <i>The Wire</i> brought <a href="http://www.offbeat.com/2012/05/15/treme-vs-the-wire-battle-of-the-bands-at-tipitinas-photos/" target="_blank">the genres together in a much more impressive way</a>.  
+Last Friday, the creator of *Treme* and *The Wire* brought <a href="http://www.offbeat.com/2012/05/15/treme-vs-the-wire-battle-of-the-bands-at-tipitinas-photos/" target="_blank">the genres together in a much more impressive way</a>.  
 
 Coincidentally, this week saw the passing of Brown.  Rest in peace, and thanks for the tunes (RIPATFTT).
 

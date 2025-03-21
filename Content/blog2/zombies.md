@@ -18,7 +18,7 @@ He charged up toward his parents laughing, and I thought, "it's a zombie.  He's 
 
 <a class="lightview centered" href="/img/books/worldwarz.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/books/worldwarz.jpg" alt="/img/books/worldwarz.jpg"><br><span class="caption"></span></a>
 
-The reason I have zombies on the brain is because I'm about halfway through <a href=""><i>World War Z:  An Oral History of the Zombie War </i> by Max Brooks</a>.  I'm enjoying the hell out of it.  It's written like a researched collection of interviews in the aftermath of an epidemic/war where the zombies damn near wiped out the normal living humans altogether.  Full of realistic military failures, government bumbling, and the panic stricken underinformed masses, it's so well done that it's almost believable.
+The reason I have zombies on the brain is because I'm about halfway through <a href="">*World War Z:  An Oral History of the Zombie War * by Max Brooks</a>.  I'm enjoying the hell out of it.  It's written like a researched collection of interviews in the aftermath of an epidemic/war where the zombies damn near wiped out the normal living humans altogether.  Full of realistic military failures, government bumbling, and the panic stricken underinformed masses, it's so well done that it's almost believable.
 
 
 

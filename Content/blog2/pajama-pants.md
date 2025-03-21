@@ -33,7 +33,7 @@ Huh?  (That one stopped me for a second, as I tried to comprehend.)
 
 "IT'S A WASTE OF LAUNDRY!!!"
 
-I still didn't (and don't to this day) really understand that argument, but this was the point where I bent over and stuck an index finger right in the poor little girl's face.  "Do <i>you</i> do the laundry around here?"  I went on, without waiting for the response.  I was talking fast and loud by now.
+I still didn't (and don't to this day) really understand that argument, but this was the point where I bent over and stuck an index finger right in the poor little girl's face.  "Do *you* do the laundry around here?"  I went on, without waiting for the response.  I was talking fast and loud by now.
 
 "I know you don't, and I think that whoever does do the laundry wouldn't mind Jake wearing clean pajama pants."
 

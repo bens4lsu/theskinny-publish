@@ -15,8 +15,8 @@ The BRAG Lunch is a monthly, informal round-table lunch
 for developers within the Greater Baton Rouge area. It is FREE and open to
 developers of all skill levels.
 
-<b>______________ will be starting us out talking on the
-Liskov Substitution Principle and we'll see where we go from there.</b> Should
+**______________ will be starting us out talking on the
+Liskov Substitution Principle and we'll see where we go from there.** Should
 be yet another great meeting. If you would like to come, please use the
 eventbrite link below to register so that we can get a rough estimate of the
 space needed.

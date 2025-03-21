@@ -26,4 +26,4 @@ And just one with the grown ups:
 
 Yesterday, I loaded up the last leftover keg, which we had kept around to nurse on through the Saints game Monday night.  I got to the keg place, and in a couple of minutes, I recognized the guy I was talking to was the same one who used to drop off and pick up kegs at our fraternity house from 1989 - 1993. 
 
-Somehow, he recognized me at the same time, and we were both like, "You're <i>still</i> doing this?"
+Somehow, he recognized me at the same time, and we were both like, "You're *still* doing this?"

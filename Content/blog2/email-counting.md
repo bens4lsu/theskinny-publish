@@ -7,19 +7,19 @@ id: 186
 ---
 Overall, I get too much email.  I went back to a regular week from last October and counted the messages in my various email accounts.
 
-<ul><li><b>My Work Email Account got 1577 messages</b>, broken down as
-	<ul><li><i>Paging:  985 messages</i>.  Little programs monitor our clients' systems, and send paging messages when they detect something that might require attention from an engineer.  I doubt that I personally looked at many of them, but at least two people looked at every one.</li>
-	<li><i>Customer Service:  98 messages</i>.  These all have to do with a support case initiated by one of our clients.  Each time someone opens a new case or adds a note to indicate that some work was done, I got a new message.  I skim these, but don't read them all, especially when I'm busy.</li>
-	<li><i>BR Everyone:  16 messages</i>.  These are broadcasts to everyone in the Baton Rouge office.  They tend to be HR notices, general corporate info, etc.  I sort them out and read them when I have time.</li>
-	<li><i>Team Gladiators:  103 messages</i>.  These are broadcasts to the team that I work directly with.  A lot of these are generated automatically on customer service things also.</li>
-	<li><i>From Alan:  144 messages.</i>  Alan's tend to be informational, where I'm on the CC line.  I read them all, but they normally don't require any follow up.  Although he sends enough to be broken out individually, this seems to have been a particularly email-heavy week for him.</li>
-	<li><i>All else:  231 messages.</i>  These are the true emails sent directly to me.  I look at them all.</li>
+<ul><li>**My Work Email Account got 1577 messages**, broken down as
+	<ul><li>*Paging:  985 messages*.  Little programs monitor our clients' systems, and send paging messages when they detect something that might require attention from an engineer.  I doubt that I personally looked at many of them, but at least two people looked at every one.</li>
+	<li>*Customer Service:  98 messages*.  These all have to do with a support case initiated by one of our clients.  Each time someone opens a new case or adds a note to indicate that some work was done, I got a new message.  I skim these, but don't read them all, especially when I'm busy.</li>
+	<li>*BR Everyone:  16 messages*.  These are broadcasts to everyone in the Baton Rouge office.  They tend to be HR notices, general corporate info, etc.  I sort them out and read them when I have time.</li>
+	<li>*Team Gladiators:  103 messages*.  These are broadcasts to the team that I work directly with.  A lot of these are generated automatically on customer service things also.</li>
+	<li>*From Alan:  144 messages.*  Alan's tend to be informational, where I'm on the CC line.  I read them all, but they normally don't require any follow up.  Although he sends enough to be broken out individually, this seems to have been a particularly email-heavy week for him.</li>
+	<li>*All else:  231 messages.*  These are the true emails sent directly to me.  I look at them all.</li>
 	</ul></li>
-<li><b>bens@theskinnyonbenny.com got 2 emails.</b>  This is the one account that didn't get enough email.  More on that later.</li>
-<li><b>My Rhodes list email got 149 messages.</b>  This is a specific account that I use for an email list with like-minded sailors.  This is a pretty typical week.</li>
-<li><b>My Yahoo email address got 2658 messages</b>, broken down as
-	<ul><li><i>2553 items automatically sorted to the folder where they put my spam</i>.  This is the account I use for online shopping, so there's a lot of junk coming here.</li>
-	<li><i>105 items that were in my inbox.</i>  85% of this was also spam.  I get a lot of messages from "Black Singles Connection" here, which would be fine if I were either black or single, but is annoying, since I am neither.</li>
+<li>**bens@theskinnyonbenny.com got 2 emails.**  This is the one account that didn't get enough email.  More on that later.</li>
+<li>**My Rhodes list email got 149 messages.**  This is a specific account that I use for an email list with like-minded sailors.  This is a pretty typical week.</li>
+<li>**My Yahoo email address got 2658 messages**, broken down as
+	<ul><li>*2553 items automatically sorted to the folder where they put my spam*.  This is the account I use for online shopping, so there's a lot of junk coming here.</li>
+	<li>*105 items that were in my inbox.*  85% of this was also spam.  I get a lot of messages from "Black Singles Connection" here, which would be fine if I were either black or single, but is annoying, since I am neither.</li>
 	</ul></li>
 </ul>
 	

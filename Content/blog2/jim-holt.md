@@ -20,7 +20,7 @@ Anyway, I'm over my indignation.  If you can't beat 'em, join 'em.  Now, I'm jus
 
 Every time I've gotten a wrecked car, it's been someone else's fault, and I'm put out with the hasstle of getting my car repaired.  Just paying for the repair alone doesn't really compensate me for all of the bullcrap that goes along with being in an accident.  If anyone around here deserves some crash cash, it's those of us who carry insurance and tend to drive safely.
 
-And just look how <i>much</i> cash I can get.  Judging from this picture, Jim's going to have to bring it to me in a big canvas bag, as in an old Western.  Hell, it might just be straight gold in that bag, from what I can tell.  I'm pretty sure that it's not just full of pennies.  That would be misleading.
+And just look how *much* cash I can get.  Judging from this picture, Jim's going to have to bring it to me in a big canvas bag, as in an old Western.  Hell, it might just be straight gold in that bag, from what I can tell.  I'm pretty sure that it's not just full of pennies.  That would be misleading.
 
 Of course, in this picture, the guy's car is split half in two, but even a minor accident must be worth a pretty good bundle.  Besides, I think the broken car is metaphorical.  As big a man as Jim Holt must surely be, a real car still wouldn't fit in the palm of his hand.
 

@@ -17,7 +17,7 @@ Then I turned around, and he was standing right behind me with the Spiderman out
 
 The bug museum was as fun as I remembered it being, although the â€œtouch for yourselfâ€� part was a bowl full of maggots rather than the hissing cockroaches this time.  The spot where a huge spider comes out of the wall and scares people is always great fun, and I could have stood there and watched people startle all day long.
 
-After the museum, we went  back to Slidell, locked the kids in a closet, and went for a delightful sail.  <i>Velvet Elvis</i> has been missing me.  I need to get out there and give her some love.  Hopefully, it will be a warm winter, and we'll get to voyage a lot.
+After the museum, we went  back to Slidell, locked the kids in a closet, and went for a delightful sail.  *Velvet Elvis* has been missing me.  I need to get out there and give her some love.  Hopefully, it will be a warm winter, and we'll get to voyage a lot.
 
 Evening trick-or-treating was nothing especially exciting.  It was our first year with 100% comprehension of the process and of the rewards, and it was definitely fun seeing how excited the little ones got.
 
@@ -25,7 +25,7 @@ At one point my brother-in-law asked some young parents if their pint-sized wolv
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/058%20-%20Halloween%202009/resIMG_0909.JPG" width="250px"></td></tr><tr><td class="caption" width="250">Batman Trick or Treats at the zoo.</td></tr></table>
 
-<i>Toy Story</i> came back with a vengeance in costume popularity this year.  I saw a number of little Buzzes with inflated wings on their back and at least one Woody, a tall skinny adult who never once said, â€œThey poisoned the waterholeâ€� or â€œYou're my favorite deputy.â€�  But my favorite was the weenie dog who had a woody tucked into his collar, presumably to rescue the squeaky penguin from the yard sale.
+*Toy Story* came back with a vengeance in costume popularity this year.  I saw a number of little Buzzes with inflated wings on their back and at least one Woody, a tall skinny adult who never once said, â€œThey poisoned the waterholeâ€� or â€œYou're my favorite deputy.â€�  But my favorite was the weenie dog who had a woody tucked into his collar, presumably to rescue the squeaky penguin from the yard sale.
 
 Once I get the pics posted, you're going to think I've mixed up different years, but in fact, Vanya started wearing Batman as soon as we got the costume, wearing it to Boo at the Zoo a week before, and then to a tailgate the following day, and although we had it with us on Halloween, he decided to change over to Spiderman for Halloween proper.  It will be good training for double celebration of holidays for once he's married and has to do them in more than one place.
 

@@ -5,7 +5,7 @@ description: A description of my post.
 tags: music-pop-culture
 id: 1357
 ---
-Twenty-five years ago this week, U2's Joshua Tree album hit #1 on the US charts. To celebrate, I listened to the album from the first low rumbling of "Where the Streets Have No Name" to the kind of weird, Beatle-esque ending of "Mothers of the Disappeared" straight through, for the 1367th time. There aren't many albums that are in my regular rotation after so many years, but I've never gotten tired of <i>The Joshua Tree</i>
+Twenty-five years ago this week, U2's Joshua Tree album hit #1 on the US charts. To celebrate, I listened to the album from the first low rumbling of "Where the Streets Have No Name" to the kind of weird, Beatle-esque ending of "Mothers of the Disappeared" straight through, for the 1367th time. There aren't many albums that are in my regular rotation after so many years, but I've never gotten tired of *The Joshua Tree*
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="130" ><iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&nou=1&bg1=B5B5CD&fc1=000000&lc1=0000FF&t=theskinnyonbe-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B001NB5BA4" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></td></table>
 

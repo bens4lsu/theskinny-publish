@@ -9,7 +9,7 @@ Has anyone else noticed that Accuweather sucks now?  I remember once upon a time
 
 Back in the days before Hurricane Katrina, when tropical storms were all fun and games, I remember watching a meteorologist on the site explain what all of the weather services were predicting, explaining why they were wrong, and drawing what he thought the track of the storm would be.  Then, it followed his track almost exactly.
 
-Maybe they used to be lucky, but I really think they used to be better.  Hell, now they don't even know what the weather is <i>right now</i>.
+Maybe they used to be lucky, but I really think they used to be better.  Hell, now they don't even know what the weather is *right now*.
 
 Here's a screen cap from a few days ago.
 

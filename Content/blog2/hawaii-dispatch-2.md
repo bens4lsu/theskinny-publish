@@ -46,9 +46,9 @@ Hawaiian food kicks serious hula-skirted booty.  Laulau was one of my favorites.
 
 Besides food the words, I learned a little Hawaiian this week.  
 
-PUKA = holes in information.  "I've read over your request, but there's a lot of <i>puka</i> to resolve before I'm able to prepare an estimate."
+PUKA = holes in information.  "I've read over your request, but there's a lot of *puka* to resolve before I'm able to prepare an estimate."
 
-PAU = done.  "This trip is one day from being <i>pau</i>."  I like this one, mainly because it sounds like "POW!"
+PAU = done.  "This trip is one day from being *pau*."  I like this one, mainly because it sounds like "POW!"
 
 But there were few anecdotes about being out and about that are worth sharing.  In fact, there is only this one.
 

@@ -6,7 +6,7 @@ tags: pop-culture,things-i-just-dreamed-up
 id: 2321
 ogImg: tarapool1.jpg
 ---
-Last night, we watched <i>My Cousin Vinnie</i>.  Probably the first time I've seen it since the 90s, and it turns out that the reason it was so popular is that it's good.  It's still good.  I didn't remember much other than the main plot outline, and it had me laughing.
+Last night, we watched *My Cousin Vinnie*.  Probably the first time I've seen it since the 90s, and it turns out that the reason it was so popular is that it's good.  It's still good.  I didn't remember much other than the main plot outline, and it had me laughing.
 
 Not just the big moments -- like when Vinnie came into court wearing the thrift shop suit, but also ones that could go unnoticed if you're playing on your phone while it's on.  In one court scene, the prosecutor mentions "all our little old ancestors bank in England."  As he speaks, the camera panning the jury stops for an extra beat on the face of a black lady who could have had a best supporting nomination just for the look on her face during that 1.5 seconds of screen time.
 
@@ -16,7 +16,7 @@ I have more TV show pitches, y'all.
 
 Lucky Hank is very similar to an idea I had about a Mad Men style drama set in the English Department of a huge state university.  My version would have had a lot more political maneuvering and back-stabbing, and I dare say it would have been funnier.  (Topic for another day:  the embarrassingly shitty state of academic buildings at LSU.)
 
-My most flushed out idea is for <i>Neighborhood Pool</i>, an Office-style mockumentary taking place at a neighborhood pool.  My ideas are exaggerated stories based on real people and events from the Tara pool in Baton Rouge, and the fact that the pool is named after a slave-owning estate from <i>Gone With the Wind</i> is just the tip of the iceberg, comedy-wise.
+My most flushed out idea is for *Neighborhood Pool*, an Office-style mockumentary taking place at a neighborhood pool.  My ideas are exaggerated stories based on real people and events from the Tara pool in Baton Rouge, and the fact that the pool is named after a slave-owning estate from *Gone With the Wind* is just the tip of the iceberg, comedy-wise.
 
 <a class="lightview alignright" href="/img/tarapool1.jpg" data-lightview-caption="Tara pool pics from 2015" data-lightview-group="group1" style="width:350px;"><img src="/img/tarapool1.jpg" alt="/img/tarapool1.jpg"><br><span class="caption">Tara pool pics from 2015</span></a>
 

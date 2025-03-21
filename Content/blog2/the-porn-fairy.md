@@ -15,7 +15,7 @@ Dad asked me later what was in the magazine.
 
 "...umm, uh, naked men."  I thought naked men might be okay but naked women would be bad.  Plus, it wasn't entirely false.  In the pictures of people doing the nasty, there were, of course, some naked men.
 
-My Dad responded with something like, "Naked <i>men</i>?  Naked women I can see, but don't be looking at magazines full of naked men!"
+My Dad responded with something like, "Naked *men*?  Naked women I can see, but don't be looking at magazines full of naked men!"
 
 I checked in with Ryan later.  He had told his parents that we were looking at pictures of food.
 

@@ -5,7 +5,7 @@ description: A description of my post.
 tags: sports
 id: 1035
 ---
-Several months ago, a journal called <i>Washington City Paper</i> -- which is read by few, even in the city of Washington D.C. -- wrote <a href="http://www.washingtoncitypaper.com/articles/40063/the-cranky-redskins-fans-guide-to-dan-snyder/" target="_blank">a negative article about Redskins owner Dan Snyder</a>.  Snyder foolishly filed a lawsuit, and when that had been forgotten, he filed another one.
+Several months ago, a journal called *Washington City Paper* -- which is read by few, even in the city of Washington D.C. -- wrote <a href="http://www.washingtoncitypaper.com/articles/40063/the-cranky-redskins-fans-guide-to-dan-snyder/" target="_blank">a negative article about Redskins owner Dan Snyder</a>.  Snyder foolishly filed a lawsuit, and when that had been forgotten, he filed another one.
 
 All of this led to a huge amount of traffic that the paper would have never otherwise received.  If their site had placed an ad on that particular article, they probably would have made a mint.
 

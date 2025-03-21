@@ -5,7 +5,7 @@ description: A description of my post.
 tags: uncategorized
 id: 688
 ---
-I know that it's been exceptionally cold everywhere, and you don't want to read a post about how the puddles were actually <i>frozen</i> when I went outside to see how Lily was getting into the yard next door.  And I can handle the cold.  I'll bundle up and go out in the upper thirties, no problem.  
+I know that it's been exceptionally cold everywhere, and you don't want to read a post about how the puddles were actually *frozen* when I went outside to see how Lily was getting into the yard next door.  And I can handle the cold.  I'll bundle up and go out in the upper thirties, no problem.  
 
 But I learn to cope.  I don't have gloves, but I have a reasonably warm coat, and with the hood up, hat, scarf, sweatshirt, and two sets of pants, It's warm enough.  
 

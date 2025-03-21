@@ -1,5 +1,5 @@
 
-<h2>Home Page for the first <i>Velvet Elvis</i></h2>
+<h2>Home Page for the first *Velvet Elvis*</h2>
 
 The first _Velvet Elvis_ was a 1998 Rhodes 22 manufactured by <a href="http://www.generalboats.com/http___www.generalboats.com/home.html" target="_blank">General Boats</a>.  She spent her first few years as a demo boat, going to boat shows and being sailed by her loving manufacturers.
 
@@ -22,7 +22,7 @@ We sail _Velvet Elvis_ on Lake Ponchartrain, which has some advantages.  There a
 
 
 
-<div class="list-of-links">Bringing <i>Velvet Elvis</i> Home After Post-Katrina Restore<ul class="compact">
+<div class="list-of-links">Bringing *Velvet Elvis* Home After Post-Katrina Restore<ul class="compact">
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-1">Page 1</a></li>
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-2">Page 2</a></li>
     <li><a href="/velvet-elvis/rhodes-22/bringing-velvet-elvis-home-3">Page 3</a></li>

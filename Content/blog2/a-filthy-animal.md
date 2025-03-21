@@ -22,7 +22,7 @@ I can picture her lying with her belly flat against the carpet, legs splayed beh
 
 Here and there, she gets to a glob of baby shit, which she eats like a delicate hors d'oeuvre.  When she hits a mass of cotten that is heavy and soggy with piss, she leaves the spitball on the carpet.  Life is good for a dog.
 
-I'm reminded  of one of my favorite parts of <i>Pulp Fiction</i>
+I'm reminded  of one of my favorite parts of *Pulp Fiction*
 
 <blockquote>Dialog: John Travolta (Vincent) i Samuel L. Jackson (Jules)<br>
 <br>

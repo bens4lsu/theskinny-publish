@@ -7,7 +7,7 @@ id: 1220
 ---
 The media is bound and determined to make me hate Jeremy Lin.  It's tough to do -- a great story, sure.  But I haven't even been watching 24-7 ESPN like I do during football season, and I'm tired of hearing about the guy.
 
-Comparisons to Tim Tebow are nuts, and I think coming from the overzealous Christians looking for a hero.  Tebow was a Heisman trophy winner from a major college who was drafted in the first round.  He's actually <i>supposed</i> to be good.  Lin was undrafted and from Harvard.  No one but basketball die-hards had even heard of him 12 days ago.
+Comparisons to Tim Tebow are nuts, and I think coming from the overzealous Christians looking for a hero.  Tebow was a Heisman trophy winner from a major college who was drafted in the first round.  He's actually *supposed* to be good.  Lin was undrafted and from Harvard.  No one but basketball die-hards had even heard of him 12 days ago.
 
 Comparisons like that are what will make me hate the kid.  There are two people on earth who I would really like to see pushing daisies.  In one case, it's a personal dislike.  The other case is Tim Tebow.
 
@@ -19,6 +19,6 @@ Floyd Mayweather was criticized for saying that the hype is just because Lin is 
 
 I haven't watched the guy play.  And if all we see is highlight after highlight, I'll be rooting for the other team when I finally do catch a game.
 
-<b>Update:</b>  Kind of cool that <a href="http://feinsteinonthebrink.com/index.php?id=2843356311304035537" target="_blank">the best sportswriter in the country came up with the same argument</a>, albeit written much better.
+**Update:**  Kind of cool that <a href="http://feinsteinonthebrink.com/index.php?id=2843356311304035537" target="_blank">the best sportswriter in the country came up with the same argument</a>, albeit written much better.
 
 Feinstein really is the best.  His latest book is one of my favorite reads in years.  <a href="http://www.amazon.com/gp/product/0316079049/ref=as_li_ss_tl?ie=UTF8&tag=theskinnyonbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316079049">You should use this link to buy it now</a><img src="http://www.assoc-amazon.com/e/ir?t=theskinnyonbe-20&l=as2&o=1&a=0316079049" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.

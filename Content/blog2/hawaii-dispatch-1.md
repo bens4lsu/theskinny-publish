@@ -37,7 +37,7 @@ Getting back to island-related topics, I've noticed that the Hawaiian words use 
 
 There seems to be a rule that vowels can be all strung together, but there can never be two consonants in a row.  So KLAUWI can't be a Hawaiian word, but WALIOPIPI, KIOLU'U'UPEA, and POUAWA'APOLOLOMEAMEALU would be fine.
 
-Since there are only so many syllables that you can make with these rules, you have to make your words pretty long if you want them to be unique.  (It reminds me of the <i>Futurama</i> episode where they find a new food, do a trademark search, and find that the only word not already used for a product is "Popplers.")  The end result of all of this is that all of the words with Hawaiian roots look pretty similar.  Finding a particular street is an excercise in examining the finest details of street signs, since pretty much every street name looks the same at a glance.  
+Since there are only so many syllables that you can make with these rules, you have to make your words pretty long if you want them to be unique.  (It reminds me of the *Futurama* episode where they find a new food, do a trademark search, and find that the only word not already used for a product is "Popplers.")  The end result of all of this is that all of the words with Hawaiian roots look pretty similar.  Finding a particular street is an excercise in examining the finest details of street signs, since pretty much every street name looks the same at a glance.  
   
 
 

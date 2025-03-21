@@ -5,11 +5,11 @@ description: I really wish someone would run a weekend marathon of old That's In
 tags: sports, tv, pop-culture
 id: 220
 ---
-I really wish someone would run a weekend marathon of old <i>That's Incredible</i> episodes from the 1970s.  I bet that show is so over-the-top bad, that the producers are embarrassed to have been associated with it.
+I really wish someone would run a weekend marathon of old *That's Incredible* episodes from the 1970s.  I bet that show is so over-the-top bad, that the producers are embarrassed to have been associated with it.
 
-But when I was in elementary school, <i>everyone</i> watched it every single week.  (I wonder what it's competition was.  Sure, there were just three channels, but still....)
+But when I was in elementary school, *everyone* watched it every single week.  (I wonder what it's competition was.  Sure, there were just three channels, but still....)
 
-For you youngsters, <i>That's Incredible</i> had a panel of people in front of a live audience, and they ran clips of things that were "incredible."  Then, the panel would come back and make comments on how "incredible" the clip had been.  There was usually a segment on something supernatural, a feel good thing -- a child with no legs who could walk on his hands, for instance -- and a healthy smattering of crap.
+For you youngsters, *That's Incredible* had a panel of people in front of a live audience, and they ran clips of things that were "incredible."  Then, the panel would come back and make comments on how "incredible" the clip had been.  There was usually a segment on something supernatural, a feel good thing -- a child with no legs who could walk on his hands, for instance -- and a healthy smattering of crap.
 
 I only remember a couple of specific segments.  In one, the ghost of a dead nurse was blamed for changing all of the clocks in a particular hospital.  I don't know why she did this, but I know is scared the bejesus out of me as a little boy.
 
@@ -29,4 +29,4 @@ Do you realize how sick this pace is?  I'm in decent shape, but I would just be 
 
 (At least in cycling, I'm only twice as slow as the elite athlete.  I'm quite sure I can finish a relatively flat 95 miles less than 8 hours.  Especially if I'm in a peloton.)
 
-Let's continue.  If you aren't in Baton Rouge, you may have missed the story that LSU wide receiver Xavier Carter ran one of the fastest 100m dashes in the world this year.  He covered the distance in 10.09 seconds, which works out to an unbelievable 22.2 mph.  With a race that short, you have to consider that they start running from a dead stop.  And watching that race, you see that there's a special burst of speed that gets let out for the last 50 meters.  I speculate that the max speed might have been up around 26-28 mph.  Ladies and gentlemen, <i>that's</i> incredible.  If you don't think so, go get your car up to that speed, and then open the door.  Look at the ground and see just how fast you're moving.
+Let's continue.  If you aren't in Baton Rouge, you may have missed the story that LSU wide receiver Xavier Carter ran one of the fastest 100m dashes in the world this year.  He covered the distance in 10.09 seconds, which works out to an unbelievable 22.2 mph.  With a race that short, you have to consider that they start running from a dead stop.  And watching that race, you see that there's a special burst of speed that gets let out for the last 50 meters.  I speculate that the max speed might have been up around 26-28 mph.  Ladies and gentlemen, *that's* incredible.  If you don't think so, go get your car up to that speed, and then open the door.  Look at the ground and see just how fast you're moving.

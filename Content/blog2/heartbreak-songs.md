@@ -48,7 +48,7 @@ The most recent 4-star song I hit was "Heart In a Cage" by The Strokes.  I had t
 	
 Of course everybody's five-star list would be different, and everybody's list is correct -- for them.  Unless they put Bette Midler in there.  Then they're just a fools.
 	
-I will give you one five-star tidbit from my library:  any time I get any new sound equipment, be it a pair of headphones, a new stereo, a new car, or whatever, U2's "Where the Streets Have No Name" is <i>always</a> the first tune that gets played.  That's my little ritual.</td>
+I will give you one five-star tidbit from my library:  any time I get any new sound equipment, be it a pair of headphones, a new stereo, a new car, or whatever, U2's "Where the Streets Have No Name" is *always</a> the first tune that gets played.  That's my little ritual.</td>
 </tr>
 </table>
 

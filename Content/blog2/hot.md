@@ -5,7 +5,7 @@ description: A description of my post.
 tags: my-stories
 id: 384
 ---
-It would be easy for me to write a blog that would be enjoyed by a particular demographic of loser:  say, a divorcee, whose kids are teenagers that don't like her very much, and whose ideal (and typical) Friday night includes taking a long bath, polishing off a pint of ice cream while watching <i>Beaches</i>, and crying herself gently to sleep.
+It would be easy for me to write a blog that would be enjoyed by a particular demographic of loser:  say, a divorcee, whose kids are teenagers that don't like her very much, and whose ideal (and typical) Friday night includes taking a long bath, polishing off a pint of ice cream while watching *Beaches*, and crying herself gently to sleep.
 
 For that sort of reader, I could post a cute picture of a dog, cat, or kid every day, and include cute little stories.  Watch; I'll illustrate....
 
@@ -18,8 +18,7 @@ This morning, as I got him out of bed, he decided not to bring the toy down with
 
 I can't go on, lest I be overwhelmed by the urge to rip out my own fingernails, but it's amazing how many blogs read like this.
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 The heat during the early part of this week was unreal.  You're smart enough to go look up the numbers for yourself, but I can tell you that just stepping out the door on Monday afternoon felt like getting into a black car parked in the sun on any other summer day.  We haven't been getting our <a href="http://theskinnyonbenny.com/blog2/archives/127">normal summer afternoon downpours</a>, and I guess they make a difference.
 
 I walked the dogs at 8:30 Monday night, and my ankles could still feel the heat radiating from the street.  How hot was that for the dogs, whose bare feet walk the road, and whose entire undersides are just a foot off of the heat source?  Still, Lily seemed to enjoy her walk, as always, and Blossom seemed to drag behind, as always.

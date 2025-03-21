@@ -7,7 +7,7 @@ id: 330
 ---
 It's hard to believe how much difference an hour makes.  I speak of the one hour difference between the Eastern and Central time zone.
 
-For example, last night, I picked up Mrs. theskinnyonbenny from her work stuff at 5:00.  We went back to the condo, let her change clothes, walked into the tiny downtown, picked a restuarant, ate, had a couple of drinks, and walked back home.  We sat down, turned on the TV, only to find that it was still 20 minutes <i>before</i> the start of prime time programming.  
+For example, last night, I picked up Mrs. theskinnyonbenny from her work stuff at 5:00.  We went back to the condo, let her change clothes, walked into the tiny downtown, picked a restuarant, ate, had a couple of drinks, and walked back home.  We sat down, turned on the TV, only to find that it was still 20 minutes *before* the start of prime time programming.  
 
 What the heck?  
 

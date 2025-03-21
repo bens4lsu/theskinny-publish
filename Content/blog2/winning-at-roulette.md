@@ -15,7 +15,7 @@ Anyway, I had heard second hand about a scheme that he had to get over on the bi
 
 To my surprise, he outlined his idea to me last time we were in Vegas, and perhaps due to the super-oxygenated environment or the liquor, or perhaps because the idea is solid, it started to make sense.  The jist of it is something like this:
 
-Roulette wheels are made by men, or by machines made by men.  Suppose the dividers between numbers wasn't <i>exactly</i> equal.  Or suppose that the wheel was ever-so-slightly bent.  In case, there would be numbers where over a large enough set of samples would be favored.  And if you played those numbers over and over, you would have good days and bad days, but in the long run, you would come out ahead.
+Roulette wheels are made by men, or by machines made by men.  Suppose the dividers between numbers wasn't *exactly* equal.  Or suppose that the wheel was ever-so-slightly bent.  In case, there would be numbers where over a large enough set of samples would be favored.  And if you played those numbers over and over, you would have good days and bad days, but in the long run, you would come out ahead.
 
 I chalked this up as an interesting intellectual argument and went home thinking nothing more about it.
 

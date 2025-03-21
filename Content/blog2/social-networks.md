@@ -21,4 +21,4 @@ I'm not really sure what to do now.  I'm very happy posting everything that I wa
 
 Meanwhile, I signed up for Twitter too.  I've been meaning to do that for a while, just to have an outlet for the random thoughts that pop into my head but that are too inappropriate given the setting for me to blurt out loud.  (<a href="http://twitter.com/bens4lsu" "target="_blank">Follow me on Twitter</a>.)
 
-By now, this post is so annoying that I want to punch <i>myself</i> in the face.  So I'll stop before it gets worse.
+By now, this post is so annoying that I want to punch *myself* in the face.  So I'll stop before it gets worse.

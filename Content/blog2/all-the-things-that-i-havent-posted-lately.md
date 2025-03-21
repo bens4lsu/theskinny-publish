@@ -9,7 +9,7 @@ Instead of blogging, I've spent a lot of time installing trim around windows, cr
 
 <ul><li>The television writers are on strike, and their demand to get a tiny percentage of what we spend to view or download a show on the internet doesn't seem unreasonable to me.  But that said, the scripted television shows on the air were pretty bad even before the strike dwindled our choices.  So bad that <a href="http://www.ew.com/ew/article/0,,20158840,00.html" target="_blank">one producer apologized for his show's shittiness</a>.  Wow.  
 
-For the record, Showtime's <a href="http://www.sho.com/site/dexter/home.do" target="_blank"><i>Dexter</i></a> is the best drama on TV for the second fall in a row.  You should do yourself a favor and start watching the On Demand episodes of Season 2 now.</li>
+For the record, Showtime's <a href="http://www.sho.com/site/dexter/home.do" target="_blank">*Dexter*</a> is the best drama on TV for the second fall in a row.  You should do yourself a favor and start watching the On Demand episodes of Season 2 now.</li>
 
 <li>I missed my opportunity to share the grusome details about a gastric distress episode that I had in the parking lot of Wal Mart.  You should count your blessings, especially if you read near lunch time.</li>
 

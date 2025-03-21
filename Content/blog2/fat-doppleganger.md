@@ -5,7 +5,7 @@ description: A description of my post.
 tags: my-stories
 id: 1473
 ---
-Check out the front page of the <i>Baton Rouge Advocate</i>'s recent Fit section:
+Check out the front page of the *Baton Rouge Advocate*'s recent Fit section:
 
 <skinny:nohome><p style="margin-left:auto; margin-right: auto; text-align: center;"><img alt="fit section cover photo 1" src="/img/fitsection1.jpg"/></p></skinny:nohome>
 

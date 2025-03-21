@@ -7,7 +7,7 @@ id: 157
 ---
 Here are four things I know about football right now, that I didn't know Saturday morning:
 
-<ul><li>Until this season, LSU had never beaten Florida, Alabama, and Auburn in the same season.  I know that would have been a rare feat, but it seems amazing that it <i>never</i> happened before.
+<ul><li>Until this season, LSU had never beaten Florida, Alabama, and Auburn in the same season.  I know that would have been a rare feat, but it seems amazing that it *never* happened before.
 
 </li><li>On a similar vein, before now, LSU has never beaten Alabama three years in a row.
 

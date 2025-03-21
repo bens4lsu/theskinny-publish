@@ -13,7 +13,7 @@ If you still share that irritation, think again.  Sure it would be all right to 
 
 And we wouldn't have gotten to see her cry the next night as she realized that her tears kept her on and got a better singer booted.  
 
-And most importantly, we wouldn't have gotten to see a room full of grown-up music fans loudly boo a cute, young, enthusiastic girl who was <i>crying</i>.  Where else are you going to see that?
+And most importantly, we wouldn't have gotten to see a room full of grown-up music fans loudly boo a cute, young, enthusiastic girl who was *crying*.  Where else are you going to see that?
 
 While I'm on the subject of Reality TV, I will admit that for a couple of weeks, I've been trying to work in a clever Omarosa reference.  Some like, "as courageous as Omarosa when the sheet rock starts crumbling."  Never could fit it in, and Omarosa has pretty much passed from cultural relevance.  Darn.
 

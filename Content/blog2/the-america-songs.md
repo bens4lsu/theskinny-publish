@@ -23,13 +23,13 @@ But I digress.
 
 Yesterday, I got to the songs that start with the words "America" or "American."  I was expecting some pretty cheesy country music in that stretch, but look what I got:
 
-<i>Neil Diamond's "America":</i>  There's the cheese I expected, but you can't help but like this one.  After this, I got a handful of fairly lame songs from Yes, Morrissey, the Cult, and Garth Brooks.
+*Neil Diamond's "America":*  There's the cheese I expected, but you can't help but like this one.  After this, I got a handful of fairly lame songs from Yes, Morrissey, the Cult, and Garth Brooks.
 
-<i>Green Day's "American Idiot:"</i>  I've been playing it for almost a year, and I'm not tired of it yet.
+*Green Day's "American Idiot:"*  I've been playing it for almost a year, and I'm not tired of it yet.
 
-<i>The Violent Femmes "American Music":</i>  This is a fantastic song.  Just great.  I listened to it three times back to back before moving on to....
+*The Violent Femmes "American Music":*  This is a fantastic song.  Just great.  I listened to it three times back to back before moving on to....
 
-<i>A whole collection of "American Pie" versions.</i>  It wasn't a surprise to have multiple versions of this one.  I remember when the Madonna remake came out listening to Mrs. theskinnyonbenny argue with one of her friends about whether it was any good.
+*A whole collection of "American Pie" versions.*  It wasn't a surprise to have multiple versions of this one.  I remember when the Madonna remake came out listening to Mrs. theskinnyonbenny argue with one of her friends about whether it was any good.
 
 Mrs. theskinnyonbenny is a big fan of Madonna and liked the song.
 

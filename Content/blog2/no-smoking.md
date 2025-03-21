@@ -10,7 +10,7 @@ I would like to meet the person who came up with, "Thank you for not smoking," j
 
 Think about it.  Better yet, read it out loud and slow:  "Thank you for not smoking."
 
-You are actually pretending that the smoker checked to see if smoking was allowed, and even worse, you actually <i>thank</i> the smoker.  
+You are actually pretending that the smoker checked to see if smoking was allowed, and even worse, you actually *thank* the smoker.  
 
 When did "thank you" lose its meeting as something you say when someone actually did a nice thing for you?  What's the new thing that I'm supposed to say in that case?
 

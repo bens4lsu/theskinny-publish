@@ -4,25 +4,25 @@ date: 2007-09-27 01:45
 description: A description of my post.
 tags: animals
 id: 328
+ogImg: seagull.gif
 ---
 I'm not in the habit of using this blog to repeat stories that get emailed from person to person to persona million times, but this one is a) <a href="http://www.snopes.com/photos/animals/seagull.asp">true</a>, and b) made me laugh out loud when I saw the choppy little animated gif video of it.
 
 Here's the story in full:
 
+<a class="lightview alignright" href="/img/seagull.gif" data-lightview-caption="" data-lightview-group="group1" ><img src="/img/seagull.gif" alt="/img/seagull.gif"><br><span class="caption"></span></a>
+
 <blockquote>A seagull in Scotland has developed the habit of stealing chips from a neighborhood shop.
-
-<IMG SRC="/img/seagull.gif" ALIGN=RIGHT BORDER=0 WIDTH=154 HEIGHT=127 HSPACE=16 VSPACE=16>
-
+<br><br>
 The seagull waits until the shopkeeper isn't looking, and then walks into the store and grabs a snack-size bag of cheese Doritos.
-
+<br><br>
 Once outside, the bag gets ripped open and shared by other birds.
-
+<br><br>
 The seagull's shoplifting started early this month when he first swooped into the store in Aberdeen, Scotland, and helped himself to a bag of chips. Since then, he's become a regular. He always takes the same type of chips.
-
+<br><br>
 Customers have begun paying for the seagull's stolen bags of chips because they think it's so funny.</blockquote>
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 I had my own misplaced animal story last week.  I got a call from Joyce across the street asking if I had a black cat.  Unprepared to deal with my forth dead pet in four years, my heart jumped into my throat.  But it wasn't bad news.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/nigel2dirty.jpg"></td></tr><tr><td class="caption" width="250">Nasty Cat</td></tr></table>

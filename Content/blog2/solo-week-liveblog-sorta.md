@@ -33,11 +33,11 @@ I often hear, "We need Mount Gay and BT [Buffalo Trace] too," as I walk out the 
 
 Anyway, by the time I got home, cooled off, and ate a few bites, it was 9:00.  I got the exact same amount of TV time as I would have when the family was home.
 
-I started <i>Moonrise Kingdom</i>, which has been on my must-watch list since it was in theaters.  Wes Anderson, Bill Murray, Frances McDormand -- I'm in if you give me any of the three on a movie poster.  This one is a masterpiece.  It's available in HBOGo just through tomorrow -- probably today, since you're likely seeing this on Wednesday -- so catch it tonight if you get Wes Anderson movies and haven't seen it.  It's nothing short of a masterpiece.
+I started *Moonrise Kingdom*, which has been on my must-watch list since it was in theaters.  Wes Anderson, Bill Murray, Frances McDormand -- I'm in if you give me any of the three on a movie poster.  This one is a masterpiece.  It's available in HBOGo just through tomorrow -- probably today, since you're likely seeing this on Wednesday -- so catch it tonight if you get Wes Anderson movies and haven't seen it.  It's nothing short of a masterpiece.
 
-Please let me know what your favorite grown-up movies have been over the past six years.  Besides MK, I've seen <i>Rise of the Planet of the Apes</i> and <i>Cloverfield</i> (which I also love).  
+Please let me know what your favorite grown-up movies have been over the past six years.  Besides MK, I've seen *Rise of the Planet of the Apes* and *Cloverfield* (which I also love).  
 
-(Don't go overboard, though.  I've got to find time to watch <i>Funny Farm</i> somewhere in here too.)
+(Don't go overboard, though.  I've got to find time to watch *Funny Farm* somewhere in here too.)
 
 My Facebook update sums up my evening well, I think:  
 
@@ -57,7 +57,7 @@ I really had a quick chat with two kids and read while they went off to swim.  I
 
 It was Eddie and Carmel's anniversary.  It's an occasion that I like to celebrate by finding a priest and picking a fight.  Those of you who attended the wedding will no doubt understand why.
 
-After that, I decided to continue my trend of grown up movies in an actual theater.  I saw <i>Pacific Rim</i>, and I wish I hadn't.  Too much people discussing what they think and not enough monsters crushing buildings and bridges.  And really, when the monsters do eventually rise from the ocean and start crushing our cities, I think we humans can do better than giant Rock-em Sock-em robots.  
+After that, I decided to continue my trend of grown up movies in an actual theater.  I saw *Pacific Rim*, and I wish I hadn't.  Too much people discussing what they think and not enough monsters crushing buildings and bridges.  And really, when the monsters do eventually rise from the ocean and start crushing our cities, I think we humans can do better than giant Rock-em Sock-em robots.  
 
 <strong>8/2/2013 10:37</strong>
 

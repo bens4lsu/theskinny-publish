@@ -13,7 +13,7 @@ Then again, maybe I would with Entourage.  It's one of the few shows where I hav
 
 The shame is that no one I talk to watches this show, and I never get to talk about it.  Let me give you a quick rundown, so that the next part of this post is as funny as it should be.  If you watch, skip the next section.
 
-The show is about a movie star, his agent, and his buddies.  The main story line ending last season and going into this season is that the star was cast as the lead in <i>Aquaman</i> -- a made up movie.  At the beginning of this season, the movie premiered, and broke <i>Spiderman's</i> record for opening weekend sales.
+The show is about a movie star, his agent, and his buddies.  The main story line ending last season and going into this season is that the star was cast as the lead in *Aquaman* -- a made up movie.  At the beginning of this season, the movie premiered, and broke *Spiderman's* record for opening weekend sales.
 
 The publicity folks at HBO took out an advertising in one of the real trades congratulating the fake movie for its box office success.  It generated some buzz for the show, and that should have been the end of a not-very-interesting story.
 <embed src="http://www.youtube.com/v/YPvorO0EGIY" type="application/x-shockwave-flash" width="425" height="350"></embed>

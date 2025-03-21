@@ -1,7 +1,7 @@
 ---
 title: Music and TV from Europoe
 date: 2007-07-07 09:00
-description: A description of my post.
+description: It's Saturday morning, and I've started listening to the Live Earth broadcasts.  So far, Hamburg and London are on, and Hamburg is kicking their ass in music quality.  I've heard some good New Orleans style funk, but sung in German.  I know I'll never hear any of that stuff again, but I like it.
 tags: pop-culture
 id: 306
 ---

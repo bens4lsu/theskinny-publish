@@ -1,7 +1,7 @@
 ---
 title: Football Worry
 date: 2007-07-18 14:32
-description: A description of my post.
+description: I looked at the over/under lines for NFL teams earlier this week, and they had the Saints at 7 or 7 1/2.  In other words, half the people who put their money on the line don't think the Saints will have a winning season, and the other half do.  I was expecting a line of around 9 1/2.  Yes, the Saints have a tough schedule, given its championship-game non-division schedule.  Furthermore, the rest of the NFC South should be much improved.  But its hard for me to imagine a team with this much offensive power losing more than half of its games.  It almost seems like an easy-money sucker bet.
 tags: sports
 id: 310
 ---
@@ -9,7 +9,7 @@ I looked at the over/under lines for NFL teams earlier this week, and they had t
 
 Don't get me wrong.  The odds are staggeringly against the Saints making it to the NFC Championship game again.  The last decade of NFL is chock full of NFC teams that go to the championship or even to the Super Bowl, who don't even win their division the next season.  I'll leave the task of digging up specific examples to more serious researchers, but I seem to remember this being the case with Atlanta, Carolina, and Tampa Bay recently.  (What do you know!  All NFC South!)
 
-As of today, I'll predict a 9-7 season and a wild-card spot in the playoffs.  Remember that this is my pick <i>today</i>.  As the season gets closer, I'll get more and more geeked, to the point of first game kickoff, when I'll be sure that the Saints will be 16-0, waltzing into the Superbowl, and winning the big game by 30 points or more.
+As of today, I'll predict a 9-7 season and a wild-card spot in the playoffs.  Remember that this is my pick *today*.  As the season gets closer, I'll get more and more geeked, to the point of first game kickoff, when I'll be sure that the Saints will be 16-0, waltzing into the Superbowl, and winning the big game by 30 points or more.
 
 But today, let's face reality.  Never in our lifetimes has there been a season like last, pairing LSU and Saints success so remarkably.  And it's not likely that we will ever see such a season again.
 

@@ -21,7 +21,7 @@ And then the word popped into his head.
 
 "TIT!"
 
-"Um, not quite <i>tit</i>, but really close.  Let's try it with the P in front."
+"Um, not quite *tit*, but really close.  Let's try it with the P in front."
 
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 

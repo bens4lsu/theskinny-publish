@@ -27,7 +27,7 @@ Mom cooked up some sort of stew or casserole one night.  I don't remember what i
 
 It makes me laugh to recall this scene, but it would chap my hide in a big way if I ever had a kid who did that to me.  And as I recall, she was pretty annoyed at it all.
 
-Even though I make fun, I always ate every bite of food put in front of me.  The one exception was a dish that she really liked, a Beef Stroganoff.  The way she made it included a healthy portion of beets  (aka the anti-food).  I know a lot of people who claim to like beets, and I've seen them eat enough to believe that the really do.  But I don't understand <i>how</i> they could really like them.  Beets are the nastiest, most foul tasting root ever to grow beneath a weed.
+Even though I make fun, I always ate every bite of food put in front of me.  The one exception was a dish that she really liked, a Beef Stroganoff.  The way she made it included a healthy portion of beets  (aka the anti-food).  I know a lot of people who claim to like beets, and I've seen them eat enough to believe that the really do.  But I don't understand *how* they could really like them.  Beets are the nastiest, most foul tasting root ever to grow beneath a weed.
 
 When we were in New York, Mrs. theskinnyonbenny was enjoying a soup in a Russian restaurant one afternoon.  It looked good, and I asked for a bite.  I was completely unsuspicious of its purple color and even asked, "Is that cabbage?"
 

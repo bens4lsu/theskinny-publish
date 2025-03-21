@@ -1,7 +1,7 @@
 ---
 title: A Hokie's Guide to September 8, 2007
 date: 2007-08-07 09:39
-description: A description of my post.
+description: I believe that it's still the plan that we'll be graced with some visiting Hokies for the football season's first tailgate. They may read experts' opinions of what to expect on the field any number of places. I thought they might need to read about what to expect in the hours leading up to the game. The rest of this post is directed to them.
 tags: sports
 id: 316
 ---
@@ -17,7 +17,7 @@ I'm guessing that you Hokies will get there around 10:30 or 11:00. The first thi
 
 (A real coonass will steam his oysters down there, and serve them with a fishbowl of beer.)
 
-Your hosts will insist that you put a drink in your hand right away, and insist that one remains there for the nine and a half hours â€” yes <i>nine and a half</i> â€” until kickoff. Pacing is the name of the game on this particular Saturday. Especially with the heat, some of the fans on campus will drink to the point where they don't make the game. It wouldn't be dumb to covertly take a water every third or fourth drink, although you will be ridiculed if caught.
+Your hosts will insist that you put a drink in your hand right away, and insist that one remains there for the nine and a half hours -- yes *nine and a half* -- until kickoff. Pacing is the name of the game on this particular Saturday. Especially with the heat, some of the fans on campus will drink to the point where they don't make the game. It wouldn't be dumb to covertly take a water every third or fourth drink, although you will be ridiculed if caught.
 
 Speaking of ridicule, the tiger fans are going to be tough on you. You will be called "tiger bait" all day long. Sometimes, you'll be addressed that way, as if were an old college nickname, and sometimes, it will be chanted at you by a crowd.
 

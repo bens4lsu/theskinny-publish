@@ -5,11 +5,11 @@ description: I got to thinking about Three's Company today.  And I've decided th
 tags: my-youth,pop-culture
 id: 222
 ---
-I got to thinking about <em>Three's Company</em> today.  And I've decided that a big part of why it's no big deal for people of my generation to have opposite-sex roommates is that our parents spent so much time in 1979 defending Jack's right to cohabitate with Janet and Chrissy.  I know this sounds ludicrous, but I remember that it really was a controversy when that show was a prime-time series.
+I got to thinking about *Three's Company* today.  And I've decided that a big part of why it's no big deal for people of my generation to have opposite-sex roommates is that our parents spent so much time in 1979 defending Jack's right to cohabitate with Janet and Chrissy.  I know this sounds ludicrous, but I remember that it really was a controversy when that show was a prime-time series.
 
 My parents would have been of that age where they are about 10 years older than our fictional Southern California friends.  I now know that people in their 30s want to think that they are as young and hip as the attractive people in their 20s that they see on the television every week.  I bet a good many of those people had drawn-out debates with their own parents about the morality of this silly little sitcom.
 
-Fast forward 20 years, and their own kids want to live the lifestyle that the parents convinced themselves was moral way back when.  <em>Three's Company</em> changed how they perceived "living in sin."
+Fast forward 20 years, and their own kids want to live the lifestyle that the parents convinced themselves was moral way back when.  *Three's Company* changed how they perceived "living in sin."
 
 (That sounds preachy, but unintentionally.  In fact, I strongly recommend a childless live-together period for all young couples before getting married.)
 
@@ -19,15 +19,15 @@ It's hard to understand whether Mr. Ferley and Mr. Roper were conservative fuddy
 
 This brings me to the profound conclusion that Mr. Roper -- of all people -- is more open minded than the current President of the United States, who as you have probably heard, has proposed amending the constitution in a way that protects the rest of us from the dangers associated with homosexual couples being able to inherit each others belongings, share an insurance plan, or visit each other in the hospital.
 
-I wonder if the President was a <em>Three's Company</em> fan, and how he would compare himself to Mr. Roper.  (He certainly did better in the wife-picking department.  But wouldn't you pay a hundred bucks to see what Laura looks like in a muu muu?)
+I wonder if the President was a *Three's Company* fan, and how he would compare himself to Mr. Roper.  (He certainly did better in the wife-picking department.  But wouldn't you pay a hundred bucks to see what Laura looks like in a muu muu?)
 
 An what was Mr. Ferley's problem with a heterosexual living with two girls?  He fancied himself a playa, and would have engaged in out-of-marriage intercourse as often as he could get it.  So what, exactly, is his problem with the living arrangement upstairs?
 
-It occurs to me now that I should have given John Ritter a little mention on this site when he passed away.  Not because he was one of the last masters of the pratfall -- which he was, and not because his similar minor characters in <em>Sling Blade</em> and <em>Bad Santa</em> helped push those movies from good to among my favorites of all time -- which he did.
+It occurs to me now that I should have given John Ritter a little mention on this site when he passed away.  Not because he was one of the last masters of the pratfall -- which he was, and not because his similar minor characters in *Sling Blade* and *Bad Santa* helped push those movies from good to among my favorites of all time -- which he did.
 
 No, the real reason that he deserves to be singled out is that he is the biggest celebrity to have shared a birthday with me.  In fact, now that he's passed, I don't know of another celeb with a September 17 birthday (that's a hint -- mark your calendars).
 
-One Summer during my college days, I lived with my buddies Jerry and Eddie.  Jerry spent most of his time at a girlfriend's, so it was usually Eddie and me hanging around the apartment.  Every day when I would get in from work, Eddie was winding up an hour-long session of back to back episodes of <em>Three's Company</em>.  We would pretty much start drinking beer right then.
+One Summer during my college days, I lived with my buddies Jerry and Eddie.  Jerry spent most of his time at a girlfriend's, so it was usually Eddie and me hanging around the apartment.  Every day when I would get in from work, Eddie was winding up an hour-long session of back to back episodes of *Three's Company*.  We would pretty much start drinking beer right then.
 
 One day, one of us decided to check directory assistance for the town where Three's Company was set.  I don't remember which Southern California city that was any more, but we called looking for the phone number of a Jack Tripper with no luck, then of a Chrissy Snow, again with no luck.  But what do you know, there was a Janet Woods listed.  Of course, we gave her a call.
 

@@ -22,14 +22,12 @@ The band we were listening to was called the Zydepunks.  Their web site bills th
 
 I saw them on the schedule for Jazz Fest tomorrow, so if you're out there, check them out.
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 I un-hid <a href="http://theskinnyonbenny.com/blog2/archives/105">this old post</a>, which I had taken down at the request of my bosses at Equifax.  It really isn't that offensive (although my sister's comments are a bit much).
 
 The only other post that I've ever hidden is <a href="http://theskinnyonbenny.com/blog2/archives/252">this one</a>, which was at the request of Mrs. theskinnyonbenny, who was concerned that her boss at the time would recognize himself.
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 Whatever numbskulls thought that outlawing smoking in Bingo parlors wouldn't lead to a drop in the number of Bingo players obviously never actually attended a Bingo fundraiser.  (Today's <a href="http://www.nytimes.com/2008/04/24/us/24bingo.html">New York Times</a>).
 
 I don't think I've ever posted stories about my volunteer days at Bingo, but you truly could not find a place more enshrouded in cigarette smoke.  One night, I was up on a stand calling numbers, and the power went out.  In the dark room, several hundred cigarette lighters lit cigarettes all at once.  It was like when the ballad starts at a hair band concert.

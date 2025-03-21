@@ -16,7 +16,7 @@ Every day, we played with the kids on some body of water, then went back and fix
 
 It was a great trip.
 
-The nearest town was one we came to know as Redbud, as it was reminiscent of the town by that name in the move <i>Funny Farm</i>.  To be fair, it was more like Redbud when all of the citizens were putting on their phony "nice" acts than when the citizens were acting like themselves.  The only rude one I can remember was a teenage girl whose accent I could barely decipher, and who could not hide her disdain by the fat middle-aged tourists with the gall to come into her shop and ask about renting a boat for the day.
+The nearest town was one we came to know as Redbud, as it was reminiscent of the town by that name in the move *Funny Farm*.  To be fair, it was more like Redbud when all of the citizens were putting on their phony "nice" acts than when the citizens were acting like themselves.  The only rude one I can remember was a teenage girl whose accent I could barely decipher, and who could not hide her disdain by the fat middle-aged tourists with the gall to come into her shop and ask about renting a boat for the day.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/MainePic2.jpg"></td></tr><tr><td class="caption" width="250">Paddling the Saco.</td></tr></table>
 

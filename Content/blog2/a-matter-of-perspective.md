@@ -11,6 +11,6 @@ Whoever hit the lobby first asked, "Can you seat a party of eight?"
 
 The hostess replied, "You're in luck.  We just had a party of eight cancel their reservation."
 
-One of our group observed, "No, <i>You're</i> in luck that we happened to show up right now."
+One of our group observed, "No, *You're* in luck that we happened to show up right now."
 
 Which was a very good point.

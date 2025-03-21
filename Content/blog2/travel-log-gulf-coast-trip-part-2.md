@@ -7,7 +7,7 @@ id: 1832
 ---
 This is the completion of our vacation story, which I first started <a href="http://theskinnyonbenny.com/blog2/archives/1813">way back when</a>.  If you've forgotten all of that, go give it a quick look.  I'll meet you back here.
 
-<em>Wednesday, June 18 - Thursday, June 19</em>
+*Wednesday, June 18 - Thursday, June 19*
 
 When we last checked in with our intrepid voyagers on Velvet Elvis, they were at a nice little anchorage at about the spot where the civilized Florida coast dissappears for good.  We left there between 5:00 and 6:00, knowing that our first all day-all night-all day sail was ahead of us.
 
@@ -17,7 +17,7 @@ It turned out to be pretty uneventful.  Winds were light and progress was slow, 
 
 We had planned to go all the way to St. Petersburg, but with dusk approaching and us having still several hours to go, we found a calm anchorage outside of Tarpon Springs.  The water was a beautiful deep turquoise, and the spot we found was deliciously free of other boats.
 
-<em>Friday, June 20</em>
+*Friday, June 20*
 
 We started early again on Friday morning, and had a coastal sail of just a few hours.  The wind was good early, and we didn't have to start the motor until we were out in front of the tourist boats and results of St. Petersburg.  We motored the last little while, entering the bay though a long cut with light sandy shallow water on each side.  
 
@@ -31,7 +31,7 @@ We made our way to the resort, ordered lunch, and found the Linkins.  A nice con
 
 As is usual for a beach trip, the stories are best told by the pictures, so be sure to <a href="http://theskinnyonbenny.com/pg4.php?spgmGal=114%20-%202014%20Vacation%20-%20South%20Florida">check those out</a>.
 
-<em>Saturday, June 21</em>
+*Saturday, June 21*
 
 Saturday was a pretty normal, lazy beach and pool day.  Late afternoon, we went in to get ready to walk down to dinner, and Kolya treated us to an energetic dance with an inflatible mermaid.  Mrs. theskinnyonbenny changed clothes in a closet, and Vanya crushed hard on a girl who will consider him much too young until he is 22 and she is 27.
 
@@ -39,7 +39,7 @@ Mrs. theskinnyonbenny had a beachfront restaurant in mind a mile or so down the 
 
 We drank and laughed through dinner, and then we walked past our part of the resort to a different building where they were having some sort of "party."  It was really just a pool and a big outside bar that was open, along with a lot of communal seating.  We sat around and made friends with strangers while the kids did their own thing, and then we called it a night.
 
-<em>Sunday, June 22</em>
+*Sunday, June 22*
 
 <a class="lightview alignright" href="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140621_190542_2614.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140621_190542_2614.JPG" alt="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140621_190542_2614.JPG" width="350px"><br><span class="caption alignleft"></span></a>
 
@@ -56,13 +56,13 @@ This episode was still playing out in my mind some weeks later:
 
 Later, the whole crew came out to Velvet Elvis, and we motored around to Downtown St. Petersburg.  We got down there around dark and had dinner overlooking the marina.
 
-<em>Monday, June 23</em>
+*Monday, June 23*
 
 The next day, I spent the a lot of the day at the marina with some work and some boat maintenance.  I got out to the resort and to the beach.  I walked down to the place we had eaten the previous night and enjoyed some cocktail time all by myself.  It was a much-needed respite.
 
 That night, we hit a restaurant down the beach that had this giant aquarium built by the reality show crew.  It was sort of cool.  Then, we played outside in the dark, knowing that this was the last time we would see our friends for many months.
 
-<em>Tuesday, June 24</em>
+*Tuesday, June 24*
 
 <a class="lightview alignright" href="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140624_093010_2793.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140624_093010_2793.JPG" alt="/img/gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140624_093010_2793.JPG" width="200px"><br><span class="caption alignleft"></span></a>
 
@@ -74,7 +74,7 @@ I don't want to be too negative, but even getting there soon after the park open
 
 At the end of our long, tiring day, we drove back out to the marina and rested up.
 
-<em>Wednesday, June 25 - Sunday, June 29</em>
+*Wednesday, June 25 - Sunday, June 29*
 
 My dad came down Wednesday afternoon, and shortly after he arrived, we shoved off and headed West.  By sunset, we were out of sight of land. We worked night shifts of three hours on, six hours off, and it really couldn't have been easier.  For the first two days, wind was light to nonexistent, and we had to motor a lot.  But after that, it filled in just as forecast.  By Saturday night, we were flying along at breakneck pace.
 
@@ -88,4 +88,4 @@ We made it home Sunday morning and spent the rest of the day cleaning up and get
 
 We ate frozen and boxed prepped foods, and out there, they were good.  
 
-<em>In case you were skimming, the whole photo gallery is <a href="http://theskinnyonbenny.com/pg4.php?spgmGal=114%20-%202014%20Vacation%20-%20South%20Florida">here</a>.
+*In case you were skimming, the whole photo gallery is <a href="http://theskinnyonbenny.com/pg4.php?spgmGal=114%20-%202014%20Vacation%20-%20South%20Florida">here</a>.

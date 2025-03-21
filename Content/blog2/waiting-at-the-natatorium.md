@@ -6,7 +6,7 @@ tags: uncategorized
 id: 2239
 ogImg: waitingatswim.jpg
 ---
-The worst thing about waiting for the kids to finish swim practice is that it's so hard to do anything <i>but</i> wait.
+The worst thing about waiting for the kids to finish swim practice is that it's so hard to do anything *but* wait.
 
 A lot of days, my first choice would be to take a nap.  I've managed a few, but there's an almost constant clomp of kids mvoing in and out.  Practice times are staggered between the different groups of kids. and it takes a while between the time I get there and the time when things calm down.  
 

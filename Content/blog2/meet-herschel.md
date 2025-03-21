@@ -21,7 +21,7 @@ Hershel kept his face toward his book as we approached the bar and ordered a rou
 
 "I'm reading about the history of jazz."
 
-Of course he was. A pussy magnet of this caliber wouldn't be caught reading <i>Twilight</i>.
+Of course he was. A pussy magnet of this caliber wouldn't be caught reading *Twilight*.
 
 Herschel's secret is that back at home, in the rare gaps between female guests, he is a regular guy. The fake beard is tucked away in a bathroom drawer, and a large painting in the den is removed to revel his high-def plasma television. (He tells his guests that he doesn't like television, except to occasionally watch Nova on his 13-inch black and white.)
 

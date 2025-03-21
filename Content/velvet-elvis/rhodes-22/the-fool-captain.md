@@ -16,7 +16,7 @@ The swimmers were tired, so I coaxed Tyler aboard, and started the motor again. 
 
 Of course, he lost his grip.
 
-<table cellpadding=4 cellspacing=0 border=1 align=right><tr><td width=200 bgcolor="#C0C0C0"><font face="verdana, arial, geneva" size=1 color=#000000><b>Lessons Learned</b> (in chronological order)<ol><li>On a slow day, fix the first rum and coke while still at the dock.  It will be a welcome refreshment during the motor out.<li>When there's no wind anyway, go ahead and untangle the anchor rode.<li>Get your head out of your anus when it comes to current and power lines.<li>Always sail near Asian fishermen.  They're a very helful type of folk.</ol></font></td></tr></table>
+<table cellpadding=4 cellspacing=0 border=1 align=right><tr><td width=200 bgcolor="#C0C0C0"><font face="verdana, arial, geneva" size=1 color=#000000>**Lessons Learned** (in chronological order)<ol><li>On a slow day, fix the first rum and coke while still at the dock.  It will be a welcome refreshment during the motor out.<li>When there's no wind anyway, go ahead and untangle the anchor rode.<li>Get your head out of your anus when it comes to current and power lines.<li>Always sail near Asian fishermen.  They're a very helful type of folk.</ol></font></td></tr></table>
 
 I tried to back up to him, but the motor wouldn't reverse.  It's a piece of shit.
 
@@ -26,7 +26,7 @@ The swimmer drifted to the bridge, and I drifted toward the power lines.  It was
 
 I finally got the boat out of danger and went back to my rum.  But we were still without Cade, who had drifted to some non-English speaking fishermen under the bridge.  They continued to cast, apparently unaware that he needed a lift.
 
-Tyler swam back to be the hero rescuer, but he also decided it would be better to sit in a tiny dilapidated boat with non-English speakers than to try to fight the current back to <i>Velvet Elvis</i>.
+Tyler swam back to be the hero rescuer, but he also decided it would be better to sit in a tiny dilapidated boat with non-English speakers than to try to fight the current back to *Velvet Elvis*.
 
 By this time, I was quite content to make slow circles, enjoying my drink and the baseball game.
 

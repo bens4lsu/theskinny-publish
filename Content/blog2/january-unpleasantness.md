@@ -5,7 +5,7 @@ description: A description of my post.
 tags: my-stories
 id: 467
 ---
-I don't suppose that many people heard that I was going to work for myself and pictured me on a cold floor in a cold house, tying a <i>freaking necktie</i> at 5:30 in the morning on a cold January day.  But that's exactly how I found myself yesterday morning.
+I don't suppose that many people heard that I was going to work for myself and pictured me on a cold floor in a cold house, tying a *freaking necktie* at 5:30 in the morning on a cold January day.  But that's exactly how I found myself yesterday morning.
 
 Shortly after that, I heard the kid calling.  I went up to his room, picked him out of bed, and brought him down to watch cartoons from our bed, where Mrs. theskinnyonbenny still tried to hold on to those last precious Z's.  As I was walking away, I noticed pee pee on the cuff of my shirt.  And that was the only ironed shirt that would work with those pants, so I had to punt my whole getting dressed and start all over again.
 

@@ -1,13 +1,13 @@
 ---
 title: Morning Farewell
 date: 2007-07-26 10:39
-description: A description of my post.
+description: When Vanya cries, his face changes its entire shape.  His features flatten a bit, and his mouth squares off and opens so the noise and tears can cascade together.  Usually, this is about a bunch of nothing, and his little anguished face very often makes me laugh.
 tags: young-ruski
 id: 313
 ---
 When Vanya cries, his face changes its entire shape.  His features flatten a bit, and his mouth squares off and opens so the noise and tears can cascade together.
 
-Ususally, this is about a bunch of nothing, and his little anguished face very often makes me laugh.
+Usually, this is about a bunch of nothing, and his little anguished face very often makes me laugh.
 
 The only time I really found it heart-breaking was this morning.
 

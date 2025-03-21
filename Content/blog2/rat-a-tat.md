@@ -31,7 +31,7 @@ Have you been outside in Las Vegas in June?  If not, crank your oven to 400 degr
 "Hey, if Josh wants to hang with me while I sit around the spa naked and study the racing form, he's more than welcome."</li></li>
 </li>
 
-<li>Speaking of naked, it's been a long time since I've been out on <i>Velvet Elvis</i> by myself.  I've almost forgotten the feel of the gunnel on naked butt cheeks.</li>
+<li>Speaking of naked, it's been a long time since I've been out on *Velvet Elvis* by myself.  I've almost forgotten the feel of the gunnel on naked butt cheeks.</li>
 </ul>
 
 I've got some great daily photos coming up, so keep checking those.

@@ -14,9 +14,9 @@ We had watched storms all around us, and as I settled in for the night watch, I 
 
 This time of year, most of the nasty weather forms just offshore, and then marches into land.  I didn't worry about the frequent sy lightning in front or behind me, but when I started seeing it to my Starboard, I had the feeling that this was the night.  Even though the winds were light, I reduced both sails to tiny little triangles, and when it started to sprinkle, I went below for a rain jacket.
 
-Sure enough, I got the whole shebang.  <i>Velvet Elvis</i> pitched up and down in the waves.  When the rain came, it blocked out all of the lights from shore, buoys, and other vessels.  Lightning flashed overhead.
+Sure enough, I got the whole shebang.  *Velvet Elvis* pitched up and down in the waves.  When the rain came, it blocked out all of the lights from shore, buoys, and other vessels.  Lightning flashed overhead.
 
-Part of my brain was saying that I should be shitting my pants, but I really couldn't scare myelf too badly.  <i>Velvet Elvis</i> creaked and groaned, but held her speed and course admirably.  I knew that the summer squalls were never too big, and although it seemed like forever, we were through the worst of it inside of an hour.
+Part of my brain was saying that I should be shitting my pants, but I really couldn't scare myelf too badly.  *Velvet Elvis* creaked and groaned, but held her speed and course admirably.  I knew that the summer squalls were never too big, and although it seemed like forever, we were through the worst of it inside of an hour.
 
 We sailed through what continued to be a wet night, and late Sunday, we decided to duck into Pensacola Bay to wait out Tropical Storm Colin.  There's a great little anchorage not too far from the mouth of the bay, and we mostly had it to ourselves for the next couple of days and nights.  We took the dinghy to the beach every day, swam a little, watched movies in the cockpit, and spotted dolphins.  We had that sunny, breezy, low-humidity beautiful weather that sometimes comes from being 150 miles West of a hurricane.
 

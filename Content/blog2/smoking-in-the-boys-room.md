@@ -11,7 +11,7 @@ Earlier this week, I received <a href="https://www.instagram.com/reel/CxAzXr-u4-
 
 One of the things that the lady said reminded me of something.
 
-When I started 7th grade, my new school had a designated smoking area for <i>students</i>.
+When I started 7th grade, my new school had a designated smoking area for *students*.
 
 It was a school that housed both Jr and Sr High, and if I remember correctly, you were supposed to be at least 16 years old to smoke on campus.  But nevertheless, I was 12 years old when the school year started, and my school had a student smoking area.
 

@@ -23,7 +23,7 @@ When Sam went upstairs, Mrs. theskinnyonbenny tried to go to the kitchen to make
 
 So here's the situation:  Mrs. theskinnyonbenny and me, locked in our bedroom.  There's a door to the outside, but it's dead bolted, and neither of us have our keys in the bedroom.  Sam doesn't hear us scream, and he doesn't answer the phone.  I'm wiped out, and mad as a damn hornet by this time.
 
-<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/ben_dogdoor.jpg"  width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666><b>Yes, I fit through this door.</b></font></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 align=right><tr><td width=5 rowspan=2><spacer type=block width=5 height=1></spacer></td><td width=275><img src="/img/ben_dogdoor.jpg"  width=275 aborder=0 vspace=4/></td></tr><tr><td width=275><font face="verdana, arial, geneva" size=1 color=#666666>**Yes, I fit through this door.**</font></td></tr></table>
 
 I finally decided that I had to go out the dog door.  I stuck my legs out and immediately realized that it was cold outside.  I was squiggling like a snake, trying to find the angle that would allow my ass to fit through.  Then, my shoulders didn't want to go, and I thought I would be stuck for a minute.  Meanwhile, my legs dangle over the dog balcony and hover a couple feet higher than the ground.  (Clearly, our dog door setup is unconventional).
 

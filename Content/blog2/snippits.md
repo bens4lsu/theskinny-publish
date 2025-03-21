@@ -54,7 +54,7 @@ Have you ever wondered about the expression, "It opens up a can of worms?"  It's
 
 My suggestion is this:  It opens up a can of fleas.
 
-Now <i>that</i> would be trouble.
+Now *that* would be trouble.
 
 
 <center><img src="/img/greenline.gif" /></center>

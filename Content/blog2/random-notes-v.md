@@ -11,7 +11,7 @@ Forbes posted a list of the <a href="https://www.forbes.com/2005/11/29/forbes-fi
 
 Before I knew who was on the list, I guessed Richie Rich and Daddy Warbucks.  What do you know?  Numbers 2 and 3!  Benny knows fake rich people!
 
-Number one was Santa Claus.  Clearly, that's a bogus selection, prompted by the season.  Their logic was that Santa must have infinite money in order to provide toys to all of the children, but obviously don't understand Santa.  He does all of this with <i>magic</i>, not money.  Fools.
+Number one was Santa Claus.  Clearly, that's a bogus selection, prompted by the season.  Their logic was that Santa must have infinite money in order to provide toys to all of the children, but obviously don't understand Santa.  He does all of this with *magic*, not money.  Fools.
 
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 

@@ -14,7 +14,7 @@ We set sail under full main and genoa furled to about 120%.  The first waypoint 
 
 As we rounded the peninsula -- goose point, it happens to be called -- the wind fluttered around a bit, making it difficult to keep the sails set and stay on course.  It settled down to blow from just the direction that I needed to go.  By this time, we had sailed for a couple of hours, and we had to be thinking about the rain that was imminent.  I cranked the motor and headed into the wind.
 
-As pleasant as it is to sail, it is just about equally <i>un</i>pleasant to motor in a sailboat.  It is slow (compared to other motoring boats -- not compared to the same boat under sail), it rolls around more, and worst of all, it's noisy.
+As pleasant as it is to sail, it is just about equally *un*pleasant to motor in a sailboat.  It is slow (compared to other motoring boats -- not compared to the same boat under sail), it rolls around more, and worst of all, it's noisy.
 
 I switched on the VHF radio to listen to the faster motor boats ask for and receive draw bridge openings.  I never bother to check local notices to mariners, and as I approach a bridge -- especially one that is four hours from home -- it occurs to me that they might just say, "Sorry, the railroad track is under construction today.  There will be no openings."
 
@@ -60,7 +60,7 @@ At around 16:30, it started to rain, but this seemed like a productive list of t
 
 
 <h2>March 31:  Interior Cleanup</h2>
-<skinny:nohome><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="275"><img src="/img/ve/s1/ve_docked.jpg" width="275"></td></tr><tr><td width="275" class="caption"><i>Velvet Elvis</i> tied up in the back yard.</td></tr></table></skinny:nohome>
+<skinny:nohome><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="275"><img src="/img/ve/s1/ve_docked.jpg" width="275"></td></tr><tr><td width="275" class="caption">*Velvet Elvis* tied up in the back yard.</td></tr></table></skinny:nohome>
 
 This was a similar day to the one before, but my attention was on the cabin.
 <ul>

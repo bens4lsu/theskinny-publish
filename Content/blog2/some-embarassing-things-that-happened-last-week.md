@@ -15,8 +15,7 @@ Four or five minutes later, I answered the phone, and he told me that Vanya's te
 
 I'm not sure if this is coincidental, but they decided to move Vanya up to the next class, which puts him in a different building than Sharple's baby.
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 "Have you looked at the schedule on the usta web site?"
 
 "Web site?  There's a web site?"
@@ -25,8 +24,7 @@ I'm not sure if this is coincidental, but they decided to move Vanya up to the n
 
 "By 'all of our information', you mean all of our tennis stats, right?  Not things like the picture of me wearing Cathy Michaels' panties back from college, I hope."
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 In other embarassment-meets swimwear news, there's this from Saturday:
 
 Mrs. theskinnyonbenny took the toddler for a paddle in the kayaks.  She reluctantly wore a life jacket -- at my strong suggesting -- in case the kid rocked the boat to the point where it was upside down.  I've never actually witnessed anyone accidentally tump a kayak in placid, protected water, but it happens.

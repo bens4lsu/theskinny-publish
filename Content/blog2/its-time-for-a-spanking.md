@@ -15,7 +15,7 @@ But pretending that I could pull it off, it would go something like this:
 
 Me:  Um, sweetie.... I was thinking... I think it might be really swell if you would...um...if you would...well, if you would drop my drawers and give me a spanking.
 
-Heather:  You <i>what</i>?
+Heather:  You *what*?
 
 Me:  Seriously.  It would be cool.
 
@@ -25,6 +25,6 @@ I stammer out the request again.
 
 Heather:  You must be out of your mind.  Where did you come up with such a thing?
 
-Now consider the odd situation that would occur after you have been on the receiving end of a spanking.  You and the wife are disagreeing on some aspect of family life.  Maybe it's where to send the kids to school; maybe it's whether to vacation in Hawaii or in Vancouver.  If you just got a spanking the night before, then you instantly lose that arguement.  No questions asked.  All the wife has to say is, "Shut up.  You actually let me <i>spank </i>you last night."  How could you argue?
+Now consider the odd situation that would occur after you have been on the receiving end of a spanking.  You and the wife are disagreeing on some aspect of family life.  Maybe it's where to send the kids to school; maybe it's whether to vacation in Hawaii or in Vancouver.  If you just got a spanking the night before, then you instantly lose that arguement.  No questions asked.  All the wife has to say is, "Shut up.  You actually let me *spank *you last night."  How could you argue?
 
 So let's close with a challenge:  in the next day, approach your wife, husband, boyfriend, girlfriend (or boss, stranger, friend.  Whoever) as seriously as you can, and ask for a spanking.  Let us know how it goes.  If I get any emails on this, I'll post a follow-up.

@@ -14,7 +14,7 @@ No, I'm not compounding my bubble bath story by waxing poetic about Ingrid Micha
 
 One morning, I was headed out of my fraternity house room on my way to class.  With one foot out the door, I stopped turned back, put the most annoying song I could think of on Repeat, cranked the stereo as loud as it would go, locked the door, and sprinted out the building.
 
-It's a certainty that everyone left in the building on a mid-afternoon school day was trying to sleep, trying to study, or trying to masturbate.  And all of that came to a screeching halt the second or third time that they heard the unmistakable intro beats of Phil Collins's <i>Sussudio</i>.
+It's a certainty that everyone left in the building on a mid-afternoon school day was trying to sleep, trying to study, or trying to masturbate.  And all of that came to a screeching halt the second or third time that they heard the unmistakable intro beats of Phil Collins's *Sussudio*.
 
 When I got back some hours later, someone had found the circuit breaker to my room, and my power was out.  
 

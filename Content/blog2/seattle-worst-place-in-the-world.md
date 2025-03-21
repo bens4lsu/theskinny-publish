@@ -5,7 +5,7 @@ description: A description of my post.
 tags: pop-culture
 id: 1352
 ---
-I just can't seem to bring myself to watch this week's episode of <i>The Killing</i>.  I haven't decided to make the step of "firing" it (which is when I delete the TIVO subscription for it to auto-record), but it's definitely on paid leave.
+I just can't seem to bring myself to watch this week's episode of *The Killing*.  I haven't decided to make the step of "firing" it (which is when I delete the TIVO subscription for it to auto-record), but it's definitely on paid leave.
 
 I wasn't one of the viewers that was very upset with the fact that they didn't solve the murder on the finale to season one.  In fact, I stubbornly continued to think that despite the forged evidence, they had the right guy.  But of course, they didn't.  We had to set up a whole season of tail-chasing so that we can finally find out who the murderer is at the end of the second season.
 

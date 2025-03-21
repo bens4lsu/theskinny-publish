@@ -9,7 +9,7 @@ On Tuesday, July 28, theskinnyonbenny family found ourselves in a rental house o
 
 The scenic route was just barely scenic, and even then, only once we were 90% of the way to our destination.  Mrs. theskinnyonbenny was navigating using a state map of Tennessee, and once we got close, we didn't really have any idea how to get to the park.  The highway we were traveling was littered with little shacks where you can rent inner tubes to float down their local river, and it was decided that I would go in to get directions.
 
-I pictured myself rolling out of a mini van (with Illinois plates) and into the shack with an obnoxious, "CAN YOU ALL TELL ME HOW TO GET TO <I>DOLLYWOOD</I> FROM HERE?"  But I found a room full of such simpletons, that my self consciousness evaporated immediately.
+I pictured myself rolling out of a mini van (with Illinois plates) and into the shack with an obnoxious, "CAN YOU ALL TELL ME HOW TO GET TO *DOLLYWOOD* FROM HERE?"  But I found a room full of such simpletons, that my self consciousness evaporated immediately.
 
 The directions that they gave were precise, but unfortunately, they were wrong.  The omission of a critical right turn left us pulling into the parking lot of a deserted Black and Decker repair facility where we expected to find the parking lot.  But at about that time, the iphones figured out where we were, and popped directions to the park on their little screens.
 
@@ -43,7 +43,7 @@ We high-tailed it off the train and into the carousel line.  Once that ride was 
 
 After the rain stopped, the badness went out of the day.  It was still only around noon, and we spent the next several hours enjoying the rides.  The lady was right.  Twenty years ago, I remember there being one main roller coaster, and it wasn't much.  Now, they have many really nice roller coasters, and many rides that are safe enough for my tall little boy but still scary enough to make him cry.  He did enjoy the boats where you spray water on each other, and after that, we found a splash park, where the kids can soak themselves through and through.  Had we found that early, he and I might have spent the whole day up there.  Looking back, I really enjoyed this park.
 
-Brent and I spent the afternoon looking for the largest ankles on a woman that we could find.  Have you ever watched a football show where they show a rather close up view of a trainer wrapping a player's giant ankle?  We're talking about a 300 pound player, with an ankle that's swollen.  Those ankles wouldn't have made the top 20 biggest ankles of Dollywood on July 28, 2010.  We saw ankles with <i>rolls</i>.  Not just on one lady, but on several.  I don't think we could declare a firm winner, but there were four or five women whose ankles were the size of one of our kids' waists.
+Brent and I spent the afternoon looking for the largest ankles on a woman that we could find.  Have you ever watched a football show where they show a rather close up view of a trainer wrapping a player's giant ankle?  We're talking about a 300 pound player, with an ankle that's swollen.  Those ankles wouldn't have made the top 20 biggest ankles of Dollywood on July 28, 2010.  We saw ankles with *rolls*.  Not just on one lady, but on several.  I don't think we could declare a firm winner, but there were four or five women whose ankles were the size of one of our kids' waists.
 
 <table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/dollywoodkids3.jpg"></td></tr><tr><td class="caption" width="250">The drive home.  Because of a critically low camera battery, I only got a handful of pictures from this day.  And only one of those includes any of the grown ups.  It didn't make the cut for this post, but when I get the whole photo set up on the <a href="/pgHome.php" target="_blank">photo gallery page</a>, it will be there.</td></tr></table>
   
@@ -57,4 +57,4 @@ Suppose you're sitting outside at night, and a mosquito comes into the area.  Mo
 
 My rum went down easily, and the next thing I knew, it was 4:00 AM.  Can you imagine?  I would have said that it would be impossible for four adults to get up early, drive to an amusement park, spend the entire day herding kids through the park, drive back, and then sit up until 4:00 drinking.
 
-We <i>are</i> super heroes.  
+We *are* super heroes.  

@@ -7,7 +7,7 @@ Our itenerary to Russia gave us an inexpensive fare, at the tradeoff of a 6-hour
 
 The flight took off just after 4:30.  It was a little late, but not by a lot.  As I often do, I fell asleep during takeoff.  I woke up thinking that 20 or 30 minutes had passed, but I soon realized that I had slept three hours, missing botht the first drink service and the airline dinner.  I hadn't even reclined my seat yet.
 
-I read the bulk of <a href="http://www.amazon.com/Jesus-Land-Memoir-Julia-Scheeres/dp/1582433542/ref=pd_bbs_sr_1/103-1188859-8983013?ie=UTF8&s=books&qid=1174445606&sr=8-1" target="_blank"><i>Jesus Land</i></a> an interesting book, which I can go ahead and recommend.  I took another nap, and woke up in time for breakfast.
+I read the bulk of <a href="http://www.amazon.com/Jesus-Land-Memoir-Julia-Scheeres/dp/1582433542/ref=pd_bbs_sr_1/103-1188859-8983013?ie=UTF8&s=books&qid=1174445606&sr=8-1" target="_blank">*Jesus Land*</a> an interesting book, which I can go ahead and recommend.  I took another nap, and woke up in time for breakfast.
 
 We arrived at the Moscow airport on Tuesday at around 10:30 in the morning local time.  It had been about 30 hours since we left home.
 

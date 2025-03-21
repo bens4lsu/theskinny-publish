@@ -42,7 +42,7 @@ While I'm doing a sports post, I might as well make a couple of basketball notes
 
 First of all, Tack Minor played something like 20 minutes against UConn this weekend without a single turnover.  Despite the fact that it seems like Minor is into his sixth or seventh year of college basketball (didn't he replace TJ Pugh as point guard in the early 90s?), I doubt he has ever had a turnover-free game before.  He's the college basketball equivalent of Devry Henderson -- he either makes a huge play, or drops a wide-open pass.
 
-I'm gonna go ahead and make the call that the Hornets should move permanently to Oklahoma City.  They brought out 16,000 fans in an ice storm last night to see a team devoid of all its stars.  Desmond Mason led the team in scoring.  They will <i>never</i> have that sort of support in New Orleans, no how rebuilt and prosperous the city becomes.
+I'm gonna go ahead and make the call that the Hornets should move permanently to Oklahoma City.  They brought out 16,000 fans in an ice storm last night to see a team devoid of all its stars.  Desmond Mason led the team in scoring.  They will *never* have that sort of support in New Orleans, no how rebuilt and prosperous the city becomes.
 
 For the first time since the Michael Jordan era, I find myself looking for games where I have no regional rooting interest.  I'm looking for the Suns.  The way they move the ball around is unlike any NBA team that I've seen, and it's amazing to watch.  I've always been a fan of the assist and have occasionally gotten chill bumps at a perfectly executed bounce pass through traffic.  The Suns do it all the time.  I was watching Sports Center Friday morning, and out slipped an "Oh my God!"
 

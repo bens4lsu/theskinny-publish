@@ -6,7 +6,7 @@ tags: travel
 id: 2126
 ogImg: /img/gal/145%20-%20Pacific%20Northwest%20Pt.%201/data/normal.jpg
 ---
-For the first time in many years, we went on Summer vacation without taking the helm of a sailboat.  Instead, I took the helm of the motor van <i>San Clemente</i> for a tour of the Pacific Northwest.  We started out north of Seattle, ferried through the San Juan Islands of Washington, crossed over the Vancouver island in Canada.  From there, we crossed British Columbia and visited several Canadian National Parks in their Rocky Mountain range.  Finally, we circled back into Washington for a few days before heading home.
+For the first time in many years, we went on Summer vacation without taking the helm of a sailboat.  Instead, I took the helm of the motor van *San Clemente* for a tour of the Pacific Northwest.  We started out north of Seattle, ferried through the San Juan Islands of Washington, crossed over the Vancouver island in Canada.  From there, we crossed British Columbia and visited several Canadian National Parks in their Rocky Mountain range.  Finally, we circled back into Washington for a few days before heading home.
 
 It was an excellent trip.  The people of Washington and British Columbia must be like "aw, yeah, hmmmm..." every time they go somewhere for the scenery, as it's very hard to match what they left behind.  A lot like us in Louisiana sampling food at our travel destinations.  (I will give the nod to Pacific oysters over Gulf oysters, but on the other hand, you pay for them.)
 
@@ -40,7 +40,7 @@ She looked right up at us, but then moved across the road with little apparent i
 
 Once we got out of bear eyesight, we nosily made our way back to camp, undid the van, and drove the phone to the woman.
 
-<b>Stats and quick hits</b>
+**Stats and quick hits**
 
   <table style="border-collapse:collapse;">
     <tr style="border-bottom:1px solid black; padding:1em;">
@@ -79,7 +79,7 @@ Once we got out of bear eyesight, we nosily made our way back to camp, undid the
     </tr>
 
     <tr style="border-bottom:1px solid black; padding:1em;">
-      <td style="vertical-align:top; padding:1em;"><em>San Clemente</em> mileage</td>
+      <td style="vertical-align:top; padding:1em;">*San Clemente* mileage</td>
 
       <td style="vertical-align:top; padding:1em;">155000</td>
     </tr>

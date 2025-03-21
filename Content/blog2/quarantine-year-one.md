@@ -19,7 +19,7 @@ At home, Mrs. theskinnyonbenny fired the people who had started to replace our b
 This morning, I made this list of mealtime rules to be in effect until the end of quarantine.
 
 
-<b>Breakfast</b>
+**Breakfast**
 
 <ul>
 <li>If you're heating up a bagel or making toast, knock yourself out.</li>
@@ -28,7 +28,7 @@ This morning, I made this list of mealtime rules to be in effect until the end o
 </ul>
 
 
-<b>Lunch</b>
+**Lunch**
 
 <ul>
 <li>During the quarantine, there is no such thing as lunch.  If you get hungry after breakfast and before dinner, make a sandwich or snack of some sort.  Mom and I are working, and we're not gonna scrutinize your nutrition during the day.</li>
@@ -37,7 +37,7 @@ This morning, I made this list of mealtime rules to be in effect until the end o
 </ul>
 
 
-<b>Dinner</b>
+**Dinner**
 
 <ul>
 	<li>After a day at my desk followed by cooking for you, the last thing I want is for you to pop up from 6 straight hours of video games to tell me the food is gross.  We're eating pretty damn well for people who aren't going to the store every day.  Make a plate and take a taste of everything.  If you don't eat it, it will be there for lunch tomorrow.

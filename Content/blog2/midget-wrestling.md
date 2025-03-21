@@ -19,7 +19,7 @@ Followed, about 10 minutes later by Stacie:
 
 So, with that amount of planning, we had plans to see m----ts wrestle.
 
-During the day on Friday, Shelly called to ask me if there was a difference between a m----t and a hobbit.  What can you really reply?  I went with something like, "Um, <i>yeah</i>, a m----t is real.  A hobbit is make-believe."
+During the day on Friday, Shelly called to ask me if there was a difference between a m----t and a hobbit.  What can you really reply?  I went with something like, "Um, *yeah*, a m----t is real.  A hobbit is make-believe."
 
 She went on to ask about whether a dwarf was real, and if so, what the difference was.  After I explained the difference (with a huge deficit of actual knowledge, but convincingly, nevertheless), Shelly seemed satisfied to end my unplanned excursion to trivia-world.  But she did manage to tell me something along the lines of my having no life, as she was leaving work around 3:00 to buy m----t wrestling tickets.
 

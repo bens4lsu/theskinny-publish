@@ -15,11 +15,11 @@ After brunch, we slid over to Henderson to launch into Henderson lake, which is 
 
 I chose the first boat ramp that we hit, and the ground was covered in wet, rotting weeds.  Amazingly, it smelled like dead animals.  Jambalaya shop anyone?
 
-We launched on the west side, and quickly paddled to an area that is primarily moss covered Cypress trees and water hyacinth.  This is a <i>very</i> good paddle.  We didn't see any alligators or snakes (is that good or bad?), but there were plenty of birds.
+We launched on the west side, and quickly paddled to an area that is primarily moss covered Cypress trees and water hyacinth.  This is a *very* good paddle.  We didn't see any alligators or snakes (is that good or bad?), but there were plenty of birds.
 
 The folks out fishing are friendly to the paddlers.  I have to admit, I did get made fun of for not knowing what duckweed was.  If you get caught in a conversation about marsh plants, just pretend like you do know duckweed.  Trust me on this one.
 
-<div class="pg-instruction-box caption"><b>Lessons Learned</b><ol><li>Bring a map and a compass.  Just for the assurance.</li><li>Omlettes beforehand can lead to heartburn.</li><li>Go early in the morning when it's June.  Louisiana is hot and humid as the Jurassic period.</li></ol></div>
+<div class="pg-instruction-box caption">**Lessons Learned**<ol><li>Bring a map and a compass.  Just for the assurance.</li><li>Omlettes beforehand can lead to heartburn.</li><li>Go early in the morning when it's June.  Louisiana is hot and humid as the Jurassic period.</li></ol></div>
 
 I know it is stupid, but we did go out without a map or compass.  I can see where it might get easy to get turned around out there, but we never got too far out of sight of the levee, and I figured as long as I follow the levee, I'll get back to where I started (or at least to some civilized spot).
 

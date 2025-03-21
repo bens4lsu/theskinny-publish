@@ -32,7 +32,7 @@ Let's look at some of the worst of the comics that The Advocate is considering k
 
 <strong>For Better or Worse</strong> -- Even worse than bad puns, neurotic women, and non-funny African Americans is a comic that intentionally tries to be NOT funny.  We can get our cute turn or sappy smile by turning the page to Ann Landers.  Leave the comic strips to comedy (bad or not).
 
-<strong>Garfield</strong> -- Remember when Garfield was a new comic, and people went ape-shit about how funny it was?  "The cat eats <i>lasagna</i> HAHAHAHAHAHAHAHA!"  Well, absolutely nothing new has happened since.  For 20 years, we've been reading, looking for that original bit that must show up sooner or later.  To say that Jim Davis is mailing it in is to point out a waste of postal resources.
+<strong>Garfield</strong> -- Remember when Garfield was a new comic, and people went ape-shit about how funny it was?  "The cat eats *lasagna* HAHAHAHAHAHAHAHA!"  Well, absolutely nothing new has happened since.  For 20 years, we've been reading, looking for that original bit that must show up sooner or later.  To say that Jim Davis is mailing it in is to point out a waste of postal resources.
 
 <strong>Hagar the Horrible</strong> -- Here's the gag:  he's a Viking who loots castles, but treats that looting like a normal 9 to 5 job.  And his wife still rules the roost.  Not much, for sure.  You would have to have a lot of nerve to run that same gag day after day for thirty years, wouldn't you?  Well, someone has just that much nerve.
 

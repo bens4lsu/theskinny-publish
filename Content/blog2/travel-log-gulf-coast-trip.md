@@ -5,7 +5,7 @@ description: A description of my post.
 tags: travel,sailing
 id: 1813
 ---
-<em>Saturday, June 14</em>
+*Saturday, June 14*
 
 We left Slidell at 6:00 AM under a cover of bugs.  It's been a long time since we've hung with so many gnats and mosquitos, and they stuck with us for at least an hour.  Then, in a scene right out of a cartoon movie, and army of dragonflies showed up and ran them off.  The dragonflies stayed around for a long time too, and there must have been a couple of dozen flying along and resting on the lifelines.  We didn't mind them, and the boys got out the net to practice insect catch and release.
 
@@ -19,7 +19,7 @@ I discovered one problem with sailing East:  The afternoon sun dips below the bi
 
 V got seasick late, so at dusk, we slid behind the last of the barrier islands and dropped anchor for the night.  Dinner was a box pasta dish and a frozen pizza.  
 
-<em>Sunday, June 15</em>
+*Sunday, June 15*
 
 We motored behind Petit Bois island and turned out into the Gulf.  We sailed along pretty quickly for most of the morning.  In contrast to the beaches, the Alabama waterfront isn't nearly as pretty as Mississippi's.  We only had to avoid a few fishing boats, but the rigs were all over the place.  The final few hours of the day, we motored to Pensacola, as V was getting seasick again, and we wanted to stop at a marina and feel the ground under his feed for a little while.
 
@@ -41,11 +41,11 @@ I'm very perceptive while I walk.
 
 The cool part of town ends suddenly, and there's just the crappiest city in the world right beyond that.  I ducked into the first convenience store, make my buy, and got back to the boat.
 
-<em>Monday, June 16</em>
+*Monday, June 16*
 
 We're getting good at living aboard,  After leaving without incident, Mrs. theskinnyonbenny manned the helm, while I made eggs, hash browns, and coffee for everyone.  Breakfast was served just as we pulled out of the bay into the flattest, glassiest ocean that I've ever seen.  We got everyone dressed, teeth brushed, and settled into a couple of hours of motoring toward Destin.  V and Mrs. theskinnyonbenny are taking a nap, and K is using the iPad to draw pictures.  I've been able to get some work done and to update this text file.  Perhaps I'll even go ahead and post it!
 
-<em>Later</em>
+*Later*
 
 <a class="lightview alignright" href="http://theskinnyonbenny.com/img/gal/113%20-%202014%20Vacation%20-%20Northern%20Gulf%20Coast/resIMG_20140616_164220_2376.JPG" data-lightview-caption="Playing tourists in Destin.
 " data-lightview-group="group1"><img src="http://theskinnyonbenny.com/img/gal/113%20-%202014%20Vacation%20-%20Northern%20Gulf%20Coast/resIMG_20140616_164220_2376.JPG" alt="http://theskinnyonbenny.com/img/gal/113%20-%202014%20Vacation%20-%20Northern%20Gulf%20Coast/resIMG_20140616_164220_2376.JPG" width="350px"><br><span class="caption alignright">Playing tourists in Destin.
@@ -55,7 +55,7 @@ We spent the evening and night in Destin Harbor, a good anchorage that is packed
 
 That was a fun afternoon.  V spent a lot of time figuring out the nuances of the motor.  He's becoming a real seaman on this trip.  Since our docking mishap, he's asking about affects of the wind on the boat.  He's watching for other boats and taking care to avoid them by great margins.  I'm proud of him.
 
-<em>Tuesday, June 17</em>
+*Tuesday, June 17*
 
 It occurs to me that it might be hard to figure out what we're doing during the day.  There isn't really much to it.
 
@@ -72,7 +72,7 @@ We had an easy sail today to an anchorage behind St. Joseph island (or is it a p
 
 At dark, we came back to the boat for hot dogs and noodles, followed by movie night on the laptop.  Our early mornings have meant that we don't spend much time after dark sitting up on deck and exercising our livers until the small hours.  We'll have to setp that up over the end of the trip.
 
-<em>Wednesday, June 18</em>
+*Wednesday, June 18*
 
 Well, I guess I'm not going to get this posted promptly, as I haven't done it yet, and now we're out in the ocean without service.  You wouldn't believe how flat and calm it can be out here.  Motoring most of the day, as there's almost no wind, and what wind there is is right on our bow.  We saw a few more dolphins and some flying fish.  Nothing else really exciting to report for now.
 
@@ -82,11 +82,11 @@ Our generator shut itself off last night with a warning about raw water intake. 
 
 On a more pressing boat note, the vacuum that sucks the nasty bits out of the head has given up on its very short life.  Out here, I can pump it overboard instead of having it sucked into a tank, but it's a cumbersome process, and I'd like to just let everyone flush away their own "black water," as the manual calls it.
 
-I've just about finished reading <i>All Fishermen Are Liars</i>, by John Gierach.  I like fly fishing a lot, even though I never actually participate in it.  If we were just drifting along slowly, I'd throw a line over to see if we could get anything.  I'd call it a must-read if you like fly fishing.  A should-read if you just like outdoorsy stories in general.
+I've just about finished reading *All Fishermen Are Liars*, by John Gierach.  I like fly fishing a lot, even though I never actually participate in it.  If we were just drifting along slowly, I'd throw a line over to see if we could get anything.  I'd call it a must-read if you like fly fishing.  A should-read if you just like outdoorsy stories in general.
 
 This passage is expected to last through the night.  We're planning to do three-hour watches.  I'm really hoping for watches under sail instead of with this wretched motor noise.
 
-<em>...but I need more!</em>
+*...but I need more!*
 
 Lots more pictures from these days are <a href="http://theskinnyonbenny.com/pg4.php?spgmGal=113%20-%202014%20Vacation%20-%20Northern%20Gulf%20Coast">over here</a>.
 

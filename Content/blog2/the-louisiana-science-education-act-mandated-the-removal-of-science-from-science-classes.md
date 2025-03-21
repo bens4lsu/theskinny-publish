@@ -16,7 +16,7 @@ This is a rally at the Louisiana State Capitol in support of SB 70, a bill spons
 Visit <a href="http://www.repealcreationism.com/" target="_blank">www.repealcreationism.com</a> for more information about this effort. 
 Click <a href="https://www.facebook.com/event.php?eid=209023669116019&index=1" target="_blank">here</a> for more information about this event.</blockquote>
 
-If you've read for long, you understand that I'm not particularly interested in politics.  And I'm especially uninterested in <i>your</i> politics.  But we should agree that it's shameful that a high school student feels the need to petition his state legislature so that his science class can be free to teach, uhm, actual science.
+If you've read for long, you understand that I'm not particularly interested in politics.  And I'm especially uninterested in *your* politics.  But we should agree that it's shameful that a high school student feels the need to petition his state legislature so that his science class can be free to teach, uhm, actual science.
 
 For those who have forgotten science, it's the process by which facts are revealed to humanity.  Someone has an idea, and then looks to verify that idea through observation, measurement, and study of the properties of things from sub-atomic particles to the movement of galaxies.  
 

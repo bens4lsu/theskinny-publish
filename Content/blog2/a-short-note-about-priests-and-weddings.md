@@ -5,7 +5,7 @@ description: I read this article in Sunday's New York Times.  My first reaction 
 tags: my-stories
 id: 143
 ---
-I read <a href="http://www.nytimes.com/2005/10/02/fashion/sundaystyles/02TRASHERS.html" target="_blank">this article</a> in Sunday's <i>New York Times</i>.  My first reaction was, "What crazy people.  Who would behave like this at someone else's wedding?"
+I read <a href="http://www.nytimes.com/2005/10/02/fashion/sundaystyles/02TRASHERS.html" target="_blank">this article</a> in Sunday's *New York Times*.  My first reaction was, "What crazy people.  Who would behave like this at someone else's wedding?"
 
 Then I remembered that at a close friend's wedding reception, the groom's father got into an angry shouting match with the priest who presided, and threatened to drop an ass-kicking on him.  I'm pretty sure alcohol was involved there.
 

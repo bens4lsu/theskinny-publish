@@ -7,11 +7,11 @@ id: 465
 ---
 Shelly sent me this one from <a href="http://overheardinnewyork.com" target="_blank">Overheard In New York</a>.
 
-<blockquote><b>Mother to daughter wearing a Pink Princess backpack:</b> Hold up, honey, mommy needs to get something out of your bag.
+<blockquote>**Mother to daughter wearing a Pink Princess backpack:** Hold up, honey, mommy needs to get something out of your bag.
 
-<b>(mother removes pack of cigarettes and lighter from bag)
+**(mother removes pack of cigarettes and lighter from bag)
 
-Husband to wife:</b> You have no shame.</blockquote>
+Husband to wife:** You have no shame.</blockquote>
 
 Boy oh boy, was that every mother in the 70s and 80s or just mine?  For some reason, I've told this story a couple of times recently.  Because it's relevant and because it's on my mind, I'll tell it again.
 

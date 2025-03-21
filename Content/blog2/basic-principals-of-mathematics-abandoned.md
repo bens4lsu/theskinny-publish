@@ -16,7 +16,7 @@ Do you ever get a document whose paragraphs are numbered?  I see quite a few wit
 1.10
 1.11
 
-This bugs me.  Shouldn't paragraph 1.1 and paragraph 1.10 be the same thing?  1.1 is the same number as 1.10.  Similarly, paragraphs 1.11, 1.12, etc. should all come <i>before</i> paragraph 1.2.  It's just basic math.
+This bugs me.  Shouldn't paragraph 1.1 and paragraph 1.10 be the same thing?  1.1 is the same number as 1.10.  Similarly, paragraphs 1.11, 1.12, etc. should all come *before* paragraph 1.2.  It's just basic math.
 
 Sometimes, you even get more decimals.  As in paragraph 2.6.4.  I've even seen them go to 2.6.4.1.  These aren't even numbers.
 

@@ -1,11 +1,11 @@
 ---
 title: Football 2004 Recap
 date: 2004-12-06 21:15
-description: I don't know about the rest of you, but I'm tired of hearing people complain about how LSU did this season.  There are two reasons that these complaints are annoying.  First, we <b>just won the doggone national championship!</b>  And in fact, we are still the national champions for another month.  (Read that bold part again, and just try not to smile.)  More importantly, LSU had a good season this year.  Keep reading, and I'll back that up.
+description: I don't know about the rest of you, but I'm tired of hearing people complain about how LSU did this season.  There are two reasons that these complaints are annoying.  First, we **just won the doggone national championship!**  And in fact, we are still the national champions for another month.  (Read that bold part again, and just try not to smile.)  More importantly, LSU had a good season this year.  Keep reading, and I'll back that up.
 tags: sports, football
 id: 76
 ---
-I don't know about the rest of you, but I'm tired of hearing people complain about how LSU did this season.  There are two reasons that these complaints are annoying.  First, we <b>just won the doggone national championship!</b>  And in fact, we are still the national champions for another month.  (Read that bold part again, and just try not to smile.)  More importantly, LSU had a good season this year.  Keep reading, and I'll back that up.
+I don't know about the rest of you, but I'm tired of hearing people complain about how LSU did this season.  There are two reasons that these complaints are annoying.  First, we **just won the doggone national championship!**  And in fact, we are still the national champions for another month.  (Read that bold part again, and just try not to smile.)  More importantly, LSU had a good season this year.  Keep reading, and I'll back that up.
 
 First, let's talk more about the national championship. Let's agree right here and now that any team that wins it all can't complain before four more seasons have come and gone.  Do you really want to hear Yankees fans griping about what a raw deal they got this season?  I think four years is a good amount of time, because five years is how long we had to suffer through both the Dinardo and Hallman eras.  I don't think I missed a home game during the Hallman era, and in most of those games we were losing bad.  In the rain.  And up until 1991, I was probably there with an ugly date.  So don't even begin to tell me this season was disappointing.
 

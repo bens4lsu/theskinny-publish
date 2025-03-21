@@ -5,7 +5,7 @@ description: The new season of Six Feet Under has started.  I can't help but ref
 tags: pop-culture
 id: 125
 ---
-The new season of <a href="http://www.hbo.com/sixfeetunder/about/index.shtml" target="_blank"><i>Six Feet Under</i></a> has started.  I can't help but reflect that there is no other show in television history that has so many crazy people that you actually pull for.  In fact, just about everyone has at least the occasional conversation with dead people.  On top of that, they all have their own insanities and hang-ups.  There is rarely a scene without at least a hint of someone about to go over the edge.
+The new season of <a href="http://www.hbo.com/sixfeetunder/about/index.shtml" target="_blank">*Six Feet Under*</a> has started.  I can't help but reflect that there is no other show in television history that has so many crazy people that you actually pull for.  In fact, just about everyone has at least the occasional conversation with dead people.  On top of that, they all have their own insanities and hang-ups.  There is rarely a scene without at least a hint of someone about to go over the edge.
 
 <table>
 <tr>

@@ -1,11 +1,11 @@
 ---
 title: Book Review and Dream
 date: 2008-03-07 10:34
-description: The first book that I've actually finished in almost six months was <i>The Unconsoled</i> by Kazuo Ishiguro.  Like a couple of others that I had started and then abandoned, this one was tough to complete.  I needed a finished book to keep from feeling stupid, so I persevered.
+description: The first book that I've actually finished in almost six months was *The Unconsoled* by Kazuo Ishiguro.  Like a couple of others that I had started and then abandoned, this one was tough to complete.  I needed a finished book to keep from feeling stupid, so I persevered.
 tags: my-stories,books
 id: 355
 ---
-The first book that I've actually finished in almost six months was <i>The Unconsoled</i> by Kazuo Ishiguro.  Like a couple of others that I had started and then abandoned, this one was tough to complete.  I needed a finished book to keep from feeling stupid, so I persevered.
+The first book that I've actually finished in almost six months was *The Unconsoled* by Kazuo Ishiguro.  Like a couple of others that I had started and then abandoned, this one was tough to complete.  I needed a finished book to keep from feeling stupid, so I persevered.
 
 On the surface, it's just a story of a pianist who comes to town to do a performance, and who gets bombarded by requests from the locals for little favors, to the point that he can't keep up with his schedule, and is constantly missing what he was supposed to be doing.  But it all happens in the weirdest of ways.  It turns out that he's unfamiliar with the city and the people are unfamiliar with him, dispite the fact that he apparently lives with a woman and kid there in town.  At least once, he sees a scene taking place in a basement while he waits outside in a car.  In one chapter, he seems to read the private thoughts of people to whom he talks.  And there are lots of devices lifted right from the library of my dreams:  familiar objects appear way out of place (His childhood family car and friends from England show up there in town.), inappropriate dress/nudity (He attends a dinner in pajamas, which come open exposing him while he speaks.  No one thinks it's odd.), and that old dream staple where you travel on and on and on to somewhere, but then when it's time to go back, you're right through a trap door back to where you started.
 

@@ -1,17 +1,17 @@
 ---
 title: Practical Math
 date: 2007-07-09 23:07
-description: A description of my post.
+description: Say that you go out for pizza.  You want the sun-dried tomato and goat cheese pizza, but your wife wants hamburger meat and jalapeÃ±o peppers.  You might be inclined -- as we were last week -- to order two 10-inch pizzas.  But how much pizza are you really getting?
 tags: my-stories
 id: 307
 ---
-<b>The pizza order</b>
+**The pizza order**
 
 Say that you go out for pizza.  You want the sun-dried tomato and goat cheese pizza, but your wife wants hamburger meat and jalapeÃ±o peppers.  You might be inclined -- as we were last week -- to order two 10-inch pizzas.  But how much pizza are you really getting?
 
 I don't know how to type equations in a way that they'll show up on a web page, so I just did it in handwriting:
 
-<center><img src="/img/formula.jpg"></center>
+<a class="lightview centered" href="/img/formula.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/formula.jpg" alt="/img/formula.jpg"><br><span class="caption"></span></a>
 
 So, a single 14 inch pizza is pretty much the same amount of food as two 10 inch pizzas.
 
@@ -19,23 +19,21 @@ But look at the prices on the menu.  Two 10 inch pizzas is probably a whole lot 
 
 You're paying a lot more for the insurance that her jalapeÃ±o cooties don't creep over and contaminate your goat cheese.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-
-<b>Growth chart</b>
+**Growth chart**
 
 In the month that we've been home, our kid has gained a couple of pounds.  Doesn't sound like that big a deal, but he only started at 20 lbs.  What if he gained 10% per month every month until his 18th birthday?  I checked the figures, and lo and behold, he would weigh in at 3,798,105,529 pounds!  
 
 If that were to happen, we could launch him into space and build a small colony on his body for us to inhabit once we ruin the Earth.
 
-<center><img src="/img/greenline.gif"></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-
-<b>Swinging through all my cash</b>
+**Swinging through all my cash**
 
 The kboy likes to swing.  We have a borrowed baby swing, but without the help of its little electric motor, he gets it swinging to its max in no time at all, and tries to go even higher and faster.  Our back yard is too small for a squeaky suburban back yard swing set, but we do have some areas with seating and roofing or arbor overhead.  It shouldn't be too much trouble to tie a bigger baby swing up so that he can go.
 
-Well, we looked all over town, and we could only come up with a <a href="http://www.toysrus.com/product/index.jsp?productId=2330640" target="_blank">twenty dollar piece of crap</a>, or a nice looking wooden kid's swing that was priced at a hundred dollars.
+Well, we looked all over town, and we could only come up with a twenty dollar piece of crap, or a nice looking wooden kid's swing that was priced at a hundred dollars.
 
 Neither of these was what I was looking for.  So I decided to save money and build the swing myself.
 

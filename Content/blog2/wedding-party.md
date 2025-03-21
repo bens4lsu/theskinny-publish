@@ -26,7 +26,7 @@ Enough time has passed to fade the flood of fun times that I had originally inte
 <div style="padding-left:3em">Lisa:  So, just between us, does Mark have a big joint?
 
 Stacie:  I wouldn't know, being a virgin and all.
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/stacieWedding2.jpg"></td></tr><tr><td class="caption" width="250">Try not to think about whether Mark looks like that new homosexual trust lawyer character on <i>Big Love</i></td></tr></table>
+<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/stacieWedding2.jpg"></td></tr><tr><td class="caption" width="250">Try not to think about whether Mark looks like that new homosexual trust lawyer character on *Big Love*</td></tr></table>
 (Lisa returns from the restroom and sees this on her phone...)
 
 Lisa:  I'm SOOOOOO Sorry!  These guys had my phone while I was in the restroom.

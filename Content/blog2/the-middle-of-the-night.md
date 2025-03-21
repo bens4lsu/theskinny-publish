@@ -23,11 +23,11 @@ My favorite episode had Lassie stuck behind an electric fence.  "Don't try to ju
 
 After five minutes, it dawned on me that I had a better option.
 
-**3:35 - 5:35:**  Last couple of episodes of <i>Arrested Development</i>.
+**3:35 - 5:35:**  Last couple of episodes of *Arrested Development*.
 
 I borrowed the first season on DVD, having never caught an episode.  I've been watching an episode or two every night that I wake up at an ungodly hour and can't go back to sleep.
 
-<i>Arrested Development</i> and <i>The Office</i> are the two funniest new shows that I can remember in a long, long time.  Unfortunately, they both have ratings just north of 2:00 AM Lassie reruns.  I hope the networks keep these shows running.  I have to think that once people get used to the fact that there isn't a laugh track, they will keep watching.
+*Arrested Development* and *The Office* are the two funniest new shows that I can remember in a long, long time.  Unfortunately, they both have ratings just north of 2:00 AM Lassie reruns.  I hope the networks keep these shows running.  I have to think that once people get used to the fact that there isn't a laugh track, they will keep watching.
 
 I haven't seen any of season two.  I'm watching for those to start again in reruns.  Let me know if you notice it on your TV guide.
 

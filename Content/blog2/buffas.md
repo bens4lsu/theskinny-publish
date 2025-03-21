@@ -10,8 +10,8 @@ On Sunday, we went to the <a href="https://en.wikipedia.org/wiki/Voodoo_Music_%2
 
 Our original destination was <a href="https://portofcallnola.com" target="_blank">Port of Call</a>, which all regular visitors to New Orleans know well.  I had been talking off and on for at least an hour about how I was looking forward to one of their potatoes (yes, really).  But we got there, and it was packed to overflowing.  It seemed a long shot to get four spots at the bar near each other, and they only have 8 or 10 tables, so it was going to be a long, long time before we got to eat.
 
-<a class="lightview alignright" href="/img/buffas_steve.jpg" data-lightview-caption="Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.
-" data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_steve.jpg" alt="/img/buffas_steve.jpg"><br><span class="caption">Steve enjoys a Buffaburger in front of the shopping cart and a <i>Casablanca</i> movie poster.
+<a class="lightview alignright" href="/img/buffas_steve.jpg" data-lightview-caption="Steve enjoys a Buffaburger in front of the shopping cart and a *Casablanca* movie poster.
+" data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_steve.jpg" alt="/img/buffas_steve.jpg"><br><span class="caption">Steve enjoys a Buffaburger in front of the shopping cart and a *Casablanca* movie poster.
 </span></a>
 
 We walked back to a place that we had passed on our way over to Port of Call.  <a href="https://www.buffasbar.com" target="_blank">Buffa's</a> is right across Esplanade Blvd.  
@@ -35,7 +35,7 @@ Jodie ordered first.  "I'll have a cheeseburger."
 
 We each took a turn ordering Buffaburgers and drinks.
 
-<a class="lightview alignright" href="/img/buffas_tinman.jpg" data-lightview-caption="An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a <i>Gone With the Wind</i> movie photo, which ironically, beat out <i>The Wizard of Oz</i> for Best Picture whatever year that was." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_tinman.jpg" alt="/img/buffas_tinman.jpg"><br><span class="caption">An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a <i>Gone With the Wind</i> movie photo, which ironically, beat out <i>The Wizard of Oz</i> for Best Picture whatever year that was.</span></a>
+<a class="lightview alignright" href="/img/buffas_tinman.jpg" data-lightview-caption="An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a *Gone With the Wind* movie photo, which ironically, beat out *The Wizard of Oz* for Best Picture whatever year that was." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_tinman.jpg" alt="/img/buffas_tinman.jpg"><br><span class="caption">An uneven window in the back room at Buffas.  I happened to take this as the tin man was on his way in to the bar.  Above the window is a *Gone With the Wind* movie photo, which ironically, beat out *The Wizard of Oz* for Best Picture whatever year that was.</span></a>
 
 We hung out in there for a little while, watching the end of the Sunday night football game.  There was a small group of people in there, and it was very comfortable.  If I lived in that neighborhood, I would be in there all the time.
 
@@ -65,7 +65,7 @@ The burgers were huge, delicious, and far from well done.  I think it was a full
 
 <a class="lightview alignright" href="/img/buffas_lamp.jpg" data-lightview-caption="This setup of a lamp on top of encyclopedia volumes was set up at the end of our cafeteria-style table." data-lightview-group="group1" style="width:350px;"><img src="/img/buffas_lamp.jpg" alt="/img/buffas_lamp.jpg"><br><span class="caption">This setup of a lamp on top of encyclopedia volumes was set up at the end of our cafeteria-style table.</span></a>
 
-On his way out, Steve peeked through a window and into the kitchen.  He later reported that Buffa's is the <i>last</i> place that you want your meat less than fully cooked, but I'm still alive and relatively healthy.
+On his way out, Steve peeked through a window and into the kitchen.  He later reported that Buffa's is the *last* place that you want your meat less than fully cooked, but I'm still alive and relatively healthy.
 
 We played a little ping-pong after eating, and Steve and Jodie left to get the car while Mrs. theskinnyonbenny and I finished up with a shot of whiskey and paid the bill.
 

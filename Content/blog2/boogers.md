@@ -19,6 +19,6 @@ She gave it a quick sniff, then decided "Yes, thank you, I would like to eat tha
 
 Vanya's face scrunched up in look of horrid disgust.  It's an expression that I don't think I've seen on him before.
 
-"Her wants to <i>eat</i> that?"
+"Her wants to *eat* that?"
 
 "I guess so.  Dogs are gross."

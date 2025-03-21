@@ -7,7 +7,7 @@ id: 158
 ---
 Wednesday and Thursday last week were a pain in the ass.
 
-To start with, Wednesday is the one night of the week that I should be in front of the TV.  I haven't done too many posts this year about what I'm watching on TV, but if I ever get around to reviewing the good and the bad on TV this fall, then you will see that Wednesday is important.  For example, Wednesday at 8:00 is the only double-DVR hour of the week with <i>Lost</i>, <i>Veronica Mars</i>, and <i>Apprentice: Martha Stewart</i> vying for viewers.
+To start with, Wednesday is the one night of the week that I should be in front of the TV.  I haven't done too many posts this year about what I'm watching on TV, but if I ever get around to reviewing the good and the bad on TV this fall, then you will see that Wednesday is important.  For example, Wednesday at 8:00 is the only double-DVR hour of the week with *Lost*, *Veronica Mars*, and *Apprentice: Martha Stewart* vying for viewers.
 
 The last two weeks, I've left the DVRs churning to help handle Satchmo or Ella during their dog training.  (Satchmo is the one you might have seen in <a href="/dailyphoto/2005/20051102/">here</a>, and Ella is his sister.  I'm not complaining about that.  They are fun dogs, and I like working with them.  I thought Satchmo had proven that he wasn't as dumb as advertised when he nailed a "come and sit" drill right off the bat.  But then, he tried to eat three pebbles off the ground as class progressed.
 

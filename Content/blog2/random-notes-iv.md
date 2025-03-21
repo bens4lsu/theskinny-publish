@@ -45,7 +45,7 @@ But I recently learned that their writing is the same.  So a Mandarin can read s
 
 What's the equivalent of that for English?
 
-The best I could come up with would be if you dropped me in the neighborhood from the movie <i>Trainspotting</i>.  Although that was (presumably) in English, I couldn't understand a word that they said.  
+The best I could come up with would be if you dropped me in the neighborhood from the movie *Trainspotting*.  Although that was (presumably) in English, I couldn't understand a word that they said.  
 
 They spoke in clipped, short fast British syllables so that sentences sounded something like, "ankh buh wot va lock."
 

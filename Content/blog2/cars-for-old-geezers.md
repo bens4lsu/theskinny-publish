@@ -5,11 +5,11 @@ description: I saw a commercial for the local Lincoln/Mercury car dealership.  T
 tags: my-observations, commercials, pop-culture
 id: 15
 ---
-I made a personal goal this week to post five entries in five days.  That's getting to be a tough task.  It's not that I don't have plenty to rant about -- in fact, the more of these that I write, the more I think of.  (You can't tell that there's any self-editing here, but you should read some of the garbage that <i>doesn't </i>make it.)
+I made a personal goal this week to post five entries in five days.  That's getting to be a tough task.  It's not that I don't have plenty to rant about -- in fact, the more of these that I write, the more I think of.  (You can't tell that there's any self-editing here, but you should read some of the garbage that *doesn't *make it.)
 
 No, it's actually just lack of time today and tomorrow that keep me from lengthy and interesting thoughts to share.  Instead, I have a quick observation and comment that all sprung from an advertisement that I saw when I was getting dressed this morning.
 
-I saw a commercial for the local Lincoln/Mercury car dealership.  This particular commercial has the dealership full of young families:  30-somthing parents, with cute active kids.  The problem with this whole thing is that there's no way in hell that <i>any </i>of these people are going to buy a Lincoln or a Mercury.  I really thought that you had to be collecting social security before they would even let you into the dealership.  At the very least, they must have an AARP discount.
+I saw a commercial for the local Lincoln/Mercury car dealership.  This particular commercial has the dealership full of young families:  30-somthing parents, with cute active kids.  The problem with this whole thing is that there's no way in hell that *any *of these people are going to buy a Lincoln or a Mercury.  I really thought that you had to be collecting social security before they would even let you into the dealership.  At the very least, they must have an AARP discount.
 
 This local advertisement is no more rediculous than Tiger Woods pitching Oldsmobiles.  I can't really picture Tiger in his home town, showing up to pick up his hot young girlfriend in a giant Oldsmobile sedan.  I can't picture him stumbling out of the nightclub at four in the morning, and telling the valet, "it's the white Cutlass Supreme."
 

@@ -15,7 +15,7 @@ And it's not because my sister's cleaning lady posts before-and-after pictures o
 
 It's because Kolya jumped out of my Jeep at school drop off this morning, and sprinted full-bore toward the elementary building.  Excited to tell his friends and teacher that he got a fright this morning.
 
-He picked up his backpack to leave for school, only to find it occupied by a <i>giant, dying rat</i>.  Fuuuuuuuuck!
+He picked up his backpack to leave for school, only to find it occupied by a *giant, dying rat*.  Fuuuuuuuuck!
 
 Let's back up a little.
 

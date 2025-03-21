@@ -15,17 +15,17 @@ Now that that's off my chest, I'll get to the point that I came to make:  I am n
 
 This is a map of the Gulf Cost, with highlights for the distinct geopgraphical and social divisions that I've observed.
 
-<img src="/img/gulfcoastkey1.jpg"><b>The Sportsman's Paradise</b>  The part with few to no tourists, and which once upon a time had great fishing.  I actually extnd this through the first few miles of Mississippi, which in normal times is nothing but fishing vessels.
+<img src="/img/gulfcoastkey1.jpg">**The Sportsman's Paradise**  The part with few to no tourists, and which once upon a time had great fishing.  I actually extnd this through the first few miles of Mississippi, which in normal times is nothing but fishing vessels.
 
-<img src="/img/gulfcoastkey2.jpg"><b>Casinos</b>  Where fat people come from all over the south to smoke cigarettes in detestable casinos, and where there is not one single decent restaurant.
+<img src="/img/gulfcoastkey2.jpg">**Casinos**  Where fat people come from all over the south to smoke cigarettes in detestable casinos, and where there is not one single decent restaurant.
 
-<img src="/img/gulfcoastkey3.jpg"><b>Redneck Riviera</b>  Hillbillies from Texas to South Carolina flock to the white sand beaches of Alabama and Florida to stay in giant high rises, play miniature golf, eat fattning food, and buy crap at giant tourist trap shops.  It's a fine trip if you can sneak over during the school year, but during the summer, it's a place where overly religious SEC fans watch their fat rolls turn from fish belly white to lobster red.  
+<img src="/img/gulfcoastkey3.jpg">**Redneck Riviera**  Hillbillies from Texas to South Carolina flock to the white sand beaches of Alabama and Florida to stay in giant high rises, play miniature golf, eat fattning food, and buy crap at giant tourist trap shops.  It's a fine trip if you can sneak over during the school year, but during the summer, it's a place where overly religious SEC fans watch their fat rolls turn from fish belly white to lobster red.  
 
 I know that description sound comtemptuous, but it's an area that I've visited almost every year since childhood.  It's not that bad, and the sand and water is actually very nice.
 
-<img src="/img/gulfcoastkey4.jpg"><b>Unspoiled Florida</b>  Once you get past the high rises, Florida's coast goes native.  Florida's native white trash look and sound a lot different than the tourists who are in and out in the course of a week.  They live in crappy little houses, often not even elevated houses despite being right on the hurricane prone ocean.  The Florida natives are easy to spot due to their overly tanned and weathered aligator skin.  Not aligator skin shoes or jackets -- their physical skin has actually turned to aligator skin.  Florida Gators indeed.  My experience is that the people are quite nice, which is a shame, since the places to stay are more often than not a category of hotel known as "Shithole."
+<img src="/img/gulfcoastkey4.jpg">**Unspoiled Florida**  Once you get past the high rises, Florida's coast goes native.  Florida's native white trash look and sound a lot different than the tourists who are in and out in the course of a week.  They live in crappy little houses, often not even elevated houses despite being right on the hurricane prone ocean.  The Florida natives are easy to spot due to their overly tanned and weathered aligator skin.  Not aligator skin shoes or jackets -- their physical skin has actually turned to aligator skin.  Florida Gators indeed.  My experience is that the people are quite nice, which is a shame, since the places to stay are more often than not a category of hotel known as "Shithole."
 
-<img src="/img/gulfcoastkey5.jpg"><b>The Forgotten Coast</b>  What?  Beautiful beaches with no high rises?  Nice houses?  Tons of land preserved as state park or national forest?  There's a little section of coast that is nothing less than lovely, and I've never heard anyone recommend the drive past the Riviera.  I'm not sure why.
+<img src="/img/gulfcoastkey5.jpg">**The Forgotten Coast**  What?  Beautiful beaches with no high rises?  Nice houses?  Tons of land preserved as state park or national forest?  There's a little section of coast that is nothing less than lovely, and I've never heard anyone recommend the drive past the Riviera.  I'm not sure why.
 
 On our trip home, we ended up staying for a couple of days in this little dot.  And my pleasant surprise is really worth spending another couple paragraphs on.
 
@@ -38,5 +38,5 @@ We stayed in Apalachacola.  The downtown area was cool, with lots of places to e
 
 Similarly, we checked into the Water Street Hotel, expecting a run-of-the-mill room, and we got a huge suite, with a view from a screened porch out over the swamp.  The price was super-reasonable.
 
-<img src="/img/gulfcoastkey6.jpg"><b>Mosquitoville</b>  Many years ago, we went to a sailing school on an island off the coast here.  I would tell you all about it, except that on the second day, the mosquitoes kidnapped me.  They held me against my will for the rest of the week, occasionally giving me a beating, and raping me twice.  Other than the mosquitoes, it seemed a nice place for a visit.
+<img src="/img/gulfcoastkey6.jpg">**Mosquitoville**  Many years ago, we went to a sailing school on an island off the coast here.  I would tell you all about it, except that on the second day, the mosquitoes kidnapped me.  They held me against my will for the rest of the week, occasionally giving me a beating, and raping me twice.  Other than the mosquitoes, it seemed a nice place for a visit.
 

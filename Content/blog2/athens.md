@@ -23,4 +23,4 @@ We're in Athens' "downtown," which is about a 10 square-block stretch of bars, r
 
 I'll go ahead and make the early call that this is my favorite town in Georgia.
 
-The place we're staying is geared toward bulldogs who need a place to stay when they come in from out of town for game day.  I'm completely surrounded and saturated with the UGA gear.  I'm going to take pictures and put up a photo gallery at the end of our stay with all of the UGA shit.  I can not focus my eyes in this building without there being <i>something</i> that's black, red, or adorned with a bulldog.
+The place we're staying is geared toward bulldogs who need a place to stay when they come in from out of town for game day.  I'm completely surrounded and saturated with the UGA gear.  I'm going to take pictures and put up a photo gallery at the end of our stay with all of the UGA shit.  I can not focus my eyes in this building without there being *something* that's black, red, or adorned with a bulldog.

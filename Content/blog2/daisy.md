@@ -24,7 +24,7 @@ When I go to bed, she sleeps in the bedroom.  When I'm out of town, she sleeps i
 
 She didn't like separation.  For the first few years, when I would leave her in the car and go into a store, she would hang out the window and yelp like she was being tortured.  The first time we went together in my Jeep without the doors was to a nursery to buy plants.  She went right through the store and out to the yard.  I had to follow the sound of her jingling collar through a maze of shrubs to track her down.
 
-<a class="lightview centered" href="/img/daisy-sailing.jpg" data-lightview-caption="My First Mate on <i>Velvet Elvis</i>" data-lightview-group="group1"><img src="/img/daisy-sailing.jpg" alt="/img/daisy-sailing.jpg" style="max-width: 650px;"><br><span class="caption">My First Mate on <i>Velvet Elvis</i></span></a>
+<a class="lightview centered" href="/img/daisy-sailing.jpg" data-lightview-caption="My First Mate on *Velvet Elvis*" data-lightview-group="group1"><img src="/img/daisy-sailing.jpg" alt="/img/daisy-sailing.jpg" style="max-width: 650px;"><br><span class="caption">My First Mate on *Velvet Elvis*</span></a>
 
 A few weeks ago, Daisy seemed to come down with a cold.  The medicine didn't work, and they determined that she had an enlarged heart.  Heart medicine didn't work either.  She lost weight.  More vets, more tests, and declining health followed.  By the time cancer was diagnosed, her poor little body was full of it.
 

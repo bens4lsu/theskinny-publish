@@ -10,7 +10,7 @@ On the Friday night after the bonfire festival, Mrs. theskinnyonbenny and I drov
 
 We had a dinner reservation at Emeril's, where I had eaten a good -- but not mind-shatteringly delicious -- meal a couple of years ago.  The food was doubly as good this time.  Maybe not mind-shatteringly delicious, but it was really, really damned good.  So I guess Emeril has gotten back to what put him on the map:  making food.
 
-It's a little bit stunning the Emeril got so nationally famous so incredibly fast.  For the love of God, someone okayed him getting his own <i>sitcom</i>, despite the fact that he had never shown an inclination to being able to act and never showed a hint of ability to be funny.  I wonder who gave that one the green-light?  I bet that person's scooping leaves out of the swimming pools of more successful Hollywood types by now.
+It's a little bit stunning the Emeril got so nationally famous so incredibly fast.  For the love of God, someone okayed him getting his own *sitcom*, despite the fact that he had never shown an inclination to being able to act and never showed a hint of ability to be funny.  I wonder who gave that one the green-light?  I bet that person's scooping leaves out of the swimming pools of more successful Hollywood types by now.
 
 I'm off topic already, but the current celebrity chef who is getting way too much credit is Rachel Ray.  Why does anyone find her to be such a genius?  If there was a way to gamble on celebrities whose bubble is about to burst, I would take my K-Fed winnings and double down on Rachel.  
 

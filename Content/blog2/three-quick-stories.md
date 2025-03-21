@@ -46,7 +46,7 @@ Several years ago, I went to sailing school with my old man and Mrs. theskinnyon
 
 The big boat had a wheel, and they had tied a knot to one point on the arc of the wheel.  The instructor told us that the Turk's head indicated the point on the wheel where the rudder was lined up straight.
 
-I offered, "A <i>Turk's head!</i>  That's not very politically correct."
+I offered, "A *Turk's head!*  That's not very politically correct."
 
 "Well, that's what the knot is called," was my very serious reply.  There was no hint of amusement there.
 

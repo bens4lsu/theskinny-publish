@@ -19,7 +19,7 @@ I read several articles about the whole thing on the internet today.  Here's som
 
 Yet another article points out that Ms. Whitney's family has been breeding racehorses in Kentucky for three generations.  Do you think she could be a bit of a biiiitch?
 
-But for all of that, both Whitney and Edgar Prado actually <i>apologized</i> for winning the race.  They ruined everybody's good time and felt bad about it.  You've got to be kidding me.  They pulled the biggest upset of the decade.  They should be calling out all of the nay-sayers, saying that they knew their horse was something all along.  I truly don't understand that reaction.  Fortunately for them, Birdstone had more of a killer instinct than his owner and jockey.
+But for all of that, both Whitney and Edgar Prado actually *apologized* for winning the race.  They ruined everybody's good time and felt bad about it.  You've got to be kidding me.  They pulled the biggest upset of the decade.  They should be calling out all of the nay-sayers, saying that they knew their horse was something all along.  I truly don't understand that reaction.  Fortunately for them, Birdstone had more of a killer instinct than his owner and jockey.
 
 <a class="lightview alignright" href="/img/regulars.JPG" data-lightview-caption="Birdstone (bottom right), with a few other regulars last Christmas" data-lightview-group="group1" style="width:350px;"><img src="/img/regulars.JPG" alt="/img/regulars.JPG"><br><span class="caption">Birdstone (bottom right), with a few other regulars last Christmas</span></a>
 

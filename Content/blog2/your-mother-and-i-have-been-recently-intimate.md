@@ -33,7 +33,7 @@ Marcel was suspicious of the question, but still managed to answer.  "Uuhhh, she
 
 Without a pause, "BECUASE SHE WAS PRETTY SORE AFTER THE FUCKIN' I SLAPPED ON HER LAST NIGHT!"
 
-The old people reacted similarly to the old people dining near Rodney Dangerfield during the dinner in <i>Caddyshack</i>.  I was handed my new drink right about that time, and I fled the scene, hoping to be spared if anyone was going to be asked to leave.
+The old people reacted similarly to the old people dining near Rodney Dangerfield during the dinner in *Caddyshack*.  I was handed my new drink right about that time, and I fled the scene, hoping to be spared if anyone was going to be asked to leave.
 
 But I have been laughing at that line ever since.
 

@@ -9,11 +9,11 @@ Here's another overheard that Shelly recently sent.  Her email included the note
 
 <blockquote><a href="http://www.overheardinnewyork.com/archives/005563.html" target="_blank">The Five-Second Rule</a> Does Not Apply to Buses 
 
-<b>Disgusted mother to little girl who picked up a Swedish fish she dropped on the bus floor:</b> Don't eat that.
-<b>Little girl, dusting it off:</b> It's okay, I'll kiss it up to god.
-<b>Mother:</b> Don't you dare put that in your mouth. You have no idea what was on the floor.
-<b>Little girl, putting it in her mouth and chewing it:</b> It's okay! I kissed it up to god! (swallows it) What are you going to do about it?
-<b>Mother, angrily:</b> I'm not going to do anything. You're just going to die.
+**Disgusted mother to little girl who picked up a Swedish fish she dropped on the bus floor:** Don't eat that.
+**Little girl, dusting it off:** It's okay, I'll kiss it up to god.
+**Mother:** Don't you dare put that in your mouth. You have no idea what was on the floor.
+**Little girl, putting it in her mouth and chewing it:** It's okay! I kissed it up to god! (swallows it) What are you going to do about it?
+**Mother, angrily:** I'm not going to do anything. You're just going to die.
 </blockquote>
 
 I'm so amused and have so much to say about the five second rule, that I don't even know where to begin.  But yes, of course I endorse that behavior.

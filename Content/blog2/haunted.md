@@ -32,6 +32,6 @@ I made haste, and got the heck out of there.
 
 Since then, I've walked past the same house dozens and dozens of times without seeing anything unusual.  From time to time, the front is lit up, and there are people living there.  Once, I passed as the people were dragging their trash to the curb.  I passed up the opportunity to ask if they sensed that their house was haunted.  I would rather think that it is.
 
-<a class="lightview alignright" href="/img/lunarpark.jpg" data-lightview-caption="Bret Easton Ellis's <i>Lunar Park</i>" data-lightview-group="group1" style="width:350px;"><img src="/img/lunarpark.jpg" alt="/img/lunarpark.jpg"><br><span class="caption">Bret Easton Ellis's <i>Lunar Park</i></span></a>
+<a class="lightview alignright" href="/img/lunarpark.jpg" data-lightview-caption="Bret Easton Ellis's *Lunar Park*" data-lightview-group="group1" style="width:350px;"><img src="/img/lunarpark.jpg" alt="/img/lunarpark.jpg"><br><span class="caption">Bret Easton Ellis's *Lunar Park*</span></a>
 
-That's my whole ghost story, but if you like creepy stories, I have a book recommendation for you.  I started <i>Lunar Park</i> as an audiobook, and had trouble listening to anything else until I was through with the story.  In a couple of years, I will have forgotten the details, and then I'm actually going to read it.
+That's my whole ghost story, but if you like creepy stories, I have a book recommendation for you.  I started *Lunar Park* as an audiobook, and had trouble listening to anything else until I was through with the story.  In a couple of years, I will have forgotten the details, and then I'm actually going to read it.

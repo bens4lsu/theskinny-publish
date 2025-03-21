@@ -20,9 +20,9 @@ At any rate, the knock offs sometimes seem to lack the features that one might e
 
 <table border="1">
   <tr>
-    <td width="33%"><b>What the Knockoff Does</b></td>
-    <td width="33%"><b>What the Real Thing Does (Presumably)</b></td>
-    <td width="33%"><b>What a $26,000 Watch Should Do</b></td>
+    <td width="33%">**What the Knockoff Does**</td>
+    <td width="33%">**What the Real Thing Does (Presumably)**</td>
+    <td width="33%">**What a $26,000 Watch Should Do**</td>
   </tr>
   <tr>
     <td width="33%">There's a button on the side.  Every morning, I can push it in with a pencil, and the date dial advances.</td>

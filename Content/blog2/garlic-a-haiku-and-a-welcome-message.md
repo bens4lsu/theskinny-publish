@@ -15,7 +15,7 @@ I had gotten out of the habit of going there for lunch, and I can't say how long
 
 When I met Mrs. theskinnyonbenny after work, she immediately accused me of eating garlic for lunch.  I couldn't help but laugh and confirm it.
 
-Later at dinner, she liked the look of my sandwich and asked for a bite.  According to her -- and this is only a little bit tough to believe -- she could smell the garlic <i>from my lunch</i> attached to my dinnertime sandwich.  Soaked into the bread, or something, I guess.
+Later at dinner, she liked the look of my sandwich and asked for a bite.  According to her -- and this is only a little bit tough to believe -- she could smell the garlic *from my lunch* attached to my dinnertime sandwich.  Soaked into the bread, or something, I guess.
 
 If this is the grossest thing that you know about me, consider yourself lucky.
 

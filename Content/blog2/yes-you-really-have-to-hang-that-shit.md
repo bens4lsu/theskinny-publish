@@ -6,7 +6,7 @@ tags: young-ruski
 id: 2066
 ogImg: ornament1.JPG
 ---
-<b>Dear theskinnyonbenny.  How long to I have to keep hanging up crappy ornaments that my kids made in preschool?</b>
+**Dear theskinnyonbenny.  How long to I have to keep hanging up crappy ornaments that my kids made in preschool?**
 
 I hate to break it to you, but you have to keep hanging that shit forever.  If it makes things any better, I promise you that I hung more ugly mangled garbage than you, especially since you're a fictional construct that I used to get this topic moving.
 

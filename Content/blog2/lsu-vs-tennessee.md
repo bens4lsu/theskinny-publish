@@ -23,7 +23,7 @@ Speaking of that blue hat, I came across an interesting theory on the cumulation
 
 I have gone through life treating this question the way you have to treat movies about time travel:  don't think about it too hard, or you start to realize how stupid it all is.  But on the other hand, you know that LSU always loses when you don't wear that damned hat, so you dare not leave it home.
 
-But a fan quoted in the book <i><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0609807137/qid=1127874792/sr=8-1/ref=pd_bbs_1/103-8847902-5949450?v=glance&s=books&n=507846" target="_blank">Rammer Jammer Yellow Hammer</a></i> has it all figured out.  Your team's fans have all of their thousands of superstitions, and their teams fans all of their superstitions.  Whichever group is more devout is the winner.
+But a fan quoted in the book *<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0609807137/qid=1127874792/sr=8-1/ref=pd_bbs_1/103-8847902-5949450?v=glance&s=books&n=507846" target="_blank">Rammer Jammer Yellow Hammer</a>* has it all figured out.  Your team's fans have all of their thousands of superstitions, and their teams fans all of their superstitions.  Whichever group is more devout is the winner.
 
 Come to think of it, I think I threw my sweat-soaked hat in the back of the Jeep before the game was over.  No championship this year.  My bad.
 

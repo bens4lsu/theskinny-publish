@@ -10,7 +10,7 @@ There's no one of my age -- at least no one whose family hails from the rural So
 
 I always dismissed this as old person hyperbole.  In my mind it belongs with, "I walked fourteen miles to school barefoot every day, and it was uphill in both directions."
 
-I'm not really all that surprised to find out this week that there are terrible parents who break off a switch and beat their kids with it.  A <em>four year old</em>?  What the fuck?
+I'm not really all that surprised to find out this week that there are terrible parents who break off a switch and beat their kids with it.  A *four year old*?  What the fuck?
 
 And then, there's some debate as to whether this actually constitutes abuse.  And that's where there's an interesting question.  Make no mistake -- a toddler beaten until his legs and nutsack bled is an abused toddler.  But it's fair to expect that for a variety of reasonable people, the punishment/abuse line can fall somewhere different.
 

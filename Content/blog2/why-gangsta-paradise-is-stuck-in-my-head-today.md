@@ -29,7 +29,7 @@ At one point last year, I decided that I was going to listen to all of <a href="
 
 I know it's my own shortcoming.  There are artists that I adore who talk about those albums inspiring them to make music.  But I made myself listen to them 3 or 4 times each, and it was self-torture.
 
-Album #4 was Stevie Wonder's <i>Songs in they Key of Life</i> which I loved so much that I abandoned my project before making it 1% of the way in and listened to Stevie's lifetime of work instead.  And the first time I listened to <i>Songs in the Key of Life</i> all the way through, I found out that Gangsta Paradise is just Coolio rapping on top of Stevie's Pastime Paradise.  So maybe that's really the song stuck in my head.
+Album #4 was Stevie Wonder's *Songs in they Key of Life* which I loved so much that I abandoned my project before making it 1% of the way in and listened to Stevie's lifetime of work instead.  And the first time I listened to *Songs in the Key of Life* all the way through, I found out that Gangsta Paradise is just Coolio rapping on top of Stevie's Pastime Paradise.  So maybe that's really the song stuck in my head.
 
 I swear, sometimes these posts wrap themselves up without me even having to try.
 .

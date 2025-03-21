@@ -6,7 +6,7 @@ tags: young-ruski
 id: 1914
 ogImg: Frozen-Anna-Hans.jpg
 ---
-For a number of weeks, three-year-old Kolya has insisted that Anna from <i>Frozen</i> has a line in a song where she sings, "Pain in the Ass."  I found that to be a highly dubious claim, and when I caught him watching it after work yesterday, I asked him to give me a call when the "Pain in the Ass" part comes on.
+For a number of weeks, three-year-old Kolya has insisted that Anna from *Frozen* has a line in a song where she sings, "Pain in the Ass."  I found that to be a highly dubious claim, and when I caught him watching it after work yesterday, I asked him to give me a call when the "Pain in the Ass" part comes on.
 
 Alas, I had missed it.
 

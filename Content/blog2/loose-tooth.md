@@ -21,7 +21,7 @@ See, yesteryear's parents would probably forget the chapped lips and yellow mola
 
 Hopefully, there won't be a lot of blood.
 
-<b>Update:</b>  I posted this Thursday evening, before heading out to the New Orleans streets for our normal lineup of parades.  After two rather boring ones, Muses starts.  It's late, but the crowd is more enthusiastic.  The bands are better; the floats are better; Vanya is really starting to have fun for the first time all night.
+**Update:**  I posted this Thursday evening, before heading out to the New Orleans streets for our normal lineup of parades.  After two rather boring ones, Muses starts.  It's late, but the crowd is more enthusiastic.  The bands are better; the floats are better; Vanya is really starting to have fun for the first time all night.
 
 The scene is early in the parade.  Float 5 has just passed, and a high school band is approaching.  We can see Mrs. theskinnyonbenny's float right behind them.  We've been waiting for her float for three or four hours, and we're really keyed up.
 

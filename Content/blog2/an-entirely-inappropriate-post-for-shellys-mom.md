@@ -38,8 +38,7 @@ Hugs and kisses,
 benny
 </div>
 
-<center><img src="/img/greenline.gif"></center>
-
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 Disgusting things notwithstanding it was a good trip.  As soon as I get a reliable connection, I'll post some pictures.
 
 On our way back into Baton Rouge, a week after Gustov, I turned down a main street trying to get home, and a large tree still blocked my passage.

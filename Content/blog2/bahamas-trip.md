@@ -13,7 +13,7 @@ Balls Alley looks like it's one of these pass through roads. But it isn't. Early
 
 We turned around and headed out.  Toward the start, the alley was lined with dudes, taking big fatties, trying to wave us over and take our orders. Or our lives. Could have gone either way, had we stopped. 
 
-From then on, we got the same reaction from the native Bahamians when we would mention having visited Balls Alley.  Their eyes would get wide, and they would say incredulously, "<em>Balls Alley</em>. I can't believe you went there!"  that would be followed by a serious attempt to sober us up for a second so that we MIT heed the warning never to go there again. 
+From then on, we got the same reaction from the native Bahamians when we would mention having visited Balls Alley.  Their eyes would get wide, and they would say incredulously, "*Balls Alley*. I can't believe you went there!"  that would be followed by a serious attempt to sober us up for a second so that we MIT heed the warning never to go there again. 
 
 We got that warning at the Greyclif, an expensive but good restaurant hosted by a pantywaist in a bow-tie who didn't want us drunks there at all.  That didn't stop his bar waitress from serving strait rum one on top of the other, getting me to the point where I loudly ate a ball of butter while waiting for the bread. 
 

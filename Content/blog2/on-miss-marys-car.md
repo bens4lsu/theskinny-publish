@@ -19,25 +19,25 @@ The next night at dinner, Miss Mary explained something strange.
 
 (Now, you have to do your best to read Miss Mary's quotes in her voice.  It was the voice that you would use to make fun of how an old lady talks.  High pitched, with a drawn out accent, and with a bit of a smoker's rasp.  It was also loud, due to the fact that she didn't hear all that well.)
 
-"<i>There were some strange little marks on my car.  There were marks where it was scratched.  Like something was up there!!</i>"
+"*There were some strange little marks on my car.  There were marks where it was scratched.  Like something was up there!!*"
 
 "Well what do you think it could have been, Miss Mary?"
 
-"<i>I think it was CATTLE!</i>"
+"*I think it was CATTLE!*"
 
 We weren't within five miles of the nearest cow.  It would have been easy to bust out laughing, but we had to know more.
 
 "Where do you think cattle might have come from?"
 
-"<i>I don't know, but those scratches look like hoof marks.  There were CATTLE walking around campus, and they climbed up on my car.</i>."
+"*I don't know, but those scratches look like hoof marks.  There were CATTLE walking around campus, and they climbed up on my car.*."
 
 "Why would they have just climbed up on your car?"
 
-"<i>You may not believe me, but I can show you the marks.  There are hoof marks on my car!.</i>"
+"*You may not believe me, but I can show you the marks.  There are hoof marks on my car!.*"
 
 She was very excited about the whole thing.  I imagined her call to her auto insurance agent:
 
-"<i>Mr. Insurance Man?  Yes...I'd like to report some damage to my car...It seems like some cattle climbed up on top of it....Yes, sir.  Cattle....Well, I don't know where they came from.  It happened during the night....Yes, right here behind the fraternity house....No, I'm sure it was cattle....</i>"
+"*Mr. Insurance Man?  Yes...I'd like to report some damage to my car...It seems like some cattle climbed up on top of it....Yes, sir.  Cattle....Well, I don't know where they came from.  It happened during the night....Yes, right here behind the fraternity house....No, I'm sure it was cattle....*"
 
 I'm sure that insurance agent still tells this story all of this time, just like I do.
 

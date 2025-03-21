@@ -15,7 +15,7 @@ On Tuesday, there wasn't a spot in the city that had electricity, and many of th
 
 We were planning to leave town on Wednesday anyway, so we just packed up and headed out a day early.  I'm comfortable at a hotel on the beach in Florida, with a million other Louisiana residents.  Everywhere I turn, there's someone like me wearing LSU gear, walking their dogs.  When I walked my two idots this morning, I checked the plates in the lot.  I looked at about 40 plates, and only one was not Louisiana.  So we're all here for the same reason.
 
-By the way, there's one other guy downstairs working on his laptop.  I'm a nerd, yes.  But at least I'm at a window overlooking the ocean in a t-shirt and swim suit.  He actually got up and dressed in <i>business casual</i> to come sit in the lobby and work.  He has a fine view of the front desk, and when I walked by, he was telling someone at his office, "I don't even think we lost power there.  I would rather be there than here."  Some people.
+By the way, there's one other guy downstairs working on his laptop.  I'm a nerd, yes.  But at least I'm at a window overlooking the ocean in a t-shirt and swim suit.  He actually got up and dressed in *business casual* to come sit in the lobby and work.  He has a fine view of the front desk, and when I walked by, he was telling someone at his office, "I don't even think we lost power there.  I would rather be there than here."  Some people.
 
 Last night, we checked in, walked the dogs, got a drink, and headed to the beach.  It was the first time for Vanya, and I haven't ever observed a kid's first time to see the ocean.  He walked down the steps toward the sand very slowly.  I was at the bottom, waiting patiently.
 

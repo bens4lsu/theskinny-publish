@@ -25,7 +25,7 @@ Good advice, huh?
 
 Allow me to recap my three favorite Date Rape Dan stories.  On second thought, I can't narrow it down to three.  Here are my favorite four.
 
-<b>4.  Meat</b>
+**4.  Meat**
 
 The president of our company wanted Date Rape Dan to start writing the release announcements for new software.  In the past, he had always done that job himself, and the company was big enough that it really should have been something that he could delegate.  However, he didn't trust the engineers who understood the release to put enough sales spin into it, and he couldn't trust the sales organization to understand the features.  
 
@@ -37,11 +37,11 @@ For each item, a developer would explain what the feature was and give some info
 
 (I'm not paraphrasing.  That really is exactly how he said it.)
 
-This meeting went for a few hours a day for several days in a row.  The routine never varied.  Finally, on day three, the president got worried and asked, "Dan, you're not actually going to put the word <i>meat</i> in the release announcement, are you?"
+This meeting went for a few hours a day for several days in a row.  The routine never varied.  Finally, on day three, the president got worried and asked, "Dan, you're not actually going to put the word *meat* in the release announcement, are you?"
 
 Date Rape Dan assured him that he wasn't, but continued to overuse the word "meat" for several weeks.
 
-<b>3.  Chicago</b>
+**3.  Chicago**
 
 We were waiting for the programming to be completed for some long-forgotten custom deliverable.  The programmer doing the coding was (and still is) named Chikako.  It's pronounced just like it's spelled.
 
@@ -49,13 +49,13 @@ Date Rape Dan asked the status and was told, "we're waiting on Chikako."
 
 Chikako was integrating some software that had been provided by another vendor.  I don't recall where that vendor was located, but I know that it was not Chicago.  Regardless, Dan assumed that the other vendor was in Chicago and that we were waiting on that vendor.  He called and chewed them out, even though they had provided their software weeks before.
 
-<b>2.  Where'd You Get That Ice Cream</b>
+**2.  Where'd You Get That Ice Cream**
 
 When Date Rape Dan was new to the company, he went to lunch with one of his employees.  He asked about the process for something or other.  The guy started explaining the process.  He went on for several minutes.  Date Rape Dan would nod and without saying anything, encourage him to elaborate.
 
 At the end of the long explanation, Date Rape Dan paused as if in thought.  He then looked up and asked his only question about the process:  "Where'd you get that ice cream?"
 
-<b>1.  Investor Meeting</b>
+**1.  Investor Meeting**
 
 In the technology investment capital boom of the 90s, our company executives made their pitch to a number of investors.  They were trying to raise capital in order to implement an aggressive growth plan.  It was a huge step in moving from a small company to a serious force in our market.
 

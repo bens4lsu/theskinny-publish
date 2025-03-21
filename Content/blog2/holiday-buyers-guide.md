@@ -36,13 +36,13 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		The site points out that you can slip a padlock on it (whooooo!), put a sticker with your name on it, so that it won't get lost, and that it is "water resistant," which is not the same as "water proof."  Any boater will tell you that "water resistant" means that you have a few minutes to wipe a spill off the surface, but that any repeated splashing will soak the contents but good.
 		<br><br>
-		Don't confuse the Orange Boxx with <i>The Orange BoXXX</i>, which was a 1978 pornographic film about a woman with oddly-colored private areas.
+		Don't confuse the Orange Boxx with *The Orange BoXXX*, which was a 1978 pornographic film about a woman with oddly-colored private areas.
         <br><br>
 		This is a good example of what happens when you let any old shit-for-brains start his own web page.
 		<br><br>
 		(And by "this," I mean <a href="http://www.orangeboxx.com/">www.orangeboxx.com</a>, not thesknnyonbenny.com.)
 		<br><br>
-		<b>$$</b> Fifty bucks, for the large orange boxx.
+		**$$** Fifty bucks, for the large orange boxx.
 	</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		<a href="http://www.bustedtees.com/shirt/gavemyword/male">www.bustedtees.com/shirt/gavemyword/male</a>
 		<br><br>
-		<b>$</b> Eighteen bucks.
+		**$** Eighteen bucks.
 	</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 
 		<h3>The Blundstone 550 Boot</h3>
 		
-		Check out this write up that I read in <i>Outside Magazine</i>:
+		Check out this write up that I read in *Outside Magazine*:
 		<br><br>
 		<blockquote>
 		You can learn a lot about a man from his shoes. Usually. In the spring, I was wearing my four-year-old pair of Blundstone boots at a joint on Manhattan's Lower East Side. The worn-supple black leather was laced with battle scars. A few days earlier, I'd snugged them into gaiters and stomped through snowdrifts in the Rockies. A few days later, I would sit in a chair in Grand Central and have them shined back to life before meeting with some corporate types.
@@ -82,7 +82,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		(But still, I want to try them out.  Who wouldn't want caffeinated heels?)
 		<br><br>
-		<b>$$$</b> One hundred-sixty bucks.
+		**$$$** One hundred-sixty bucks.
 		
 	</td>
 </tr>
@@ -98,7 +98,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		This is the perfect gift for the bicycle enthusiast who has more money than brains.
         <br><br>
-		<b>$$$$</b> In the $2500 neighborhood.  Have to write a bad check from a stolen checkbook to pick up this one.
+		**$$$$** In the $2500 neighborhood.  Have to write a bad check from a stolen checkbook to pick up this one.
 	</td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		If we can solve that problem, we could have a whole lot of fun with this gift.
 		<br><br>
-		<b>$$$</b> A hundred big ones.
+		**$$$** A hundred big ones.
 
 	</td>
 </tr>
@@ -156,8 +156,8 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		I started to add additional links to all of the posters that are hilarious to me because they're true to me.  But there's only so much disk space on the internet.  If you fail to look at all of the possible demotivators, then you are doing yourself a disservice.  If you fail to order me a poster, a calendar, or a mug, then you are doing theskinnyonbenny a disservice.
 		<br><br>
-		<b>$</b> Posters -- 16 bucks.
-		<b>$</b> Calendars -- 20 bucks + some change for smart-ass comments on particular dates. 
+		**$** Posters -- 16 bucks.
+		**$** Calendars -- 20 bucks + some change for smart-ass comments on particular dates. 
 		
 	</td>
 </tr>
@@ -171,7 +171,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		Trust me ladies.  If your husband buys you the apple pot, he's not just saying that you need another junky piece of kitchen clutter.  He's actually saying that he loves you so much, that he can't bear to eat another grain of rice that was boiled in a normal pot.  If you're going to take your well-deserved kitchen time to cook for your husband, you might just as well have a kitschy, fun little pot to bring a smile to your suppertime preparations.
 		<br><br>
-		<b>$</b> Twenty-five bucks.
+		**$** Twenty-five bucks.
 	</td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
         <br><br>
 		(Note -- I just watched this again for the first time in a year or two, and I'm all by myself in a hotel room, having a hardy laugh out loud, all by myself.)
 		<br><br>
-		<b>$$</b> 50 bucks (way too much).
+		**$$** 50 bucks (way too much).
 	</td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		Now don't get me wrong; there are limits.  I found that "Mrs. Claus's Stinky Pussy Lager" was over the top.  Under no circumstances should they continue to sell that in schools.
 		<br><br>
-		<b>$</b> I don't know how much this costs, but it's beer.  It can't be that much.
+		**$** I don't know how much this costs, but it's beer.  It can't be that much.
 </tr>
 <tr>
 	<td>
@@ -241,7 +241,7 @@ Here we present the first annual theskinnyonbenny holiday buyer's guide.
 		<br><br>
 		I didn't make it there myself, much to my regret.
 		<br><br>
-		<b>$</b> I don't think this is a high-dollar joint.
+		**$** I don't think this is a high-dollar joint.
 	</td>
 </tr>
 

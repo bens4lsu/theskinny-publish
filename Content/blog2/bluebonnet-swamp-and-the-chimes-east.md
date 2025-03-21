@@ -42,6 +42,6 @@ So I was a little bit disappointed to see how nice The Chimes East turned out to
 
 <a class="lightview centered" href="/img/ChimesEastToilet.jpg" data-lightview-caption="The way-too-normal toilet at The Chimes East" data-lightview-group="group1"><img src="/img/ChimesEastToilet.jpg" alt="/img/ChimesEastToilet.jpg"><br><span class="caption">The way-too-normal toilet at The Chimes East</span></a>
 
-The menu and beer selection was the same.  But there were some big differences:  there was plenty of on-site parking, we were seated in a non-smoking section, and twice, our waitress called me "sir."  I don't think that has <i>ever</i> happened at the real Chimes.  I should also mention that I peed (three times) in a porcelain toilet rather than in a steel trough.
+The menu and beer selection was the same.  But there were some big differences:  there was plenty of on-site parking, we were seated in a non-smoking section, and twice, our waitress called me "sir."  I don't think that has *ever* happened at the real Chimes.  I should also mention that I peed (three times) in a porcelain toilet rather than in a steel trough.
 
 Overall, it was pretty good.  I won't make the frequent drive to that part of town just to go there, but in all honesty, it probably is worth the occasional trip.

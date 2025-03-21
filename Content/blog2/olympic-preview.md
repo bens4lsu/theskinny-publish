@@ -19,7 +19,7 @@ As always, there are some events that need to be shelved.  Everyone knows about 
 
 <table cellpadding="2" align="right"><tr><td width="250" ><img src="/img/olympictramp.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Olympic-caliber trampolining.</td></tr></table>
 
-I didn't know until last week that "Trampoline," is now an honest to goodness Olympic event.  That's obviously a candidate for being dumped.  I'm going to try to find it on one of the broadcasts to see what it's like.  If it's a third-grader bouncing up and down, throwing in the occasional flip, I'll call for its immediate dismissal.  But you have to see it to know.  Face it, you thought Table Tennis was a silly game too, until you went to see <i>Forest Gump</i> and saw how well it could be played.
+I didn't know until last week that "Trampoline," is now an honest to goodness Olympic event.  That's obviously a candidate for being dumped.  I'm going to try to find it on one of the broadcasts to see what it's like.  If it's a third-grader bouncing up and down, throwing in the occasional flip, I'll call for its immediate dismissal.  But you have to see it to know.  Face it, you thought Table Tennis was a silly game too, until you went to see *Forest Gump* and saw how well it could be played.
 
 Since I'm killing sports, I'm also willing to add them back in.  I'll pass on car racing, but I'll throw a bone to the events where you can drink and participate:  golf and bowling.  Golf is by far the most popular spectator sport that isn't already included, and if you're going to add one sport where a couple of beers can improve your game, then go ahead and add them both.  That's my school of thought.
 

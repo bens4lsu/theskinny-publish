@@ -13,7 +13,7 @@ Donald Trump?  Nah-anh.
 
 Dan Rather?  Believe it or not, you're getting warmer.
 
-The most unintentionally funny person on television is CNN Headline News's Nancy Grace.  If you aren't familiar with Nancy, she has been a regular guest on the mother network's <i>Larry King Live</i> for a couple of years.
+The most unintentionally funny person on television is CNN Headline News's Nancy Grace.  If you aren't familiar with Nancy, she has been a regular guest on the mother network's *Larry King Live* for a couple of years.
 
 Nancy is a lawyer by trade, and her topics always have to do with crime and punishment.  She makes no pretense about being partial; she's always in the camp of the prosecution or police.  The twang in her accent, her sarcastic attitude, and the fact that she always -- and I mean always -- uses her outside voice make her show the most entertaining news program on the air.
 
