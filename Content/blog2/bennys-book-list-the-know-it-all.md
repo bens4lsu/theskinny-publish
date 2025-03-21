@@ -16,7 +16,7 @@ The jist of it is this:  the author gives us a running narrative as he reads the
 
 Last night, I was reading in the P's.  In the midst of his comments for **Plato**, he dismisses some notion of Plato's that there is a separate universe where everything exists in its "ideal" state.  After a couple of examples of why this is "hogwash" (good word there), he uses the ideal of personal beauty as an example.
 
-<blockquote>And what of beauty?  Anyone who says that it's eternal needs to take a look at the stone cutting they show in the *Britannica* representing Helen of Troy, the great beauty of her day.  She looked like a drag queen in need of a nose job.  Today, that Helen of Troy wouldn't make it past a local Miss ZBroccoli pageant, much less Miss Universe.  She wouldn't launch a dinghy today.</blockquote>
+<blockquote>And what of beauty?  Anyone who says that it's eternal needs to take a look at the stone cutting they show in the <i>Britannica</i> representing Helen of Troy, the great beauty of her day.  She looked like a drag queen in need of a nose job.  Today, that Helen of Troy wouldn't make it past a local Miss ZBroccoli pageant, much less Miss Universe.  She wouldn't launch a dinghy today.</blockquote>
 
 I'm a little bit disappointed in one thing.  I hit an entry one day recently where he used the phrase "va-va-voom."  You know -- the goofy phrase that old men used to say when they would see a good looking woman.  I had just mentioned that I was going to start trying to bring back "va-va-voom" and lo and behold, here it is in a popular book.  Now I will get none of the credit when this term comes back as a full blown popular expression.
 

@@ -17,7 +17,7 @@ or this...
 
 or...
 
-<blockquote>Jim received a well deserved promotion this year.  He is now a *senior* assistant human resources coordinator!!  Can you believe our good fortune!!</blockquote>
+<blockquote>Jim received a well deserved promotion this year.  He is now a <i>senior</i> assistant human resources coordinator!!  Can you believe our good fortune!!</blockquote>
 
 Sure, I can put an excessive amount of exclamation points, but the real newsletter senders pretty much have that style cornered as well.
 

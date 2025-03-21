@@ -17,14 +17,14 @@ I like it when the convenience stores have a counter serving hot food.  There's 
 
 Here's my list of the most unforgivable convenience store sins, in no particular order:
 
-<ul><li>**Crushed Ice Only.**</li>
+<ul><li><b>Crushed Ice Only.</b></li>
 
-<li>**Missing lids for the drinks.**</li>
+<li><b>Missing lids for the drinks.</b></li>
 
-<li>**Be out of gas.**  A convenience store out of gas is like a Subway store that's out of bread.  Yes, I've had that happen to me as well.</li>
+<li><b>Be out of gas.</b>  A convenience store out of gas is like a Subway store that's out of bread.  Yes, I've had that happen to me as well.</li>
 
-<li>**Don't stock Twizzlers.**  The only time I want a Twizzler is for a long road trip, but for the convenience store manager who fails to stock them when I stop there on my way out of town:  may the Lord damn you to eternal hellfire.</li>
+<li><b>Don't stock Twizzlers.</b>  The only time I want a Twizzler is for a long road trip, but for the convenience store manager who fails to stock them when I stop there on my way out of town:  may the Lord damn you to eternal hellfire.</li>
 
-<li>**Make me go inside to pay.**  I'm reluctantly willing to pay at the pump and then again at the register.  But I will close the tank and drive off before I walk in to let your clerk hold my credit card while I pump.</li>
+<li><b>Make me go inside to pay.</b>  I'm reluctantly willing to pay at the pump and then again at the register.  But I will close the tank and drive off before I walk in to let your clerk hold my credit card while I pump.</li>
 
-<li>**Don't provide me a pen or pencil to pick my lottery numbers.**  You're lucky enough that I'm subjecting myself to a voluntary $1 tax.  You get a cut of that.  Don't discourage me.</li></ul>
+<li><b>Don't provide me a pen or pencil to pick my lottery numbers.</b>  You're lucky enough that I'm subjecting myself to a voluntary $1 tax.  You get a cut of that.  Don't discourage me.</li></ul>
