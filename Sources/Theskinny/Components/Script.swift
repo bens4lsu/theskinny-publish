@@ -15,7 +15,7 @@ public struct Script: Component {
     private var string: String
     
     public var body: Component {
-        let node: Node<HTML.ScriptContext> = .script(.text(string))
+        let node: Node<HTML.ScriptContext> = .script(.raw(string))
         return node
     }
     

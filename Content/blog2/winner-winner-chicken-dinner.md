@@ -1,7 +1,8 @@
 ---
 title: Winner, Winner, Chicken Dinner
 date: 2007-09-06 15:15
-description: A description of my post.
+description: I hereby declare the end of my contest, with Shelly as the winner (and only participant).  It might have been easy to beat Shelly.  You didn't actually have to be mad about whatever your topic -- getting The Advocate to publish a bogus rant would have been twice as much fun.  So you could have come up with anything.  
+
 tags: uncategorized
 id: 323
 ---

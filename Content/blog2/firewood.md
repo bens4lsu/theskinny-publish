@@ -1,7 +1,7 @@
 ---
 title: Firewood
 date: 2007-09-11 12:20
-description: A description of my post.
+description: I was driving down my street this morning, and I passed a crew from a tree service grinding an enormous stump out of the ground in someone's front yard.  I had the top down on my Jeep, and the smell of the wood being ground to bits reminded me of a story.  My Uncle Johnny and Aunt Helen live in an old house on a big lot with plenty of trees.  Once upon a time, it was out in the sticks, but the town has grown up around them, and they're now in an old house on a big, tree-lined lot, surrounded by strip malls and pharmacies.
 tags: other-peoples-stories
 id: 324
 ---

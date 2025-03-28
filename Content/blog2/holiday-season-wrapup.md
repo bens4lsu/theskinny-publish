@@ -1,24 +1,17 @@
 ---
 title: Holiday Season Wrapup
 date: 2008-01-03 23:46
-description: A description of my post.
+description: I'm sure that it has a lot to do with having a kid, but we did a lot of very "traditional" things this holiday season.  The most absurd one was the festival of lights in downtown Baton Rouge, where the whole downtown was decked out in full Norman Rockwell Holiday tradition.  Most of my fellow citizens even changed out of shorts and put on long pants so that we could pretend that early December was winter here.
+
 tags: my-stories
 id: 340
+ogImg: gal/040%20-%20December%202007/resIMG_20071130_3513.JPG
 ---
 I'm sure that it has a lot to do with having a kid, but we did a lot of very "traditional" things this holiday season.  The most absurd one was the festival of lights in downtown Baton Rouge, where the whole downtown was decked out in full Norman Rockwell Holiday tradition.  Most of my fellow citizens even changed out of shorts and put on long pants so that we could pretend that early December was winter here.
 
 They had a group dancing in costume from *The Nutcracker*, which entertained the kids.  The girls like ballet by their very nature, and Vanya is a Russian, so he felt the call of his motherland.  I felt him bounce up and down on my shoulders as he watched a bear jump around a girl without any reason that I could fathom.
 
-
-<table cellpadding="2" align="right">
-<tr>
-<td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td>
-<td width="300" ><img src="http://theskinnyonbenny.com/img/gal/040%20-%20December%202007/resIMG_20071130_3513.JPG" width="285"></td>
-</tr>
-<tr>
-<td class="caption" width="300">Baton Rouge's downtown ice rink. This led me to compare our town to Chevy Chase's town in Funny Farm, after he payed the townspeople to act like ideal citizens. &quot;If I can't make friends around here, then dammit, I'll buy some.&quot;</td>
-</tr>
-</table>
+<a class="lightview alignright" href="/img/gal/040%20-%20December%202007/resIMG_20071130_3513.JPG" data-lightview-caption="Baton Rouge's downtown ice rink. This led me to compare our town to Chevy Chase's town in Funny Farm, after he payed the townspeople to act like ideal citizens. &quot;If I can't make friends around here, then dammit, I'll buy some.&quot;" data-lightview-group="group1" ><img src="/img/gal/040%20-%20December%202007/resIMG_20071130_3513.JPG" alt="/img/gal/040%20-%20December%202007/resIMG_20071130_3513.JPG"><br><span class="caption">Baton Rouge's downtown ice rink. This led me to compare our town to Chevy Chase's town in Funny Farm, after he payed the townspeople to act like ideal citizens. &quot;If I can't make friends around here, then dammit, I'll buy some.&quot;</span></a>
 
 Near this performance was a fake skating rink, made of some slippery white substance that actually allowed kids to slide across it on ice skates.  I touched it, and it wasn't as slippery as ice, so the kids mostly stayed on their feet as they plowed across the surface in a giant mass.  These were all strangers, as ours are a bit little for such shenanigans.
 
@@ -28,15 +21,7 @@ The next weekend, we cut down a tree at the tree farm, which we've done for year
 
 We didn't find him a suitable stocking at this place, so we went home and shopped on the internet.  The one we picked looked good on its picture, but when it arrived, I pulled it out of the box, and then couldn't suppress an, "Oh my God."
 
-<table cellpadding="2" align="right">
-<tr>
-<td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td>
-<td width="300" ><img src="http://theskinnyonbenny.com/img/vanya_stocking.jpg" width="285"></td>
-</tr>
-<tr>
-<td class="caption" width="300">Vanya's 2007 stocking.</td>
-</tr>
-</table>
+<a class="lightview alignright" href="/img/vanya_stocking.jpg" data-lightview-caption="Vanya's 2007 stocking." data-lightview-group="group1" ><img src="/img/vanya_stocking.jpg" alt="/img/vanya_stocking.jpg"><br><span class="caption">Vanya's 2007 stocking.</span></a>
 
 It is a velvety red stocking with his name at the top.  But instead of a classy looking gold embroidered name, which we pictured, they manufactured the name part by writing it in Elmer's glue, then dipping the stocking in gold glitter.  If we had high hopes for a future drag queen, this stocking would be fine, but we need to find a different one before next year.
 
@@ -48,4 +33,4 @@ Crystal and Brent came down on Saturday after Christmas, and we spent the next t
 
 Holiday season really keeps flying here.  Carnival season ( = king cakes to eat) starts one day within the next week.  The BCS Championship game is on Monday, followed by a really early Mardi Gras.  A lot of the parades start before the end of this month.  Early February is Mardi Gras day, followed closely by the NBA All Star game in New Orleans.  Then, of course, is my favorite day (Saint Paddy's), and then we can really call it the end of the holiday season. 
 
-I posted a bunch of photos from the whole month <a onclick="window.open('/pg3.php?spgmGal=040%20-%20December%202007','040December2007','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >here</a>.
+I posted a bunch of photos from the whole month <a href="/gal/040%20-%20December%202007/" >here</a>.

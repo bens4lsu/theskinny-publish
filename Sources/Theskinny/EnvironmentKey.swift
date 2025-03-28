@@ -55,7 +55,7 @@ extension EnvironmentKey where Value == DateFormatter {
 extension EnvironmentKey where Value == Int {
     static let blogPostsPerPage = 12
     //static let styleAndScriptVersion = Int.random(in: Int.min...Int.max)
-    static let styleAndScriptVersion = 1039
+    static let styleAndScriptVersion = 1040
     
     static let currentYear: Int = Calendar.current.component(.year, from: Date())
 }
@@ -66,6 +66,11 @@ extension EnvironmentKey where Value == String {
     static let predictWindSrc = "https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000"
     
     static let appleMusicFilePath =  "/Users/ben/Library/CloudStorage/OneDrive-ConcordBusinessServices,LLC/itunes xml"
+    
+    static let googleMapsAPIKey = "AIzaSyAgaq2P3nwaEVsfOWNFRzcPcIpS4G0H5KA"
+    static let bigtripMapKMZ = "https://theskinnyonbenny.com/bigtrip-actual.kml"
+    //static let bigtripMapKMZ = "https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml"
+
 }
 
 extension EnvironmentKey where Value == [Gallery] {

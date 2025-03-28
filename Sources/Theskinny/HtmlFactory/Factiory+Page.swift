@@ -148,7 +148,8 @@ extension TsobHTMLFactory {
     }
     
     fileprivate func makePageBigTripReversed(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Travel Page")
+        var htmlHeadInfo = HeaderInfo(location: context.index, title: "Travel Page")
+        htmlHeadInfo.additionalNodes.append(BigTripMap().scriptInit)
         let btContext = context.bigtripAll
         let mainContent = TripPostsReversed(tripPosts: btContext)
         let pageMain = AnyPageMain(mainContent: mainContent, site: context.site)

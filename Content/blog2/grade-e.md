@@ -1,7 +1,7 @@
 ---
 title: Grade E
 date: 2007-09-19 14:19
-description: A description of my post.
+description: Once this week and once last week, I had a craving for Grade E meat.  That is to say, I was hungry for some Taco Bell.
 tags: food
 id: 325
 ---

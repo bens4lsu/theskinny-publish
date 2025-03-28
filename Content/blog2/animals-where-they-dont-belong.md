@@ -1,7 +1,7 @@
 ---
 title: Animals Where They Don't Belong
 date: 2007-09-27 01:45
-description: A description of my post.
+description: I'm not in the habit of using this blog to repeat stories that get emailed from person to person to persona million times, but this one is a) true, and b) made me laugh out loud when I saw the choppy little animated gif video of it.
 tags: animals
 id: 328
 ogImg: seagull.gif
@@ -35,7 +35,7 @@ Minutes later, I was peering down the driveway next door, and I saw our cat Wils
 
 I called "Kitty Kitty Kitty," and he trotted toward me.  His jiggling belly proved that it was indeed Nigel.  
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/bathtub.jpg"></td></tr><tr><td class="caption" width="250">The bathtub, after his rinsing.  I should have pointed the camera higher.  In his scrambling, he slung mud as high as my eye level.</td></tr></table>
+<a class="lightview alignright" href="/img/bathtub.jpg" data-lightview-caption="The bathtub, after his rinsing.  I should have pointed the camera higher.  In his scrambling, he slung mud as high as my eye level." data-lightview-group="group1" ><img src="/img/bathtub.jpg" alt="/img/bathtub.jpg"><br><span class="caption">The bathtub, after his rinsing.  I should have pointed the camera higher.  In his scrambling, he slung mud as high as my eye level.</span></a>
 
 The action of picking him up covered me in wet mud.  I hurried inside to show off the filthy cat to Mrs. theskinnyonbenny.  After that, I turned on the bathtub faucet and held him under lukewarm water while he scrambled and wailed.  I kept him under the spigot for as long as I could, which was probably only 10 seconds or so.
 

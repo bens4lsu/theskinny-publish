@@ -1,9 +1,10 @@
 ---
 title: Remind Me Again, Where is it that We All Live?
 date: 2007-09-07 08:16
-description: A description of my post.
+description: I was cleaning the kitchen last night while listening to a radio show.  As the show came back from break, they played that one chord that everyone can immediately identify as the first note of The Beatles' Hard Days Night.  This single bit of music in a universe of unintelligible talk immediately caught Vanya's attention.  He stopped what he was doing, looked toward the source of the music, and prepared himself to jam a little bit if the music was to continue.
 tags: young-ruski
 id: 322
+ogImg: kitchenspeakers.jpg
 ---
 I was cleaning the kitchen last night while listening to a radio show.  As the show came back from break, they played that one chord that everyone can immediately identify as the first note of The Beatles' Hard Days Night.
 
@@ -15,7 +16,9 @@ So I did a little experimenting.  I pretended to like country music.  He didn't.
 
 I found the band TV on the Radio a couple of months ago because he starting head-bobbing to one of their songs playing over the closing credits to a movie that was on TV.
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/kitchenspeakers.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">The speakers in the kitchen are just crappy little plugins that sit above the stove, occasionally falling into our cooking food.</td></tr></table>
+<a class="lightview alignright" href="/img/kitchenspeakers.jpg" data-lightview-caption="The speakers in the kitchen are just crappy little plugins that sit above the stove, occasionally falling into our cooking food.
+" data-lightview-group="group1" ><img src="/img/kitchenspeakers.jpg" alt="/img/kitchenspeakers.jpg"><br><span class="caption">The speakers in the kitchen are just crappy little plugins that sit above the stove, occasionally falling into our cooking food.
+</span></a>
 
 Anyway, after he picked up that note from Hard Days Night, I wondered how much he would like a different Beatles song.  The one I had in mind was really a children's song, after all.
 

@@ -1,7 +1,7 @@
 ---
 title: Fingers Crossed
 date: 2007-08-30 15:28
-description: A description of my post.
+description: You may have noticed that I haven't posted much lately,  I'll blame lack of sleep, as I've tossed restlessly with stiff neck from stress.  Every other year at this time, I've convinced myself that the Saints will win the Super Bowl, and that LSU will win every game by 35 points or more.  But this year -- now that both teams have the talent to make it happen -- I am full of anxiety.  I don't know how to handle realistic high expectations.
 tags: sports
 id: 320
 ---

@@ -9,103 +9,66 @@ import Foundation
 import Plot
 import Publish
 
-struct AppleMusicLibSong: Decodable, Component {
-    var order: Int
-    var artist: String?
-    var album: String?
-    var name: String
-    var rating: UInt8
-    var playcount: UInt16
-    var genre: String
-    var lastPlayed: String
+struct BigTripMap: Component {
     
-    var displayRating: String {
-        let repeatCount = Int(rating / 20)
-        return String(repeating: "⭐️", count: repeatCount)
+    let kmz: String
+    let text: String
+    
+    init() {
+        kmz = EnvironmentKey.bigtripMapKMZ
+        text = "Coordinates start a little after Solvenia, due to time it took to bring our instrument that posted data to the mothership up and online."
     }
     
+    init(kmz: String, text: String) {
+        self.kmz = kmz
+        self.text = text
+    }
+    
+    
     var body: Component {
-        TableRow {
-            TableCell { Text(name) }
-            TableCell { Text(artist ?? "") }
-            TableCell { Text(album ?? "") }
-            TableCell { Text(displayRating) }
-            TableCell { Text(String(playcount)) }
-            TableCell { Text(genre) }
-            TableCell { Text(lastPlayed) }
+        Div {
+            Div().id("map").style("height: 800px;")
+            script
         }
     }
     
-    static var header = TableRow {
-        TableHeaderCell { Text("Song") }
-        TableHeaderCell { Text("Artist") }
-        TableHeaderCell { Text("Album") }
-        TableHeaderCell { Text("Rating") }
-        TableHeaderCell { Text("Play Count") }
-        TableHeaderCell { Text("Genre") }
-        TableHeaderCell { Text("Last Played") }
-    }
+    let scriptInit: Node<HTML.HeadContext> = {
+        var attribute = Attribute<Script>.attribute(named: "async", value: nil)
+        attribute.ignoreIfValueIsEmpty = false
+        return Script("")
+            .attribute(attribute)
+            .attribute(named: "src", value: "https://maps.googleapis.com/maps/api/js?key=\(EnvironmentKey.googleMapsAPIKey)&callback=initMap")
+            .convertToNode()
+    }()
+    
+    let script = Script("""
+    
+        var map;
+        var src = '\(EnvironmentKey.bigtripMapKMZ)';
+
+        function initMap() {
+          map = new google.maps.Map(document.getElementById('map'), {
+            center: new google.maps.LatLng(38.9855, 5.96789),
+            zoom: 5,
+            mapTypeId: 'satellite'  
+          });
+
+          var kmlLayer = new google.maps.KmlLayer(src, {
+            suppressInfoWindows: true,
+            preserveViewport: false,
+            map: map
+          });
+          kmlLayer.addListener('click', function(event) {
+            var content = event.featureData.infoWindowHtml;
+            var testimonial = document.getElementById('capture');
+            testimonial.innerHTML = content;
+          });
+        }
+    
+    """)
+    
+   
+    
 }
 
-struct AppleMusicLibPlaylist: Decodable, Component {
-    var playlist: [AppleMusicLibSong]
-    private var _name: String
-    var comment: String
-    var dateUpdated: Date? 
-    
-    enum CodingKeys: String, CodingKey {
-        case playlist = "song"
-        case _name = "pl"
-        case comment = "comment"
-    }
-    
-    var name: String {
-        _name.replacingOccurrences(of: "% ", with: "")
-    }
-    
-    var dateUpdatedString: String {
-        guard let dateUpdated else {
-            return ""
-        }
-        return EnvironmentKey.defaultDateFormatter.string(from: dateUpdated)
-    }
-    
-    var pageName: String {
-        let stripped = name.replacingOccurrences(of: " ", with: "")
-                            .replacingOccurrences(of: "%", with: "")
-        return "/playlist/\(stripped)"
-    }
-    
-    var tableContents: Component {
-        ComponentGroup(members: playlist)
-    }
-    
-    var bottomLinks: Component {
-        let linkDetails = AppleMusicData.allLinks.filter { link in
-            link.url.description != pageName
-        }
-        
-        return Div {
-            H3("Other playlists:")
-            
-            List {
-                ComponentGroup(members: linkDetails)
-            }.listStyle(.inlineListOfLinks)
-        }.class("dailyphoto-otheryears")
-    }
-    
-    var body: Component {
-        ComponentGroup {
-            bottomLinks
-            H1(name)
-            H3("Updated \(dateUpdatedString)")
-            Text(comment)
-            
-            Table(header: AppleMusicLibSong.header) {
-                tableContents
-            }
-            
-            bottomLinks
-        }
-    }
-}
+//&location=37.7749,-122.4194&pano=some_pano_id

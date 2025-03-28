@@ -1,7 +1,7 @@
 ---
 title: The Saints are Back
 date: 2007-09-26 06:10
-description: A description of my post.
+description: Whatever fairy dust or pixie magic floated through the New Orleans Saints season last year has officially been dissipated by the heat and rain of a Louisiana summer.  For the second year in a row, I had the fortune of attending the Monday night home opener.  If you care, you've already seen the highlights and heard or read about what happened on the field.
 tags: sports,my-youth
 id: 327
 ---
@@ -24,6 +24,7 @@ That felt good, so we decided to do it again.  Not wishing to suffer any persona
 While these fans might have deserved their ass-kickings, I feel kind of bad about the two Chinese students outside the Superdome.  Their backpacks and calculus books suggest that they were just looking for a library in which to study, when they got beat up for no reason.
 
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 Outside of the game, it was a fun night.  On top of our little fantasies about pummeling the young, female, and Asian, we made fun of a friend of ours from college, who I'll just call "Troy."
 
 (I just think it's goofy when people put names in quotation marks.  His name really was Troy.  We were actually friends with two guys named Troy, but we called the other one Guido, so as not to confuse ourselves.)

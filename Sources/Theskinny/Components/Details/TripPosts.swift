@@ -32,8 +32,9 @@ struct TripPosts: Component {
     
     var body: Component {
         Article {
-            H2 { Link("Real Time Map", url: "/velvet-elvis/real-time-tracking") }
-            IFrame(url: EnvironmentKey.predictWindSrc, addBorder: true, allowFullScreen: true, enabledFeatureNames: []).class("iframe-smaller")
+            H2 ("Map of Actual Coordinates")
+            //IFrame(url: EnvironmentKey.predictWindSrc, addBorder: true, allowFullScreen: true, enabledFeatureNames: []).class("iframe-smaller")
+            BigTripMap()
             H2 { Link("↕ Reverse Post Order", url: "/big-trip-reversed")}
             List(items) { $0.postShortBox }.listStyle(.listAsDivs)
             TripMirror("https://bigtrip.sailvelvetelvis.com/all/")
@@ -42,8 +43,9 @@ struct TripPosts: Component {
     
     var bodyReversed: Component {
         Article {
-            H2 { Link("Real Time Map", url: "/velvet-elvis/real-time-tracking") }
-            IFrame(url: EnvironmentKey.predictWindSrc, addBorder: true, allowFullScreen: true, enabledFeatureNames: []).class("iframe-smaller")
+            H2 ("Map of Actual Coordinates")
+            //IFrame(url: EnvironmentKey.predictWindSrc, addBorder: true, allowFullScreen: true, enabledFeatureNames: []).class("iframe-smaller")
+            BigTripMap()
             H2 { Link("↕ Reverse Post Order", url: "/big-trip")}
             List(itemsReversed) { $0.postShortBox }.listStyle(.listAsDivs)
             TripMirror("https://bigtrip.sailvelvetelvis.com/all/")
