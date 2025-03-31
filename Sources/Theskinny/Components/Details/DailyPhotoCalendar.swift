@@ -154,7 +154,7 @@ struct DailyPhotoCalendar {
                 TableCell { Text("S") }.class("cell-dayofweek-heading")
             }
             var componentRows = [topRow]
-            for row in 1...5 {
+            for row in 1...6 {
                 var componentColumns = [DayCell]()
                 for column in 1...7 {
                     let idx = (row - 1) * 7 + column - 1
