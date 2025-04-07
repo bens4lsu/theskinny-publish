@@ -1,7 +1,7 @@
 ---
 title: DVRs
 date: 2007-10-11 08:06
-description: A description of my post.
+description: It's hard to believe how much difference an hour makes.  I speak of the one hour difference between the Eastern and Central time zone.  For example, last night, I picked up Mrs. theskinnyonbenny from her work stuff at 5:00.  We went back to the condo, let her change clothes, walked into the tiny downtown, picked a restuarant, ate, had a couple of drinks, and walked back home. 
 tags: gear-and-gadgets
 id: 330
 ---
