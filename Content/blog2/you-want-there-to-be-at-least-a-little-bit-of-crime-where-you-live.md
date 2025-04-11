@@ -9,7 +9,7 @@ ogImg:
 
 I bet you think that you'd like to live somewhere with no crime, don't you? Sure, that sounds nice, but do you know what happens when there are no criminals?  City hall makes you the criminal.
 
-## Exhibit 1
+#### Exhibit 1
 
 Ko has a friend that he often visits.  She lives out in a gated community across town. I have never said it out loud, but in my head, I call the drive out there the “Dripping Tap Challenge." I start playing The dripping tab, by King Gizzard and the Lizard Wizard, and the goal is to make the drive before the song is over.
 
@@ -21,7 +21,7 @@ The girl's mom gets a nasty little note about me — complete with photo evidenc
 
 _This_ is a neighborhood in need of some teenagers breaking car windows to steal change, phone chargers, and Creedance casette tapes.
 
-## Exhibit 2
+#### Exhibit 2
 
 Earlier in the week, [I used this space to talk about my nephew’s birthday party](/blog2/birthday-party/). Skim that post one more time, and the take a guess about why he lost the deposit that he paid the city for use of the pavilion. 
 
@@ -33,13 +33,13 @@ The champagne bottle! No booze allowed. I don't even understand how they definit
 
 I can go to any random park in Baton Rouge, look in the trash, and see a pile of crawfish heads crowned by two empty margarita-in-a-can cans by 10:30am on a Tuesday.
 
-## Exhibit 3
+#### Exhibit 3
 
 [Same town as the birthday party, but 10 years later](/blog2/mandeville-sailing/)
 
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
-## Technical note
+#### Technical note
 
 I've been playing around with the Apple script to text functionality. I wroth this whole post in cursive with the Apple Pencil, and the iPad changed it to typed text.  I’m having mixed results. It's very satisfying just to write, but id like to har to go back and edit less.
 

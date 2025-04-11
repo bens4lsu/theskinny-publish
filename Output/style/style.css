@@ -169,11 +169,17 @@ h1 {
     font-weight: bold;
 }
 
-h3, h4 {
+h3 {
     color:#4C4C4C;
     font-size:85%;
     font-weight: bold;
     margin-top: 5px;
+}
+
+h4 { 
+    font-size: 100%; 
+    color: #000;
+    font-weight: bold;
 }
 
 h2 {
