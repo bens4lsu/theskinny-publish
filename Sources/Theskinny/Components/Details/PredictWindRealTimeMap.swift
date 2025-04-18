@@ -9,7 +9,9 @@ import Foundation
 import Plot
 import Publish
 
-struct BigTripMap: Component {
+
+/* note:  not currently implemented anywhere 2025-04-18 */
+struct PredictWindRealTimeMap: Component {
     
     let kmz: String
     let text: String
