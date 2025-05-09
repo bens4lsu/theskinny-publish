@@ -169,7 +169,7 @@ h1 {
     font-weight: bold;
 }
 
-h3 {
+h3, .datestamp {
     color:#4C4C4C;
     font-size:85%;
     font-weight: bold;
