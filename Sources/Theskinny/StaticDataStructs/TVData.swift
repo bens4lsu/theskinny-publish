@@ -43,16 +43,16 @@ class TVData {
     private static let file = try? File(path: "./Content-custom/tv.txt")
     static let fileDate = file?.creationDate ?? Date()
     
-
+    
     
     static let series: [Series] = {
-    
+        
         guard let file,
               let csv = try? CSV<Named>(string: file.readAsString(), delimiter: .tab)
         else {
             return []
         }
-
+        
         var allSeries = [Series]()
         for row in csv.rows {
             if let title = row["Title"],
@@ -64,12 +64,14 @@ class TVData {
             {
                 let series = Series(dateFinished: dateFinished, title: title, type: type, rating: rating, summary: summary)
                 allSeries.append(series)
-    
+                
             }
-            else {
-                print (row)
+            else if !(row["Title"] == "" && row["Type"] == "" && row["Summary"] == "" && row["Date Finished"] == "" && row["Rating"] == "") {
+                print ("Error reading row of TV data.  \(row)")
             }
+            
         }
         return allSeries.sorted()
     }()
+    
 }

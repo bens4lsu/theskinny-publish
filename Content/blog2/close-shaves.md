@@ -1,7 +1,7 @@
 ---
 title: Close Shaves
 date: 2007-10-16 08:43
-description: A description of my post.
+description: We're into week two in Athens, and I'm about a half hour from being out of both bananas and Triscuits, at which point a miniature Russian revolution begins right here in our condo.  
 tags: pop-culture
 id: 331
 ---
