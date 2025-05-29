@@ -54,8 +54,15 @@ extension TsobHTMLFactory {
         let noCacheAttrib1 = Attribute<HTML.MetaContext>(name: "http-equiv", value: "pragma")
         let noCacheAttrib2 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache")
         
-        let noCacheAttrib3 = Attribute<HTML.MetaContext>(name: "http-equiv", value:"no-cache")
-        let noCacheAttrib4 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache, must-revalidate, post-check=0, pre-check=0")
+        let noCacheAttrib3 = Attribute<HTML.MetaContext>(name: "http-equiv", value:"cache-control")
+        let noCacheAttrib4 = Attribute<HTML.MetaContext>(name: "content", value:"no-cache, no-store, must-revalidate, max-age=0")
+        
+        let noCacheAttrib5 = Attribute<HTML.MetaContext>(name: "http-equiv", value:"expires")
+        let noCacheAttrib6 = Attribute<HTML.MetaContext>(name: "content", value:"0")
+        
+        //<meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate, max-age=0">
+        //<meta http-equiv="pragma" content="no-cache">
+        //<meta http-equiv="expires" content="0">
         
         var node: Node<HTML.DocumentContext> {
             .head(
@@ -82,6 +89,7 @@ extension TsobHTMLFactory {
                 }),
                 .meta(noCacheAttrib1, noCacheAttrib2),
                 .meta(noCacheAttrib3, noCacheAttrib4),
+                .meta(noCacheAttrib5, noCacheAttrib6),
                 additionalNodeGa()
             )
         }
