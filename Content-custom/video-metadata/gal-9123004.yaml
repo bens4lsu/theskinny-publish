@@ -24,4 +24,13 @@ videos:
             <iframe width="640" height="360" src="https://www.youtube.com/embed/ajBYFcfqKQk" title="Sliding Door Hardware" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240917.jpg
         duration: 3:54
-
+    -
+        id: 912345041
+        dateRecorded: 2025-06-11
+        name: 2025 Night Watch 1 - Twofer + Getting Out of NOLA + Blue Water and Dolphins
+        caption: 
+        url: https://youtu.be/mcnM6lr4_5g
+        embed: >
+            <iframe width="978" height="550" src="https://www.youtube.com/embed/mcnM6lr4_5g" title="2025 Night Watch 1   Twofer + Out of NOLA + Blue Water and Dolphins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20250611.jpg
+        duration: 23:04
