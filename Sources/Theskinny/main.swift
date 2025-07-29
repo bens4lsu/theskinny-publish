@@ -40,7 +40,7 @@ do {
         .playlists(),
         .printDate()
     ])
-    shell("say \"Ding.\"")
+    shell("afplay /System/Library/Sounds/Submarine.aiff")
     print (Date())
     
     

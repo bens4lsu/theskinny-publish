@@ -212,6 +212,10 @@ h2 > a {
 .content > h3 {margin-bottom: 60px;}
 
 a { color: #9E2606; }
+.lv_title_caption a, .lv_title_caption a:hover {
+    color: #9E2606;
+    background-color: #DDD;
+}
 
 .top-nav-links {
     display: flex;
