@@ -11,6 +11,8 @@ I should have known I was sick when LSU won the National Championship in basebal
 
 I had some kind of digestive bug that was too gross for me to get into here, and then I added pnemonia to the mix, and all of that stirred around with my middle aged immune system and turned to sepsis.  The day after the championship, I couldn't really walk, make sentences, or work simple sail controls.
 
+<a class="lightview alignright" href="/img/basball-championship-8.jpeg" data-lightview-caption="Congrats to the Tigers!" data-lightview-group="group1" ><img src="/img/basball-championship-8.jpeg" alt="/img/basball-championship-8.jpeg"><br><span class="caption">Congrats to the Tigers!</span></a>
+
 Nassau was a five hour sail away, but getting to a nearer island with an airport, finding a flight, and getting to the hospital from there was probably just as long an ordeal.  Mrs. theskinnyonbenny's inner kick-ass captain took over, and she found a place to dock and a ride to the hospital while handling all of the boat piloting solo.
 
 There's much of that trip that my brain has lost, but I won't soon forget her docking.  She was at the wheel, looking over her shoulder, screaming at the dock hands, "I'VE NEVER DONE THIS BEFORE," while backig perfectly into a slip meant for a mega-yacht.
@@ -21,11 +23,15 @@ Shout out to Dr Dionne Dames, who was so amazing and kind that I'm thinking of f
 
 It seemed much longer, but four days later, I got my release.  It was Friday, and Crystal, Camilla, and Annika were flying in on Saturday to tour the best of the Exumas from the luxurious quarters on Velvet Elvis.
 
+<a class="lightview alignright" href="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250628_192058_IMG_0636.jpg" data-lightview-caption="Big boat neighbors" data-lightview-group="group1" ><img src="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250628_192058_IMG_0636.jpg" alt="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250628_192058_IMG_0636.jpg"><br><span class="caption">Big boat neighbors</span></a>
+
 I made them nervous at first.  Too tired to join them for lunch, they left me aboard.  Crystal commented, "He looks really pale."  It was just sunscreen, applied liberally over my naturally red face.
 
 Our crew on Velvet Elvis can give a pretty good Exumas trip at this point.  The Pegasus really reduces the time spent between islands, so we were able to go somewhere cool every day.  Here's a quick recap, in case you're planning your own trip.
 
 Norman's Cay:  A couple of cool tropical bars/restaurants.  Seatings were booked up, but we got to have cocktails.  There's a cool plane in shallow water to snorkel around.
+
+<a class="lightview alignright" href="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250629_175818_IMG_5196%202.jpg" data-lightview-caption="" data-lightview-group="group1" ><img src="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250629_175818_IMG_5196%202.jpg" alt="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250629_175818_IMG_5196%202.jpg"><br><span class="caption"></span></a>
 
 Shroud Cay:  One of my favorite places in the world.  We didn't get the bright sun that makes it look almost fake, but we motored up mangrove-lind streams and spotted sharks and a sea turtle.  Ending on the other side, we had clear water and a beach to ourselves.
 
@@ -34,6 +40,10 @@ O'Brien's Cay:  There's a great snorkeling spot, with tons and tons of fish and 
 Staniel Cay:  The original beach for swimming with pigs, Thunderball Grotto (another of my favorite places), and Staniel Cay yacht club.
 
 When we were at SCYC in 2021, we met a lady who just happened to live near Crystal, and her son.  They were fun, and we hung out for a couple of days.  And would you believe that they were there again?  That's the universe telling us that we should hang out sometimes.
+
+<a class="lightview alignright" href="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250703_193123_IMG_0305.jpg" data-lightview-caption="All of us + renewed friends at Black Point
+" data-lightview-group="group1" ><img src="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250703_193123_IMG_0305.jpg" alt="/img//gal/197 - Bahamas and Keys 2025/resIMG_20250703_193123_IMG_0305.jpg"><br><span class="caption">All of us + renewed friends at Black Point
+</span></a>
 
 Black Point:  You go here for the food, and to see a real Bahamas small town.  Most of the food was out when we were there, but Reese and Laura joined us, and we had a good time walking through town and eating and drinking what we could.
 
