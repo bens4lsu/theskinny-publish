@@ -15,3 +15,7 @@ cd ..
 cd Output && ln -s /Volumes/BenPortData/theskinny-media/sound sound
 cd ..
 cd Resources && ln -s /Volumes/BenPortData/theskinny-media/dailyphotostore dailyphotostore
+cd ..
+
+chflags -R nouchg /Volumes/BenPortData/theskinny-media
+chflags hidden Output
