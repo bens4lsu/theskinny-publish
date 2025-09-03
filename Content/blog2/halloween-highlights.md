@@ -1,7 +1,7 @@
 ---
 title: Halloween Highlights
 date: 2007-11-06 01:24
-description: A description of my post.
+description: As you might have guessed, we did our first kid-Halloween this past Wednesday.  Since our house gets about six groups a year -- and all of those are teenagers without costume -- we drove over to our friends' neighborhood.
 tags: young-ruski
 id: 333
 ---
