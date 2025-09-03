@@ -1,7 +1,7 @@
 ---
 title: Still Alive
 date: 2007-11-02 06:45
-description: A description of my post.
+description: Just a quick note to let you know that I'm still around.
 tags: uncategorized
 id: 332
 ---
