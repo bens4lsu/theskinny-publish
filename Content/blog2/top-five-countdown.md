@@ -4,6 +4,7 @@ date: 2007-11-14 22:44
 description: It's a little known fact that I count every time that I hear any song. Any song ever. For example, do you know that theme from The Nutcracker, whose name I don't know, but which is used in one out of three commercials between now and January 1? Well, I've heard that 5917 times in my life.
 tags: pop-culture
 id: 334
+ogImg: animaltrain.jpg
 ---
 It's a little known fact that I count every time that I hear any song.  Any song ever.  For example, do you know that theme from *The Nutcracker*, whose name I don't know, but which is used in one out of three commercials between now and January 1?  Well, I've heard that 5917 times in my life.  This year, it will probably break into the top five.
 
@@ -27,7 +28,7 @@ As it currently stands, the top five looks like this:
 	<td align="center">2</td><td>"Brown Eyed Girl," as performed by Van Morrison, followed by any number of covers, and every band ever to play at a wedding, bar mitzva, or office party.</td>
 	<td align="center">10,312</td>
 </tr><tr>
-	<td align="center">1</td><td>The main song played by the Animal Train, a favorite toy in our house, sold by Fisher Price.<img src="/img/animaltrain.jpg" /></td>
+	<td align="center">1</td><td><div>The main song played by the Animal Train, a favorite toy in our house, sold by Fisher Price.</div><div><img src="/img/animaltrain.jpg" /></div></td>
 	<td align="center">10,963</td>
 </tr>
 </table>

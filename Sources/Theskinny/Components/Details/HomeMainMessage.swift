@@ -32,8 +32,8 @@ struct HomeMainMessage: Component {
 
     // Photo Gallery
     let pgComponentGroup = ComponentGroup {
-       Text("Summer Sailing Photo Gallery")
-       ImageGalleryLinkSet(197)
+       Text("Summer Travel Photo Galleries")
+       ImageGalleryLinkSet(197, 198)
        EmptyComponent()
     }
 
