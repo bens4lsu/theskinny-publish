@@ -399,8 +399,10 @@ a.lightview.centered span.caption {
     font-size:80%;
     display: inline-block;
     word-break: break-word;
-    width:0;
-    min-width: 100%;
+}
+
+.caption:not(.pg-instruction-box) {
+	min-width: 100;
 }
 
 blockquote {
