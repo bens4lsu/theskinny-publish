@@ -16,6 +16,9 @@ do {
         try? restoreSymlinks()
         shell("chflags -R nouchg \(mediaPath)")
         shell("chflags hidden Output")
+        shell("chflags hidden Resources/img")
+        shell("chflags hidden Resources/dailyphotostore")
+        shell("chflags hidden Resources/sound")
     }
     
     /*
