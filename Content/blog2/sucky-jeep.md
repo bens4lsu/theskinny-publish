@@ -15,7 +15,7 @@ So speaking from experience, I can tell you that there are two times when a Jeep
 
 All of this is to be able to take off the top and swap out the doors during those few weeks when the weather is glorious.
 
-<a class="lightview alignright" href="/img/jeep1.jpg" data-lightview-caption="A Jeep of yesteryear." data-lightview-group="group1" ><img src="/img/jeep1.jpg" alt="/img/jeep1.jpg"><br><span class="caption">A Jeep of yesteryear.</span></a>
+<a class="lightview alignright" href="/img/jeep1.jpg" data-lightview-caption="A Jeep of yesteryear.  Zoom in and find the sniper." data-lightview-group="group1" ><img src="/img/jeep1.jpg" alt="/img/jeep1.jpg"><br><span class="caption">A Jeep of yesteryear.  Zoom in and find the sniper.</span></a>
 
 You won't have seen my black Jeep Gladiator on the big cross US & Canada camping trip a couple of years ago. (It was in the shop.) But it's still my every day vehicle, and it has been the shittiest one of them all.
 
@@ -31,7 +31,7 @@ It didn't take long for a cop to show up, and he just parked behind me and turne
 
 <a class="lightview alignright" href="/img/jeep2.jpg" data-lightview-caption="The current piece of junk." data-lightview-group="group1" ><img src="/img/jeep2.jpg" alt="/img/jeep2.jpg"><br><span class="caption">The current piece of junk.</span></a>
 
-Eventually, V got a gas can out of the garage. Probably the one that Big George gave me after _________.
+Eventually, V got a gas can out of the garage. Probably the one that Big George gave me after <a href="/blog2/mrstheskinnyonbenny-is-married-to-a-donkey/">this whole debacle</a>.
 
 The car has been in the shop 3 weeks so far, and there are three more weeks to go. You see, this little piece of electronics also contains the odometer. So to get it fixed, I have to bring it in, have them measure the mileage, and send it off in an order to Jeep. Then, Jeep has to make a new circuit board with that odometer reading burnt in as the starting number and send it back. But if I drive it off, they have to start the process over from the beginning.
 
