@@ -1,7 +1,7 @@
 ---
 title: Life is Rough
 date: 2014-08-19 13:31
-description: A description of my post.
+description: I was getting ready for work this morning, and I substituted a long sleeved button down shirt for my usual short sleeved short. 
 tags: uncategorized
 id: 1845
 ---

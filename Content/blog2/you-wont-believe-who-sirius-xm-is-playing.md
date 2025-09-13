@@ -1,7 +1,7 @@
 ---
 title: You Won't Believe Who Sirius XM is Playing
 date: 2014-05-21 09:56
-description: A description of my post.
+description: On Saturday, I heard something that I had never heard before:  Floyd Cramer on the radio.  Back in the early 90s, if you turned on mid-day TV for any amount of time at all, you were sure to see the commercial for a Floyd Cramer, playing a collection of other people's hits as piano instrumentals.
 tags: my-stories,music-pop-culture
 id: 1807
 ---

@@ -1,7 +1,7 @@
 ---
 title: In Defense of My Sexuality
 date: 2014-09-04 22:31
-description: A description of my post.
+description: Guess how many hours I've spent tracking down and looking at the trove of celeb naked pictures this week?  Read this whole post, and find out.
 tags: current-events
 id: 1863
 ---
@@ -15,7 +15,7 @@ Guess how many hours I've spent tracking down and looking at the trove of celeb 
 
 
 
-0.  Zero.  Haven't checked.
+0\.  Zero.  Haven't checked.
 
 My liberal, holier-than-thou bit of my brain says it's because these are private pictures, and it's invasive and wrong for me to look.
 

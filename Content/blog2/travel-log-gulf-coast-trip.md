@@ -1,9 +1,10 @@
 ---
 title: Travel Log - Gulf Coast Trip
 date: 2014-07-01 23:02
-description: A description of my post.
-tags: travel,sailing
+description: We left Slidell at 6:00 AM under a cover of bugs.  It's been a long time since we've hung with so many gnats and mosquitos, and they stuck with us for at least an hour.  Then, in a scene right out of a cartoon movie, and army of dragonflies showed up and ran them off.  The dragonflies stayed around for a long time too, and there must have been a couple of dozen flying along and resting on the lifelines.  We didn't mind them, and the boys got out the net to practice insect catch and release.
+tags: travel,sailing, velvet-elvis-beneteau
 id: 1813
+ogImg: gal/113%20-%202014%20Vacation%20-%20Northern%20Gulf%20Coast/resIMG_20140617_184834_2528.JPG
 ---
 *Saturday, June 14*
 

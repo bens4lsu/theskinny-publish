@@ -1,11 +1,11 @@
 ---
 title: Jellyfish
 date: 2014-03-26 14:40
-description: A description of my post.
+description: There's this article I read that is so full of fun facts that I just quote it liberally and provide you a link.
 tags: animals
 id: 1775
 ---
-<a href="http://www.outsideonline.com/outdoor-adventure/outside-classics/The-Sting-of-the-Assassin.html">This article</a> is so chok-a-block full of goodness that you need to stop what you're doing and go read it now. 
+<p><a href="http://www.outsideonline.com/outdoor-adventure/outside-classics/The-Sting-of-the-Assassin.html">This article</a> is so chok-a-block full of goodness that you need to stop what you're doing and go read it now. </p>
 
 In case you don't have 15 minutes to spare, here are some good facts about getting eaten by a predator. 
 

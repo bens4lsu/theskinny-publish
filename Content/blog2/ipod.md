@@ -1,8 +1,8 @@
 ---
 title: iPod
 date: 2014-09-17 22:16
-description: A description of my post.
-tags: uncategorized
+description: I don't see anyone else still carrying an iPod classic around, but mine is indispensable, and I spent the better part of a day distraught that I'm one hard drive failure from not having one any more.
+tags: technology
 id: 1869
 ---
 Lost in the big Apple announcement this week is the fact that they've <a href="http://gizmodo.com/apple-finally-killed-the-ipod-classic-rip-ipod-classic-1632613860" target="_blank">dropped the iPod Classic</a> from their product list.

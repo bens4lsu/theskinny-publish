@@ -1,8 +1,8 @@
 ---
 title: Hey
 date: 2014-03-21 16:12
-description: A description of my post.
-tags: young-ruski
+description:This morning, K woke up with a loud, "HEY!"  Scared the shit out of me, even though I was already awake.  Before I reacted, he continued.  "WHO MESSED WITH MY PANKAKES?"
+tags: young-ruski, favorites
 id: 1778
 ---
 This morning, K woke up with a loud, "HEY!"
@@ -12,8 +12,6 @@ Scared the shit out of me, even though I was already awake.
 Before I reacted, he continued.
 
 "WHO MESSED WITH MY PANKAKES?"
-
-
 
 "You were dreaming little dude.  There are no pancakes."
 

@@ -1,9 +1,10 @@
 ---
 title: Real Ice
 date: 2014-01-10 00:23
-description: A description of my post.
+description: On the way to school this morning, V got all excited.  He was talking 100 miles per hour.  "I forgot to tell you what we had at school!  REAL. ICE. Not like a cube or one of those things that hangs down, but it was round and really was ice!"
 tags: young-ruski
 id: 1760
+ogImg: temps.png
 ---
 On the way to school this morning, V got all excited.  He was talking 100 miles per hour.
 

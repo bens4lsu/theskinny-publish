@@ -1,9 +1,10 @@
 ---
-title: Travel Log â€“ Gulf Coast Trip Part 2
+title: Travel Log -- Gulf Coast Trip Part 2
 date: 2014-09-03 21:16
-description: A description of my post.
+description: When we last checked in with our intrepid voyagers on Velvet Elvis, they were at a nice little anchorage at about the spot where the civilized Florida coast dissappears for good.  We left there between 5:00 and 6:00, knowing that our first all day-all night-all day sail was ahead of us.
 tags: travel,sailing, velvet-elvis-beneteau
 id: 1832
+ogImg: gal/114%20-%202014%20Vacation%20-%20South%20Florida/resIMG_20140620_194006_2544.JPG
 ---
 This is the completion of our vacation story, which I first started <a href="http://theskinnyonbenny.com/blog2/archives/1813">way back when</a>.  If you've forgotten all of that, go give it a quick look.  I'll meet you back here.
 

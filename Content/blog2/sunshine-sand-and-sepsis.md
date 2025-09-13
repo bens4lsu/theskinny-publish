@@ -2,7 +2,7 @@
 title: Sunshine, Sand, and Sepsis
 date: 2025-07-28 20:51
 description: I should have known I was sick when LSU won the National Championship in baseball, and I wasn't elated.  I was the guy watching every pitch of February series against colleges that I'd never heard of.  I watched great wins that took until the wee hours of the morning, and I saw the Tigers play some pretty rough series on the road during conference play.
-tags: travel, bahamas, sailing
+tags: travel, bahamas, sailing, velvet-elvis-pegasus
 id: 2395
 ogImg: /gal/197 - Bahamas and Keys 2025/resIMG_20250703_193123_IMG_0305.jpg
 ---

@@ -1,9 +1,10 @@
 ---
 title: Festival Stuff
 date: 2014-05-01 09:26
-description: A description of my post.
+description: The Spring festival season is a great, great time of year.  I was channel flipping last night, and one station had clips from last year's Jazz Fest.  I stuck around for a few songs, and they flipped to the end of Trombone Shorty's set that closed it out last year.  I called the kids in there to look for themselves, even though we were so far back when he played that our images had to have been reduced to a mere pixel or two even on the rare occasions that the camera zoomed out far enough to see the approximiate location where we sat.
 tags: young-ruski
 id: 1789
+ogImg: resIMG_20140426_125610_2081.JPG
 ---
 The Spring festival season is a great, great time of year.  I was channel flipping last night, and one station had clips from last year's Jazz Fest.  I stuck around for a few songs, and they flipped to the end of Trombone Shorty's set that closed it out last year.  I called the kids in there to look for themselves, even though we were so far back when he played that our images had to have been reduced to a mere pixel or two even on the rare occasions that the camera zoomed out far enough to see the approximiate location where we sat.
 

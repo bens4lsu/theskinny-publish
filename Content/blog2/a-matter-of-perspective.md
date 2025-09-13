@@ -1,7 +1,7 @@
 ---
 title: A Matter of Perspective
 date: 2014-05-30 14:38
-description: A description of my post.
+description: I'm not sure what made me think of it today, but several years ago, a group of us went into a rather nice restaurant.  There were probably 6 or 8 of us.
 tags: food
 id: 1810
 ---

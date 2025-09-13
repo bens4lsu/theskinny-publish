@@ -1,9 +1,10 @@
 ---
 title: Snacks Made Out Of Other Snacks
 date: 2014-07-03 19:55
-description: A description of my post.
-tags: young-ruski
+description: There's a certain segment of my family that has earned some notariety with the rest of the family for their propensity for making snacks out of other snacks.
+tags: young-ruski, food
 id: 1827
+ogImg: IMG_2180.jpg
 ---
 There's a certain segment of my family that has earned some notariety with the rest of the family for their propensity for making snacks out of other snacks.
 

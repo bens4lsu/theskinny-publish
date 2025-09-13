@@ -1,9 +1,10 @@
 ---
 title: First Day of Pre-K 3
 date: 2014-08-11 23:24
-description: A description of my post.
+description: Before I start my story, let me say to all of my Facebook friends that I've really enjoyed everyone's first day of school pictures.  At least one of you has extremely cute kids.  Go ahead and keep thinking it's you.
 tags: young-ruski
 id: 1834
+ogImg: resIMG_20140811_071520_2984.JPG
 ---
 Before I start my story, let me say to all of my Facebook friends that I've really enjoyed everyone's first day of school pictures.  At least one of you has extremely cute kids.  Go ahead and keep thinking it's you.
 

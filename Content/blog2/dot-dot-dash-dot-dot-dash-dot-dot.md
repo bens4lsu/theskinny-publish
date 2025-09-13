@@ -1,9 +1,10 @@
 ---
 title: Dot-Dot-Dash-Dot Dot-Dash-Dot-Dot
 date: 2014-05-08 14:27
-description: A description of my post.
-tags: things-i-just-dreamed-up
+description: You know that guy in your company's project meetings who is absent-mindedly clicking his pen during the call?  It's not really so absent minded.  He's sending a Morse code message to whoever's on the other end.
+tags: things-i-just-dreamed-up, the-office
 id: 1803
+ogImg: deskstuff.jpg
 ---
 You know that guy in your company's project meetings who is absent-mindedly clicking his pen during the call?
  

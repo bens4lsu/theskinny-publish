@@ -1,7 +1,7 @@
 ---
 title: Uke Guy
 date: 2014-02-12 16:57
-description: A description of my post.
+description: Way back in August, when filling out paperwork for preschool, one of the forms asked about any parental talents that might be fun for the class to know about.  Mrs. theskinnyonbenny considered our talents, and decided that my consistent ability to pull my pants ALL the way up above my butt crack wasn't impressive enough, so she listed me as a ukulele player.
 tags: young-ruski
 id: 1765
 ---
