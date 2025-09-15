@@ -1,8 +1,8 @@
 ---
 title: Little Kid Valentine's Day
 date: 2008-02-15 08:05
-description: A description of my post.
-tags: uncategorized
+description: Yesterday, we went to a dumb little Valentines day party at Vanya's preschool.  All the toddlers danced around while their teacher sang, and then we watched them eat their lunch.  Then we watched them get grouchy as it came close to nap time.
+tags: my-youth, favorites, young-ruski
 id: 349
 ---
 Yesterday, we went to a dumb little Valentines day party at Vanya's preschool.  All the toddlers danced around while their teacher sang, and then we watched them eat their lunch.  Then we watched them get grouchy as it came close to nap time.

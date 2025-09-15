@@ -7,14 +7,16 @@ id: 346
 ---
 Say you're a big, giant financial corporation, and you suffer through a year with headlines like these:
 
-<div><a href="http://www.localnewsleader.com/elytimes/stories3/index.php?action=fullnews&id=240481" target="_blank">Capital One 4Q profit falls 42 percent</a></div>
+<ul><li><a href="http://www.localnewsleader.com/elytimes/stories3/index.php?action=fullnews&id=240481" target="_blank">Capital One 4Q profit falls 42 percent</a></li>
 
-<div><a href="http://www.forbes.com/markets/2007/08/21/capital-one-mortgage-markets-equity-cx_er_0821markets09.html
-" target="_blank">Capital One Exits Mortgage Business</a></div>
+<li><a href="http://www.forbes.com/markets/2007/08/21/capital-one-mortgage-markets-equity-cx_er_0821markets09.html
+" target="_blank">Capital One Exits Mortgage Business</a></li>
 
-<div><a href="http://www.businessweek.com/investor/content/apr2007/pi20070420_201721.htm?chan=rss_topStories_ssi_5" target="_blank">S&P Downgrades Capital One Shares</a></div>
+<li><a href="http://www.businessweek.com/investor/content/apr2007/pi20070420_201721.htm?chan=rss_topStories_ssi_5" target="_blank">S&P Downgrades Capital One Shares</a></li>
 
-<div><a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/11/08/AR2007110802349_pf.html" target="_blank">Capital One Stock Suffers</a></div>
+<li><a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/11/08/AR2007110802349_pf.html" target="_blank">Capital One Stock Suffers</a></li></ul>
+
+<h3>2025 update:  none of these links works any more</h3>
 
 So what's the big corp to do?
 

@@ -1,7 +1,7 @@
 ---
 title: Initials
 date: 2008-02-26 12:54
-description: A description of my post.
+description: My initials are downright trifling.
 tags: the-office,young-ruski
 id: 351
 ---

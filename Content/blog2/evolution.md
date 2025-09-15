@@ -1,7 +1,7 @@
 ---
 title: Evolution
 date: 2008-02-22 06:41
-description: A description of my post.
+description: I can't believe that we actually had a viable presidential candidate this year who denied evolution.  Let's think through the rationale of a guy who wanted to lead the free world.
 tags: opinion
 id: 350
 ---

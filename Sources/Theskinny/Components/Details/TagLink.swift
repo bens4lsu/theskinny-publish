@@ -13,7 +13,7 @@ struct TagLinks: Component {
     let tags: Set<Tag>
     
     var tagsSorted: [Tag] {
-        Array(tags).sorted{ $0.string < $1.string }
+        Array(tags).sorted{ $0.string.lowercased() < $1.string.lowercased() }
     }
     
     var body: Component {

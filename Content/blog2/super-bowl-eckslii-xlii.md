@@ -1,7 +1,7 @@
 ---
 title: Super Bowl Eckslii (XLII)
 date: 2008-02-04 20:01
-description: A description of my post.
+description: I didn't get too much into Super Bowl pregame hype.  For some reason, that one off weekend made it seem like a month since the conference championship games.  To top that, I didn't have a strong rooting interest in the game, since neither team was local, and since I had no money on the line.  There were bad reasons for me to cheer for either team.
 tags: sports
 id: 347
 ---
@@ -38,7 +38,7 @@ And besides, when St. Louis had both baseball and football teams named Cardinals
 
 Speaking of Chris Berman, here's a clip that appears to be at least a few years old  (UPDATE:  8 years, if you look at the sign behind him), but is just popping up everywhere now. Don't watch if you're offended by bad words. 
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/tnC8BtNBNLo&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/tnC8BtNBNLo&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<h3>2025 update:  who knows what video this was?  There are plenty of Berman dropping f-bombs, so google it and take your pick.</h3>
 
 Anyway, I found myself rooting for the Patriots most of the game, but when the Giants were driving, I was pulling for them too.  I guess I just wanted some offense after the lack of it through the first three quarters.  No sense in me recapping anything, but needless to say, good game.
 

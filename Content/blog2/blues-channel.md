@@ -1,8 +1,8 @@
 ---
 title: Blues Channel
 date: 2008-01-30 09:47
-description: A description of my post.
-tags: pop-culture
+description: When I upgraded to a 4-door Jeep Wrangler last year, it came with a free year's subscription to Serius satellite radio.  The radio has 6 buttons, each of which hold two stations' worth of presets.  Push it once for the first station, and push it again for the second.  After almost a year of messing with it, I have the buttons laid out like this (actual station names listed in case you are familiar and curious):
+tags: pop-culture, music, jeep
 id: 345
 ---
 When I upgraded to a 4-door Jeep Wrangler last year, it came with a free year's subscription to Serius satellite radio.  The radio has 6 buttons, each of which hold two stations' worth of presets.  Push it once for the first station, and push it again for the second.  After almost a year of messing with it, I have the buttons laid out like this (actual station names listed in case you are familiar and curious):

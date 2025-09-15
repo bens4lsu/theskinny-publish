@@ -1,8 +1,8 @@
 ---
 title: Spit in the Kitchen
 date: 2008-02-29 16:28
-description: A description of my post.
-tags: my-stories
+description: I was in a convenience store today, and a young guy came in wearing black pants with pinstripes and a Ruth's Chris t-shirt.  I couldn't hear the clerk, but his side of the conversation went like this.
+tags: my-stories, food
 id: 353
 ---
 I was in a convenience store today, and a young guy came in wearing black pants with pinstripes and a Ruth's Chris t-shirt.  I couldn't hear the clerk, but his side of the conversation went like this.
