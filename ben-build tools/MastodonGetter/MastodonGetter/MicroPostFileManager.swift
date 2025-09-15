@@ -10,7 +10,7 @@ import Foundation
 class MicroPostFileManager {
     
     let contentFilePath = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content/micro-posts/"
-    let mediaFilePath = "/Volumes/BenPortData/theskinny-media/img/micro/"
+    let mediaFilePath = "\(EnvironmentKey.mediaPath)/img/micro/"
     let htmlRelativePath = "/img/micro/"
     let yamlFile = "/Users/ben/XCode/projects/Publish Web Sites/theskinny/Content-custom/mastodon-posts.yaml"
     

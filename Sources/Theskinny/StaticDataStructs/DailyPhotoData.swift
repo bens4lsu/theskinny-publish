@@ -57,7 +57,7 @@ enum MonthLinkDirection {
 
 struct DailyPhotoData {
     
-    private static let dailyphotostore = "/Volumes/BenPortData/theskinny-media/dailyphotostore"
+    private static let dailyphotostore = "\(EnvironmentKey.mediaPath)/dailyphotostore"
 
     static let years: [DailyPhotoYear] = {
             

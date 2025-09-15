@@ -4,17 +4,17 @@ chflags -R nouchg Resources/img
 chflags -R nouchg Output/img
 rm -r Resources/img
 rm -r Output/img
-cd Resources && ln -s /Volumes/BenPortData/theskinny-media/img img
+cd Resources && ln -s ../../theskinny-media/img img
 cd ..
-cd Output && ln -s /Volumes/BenPortData/theskinny-media/img img
+cd Output && ln -s ../../theskinny-media/img img
 cd ..
-cd Output && ln -s /Volumes/BenPortData/theskinny-media/dailyphotostore dailyphotostore
+cd Output && ln -s ../../theskinny-media/dailyphotostore dailyphotostore
 cd ..
-cd Resources && ln -s /Volumes/BenPortData/theskinny-media/sound sound
+cd Resources && ln -s ../../theskinny-media/sound sound
 cd ..
-cd Output && ln -s /Volumes/BenPortData/theskinny-media/sound sound
+cd Output && ln -s ../../theskinny-media/sound sound
 cd ..
-cd Resources && ln -s /Volumes/BenPortData/theskinny-media/dailyphotostore dailyphotostore
+cd Resources && ln -s ../../theskinny-media/dailyphotostore dailyphotostore
 cd ..
 
 chflags -R nouchg /Volumes/BenPortData/theskinny-media
