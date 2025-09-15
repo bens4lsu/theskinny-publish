@@ -1,8 +1,8 @@
 ---
 title: All the Things That I Haven't Posted Lately
 date: 2007-12-10 13:45
-description: A description of my post.
-tags: uncategorized
+description: Instead of blogging, I've spent a lot of time installing trim around windows, crown molding, light fixtures, and putting up paint.  It's unfortunate for my site, because I really had a lot to say in the past month that didn't get posted.  Here's a partial list of posts that I thought about doing but never got to in the past few weeks:
+tags: young-ruski
 id: 337
 ---
 Instead of blogging, I've spent a lot of time installing trim around windows, crown molding, light fixtures, and putting up paint.  It's unfortunate for my site, because I really had a lot to say in the past month that didn't get posted.  Here's a partial list of posts that I thought about doing but never got to in the past few weeks:
@@ -19,7 +19,7 @@ For the record, Showtime's <a href="http://www.sho.com/site/dexter/home.do" targ
 
 <li>Stories around my first full week as a solo parent, while Mrs. theskinnyonbenny took a business trip.  I won't fill my web site with videos about kids, but here's what we did during the Grinch that week.
 
-<object type="application/x-shockwave-flash" width="500" height="333" data="http://www.vimeo.com/moogaloop.swf?clip_id=407910&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=01AAEA">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=407910&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=01AAEA" /></object><br /><span class="caption"><a href="http://www.vimeo.com/407910/l:embed_407910" >Enjoying the Singing of the Whos from Whoville</a> from <a href="http://www.vimeo.com/user244752/l:embed_407910" >ben schultz</a> on <a href="http://vimeo.com/l:embed_407910" >Vimeo</a></span>
+<iframe width="671" height="722" src="https://www.youtube.com/embed/ggHOJteGf8o" title="Enjoying the Singing of the Whos from Whoville" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </li>
 

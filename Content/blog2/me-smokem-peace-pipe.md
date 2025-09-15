@@ -1,7 +1,7 @@
 ---
 title: Me Smokem Peace Pipe
 date: 2014-01-02 06:00
-description: A description of my post.
+description: I recently related a story to my wife and mother.  I would have thought that between them, there were no tales that they had not heard, but they both claimed that it was new to them.  I guess that makes it a fresh story for me to post here.
 tags: my-youth
 id: 1753
 ---

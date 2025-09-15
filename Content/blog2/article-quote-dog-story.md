@@ -1,12 +1,16 @@
 ---
 title: Article, Quote, Dog Story
 date: 2007-12-13 10:43
-description: A description of my post.
+description: Some stories about the end of football season, and about a dumb dog.
 tags: animals,sports
 id: 338
 ---
 
-I don't usually enjoy end-of-year retrospectives, but I very much enjoyed <a href="http://sportsillustrated.cnn.com/2007/writers/austin_murphy/12/11/season.review/2.html" target="_blank">this college football season review</a> from Austin Murphy on si.com.  I pulled a quote from the article to add to my quote file.
+I don't usually enjoy end-of-year retrospectives, but I very much enjoyed this college football season review from Austin Murphy on si.com.  
+
+<h3>2025 update:  original link broken.  <a href="https://www.si.com/more-sports/2007/10/26/awards" target="_blank">Maybe this one?</a></h3>
+
+I pulled a quote from the article to add to my quote file.
 
 <blockquote>If they win this game, that sumbitch bitch should win the Heisman!</blockquote>
 
@@ -16,9 +20,8 @@ Practice saying "Sumbitch bitch" in your best imitation of Carville's voice.  Th
 
 As an outspoken proponent of both LSU and the state of Louisiana, I always find Carville to be equal parts embarassing and entertaining.
 
-
-
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 The night before last, I was asleep, and woke to Lily giving quiet little barks.  Usually, this means she wants me to scoot over a foot or so, so that she can jump into bed.  I slid over and closed my eyes, but she continued to whisper bark.
 
 I finally woke up enough to look down.  When she saw my eyes open, she took a few steps toward the door, and looked back.  I closed my eyes.  She whisper barked again.

@@ -1,7 +1,7 @@
 ---
 title: Tito, Get Me a Tissue
 date: 2008-01-02 22:36
-description: A description of my post.
+description: I'm watching the Fiesta Bowl right now, and a West Virginia player named Tito Gonzales just caught a monster pass for a touchdown.  I don't know who the announcers are tonight.  Fox doesn't cover college football the rest of the year, and these aren't the scrubs who get sent to broadcast Saints games, so I don't recognize the voices.
 tags: sports,pop-culture
 id: 339
 ---

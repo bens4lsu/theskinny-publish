@@ -1,9 +1,10 @@
 ---
 title: Bad Breakfast Liveblog
 date: 2013-12-30 15:18
-description: A description of my post.
+description: This Friday, we went to New Orleans to meet up with a big group of friends.  I guess it's becoming a thing, but since the holidays marks a return of out-of-towners who have fled to greener pastures, we end up with a decent crowd of both local and out of town friends.  Even if I could remember all of the reasons that I laughed until my face hurt, I probably wouldn't post about them.  
 tags: food
 id: 1750
+ogImg: laughing.jpg
 ---
 This Friday, we went to New Orleans to meet up with a big group of friends.  I guess it's becoming a thing, but since the holidays marks a return of out-of-towners who have fled to greener pastures, we end up with a decent crowd of both local and out of town friends.  Even if I could remember all of the reasons that I laughed until my face hurt, I probably wouldn't post about them.  
 
@@ -11,7 +12,9 @@ This Friday, we went to New Orleans to meet up with a big group of friends.  I g
 
 The next morning, <span class="spanEndPreview">&nbsp;</span>we got up early to see some of our friends off with a good meal at our favorite New Orleans brunch place.  Toward the end of our stay, it occurred to me that I should have been live blogging the whole thing.  I wasn't, but I'm here to pretend that I was.  I assure you that while my memory may be scrambling a few details here and there, this is a very close portrayal of my entire Saturday morning.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/laughing.jpg"></td></tr><tr><td class="caption" width="250">Not so sober men laughing at God-knows-what on Friday night.</td></tr></table>
+<a class="lightview alignright" href="/img/laughing.jpg" data-lightview-caption="Not so sober men laughing at God-knows-what on Friday night.
+" data-lightview-group="group1" ><img src="/img/laughing.jpg" alt="/img/laughing.jpg"><br><span class="caption">Not so sober men laughing at God-knows-what on Friday night.
+</span></a>
 
 9:15 - 
 
