@@ -40,7 +40,7 @@ do {
         .imageGalleries(),
         .dailyPhotos(),
         .oldMicroPosts(),
-        //.playlists(),
+        .playlists(),
         .printDate()
     ])
     shell("afplay /System/Library/Sounds/Submarine.aiff")
