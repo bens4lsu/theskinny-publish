@@ -1,7 +1,7 @@
 ---
 title: Bank Troubles
 date: 2008-01-31 11:34
-description: A description of my post.
+description: What do you do if you're a big, giant corporation with bad financials?
 tags: current-events
 id: 346
 ---
