@@ -50,4 +50,8 @@ struct VideoData {
         //print(retVal)
         return retVal
     }()
+    
+    static func aVideo(forId id: Int) -> Video? {
+        return videoAlbums.flatMap(\.videos).first { $0.id == id }
+    }
 }

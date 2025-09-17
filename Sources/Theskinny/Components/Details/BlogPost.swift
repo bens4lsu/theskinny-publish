@@ -8,6 +8,9 @@
 import Foundation
 import Plot
 import Publish
+import Ink
+import Files
+
 
 struct BlogPost: Component {
     
@@ -39,6 +42,24 @@ struct BlogPost: Component {
         self.tags = tags
         self._linkOverride = nil
         self.ogImg = ogImg
+    }
+    
+    init(slug: String) {
+        let file = try! File(path: "Content/blog2/\(slug).md")
+        let md = try! MarkdownParser().parse(file.readAsString())
+        let requiredMetadataDateString = md.metadata["date"] ?? ""
+        let requiredMetadataDate = EnvironmentKey.yyyyMMddhhmmDateFormatter.date(from: requiredMetadataDateString) ?? Date(timeIntervalSince1970: 0)
+        let requriedMetadataIDString = md.metadata["id"] ?? ""
+        let requiredMetadataID = Int(requriedMetadataIDString) ?? 0
+
+        self.title = md.metadata["title"] ?? ""
+        self.slug =  slug
+        self.date = requiredMetadataDate
+        self.content = ""
+        self.id = requiredMetadataID
+        self.description = md.metadata["description"] ?? "Post description missing."
+        self.tags = []
+        self.ogImg = md.metadata["ogImg"]
     }
     
     var dateString: String {

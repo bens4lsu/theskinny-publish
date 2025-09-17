@@ -30,6 +30,8 @@ extension TsobHTMLFactory {
                 return makePageHTMLDefault(for: page, context: context, content: Galleries(), title: "Photo Galleries")
             case "velvet-elvis/beneteau":
                 return makePageBeneteauHome(for: page, context: context)
+            case "velvet-elvis/pegasus":
+                return makePagePegasusHome(for: page, context: context)
             case "big-trip-reversed":
                 return makePageBigTripReversed(for: page, context: context)
             case "mobileSitemap":
@@ -146,6 +148,17 @@ extension TsobHTMLFactory {
             .body(.component(pageMain))
         )
     }
+
+    fileprivate func makePagePegasusHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
+        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Pegasus Velvet Elvis")
+        let component = VEPegasusHome(mdComponent: page)
+        let pageMain = AnyPageMain(mainContent: component, site: context.site)
+        return HTML(
+            htmlHeadInfo.node,
+            .body(.component(pageMain))
+        )
+    }
+    
     
     fileprivate func makePageBigTripReversed(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
         let htmlHeadInfo = HeaderInfo(location: context.index, title: "Travel Page")

@@ -38,6 +38,13 @@ extension EnvironmentKey where Value == DateFormatter {
         return formatter
     }()
     
+    static let yyyyMMddhhmmDateFormatter: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd hh:mm"
+        formatter.timeZone = .init(identifier: "UTC")
+        return formatter
+    }()
+    
     static let formatterYYYY: DateFormatter = {
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy"
@@ -49,6 +56,7 @@ extension EnvironmentKey where Value == DateFormatter {
         formatter.dateFormat = "yyyy/MM/dd"
         return formatter
     }()
+    
 
 }
 
@@ -66,7 +74,7 @@ extension EnvironmentKey where Value == String {
     
     static let predictWindSrc = "https://forecast.predictwind.com/tracking/display/VelvetElvis/?mapMode=useAtlas&windSymbol=OFF&weatherSource=ECMWF&trackDuration=31536000"
     
-    static let appleMusicFilePath =  "/Users/ben/Library/CloudStorage/OneDrive-ConcordBusinessServices,LLC/itunes xml"
+    static let appleMusicFilePath =  "/Users/ben/Code/theskinny-publish/Content-custom/itunes-pl/"
     
     static let googleMapsAPIKey = "AIzaSyAgaq2P3nwaEVsfOWNFRzcPcIpS4G0H5KA"
     static let bigtripMapKMZ = "https://theskinnyonbenny.com/bigtrip-actual.kml"

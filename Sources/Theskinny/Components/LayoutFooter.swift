@@ -20,7 +20,7 @@ struct LayoutFooter: Component {
                 }
                 Div {
                     Text("Generated using ")
-                    Link("Publish", url: "https://github.com/bens4lsu/publish")
+                    Link("Publish", url: "https://github.com/JohnSundell/Publish")
                     Text(".  Written in Swift.")
                 }
                 Div {

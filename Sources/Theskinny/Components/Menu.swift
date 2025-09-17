@@ -155,6 +155,9 @@ struct Menu: Component {
                     ListItem{
                         Link("Beneteau (2016-2023)", url: "/velvet-elvis/beneteau")
                     }.class("li-pagelink")
+                    ListItem{
+                        Link("Pegasus (2024 - now)", url: "/velvet-elvis/pegasus")
+                    }.class("li-pagelink")
                 }
                 
                 Collapser(text: "Media ♪ ", elementId: "media-consumed").component {
