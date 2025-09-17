@@ -35,14 +35,16 @@ class GoodreadsData {
         let myRating: UInt8?
         let dateRead: Date
         let howConsumed: GoodreadsHowConsumed
+        let myReview: String?
         
-        init(bookId: Int, title: String, author: String, myRating: UInt8?, dateRead: Date, howConsumed: GoodreadsHowConsumed) {
+        init(bookId: Int, title: String, author: String, myRating: UInt8?, dateRead: Date, howConsumed: GoodreadsHowConsumed, myReview: String?) {
             self.bookId = bookId
             self.title = title
             self.author = author
             self.myRating = myRating
             self.dateRead = dateRead
             self.howConsumed = howConsumed
+            self.myReview = myReview
         }
         
         static func < (lhs: GoodreadsData.GoodreadsBook, rhs: GoodreadsData.GoodreadsBook) -> Bool {
@@ -92,7 +94,9 @@ class GoodreadsData {
                                          author: author,
                                          myRating: UInt8(ratingString),
                                          dateRead: date,
-                                         howConsumed: howConsumed)
+                                         howConsumed: howConsumed,
+                                         myReview: row["My Review"]
+                )
                 books.append(book)
             }
         }

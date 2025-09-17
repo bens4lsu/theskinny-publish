@@ -38,6 +38,7 @@ struct Book: Component {
             audiobookIndicator
             Div(grbook.author)
             Div (stars)
+            H3 (grbook.myReview ?? "")
         }
     }
 }

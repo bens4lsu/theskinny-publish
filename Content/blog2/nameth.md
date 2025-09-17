@@ -1,7 +1,7 @@
 ---
-title: A Trend in People Names
+title: Nameth
 date: 2025-09-16 10:44
-description:  
+description: Give me your best names that aren't quite names.
 tags: my-stories
 id: 2399
 ogImg:
