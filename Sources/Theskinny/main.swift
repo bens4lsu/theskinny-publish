@@ -32,7 +32,9 @@ do {
     
     try hideResourceImages()
             
-    try Theskinny().publish(withTheme: .tsobTheme, additionalSteps: [
+    try Theskinny().publish(withTheme: .tsobTheme,
+                            indentation: .spaces(4),
+                            additionalSteps: [
         .printDate(),
         .writePostPages(),
         .writeRedirectsFromWordpressUrls(),
