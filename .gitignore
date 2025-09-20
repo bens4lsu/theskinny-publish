@@ -15,6 +15,7 @@ Output/img
 Output/sound
 Output/img/*
 Output/sound/*
+Output/.htaccess
 tmp
 Resources/dailyphotostore
 Output/dailyphotostore
