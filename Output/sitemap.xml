@@ -391,6 +391,12 @@
         <lastmod>2025-09-19</lastmod>
     </url>
     <url>
+        <loc>https://theskinnyonbenny.com/blog2/rescued-from-2019</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2025-09-19</lastmod>
+    </url>
+    <url>
         <loc>https://theskinnyonbenny.com/blog2/nameth</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
@@ -8036,6 +8042,12 @@
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog2/archives/240</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2025-09-19</lastmod>
+    </url>
+    <url>
+        <loc>https://theskinnyonbenny.com/blog2/archives/2400</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
         <lastmod>2025-09-19</lastmod>
