@@ -1,12 +1,36 @@
 id: 9123002
-name: Home Movies 2023
-slug: home-movies-2023
+name: Home Movies 2019-2023
+slug: home-movies-2019-2023
 caption: 
 tn: mq20231213a.jpg
 linkBack:
     text: Family Home Videos
     url: /vid/family-home-videos/
 videos: 
+    -
+        id: 912345042
+        dateRecorded: 2019-03-14
+        name: Who Eats Boogers?
+        caption: |
+            
+        url: https://youtu.be/fD-c_qVtETg
+        embed: <iframe width="834" height="469" src="https://www.youtube.com/embed/fD-c_qVtETg" title="Who Eats Boogers?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20250919a.jpg
+        duration: 0:40
+        attribution:
+        
+    -
+        id: 912345043
+        dateRecorded: 2019-03-15
+        name: Kolya's First At Bat
+        caption: |
+            
+        url: https://youtu.be/hsAv0NP9T6M
+        embed: <iframe width="834" height="469" src="https://www.youtube.com/embed/hsAv0NP9T6M" title="Kolya&#39;s First At Bat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20250919b.jpg
+        duration: 0:30
+        attribution:
+
     -
         id: 912345002
         dateRecorded: 2023-12-09
