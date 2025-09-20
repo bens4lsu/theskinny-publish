@@ -1,9 +1,10 @@
 ---
 title: Halloweekend
 date: 2013-11-05 11:16
-description: A description of my post.
-tags: uncategorized
+description: Halloween this year was wet.  I never thought about it before, but I don't ever remember a rainy Halloween before -- not even as a kid.  But it was fine. 
+tags: my-stories, halloween, new-orleans
 id: 1729
+ogImg: vfly.jpg
 ---
 Halloween this year was wet.  I never thought about it before, but I don't ever remember a rainy Halloween before -- not even as a kid.
 
@@ -11,8 +12,7 @@ But it was fine.  A long block of trick-or-treating got us inside relatively ear
 
 I was glad to get inside in time to see an epic ABC programming feaux-pas.  Right after Charlie Brown's Halloween ended, they went right into Grey's Anatomy, which started with a scene of two naked women waking up together.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="**************" src="/img/abcscreenshot.png"/></p>
-<p class="caption">ABC Screen capture, about five seconds after the end of the Peanuts Halloween special.</p>
+<a class="lightview centered" href="/img/abcscreenshot.png" data-lightview-caption="ABC Screen capture, about five seconds after the end of the Peanuts Halloween special." data-lightview-group="group1"><img src="/img/abcscreenshot.png" alt="/img/abcscreenshot.png"><br><span class="caption">ABC Screen capture, about five seconds after the end of the Peanuts Halloween special.</span></a>
 
 My kids didn't notice, and even if they had, they would have totally accepted an explaination where I shrug and say, "Some grownups sleep nude."  And that would have been the end of it.  I like to think of it having lead to awkward discussion across America, but in most places, the kids were probably just getting in.
 
@@ -22,7 +22,7 @@ For me, the most fun is the booze smuggle-in.
 
 On Friday, I tucked a flask into my pants, and I waited for 10 minutes while the searcher checked jacket pockets, had me unfold blankets, and felt through every pocket of a roomy backpack.  Meanwhile, K tugged on the leg of my shorts asking, "What's in Papa's balls?"  "What's in Papa's balls?"  "Is that whiskey in Papa's balls?"
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="420" ><img src="/img/kquarter.jpg"></td></tr><tr><td class="caption" width="420">Hanging out in the French Quarter</td></tr></table>
+<a class="lightview alignright" href="/img/kquarter.jpg" data-lightview-caption="Hanging out in the French Quarter" data-lightview-group="group1" ><img src="/img/kquarter.jpg" alt="/img/kquarter.jpg"><br><span class="caption">Hanging out in the French Quarter</span></a>
 
 They should pay more attention.
 
@@ -30,7 +30,7 @@ On Saturday, I could have smuggled in a whole pharmacy of drugs and a couple of 
 
 On Sunday, I noticed the line had the first waist and pant-leg patter that I had seen.  She was the only threat all weekend to whiskey confiscation.  I pulled off my backpack and used it to keep a distance between us as I started unrolling blankets and unzipping pockets.  She got tired of the ordeal before we were through it all, and sent me through without the body pat.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="300" ><img src="/img/vfly.jpg"></td></tr><tr><td class="caption" width="300">Taking flight at the festival.</td></tr></table>
+<a class="lightview alignright" href="/img/vfly.jpg" data-lightview-caption="Taking flight at the festival." data-lightview-group="group1" ><img src="/img/vfly.jpg" alt="/img/vfly.jpg"><br><span class="caption">Taking flight at the festival.</span></a>
 
 We saw a lot of good music.  <a href="http://www.thevirginmarys.com/" target="_blank">The Virginmarys</a> and the alt-country duo <a href="http://www.shovelsandrope.com/" target="_blank">Shovels and Rope</a> have a new fan over here.  (Hey, check that out, they're playing a bar in Baton Rouge in February!)
 
@@ -42,7 +42,7 @@ We went late on Sunday, and the first act we caught was Matt and Kim.  I expecte
 
 The Kim of Matt and Kim really made an impression on Kolya.  He spent a half hour after their show asking "Where Lady go?" and "When she come back?"  That might or might not be a good sign, since she spent a lot of time standing on her bass drum, shaking her (very attractive) ass at the crowd, and then made a show of putting on a half dozen thongs that had hit the stage.  
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="400" ><img src="/img/cure.jpg"></td></tr><tr><td class="caption" width="400">Who recognizes this older, fatter version of a rocker that you've known for 20 years?</td></tr></table>
+<a class="lightview alignright" href="/img/cure.jpg" data-lightview-caption="Who recognizes this older, fatter version of a rocker that you've known for 20 years?" data-lightview-group="group1" ><img src="/img/cure.jpg" alt="/img/cure.jpg"><br><span class="caption">Who recognizes this older, fatter version of a rocker that you've known for 20 years?</span></a>
 
 (They really were a lot of fun to watch.)
 
@@ -56,5 +56,4 @@ Also, Kolya found a hairy curler from some bowl of the hotel room and had it a m
 
 Good weekend.  Can't wait for next year.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="**************" src="/img/vtophat.jpg"/></p>
-<p class="caption" style="margin-left:105px;">Waiting for the next act.</p>
+<a class="lightview centered" href="/img/vtophat.jpg" data-lightview-caption="Waiting for the next act." data-lightview-group="group1"><img src="/img/vtophat.jpg" alt="/img/vtophat.jpg"><br><span class="caption">Waiting for the next act.</span></a>

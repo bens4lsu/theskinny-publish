@@ -1,7 +1,7 @@
 ---
 title: Pecker
 date: 2013-06-13 12:04
-description: A description of my post.
+description: A short animal story that has absolutely nothing to do with my pets.
 tags: animals
 id: 1651
 ---

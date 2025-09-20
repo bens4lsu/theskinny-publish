@@ -1,9 +1,10 @@
 ---
 title: Boat Builders
 date: 2013-10-17 02:23
-description: A description of my post.
-tags: young-ruski
+description: Saturday morning, we went to the Wooden Boat Festival in Madisonville.  In my mind, it's more of a boat show than a boat festival, as no one was deep-frying Oreos near a stage full of fiddle players.  But who doesn't like a boat show?
+tags: young-ruski, festivals
 id: 1724
+ogImg: VandBoat.jpg
 ---
 This past weekend seems almost like a vacation.  A great football Saturday, good food, nice whether -- it had everything I could want.
 
@@ -30,6 +31,6 @@ From there, you could exit past a giant tub, where kids could take their new boa
 By then, V had come around, and he had picked sails and flags of royal blue and orange.  This caused me no small amount of concern.  He picked Florida's exact colors just an hour before the LSU-Florida kickoff.  This from a kid who chose a red T-shirt the morning of the LSU-Georgia game, which didn' go as well as we had hoped.
 
 I was thinking that he had signle handedly cost LSU the game, and although I only mentioned it 1 of every 100 times it popped up in my head, he still fussed at me later about hurting his feelings when I "made fun" of his boat.
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="*************." src="/img/VandBoat.jpg"/></p>
-<p class="caption">V and his horribly clueless sailboat.</p>
+
+<a class="lightview centered" href="/img/VandBoat.jpg" data-lightview-caption="V and his horribly clueless sailboat." data-lightview-group="group1"><img src="/img/VandBoat.jpg" alt="/img/VandBoat.jpg"><br><span class="caption">V and his horribly clueless sailboat.</span></a>
 

@@ -1,8 +1,8 @@
 ---
 title: Bad Teacher
 date: 2013-05-11 23:12
-description: A description of my post.
-tags: uncategorized,my-youth
+description: I had a particularly bad (but likable) teacher.  The same one, a couple of different times.  Here's how he was awful.
+tags: my-youth, favorites
 id: 1641
 ---
 Slate's <a href="http://www.slate.com/articles/life/culturebox/2013/05/bad_teachers_on_twitter_what_s_the_worst_thing_a_teacher_ever_said_to_you.html" target="_blank">article on bad teachers</a> made for a fun read, and like most readers, I suspect I started to probe the old memory banks for bad teachers that I had.

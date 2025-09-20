@@ -1,7 +1,7 @@
 ---
 title: Baseball Regionals are Almost Here
 date: 2013-05-25 19:40
-description: A description of my post.
+description: Monday, we'll find out which three other teams have to come to Baton Rouge and try to get through a regional against the biggest, noisiest crowd in baseball.
 tags: sports
 id: 1644
 ---

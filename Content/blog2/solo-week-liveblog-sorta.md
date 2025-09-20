@@ -1,13 +1,14 @@
 ---
 title: Solo Week Liveblog (sorta)
 date: 2013-07-31 00:09
-description: A description of my post.
+description: This is a really really long post full of all the activities I did while being by myself this week.
 tags: my-stories
 id: 1691
+ogImg: kayak02.jpg
 ---
 Note: Scroll down for August 4 update!
 
-<strong>July 30 -- 23:12</strong>
+**July 30 23:12**
 
 Once upon a time, Mrs. theskinnyonbenny used to go to Las Vegas with the girls every year.  Before kids, I would have the house to myself, and I would stay up late every night watching Chevy Chase movies that I had seen 100 times before.  If anyone asked, I always reported that I sat on the couch naked as a jaybird, eating nonstop potato chips.  If my listener didn't look suitably disgusted, I would add that I filled my belly button with French Onion dip, so as not to have to wash a bowl.
 
@@ -17,17 +18,9 @@ Unfortunately for my leisure time -- but fortunately for our empty bank account 
 
 After I signed off for the day, I went on the longest run I've done in a long time.  And by long, I mean amount of time exercising -- not a long distance.  RunKeeper got confused, and had me running in odd zig-zag circles for a mile or more, so when I looked at <a href="http://runkeeper.com/user/bens4lsu/activity/217264571?&tripIdBase36=3lcqez" target="_blank">my results</a>, I about ripped off my shirt to strut about.  Then, I looked at the map, I saw that my stats were bogus, and that I'm still fat and slow.  But then again, it was scorching hot, and I feel good about how I did all the same.
 
-Since I was so healthy there, I went by the tobacco store and loaded up with cigars for the week.  If I knew I had only one pour of <a href="http://www.edradour.com/index2.html" target="_blank">Edradour</a> left, I might have gone to the liquor store too.  Strange as it may seem, I've never bought my own liquor without explicit instruction.  
+Since I was so healthy there, I went by the tobacco store and loaded up with cigars for the week.  If I knew I had only one pour of <a href="http://www.edradour.com" target="_blank">Edradour</a> left, I might have gone to the liquor store too.  Strange as it may seem, I've never bought my own liquor without explicit instruction.  
 
-<table align="right" cellpadding="2">
-<tbody><tr>
-<td rowspan="2" width="5"><spacer type="block" width="5" height="1"></spacer></td>
-<td width="250"><img src="http://theskinnyonbenny.com/img/liquorCabinet.jpg" width="250"></td>
-</tr>
-<tr>
-<td class="caption" width="250">I'm intimidated by our liquor cabinet.</td>
-</tr>
-</tbody></table>
+<a class="lightview alignright" href="/img/liquorCabinet.jpg" data-lightview-caption="I'm intimidated by our liquor cabinet." data-lightview-group="group1" ><img src="/img/liquorCabinet.jpg" alt="/img/liquorCabinet.jpg"><br><span class="caption">I'm intimidated by our liquor cabinet.</span></a>
 
 I often hear, "We need Mount Gay and BT [Buffalo Trace] too," as I walk out the door to head to the grocery for a radish or a loaf of french bread.  For my second glass, I had to search the liquor cabinet, which is honestly a daunting task.  But I did find a bottle of <a href="http://www.aberlour.com/en" target="_blank">Aberlour,</a> which I hadn't previously liked all that much.  On examination of the bottle, I saw that it isn't diluted between barrel and bottle, so I added more water than usual, and I found that it was much improved.
 
@@ -47,7 +40,7 @@ Don't get me wrong.  I love my family like crazy.  But I really, really, treasur
 
 My intention is to keep updating this post through the week (thus the date up top), so check back on me from time to time, if you're so inclined.
 
-<strong>July 31 -- 22:40</strong>
+**July 31 22:40**
 
 Since we last met in this space, I've found several Easter eggs, strategically hidden throughout the house to remind me to think of my kids.  A ukelele under my desk.  A collection of hats on the patio table.  And not one, but two -- two -- toilets that needed to be flushed.  So, dear family, I am thinking of you.
 
@@ -59,13 +52,13 @@ It was Eddie and Carmel's anniversary.  It's an occasion that I like to celebrat
 
 After that, I decided to continue my trend of grown up movies in an actual theater.  I saw *Pacific Rim*, and I wish I hadn't.  Too much people discussing what they think and not enough monsters crushing buildings and bridges.  And really, when the monsters do eventually rise from the ocean and start crushing our cities, I think we humans can do better than giant Rock-em Sock-em robots.  
 
-<strong>8/2/2013 10:37</strong>
+**8/2/2013 10:37**
 
 I posted nothing yesterday, because there is truly nothing to tell.  I worked a long day -- even through lunch, and then crashed on the couch.  By the time I work up, it was almost dark.  I did some DVR catch-up and was back asleep at some fairly reasonable hour.
 
 I have much higher hopes for an active, entertaining day today.  I have plans to meet a friend for dinner who I haven't seen in a really long time.  Hopefully, I'll come away from that with a good story or two.
 
-<strong>8/2/2013 23:36</strong>
+**8/2/2013 23:36**
 
 Fun night.
 
@@ -75,7 +68,7 @@ Good thing.  Ligtning struck a Cypress right in the lake where I was headed.  Th
 
 This left me in ideal nap weather.  I can't believe how much sleep I've gotten in the last 36 hours.  
 
-My college friend Jared was passing through town this evening, so I met him, his daughter, his dad, his dad's wife, and his daughter at The Chimes.  It was so much fun to catch up, but way too short.
+My college friend Jared was passing through town this evening, so I met him, his daughter, his dad, and his dad's wife at The Chimes.  It was so much fun to catch up, but way too short.
 
 After that, I came home, turned on the music, poured a gin and tonic, and lit a cigar.  Sharples came by for a minute to share the boys-only atmosphere.  I've laughed my ass off for the past few hours.
 
@@ -83,9 +76,9 @@ I've also really enjoyed the music tonight.  The music -- unshackled from Mrs. t
 
 On the other hand, I'm really missing my kids.  Can't wait for them to get home.  
 
-<strong>8/4/3013 19:51</strong>
+**8/4/3013 19:51**
 
-<image style="margin-left:auto; margin-right:auto; display:block; clear:both;" src="/img/kayak1.jpg" alt="kayak panorama">
+<a class="lightview centered" href="/img/kayak1.jpg" data-lightview-caption="kayak panorama" data-lightview-group="group1"><img src="/img/kayak1.jpg" alt="/img/kayak1.jpg"><br><span class="caption">kayak panorama</span></a>
 
 I have to go back a little bit to catch up now.
 
@@ -97,17 +90,9 @@ After that, Sharples came by for a drink and a cigar.  We cut it off reasonably 
 
 Saturday morning arrived along with a little hangover.  That's really unusual for me, but it chased away with OJ and coffee.  
 
-I finally got out and got the kayak wet.  All week I had considered places to go, and one place I never considered was < href="http://www.crt.state.la.us/parks/icyprempt.aspx" target="_blank">Cypremort Point</a>.  It just popped into my head as I headed off my street, so off I went.
+I finally got out and got the kayak wet.  All week I had considered places to go, and one place I never considered was <a href="http://www.crt.state.la.us/parks/icyprempt.aspx" target="_blank">Cypremort Point</a>.  It just popped into my head as I headed off my street, so off I went.
 
-<table cellpadding="2" align="right">
-<tr>
-<td width="350" ><img src="/img/kayak02.jpg"></td>
-<td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td>
-</tr>
-<tr>
-<td class="caption" width="350">Bayou up in Shark Island, Vermillion Bay, LA.</td>
-</tr>
-</table>
+<a class="lightview alignright" href="/img/kayak02.jpg" data-lightview-caption="Bayou up in Shark Island, Vermillion Bay, LA." data-lightview-group="group1" ><img src="/img/kayak02.jpg" alt="/img/kayak02.jpg"><br><span class="caption">Bayou up in Shark Island, Vermillion Bay, LA.</span></a>
 
 From the park, I paddled North, and went up into a couple of little bayous in the marsh.  I don't know when, if ever, I've padded in a prettier spot.  The marsh was alive with purple flowers and colorful birds, and fish danced and splashed around ever corner.
 

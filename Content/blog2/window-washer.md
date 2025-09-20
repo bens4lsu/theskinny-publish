@@ -1,7 +1,7 @@
 ---
 title: Window Washer
 date: 2013-05-30 15:01
-description: A description of my post.
+description: A lesson in the states of matter.  It's a cute kid story.
 tags: young-ruski
 id: 1647
 ---
@@ -9,36 +9,36 @@ One of the hallmarks of a Louisiana summer is waking up to windows that are glaz
 
 Today, Baby K noticed this phenomenon for the first time.
 
-â€œWhassaaat?â€� he asked, pointing at the window.
+"Whassaaat?" he asked, pointing at the window.
 
-â€œThat's just water on the window.â€�
+"That's just water on the window."
 
-â€œMama do that.  Mama wash.â€�
+"Mama do that.  Mama wash."
 
-â€œHahahaha.  No, Mama didn't wash anything.  It just happens by itself.â€�
+"Hahahaha.  No, Mama didn't wash anything.  It just happens by itself."
 
-â€œPapa do that.â€�
+"Papa do that."
 
-â€œNo.  It's called condensation.  No one does it.  It just happens.â€�
+"No.  It's called condensation.  No one does it.  It just happens."
 
-â€œOla do it.â€�  
+"Hola do it."  
 
-He think's our cleaning lady is named Ola.  Much like the Bluth family thinking their youngest son is named Anyong.
+He think's our cleaning lady is named Hola.  Much like the Bluth family thinking their youngest son is named Anyong.
 
-â€œNo baby.  Ola didn't do it.â€�
+"No baby.  Hola didn't do it."
 
-â€œCah-mul?â€�
+"Cah-mul?"
 
-â€œWho?  Oh Carmel?â€�
+"Who?  Oh Carmel?"
 
 He nods.
 
-â€œNo, Carmel didn't come over this morning to wash our windows.â€�
+"No, Carmel didn't come over this morning to wash our windows."
 
-â€œWhassaaat?â€�
+"Whassaaat?"
 
-â€œCondenstationâ€�
+"Condenstation"
 
-â€œCon-say-doâ€�
+"Con-say-do"
 
-â€œRight.  Let's go see if Mama is awake yet.â€�
+"Right.  Let's go see if Mama is awake yet."

@@ -1,16 +1,17 @@
 ---
 title: Sailing Vacation - Part 1
 date: 2013-07-17 17:05
-description: A description of my post.
+description: A trip around Washington, DC, and then sailing Chesapeake Bay
 tags: travel, sailing, maryland
 id: 1653
+ogImg: gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130629_160844_0242.JPG
 ---
-<strong>Washington, DC</strong>
+**Washington, DC**
 
 Before we went sailing, we spent a day and a night in Washington, DC.  Just a couple of monuments and a museum, and it wouldn't be anything to write about if it weren't for the downpour that caught us as we left the White House, walking up toward our hotel.  
 
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130628_151156_4922.JPG" width="250"></td></tr><tr><td class="caption" width="250">Rainstorm picture -- the last with my old camera.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130628_151156_4922.JPG" data-lightview-caption="Rainstorm picture -- the last with my old camera." data-lightview-group="group1" ><img src="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130628_151156_4922.JPG" alt="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130628_151156_4922.JPG"><br><span class="caption">Rainstorm picture -- the last with my old camera.</span></a>
 
 The rain came hard and fast.  It was cool, which felt nice after the hot, sweaty walk.  But then, we were drenched pretty quickly.  A stranger stopped her car, handed out a broken umbrella, and said, "Here!  Take it."  We thanked her and gave the umbrella to Vanya.  Mrs. theskinnyonbenny had the diaper bag over her head.  I had Kolya over me, and he had on a large hat.  The two of us were pretty wet.
 
@@ -18,25 +19,30 @@ By the time we reached our hotel, it was pretty much done raining.  We were dren
 
 The next day was sunny, and we all walked out to the Air and Space museum.  It was fun, but it would have been better if I had something a little better than my water camera.
 
-<strong>On to the Sailing Trip...</strong>
+**On to the Sailing Trip...**
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="Chesapeake Bay Chart" src="/img/chesapeake.jpg"/></p>
-<p class="caption">
-<table style="margin-left:45px;"><tr><td  class="caption">6/30</td><td  class="caption">Left Annapolis (house).  Sailed to Harrington Bay (1)</td></tr>
-<tr><td  class="caption">7/1</td><td  class="caption">Harrington Bay (1) back to Annapolis (2)</td></tr>
-<tr><td  class="caption">7/2</td><td  class="caption">Annapolis (2) to St. Michaels (3)</td></tr>
-<tr><td  class="caption">7/3</td><td  class="caption">Moved the boat, but still in St Michaels</td></tr>
-<tr><td  class="caption">7/4</td><td  class="caption">St. Michaels (3) to Oxford (4)</td></tr>
-<tr><td  class="caption">7/5</td><td  class="caption">Oxford (4) to La Trappe Creek (5)</td></tr>
-<tr><td  class="caption">7/6</td><td  class="caption">La Trappe Creek (5) to Rhode River (6), and then back to home base</td></tr></table></p>
 
-<strong>Day 1: Annapolis to Herrington Bay</strong>
+<a class="lightview centered" href="/img/chesapeake.jpg" data-lightview-caption="Left Annapolis (house).  Sailed to Harrington Bay (1)<br>
+Harrington Bay (1) back to Annapolis (2)<br>
+Annapolis (2) to St. Michaels (3)<br>
+Moved the boat, but still in St Michaels<br>
+St. Michaels (3) to Oxford (4)<br>
+Oxford (4) to La Trappe Creek (5)<br>
+La Trappe Creek (5) to Rhode River (6), and then back to home base" data-lightview-group="group1"><img src="/img/chesapeake.jpg" alt="/img/chesapeake.jpg"><br><span class="caption">Left Annapolis (house).  Sailed to Harrington Bay (1)<br>
+Harrington Bay (1) back to Annapolis (2)<br>
+Annapolis (2) to St. Michaels (3)<br>
+Moved the boat, but still in St Michaels<br>
+St. Michaels (3) to Oxford (4)<br>
+Oxford (4) to La Trappe Creek (5)<br>
+La Trappe Creek (5) to Rhode River (6), and then back to home base</span></a>
+
+**Day 1: Annapolis to Herrington Bay**
 
 The day before we went sailing, we drove to Annapolis.  We had a night in a hotel, which gave us a chance to go into town for touristy beers and crab cakes.  It put us in the mood to get out on the water.
 
 We picked up our boat the morning of June 30th.  I let the guy walk me through the boat and chart briefings.  Nothing too unusual there.  I started loading our gear while Mrs. theskinnyonbenny went for prvosions.  It started to sprinkle.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130629_160844_0242.JPG" width="250"></td></tr><tr><td class="caption" width="250">V watching the cooks handle live crabs in Annapolis.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130629_160844_0242.JPG" data-lightview-caption="V watching the cooks handle live crabs in Annapolis." data-lightview-group="group1" ><img src="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130629_160844_0242.JPG" alt="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130629_160844_0242.JPG"><br><span class="caption">V watching the cooks handle live crabs in Annapolis.</span></a>
 
 Our guy at the marina must have had a rule that he had to see us out of the slip.  It's probably good that he did, because the way it was in there, you had to back the boat out, make a 90 degree turn, and then back down and around a navigation marker in order to go straight.  Screw it up, and you smash a large vessel on the opposite dock or go aground on a shallow spot just beside the channel.
 
@@ -56,13 +62,13 @@ When the rain cleared, the other boats were still close by, and we were still ma
 
 After that, we set the sails and went South.  We had talked about just passing through to the Rhode River, but once we got past the lighthouse, we still wanted to sail a little more.  We forged on to Harrington Bay, taking a slip for the night at Harrington Harbor South.
 
-<strong>Day 2:  Harrington Bay to Annapolis</strong>
+*Day 2:  Harrington Bay to Annapolis*
 
 Did I just do a weird reverse copy and paste error on the destinations from the previous day entry?  Not at all.  On this day, we sailed back to Annapolis.
 
 Harrington Harbor South has its fans, and it's really not bad.  They have a pool, wifi, a band, and a restaurant.  But it's fairly well lacking in charm.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_125056_0042.JPG" width="250"></td></tr><tr><td class="caption" width="250">Thomas Point Lighthouse</td></tr></table>
+<a class="lightview alignright" href="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_125056_0042.JPG" data-lightview-caption="Thomas Point Lighthouse" data-lightview-group="group1" ><img src="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_125056_0042.JPG" alt="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_125056_0042.JPG"><br><span class="caption">Thomas Point Lighthouse</span></a>
 
 We hung out all morning because, as you might have guessed by now, it was raining.  Showers were canceled because we had left the toiletry bag in the Annapolis hotel the previous morning.  So around mid-day, we set sail again -- this time in rain that was truly clearing away.
 
@@ -74,7 +80,7 @@ For the first time in the trip, we took the dinghy out.  We gave ourselves a tou
 
 Once we tied up at the town dinghy dock (you're town gets extra cool points if it has a dinghy dock), we went for cocktails and ice cream, with the delineation being based entirely on age of the crew member.  I ditched the family to take the town shuttle back up to our hotel, where I retrieved our bag and forgot to tip the maid who brought it down.  I caught the next shuttle back downtown, and we headed to the showers at the harbormaster's office.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_185612_0056.JPG" width="180"></td></tr><tr><td class="caption" width="250">Annapolis evening, as seen from the harbor.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_185612_0056.JPG" data-lightview-caption="Annapolis evening, as seen from the harbor." data-lightview-group="group1" ><img src="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_185612_0056.JPG" alt="/img/gal/103%20-%20Chesapeake%20Bay%20Sailing/resIMG_20130701_185612_0056.JPG"><br><span class="caption">Annapolis evening, as seen from the harbor.</span></a>
 
 Our last stop was the liquor store at the bottom of the main drag, where the owner was happy to haul a box of booze and ice out to our dinghy for us.  We were back aboard for a very nice sunset, with drinks and snacks in hand.
 
