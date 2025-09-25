@@ -1,10 +1,10 @@
 ---
 title: Ribs
-date: 2025-09-24 16:38
+date: 2025-09-25 14:58
 description: Every town has at least one "just our specialty" restaurant.  It's known for one food or type of food, and that item is great.  But then they pay such scant attention to the rest of their menu that if you go off-specialty, it kind of sucks.  Ours is TJ Ribs, and I managed to do baby backs better than they do.
 tags: food
 id: 2401
-ogImg: 
+ogImg: ribs2.jpg
 ---
 
 Every town has at least one "just our specialty" restaurant.  It's known for one food or type of food, and that item is great.  But then they pay such scant attention to the rest of their menu that if you go off-specialty, it kind of sucks.
@@ -12,6 +12,8 @@ Every town has at least one "just our specialty" restaurant.  It's known for one
 I had a birthday last week.  Thank you very much for the well wishes.
 
 I had a hunger for ribs, so we went to TJ's, where I devoured an order while the rest of the family complained about the off-specialty food that they ordered.  As I stared down into my sad little plate full of bones, I thought about how to make them myself.
+
+<a class="lightview alignright" href="/img/ribs1.jpg" data-lightview-caption="Kitchen prep" data-lightview-group="group1" ><img src="/img/ribs1.jpg" alt="/img/ribs1.jpg"><br><span class="caption">Kitchen prep</span></a>
 
 So Friday afternoon, I went and asked for three racks of ribs, thinking that the "full rack" on my birthday order would correspond to the meat market's full rack.  It did not.  I got 2 to 3 times as much as I had wanted.
 
@@ -21,6 +23,8 @@ While I was at it, I decided to make my own barbecue sauce.  I've done that befo
 
 Tomato sauce base, plus enough molassas and brown sugar to kill a horse.  Then, half to three quarters of a cup of vinegar for a little bite, and a healthy hump of salt.  All that's left is adding a little heat.
 
+<a class="lightview alignright" href="/img/icantfeelmyface.jpg" data-lightview-caption="I Can't Feel My Face" data-lightview-group="group1" ><img src="/img/icantfeelmyface.jpg" alt="/img/icantfeelmyface.jpg"><br><span class="caption">I Can't Feel My Face</span></a>
+
 We have a collection of <a href="https://www.flatironpepper.com" target="_blank">crushed pepper flakes</a>, in a number of varieties.  There's a smoky bottle, a hatch valley bottle, and a four pepper blend bottle.  The only one that is mostly full is the one named "I Can't Feel My Face."
 
 It's a combination of dried pepper flakes from ghost peppers, carolina reapers, and a couple of others.  I like spice, but this is **way** too hot to sprinkle on your Dominos order.
@@ -29,13 +33,22 @@ I thought a little bit might go a long way in my sauce.  To about a half gallon 
 
 The result didn't send me running for milk, but one little spoonfull of the spiced barbecue sauce was enough for a runny nose and complaining about burning lips a half hour later.  Mrs. theskinnyonbenny and I could have handled it, but it was too hot to serve others, and we had so many ribs that serving others was obligatory.
 
+<a class="lightview centered" href="/img/ribs2.jpg" data-lightview-caption="Final Glaze" data-lightview-group="group1"><img src="/img/ribs2.jpg" alt="/img/ribs2.jpg"><br><span class="caption">Final Glaze</span></a>
+
 I ended up making a blander batch, which was a little too salty, but the misture of the two was just right.
 
-1.  Coat the ribs with a dry rub of salt, pepper, paprika, and garlic powder.
-1.  With a mixutre of coal and wood in the fire box, get the grill temp up between 200 and 250.
-1.  Throw the ribs on, and keep the temperature in that range for an hour and 45 minutes.
-1.  Pull the ribs off, put a trail of barbecue sauce down the middle of a piece of aluminum foil, and put the rack meat-side-down on the foil.  Wrap the rack in foil.
-1.  Put the wrapped rack meat-side-down on the fire for another hour and a half.
-1.  Use the meat thermoneter and start checking the temp between bones.  We want the inside temp at 205.
-1.  Pull the ribs off, throw away the foil, and let them cool for a half hour.
-1.  Glaze the meat with sauce and put back on the grill for 15 minutes.
+You know how annoying it is when you search up a recipe and then there's this whole boring narrative in front of the actual recipe?  Allow me to be that asshole.
+
+<div class="pg-instruction-box caption">
+<b>Recipe</b>
+<ol>
+<li>  Coat the ribs with a dry rub of salt, pepper, paprika, and garlic powder.</li>
+<li>  With a mixutre of coal and wood in the fire box, get the grill temp up between 200 and 250.</li>
+<li>  Throw the ribs on, and keep the temperature in that range for an hour and 45 minutes.</li>
+<li>  Pull the ribs off, put a trail of barbecue sauce down the middle of a piece of aluminum foil, and put the rack meat-side-down on the foil.  Wrap the rack in foil.</li>
+<li>  Put the wrapped rack meat-side-down on the fire for another hour and a half.</li>
+<li>  Use the meat thermoneter and start checking the temp between bones.  We want the inside temp at 205.</li>
+<li>  Pull the ribs off, throw away the foil, and let them cool for a half hour.</li>
+<li>  Glaze the meat with sauce and put back on the grill for 15 minutes.
+</ol>
+</div>
