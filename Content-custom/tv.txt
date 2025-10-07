@@ -1,3 +1,4 @@
+
 Title	Type	Summary	Date Finished	Rating
 Wild Murder	Doc	Guy kills his wife RMNP.  Turns out that the death of his first wife is mega-suspicious in retrospect.	2021-10-06	2.5
 Squid Game	Scripted Drama	Korean show where people have to play games where the losers are murdered and the winner gets rich.	2021-10-15	2.5
@@ -85,6 +86,9 @@ The Last of Us, Season 2	Scripted Drama/Action	Ellie and Deana hook up and then 
 The Studio	Comedy	Seth Rogan as the head of a movie studio. 	2025-07-20	4.0
 Trophy Wife: Murder on Safari	Documentary	A dentist with a side piece murders his wife in Zambia	2025-07-23	2.5
 Only Murderers In the Building, Season 4	Comedy/Mystery	A crew tries to shoot a movie version of the podcast while our team investigates the murder of Sazz	2025-07-27	3.5
-The Bear, Season 4	Scripted Drama	Race to save the restaurant before Uncle Jimmy pulls the plug.  Some of our favorite 	2025-07-28	4.5	family talk and make mental health progress
+The Bear, Season 4	Scripted Drama	Race to save the restaurant before Uncle Jimmy pulls the plug.  Some of our favorite family talk and make mental health progress	2025-07-28	4.5
 Shogun	Scripted Drama	Dramatization of the Clavell novel. 	2025-08-19	4.0
 You, Season 1	Scripted Drama	Creepy stalker guy show, but from his perspective. 	2025-08-25	3.0
+Alien Earth, Season 1	Scripted Horror/Sci Fi	Mostly about these kids whose consciousness were but into robots, but also a good deal of space monsters. 	2025-10-02	3.5
+You, Season 2	Scripted Drama	Creepy stalker moves to LA and victimizes more people in his orbit. 	2025-10-06	3.0
+				
