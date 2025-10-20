@@ -107,3 +107,14 @@ videos:
         embed: <iframe width="879" height="494" src="https://www.youtube.com/embed/XYoNJicLgvY" title="Dancing at a Wedding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20240124b.jpg
         duration: 0:13
+        
+    -
+        id: 912345044
+        dateRecorded: 2025-10-19
+        name: The Seagulls Are Out of Control in New Orleans
+        caption: >
+            The lake is really full of shrimp right now, and the people aren't the only ones who have noticed.  I've never seen such an infestation of asshole birds.
+        url: https://youtu.be/WSO95pgDABw
+        embed: <iframe width="875" height="492" src="https://www.youtube.com/embed/WSO95pgDABw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20251020a.jpg
+        duration: 0:28

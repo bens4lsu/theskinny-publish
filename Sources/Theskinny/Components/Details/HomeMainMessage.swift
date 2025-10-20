@@ -32,22 +32,24 @@ struct HomeMainMessage: Component {
 
     // Photo Gallery
     let pgComponentGroup = ComponentGroup {
-       Text("Summer Travel Photo Galleries")
+       H2("Summer Travel Photo Galleries")
        ImageGalleryLinkSet(197, 198)
        EmptyComponent()
     }
 
     // Video Galleries
     
-    //  let vgLink1 = VideoGalleryLink(url: "/video/2025-night-watch-1---twofer--getting-out-of-nola--blue-water-and-dolphins/", image: "mq20250611.jpg", caption: "2025 Night Watch #1 (of very few)")
-    //  let vgLink2 = VideoGalleryLink(url: "/video/sail-plan-route/", image: "mq20231028b.jpg", caption: "2024 Velvet Elvis Sail Plan")
-
+    let vgComponentGroup = ComponentGroup {
+        H2("Some new videos...")
+        VideoGalleryLink(url: "/video/the-seagulls-are-out-of-control-in-new-orleans/", image: "mq20251020a.jpg", caption: "The seagulls are out of control in New Orleans right now.")
+    }
     
     
     var body: Component {
         Div {
             mdContent
-            pgComponentGroup
+            //pgComponentGroup
+            vgComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }

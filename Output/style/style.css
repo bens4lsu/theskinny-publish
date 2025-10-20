@@ -476,13 +476,16 @@ div.twitter-tweet {
     color: #9E2606;
 }
 
-
 .div-image-gallery-set {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     column-gap: 80px;
     row-gap: 40px;
+}
+
+.div-image-gallery-link {
+    text-align: center;
 }
 
 .div-image-gallery-link h3 {
