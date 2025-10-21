@@ -108,12 +108,16 @@ extension PublishingStep where Site == Theskinny {
             
             var page = Page(path: "\(video.link)", content: Content())
             
+            var htmlHeadInfo = TsobHTMLFactory .HeaderInfo(location: context.index, title: video.title)
+            let imagePath = "/img/video-thumbnails/\(video.tn)"
+            htmlHeadInfo.additionalNodes.append(Node.ogImgNode(imagePath, context: context))
+
             let html: HTML = {
                 switch bigTripHtml {
                 case true:
-                    return HTML(.component(TripPost(.video(video))))
+                    return HTML(htmlHeadInfo.node, .component(TripPost(.video(video))))
                 case false:
-                    return HTML(.component(video.allByMyself(backToPage: backToPage)))
+                    return HTML(htmlHeadInfo.node, .component(video.allByMyself(backToPage: backToPage)))
                 }
             }()
             
