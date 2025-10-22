@@ -12,8 +12,6 @@ import Publish
 extension TsobHTMLFactory {
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
         
-        
-        
         if page.path.string.prefix(5) == "/gal/" {
             return makePageImgGal(for: page, context: context)
         }

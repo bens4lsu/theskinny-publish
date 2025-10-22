@@ -91,21 +91,16 @@ extension PublishingStep where Site == Theskinny {
                 }
 //                let html = HTML(.component(album))
 //                page.content.body.html = html.render()
+                                
+                let page = makeCompletePage(title: album.name,
+                                 description: album.caption,
+                                 date: (album.minDate ?? Date()),
+                                 imagePath: (album.tn ?? ""),
+                                            content: AnyPageMain(mainContent: album, site: context.site),
+                                 pagePath: "/video-albums/\(album.slug)",
+                                 onContext: &context
+                                 )
                 
-                let article = Article { album }
-                let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
-                    AnyPageMain(mainContent: article, site: context.site)
-                }
-                let imagePath = album.tn == nil ? Path("") : Path(album.tn!)
-                let content = Publish.Content(title: album.name,
-                                              description: album.caption,
-                                              body: contentBody,
-                                              date: (album.minDate ?? Date()),
-                                              lastModified: (album.minDate ?? Date()),
-                                              imagePath: imagePath)
-                
-                let page = Page(path: "video-albums/\(album.slug)", content: content)
-                context.addPage(page)
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
             print ("NOTICE:  Max Video id is currently \(maxVideoId) and Max Video Album id is \(maxAlbumId)")
@@ -118,8 +113,6 @@ extension PublishingStep where Site == Theskinny {
             let bigTripAlbumIds = VideoData.bigtripVideos.map { $0.id }
             let bigTripHtml: Bool = bigTripAlbumIds.contains(video.id)
             
-            let imagePath = "/img/video-thumbnails/\(video.tn)"
-
             let pageContentInside: Component = {
                 switch bigTripHtml {
                 case true:
@@ -129,20 +122,28 @@ extension PublishingStep where Site == Theskinny {
                 }
             }()
             
-            let article = Article { pageContentInside }
-            let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
-                AnyPageMain(mainContent: article, site: context.site)
-            }
-            let content = Publish.Content(title: video.title,
-                                        description: "",
-                                        body: contentBody,
+//            let article = Article { pageContentInside }
+//            let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
+//                AnyPageMain(mainContent: article, site: context.site)
+//            }
+//            let content = Publish.Content(title: video.title,
+//                                        description: "",
+//                                        body: contentBody,
+//                                        date: (video.dateRecorded ?? Date()),
+//                                        lastModified: (video.dateRecorded ?? Date()),
+//                                        imagePath: Path(imagePath))
+//            
+//            let page = Page(path: "\(video.link)", content: content)
+//            context.addPage(page)
+            
+            let _ = makeCompletePage(title: video.title,
+                                        description: video.caption,
                                         date: (video.dateRecorded ?? Date()),
-                                        lastModified: (video.dateRecorded ?? Date()),
-                                        imagePath: Path(imagePath))
-            
-            let page = Page(path: "\(video.link)", content: content)
-            context.addPage(page)
-            
+                                        imagePath: "/img/video-thumbnails/\(video.tn)",
+                                        content: AnyPageMain(mainContent: pageContentInside, site: context.site),
+                                        pagePath: "\(video.link)",
+                                        onContext: &context
+                                    )
         }
     }
     
@@ -183,12 +184,6 @@ extension PublishingStep where Site == Theskinny {
 
             context.addPage(page)
             
-            //script file for image on home page
-//            let scriptI = DailyPhotoData.scriptImage
-//            let scriptIFileName = "./scripts/dailyphotoimgage.js"
-//            let file = try context.createOutputFile(at: Path(scriptIFileName))
-//            try file.write(scriptI)
-            
             for year in DailyPhotoData.years {
                 
                 // page for dailyphoto/20xx/index.html
@@ -199,7 +194,7 @@ extension PublishingStep where Site == Theskinny {
                 
                 // individual image pages
                 for dailyphoto in year.dp {
-                    var page = Page(path: Path(dailyphoto.link), content: Content())
+    
                     let html = HTML(.component(dailyphoto),
                                     .component(Script(DailyPhotoData.scriptCalendar))
                     )
@@ -252,5 +247,21 @@ extension PublishingStep where Site == Theskinny {
             // redirect for /playlists
             try writeRedirect(atPage: "/playlist", to: "/playlist/RecentlyPlayed", onContext: &context)
         }
+    }
+    
+    private static func makeCompletePage(title: String, description: String, date: Date?, imagePath: String, content: Component, pagePath: String, onContext context: inout PublishingContext<Theskinny>) -> Page {
+        
+        let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
+            content
+        }
+        let content = Publish.Content(title: title,
+                                      description: description,
+                                      body: contentBody,
+                                      date: (date ?? Date()),
+                                      lastModified: (date ?? Date()),
+                                      imagePath: Path(imagePath))
+        let page = Page(path: Path(pagePath), content: content)
+        context.addPage(page)
+        return page
     }
 }

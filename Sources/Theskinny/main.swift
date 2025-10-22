@@ -35,15 +35,15 @@ do {
     try Theskinny().publish(withTheme: .tsobTheme,
                             indentation: EnvironmentKey.defaultIndentation,
                             additionalSteps: [
-        .printDate(),
-        .writePostPages(),
-        .writeRedirectsFromWordpressUrls(),
+//        .printDate(),
+//        .writePostPages(),
+//        .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
-        .imageGalleries(),
-        .dailyPhotos(),
-        .oldMicroPosts(),
-        .playlists(),
-        .printDate()
+//        .imageGalleries(),
+//        .dailyPhotos(),
+//        .oldMicroPosts(),
+//        .playlists(),
+//        .printDate()
     ])
     shell("afplay /System/Library/Sounds/Submarine.aiff")
     print (Date())
