@@ -20,6 +20,17 @@ struct BlogPosts: Component {
         return formatterLong
     }
     
+    var dates: (Date, Date) {
+        if count == 0 {
+            return (Date(), Date())
+        }
+        let minDate = items.min(by: { $0.date < $1.date })!.date
+        let maxDate = items.max(by: { $0.date < $1.date })!.date
+        return (minDate, maxDate)
+    }
+    
+    
+    
     var body: Component { return EmptyComponent() }
     
     var indexByDate: Component {

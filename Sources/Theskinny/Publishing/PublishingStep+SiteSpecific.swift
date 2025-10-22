@@ -46,19 +46,27 @@ extension PublishingStep where Site == Theskinny {
                     includePosts.append(allPosts[i * postsPerPage + j])
                 }
                 let posts = BlogPosts(items: includePosts)
-                var page = Page(path: "blog/\(pageName)", content: Content())
-                //let html = factory.makeMultiPageHTML(for: page, context: context, from: posts, withLinks: linkInfo)
-                let html = HTML(.component(posts.multiPostPageContent(withTopLinks: linkInfo)))
-                page.body.html = html.render()
-                context.addPage(page)
+                
+                let description = "Blog posts from \(posts.dates.0) to \(posts.dates.1)"
+                let _ = makeCompletePage(title: description,
+                                         description: description,
+                                         date: posts.dates.1,
+                                         imagePath: "",
+                                         content: posts.multiPostPageContent(withTopLinks: linkInfo),
+                                         pagePath: "blog/\(pageName)", onContext: &context)
+                
             }
             
             // redirect pages for /blog and /blog2
             for pathString in ["/blog", "/blog2"] {
-                var page = Page(path: Path(pathString), content: Content())
-                let html = HTML(.component(Script.redirectToBlogCurrent))
-                page.body.html = html.render()
-                context.addPage(page)
+                let description = "Blog on theskinnyonbenny.com (redirecting to latest)"
+                let _ = makeCompletePage(title: description,
+                                         description: description,
+                                         date: Date(),
+                                         imagePath: "",
+                                         content: Script.redirectToBlogCurrent,
+                                         pagePath: pathString,
+                                         onContext: &context)
             }
         }
     }

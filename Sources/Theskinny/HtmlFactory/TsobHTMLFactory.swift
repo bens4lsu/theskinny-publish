@@ -55,9 +55,7 @@ struct TsobHTMLFactory: HTMLFactory {
     
     
     func makePostsHTML(for section: Section<Theskinny>, context: PublishingContext<Theskinny>) throws -> HTML {
-        let htmlHeadInfo = HeaderInfo(location: context.index, title: "")
         return HTML(
-            htmlHeadInfo.node,
             .body(.redirect(to: "/blog2/current"))
         )
     }
