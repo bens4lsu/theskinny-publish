@@ -81,8 +81,6 @@ extension PublishingStep where Site == Theskinny {
             var maxVideoId = Int.min
             var maxAlbumId = Int.min
             for var album in VideoData.videoAlbums {
-                var page = Page(path: "video-albums/\(album.slug)", content: Content())
-                page.title = album.name
                 album.videos = album.videos.sorted()
                 let albumMax = album.videos.map { $0.id }.max() ?? Int.min
                 if albumMax > maxVideoId {
@@ -91,8 +89,22 @@ extension PublishingStep where Site == Theskinny {
                 if album.id > maxAlbumId {
                     maxAlbumId = album.id
                 }
-                let html = HTML(.component(album))
-                page.content.body.html = html.render()
+//                let html = HTML(.component(album))
+//                page.content.body.html = html.render()
+                
+                let article = Article { album }
+                let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
+                    AnyPageMain(mainContent: article, site: context.site)
+                }
+                let imagePath = album.tn == nil ? Path("") : Path(album.tn!)
+                let content = Publish.Content(title: album.name,
+                                              description: album.caption,
+                                              body: contentBody,
+                                              date: (album.minDate ?? Date()),
+                                              lastModified: (album.minDate ?? Date()),
+                                              imagePath: imagePath)
+                
+                let page = Page(path: "video-albums/\(album.slug)", content: content)
                 context.addPage(page)
                 try writeIndivVideoPages(forAlbum: album, usingFactory: factory, onContext: &context, backToPage: page)
             }
@@ -106,37 +118,43 @@ extension PublishingStep where Site == Theskinny {
             let bigTripAlbumIds = VideoData.bigtripVideos.map { $0.id }
             let bigTripHtml: Bool = bigTripAlbumIds.contains(video.id)
             
-            var page = Page(path: "\(video.link)", content: Content())
-            
-            var htmlHeadInfo = TsobHTMLFactory .HeaderInfo(location: context.index, title: video.title)
             let imagePath = "/img/video-thumbnails/\(video.tn)"
-            htmlHeadInfo.additionalNodes.append(Node.ogImgNode(imagePath, context: context))
 
-            let html: HTML = {
+            let pageContentInside: Component = {
                 switch bigTripHtml {
                 case true:
-                    return HTML(htmlHeadInfo.node, .component(TripPost(.video(video))))
+                    return TripPost(.video(video))
                 case false:
-                    return HTML(htmlHeadInfo.node, .component(video.allByMyself(backToPage: backToPage)))
+                    return video.allByMyself(backToPage: backToPage)
                 }
             }()
             
-            page.content.body.html = html.render()
+            let article = Article { pageContentInside }
+            let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
+                AnyPageMain(mainContent: article, site: context.site)
+            }
+            let content = Publish.Content(title: video.title,
+                                        description: "",
+                                        body: contentBody,
+                                        date: (video.dateRecorded ?? Date()),
+                                        lastModified: (video.dateRecorded ?? Date()),
+                                        imagePath: Path(imagePath))
+            
+            let page = Page(path: "\(video.link)", content: content)
             context.addPage(page)
+            
         }
     }
     
     static func writeRedirect(atPage pagePath: Path, to redirPath: Path, onContext context: inout PublishingContext<Theskinny>) throws {
-        let redirScript = Script("window.location.replace(\"\(redirPath.string)\")")
         let attrib = Attribute<PublishingContext<Theskinny>>(name: "redirect", value: "true")
-        let redirHtml = HTML(redirScript.convertToNode()).node.attribute(attrib)
-        var page = Page(path: pagePath, content: Content())
-        page.content.body.html = redirHtml.render()
-                                        .replacingOccurrences(of: "&lt;", with: "<")
-                                        .replacingOccurrences(of: "&gt;", with: ">")
-        
 
+        let contentBody = Content.Body(){
+            Script("window.location.replace(\"\(redirPath.string)\")").attribute(attrib)
+        }
         
+        let content = Publish.Content(title: "Redirecting...", description: "", body: contentBody, date: Date(), lastModified: Date(), imagePath: .init(""))
+        let page = Page(path: pagePath, content: content)
         
         context.addPage(page)
     }

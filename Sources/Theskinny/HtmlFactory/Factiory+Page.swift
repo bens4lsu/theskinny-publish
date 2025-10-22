@@ -11,12 +11,18 @@ import Publish
 
 extension TsobHTMLFactory {
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
+        
+        
+        
         if page.path.string.prefix(5) == "/gal/" {
             return makePageImgGal(for: page, context: context)
         }
-        else if page.content.body.html.contains("redirect=\"true\"") {
-            return makePageRedirectDefault(for: page, context: context)
+        if page.path.string.prefix(4) == "/vid" ||
+            page.content.body.html.contains("redirect=\"true\"")
+        {
+            return  HTML{ page.body }    // can use this for any where the content is already complete.
         }
+        
                     
         return {
             switch page.path {
@@ -183,12 +189,6 @@ extension TsobHTMLFactory {
             htmlHeadInfo.node,
             .body(.component(pageMain))
         )
-    }
-    
-    fileprivate func makePageRedirectDefault(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
-        HTML {
-            page.body
-        }
     }
     
 }

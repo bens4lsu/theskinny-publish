@@ -29,7 +29,7 @@ struct Theskinny: Website {
         var videoAlbums: [Int]?
         var ogImg: String?
     }
-    
+        
     
     var url: URL { URL(string: Self.urlString)! }
     var name = "theskinnyonbenny.com"

@@ -103,5 +103,9 @@ extension EnvironmentKey where Value == [Gallery] {
     }()
 }
 
+extension EnvironmentKey where Value == Indentation {
+    static let defaultIndentation = Indentation.Kind.spaces(4)
+}
+
 
 

@@ -33,7 +33,7 @@ do {
     try hideResourceImages()
             
     try Theskinny().publish(withTheme: .tsobTheme,
-                            indentation: .spaces(4),
+                            indentation: EnvironmentKey.defaultIndentation,
                             additionalSteps: [
         .printDate(),
         .writePostPages(),
