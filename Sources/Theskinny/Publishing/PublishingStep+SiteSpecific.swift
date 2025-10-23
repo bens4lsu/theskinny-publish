@@ -7,10 +7,13 @@
 
 import Foundation
 import Plot
-import Publish
+@preconcurrency import Publish
 import Files
 
 extension PublishingStep where Site == Theskinny {
+    
+    private static let serialQueue = DispatchQueue(label: "theskinnyonbenny.AsyncPublshing.serial")
+    private static let concurrentQueue = DispatchQueue(label: "theskinnyonbenny.AsyncPublshing.concurrent", attributes: .concurrent)
     
     static func writePostPages() -> Self {
         .step(named: "Write Post Summary Pages") { context in
@@ -178,7 +181,7 @@ extension PublishingStep where Site == Theskinny {
     
     static func dailyPhotos() throws -> Self {
         .step(named: "Daily Photos") { context in
-            
+
             //redirect for /dailyphoto
             let redirectScript = try Script(DailyPhotoData.scriptRedirect)
             let content = AnyPageMain(mainContent: redirectScript, site: context.site)  // need all the headers so that jquery loads and the script will run.
@@ -191,9 +194,10 @@ extension PublishingStep where Site == Theskinny {
                                      pagePath: "/dailyphoto",
                                      onContext: &context
                                     )
-//
+
+            
+            
             for year in DailyPhotoData.years {
-                
                 // page for dailyphoto/20xx/index.html
                 let yearLink = year.link
                 if let firstPageOfYear = year.first?.link {
@@ -201,29 +205,35 @@ extension PublishingStep where Site == Theskinny {
                 }
                 
                 // individual image pages
-                for dailyphoto in year.dp {
-    
-//                    let html = HTML(.component(dailyphoto),
-//                                    .component(Script(DailyPhotoData.scriptCalendar))
-//                    )
-//                    page.content.body.html = html.render().replacingOccurrences(of: "&gt;", with: ">")
-//                                                .replacingOccurrences(of: "&lt;", with: "<")
-//                    page.imagePath = Path(dailyphoto.imagePath)
-//                    page.date = dailyphoto.date
-//                    context.addPage(page)
-                    let cg = ComponentGroup {
-                        dailyphoto
-                        Script(DailyPhotoData.scriptCalendar)
+                
+            
+                let pages = await withTaskGroup(of: Page.self, returning: [Page].self) { taskGroup in
+                    for dailyphoto in year.dp {
+                        taskGroup.addTask {
+                            let cg = ComponentGroup {
+                                dailyphoto
+                                Script(DailyPhotoData.scriptCalendar)
+                            }
+                            let description = "Daily Photo for \(dailyphoto.dateString) on theskinnyonbenny.com"
+                            let page = makeCompletePageAsync(title: description,
+                                                             description: description,
+                                                             date: dailyphoto.date,
+                                                             imagePath: dailyphoto.imagePath,
+                                                             content: cg,
+                                                             pagePath: dailyphoto.link
+                            )
+                            return page
+                        }
                     }
-                    let description = "Daily Photo for \(dailyphoto.dateString) on theskinnyonbenny.com"
-                    let _ = makeCompletePage(title: description,
-                                             description: description,
-                                             date: dailyphoto.date,
-                                             imagePath: dailyphoto.imagePath,
-                                             content: cg,
-                                             pagePath: dailyphoto.link,
-                                             onContext: &context
-                                            )
+                    
+                    var pages = [Page]()
+                    for await result in taskGroup {
+                        pages.append(result)
+                    }
+                    return pages
+                }
+                for page in pages {
+                    context.addPage(page)
                 }
             }
         }
@@ -258,9 +268,6 @@ extension PublishingStep where Site == Theskinny {
         }
     }
     
-    static func printDate() -> Self {
-        .step(named: "Date Stamp: \(Date())") { _ in }
-    }
     
     static func playlists() -> Self {
         .step(named: "Music Playlists") { context in
@@ -280,8 +287,7 @@ extension PublishingStep where Site == Theskinny {
         }
     }
     
-    private static func makeCompletePage(title: String, description: String, date: Date?, imagePath: String, content: Component, pagePath: String, onContext context: inout PublishingContext<Theskinny>) -> Page {
-        
+    private static func makeCompletePageAsync(title: String, description: String, date: Date?, imagePath: String, content: Component, pagePath: String) -> Page {
         let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
             content
         }
@@ -292,7 +298,17 @@ extension PublishingStep where Site == Theskinny {
                                       lastModified: (date ?? Date()),
                                       imagePath: Path(imagePath))
         let page = Page(path: Path(pagePath), content: content)
+
+        return page
+    }
+    
+    private static func makeCompletePage(title: String, description: String, date: Date?, imagePath: String, content: Component, pagePath: String, onContext context: inout PublishingContext<Theskinny>) -> Page {
+        let page = makeCompletePageAsync(title: title, description: description, date: date, imagePath: imagePath, content: content, pagePath: pagePath)
         context.addPage(page)
         return page
     }
+    
+    
 }
+
+
