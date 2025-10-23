@@ -39,11 +39,11 @@ do {
         .writePostPages(),
         .writeRedirectsFromWordpressUrls(),
         .writeVideoAlbumPages(),
-//        .imageGalleries(),
-//        .dailyPhotos(),
-//        .oldMicroPosts(),
-//        .playlists(),
-//        .printDate()
+        .imageGalleries(),
+        .dailyPhotos(),
+        .oldMicroPosts(),
+        .playlists(),
+        .printDate()
     ])
     shell("afplay /System/Library/Sounds/Submarine.aiff")
     print (Date())

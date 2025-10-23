@@ -11,15 +11,17 @@ import Publish
 
 extension TsobHTMLFactory {
     func makePageHTML(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
-        
-        if page.path.string.prefix(5) == "/gal/" {
-            return makePageImgGal(for: page, context: context)
-        }
-        if page.path.string.prefix(4) == "/vid" ||
-            page.content.body.html.contains("redirect=\"true\"")
+
+        if page.content.body.html.contains("redirect=\"true\"")
         {
             return  HTML{ page.body }    // can use this for any where the content is already complete.
         }
+//        else if page.path.string.prefix(4) == "/gal" 
+//        {
+//            let htmlHeadInfo = HeaderInfo(location: context.index, title: page.title).node
+//            let mainNode: Node<HTML.DocumentContext> = page.body.convertToNode()
+//            return HTML(htmlHeadInfo, mainNode)
+//        }
         
                     
         return {
@@ -55,29 +57,8 @@ extension TsobHTMLFactory {
 
     }
     
-    fileprivate func makePageImgGal(for page: Page, context: PublishingContext<Theskinny>) -> HTML {
-        let pageTitle = "Photo Gallery on theskinnyonbenny.com"
-        var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
-        let imagePath = "/img\(page.path.string)/data/normal.jpg"
-        htmlHeadInfo.additionalNodes.append(Node.ogImgNode(imagePath, context: context))
-        let pageContent = Article { page.body }
-        let pageMain = AnyPageMain(mainContent: pageContent, site: context.site)
-        return HTML(
-            htmlHeadInfo.node,
-            .body(.component(pageMain))
-        )
-    }
-    
     fileprivate func makePageHTMLDefault(for page: Publish.Page, context: Publish.PublishingContext<Theskinny>)  -> Plot.HTML {
-        var pageTitle: String {
-            switch page.path.string {
-            case "pgHome":
-                return "Photo Galleries on theskinnyonbenny.com"
-            default:
-                return "theskinnyonbenny.com"
-            }
-        }
-        var htmlHeadInfo = HeaderInfo(location: context.index, title: pageTitle)
+        var htmlHeadInfo = HeaderInfo(location: context.index, title: page.title)
         let imgPath = page.imagePath?.string ?? EnvironmentKey.emptyImg
         let imgNode = Node.ogImgNode(imgPath, context: context)
         htmlHeadInfo.additionalNodes.append(imgNode)
@@ -132,14 +113,11 @@ extension TsobHTMLFactory {
         )
     }
     
-
-    
 //    fileprivate func makePagePgHome(for page: Page, context: PublishingContext<Theskinny>) -> Plot.HTML {
 //        let htmlHeadInfo = HeaderInfo(location: context.index, title: "Photo galleries on theskinnyonbenny.com")
-//        let pageMain = AnyPageMain(mainContent: Galleries(), site: context.site)
 //        return HTML(
 //            htmlHeadInfo.node,
-//            .body(.component(pageMain))
+//
 //        )
 //    }
     

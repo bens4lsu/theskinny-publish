@@ -97,14 +97,12 @@ extension PublishingStep where Site == Theskinny {
                 if album.id > maxAlbumId {
                     maxAlbumId = album.id
                 }
-//                let html = HTML(.component(album))
-//                page.content.body.html = html.render()
                                 
                 let page = makeCompletePage(title: album.name,
                                  description: album.caption,
                                  date: (album.minDate ?? Date()),
                                  imagePath: (album.tn ?? ""),
-                                            content: AnyPageMain(mainContent: album, site: context.site),
+                                            content: album,
                                  pagePath: "/video-albums/\(album.slug)",
                                  onContext: &context
                                  )
@@ -130,25 +128,11 @@ extension PublishingStep where Site == Theskinny {
                 }
             }()
             
-//            let article = Article { pageContentInside }
-//            let contentBody = Content.Body(indentation: EnvironmentKey.defaultIndentation){
-//                AnyPageMain(mainContent: article, site: context.site)
-//            }
-//            let content = Publish.Content(title: video.title,
-//                                        description: "",
-//                                        body: contentBody,
-//                                        date: (video.dateRecorded ?? Date()),
-//                                        lastModified: (video.dateRecorded ?? Date()),
-//                                        imagePath: Path(imagePath))
-//            
-//            let page = Page(path: "\(video.link)", content: content)
-//            context.addPage(page)
-            
             let _ = makeCompletePage(title: video.title,
                                         description: video.caption,
                                         date: (video.dateRecorded ?? Date()),
                                         imagePath: "/img/video-thumbnails/\(video.tn)",
-                                        content: AnyPageMain(mainContent: pageContentInside, site: context.site),
+                                        content: pageContentInside,
                                         pagePath: "\(video.link)",
                                         onContext: &context
                                     )
@@ -171,12 +155,24 @@ extension PublishingStep where Site == Theskinny {
     static func imageGalleries() -> Self {
         .step(named: "Image galleries"){ context in
             for gallery in ImageGalleryData.imageGalleries {
-                var page = Page (path: Path(gallery.path), content: Content())
-                let html = HTML(.component(gallery))
-                page.content.imagePath = Path(gallery.normalImagePath)
-                page.content.body.html = html.render()
-                context.addPage(page)
+                let _ = makeCompletePage(title: gallery.name,
+                                         description: gallery.name,
+                                         date: gallery.date,
+                                         imagePath: gallery.normalImagePath,
+                                         content: gallery,
+                                         pagePath: gallery.path,
+                                         onContext: &context
+                                        )
             }
+            // gal/index page
+            let _ = makeCompletePage(title: "Photo Galleries on theskinnyonbenny.com",
+                                     description: "Photo Galleries on theskinnyonbenny.com",
+                                     date: Date(),
+                                     imagePath: EnvironmentKey.emptyImg,
+                                     content: Galleries(),
+                                     pagePath: "/gal",
+                                     onContext: &context
+                                    )
         }
     }
     
@@ -184,14 +180,18 @@ extension PublishingStep where Site == Theskinny {
         .step(named: "Daily Photos") { context in
             
             //redirect for /dailyphoto
-            let script = try DailyPhotoData.scriptRedirect
-            let html = HTML(.component(Script(script)))
-            var page = Page(path: Path("/dailyphoto"), content: Content())
-            page.content.body.html = html.render().replacingOccurrences(of: "&lt;", with: "<")
-                                        .replacingOccurrences(of: "&gt;", with: ">")
-
-            context.addPage(page)
-            
+            let redirectScript = try Script(DailyPhotoData.scriptRedirect)
+            let content = AnyPageMain(mainContent: redirectScript, site: context.site)  // need all the headers so that jquery loads and the script will run.
+            let description = "Daily photo on theskinnyonbenny (redirecting to latest photo)."
+            let _ = makeCompletePage(title: description,
+                                     description: description,
+                                     date: Date(),
+                                     imagePath: EnvironmentKey.emptyImg,
+                                     content: content,
+                                     pagePath: "/dailyphoto",
+                                     onContext: &context
+                                    )
+//
             for year in DailyPhotoData.years {
                 
                 // page for dailyphoto/20xx/index.html
@@ -203,14 +203,27 @@ extension PublishingStep where Site == Theskinny {
                 // individual image pages
                 for dailyphoto in year.dp {
     
-                    let html = HTML(.component(dailyphoto),
-                                    .component(Script(DailyPhotoData.scriptCalendar))
-                    )
-                    page.content.body.html = html.render().replacingOccurrences(of: "&gt;", with: ">")
-                                                .replacingOccurrences(of: "&lt;", with: "<")
-                    page.imagePath = Path(dailyphoto.imagePath)
-                    page.date = dailyphoto.date
-                    context.addPage(page)
+//                    let html = HTML(.component(dailyphoto),
+//                                    .component(Script(DailyPhotoData.scriptCalendar))
+//                    )
+//                    page.content.body.html = html.render().replacingOccurrences(of: "&gt;", with: ">")
+//                                                .replacingOccurrences(of: "&lt;", with: "<")
+//                    page.imagePath = Path(dailyphoto.imagePath)
+//                    page.date = dailyphoto.date
+//                    context.addPage(page)
+                    let cg = ComponentGroup {
+                        dailyphoto
+                        Script(DailyPhotoData.scriptCalendar)
+                    }
+                    let description = "Daily Photo for \(dailyphoto.dateString) on theskinnyonbenny.com"
+                    let _ = makeCompletePage(title: description,
+                                             description: description,
+                                             date: dailyphoto.date,
+                                             imagePath: dailyphoto.imagePath,
+                                             content: cg,
+                                             pagePath: dailyphoto.link,
+                                             onContext: &context
+                                            )
                 }
             }
         }
@@ -225,15 +238,22 @@ extension PublishingStep where Site == Theskinny {
                 
                 let mposts = MicroPosts(mposts: posts, allYears: MicroPostData.years, year: year)
                 
-                var page = Page (path: Path(url), content: Content())
-                let html = HTML(.component(mposts.bodySorted(url: urlRev, direction: > )))  //revUrl here because that gets used to generate the link to the reversed page
-                page.content.body.html = html.render()
-                context.addPage(page)
-                
-                var pageRev = Page (path: Path(urlRev), content: Content())
-                let htmlRev = HTML(.component(mposts.bodySorted(url: url, direction: < ))) //url here because that gets used to generate the link to the default page
-                pageRev.content.body.html = htmlRev.render()
-                context.addPage(pageRev)
+                let _ = makeCompletePage(title: "Old Tweets",
+                                         description: "Old Tweets",
+                                         date: posts.first!.date,
+                                         imagePath: EnvironmentKey.emptyImg,
+                                         content: mposts.bodySorted(url: url, direction: < ),
+                                         pagePath: url,
+                                         onContext: &context
+                                        )
+                let _ = makeCompletePage(title: "Old Tweets",
+                                         description: "Old Tweets",
+                                         date: posts.first!.date,
+                                         imagePath: EnvironmentKey.emptyImg,
+                                         content: mposts.bodySorted(url: url, direction: < ),
+                                         pagePath: urlRev,
+                                         onContext: &context
+                                        )
             }
         }
     }
@@ -245,11 +265,14 @@ extension PublishingStep where Site == Theskinny {
     static func playlists() -> Self {
         .step(named: "Music Playlists") { context in
             for playlist in AppleMusicData.playlists {
-                let path = playlist.pageName
-                var page = Page (path: Path(path), content: Content())
-                let html = HTML(.component(playlist))
-                page.content.body.html = html.render()
-                context.addPage(page)
+                let _ = makeCompletePage(title: playlist.pageName,
+                                         description: playlist.pageName,
+                                         date: playlist.dateUpdated,
+                                         imagePath: EnvironmentKey.emptyImg,
+                                         content: playlist,
+                                         pagePath: playlist.pageName,
+                                         onContext: &context
+                                        )
             }
             
             // redirect for /playlists
