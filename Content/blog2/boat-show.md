@@ -4,7 +4,7 @@ date: 2025-10-24 10:56
 description: We had a really good time at the Annapolis Boat show a couple of weekends ago.  We got some face time with the Pegasus people, checked out some cool products, ate lots of crab, and stayed out drinking every night.  Longest post I've written in months!
 tags: sailing, pegasus, travel
 id: 2404
-ogImg: boat-show-2025-4.JPG
+ogImg: boat-show-2025-1.jpeg
 ---
 Our first taste of Autumn temperatures this year was at the Annapolis boat show a couple of weeks ago.  We were excited to go out there and help our friends from <a href="" target="_blank">Pegasus Yachts</a> show off their boat for Americans for the first time.
 
