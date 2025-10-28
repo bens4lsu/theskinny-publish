@@ -2,7 +2,7 @@
 title: On Miss Mary's Car
 date: 2005-05-10 14:02
 description: After I posted my article on the bad things that I had done, I got an email asking me to relate the details of a misadventure that I had glossed over.  I mentioned in that entry that I didn't have the time or space to detail all of the mean things that I had done to our housemother.  So by request, here is one such story.  First, some background information is necessary.  Our house mother is the first -- and to this day the only -- woman mayor of Baton Rouge.  Her husband had been mayor, and when he died, the city apparently decided to name a park after him (Webb park, right down the road from my house), and panic about the succession plan.  Somehow, they just talked his wife into finishing his term.
-tags: my-youth
+tags: my-youth, miss-mary
 id: 115
 ---
 After I posted my article on the bad things that I had done, I got an email asking me to relate the details of a misadventure that I had glossed over.  I mentioned in that entry that I didn't have the time or space to detail all of the mean things that I had done to our housemother.  So by request, here is one such story.

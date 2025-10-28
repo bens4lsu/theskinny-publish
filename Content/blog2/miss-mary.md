@@ -1,13 +1,14 @@
 ---
 title: Miss Mary
 date: 2012-02-08 10:49
-description: A description of my post.
-tags: my-youth
+description:   I was out and about in the Crescent City this weekend, enjoying a good time with too many grown-up drinks, when my phone blew up.  I checked it while on the toilet, and found picture after picture from college showing up on a Facebook group.  There were a lot of pictures that made me laugh, but the one that made me laugh best is this one of our old house mother, Miss Mary.  The photo captures here perfectly.
+tags: my-youth, miss-mary
 id: 1215
+ogImg: missmary.jpg
 ---
 I was out and about in the Crescent City this weekend, enjoying a good time with too many grown-up drinks, when my phone blew up.  I checked it while on the toilet (don't pretend that you don't do it), and found picture after picture from college showing up on a Facebook group.
 
-<skinny:nohome><img style="display:block; margin-left:auto; margin-right:auto;" src="/img/missmary.jpg"></skinny:nohome>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/img/missmary.jpg">
 
 There were a lot of pictures that made me laugh, but the one that made me laugh best is this one of our old house mother, Miss Mary.  The photo captures here perfectly.
 

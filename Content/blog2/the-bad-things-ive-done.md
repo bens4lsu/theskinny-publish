@@ -2,7 +2,7 @@
 title: The Bad Things I've Done
 date: 2005-03-16 11:19
 description: I think most people worry from time to time that they need to be better people.  I'm not immune to such thoughts, so I started to take stock in the bad things that I've done.  
-tags: my-youth
+tags: my-youth, miss-mary
 id: 104
 ogImg: johanna_pugh.jpg
 ---
