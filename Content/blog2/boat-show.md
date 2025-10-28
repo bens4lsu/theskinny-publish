@@ -22,7 +22,7 @@ We got to catch up for a little while before Mrs. theskinnyonbenny and I had to 
 
 On Friday, we went to the show.  I spent most of the day answering questions for boat shoppers and listening to them tell me how awesome my boat is.  I enjoyed it so much that I didn't even take a break to eat.  Ben and Francine were beat after their day at the show (there _is_ a lot of walking), so an even bigger group of Pegasus people went to a wine bar, found they had crab to eat, and ended up staying a while.
 
-Once the grown ups went home that night, Mrs. theskinnyonbenny and I went to another bar for a nightcap, and we met Beele, a graduate student from Haiti at a small college in Annapolis that neither you nor I have ever heard of.  We talked islands and rum, and now he's a good friend.  I just got a text from him as I'm typing this.
+Once the grown ups went home that night, Mrs. theskinnyonbenny and I went to another bar for a nightcap, and we met Béeri, a graduate student from Haiti at a small college in Annapolis that neither you nor I have ever heard of.  We talked islands and rum, and now he's a good friend.  I just got a text from him as I'm typing this.
 
 Saturday was more of the same from the show, but I also found time to sneak off and visit the vendor booth for some of our boat parts.  I wanted to have business cards of people I can call directly when shit breaks and I can't get answers through normal customer service.
 
@@ -32,9 +32,9 @@ There is a yacht club right by the boat show, so as the crowds thinned and it go
 
 The yact club bartender gave us the lowdown on where to get the best crab cakes.  It was a place I remember being before, but I have no idea when.  
 
- I would have texted everyone to meet us there, except I'm a dumbass and I mixed up some numbers.  I flipped Ben's number -- which I still hadn't entered with a name -- with Beele's.  I should have figured it out when the reply came back begging off until later due to homework.  I know we talked about Ben being recently retired.  But I just shrugged it off, figuring he encountered some products at the boat show that he wanted to read up on.
+ I would have texted everyone to meet us there, except I'm a dumbass and I mixed up some numbers.  I flipped Ben's number -- which I still hadn't entered with a name -- with Béeri's.  I should have figured it out when the reply came back begging off until later due to homework.  I know we talked about Ben being recently retired.  But I just shrugged it off, figuring he encountered some products at the boat show that he wanted to read up on.
  
- It was a surprise when Beele showed up for dinner, with a gift of Hatian rum for me to bring home.  A pleasant one, but it still took me a while to figure out that I had been texting him and not Ben.  I really am not very smart.
+ It was a surprise when Béeri showed up for dinner, with a gift of Hatian rum for me to bring home.  A pleasant one, but it still took me a while to figure out that I had been texting him and not Ben.  I really am not very smart.
  
  This is the third time that I've been to the Annapolis Boat show, and it's been a lot of fun every time.  I didn't get that many pictures, but here are a bunch more.
  
