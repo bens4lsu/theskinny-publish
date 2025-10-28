@@ -13,7 +13,7 @@ On Friday, Chris came in for a visit from Mauritius.  It was his first trip back
 
 I'm included in the "driven out into the open" crowd.  They are mostly in from time to time for football games, and I almost always just watch from home, a couple of miles away.  The traffic, parking, and crowds on Saturday remind me of why.
 
-We rehashed a lot of the same old stories.  For sure, we covered <a href="/tags/miss-mary">Miss Mary</a>, and especially the <a href="/blog2/missmary">building of the wall in front of her door</a>, which I still hear from a third party from time to time.  It's definitely a Baton Rouge legend at this point.  I wish I could remember more of them.  I laughed so hard Friday night that my face hurt.
+We rehashed a lot of the same old stories.  For sure, we covered <a href="/tags/missmary">Miss Mary</a>, and especially the <a href="/blog2/miss-mary">building of the wall in front of her door</a>, which I still hear from a third party from time to time.  It's definitely a Baton Rouge legend at this point.  I wish I could remember more of them.  I laughed so hard Friday night that my face hurt.
 
 There are some that I won't put into writing, but here's one that was either new to me or completely forgotten:  Eddie threw some peeled bananas into the house toilet bowls, blindfolded the pledges, and made them reach into the bows and squeeze whatever they grabbed.  Just typing that made me laugh out loud.
 
