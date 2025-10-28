@@ -8,11 +8,11 @@ ogImg: missmary.jpg
 ---
 I was out and about in the Crescent City this weekend, enjoying a good time with too many grown-up drinks, when my phone blew up.  I checked it while on the toilet (don't pretend that you don't do it), and found picture after picture from college showing up on a Facebook group.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="/img/missmary.jpg">
+<a class="lightview centered" href="/img/missmary.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/missmary.jpg" alt="/img/missmary.jpg"><br><span class="caption"></span></a>
 
 There were a lot of pictures that made me laugh, but the one that made me laugh best is this one of our old house mother, Miss Mary.  The photo captures here perfectly.
 
-I can look at this and smell the clouds of cigarette smoke that billowed forth when she opened the door to her room, which attest -- along with the yellow streak through the front center of her white hair -- to a long running love affair with Phillip Morris.  <span class="spanEndPreview">&nbsp;</span>The plastic cup undoubtedly is full of K&B brand gin.  And the story coming from her mouth is either unintentionally hilarious, or a description of a recent Murder She Wrote rerun.
+I can look at this and smell the clouds of cigarette smoke that billowed forth when she opened the door to her room, which attest -- along with the yellow streak through the front center of her white hair -- to a long running love affair with Phillip Morris.  The plastic cup undoubtedly is full of K&B brand gin.  And the story coming from her mouth is either unintentionally hilarious, or a description of a recent Murder She Wrote rerun.
 
 I did a lot of mean things to this old lady.  From banging on the door in the middle of the night, to prank phone calls from <a href="http://www.youtube.com/watch?v=1NBmET5uvfI" target="_blank">Floyd Cramer</a>, to much worse.  I might even remember building a brick wall over her bedroom door one night while she slept inside.  (No one was around to stop us.  It was Thanksgiving weekend.)
 
