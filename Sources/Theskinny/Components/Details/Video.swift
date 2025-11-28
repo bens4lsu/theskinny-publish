@@ -95,7 +95,7 @@ struct Video: Component, Decodable {
             navSection = EmptyComponent()
         }
         else {
-            let linkInfo = LinkInfo(backToPage!.title, "/" + backToPage!.path.string)
+            let linkInfo = LinkInfo(backToPage!.title, backToPage!.path.string)
             navSection = TopNavLinks(linkInfo, nil, nil)
         }
         

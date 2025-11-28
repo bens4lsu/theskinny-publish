@@ -41,7 +41,10 @@ struct HomeMainMessage: Component {
     
     let vgComponentGroup = ComponentGroup {
         H2("Some new videos...")
+        VideoGalleryLink(url: "/video/vegas-shenanigans-2025/", image: "mq20251128a.jpg", caption: "Random clips from summer Vegas trip.")
+        VideoGalleryLink(url: "/video/leaving-nassau-by-sailboat/", image: "mq20251126a.jpg", caption: "A little video I shot on our way out of Nassau this summer")
         VideoGalleryLink(url: "/video/the-seagulls-are-out-of-control-in-new-orleans/", image: "mq20251020a.jpg", caption: "The seagulls are out of control in New Orleans right now.")
+        
     }
     
     

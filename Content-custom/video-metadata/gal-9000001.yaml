@@ -118,3 +118,17 @@ videos:
         embed: <iframe width="875" height="492" src="https://www.youtube.com/embed/WSO95pgDABw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20251020a.jpg
         duration: 0:28
+    -
+        id: 912345046
+        dateRecorded: 2025-08-09
+        name: Vegas Shenanigans 2025
+        caption: >
+            Just some random clips that weren't still photos.  
+            
+            I was only going to have the one shot of the Sphere, but when I saw the dancing cats, I had to add another few seconds of that.
+            
+            Pics are <a href="https://theskinnyonbenny.com/gal/198%20-%20Vegas%20Trip%202025/">here</a>.
+        url: https://youtu.be/iGFWaQhwAWw
+        embed: <iframe width="1118" height="629" src="https://www.youtube.com/embed/iGFWaQhwAWw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+        tn: mq20251128a.jpg
+        duration: 1:22

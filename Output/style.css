@@ -486,6 +486,7 @@ div.twitter-tweet {
 
 .div-image-gallery-link {
     text-align: center;
+    display: inline-block;
 }
 
 .div-image-gallery-link h3 {
