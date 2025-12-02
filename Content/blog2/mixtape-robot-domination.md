@@ -1,8 +1,8 @@
 ---
 title: Mixtape - Robot Domination
 date: 2008-03-04 00:30
-description: A description of my post.
-tags: pop-culture
+description: I'm trying to put together a playlist whose common thread is that all of the songs have to do with humans fighting a war against the robots, humans having been annihilated by robots, or robots plotting to take over the humans in some form.  On top of this being a cool theme, based on the small collection that I've found, the music is really good too.
+tags: pop-culture, music
 id: 354
 ---
 I'm trying to put together a playlist whose common thread is that all of the songs have to do with humans fighting a war against the robots, humans having been annihilated by robots, or robots plotting to take over the humans in some form.  On top of this being a cool theme, based on the small collection that I've found, the music is really good too.
@@ -18,6 +18,6 @@ So far, I have only the following songs.
 
 I considered but rejected tracks from Radiohead's OK Computer, because I paid attention to the lyrics, and I'm not really sure what they're about.  At any rate, I don't hear of killing humans or fights between computers or humans, and I think it might be more about how we as people follow orders blindly like robots.  No offense to frequent commenter Pablo Honey, but I don't think it fits.
 
-<div style="position:relative; text-align:right;"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=275551766&s=143441&v0=575" target="_self"><img src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif" border="0" width="60" height="60" style="position:absolute; top:30px; left:12px;"/></a><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=275551766&s=143441&v0=575" target="_self"><img src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif" border="0" width="335" height="20" style="position:absolute; top:30px; left:75px;"/></a><a href="itms://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/publishedPlayListHelp?v0=575" target="_self"><img src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif" border="0" width="175" height="20" style="position:absolute; top:295px; left:130px;"/></a><embed src="http://ax.phobos.apple.com.edgesuite.net/flash/feedreader.swf" FlashVars="feed=WebObjects/MZStoreServices.woa/ws/RSS/imix/html=false/imixid=275551766/sf=143441/xml?v0=575" quality="high" salign="lt" wmode="transparent" width="435" height="330" name="feedreader" align="top" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" ></embed></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/mix-robot-domination/pl.u-yZyVYzlCq9KWgV"></iframe>
 
 I'm sure there are enough songs for me to put together a 10-12 song playlist.  This is all I could come up with today, but I haven't had too long to think it over.  If you know of more, please send me an email, or drop a comment in the bottom of this page.  If I come up with something good, I'll post a follow-up.

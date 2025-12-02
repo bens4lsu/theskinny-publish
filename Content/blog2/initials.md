@@ -1,7 +1,7 @@
 ---
 title: Initials
 date: 2008-02-26 12:54
-description: My initials are downright trifling.
+description: I started a contract with a company last week, and they set me up on their network and email systems.  Their convention is first initial-last name, so mine should have been bschultz.  Unfortunately, bschultz was already taken, so I got first initial-middle initial-last name.  bmschultz.
 tags: the-office,young-ruski
 id: 351
 ---
@@ -18,10 +18,10 @@ You would think that I would do a better job at naming my own kid, but it turns 
 Finally, here's an email that I received at the new address last week.  This is the entire message, although I've hidden the name of the sender.
 
 <blockquote>From: (name)
-Sent: Friday, February 22, 2008 7:55 AM
-To: QA
-Subject: Next door
-
-Because there are termites swarming my office, I will be working from next door.
- 
-(name)</blockquote>
+<br>Sent: Friday, February 22, 2008 7:55 AM
+<br>To: QA
+<br>Subject: Next door
+<br>
+<br>Because there are termites swarming my office, I will be working from next door.
+<br> 
+<br>(name)</blockquote>

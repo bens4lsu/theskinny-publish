@@ -1,8 +1,8 @@
 ---
 title: Song Lyric Hall of Fame
 date: 2008-03-26 08:02
-description: A description of my post.
-tags: pop-culture
+description: Here's a song lyric that jumped out at me as I listened to background music today.  It's from a blues song called "Down Homegirl," performed by Alvin Robinson.  I don't know if Alvin wrote the tune or is just singing it.  
+tags: pop-culture, poetry, music
 id: 360
 ---
 Here's a song lyric that jumped out at me as I listened to background music today.  It's from a blues song called "Down Homegirl," performed by Alvin Robinson.  I don't know if Alvin wrote the tune or is just singing it.  

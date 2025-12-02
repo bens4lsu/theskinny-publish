@@ -1,15 +1,15 @@
 ---
 title: Russian Language and Culture Notes
 date: 2008-01-16 12:39
-description: A description of my post.
-tags: travel,young-ruski
+description: I recently went back to listening to my Russian language lessons while walking the dogs at night.  I had gone through pretty many before our last trip to Russia (55 of 90 lessons), and while it was definitely helpful, the actual Russians speak way too quickly for me to understand even the occasional word or phrase that sounded familiar to my ear.  But I think it would be cool to speak Russian to my Russian kid, so I'll keep trying.
+tags: travel,young-ruski, russia
 id: 343
 ---
 I recently went back to listening to my Russian language lessons while walking the dogs at night.  I had gone through pretty many before our last trip to Russia (55 of 90 lessons), and while it was definitely helpful, the actual Russians speak way too quickly for me to understand even the occasional word or phrase that sounded familiar to my ear.  But I think it would be cool to speak Russian to my Russian kid, so I'll keep trying.
 
-There are two words that strike me as funny.  The first I learned was the word for "Red Square."  It's ÐšÑ€Ð°Ñ�Ð½Ð°Ñ� Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÑŒ in Russian, pronounced something like, "Grassnaya Bloshit."  If I think about what neighbors think if they happen to observe me waking the streets at night, clad in jacket and pajama pants, mumbling "bloshit" over and over -- well, it just breaks me up.  It was several times through this lesson before I could get through without hysterical laughter, which probably made me look even more insane.
+There are two words that strike me as funny.  The first I learned was the word for "Red Square."  It's красная площадь in Russian, pronounced something like, "Grassnaya Bloshit."  If I think about what neighbors think if they happen to observe me waking the streets at night, clad in jacket and pajama pants, mumbling "bloshit" over and over -- well, it just breaks me up.  It was several times through this lesson before I could get through without hysterical laughter, which probably made me look even more insane.
 
-The other word that cracks me up is the word for the number sixteen.  It's pronounced almost exactly like the sentence in English, "She snots it."  Say it quickly, and you can say ÑˆÐµÑ�Ñ‚Ð½Ð°Ð´Ñ†Ð°Ñ‚ÑŒ (sixteen) in Russian.
+The other word that cracks me up is the word for the number sixteen.  It's pronounced almost exactly like the sentence in English, "She snots it."  Say it quickly, and you can say шестнадцать (sixteen) in Russian.
 
 There are a few funny things about Russia itself that I don't remember posting before.  If it's in my travel blog, please forgive the repetition.
 

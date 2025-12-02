@@ -1,13 +1,13 @@
 ---
 title: Thanks Shelly
 date: 2008-04-22 09:49
-description: A description of my post.
+description: Shelly came by on Sunday, and she was bearing gifts.  Apparently, a shoe store in <a href="/njdispatches/">her ghetto</a> had been looted, but the looters left behind some child shoes, so she gathered up some leftovers, and brought them by during her her weekend visit to Louisiana.
 tags: young-ruski
 id: 364
 ---
 Shelly came by on Sunday, and she was bearing gifts.
 
-Apparently, a shoe store in <a href="http://theskinnyonbenny.com/x/shellynjIndex.php">her ghetto</a> had been looted, but the looters left behind some child shoes, so she gathered up some leftovers, and brought them by during her her weekend visit to Louisiana.
+Apparently, a shoe store in <a href="/njdispatches/">her ghetto</a> had been looted, but the looters left behind some child shoes, so she gathered up some leftovers, and brought them by during her her weekend visit to Louisiana.
 
 It was the first time Vanya showed little kid surprise and excitement that comes with getting new stuff.  It helps that he loves his shoes.
 

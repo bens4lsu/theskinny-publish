@@ -1,8 +1,8 @@
 ---
 title: I Don't Know Who That Is
 date: 2008-01-14 20:09
-description: A description of my post.
-tags: pop-culture,current-events
+description: I'm reasonably terrible at seeing famous people and then having the ability to identify those people.  I'm glad there are no red carpet shows, because I spend the whole time wondering who these people are.  But I don't ask, because they invariably end up being someone completely obvious.  Like Tom Hanks.
+tags: pop-culture,current-events,favorites
 id: 342
 ---
 I'm reasonably terrible at seeing famous people and then having the ability to identify those people.  I'm glad there are no red carpet shows, because I spend the whole time wondering who these people are.  But I don't ask, because they invariably end up being someone completely obvious.  Like Tom Hanks.

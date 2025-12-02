@@ -1,7 +1,7 @@
 ---
 title: Dead Stars, Dead Television
 date: 2008-01-24 10:42
-description: A description of my post.
+description: Lost in the news about Heath Ledger's mysterious dropping dead, you may have caught a flattering obituary for Suzanne Pleshette.  Lost behind even that was the death of Allan Melvin, who you might remember as Alice's boyfriend Sam the Butcher on The Brady Bunch.
 tags: pop-culture
 id: 344
 ---
