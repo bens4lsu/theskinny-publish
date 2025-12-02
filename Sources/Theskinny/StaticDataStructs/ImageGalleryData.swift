@@ -17,7 +17,7 @@ enum GalleryLoadError: Error {
 
 struct ImageGalleryData {
     
-    static let hideGalleryIDs: [Int] = []
+    static let hideGalleryIDs: [Int] = [199]
         
     static let imageGalleries: [Gallery] = {
         let galFromSiteRoot = "Resources/img/gal/"
