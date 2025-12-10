@@ -485,7 +485,7 @@ div.twitter-tweet {
 }
 
 .div-image-gallery-link {
-    text-align: center;
+    /*text-align: center;*/
     display: inline-block;
 }
 
@@ -976,13 +976,26 @@ img.greenline {
         aspect-ratio: 16/9;
         margin: 0 auto 30px auto;
     }
-
+    
 }
 
 @media (min-width: 650px) and (max-width: 810px) {
     .menu {
         font-size:75%;
         padding-left: 0;
+    }
+    
+    .div-home-wrapper-inner {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: 1fr 2fr;
+        grid-template-areas:
+        "main"
+        "blog"
+        "dailyphoto"
+        "tweets"
+        "shelly"
+        "after";
     }
         
 }
