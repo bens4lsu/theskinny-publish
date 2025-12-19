@@ -54,5 +54,15 @@ videos:
         tn: mq20251201.jpg
         duration: 0:11
         attribution:
-
+    -
+        id: 912345048
+        dateRecorded: 2025-12-19
+        name: Kitten Vs Puppy
+        caption: |
+            This is Bugsy and Bluebell.  New to theskinnyonbenny house.  They're getting along pretty well this morning.
+        url: https://youtube.com/shorts/J3Y7V-9zCm4
+        embed: <iframe width="446" height="792" src="https://www.youtube.com/embed/J3Y7V-9zCm4" title="Kitten vs Puppy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: KittenVsPuppy.jpeg
+        duration: 0:22
+        attribution:
  
