@@ -62,8 +62,8 @@ Now *that* would be trouble.
 
 Tyler told me today that he had a new haiku pop into his head while in the bathroom.  I started wondering what kind of haikus one thinks of in there.  Here's what I came up with:
 
-<center>another good pee
+another good pee
 urination is my friend
-no more kidney stones</center>
+no more kidney stones
 
-<a href="http://theskinnyonbenny.com/x/tcHaikus.php">The one he added was about being ADD rather than about urinating</a>, and it's certainly better than this one that I came up with.
+[The one he added](/x/haikus) was about being ADD rather than about urinating, and it's certainly better than this one that I came up with.

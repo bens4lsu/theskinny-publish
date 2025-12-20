@@ -1,6 +1,6 @@
 ---
 title: Cuteness
-date: 2025-12-04 13:38
+date: 2025-12-05 13:38
 description: Two kitties arrived last night, increasing the number of beings in our house with fish breath by at least 18%.  (I haven't done the math.)  Right now, they're nervous, but also curious to explore.
 tags: animals
 id: 2409
