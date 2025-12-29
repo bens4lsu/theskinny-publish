@@ -1,7 +1,7 @@
 ---
 title: A Sad Children's Story
 date: 2008-05-05 07:06
-description: A description of my post.
+description: Once upon a time, there was a cute little Russian kid named Vanya.  One night, his parents left him with a nice older lady, while they went out for some reason or other.
 tags: young-ruski
 id: 367
 ---
@@ -35,4 +35,4 @@ Vanya was sad.
 
 Eventually, Mama and Papa returned, and Vanya knew that he would again be allowed to eat vegetables when he became hungry.
 
-<center>THE END</center>
+THE END

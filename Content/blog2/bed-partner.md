@@ -1,7 +1,7 @@
 ---
 title: Bed Partner
 date: 2008-05-20 08:11
-description: A description of my post.
+description: Last night, I fell asleep on my bed as soon as the Hornetss-Spurs game got underway, and I slept through the first three quarters.  Judging by the score, I'm glad to have missed what I did.  I watched the fourth quarter, in which the Hornets closed a 15-point gap down to three, and then missed a couple of three-pointers that would have tied it with under a minute to play.  
 tags: animals
 id: 369
 ---

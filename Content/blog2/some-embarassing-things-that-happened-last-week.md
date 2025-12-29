@@ -1,8 +1,8 @@
 ---
 title: Some Embarassing Things That Happened Last Week
 date: 2008-05-29 09:30
-description: A description of my post.
-tags: my-stories
+description: Three sort of embarrassing stories from a single stretch of time. 
+tags: my-stories, embarrassing
 id: 370
 ---
 First of all, let me explain the comment on that last post.

@@ -1,7 +1,7 @@
 ---
 title: Links/Cleanup
 date: 2008-04-24 07:10
-description: A description of my post.
+description: Short little observations.  Maybe you'll find one of them funny.
 tags: uncategorized
 id: 365
 ---

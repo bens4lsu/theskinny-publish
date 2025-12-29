@@ -1,13 +1,13 @@
 ---
 title: Horse Page
 date: 2008-05-07 18:57
-description: A description of my post.
-tags: uncategorized
+description: I was the biggest lop of shit in history Saturday.  In fact, over the course of the weekend, I barely left the house over the whole 48-hour period.  And I did nothing to clean up the yard or fix up the building at all.  I didn't even look at my phone from when I put it down Friday evening until Monday morning.  Yada yada yada, and some interesting information about the recent horse races.
+tags: sports
 id: 368
 ---
 I was the biggest lop of shit in history Saturday.  In fact, over the course of the weekend, I barely left the house over the whole 48-hour period.  And I did nothing to clean up the yard or fix up the building at all.  I didn't even look at my phone from when I put it down Friday evening until Monday morning.
 
-Which is how I missed several calls, and a text from Shelly asking for my secret recipe for red beans.  It turns out that I don't really have a recipe (like with actual measurements and all), but I do have a consistent process.  For the first time every, I'm sharing my secret recipe <a href="/recipes/Beans.php">here</a>.
+Which is how I missed several calls, and a text from Shelly asking for my secret recipe for red beans.  It turns out that I don't really have a recipe (like with actual measurements and all), but I do have a consistent process.  For the first time every, I'm sharing my secret recipe here.
 
 Saturday, I had the horse races from Churchill Downs on from about 10:30, through the coverage of the Kentucky Derby at around 6:30.  I did take Vanya to the park once in the morning, and I went for a bike ride in the afternoon.  Also, I was asleep for a couple of hours in there, so I really didn't come close to the 8 straight hours of racing that it seems like I did.
 
@@ -25,6 +25,6 @@ I can't imagine the swing from high to low as, MY HORSE JUST WON THE KENTUCKY DE
 
 Getting back to Big Brown, he looked more than a little impressive.  He was four or five wide going around every turn, and through most of the race, Kent Desormeaux seemed to be holding him back.  When he turned the horse loose, he blew past everyone and looked to have more in the tank. 
 
-The Preakness is his to lose.  The only question mark is that Big Brown will be running on two-week's rest, which is nothing for a horse.  Most of the other Preakness entries will have not run in the Derby, so they'll be primed to go.  It's a shorter race than the other two, and a Big Brown win will have the world buzzing about a triple crown.
+The Preakness is his to lose.  The only question mark is that Big Brown will be running on two-week's rest, which is not nothing for a horse.  Most of the other Preakness entries will have not run in the Derby, so they'll be primed to go.  It's a shorter race than the other two, and a Big Brown win will have the world buzzing about a triple crown.
 
 The Belmont is just two more weeks away, and it's a whopping mile and a half.  These horses run forever, and to win a triple crown, they have to do it as their third week in a month and a half.  It's a grueling task, and I'm starting to suspect that the horses that are fast enough don't have the stamina to win all three.  We may not see another triple crown winner in our lifetimes.  Fathom that.

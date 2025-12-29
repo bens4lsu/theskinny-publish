@@ -1,7 +1,7 @@
 ---
 title: Abused
 date: 2008-06-13 10:46
-description: A description of my post.
+description: We went to a fundraiser one night this week.  Something for abused and neglected kids.  
 tags: my-stories
 id: 372
 ---
@@ -51,3 +51,5 @@ JC says:
 ben says:
 <div style="padding-left: 4em;">no doubt</div>
 </div>
+
+<h3>2025 update:  holy shit, this is horrifying</h3>

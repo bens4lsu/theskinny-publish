@@ -4,6 +4,7 @@ date: 2008-05-02 13:27
 description: A description of my post.
 tags: sports,food,current-events
 id: 366
+ogImg: starbucks.jpg
 ---
 As you see, I really didn't have anything to tell the world this week that merited more than a couple of sentences.  But I had a lot of false starts -- posts that I started, but that didn't really turn into anything.  It starts with a couple of sports topics, but if that doesn't interest you, hit the page down key once or twice for more.
 
@@ -13,6 +14,7 @@ I say, start a championship series without them.  Let the winners of the SEC, Bi
 
 
 <center><img src="/img/greenline.gif" /></center>
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 
 The Hornets have been fun to watch in the playoffs.  I had a post started back in November or December about how basketball fans better go watch them now.  The barely-populated stadium portended a hasty exit for the NBA in New Orleans, and the fans would need to take their opportunity to see the best point guard in the league now.

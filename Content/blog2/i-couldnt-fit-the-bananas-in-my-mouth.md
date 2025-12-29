@@ -2,7 +2,7 @@
 title: I Couldn't Fit the Bananas in My Mouth Because My Foot Was Already in There.
 date: 2025-11-19 07:59
 description: Today's post might be the first one I've posted that is embarrassing as I write it.  I'm cringing so hard just knowing what's about to come out of my keyboard.
-tags: travel, new-orleans
+tags: travel, new-orleans, embarrassing
 id: 2407
 ogImg: bananasfoster.jpg
 ---
