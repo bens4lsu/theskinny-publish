@@ -100,11 +100,12 @@ extension PublishingStep where Site == Theskinny {
                 if album.id > maxAlbumId {
                     maxAlbumId = album.id
                 }
-                                
+                
+                let tn = album.tn != nil ? (context.site.url.absoluteString + album.tn!) : ""
                 let page = makeCompletePage(title: album.name,
                                  description: album.caption,
                                  date: (album.minDate ?? Date()),
-                                 imagePath: (album.tn ?? ""),
+                                 imagePath: tn,
                                             content: album,
                                  pagePath: "/video-albums/\(album.slug)",
                                  onContext: &context
@@ -134,7 +135,7 @@ extension PublishingStep where Site == Theskinny {
             let _ = makeCompletePage(title: video.title,
                                         description: video.caption,
                                         date: (video.dateRecorded ?? Date()),
-                                        imagePath: "/img/video-thumbnails/\(video.tn)",
+                                        imagePath: context.site.url.absoluteString + "/img/video-thumbnails/\(video.tn)",
                                         content: pageContentInside,
                                         pagePath: "\(video.link)",
                                         onContext: &context
