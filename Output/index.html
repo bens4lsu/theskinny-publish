@@ -234,7 +234,23 @@ Benny Elsewhere
                             <a href="/mobileSitemap">Other pages</a></li></ul></div></aside>
             <article class="content">
                 <div class="div-home-wrapper-inner">
-                    <div class="div-home-main-mess">                        <h2>Some new videos...</h2>
+                    <div class="div-home-main-mess">                        <h2>New Photo Collection -- Pet Explosion</h2>
+                        <script>    function chgImg (imgName, newImg){
+        var i = document.getElementsByName(imgName)[0];
+        i.src = eval (newImg + ".src");
+    }</script>
+                        <script>    img200Normal = new Image;
+    img200Red = new Image;
+    img200Normal.src = "/img/gal/200%20-%20Pet%20Explosion//data/normal.jpg";
+    img200Red.src = "/img/gal/200%20-%20Pet%20Explosion//data/red.jpg";</script>
+                        <div>
+                            <div class="pg-grid">
+                                <div>
+                                    <a href="/gal/200%20-%20Pet%20Explosion" onmouseover="chgImg ('i200','img200Red')" onmouseout="chgImg ('i200','img200Normal')">
+                                        <img src="/img/gal/200 - Pet Explosion//data/normal.jpg" name="i200" class="pgHome-image-link"/></a>
+                                    <p class="caption">Pet Explosion</p></div></div></div>
+
+                        <h2>And a related new video...</h2>
                         <div class="div-image-gallery-link">
                             <div>
                                 <a href="/video/warriors-in-training/" target="_blank">

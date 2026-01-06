@@ -32,15 +32,15 @@ struct HomeMainMessage: Component {
 
     // Photo Gallery
     let pgComponentGroup = ComponentGroup {
-       H2("Summer Travel Photo Galleries")
-       ImageGalleryLinkSet(197, 198)
+       H2("New Photo Collection -- Pet Explosion")
+       ImageGalleryLinkSet(200)
        EmptyComponent()
     }
 
     // Video Galleries
     
     let vgComponentGroup = ComponentGroup {
-        H2("Some new videos...")
+        H2("And a related new video...")
         VideoGalleryLink(url: "/video/warriors-in-training/", image: "mq20260105.jpg", caption: "Stick around to the end for puppy wind sprints.")
         
         
@@ -50,7 +50,7 @@ struct HomeMainMessage: Component {
     var body: Component {
         Div {
             mdContent
-            //pgComponentGroup
+            pgComponentGroup
             vgComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
