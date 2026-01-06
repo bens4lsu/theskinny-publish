@@ -41,11 +41,8 @@ struct HomeMainMessage: Component {
     
     let vgComponentGroup = ComponentGroup {
         H2("Some new videos...")
-        Div("This got long (especially on mobile), so just scroll down for the normal home page stuff.")
-        VideoGalleryLink(url: "/video/pants-your-brother/", image: "mq20251201.jpg", caption: "What happened when I offered Ko $100 to pants his brother.")
-        VideoGalleryLink(url: "/video/vegas-shenanigans-2025/", image: "mq20251128a.jpg", caption: "Random clips from summer Vegas trip.")
-        VideoGalleryLink(url: "/video/leaving-nassau-by-sailboat/", image: "mq20251126a.jpg", caption: "A little video I shot on our way out of Nassau this summer")
-        VideoGalleryLink(url: "/video/the-seagulls-are-out-of-control-in-new-orleans/", image: "mq20251020a.jpg", caption: "The seagulls are out of control in New Orleans right now.")
+        VideoGalleryLink(url: "/video/warriors-in-training/", image: "mq20260105.jpg", caption: "Stick around to the end for puppy wind sprints.")
+        
         
     }
     
@@ -54,7 +51,7 @@ struct HomeMainMessage: Component {
         Div {
             mdContent
             //pgComponentGroup
-            //vgComponentGroup
+            vgComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }
