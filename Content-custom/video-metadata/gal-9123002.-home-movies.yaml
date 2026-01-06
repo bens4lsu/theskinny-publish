@@ -1,8 +1,8 @@
 id: 9123002
-name: Home Movies 2019-2025
-slug: home-movies-2019-2025
+name: Home Movies 2019-2026
+slug: home-movies-2019-2026
 caption: 
-tn: mq20231213a.jpg
+tn: mq20260105.jpg
 linkBack:
     text: Family Home Videos
     url: /vid/family-home-videos/
@@ -65,4 +65,14 @@ videos:
         tn: KittenVsPuppy.jpeg
         duration: 0:22
         attribution:
- 
+    -
+        id: 912345049
+        dateRecorded: 2026-01-05
+        name: Warriors in Training
+        caption: |
+            There's a whole lot of cute going on at our house right now.
+        url: https://youtu.be/LJ6XhBicp0w
+        embed: <iframe width="640" height="360" src="https://www.youtube.com/embed/LJ6XhBicp0w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20260105.jpg
+        duration: 2:15
+        attribution:
