@@ -199,6 +199,10 @@ Benny Elsewhere
         var i = document.getElementsByName(imgName)[0];
         i.src = eval (newImg + ".src");
     }</script>
+<script>    img200Normal = new Image;
+    img200Red = new Image;
+    img200Normal.src = "/img/gal/200%20-%20Pet%20Explosion//data/normal.jpg";
+    img200Red.src = "/img/gal/200%20-%20Pet%20Explosion//data/red.jpg";</script>
 <script>    img199Normal = new Image;
     img199Red = new Image;
     img199Normal.src = "/img/gal/199%20-%2030th%20Anniversary%20Week//data/normal.jpg";
@@ -995,6 +999,10 @@ Benny Elsewhere
     <h2>The Photo Collections...</h2>
     <p>Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.</p>
     <div class="pg-grid">
+        <div>
+            <a href="/gal/200%20-%20Pet%20Explosion" onmouseover="chgImg ('i200','img200Red')" onmouseout="chgImg ('i200','img200Normal')">
+                <img src="/img/gal/200 - Pet Explosion//data/normal.jpg" name="i200" class="pgHome-image-link"/></a>
+            <p class="caption">Pet Explosion</p></div>
         <div>
             <a href="/gal/199%20-%2030th%20Anniversary%20Week" onmouseover="chgImg ('i199','img199Red')" onmouseout="chgImg ('i199','img199Normal')">
                 <img src="/img/gal/199 - 30th Anniversary Week//data/normal.jpg" name="i199" class="pgHome-image-link"/></a>
