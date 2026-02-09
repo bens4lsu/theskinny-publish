@@ -1,11 +1,11 @@
 id: 9000001
-slug: interesting-unusual-funny-2023-2025
+slug: interesting-unusual-funny-2023-2026
 name: >
-    Interesting, Unusual, and Funny 2023 - 2025
+    Interesting, Unusual, and Funny 2023 - 2026
 caption: 
 tn: mq2kk.jpg
 linkBack:
-    text: Interesting, Unusual, and Funny 2023
+    text: Interesting, Unusual, and Funny 2023 - 2026
     url:  /vid/interesting-unusual-and-funny/
 videos: 
 
@@ -132,3 +132,14 @@ videos:
         embed: <iframe width="1118" height="629" src="https://www.youtube.com/embed/iGFWaQhwAWw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
         tn: mq20251128a.jpg
         duration: 1:22
+        
+    -
+        id: 912345050
+        dateRecorded: 2026-01-30
+        name: I Have No Idea What to Do with This Striping
+        caption: >
+            The city painted some new street stripes on S. Harrlels Ferry Rd, which is kind of a major street.  I honestly have no idea when I'm supposed to go where as I approach Sherwood Forest Blvd.  Watch the vid and let me know.
+        url: https://youtu.be/cweOozdcrBc
+        embed: <iframe width="929" height="523" src="https://www.youtube.com/embed/cweOozdcrBc" title="I Have No Idea What to Do with This Striping" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20260209.jpg
+        duration: 0:10

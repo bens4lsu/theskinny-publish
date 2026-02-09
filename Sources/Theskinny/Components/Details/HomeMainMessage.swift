@@ -40,8 +40,9 @@ struct HomeMainMessage: Component {
     // Video Galleries
     
     let vgComponentGroup = ComponentGroup {
-        H2("And a related new video...")
-        VideoGalleryLink(url: "/video/warriors-in-training/", image: "mq20260105.jpg", caption: "Stick around to the end for puppy wind sprints.")
+        H2("Someone help me out with this one...")
+        VideoGalleryLink(url: "/video/i-have-no-idea-what-to-do-with-this-striping/", image: "mq20260209.jpg", caption: "")
+        Text("The city painted some new street stripes on S. Harrlels Ferry Rd, which is kind of a major street.  I honestly have no idea when I'm supposed to go where as I approach Sherwood Forest Blvd.  Watch the vid and let me know.")
         
         
     }
@@ -51,7 +52,7 @@ struct HomeMainMessage: Component {
         Div {
 //            mdContent
 //            pgComponentGroup
-//            vgComponentGroup
+            vgComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }
