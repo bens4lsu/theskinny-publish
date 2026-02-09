@@ -56,8 +56,8 @@ body {
     grid-template-areas:
     "main"
     "blog"
-    "trip"
     "dailyphoto"
+    "shelly"
     "after";
 }
 
