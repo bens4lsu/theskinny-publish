@@ -367,7 +367,7 @@ Benny Elsewhere
         return yyyymmdd;
     }
     function dateToShow() {
-        let x = ["20260106","20260123","20260124","20260125","20260126"].filter((dt) => {
+        let x = ["20260106","20260123","20260124","20260125","20260126","20260209","20260210","20260211","20260212","20260213","20260214","20260215","20260216","20260217"].filter((dt) => {
             return dt <= dpPath();
         });
         return x.sort().pop();
@@ -383,7 +383,7 @@ Benny Elsewhere
     $(document).ready(function(){
 
         var today = dpPath();
-        var latest = "20260126";
+        var latest = "20260217";
 
         var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
         $('#homeDPImage').attr('src', dailyphotoImg);
