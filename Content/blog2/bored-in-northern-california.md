@@ -11,7 +11,7 @@ The only real difference that I see in the trial coverage is the abudance of tho
 
 Here's another question:  are criminal court rooms bathed in wierd light that make it the right choice for the artists to use all of those pastel colors?  Wasn't there anything in the trial that appeared in dark blue?
 
-One thing that I had kind of secretly hoped before coming out is that I would feel a real, real mild earthquake, just to see how it might feel.  Don't get me wrong.  I just want one where the pictures on the wall shake a little.  Maybe it could knock a dring off of a table and onto the floor.  Nothing more than that.
+One thing that I had kind of secretly hoped before coming out is that I would feel a real, real mild earthquake, just to see how it might feel.  Don't get me wrong.  I just want one where the pictures on the wall shake a little.  Maybe it could knock a drink off of a table and onto the floor.  Nothing more than that.
 
 Sure enough, there was one a few hundred miles from here yesterday, and I understand that it had decent strength.  But it wasn't strong enough.  I felt nothing.
 
