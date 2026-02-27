@@ -388,6 +388,12 @@
         <loc>https://theskinnyonbenny.com/blog2</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <lastmod>2026-02-27</lastmod>
+    </url>
+    <url>
+        <loc>https://theskinnyonbenny.com/blog2/motorboat</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
@@ -8258,6 +8264,12 @@
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog2/archives/2417</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2026-02-26</lastmod>
+    </url>
+    <url>
+        <loc>https://theskinnyonbenny.com/blog2/archives/2418</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
         <lastmod>2026-02-26</lastmod>
@@ -25192,133 +25204,133 @@
         <loc>https://theskinnyonbenny.com/playlist/Bestof2008</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2009</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2010</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2011</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2012</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2013</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2014</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2015</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2016</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2017</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2018</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2019</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2020</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2021</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2022</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2023</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2024</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2025</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/Bestof2026</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/PlayedMostOften</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/RecentlyAdded</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/playlist/RecentlyPlayed</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-01-30</lastmod>
+        <lastmod>2026-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/video-albums</loc>
@@ -27010,409 +27022,409 @@
         <loc>https://theskinnyonbenny.com/blog/current</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2026-02-26</lastmod>
+        <lastmod>2026-02-27</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-1</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2025-10-28</lastmod>
+        <lastmod>2025-11-07</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-10</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-04-20</lastmod>
+        <lastmod>2017-05-01</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-11</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-09-20</lastmod>
+        <lastmod>2016-11-02</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-12</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2015-06-09</lastmod>
+        <lastmod>2015-10-29</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-13</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2014-11-20</lastmod>
+        <lastmod>2014-12-03</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-14</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2014-05-21</lastmod>
+        <lastmod>2014-05-30</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-15</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2013-12-30</lastmod>
+        <lastmod>2014-01-02</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-16</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2013-06-13</lastmod>
+        <lastmod>2013-07-17</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-17</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2013-02-26</lastmod>
+        <lastmod>2013-03-06</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-18</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2013-01-07</lastmod>
+        <lastmod>2013-01-11</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-19</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2012-09-25</lastmod>
+        <lastmod>2012-09-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-2</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2025-05-30</lastmod>
+        <lastmod>2025-06-05</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-20</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2012-05-10</lastmod>
+        <lastmod>2012-05-11</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-21</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2012-03-31</lastmod>
+        <lastmod>2012-04-02</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-22</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2012-02-08</lastmod>
+        <lastmod>2012-02-16</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-23</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2011-10-21</lastmod>
+        <lastmod>2011-10-27</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-24</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2011-06-16</lastmod>
+        <lastmod>2011-07-07</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-25</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2011-04-16</lastmod>
+        <lastmod>2011-04-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-26</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2011-01-11</lastmod>
+        <lastmod>2011-01-14</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-27</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2010-10-05</lastmod>
+        <lastmod>2010-10-14</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-28</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2010-05-27</lastmod>
+        <lastmod>2010-05-29</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-29</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2010-02-23</lastmod>
+        <lastmod>2010-03-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-3</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2025-02-18</lastmod>
+        <lastmod>2025-02-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-30</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2010-01-08</lastmod>
+        <lastmod>2010-01-12</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-31</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2009-10-29</lastmod>
+        <lastmod>2009-11-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-32</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2009-07-13</lastmod>
+        <lastmod>2009-07-16</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-33</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2009-04-27</lastmod>
+        <lastmod>2009-04-29</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-34</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2009-03-05</lastmod>
+        <lastmod>2009-03-17</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-35</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2009-01-07</lastmod>
+        <lastmod>2009-01-08</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-36</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2008-10-23</lastmod>
+        <lastmod>2008-11-04</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-37</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2008-08-10</lastmod>
+        <lastmod>2008-08-11</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-38</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2008-06-18</lastmod>
+        <lastmod>2008-06-20</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-39</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2008-04-03</lastmod>
+        <lastmod>2008-04-18</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-4</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2024-10-31</lastmod>
+        <lastmod>2024-11-15</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-40</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2008-02-05</lastmod>
+        <lastmod>2008-02-15</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-41</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-11-27</lastmod>
+        <lastmod>2007-12-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-42</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-09-11</lastmod>
+        <lastmod>2007-09-19</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-43</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-07-24</lastmod>
+        <lastmod>2007-07-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-44</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-06-04</lastmod>
+        <lastmod>2007-06-19</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-45</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-04-03</lastmod>
+        <lastmod>2007-04-09</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-46</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2007-02-02</lastmod>
+        <lastmod>2007-02-07</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-47</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-12-14</lastmod>
+        <lastmod>2006-12-17</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-48</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-10-20</lastmod>
+        <lastmod>2006-10-24</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-49</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-08-31</lastmod>
+        <lastmod>2006-09-12</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-5</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2024-03-24</lastmod>
+        <lastmod>2024-04-04</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-50</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-07-14</lastmod>
+        <lastmod>2006-07-19</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-51</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-05-25</lastmod>
+        <lastmod>2006-05-31</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-52</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-04-06</lastmod>
+        <lastmod>2006-04-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-53</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-02-16</lastmod>
+        <lastmod>2006-02-21</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-54</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2006-01-12</lastmod>
+        <lastmod>2006-01-18</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-55</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-12-02</lastmod>
+        <lastmod>2005-12-06</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-56</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-10-20</lastmod>
+        <lastmod>2005-10-26</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-57</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-09-20</lastmod>
+        <lastmod>2005-09-23</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-58</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-06-22</lastmod>
+        <lastmod>2005-07-01</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-59</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-05-06</lastmod>
+        <lastmod>2005-05-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-6</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-09-08</lastmod>
+        <lastmod>2023-09-13</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-60</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-03-09</lastmod>
+        <lastmod>2005-03-10</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-61</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2005-01-13</lastmod>
+        <lastmod>2005-01-14</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-62</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-12-06</lastmod>
+        <lastmod>2004-12-09</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-63</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-09-29</lastmod>
+        <lastmod>2004-10-05</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-64</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-07-28</lastmod>
+        <lastmod>2004-07-30</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-65</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-06-07</lastmod>
+        <lastmod>2004-06-14</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-66</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-04-16</lastmod>
+        <lastmod>2004-04-20</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-67</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2004-03-04</lastmod>
+        <lastmod>2004-03-09</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-7</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2023-05-26</lastmod>
+        <lastmod>2023-05-31</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-8</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2020-01-23</lastmod>
+        <lastmod>2020-02-04</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/blog/page-9</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2018-03-28</lastmod>
+        <lastmod>2018-04-12</lastmod>
     </url>
     <url>
         <loc>https://theskinnyonbenny.com/books</loc>
