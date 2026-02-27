@@ -1,7 +1,7 @@
 ---
 title: Topics, Topics Everywhere, but not Enough Interest to Post
 date: 2008-05-02 13:27
-description: A description of my post.
+description: As you see, I really didn't have anything to tell the world this week that merited more than a couple of sentences.  But I had a lot of false starts -- posts that I started, but that didn't really turn into anything.  It starts with a couple of sports topics, but if that doesn't interest you, hit the page down key once or twice for more.
 tags: sports,food,current-events
 id: 366
 ogImg: starbucks.jpg
@@ -39,8 +39,6 @@ I don't think it would hurt Exxon investors a bit if they would take a billion o
 
 <a href="http://www.nytimes.com/2008/05/01/us/01license.html?scp=1&sq=arizona+plates&st=nyt" target="_blank">Arizona ran out of license plate numbers.</a>  I don't know why, but I thought that was interesting.
 
-
-<center><img src="/img/greenline.gif" /></center>
 
 <center><img src="/img/starbucks.jpg" /></center>
 

@@ -1,7 +1,7 @@
 ---
 title: Hot
 date: 2008-08-02 16:33
-description: A description of my post.
+description: It would be easy for me to write a blog that would be enjoyed by a particular demographic of loser:  say, a divorcee, whose kids are teenagers that don't like her very much, and whose ideal (and typical) Friday night includes taking a long bath, polishing off a pint of ice cream while watching Beaches, and crying herself gently to sleep.
 tags: my-stories
 id: 384
 ---
@@ -19,6 +19,7 @@ This morning, as I got him out of bed, he decided not to bring the toy down with
 I can't go on, lest I be overwhelmed by the urge to rip out my own fingernails, but it's amazing how many blogs read like this.
 
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
+
 The heat during the early part of this week was unreal.  You're smart enough to go look up the numbers for yourself, but I can tell you that just stepping out the door on Monday afternoon felt like getting into a black car parked in the sun on any other summer day.  We haven't been getting our <a href="http://theskinnyonbenny.com/blog2/archives/127">normal summer afternoon downpours</a>, and I guess they make a difference.
 
 I walked the dogs at 8:30 Monday night, and my ankles could still feel the heat radiating from the street.  How hot was that for the dogs, whose bare feet walk the road, and whose entire undersides are just a foot off of the heat source?  Still, Lily seemed to enjoy her walk, as always, and Blossom seemed to drag behind, as always.
@@ -33,6 +34,6 @@ I was completely drenched with sweat at the end.  Even my hat was without a sing
 
 Afterwards, one of the pros who works at that park invited me to come hit with a bunch of guys ranked much more highly than me a couple times a week.  I mention this for two reasons.  First, I am clearly a bad-ass now.  
 
-Second, <a href="http://theskinnyonbenny.com/dailyphoto/2008/page.php?year=2008&month=06&day=14">Stacie</a> had a raging hard-on for the guy a couple of years ago.  Or whatever the female equivalent of a raging hard-on is.
+Second, <a href="/dailyphoto/2008/20080614/">Stacie</a> had a raging hard-on for the guy a couple of years ago.  Or whatever the female equivalent of a raging hard-on is.
 
 Stace, let me know if I can pass him a note from you.

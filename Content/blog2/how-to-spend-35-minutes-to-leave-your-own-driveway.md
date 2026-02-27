@@ -1,7 +1,7 @@
 ---
 title: How to Spend 35 Minutes to Leave Your Own Driveway
 date: 2008-06-18 13:17
-description: A description of my post.
+description: We were away from home all of this past weekend, and when we returned, the refrigerator and freezer were hotter than a June bride in a featherbed (phrase courtesy of this collection of old geezer expressions).  So I spent a couple of hours Sunday evening throwing out spoiled food, eyeballing the "sort of cool" items for mold, and wiping up the red juice that flows out of warm ground beef, followed by hauling the refrigerator to the curb.
 tags: my-stories
 id: 373
 ---
@@ -17,9 +17,9 @@ I've been wondering why he felt the need to highlight his age and race, and why 
 
 Although it amuses me to think of a more unlikely scenario:
 
-<div style="padding-left:4em">"Honey, get the shotgun!  There are a bunch of frat boys stealing our broken refrigerator!"
+"Honey, get the shotgun!  There are a bunch of frat boys stealing our broken refrigerator!"
 
-"Wait....  Never mind.  It's just an old black man.  No harm done."</div>
+"Wait....  Never mind.  It's just an old black man.  No harm done."
 
 Anyway, I told him he was welcome to it, and bent over to help him lift his prize into the truck.  The handle from the rusted barbecue put up a formidable block, and then, the fridge hit the wheel hump.  We then pivoted the refrigerator upright, and the old man found a way to fit a huge metal pipe in the bed too.
 

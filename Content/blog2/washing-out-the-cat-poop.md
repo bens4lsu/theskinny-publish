@@ -1,7 +1,7 @@
 ---
 title: Washing Out the Cat Poop
 date: 2008-07-23 18:27
-description: A description of my post.
+description:When you take your dogs to dog training, you spend a lot of time working with them on sit, stay, etc., and then you let the dogs rest and get a lecture about things you can do to keep your dog from being a bad dog.
 tags: animals
 id: 382
 ---

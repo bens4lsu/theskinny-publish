@@ -1,15 +1,14 @@
 ---
 title: Olympic Preview
 date: 2008-07-15 12:56
-description: A description of my post.
+description: The middle of summer is a time that most real sports fans dread.  Your choices are between golf (good for a nap, if nothing else), NASCAR (as boring as golf, but much noisier), and baseball (whose games make the national spelling bee look like a meaningful competition).
 tags: sports
 id: 380
+ogImg: olympictramp.jpg
 ---
 The middle of summer is a time that most real sports fans dread.  Your choices are between golf (good for a nap, if nothing else), NASCAR (as boring as golf, but much noisier), and baseball (whose games make the national spelling bee look like a meaningful competition).
 
 In honor of this season of boring, I've been reading stories on <a href="http://www.nbcolympics.com" target="_blank">www.nbcolympics.com</a>.
-
-
 
 Never in our history has man been pelted with non-meaningful sport as we are about to be.  NBC owns so much of your cable spectrum, and each and every channel must be broadcasting events.  Even Oxygen is shelving women's programming for events.
 
@@ -17,7 +16,7 @@ NBC is shelling out so much money for the games, that they have the Olympic Comm
 
 As always, there are some events that need to be shelved.  Everyone knows about synchronized swimming.  Thythmic gymnastics is right there too -- the performers dance around with ribbons and props.  It's like a judged cirque de soliel, although I bet it's not as imaginative.
 
-<table cellpadding="2" align="right"><tr><td width="250" ><img src="/img/olympictramp.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Olympic-caliber trampolining.</td></tr></table>
+<a class="lightview alignright" href="/img/olympictramp.jpg" data-lightview-caption="Olympic-caliber trampolining." data-lightview-group="group1" ><img src="/img/olympictramp.jpg" alt="/img/olympictramp.jpg"><br><span class="caption">Olympic-caliber trampolining.</span></a>
 
 I didn't know until last week that "Trampoline," is now an honest to goodness Olympic event.  That's obviously a candidate for being dumped.  I'm going to try to find it on one of the broadcasts to see what it's like.  If it's a third-grader bouncing up and down, throwing in the occasional flip, I'll call for its immediate dismissal.  But you have to see it to know.  Face it, you thought Table Tennis was a silly game too, until you went to see *Forest Gump* and saw how well it could be played.
 
@@ -25,7 +24,7 @@ Since I'm killing sports, I'm also willing to add them back in.  I'll pass on ca
 
 After that, I would concentrate on events that combine different sports.  First, I would add an adventure race.  Get from point A to point B as fast as you can, however you can.  But between points A and B, there would be rivers, lakes, volcanos, tar pits, or whatever might make it interesting.
 
-<table cellpadding="2" align="right"><tr><td width="250" ><img src="/img/olympicrhythm.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Rhythmic Gymnastics has got to go.  Keep it as a comp show in Vegas for the families of the high rollers.</td></tr></table>
+<a class="lightview alignright" href="/img/olympicrhythm.jpg" data-lightview-caption="Rhythmic Gymnastics has got to go.  Keep it as a comp show in Vegas for the families of the high rollers." data-lightview-group="group1" ><img src="/img/olympicrhythm.jpg" alt="/img/olympicrhythm.jpg"><br><span class="caption">Rhythmic Gymnastics has got to go.  Keep it as a comp show in Vegas for the families of the high rollers.</span></a>
 
 Then, I would have a combined canoe, rowing, and sailing event, called the boatathalon.  Or maybe, we can throw in a swim and some diving, and call it the aquathalon.
 
@@ -35,7 +34,7 @@ I'm thinking this goes on for six to eight days.  Or maybe we just go ahead and 
 
 Lest you think this is just nonsense, read from Wikipedia about the modern pentathalon -- an underrated Olympic event that has been part of the games since its modern inception.
 
-<table cellpadding="2" align="right"><tr><td width="250" ><img src="/img/olympicsail.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Leg 2 of the future boatathalon.</td></tr></table>
+<a class="lightview alignright" href="/img/olympicsail.jpg" data-lightview-caption="Leg 2 of the future boatathalon." data-lightview-group="group1" ><img src="/img/olympicsail.jpg" alt="/img/olympicsail.jpg"><br><span class="caption">Leg 2 of the future boatathalon.</span></a>
 
 <blockquote>The modern pentathlon was invented by the Baron Pierre de Coubertin, the founder of the modern Olympic Games. As the events of the ancient pentathlon were modeled after the skills of the ideal soldier of that time, Coubertin created the contest to simulate the experience of a 19th century cavalry soldier behind enemy lines: he must ride an unfamiliar horse, fight with pistol and sword, swim, and run.</blockquote>
 

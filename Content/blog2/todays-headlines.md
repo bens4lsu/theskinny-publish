@@ -1,7 +1,7 @@
 ---
 title: Today's Headlines
 date: 2008-06-04 12:20
-description: A description of my post.
+description: Of course, the headlines in the news reader today show a lot of repetition.  But it's interesting the different angles that differnt news sources use in their headlines.
 tags: current-events
 id: 371
 ---

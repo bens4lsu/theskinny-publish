@@ -17,39 +17,38 @@ I probably shouldn't be the first one clamoring for a return of the vengeful, li
 
 Our friend Ann kept Vanya while we were there.  She's a very nice lady who I used to work with, and who likes the little ones, especially since her own grandkids are at least a handful of years past toddler.  Perhaps Ann was still in the back of my mind while I was messenging Jeremy the next day.  After a minute of work-related talk, I sprung this on him:
 
-<div style="padding-left: 4em; padding-right: 8em;">
-ben says:
-<div style="padding-left: 4em;">I'll give you a whole 25 cents if you'll IM Ann nothing but the word "cocksucker" and then not respond when she tries to figure out why you did that.</div>
 
-JC says:
-<div style="padding-left: 4em;">HAHAHAHAAAA I don't even have her on my IM list</div>
+ben:
+    I'll give you a whole 25 cents if you'll IM Ann nothing but the word "cocksucker" and then not respond when she tries to figure out why you did that.
 
-JC says:
-<div style="padding-left: 4em;">I'll do it to amber</div>
+JC:
+    HAHAHAHAAAA I don't even have her on my IM list
 
-ben says:
-<div style="padding-left: 4em;">k</div>
+JC:
+    I'll do it to amber
 
-ben says:
-<div style="padding-left: 4em;">i'm laughing already</div>
+ben:
+    k
 
-JC says:
-<div style="padding-left: 4em;">she said ok</div>
+ben:
+    i'm laughing already
 
-ben says:
-<div style="padding-left: 4em;">hahahahaha</div>
+JC:
+    she said ok
 
-JC says:
-<div style="padding-left: 4em;">I'll do a new one word to her everyday</div>
+ben:
+    hahahahaha
 
-ben says:
-<div style="padding-left: 4em;">oh yeah, that will be good.</div>
+JC:
+    I'll do a new one word to her everyday
 
-JC says:
-<div style="padding-left: 4em;">she'll want my johnson for sure</div>
+ben:
+    oh yeah, that will be good.
 
-ben says:
-<div style="padding-left: 4em;">no doubt</div>
-</div>
+JC:
+    she'll want my johnson for sure
+
+ben:
+    no doubt
 
 <h3>2025 update:  holy shit, this is horrifying</h3>
