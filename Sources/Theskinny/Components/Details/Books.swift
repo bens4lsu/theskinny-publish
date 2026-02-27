@@ -21,7 +21,7 @@ struct Book: Component {
         guard let rating = grbook.myRating else {
             return ""
         }
-        return .init(repeating: "⭐️", count: Int(rating))
+        return String(repeating: "⭐️", count: Int(rating))
     }
     
     var audiobookIndicator: Component {

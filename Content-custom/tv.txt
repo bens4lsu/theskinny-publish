@@ -90,4 +90,6 @@ Shogun	Scripted Drama	Dramatization of the Clavell novel. 	2025-08-19	4.0
 You, Season 1	Scripted Drama	Creepy stalker guy show, but from his perspective. 	2025-08-25	3.0
 Alien Earth, Season 1	Scripted Horror/Sci Fi	Mostly about these kids whose consciousness were but into robots, but also a good deal of space monsters. 	2025-10-02	3.5
 You, Season 2	Scripted Drama	Creepy stalker moves to LA and victimizes more people in his orbit. 	2025-10-06	3.0
-				
+Breeders, Season 3	Scripted Comedy/Drama	More of the exasperated couple in the crazy house. 	2025-11-28	3.0
+Only Murderers In the Building, Season 5	Comedy/Mystery	Investigation of the dead doorman	2026-02-15	3.0
+A Knight of the Seven Kingdoms, Season 1	Scripted Drama	Dunk is a really tall knight with no real prospects.  He meets Egg, a kid who wants to be his squire.	2026-02-23	3.5

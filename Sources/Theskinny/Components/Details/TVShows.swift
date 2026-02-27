@@ -15,7 +15,11 @@ struct TVShow: Component {
     
     var displayRating: String {
         let repeatCount = Int(show.rating)
-        return String(repeating: "⭐️", count: repeatCount)
+        var ratingString = String(repeating: "⭐️", count: repeatCount)
+        if show.rating > Float(Int(show.rating)) {
+            ratingString += "½"
+        }
+        return ratingString
     }
     
     var body: Component {
