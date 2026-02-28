@@ -1,13 +1,14 @@
 ---
 title: Debris
 date: 2008-10-23 20:59
-description: A description of my post.
+description: A couple days after Baton Rouge announced that the first pass of Hurricane Gustav debris pick up had been completed, I took this picture.  We've been a pretty patient town.  It's been six weeks, and I don't hear much bitching about all of the limbs that still line our street.
 tags: current-events, hurricanes
 id: 399
+ogImg: debris.jpg
 ---
 A couple days after Baton Rouge announced that the first pass of Hurricane Gustav debris pick up had been completed, I took this picture:
 
-<center><img src="/img/debris.jpg"></center>
+<a class="lightview centered" href="/img/debris.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/debris.jpg" alt="/img/debris.jpg"><br><span class="caption"></span></a>
 
 We've been a pretty patient town.  It's been six weeks, and I don't hear much bitching about all of the limbs that still line our street.
 
@@ -16,29 +17,29 @@ But here's the thing.  I took this picture at the corner of Third and Main.  Eve
 Our office is in a neighborhood where they haven't really made a pass at all.  A couple residents called and complained, and their piles are gone, but there is still a ton of debris over there.  This prompted the following post on the neighborhood's message board.
 
 <blockquote>
-From: Beauregard@googlegroups.com [mailto:Beauregard@googlegroups.com]
-On Behalf Of Sara 
-Sent: Wednesday, October 15, 2008 6:21 PM
-To: Beauregard@googlegroups.com
-Subject: Re: Debris removal
-
-Top Ten Reasons why the mountain of debris in front of your home or
-office in Beauregard Town has not been picked up...according to an
-operator at Ceres:
-
-10.Afraid of damaging historic wayfinding signage
-9. Everybody seems to be home in the middle of the day
-8. Scared of wild dogs
-7. Most piles have become home to a litter of kittens
-6. Some piles of debris are missing kitchen sink
-5. Thought Beauregard Town had seceded to France
-4. All debris piles have a Crepe Myrtle growing in the middle
-3. Too many liberal democrats
-2. Streets too narrow and only go one way
-And the Number One reason your debris has not been picked up...
-Because they said on the news we were done!
-
-For more reasons, call 1-866-708-2609 :) 
+From: Beauregard@googlegroups.com [mailto:Beauregard@googlegroups.com]<br>
+On Behalf Of Sara <br>
+Sent: Wednesday, October 15, 2008 6:21 PM<br>
+To: Beauregard@googlegroups.com<br>
+Subject: Re: Debris removal<br>
+<br>
+Top Ten Reasons why the mountain of debris in front of your home or <br>
+office in Beauregard Town has not been picked up...according to an <br>
+operator at Ceres:<br>
+<br>
+10.Afraid of damaging historic wayfinding signage<br>
+9. Everybody seems to be home in the middle of the day<br>
+8. Scared of wild dogs<br>
+7. Most piles have become home to a litter of kittens<br>
+6. Some piles of debris are missing kitchen sink<br>
+5. Thought Beauregard Town had seceded to France<br>
+4. All debris piles have a Crepe Myrtle growing in the middle<br>
+3. Too many liberal democrats<br>
+2. Streets too narrow and only go one way<br>
+And the Number One reason your debris has not been picked up...<br>
+Because they said on the news we were done!<br>
+<br>
+For more reasons, call 1-866-708-2609 :) <br>
 </blockquote>
 
 If you feel like it, call that number and ask them to go ahead and make a pass down France St.

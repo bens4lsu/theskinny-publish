@@ -1,7 +1,7 @@
 ---
 title: Summer Playlist
 date: 2008-07-03 14:02
-description: A description of my post.
+description: I almost never post an entry about the music I'm listening to, even though I love music and listen to it just about all day long every single day.  The problem I have with people's blogs that go to music is that they end up coming across like, "Look how cool I am to be into this music that you've never heard of yet."  Who would want to read that?
 tags: pop-culture
 id: 379
 ---
@@ -13,11 +13,13 @@ One night while I was walking the dogs, I decided that I was going to add a musi
 
 But then I started looking into copyrights and distribution laws, and it's a mess.  Even if I was going to limit what I play to a 30-second snippit, and even if I was going to be talking over 10 seconds of that, it was completely disallowed.  Buying rights wasn't feasible, and fines for just doing it anyway are more than I'm willing to gamble.
 
-The last couple of months, I've been playing with this primitive yet useful site, <a href="http://muxtape.com" target="_blank">muxtape.com</a>.  I've found a ton of music that I like a lot, but more importantly, it gives me a spot to share what I'm listening to with anyone who's interested.  For several weeks, I've been thinking, "Surely it will be shut down any minute now," yet it persists.
+The last couple of months, I've been playing with this primitive yet useful site, muxtape.com.  I've found a ton of music that I like a lot, but more importantly, it gives me a spot to share what I'm listening to with anyone who's interested.  For several weeks, I've been thinking, "Surely it will be shut down any minute now," yet it persists.
 
 My taste in music is all over the map, but there are some seasonal trends.  In the rainy cold winter, I trend toward thinking man's, folksy college rock.  In the spring, it shifts to punk and hard rock.  Summer shifts me in more of a pop direction -- although I'm not switching to the top 40 radio stations or anything like that, and when football season starts, I'm back to sort of an alt-rock baseline.
 
-My go-tos this summer are currently <a href="http://bens4lsu.muxtape.com" target="_blank">on muxtape</a> for your pleasure.  The only one that's in heavy rotation that isn't posted is "Let's Dance to Joy Division" by The Wombats.  This was the free tune of the week on Itunes a few weeks back, and I can honestly say that it's the only one of the free downloads that I've ever seen that was worth a shit at all.  But because my free copy still came tied up with Itunes DRM, I can't post it for the world to hear.
+My go-tos this summer are currently on muxtape for your pleasure.  The only one that's in heavy rotation that isn't posted is "Let's Dance to Joy Division" by The Wombats.  This was the free tune of the week on Itunes a few weeks back, and I can honestly say that it's the only one of the free downloads that I've ever seen that was worth a shit at all.  But because my free copy still came tied up with Itunes DRM, I can't post it for the world to hear.
+
+<h3>2026 update:  muxtape.com is no more, but <a href="https://web.archive.org/web/20080709074017/http://muxtape.com/">it is archvied</a>.  My personal playlist, however, is not.</h3>
 
 **The Rapture -- No Sex for Ben**  How funny is that song title?  I heard this one afternoon on satellite, and looked it up.  It was from the GTA4 soundtrack.  Video game soundtrack leads me straight to my nephew, who is a video game nerd, who of course, already had this soundtrack and was familiar with the song.  Viola, it's in my playlist.
 

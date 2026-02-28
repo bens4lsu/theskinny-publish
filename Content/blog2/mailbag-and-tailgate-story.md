@@ -1,63 +1,61 @@
 ---
 title: Mailbag and Tailgate Story
 date: 2008-10-21 22:59
-description: A description of my post.
+description: A couple of keepers from the mailbag.  First, from a political email thread in September.  But read to the end, it's a good one there.
 tags: my-stories
 id: 398
 ---
 A couple of keepers from the mailbag.  First, from a political email thread in September.
 
-<blockquote>Sent: Thursday, September 11, 2008 9:01:50 A.M. 
-To: rhodes22-list@rhodes22.org
-Subject: [Rhodes22-list] Brad, now my turn:
-
-
-Brad,
-
-now my turn:  tell me how she  differs from George.
-
-something? - anything?
-
+<blockquote>Sent: Thursday, September 11, 2008 9:01:50 A.M. <br>
+To: rhodes22-list@rhodes22.org <br>
+Subject: [Rhodes22-list] Brad, now my turn: <br>
+ <br>
+ <br>
+Brad, <br>
+ <br>
+now my turn:  tell me how she  differs from George. <br>
+ <br>
+something? - anything? <br>
+ <br>
 ss</blockquote>
 
-&nbsp;
 
-<blockquote>Sent: Thursday, September 11, 2008 9:18 AM
-To: rhodes22-list@rhodes22.org
-Subject: Re: [Rhodes22-list] Brad, now my turn:
-
-Stan,
-In case your eyeglasses are a little foggy this morning, she has cute perky  
-breasts.
- 
+<blockquote>Sent: Thursday, September 11, 2008 9:18 AM <br>
+To: rhodes22-list@rhodes22.org <br>
+Subject: Re: [Rhodes22-list] Brad, now my turn: <br>
+ <br>
+Stan, <br>
+In case your eyeglasses are a little foggy this morning, she has cute perky   <br>
+breasts. <br>
+  <br>
 Rummy</blockquote>
 
 Shelly has been sending me the occasional link from <a href="http://overheardinnewyork.com" target="_blank">overheardinnewyork.com</a>.  This one came with a comment.
 
-
-<blockquote>This reminded me of Stacie and the "no meat for the brown dog incident"
-
-From: "Williams, Shelly" 
-Date: Tue, 2 Sep 2008 17:23:43 -0400
-To: 
-Subject: Overheard in New York
-
-California's Almost Far Enough 
-
-Hippie woman: Ma'am, what did you just feed my dog?
-Elderly woman: A treat.
-Hippie woman: What was it? Was it meat?
-Elderly woman: Well, not really, it was a sausage.
-Hippie woman: What is wrong with you?! My dog is a vegetarian! What if he had a food allergy?!
+<blockquote>This reminded me of Stacie and the "no meat for the brown dog incident" <br>
+ <br>
+From: "Williams, Shelly"  <br>
+Date: Tue, 2 Sep 2008 17:23:43 -0400 <br>
+To:  <br>
+Subject: Overheard in New York <br>
+ <br>
+California's Almost Far Enough  <br>
+ <br>
+Hippie woman: Ma'am, what did you just feed my dog? <br>
+Elderly woman: A treat. <br>
+Hippie woman: What was it? Was it meat? <br>
+Elderly woman: Well, not really, it was a sausage. <br>
+Hippie woman: What is wrong with you?! My dog is a vegetarian! What if he had a food allergy?! <br>
 Elderly woman: Right. Go away.
-
+ <br>
 --Thompson Square Park Dog Run
 </blockquote>
 
 I had my own overheardinnewyork moment when we were there a couple of weekends ago.
 
-<blockquote>Hipster dude on cell phone:  First you said 30 days.  Then you said two months.  I would fuck you right now!
-
+<blockquote>Hipster dude on cell phone:  First you said 30 days.  Then you said two months.  I would fuck you right now! <br>
+ <br>
 -- Park Avenue South</blockquote>
 
 It's not really that funny on its own, but it would definitely make the site if I wasn't too lazy to send it in.

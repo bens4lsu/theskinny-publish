@@ -1,15 +1,15 @@
 ---
 title: Gimme Some Sugar
 date: 2008-11-04 14:48
-description: A description of my post.
-tags: my-stories
+description: One day early last week, I was listening to a radio show out of Washington DC on an internet stream.  Somehow, it came up that one of the hosts hasn't french kissed his wife in a decade.  A younger, unmarried producer in the studio found that hard to believe, and they argued a bit about whether that was typical.
+tags: my-stories, favorites
 id: 401
 ---
 One day early last week, I was listening to a radio show out of Washington DC on an internet stream.  Somehow, it came up that one of the hosts hasn't french kissed his wife in a decade.  A younger, unmarried producer in the studio found that hard to believe, and they argued a bit about whether that was typical.
 
 Then, they took a poll by text message.  Since I was sitting at the computer anyway, I sent a text in.
 
-<embed NAME="nsplay" PLUGINSPAGE="http://www.microsoft.com/windows/mediaplayer/download/default.asp" SRC="/sound/PollBenText.mp3" TYPE="video/x-ms-wmf-plugin"  AUTOSTART="0" SHOWCONTROLS="1"  align="center" /><noembed>You&#8217;ll have to find this song somewhere else.  Your browswer won&#8217;t allow embedded media.  Sorry.</noembed>
+<audio controls><source src="/sound/PollBenText.mp3" type="audio/mpeg"></audio>
 
 It's hard to understand their read.  It says, "I've been married 12 years.  My Basset Hound gets her tongue in my mouth more often that my wife does."
 
