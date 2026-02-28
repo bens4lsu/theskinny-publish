@@ -1,7 +1,7 @@
 ---
 title: Post-Gustovian Flobots
 date: 2008-09-11 12:32
-description: A description of my post.
+description: Here's what I'm listening to right now.  I like the song, and the lyrics describe my mood right now perfectly.  Well, maybe the lyrics have a little more anger in them than I do, but I feel that powerful.
 tags: my-stories, hurricanes
 id: 393
 ---
@@ -13,7 +13,7 @@ I can split the atoms of a molecule.
 
 I'm feeling so good, because I just went to check on our house, and there's a crew from Illinois working to reconnect our electricity.
 
-If you're reading this from outside of Louisiana, you might just think that Hurricane Gustov rolled up to our coast, and then fizzled into nothing.  But here we are, ten days later, and the conversation started in Baton Rouge is still, â€œSo, do you guys have power yet?â€�   We've barely talked Tigers or Saints.  Instead, we discuss curfews, road closures, near-riots in food stamp lines.
+If you're reading this from outside of Louisiana, you might just think that Hurricane Gustov rolled up to our coast, and then fizzled into nothing.  But here we are, ten days later, and the conversation started in Baton Rouge is still, "So, do you guys have power yet?""   We've barely talked Tigers or Saints.  Instead, we discuss curfews, road closures, near-riots in food stamp lines.
 
 Good times.
 

@@ -1,7 +1,7 @@
 ---
 title: DNC Stats
 date: 2008-08-29 00:04
-description: A description of my post.
+description: I watched the Democratic National Convention this week with an eye toward statistics.  Here are a few tidbits for you.
 tags: current-events
 id: 390
 ---

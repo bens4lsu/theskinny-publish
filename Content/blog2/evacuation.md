@@ -1,7 +1,7 @@
 ---
 title: Evacuation
 date: 2008-09-03 07:47
-description: A description of my post.
+description: I don't know if you have talked to anyone in Baton Rouge, so I'll give you a quick update on how it looks:  pretty bad.
 tags: my-stories
 id: 391
 ---
@@ -35,6 +35,5 @@ We walked on the hard wet sand for a long time before a wave came up and got his
 
 From then on, when a wave would come up, he would run uphill laughing to the dry sand so the water wouldn't get him.  
 
-With all that's going on, I've taken no pictures of damage or the vacation, but I'll pick up on my photography today.  I did post <a href="onclick="window.open('/pg3.php?spgmGal=046%20-%20Puppies%20and%20Play%20at%20Farm','046PuppiesandPlayatFarm','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');">this set of photos</a> from a couple of weeks ago earlier in the week, but I haven't let you know that it's out there yet.
+With all that's going on, I've taken no pictures of damage or the vacation, but I'll pick up on my photography today.  I did post [this set of photos](/gal/046%20-%20Puppies%20and%20Play%20at%20Farm/) from a couple of weeks ago earlier in the week, but I haven't let you know that it's out there yet.
 
-Ben

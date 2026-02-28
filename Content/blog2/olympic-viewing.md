@@ -1,7 +1,7 @@
 ---
 title: Olympic Viewing
 date: 2008-08-21 22:12
-description: A description of my post.
+description: I heard that Michael Phelps has something like 40 or 50 million dollars worth of endorsements lined up for him when he returns home.  That's an example of marketing dollars badly spent, and I'll tell you why.
 tags: sports
 id: 388
 ---
@@ -25,8 +25,10 @@ Anyway, I've been up until at least 11:00 or 12:00 every night, and sometimes ev
 
 I have more to say on the college football front, but I think I"m going to log off so that I can watch the men's beach volleyball final with my full attention.  But here are a couple of links that you might enjoy, particularly if you share some of my rooting interests in the King of Sports.
 
-<a href="http://msn.foxsports.com/cfb/story/8450384/Report:-USC-dealing-with-jock-itch-outbreak" target="_blank">Jock itch outbreak at USC</a>
+<a href="https://www.latimes.com/archives/la-xpm-2008-aug-14-sp-usc14-story.html" target="_blank">Jock itch outbreak at USC</a>
 
-<a href="http://collegefootball.rivals.com/content.asp?CID=837024" target="_blank">Would a win over Florida at their field be bittersweet if all of their team was injured?</a>  Not at all.  I'd like to see Tebow bump his head and slip into an unexplainable coma this weekend to top it all off.
+<h3>2026 update:  the second link is broken, but it somehow went along with this next comment.</h3>
+
+Would a win over Florida at their field be bittersweet if all of their team was injured?  Not at all.  I'd like to see Tebow bump his head and slip into an unexplainable coma this weekend to top it all off.
 
 Friday morning update:  I fell asleep after one set of the volleyball.  Anyone know who won?

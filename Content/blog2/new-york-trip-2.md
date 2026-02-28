@@ -1,13 +1,13 @@
 ---
 title: New York Trip
 date: 2008-10-09 14:38
-description: A description of my post.
+description: I don't even know how long it's been since I typed up one of these.  I have a lot of ground to cover, and a lot of ground I won't get to, as I'm in the middle of an ultra-busy two weeks.  After next week, I'll get back to one or two blogs a week, a regular photo of the day, and a link of the week update every week.  But for this week and next, you'll just have to settle for what I can puke out, a minute here and a minute there.
 tags: my-stories
 id: 397
 ---
 I don't even know how long it's been since I typed up one of these.  I have a lot of ground to cover, and a lot of ground I won't get to, as I'm in the middle of an ultra-busy two weeks.  After next week, I'll get back to one or two blogs a week, a regular photo of the day, and a link of the week update every week.  But for this week and next, you'll just have to settle for what I can puke out, a minute here and a minute there.
 
-This past weekend, we went on a little excursion to New York.  We ate pretty good, drank in some cool bars, walked up and down the Avenues people watching and shopping.  Monday evening, we met several other people at <a href="http://www.flatironlounge.com" target="_blank">Flatiron Lounge</a>.
+This past weekend, we went on a little excursion to New York.  We ate pretty good, drank in some cool bars, walked up and down the Avenues people watching and shopping.  Monday evening, we met several other people at Flatiron Lounge.
 
 Flatiron is the bar of a famous bartender.  Perhaps you didn't know that there are famous bartenders, but Mrs. theskinnyonbenny can find another extreme coctail-phile and drop names back and forth like you and I might be able to do with N.F.L. quarterbacks.  It's an odd celebrity group to know, but on the upside, I go to big cities, take a cab across town, and pour exotic drinks in my mouth that taste like the gods' elixers and pack a most pleasant punch.
 
@@ -37,4 +37,6 @@ In looking for other good reasons to make fun of me, I had one of the most boneh
 
 It bought me no points, but I was the only one to pick a correct winner last weekend.
 
-I took <a onclick="window.open('/pg3.php?spgmGal=048%20-%20New%20York%20October%202008','048NewYorkOctober2008','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');"  >a few pics</a> up there for you to check out too, and I had an <a href="overheardinnewyork.com" target="_blank">Overheard in New York</a> moment too, which I'll leave for another day.
+[I took a few pics](/gal/048%20-%20New%20York%20October%202008) up there for you to check out too, and I had an [Overheard in New York](overheardinnewyork.com) moment too, which I'll leave for another day.
+
+<h3> 2026 update:  The Flatiorn is no more, so it was a one-time experience.</h3>

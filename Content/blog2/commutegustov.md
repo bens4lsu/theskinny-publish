@@ -1,7 +1,7 @@
 ---
 title: Commute/Gustov
 date: 2008-08-28 12:37
-description: A description of my post.
+description: I was commuting from my house to downtown Baton Rouge Tuesday morning.  This is normally a five-minute proposition, but today, I can't catch anything but red lights.  You know the magical device that you've dreamed of?  The one where you can hit a button and the light changes to green for you?  Well, it was just like I had one of those in reverse.
 tags: the-office, hurricanes
 id: 389
 ---
