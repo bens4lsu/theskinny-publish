@@ -1,7 +1,7 @@
 ---
 title: Return of the Hiphopapotamous (and Ginger Balls)
 date: 2008-11-19 21:22
-description: A description of my post.
+description: Flight of the Conchords new season starts on January 18.  That gives you two whole months to subscribe to HBO if you don't have it already.
 tags: pop-culture
 id: 419
 ---

@@ -1,16 +1,16 @@
 ---
 title: This Probably Sounds Worse Than It Really Was
 date: 2009-01-12 18:19
-description: A description of my post.
-tags: my-youth
+description: Shelly sent me a funny post, and that reminds me of something similarly funny from when I was young.
+tags: my-youth, favorites
 id: 465
 ---
 Shelly sent me this one from <a href="http://overheardinnewyork.com" target="_blank">Overheard In New York</a>.
 
-<blockquote><b>Mother to daughter wearing a Pink Princess backpack:</b> Hold up, honey, mommy needs to get something out of your bag.
-
-(mother removes pack of cigarettes and lighter from bag)
-
+<blockquote><b>Mother to daughter wearing a Pink Princess backpack:</b> Hold up, honey, mommy needs to get something out of your bag.<br>
+<br>
+(mother removes pack of cigarettes and lighter from bag)<br>
+<br>
 <b>Husband to wife:</b> You have no shame.</blockquote>
 
 Boy oh boy, was that every mother in the 70s and 80s or just mine?  For some reason, I've told this story a couple of times recently.  Because it's relevant and because it's on my mind, I'll tell it again.

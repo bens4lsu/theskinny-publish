@@ -1,18 +1,18 @@
 ---
 title: Another Example of How Overheard in New York Mirrors Real Life
 date: 2009-01-17 10:58
-description: A description of my post.
-tags: uncategorized
+description: Here's another overheard that Shelly recently sent.  And that, of course, reminds me of a story from my childhood and one from the past week.  Hungry?
+tags: my-stories, my-youth, correspondence, favorites
 id: 470
 ---
 Here's another overheard that Shelly recently sent.  Her email included the note,  "- - THIS IS SO ME -- -and Megan - - and Shannon - - and Shelley -  but not Ben.  He would definitely endorse this behavior."
 
-<blockquote><a href="http://www.overheardinnewyork.com/archives/005563.html" target="_blank">The Five-Second Rule</a> Does Not Apply to Buses 
-
-**Disgusted mother to little girl who picked up a Swedish fish she dropped on the bus floor:** Don't eat that.
-**Little girl, dusting it off:** It's okay, I'll kiss it up to god.
-**Mother:** Don't you dare put that in your mouth. You have no idea what was on the floor.
-**Little girl, putting it in her mouth and chewing it:** It's okay! I kissed it up to god! (swallows it) What are you going to do about it?
+<blockquote><a href="http://www.overheardinnewyork.com/archives/005563.html" target="_blank">The Five-Second Rule</a> Does Not Apply to Buses <br>
+<br>
+**Disgusted mother to little girl who picked up a Swedish fish she dropped on the bus floor:** Don't eat that.<br>
+**Little girl, dusting it off:** It's okay, I'll kiss it up to god.<br>
+**Mother:** Don't you dare put that in your mouth. You have no idea what was on the floor.<br>
+**Little girl, putting it in her mouth and chewing it:** It's okay! I kissed it up to god! (swallows it) What are you going to do about it?<br>
 **Mother, angrily:** I'm not going to do anything. You're just going to die.
 </blockquote>
 
@@ -26,7 +26,7 @@ The day after I got this post from Shelly, I was in an all-day meeting.  At 11:3
 
 Their fish sandwiches are pretty good, a little like McDonald's fillet of fish.  The fish has a very light batter, and the inside has a soft, almost buttery texture.  The bun is pretty good too.  Sometimes they have chicken instead, which is okay, but not nearly as good as the fish.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/icfchair.jpg"></td></tr><tr><td class="caption" width="250">I don't know if you can really tell how nasty the arm of this chair is.  It should be salmon-colored, but it's gray, with a salmon tint.  I split most of my work time between a dirty office and a clean one, and this is my chair in the dirty office.</td></tr></table>
+<a class="lightview alignright" href="/img/icfchair.jpg" data-lightview-caption="I don't know if you can really tell how nasty the arm of this chair is.  It should be salmon-colored, but it's gray, with a salmon tint.  I split most of my work time between a dirty office and a clean one, and this is my chair in the dirty office." data-lightview-group="group1" ><img src="/img/icfchair.jpg" alt="/img/icfchair.jpg"><br><span class="caption">I don't know if you can really tell how nasty the arm of this chair is.  It should be salmon-colored, but it's gray, with a salmon tint.  I split most of my work time between a dirty office and a clean one, and this is my chair in the dirty office.</span></a>
 
 Well, they did have my fish on Tuesday.  I picked up my sandwich, got a side of black-eyed peas (their selections in the soul-food food group is decent, if you add some salt and season it up a little bit), loaded my sandwich with tomato, pickles, and condiments, and went back up to my desk.  I hadn't checked news or sports headlines yet, and I had 15 minutes to eat and scan them simultaneously.
 
@@ -35,7 +35,6 @@ I was eating, web surfing, and talking to the guy across the aisle when a signif
 But you see where this is going.
 
 I cut the conversation short, and finished my sandwich.  One more look to make sure no one was watching me, and the fish from the floor was in my mouth and down my gullet. Mmmmmmmmmmm.  Then I quickly wadded up the wrapper where the fish had been sitting, no one the wiser that the wrapper was now empty.
-
 
 This really isn't that gross.  This happened in a state building that is very new and at least seems very clean.  Yes, the fish was under the desk.  And come to think of it, I had a smidge of dog poop on my shoe one day this week.  I can't remember if it was the same day or not.  And it's true that the prisoners who clean the building only vacuum once every couple of weeks (I guess because they're here in the middle of the day, and the vacuum cleaner would be annoying if they ran it all of the time).  But still, it seems very clean.
 
