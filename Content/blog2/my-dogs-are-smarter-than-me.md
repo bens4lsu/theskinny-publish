@@ -35,6 +35,6 @@ Last weekend, I think I found a trump card.  I crawled under the house yet again
 
 This method has worked for a full week, so maybe I've finally won.
 
-The complete (but small) collection of photos of their damage is <a href="https://theskinnyonbenny.com/gal/023%20-%20Dog%20Escapes/"  target="_blank">here</a>.
+The complete (but small) collection of photos of their damage is <a href="https://theskinnyonbenny.com/gal/023%20-%20Dog%20Escapes/" target="_blank">here</a>.
 
 

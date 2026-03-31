@@ -2,7 +2,7 @@
 title: Peeping Tom
 date: 2006-04-25 04:39
 description: It was recently brought to my attention that I have a reputation among the neighbors as a peeping Tom, and I know exactly how that reputation originated.  Two summers ago, I was doing the finish work on the Regal Beagle, the grill/bar area in our back yard.  It was August, and scorching, searing hot outside.
-tags: my-stories
+tags: my-stories, favorites
 id: 207
 ---
 It was recently brought to my attention that I have a reputation among the neighbors as a peeping Tom, and I know exactly how that reputation originated.

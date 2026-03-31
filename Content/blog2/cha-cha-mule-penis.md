@@ -11,7 +11,7 @@ Now when you read this exchange, you have to picture a couple minutes of delay b
 
 <a class="lightview centered" href="/img/textmessages/t1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/textmessages/t1.jpg" alt="/img/textmessages/t1.jpg"><br><span class="caption"></span></a>
 
-Well yeah, but the othe ones would be mad that they weren't listed.  I wonder if it somehow knows where I am, because that is the closest one to where I'm sitting.
+Well yeah, but the other ones would be mad that they weren't listed.  I wonder if it somehow knows where I am, because that is the closest one to where I'm sitting.
 
 <a class="lightview centered" href="/img/textmessages/t2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/textmessages/t2.jpg" alt="/img/textmessages/t2.jpg"><br><span class="caption"></span></a>
 

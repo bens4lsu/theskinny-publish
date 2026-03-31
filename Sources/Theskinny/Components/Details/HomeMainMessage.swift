@@ -52,7 +52,7 @@ struct HomeMainMessage: Component {
         Div {
 //            mdContent
 //            pgComponentGroup
-            vgComponentGroup
+//            vgComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }

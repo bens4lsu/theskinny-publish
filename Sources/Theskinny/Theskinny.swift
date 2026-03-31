@@ -46,7 +46,10 @@ struct Theskinny: Website {
             return nil
         }
         
-        if ogImgStr.prefix(4) != "http" && ogImgStr.prefix(5) != "/img/" {
+        if ogImgStr.prefix(4) != "http"
+            && ogImgStr.prefix(5) != "/img/"
+            && ogImgStr.prefix(17) != "/dailyphotostore/"
+        {
             ogImgStr = "/img/" + ogImgStr
         }
 //        else if ogImgStr.first == "/" {
