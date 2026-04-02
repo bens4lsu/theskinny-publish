@@ -27,7 +27,7 @@ struct TVShow: Component {
             TableCell { Text(show.title) }
             TableCell { Text(show.type) }
             TableCell { Text(show.summary) }
-            TableCell { Text(show.dateFinished) }
+            TableCell { Text(show.dateFinishedString) }
             TableCell { Text(displayRating) }
         }
     }
