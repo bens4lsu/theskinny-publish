@@ -76,3 +76,14 @@ videos:
         tn: mq20260105.jpg
         duration: 2:15
         attribution:
+    -
+        id: 912345051
+        dateRecorded: 2026-03-28
+        name: 2026 Bayou Jeep Bash   V Drives the Course
+        caption: |
+            
+        url: https://youtu.be/lnqu9SxcruM
+        embed: <iframe width="1124" height="632" src="https://www.youtube.com/embed/lnqu9SxcruM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20260403.jpg
+        duration: 3:41
+        attribution:
