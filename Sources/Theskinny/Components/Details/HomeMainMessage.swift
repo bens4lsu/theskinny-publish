@@ -47,12 +47,20 @@ struct HomeMainMessage: Component {
         
     }
     
+    // Boat Page
+    
+    let boatComponentGroup = ComponentGroup {
+        H2("A new Velvet Elvis Page, buried deep in the site somwhere...")
+        BlogPost(filePath: "Content/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
+    }
+    
     
     var body: Component {
         Div {
 //            mdContent
 //            pgComponentGroup
 //            vgComponentGroup
+            boatComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }

@@ -55,11 +55,30 @@ struct BlogPost: Component {
         self.title = md.metadata["title"] ?? ""
         self.slug =  slug
         self.date = requiredMetadataDate
-        self.content = ""
+        self.content = ""  // doesn't matter.  when we initialize this way, we're just creating the short box and the regular md parser
+                           // will deal with the conent in the file
         self.id = requiredMetadataID
         self.description = md.metadata["description"] ?? "Post description missing."
         self.tags = []
         self.ogImg = md.metadata["ogImg"]
+    }
+    
+    init(filePath: String) {
+        // This one is for pages that look and act like posts but aren't in the blog.  See struct VEPegasusHome for example.
+        let file = try! File(path: filePath)
+        let md = try! MarkdownParser().parse(file.readAsString())
+        let requiredMetadataDateString = md.metadata["date"] ?? ""
+        let requiredMetadataDate = EnvironmentKey.yyyyMMddhhmmDateFormatter.date(from: requiredMetadataDateString) ?? Date(timeIntervalSince1970: 0)
+        
+        self.title = md.metadata["title"] ?? ""
+        self.slug =  file.nameExcludingExtension
+        self.date = requiredMetadataDate
+        self.content = ""
+        self.id = 0
+        self.description = md.metadata["description"] ?? "Post description missing."
+        self.tags = []
+        self.ogImg = md.metadata["ogImg"]
+        self._linkOverride = file.nameExcludingExtension
     }
     
     var dateString: String {
@@ -77,18 +96,18 @@ struct BlogPost: Component {
 
     var body: Component {
         return Article {
-            TopNavLinks(linkToPrev, midLink, linkToNext)
-            H1(title)
-            H3(dateString)
-            Div(content.body)
-            injectedComponent
+            TopNavLinks(self.linkToPrev, self.midLink, self.linkToNext)
+            H1(self.title)
+            H3(self.dateString)
+            Div(self.content.body)
+            self.injectedComponent
         }
     }
     
     var imgForShortBox: Component {
         if let ogImg = Theskinny.imagePathFromMetadata(for: self.ogImg) {
             return Div {
-                Link(url: linkToFull) {
+                Link(url: self.linkToFull) {
                     Image(ogImg)
                 }
             }.class("divPostThumbnail")
@@ -101,14 +120,14 @@ struct BlogPost: Component {
             Div {
                 Div {
                     H2{
-                        Link(title, url: linkToFull)
+                        Link(self.title, url: self.linkToFull)
                     }
-                    H3(dateString)
-                    Div(description)
+                    H3(self.dateString)
+                    Div(self.description)
                 }.class("divPostStuff")
-                imgForShortBox
+                self.imgForShortBox
             }.class("divPostFlexbox")
-            TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: linkToFull)).class("divPostEndLink")
+            TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: self.linkToFull)).class("divPostEndLink")
         }.class("divPostShort")
     }
 }

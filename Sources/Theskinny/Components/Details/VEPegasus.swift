@@ -28,6 +28,8 @@ struct VEPegasusHome: Component {
                 VideoData.aVideo(forId: 912345041)
                 BlogPost(slug: "sunshine-sand-and-sepsis").postShortBox
                 (try? Gallery(197, dateString: "2024-09-03").postShortBox) ?? EmptyComponent()
+                H2("2026")
+                BlogPost(filePath: "Content/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
             }
         }
     }
