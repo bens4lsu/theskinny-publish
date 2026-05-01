@@ -143,3 +143,15 @@ videos:
         embed: <iframe width="929" height="523" src="https://www.youtube.com/embed/cweOozdcrBc" title="I Have No Idea What to Do with This Striping" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         tn: mq20260209.jpg
         duration: 0:10
+        
+    -
+        id: 912345052
+        dateRecorded: 2026-05-01
+        name: Sigghts and Sounds from French Quarter Festival 2026
+        caption: |
+            Sometimes, the music at the tiny stages is really really good too.
+        url: https://youtu.be/KWVPkB0eBgU
+        embed: <iframe width="1100" height="619" src="https://www.youtube.com/embed/KWVPkB0eBgU" title="Scenes from French Quarter Festival 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20260501a.jpg
+        duration: 2:10
+        attribution:
