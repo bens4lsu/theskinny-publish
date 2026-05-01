@@ -51,7 +51,7 @@ struct HomeMainMessage: Component {
     
     let boatComponentGroup = ComponentGroup {
         H2("A new Velvet Elvis Page, buried deep in the site somwhere...")
-        BlogPost(filePath: "Content/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
+        BlogPost(fullPath: "/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
     }
     
     

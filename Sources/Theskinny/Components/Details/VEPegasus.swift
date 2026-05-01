@@ -29,7 +29,7 @@ struct VEPegasusHome: Component {
                 BlogPost(slug: "sunshine-sand-and-sepsis").postShortBox
                 (try? Gallery(197, dateString: "2024-09-03").postShortBox) ?? EmptyComponent()
                 H2("2026")
-                BlogPost(filePath: "Content/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
+                BlogPost(fullPath: "/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
             }
         }
     }

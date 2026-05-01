@@ -63,9 +63,10 @@ struct BlogPost: Component {
         self.ogImg = md.metadata["ogImg"]
     }
     
-    init(filePath: String) {
+    init(fullPath: String) {
         // This one is for pages that look and act like posts but aren't in the blog.  See struct VEPegasusHome for example.
-        let file = try! File(path: filePath)
+        let pathOnDisk = "Content" + fullPath
+        let file = try! File(path: pathOnDisk)
         let md = try! MarkdownParser().parse(file.readAsString())
         let requiredMetadataDateString = md.metadata["date"] ?? ""
         let requiredMetadataDate = EnvironmentKey.yyyyMMddhhmmDateFormatter.date(from: requiredMetadataDateString) ?? Date(timeIntervalSince1970: 0)
@@ -78,7 +79,7 @@ struct BlogPost: Component {
         self.description = md.metadata["description"] ?? "Post description missing."
         self.tags = []
         self.ogImg = md.metadata["ogImg"]
-        self._linkOverride = file.nameExcludingExtension
+        self._linkOverride = String(fullPath.dropLast(3))
     }
     
     var dateString: String {

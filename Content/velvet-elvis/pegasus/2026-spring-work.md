@@ -18,10 +18,9 @@ ogImg: IMG_6063.jpeg
 # 2026 Spring Work
 ### 2026-04-29 15:56
             
-            
 Spring is a time for crawfish, festivals, sailing, and scrambling to repair boat things before we go on a voyage.  The past few weeks have been particularly productive.  Enough so, that I decided to write it all up.
 
-Like all good maintenance periods, we break things as we fix other things.  The worst new problem this Spring is that our engine refused to start while we had a cockpit full of charter guests.
+Like all good maintenance periods, we break things as we fix other things.  The worst new problem this Spring is that [our engine refused to start while we had a cockpit full of charter guests](/blog2/spring-weekends/).
 
 The next weekend, we had boat mechanic and all around good dude Josh over, and he helped with a few engine-related things.  We got the engine running, mainly by getting some gunk and air out of the fuel/water separators, but I also think it had to do with the current the engine was getting from the battery.
 
