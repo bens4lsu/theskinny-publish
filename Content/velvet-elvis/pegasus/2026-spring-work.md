@@ -59,3 +59,5 @@ Sixth, I fixed the controller for one of the electric winches.  Before the fix, 
 Finally (so far), I replaced the sea water pump that feeds a faucet in the galley and the heads.  When I flush, I want to flush a _ton_ of water through there, and while we're underway, it just makes sense that it's sea water.
 
 <a class="lightview centered" href="/img/IMG_6063.jpeg" data-lightview-caption="Marina security patrols the docks while I worked." data-lightview-group="group1"><img src="/img/IMG_6063.jpeg" alt="/img/IMG_6063.jpeg"><br><span class="caption">Marina security patrols the docks while I worked.</span></a>
+
+If you followed the link above, you may have linked to some seasonal photos too.  If not, there are [related photos over here](/gal/201%20-%20Spring%20Weekends%202026/).

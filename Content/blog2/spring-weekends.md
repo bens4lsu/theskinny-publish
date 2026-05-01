@@ -47,7 +47,7 @@ On our latest trip down, both kids stayed home and left me and Mrs. theskinnyonb
 
 I asked Ko why he wasn't coming, and he told me, "I'm don't really want to be there, and I would probably just bitch all day."  So I'll give him high marks for self awareness.
 
-[More photos over here](gal/201%20-%20Spring%20Weekends%202026/)
+[More photos over here](/gal/201%20-%20Spring%20Weekends%202026/)
 
 And then a little video of some sights and sounds of the festival...
 
