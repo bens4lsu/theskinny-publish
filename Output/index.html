@@ -34,7 +34,7 @@
         return yyyymmdd;
     }
     function dateToShow() {
-        let x = ["20260106","20260123","20260124","20260125","20260126","20260209","20260210","20260211","20260212","20260213","20260214","20260215","20260216","20260217","20260226","20260227","20260228","20260301","20260311","20260312","20260313","20260314","20260316","20260325","20260326","20260327","20260328","20260329","20260330","20260331","20260401","20260402","20260403","20260404","20260405","20260408","20260501"].filter((dt) => {
+        let x = ["20260106","20260123","20260124","20260125","20260126","20260209","20260210","20260211","20260212","20260213","20260214","20260215","20260216","20260217","20260226","20260227","20260228","20260301","20260311","20260312","20260313","20260314","20260316","20260325","20260326","20260327","20260328","20260329","20260330","20260331","20260401","20260402","20260403","20260404","20260405","20260408","20260501","20260514","20260515","20260516","20260517"].filter((dt) => {
             return dt <= dpPath();
         });
         return x.sort().pop();
@@ -50,7 +50,7 @@
     $(document).ready(function(){
 
         var today = dpPath();
-        var latest = "20260501";
+        var latest = "20260517";
 
         var dailyphotoImg = "/dailyphotostore" + pathPart() + ".jpg";
         $('#homeDPImage').attr('src', dailyphotoImg);
@@ -292,17 +292,20 @@ article:first-of-type {
                                 <a href="https://bsky.app/profile/ben.theskinnyonbenny.com" target="_blank">More posts, powered by Bluesky for now...</a></div></div></div>
                     <div class="div-home-latestblog">
                         <div class="divPostShort">
-                            <div class="divPostFlexbox">                                <div class="divPostStuff">
+                            <div class="divPostFlexbox">
+                                <div class="divPostStuff">
                                     <h2>
-                                        <a href="/blog2/spring-weekends">Spring Weekends</a></h2>
-                                    <h3>May 01, 2026</h3>
-                                    <div>I've got a very embarrassing story about something that happened with charter guests and then some thoughts about our Easter and French Quarter Festival weekends in New Orleans.</div></div>
-</div>
+                                        <a href="/blog2/family-history">Family History</a></h2>
+                                    <h3>May 13, 2026</h3>
+                                    <div>Ko did some googling on his great grandfather this week.</div></div>
+                                <div class="divPostThumbnail">
+                                    <a href="/blog2/family-history">
+                                        <img src="/img/young-danny.jpg"/></a></div></div>
                             <div class="top-nav-links divPostEndLink">
                                 <div class="link-arrow link-arrow-left"></div>
                                 <div class="link-arrow link-middle"></div>
                                 <div class="link-arrow link-arrow-right">
-                                    <a href="/blog2/spring-weekends" class="div-right-text">read</a>
+                                    <a href="/blog2/family-history" class="div-right-text">read</a>
                                     <div class="div-right-ticks">»</div></div></div></div></div>
                     <div class="div-home-dailyphoto">
                         <h1>The Daily Photo</h1>

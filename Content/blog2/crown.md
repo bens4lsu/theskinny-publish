@@ -1,7 +1,7 @@
 ---
 title: Crown
 date: 2008-12-15 12:00
-description: A description of my post.
+description: Last night, I was painting some crown molding in the dining room.  Even though my ceilings aren't unusually high, I've always noticed how hot it is with my head up there near the ceiling.  In no time at all, I had worked up a good sweat.
 tags: my-stories,naked,home-improvement
 id: 427
 ---

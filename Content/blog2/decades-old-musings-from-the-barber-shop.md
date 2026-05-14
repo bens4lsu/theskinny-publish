@@ -1,7 +1,7 @@
 ---
 title: Decades Old Musings from the Barber Shop
 date: 2009-02-05 16:36
-description: A description of my post.
+description: I was trying to prove that he didn't really invent every flavor from the house, so I asked to try the cockroach.  He asked whether I wanted the adult or juvenile flavor.  Cockroach, apparently, has subtle characteristics.  Not unlike a fine wine.
 tags: my-youth
 id: 489
 ---
