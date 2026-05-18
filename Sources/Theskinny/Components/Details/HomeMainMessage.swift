@@ -50,8 +50,23 @@ struct HomeMainMessage: Component {
     // Boat Page
     
     let boatComponentGroup = ComponentGroup {
-        H2("A new Velvet Elvis Page, buried deep in the site somwhere...")
-        BlogPost(fullPath: "/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
+        //H2("A new Velvet Elvis Page, buried deep in the site somwhere...")
+        //BlogPost(fullPath: "/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
+        
+        // Link to Online, interactive map
+        Div {
+            Div {
+                Div {
+                    H2{
+                        Link("Online, Interactive Map Review", url: "./velvet-elvis/pegasus/log")
+                    }
+
+                    Div("Yet another page for the Velvet Elvis enthusiasts.  This is an interactive look at all of the places we've logged.")
+                }.class("divPostStuff")
+                Image("/img/video-thumbnails/ve-log-tn.jpg")
+            }.class("divPostFlexbox")
+            TopNavLinks(rightLinkInfo: LinkInfo(text: "interact with the map yourself", url: "./velvet-elvis/pegasus/log")).class("divPostEndLink")
+        }.class("divPostShort")
     }
     
     
