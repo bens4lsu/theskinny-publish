@@ -4,7 +4,7 @@ date: 2026-05-01 11:58
 description: I've got a very embarrassing story about something that happened with charter guests and then some thoughts about our Easter and French Quarter Festival weekends in New Orleans.
 tags: travel, new-orleans, easter, festivals
 id: 2526
-ogImg: 
+ogImg: /img/gal/201%20-%20Spring%20Weekends%202026/resIMG_20260405_144951_IMG_0629.jpg
 ---
 
 The most entertaining part of a story is usually the most embarassing part for the story teller, so let's start there.
