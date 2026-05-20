@@ -85,6 +85,7 @@ struct BlogPosts: Component {
         Article {
             topLinks
             multiPostList
+            topLinks
         }
     }
     

@@ -1,8 +1,8 @@
 ---
 title: Manly pursuits
 date: 2009-03-17 09:42
-description: A description of my post.
-tags: uncategorized
+description: This morning, I relit the pilot light on our water heater.  I've never lit a pilot light before, and I'm not ashamed to admit that I feel a bit more like a real man than I did yesterday.
+tags: my-stories
 id: 514
 ---
 This morning, I relit the pilot light on our water heater.  I've never lit a pilot light before, and I'm not ashamed to admit that I feel a bit more like a real man than I did yesterday.

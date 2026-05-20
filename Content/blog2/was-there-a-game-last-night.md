@@ -1,8 +1,8 @@
 ---
 title: Was There a Game Last Night?
 date: 2009-04-07 05:29
-description: A description of my post.
-tags: sports,my-stories
+description: Just before tipoff, I got Vanya and Mrs. theskinnyonbenny back in the bedroom watching Dancing With the Stars.  I went to the den, lit up the big giant TV, and got ready for the game.  But I still don't know what happened.
+tags: sports,my-stories, technology
 id: 537
 ---
 Just before tipoff, I got Vanya and Mrs. theskinnyonbenny back in the bedroom watching Dancing With the Stars.  I went to the den, lit up the big giant TV, and got ready for the game.

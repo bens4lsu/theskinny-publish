@@ -1,7 +1,7 @@
 ---
 title: Animal Intuition
 date: 2009-04-03 04:04
-description: A description of my post.
+description: I really don't know how Jared Fogle managed that Subway diet when he was a 450 lb fat ass.  I'm on day three of eating healthy, and if you offered me a candy bar in exchange for my murdering a kitten, I'd snap kitty's neck lickity-split.
 tags: animals,pop-culture
 id: 526
 ---
@@ -29,6 +29,6 @@ Then I can go to any call from any show.  Let's say I pick Dr. Laura.
 
 "My aunt is having a baby shower for my unmarried niece.  I don't approve of her out of wedlock child rearing.  Should I go?"
 
-"Go to the shower.  But to make a point, kick her mother in the knew as hard as you can.  Then, deuce in the top chamber of the toilet so it refills with poo poo water every time they flush.  After that, you won't have to worry about them inviting your judgmental ass to parties in the future anyway.  And oh yeah, eat all of the cake before anyone else has a chance to get any."
+"Go to the shower.  But to make a point, kick her mother in the knee as hard as you can.  Then, deuce in the top chamber of the toilet so it refills with poo poo water every time they flush.  After that, you won't have to worry about them inviting your judgmental ass to parties in the future anyway.  And oh yeah, eat all of the cake before anyone else has a chance to get any."
 
 Mmmmm.  I sure could go for some cake.

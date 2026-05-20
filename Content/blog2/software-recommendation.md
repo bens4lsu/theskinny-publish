@@ -1,8 +1,8 @@
 ---
 title: Software Recommendation
 date: 2008-12-30 12:39
-description: A description of my post.
-tags: uncategorized
+description: There are only a couple of bad things about the death of albums.  First is the end of giant album cover art.  Who even notices album art any more?  On new albums, they're just mailing it in.
+tags: technology
 id: 434
 ---
 There are only a couple of bad things about the death of albums.  First is the end of giant album cover art.  Who even notices album art any more?  On new albums, they're just mailing it in.

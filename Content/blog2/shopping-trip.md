@@ -1,7 +1,7 @@
 ---
 title: Shopping Trip
 date: 2009-04-14 06:13
-description: A description of my post.
+description: Yesterday, my mom was walking through Wal Mart with my son.  He asked, "What's that Maw Maw?"
 tags: young-ruski
 id: 542
 ---

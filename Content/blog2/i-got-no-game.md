@@ -1,7 +1,7 @@
 ---
 title: I Got No Game
 date: 2009-02-18 17:17
-description: A description of my post.
+description: If you've been reading between the lines, you've figured out that I spend most of my work days at either a fancy new state office building, or at a filthy local building that's occupied by one of the state's contractors.  I've been working with this contractor since August without ever once mentioning to anyone at either place that my friend Amanda is an employee of theirs.
 tags: the-office
 id: 494
 ---

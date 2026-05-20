@@ -1,9 +1,10 @@
 ---
 title: Laundry
 date: 2009-03-25 08:10
-description: A description of my post.
-tags: my-stories,young-ruski
+description: Our kitchen is being remodeled.  Right now, it's a big empty room, without cabinets or even walls or ceiling.  The main objective of the rennovation was to get our washer and dryer out of the kitchen.  Mission accomplished.  They now sit useless in the dining room.
+tags: my-stories,young-ruski, favorites
 id: 519
+ogImg: vanya-fishcatch2.jpg
 ---
 Our kitchen is being remodeled.  Right now, it's a big empty room, without cabinets or even walls or ceiling.  The main objective of the rennovation was to get our washer and dryer out of the kitchen.  Mission accomplished.  They now sit useless in the dining room.
 
@@ -19,13 +20,13 @@ They live out in the sticks, and with this conversion to digital TV signals, the
 
 The LSU/North Carolina game was pretty good for most of the game.  And dispite my call to ignore family, I missed the part where North Carolina took over the game.  We got a call from my father-in-law that they (he and Vanya) were down at the farm, and that they had caught a fish.  I couldn't miss my son's first fish.  I jogged down to the pond, and they had a good size bass in the back of the farmer's golf cart.
 
-They reeled in a couple more while I hung around down there too.
+They reeled in a couple more while I hung around down there too.  
 
-<table style="align:center; margin-left:10px;">
-<tr><td><img src="/img/vanya-fishcatch2.jpg"></td></tr>
-<tr><td><img src="/img/vanya-fishcatch1.jpg"></td></tr>
-<tr><td><img src="/img/vanya-fishcatch4.jpg"></td></tr>
-</table>
+<a class="lightview centered" href="/img/vanya-fishcatch2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/vanya-fishcatch2.jpg" alt="/img/vanya-fishcatch2.jpg"><br><span class="caption"></span></a>
+
+<a class="lightview centered" href="/img/vanya-fishcatch1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/vanya-fishcatch1.jpg" alt="/img/vanya-fishcatch1.jpg"><br><span class="caption"></span></a>
+
+<a class="lightview centered" href="/img/vanya-fishcatch4.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/vanya-fishcatch4.jpg" alt="/img/vanya-fishcatch4.jpg"><br><span class="caption"></span></a>
 
 Vanya was really excited to tell me about it when I got down there.  I'm glad I didn't pass it up to watch North Carolina open it up on my Tigers.
 

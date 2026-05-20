@@ -10,10 +10,7 @@
 
 If the map and data don't show up in this page correctly, or for the full page experience, there's an icon at the bottom right that will make it full-screen.
 
-Also, [here's a video to demonstrate some of the ways you can use this interactive map](/video/velvet-elvis-route-review-2024---2025-especially-2025/).
-
-
-<iframe title="VE" width="1024" height="804" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiY2ZjYjI5YzQtNDY1Mi00MWMyLThkZmQtNjc0N2M1ZjJmMGNlIiwidCI6ImM2NjYyYTI0LWJlOWEtNDJhOC05YmNiLWE4ZmY0MzQ4OTkzMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="VE" width="1024" height="1804" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiY2ZjYjI5YzQtNDY1Mi00MWMyLThkZmQtNjc0N2M1ZjJmMGNlIiwidCI6ImM2NjYyYTI0LWJlOWEtNDJhOC05YmNiLWE4ZmY0MzQ4OTkzMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 Footnotes:

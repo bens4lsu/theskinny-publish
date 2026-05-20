@@ -1,7 +1,7 @@
 ---
 title: Social Networks
 date: 2009-04-13 11:07
-description: A description of my post.
+description: I'm not 100% sure, but I might have made fun of Mrs. theskinnyonbenny when she joined Facebook.  If I did, it was a good natured accusation of trying to hold on to fading youth, just as she did to me when I surrounded my phone with a bright green protective case.
 tags: uncategorized
 id: 539
 ---
@@ -13,7 +13,7 @@ All of this made me curious, but I didn't plan to join.  I said that if luddite 
 
 Join she did, so a week or so later, I joined and sent her my first friend invite.
 
-After that, I let their software scan my address book, and I let those invites go out.  There were only about 10 or 15.  Since I'm the last person on earth aboard this bandwagon, you know where it went from there.  (If we know each other, <a href="http://www.facebook.com/privacy/?view=search#/people/Ben-Schultz/1398128702/" target="_blank">friend me on Facebook</a>.)
+After that, I let their software scan my address book, and I let those invites go out.  There were only about 10 or 15.  Since I'm the last person on earth aboard this bandwagon, you know where it went from there.  (If we know each other, <a href="https://www.facebook.com/Bens4lsu/" target="_blank">friend me on Facebook</a>.)
 
 I'm not really sure what to do now.  I'm very happy posting everything that I want the world to know (and actually, quite a bit more, truth be told) right here on theskinny.  Not that it's hard to find me here, but it's not as easy as finding me on the book.  So I won't be posting, "Hey, I just baked a brownie next to a tree in the neighborhood while walking the dog far from home!"  You can only find that sort of inside information right here, baby.
 
