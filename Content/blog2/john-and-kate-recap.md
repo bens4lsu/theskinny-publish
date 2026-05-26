@@ -1,7 +1,7 @@
 ---
 title: John and Kate Recap
 date: 2009-05-26 10:42
-description: A description of my post.
+description: I tell you what, if a network wanted to get a reality show that featured a healthy dose of cute kid stuff punctuated by parents on each others' nerves, they should find homes with three year olds who are doing major remodeling.  Not that I speak from experience or anything; I just think that might make for good TV.
 tags: pop-culture
 id: 565
 ---
@@ -11,4 +11,6 @@ The radio people's consensus was that Kate is a diva, spending her time travelin
 
 I tell you what, if a network wanted to get a reality show that featured a healthy dose of cute kid stuff punctuated by parents on each others' nerves, they should find homes with three year olds who are doing major remodeling.  Not that I speak from experience or anything; I just think that might make for good TV.
 
-One more note:  Kate now sports the "reverse mullet" hairstyle, which we first observed on Dewey Coulon by <a href="http://incoherentblog.com" target="_blank">Tyler</a>.  Business in back, party in the front.  Ohhh yeah.
+One more note:  Kate now sports the "reverse mullet" hairstyle, which we first observed on Dewey Coulon by Tyler.  Business in back, party in the front.  Ohhh yeah.
+
+<h3>2026 update:  That Dewey/Tyler business was probably pretty funny, but it linked to a blog that is no longer.  Hope those boys are doing well.</h3>

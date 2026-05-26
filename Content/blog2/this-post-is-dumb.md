@@ -1,7 +1,7 @@
 ---
 title: This Post is Dumb
 date: 2009-04-21 05:15
-description: A description of my post.
+description: The title pretty much sums it up.
 tags: uncategorized
 id: 549
 ---

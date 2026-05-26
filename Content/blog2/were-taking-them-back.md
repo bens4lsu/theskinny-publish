@@ -1,7 +1,7 @@
 ---
 title: We're Taking Them Back
 date: 2009-05-13 09:34
-description: A description of my post.
+description: I'm going to push all my chips in on my new campaign to reclaim the sun visor from the douchebags.  Technically, I think that females playing golf or tennis can also get away with wearing a visor without looking like a douchebag, but there's no chance for men.
 tags: gear-and-gadgets
 id: 558
 ---

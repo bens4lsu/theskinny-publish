@@ -1,7 +1,7 @@
 ---
 title: Account of a Good Day Saturday
 date: 2009-04-27 23:12
-description: A description of my post.
+description: On Saturday afternoon, faced with nothing better to do, we loaded up the Jeep and drove backroads down to Hymel's.  Although we talk about doing it a lot, it's probably been somewhere between five and ten years since we actually made the drive down there.
 tags: food,young-ruski
 id: 552
 ---

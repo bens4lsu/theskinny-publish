@@ -1,13 +1,14 @@
 ---
 title: Bunny Boiler
 date: 2009-04-29 23:20
-description: A description of my post.
-tags: my-youth
+description: If you are one of the lucky few to have been in LSU's College of Engineering at the same time as Monhoon (no last name -- like Madonna, Monhoon needs only one identifier), you may occasionally receive text messages like this one.
+tags: my-youth, favorites
 id: 555
+ogImg: textmessages/t20090429.jpg
 ---
 If you are one of the lucky few to have been in LSU's College of Engineering at the same time as Monhoon (no last name -- like Madonna, Monhoon needs only one identifier), you may occasionally receive text messages like this one.
 
-<center><img src="/img/textmessages/t20090429.jpg"></center>
+<a class="lightview centered" href="/img/textmessages/t20090429.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/textmessages/t20090429.jpg" alt="/img/textmessages/t20090429.jpg"><br><span class="caption"></span></a>
 
 I'll let you take some time to try to figure out the author of this message while I tell a little story.  You can post your guess in the comments, if you're so inclined.
 

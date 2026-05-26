@@ -1,22 +1,22 @@
 ---
 title: Boat Joke
 date: 2009-05-22 09:19
-description: A description of my post.
+description: We're in for some bad weather this weekend, and it's a shame.  We've got some stuff to do this weekend that's going to be fun.
 tags: uncategorized
 id: 560
 ---
 Here's a joke from a sailing list that I read:
 
-<blockquote>Saturday morning I got up early, quietly dressed, made my lunch, grabbed the dog, and slipped quietly into the garage.
-
-I hooked up the boat up to the truck, and proceeded to back out into a torrential downpour.
-
-The wind was blowing 50 mph, so I pulled back into the garage, turned on the radio, and discovered that the weather would be bad all day.
-
-I went back into the house, quietly undressed, and slipped back into bed.
-
-I cuddled up to my wife's back, now with a different anticipation, and whispered, 'The weather out there is terrible.'
-
+<blockquote>Saturday morning I got up early, quietly dressed, made my lunch, grabbed the dog, and slipped quietly into the garage.<br>
+<br>
+I hooked up the boat up to the truck, and proceeded to back out into a torrential downpour.<br>
+<br>
+The wind was blowing 50 mph, so I pulled back into the garage, turned on the radio, and discovered that the weather would be bad all day.<br>
+<br>
+I went back into the house, quietly undressed, and slipped back into bed.<br>
+<br>
+I cuddled up to my wife's back, now with a different anticipation, and whispered, 'The weather out there is terrible.'<br>
+<br>
 My loving wife of 10 years replied, 'Can you believe my stupid husband is out sailing in that?'</blockquote>
 
 I think that's the kind of weather we're in for this weekend.  Which is too bad.  Our friends Lisa and Josh are in town, and we had planned to goof off in New Orleans during the weekend.  We'll still do that, I'm sure, but it's a walking city, so frequent downpours aren't cool.
