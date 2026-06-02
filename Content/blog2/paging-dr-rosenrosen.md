@@ -1,7 +1,7 @@
 ---
 title: Paging Dr. Rosenrosen
 date: 2009-07-16 09:59
-description: A description of my post.
+description: A month or so ago, we were driving through the LSU campus, and there were two university club teams playing that fake sport from Harry Potter with the broomsticks.  I only saw what I could glimpse as I passed from a moving car, but they definitely had a few spectators and two teams running around on their sticks.
 tags: uncategorized
 id: 604
 ---

@@ -4,7 +4,7 @@ date: 2009-01-22 11:42
 description: I'm stuck this week, because I feel like I should post something or other about the inauguration, but there's really nothing else to say.  And I'll admit, I didn't have a chance to watch the coverage Tuesday morning, and when it was time to listen to the address, I couldn't find my headphones.  (They were on my Jeep dashboard, if you were wondering.)  By the time I got connected, I had missed 2/3 of it.  I did read the text of the speech yesterday, and that's one of 16 million signs that this one is special.  I certainly never read the text of a presidential speech before.
 tags: current-events
 id: 477
-ogImg: bidenboots.jpg
+ogImg: bideninboots.jpg
 ---
 I'm stuck this week, because I feel like I should post something or other about the inauguration, but there's really nothing else to say.  And I'll admit, I didn't have a chance to watch the coverage Tuesday morning, and when it was time to listen to the address, I couldn't find my headphones.  (They were on my Jeep dashboard, if you were wondering.)  By the time I got connected, I had missed 2/3 of it.  I did read the text of the speech yesterday, and that's one of 16 million signs that this one is special.  I certainly never read the text of a presidential speech before.
 

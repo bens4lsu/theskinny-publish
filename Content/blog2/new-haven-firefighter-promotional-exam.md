@@ -1,7 +1,7 @@
 ---
 title: New Haven Firefighter Promotional Exam
 date: 2009-07-13 13:14
-description: A description of my post.
+description: Here's your new drinking game, good this week only:  take a drink every time you hear "New Haven Firefighters."
 tags: uncategorized
 id: 601
 ---

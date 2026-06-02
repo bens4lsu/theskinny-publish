@@ -1,7 +1,7 @@
 ---
 title: 1:45 Until the CWS
 date: 2009-06-24 16:16
-description: A description of my post.
+description: During an early inning on Friday's LSU baseball game, they went to the standard shot of kid in lap, asleep, wasting her ticket.  The kid in question was (I think) a little girl, somewhere from 3 to 5 years old, dressed in LSU gear, and wearing gloves.
 tags: sports
 id: 595
 ---
