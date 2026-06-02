@@ -1,7 +1,7 @@
 ---
 title: Drug Names
 date: 2009-12-15 21:07
-description: A description of my post.
+description: If you have a three year old, you can make some extra money by getting a part time job naming drugs for pharmicutical companies.  And it couldn't be easier.  Just combine the name of cartoon characters on any two of your household televisions.
 tags: uncategorized
 id: 674
 ---

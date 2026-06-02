@@ -1,8 +1,8 @@
 ---
 title: Let it be Resolved...
 date: 2010-01-07 12:38
-description: A description of my post.
-tags: my-stories
+description: I am hereby making the following three New Year's resolutions...  Well, you'll have to read the whole post to see them.  But after that, I've got two of my funniest stories.
+tags: my-stories, favorites
 id: 683
 ---
 I am hereby making the following three New Year's resolutions:
@@ -43,7 +43,7 @@ Do you see how brilliant I am?  I completely added credibility with that second 
 
 That led Brent to tell an unrelated story, save the appearance by the same parasite.
 
-His college roommate's father came to stay with them and slept on the couch in their apartment.  God knows who they had on that couch, but the fathr caught crabs from sleeping there.  Then, he went home and gave them to the guy's mother.
+His college roommate's father came to stay with them and slept on the couch in their apartment.  God knows who they had on that couch, but the father caught crabs from sleeping there.  Then, he went home and gave them to the guy's mother.
 
 To make matters worse, they were in college at UNLV.  Can you imagine coming home from a Las Vegas trip, giving crabs to your wife, and then having to convince her that there were no prostitutes involved?  Oh, what a nightmare.  I'm laughing all over again.
 

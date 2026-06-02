@@ -1,7 +1,7 @@
 ---
 title: What Was With the Brown Guy on the Motorcycle?
 date: 2009-11-18 21:31
-description: A description of my post.
+description: In the case of lost luxuries, there are substitutes, and one learns to make do.  For example, instead of movies, there are television shows with plots that have conflict and resolution all wrapped up in a tidy hour.  Instead of exercise, there's getting winded from hauling toys up and down one's own staircase.
 tags: pop-culture
 id: 663
 ---
@@ -12,7 +12,7 @@ Here's a partial list of things that I used to do before I had a kid:
 	<li>Go to movies</li>
 	<li>Exercise (occasionally)</li>
 	<li>Sleep in my own bed with my wife or in the guest room by myself (dogs not included)
-	</li><li>listen exclusively to music that didn't reference farmers, peanut butter, or turning oneself around</li>
+	</li><li>Listen exclusively to music that didn't reference farmers, peanut butter, or turning oneself around</li>
 	<li>Eschew pop tarts</li>
 	<li>Go sit at local bars to meet and bullshit with my neighbors
 	</li><li>Maintain a clean house for up to two days at a time</li>

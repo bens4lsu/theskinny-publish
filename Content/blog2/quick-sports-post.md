@@ -1,7 +1,7 @@
 ---
 title: Quick Sports Post
 date: 2009-10-02 16:26
-description: A description of my post.
+description: If you go into Hemingway's Tobacco on Jefferson Highway on any given weekday afternoon, there are a group of old out of shape dudes, shooting the shit and smoking cigars.  Despite the fact that they smell bad and have yellow teeth, I'm more than just a little envious of them.  Sitting over source code while shooting the shit and drinking coffee in one's necktie just isn't the same.
 tags: sports
 id: 636
 ---

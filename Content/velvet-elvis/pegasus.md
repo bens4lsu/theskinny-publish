@@ -5,8 +5,8 @@ The current _Velvet Elvis_ is a Pegasus 50, manufactured by <a href="https://peg
 She currently lives at the New Orleans municipal marina, and she has <a href="https://sailvelvetelvis.com"> her own website.</a>
 
 
-<a class="lightview centered" href="/img//gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg" data-lightview-caption="Velvet Elvis at anchor  BVIs 2024
-" data-lightview-group="group1"><img src="/img//gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg" alt="/img//gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg"><br><span class="caption">Velvet Elvis at anchor, BVIs 2024
+<a class="lightview centered" href="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg" data-lightview-caption="Velvet Elvis at anchor  BVIs 2024
+" data-lightview-group="group1"><img src="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg" alt="/img/gal/190%20-%20USVI%20and%20Puerto%20Rico/resIMG_20240627_143032_dji_fly__145_1719513291319_photo_optimized.jpg"><br><span class="caption">Velvet Elvis at anchor, BVIs 2024
 </span></a>
 
 

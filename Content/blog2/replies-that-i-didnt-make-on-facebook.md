@@ -1,7 +1,7 @@
 ---
 title: Replies That I Didn't Make on Facebook
 date: 2009-07-21 10:05
-description: A description of my post.
+description: All of these are honest-to-god comments that came to my mind when reading people's Facebook updates, and which I didn't think appropriate to leave as replies.  
 tags: my-stories
 id: 607
 ---
@@ -16,6 +16,8 @@ All of these are honest-to-god comments that came to my mind when reading people
 "What a great photo.  You can't even tell that the baby's retarded."
 
 (Said baby is not at all retarded, as far as I know.  There's only one time when this jumped to mind, but I could probably use it all of the time.)
+
+### 2026 update:  Jesus fucking Christ, former me.  Now back to 2009 benny...
 
 "I think your double chin would be more attractive than that chicken head stretch that you're doing in order to make it look like you don't have a double chin."
 

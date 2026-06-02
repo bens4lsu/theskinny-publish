@@ -1,8 +1,8 @@
 ---
 title: The Tube
 date: 2009-11-10 15:08
-description: A description of my post.
-tags: uncategorized
+description: On Thursday of last week, I ran by the bank and put in a couple of deposits.  It took forever, but by and by, I got my receipt and moved along.  I eventually picked up Mrs. theskinnyonbenny, and we headed to the airport for a weekend trip to the Boston area.  (More on that in a future post.)
+tags: my-stories
 id: 650
 ---
 On Thursday of last week, I ran by the bank and put in a couple of deposits.  It took forever, but by and by, I got my receipt and moved along.  I eventually picked up Mrs. theskinnyonbenny, and we headed to the airport for a weekend trip to the Boston area.  (More on that in a future post.)

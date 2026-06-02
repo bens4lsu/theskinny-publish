@@ -1,7 +1,7 @@
 ---
 title: Don't Get Sucked In
 date: 2009-10-29 18:05
-description: A description of my post.
+description: Vanya really enjoys relaying messages between his parents.  He will often do it even as we try to converse.  His construct is to start with a question that asks if the listener knows what the other person said.  Then, he repeats the person's name and what they said.  So, for example, if I ask Mrs. theskinnyonbenny to turn down the television and she doesn't jump to it right away, he might get her attention and ask...
 tags: pop-culture,young-ruski
 id: 646
 ---

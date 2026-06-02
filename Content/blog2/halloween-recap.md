@@ -1,15 +1,16 @@
 ---
 title: Halloween Recap
 date: 2009-11-12 17:41
-description: A description of my post.
+description: We started our Halloween morning with a trip to New Orleans.  The main destination was the bug museum, but first, we made a stop by CafÃ© Degas.  Who would want to go look at bugs without a belly full of jellied goose liver?  In attendance were Mrs. theskinnyonbenny, Vanya, my two nephews Sam and Caleb, and my sister Sarah.
 tags: my-stories,young-ruski
 id: 653
+ogImg: gal/058%20-%20Halloween%202009/resIMG_0909.JPG
 ---
-We started our Halloween morning with a trip to New Orleans.  The main destination was the bug museum, but first, we made a stop by CafÃ© Degas.  Who would want to go look at bugs without a belly full of jellied goose liver?  In attendance were Mrs. theskinnyonbenny, Vanya, my two nephews Sam and Caleb, and my sister Sarah.
+We started our Halloween morning with a trip to New Orleans.  The main destination was the bug museum, but first, we made a stop by Café Degas.  Who would want to go look at bugs without a belly full of jellied goose liver?  In attendance were Mrs. theskinnyonbenny, Vanya, my two nephews Sam and Caleb, and my sister Sarah.
 
 One thing I've noticed lately is that any time we go visit a restaurant, Vanya wants to be taken to the potty.  I think it's more a function of his inability to sit still than it is of bladder fullness, but it's a request that a parent has to respect no matter what.  I had taken him once â€“ a real pain in the ass, as he pulled off his shoes in order to get his Spiderman costume off, and then we pretty much had to redress again.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/058%20-%20Halloween%202009/resIMG_0970.JPG" width="250px"></td></tr><tr><td class="caption" width="250">The touching of the maggots.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/058%20-%20Halloween%202009/resIMG_0970.JPG" data-lightview-caption="The touching of the maggots." data-lightview-group="group1" ><img src="/img/gal/058%20-%20Halloween%202009/resIMG_0970.JPG" alt="/img/gal/058%20-%20Halloween%202009/resIMG_0970.JPG"><br><span class="caption">The touching of the maggots.</span></a>
 
 Later, he asked to go again.  I gave him an okay, and in the course of climbing out from behind a table, he dumped over a glass of water.  We did the thing where everyone's napkin gets put into the pool in a futile effort to clean up, and we actually managed a pretty good job.
 
@@ -21,11 +22,11 @@ After the museum, we went  back to Slidell, locked the kids in a closet, and wen
 
 Evening trick-or-treating was nothing especially exciting.  It was our first year with 100% comprehension of the process and of the rewards, and it was definitely fun seeing how excited the little ones got.
 
-At one point my brother-in-law asked some young parents if their pint-sized wolverine had real knives attached to his fists.  They gave him a serious and concerned â€œno,â€� and then he walked off saying, â€œthose dummies thought I might really believe that they put knives on their kid's fist,â€� while the dummies walked off saying, â€œHe actually thought we would make knives a part of our kid's costume.â€�  I was in just the perfect place to see all of this, and it made me chuckle.
+At one point my brother-in-law asked some young parents if their pint-sized wolverine had real knives attached to his fists.  They gave him a serious and concerned "no," and then he walked off saying, "those dummies thought I might really believe that they put knives on their kid's fist," while the dummies walked off saying, "He actually thought we would make knives a part of our kid's costume."  I was in just the perfect place to see all of this, and it made me chuckle.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/058%20-%20Halloween%202009/resIMG_0909.JPG" width="250px"></td></tr><tr><td class="caption" width="250">Batman Trick or Treats at the zoo.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/058%20-%20Halloween%202009/resIMG_0909.JPG" data-lightview-caption="Batman Trick or Treats at the zoo." data-lightview-group="group1" ><img src="/img/gal/058%20-%20Halloween%202009/resIMG_0909.JPG" alt="/img/gal/058%20-%20Halloween%202009/resIMG_0909.JPG"><br><span class="caption">Batman Trick or Treats at the zoo.</span></a>
 
-*Toy Story* came back with a vengeance in costume popularity this year.  I saw a number of little Buzzes with inflated wings on their back and at least one Woody, a tall skinny adult who never once said, â€œThey poisoned the waterholeâ€� or â€œYou're my favorite deputy.â€�  But my favorite was the weenie dog who had a woody tucked into his collar, presumably to rescue the squeaky penguin from the yard sale.
+*Toy Story* came back with a vengeance in costume popularity this year.  I saw a number of little Buzzes with inflated wings on their back and at least one Woody, a tall skinny adult who never once said, "They poisoned the waterhole" or "You're my favorite deputy."  But my favorite was the weenie dog who had a woody tucked into his collar, presumably to rescue the squeaky penguin from the yard sale.
 
 Once I get the pics posted, you're going to think I've mixed up different years, but in fact, Vanya started wearing Batman as soon as we got the costume, wearing it to Boo at the Zoo a week before, and then to a tailgate the following day, and although we had it with us on Halloween, he decided to change over to Spiderman for Halloween proper.  It will be good training for double celebration of holidays for once he's married and has to do them in more than one place.
 

@@ -1,7 +1,7 @@
 ---
 title: Boat Launch
 date: 2009-10-13 16:56
-description: A description of my post.
+description: "She has two speeds:  slow, and stopped."  That's the quote that an ex-husband of a mutual friend said about Crystal.  We've taken hold of that quote, and we repeat it regularly every time we have to wait for her to get ready to go somewhere.
 tags: my-stories, favorites
 id: 642
 ---
@@ -61,4 +61,4 @@ Mrs. theskinnyonbenny sat at the helm, and I backed the trailer into the water. 
 
 The battery exchange went off without problem, but it did require a manager to stick her little key into the register keyboard, so we had to wait around a while for that.  Then, we put the new battery in the boat â€“ everything worked.  Back to the slow route through town to the launch.
 
-I don't know how many hours it had been.  This day felt like a month.  But we finally got on the boat, out on the lake, and had a very nice time.  The day want' over â€“ we crashed a party that someone was having along the river, met classmates downtown for dinner, and then had another story worthy adventure while trying to pull the boat out of the water.  But that can wait until another post on another day.
+I don't know how many hours it had been.  This day felt like a month.  But we finally got on the boat, out on the lake, and had a very nice time.  The day wasn't over.  We crashed a party that someone was having along the river, met classmates downtown for dinner, and then had another story worthy adventure while trying to pull the boat out of the water.  But that can wait until another post on another day.

@@ -1,7 +1,7 @@
 ---
 title: History Lesson
 date: 2009-08-11 14:06
-description: A description of my post.
+description: I remember that in 9th grade, a history teacher sought to describe the immensity of China's population by telling us that you could line up all of the people in China, start marching them into the ocean, and the line would go on forever.
 tags: my-youth
 id: 610
 ---

@@ -1,8 +1,8 @@
 ---
 title: Too Cold for Hygene
 date: 2010-01-12 10:54
-description: A description of my post.
-tags: uncategorized
+description: I know that it's been exceptionally cold everywhere, and you don't want to read a post about how the puddles were actually frozen when I went outside to see how Lily was getting into the yard next door.  And I can handle the cold.  I'll bundle up and go out in the upper thirties, no problem.  
+tags: my-stories
 id: 688
 ---
 I know that it's been exceptionally cold everywhere, and you don't want to read a post about how the puddles were actually *frozen* when I went outside to see how Lily was getting into the yard next door.  And I can handle the cold.  I'll bundle up and go out in the upper thirties, no problem.  

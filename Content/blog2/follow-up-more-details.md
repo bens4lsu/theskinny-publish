@@ -1,16 +1,15 @@
 ---
 title: Follow up - more details
 date: 2009-11-13 14:55
-description: A description of my post.
+description: A few updates on my posts from earlier this week.  First of all, the pics from the September tailgate and Halloween are up...
 tags: my-stories,young-ruski
 id: 661
 ---
 A few updates on my posts from earlier this week.  First of all, the pics from the September tailgate and Halloween are up:
 
-<a onclick="window.open('/pg3.php?spgmGal=058%20-%20Halloween%202009','058Halloween2009','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >Halloween</a>
+[Halloween](/gal/058%20-%20Halloween%202009/)
 
-
-<a onclick="window.open('/pg3.php?spgmGal=057%20-%20LSU%20vs%20Florida%20Tailgate%202009','057LSUvsFloridaTailgate2009','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');">Football</a>
+[Football](/gal/057%20-%20LSU%20vs%20Florida%20Tailgate%202009/)
 
 Going through the Halloween photos confirmed for me that the bug mascot from the zoo was the same as the bug mascot from the museum the next week.  Perhaps that's why Vanya was such a pain in the mascot's thorax the second time they met.
 
@@ -40,7 +39,7 @@ That lasted forever -- for as long as they guy was in sight.  He went into the c
 
 My final update is that I finally got a call from the bank's cheif tube detective.  She spoke veeeerrry slooooooowly.  She sounded stoned.
 
-"Yoooouuuu calllled (I'll quit typing that way now if you'll remember to read her words in a slow stoner's voice."
+"Yoooouuuu calllled" (I'll quit typing that way now if you'll remember to read her words in a slow stoner's voice.)
 
 Actually, I started with, "Hello, this is Ben."
 

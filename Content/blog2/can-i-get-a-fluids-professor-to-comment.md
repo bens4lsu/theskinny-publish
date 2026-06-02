@@ -1,7 +1,7 @@
 ---
 title: Can I Get a Fluids Professor to Comment?
 date: 2009-11-20 10:31
-description: A description of my post.
+description: Yesterday, some miraculous combination of hydrodynamic forces combined in just the right way so that when I flushed the toilet, and the water was about to go down, a teaspoon full flew out and hit me in the shirt.
 tags: uncategorized
 id: 670
 ---

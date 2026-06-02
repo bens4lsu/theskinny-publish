@@ -1,7 +1,7 @@
 ---
 title: Dear Santa, This May Sting a Little
 date: 2009-12-05 09:27
-description: A description of my post.
+description: This may cost me some presents, but it needs to be reported:  Santa is incompetent.  Particularly so when it comes to contingency planning.
 tags: uncategorized
 id: 672
 ---
