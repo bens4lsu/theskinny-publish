@@ -1,9 +1,10 @@
 ---
 title: Wedding Party
 date: 2010-02-05 16:54
-description: A description of my post.
+description: Two weekends ago, when we went down for the NFC Championship game, Mrs. theskinnyonbenny and I were eating oysters and drinking our lunchtime cocktails at a restaurant called Bourbon House.  It happened to be the next shop down from the place where our dear friend Stacie had her rehearsal dinner, and my view out the window happened to be a place where the ladies dance in an exotic style.  Penthouse Club, I believe it might have been called.
 tags: my-stories
 id: 716
+ogImg: stacieWedding1.jpg
 ---
 Two weekends ago, when we went down for the NFC Championship game, Mrs. theskinnyonbenny and I were eating oysters and drinking our lunchtime cocktails at a restaurant called Bourbon House.  It happened to be the next shop down from the place where our dear friend Stacie had her rehearsal dinner, and my view out the window happened to be a place where the ladies dance in an exotic style.  Penthouse Club, I believe it might have been called.
 
@@ -11,7 +12,7 @@ This reminded me of a story I had forgotten.  Our friends from Boston -- Josh an
 
 Josh is a midwesterner, and over there, gentlemen are still gentlemen.  I've heard Josh say, "shucks" in frustration, and he wasn't even trying to be funny at the time.  When his new wife suggested a drink at the Penthouse Club, he assumed that his new wife was just clueless.  Amidst much stuttering and stammering, he managed to spit out an objection.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/stacieWedding1.jpg"></td></tr><tr><td class="caption" width="250">Wedding Pic -- Wasn't That Nice?</td></tr></table>
+<a class="lightview alignright" href="/img/stacieWedding1.jpg" data-lightview-caption="Wedding Pic -- Wasn't That Nice?" data-lightview-group="group1" ><img src="/img/stacieWedding1.jpg" alt="/img/stacieWedding1.jpg"><br><span class="caption">Wedding Pic -- Wasn't That Nice?</span></a>
 
 Lisa's response (read in a heavy Boston Accent) was something like, "Theyah just boobies Josh!  Get ohvah it!"
 
@@ -23,15 +24,17 @@ I carried my camera around with me nonstop, but I didn't get too many good pictu
 
 Enough time has passed to fade the flood of fun times that I had originally intended to share, but a couple of things still make me chuckle.  First, was texting from Lisa's cell phone while she was in the bathroom:
 
-<div style="padding-left:3em">Lisa:  So, just between us, does Mark have a big joint?
+Lisa:  So, just between us, does Mark have a big joint?
 
 Stacie:  I wouldn't know, being a virgin and all.
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/stacieWedding2.jpg"></td></tr><tr><td class="caption" width="250">Try not to think about whether Mark looks like that new homosexual trust lawyer character on *Big Love*</td></tr></table>
+
+<a class="lightview alignright" href="/img/stacieWedding2.jpg" data-lightview-caption="" data-lightview-group="group1" ><img src="/img/stacieWedding2.jpg" alt="/img/stacieWedding2.jpg"><br><span class="caption"></span></a>
+
 (Lisa returns from the restroom and sees this on her phone...)
 
 Lisa:  I'm SOOOOOO Sorry!  These guys had my phone while I was in the restroom.
 
-Lisa:  But since they asked....</div>
+Lisa:  But since they asked....
 
 Every response there was perfect, and they had me laughing for hours.
 

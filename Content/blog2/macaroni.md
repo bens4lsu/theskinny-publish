@@ -1,9 +1,10 @@
 ---
 title: Macaroni
 date: 2010-01-22 17:18
-description: A description of my post.
+description: If I were a betting man, I would say that I have a photograph of the worst example of burnt food in a microwave oven that you've ever seen.  If you can't stand the suspense, scroll to the bottom of the post to see it for yourself.  Last Saturday, we had a few people over to watch the Saints game.  We ate buffalo wings and white beans during the day.  
 tags: my-stories
 id: 696
+ogImg: burnt.jpg
 ---
 If I were a betting man, I would say that I have a photograph of the worst example of burnt food in a microwave oven that you've ever seen.  If you can't stand the suspense, scroll to the bottom of the post to see it for yourself.
 
@@ -25,6 +26,6 @@ Six days later, the smell is almost -- but not quite -- gone.
 
 So on to the picture...
 
-<img style="text-align:center" src="/img/burnt.jpg" />
+<a class="lightview centered" href="/img/burnt.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/burnt.jpg" alt="/img/burnt.jpg"><br><span class="caption"></span></a>
 
 You will notice that there isn't much of the tupperware left.  Nothing was thrown away.  Any missing tupperware is melted into the burnt macaroni.

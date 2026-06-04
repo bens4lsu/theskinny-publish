@@ -1,15 +1,16 @@
 ---
 title: Duck!
 date: 2010-03-30 15:09
-description: A description of my post.
+description: I spent a good bit of time the last two weekends doing work on the boat.  Theskinnyonbenny family has been looking forward to our annual Easter voyage, but the list of boat chores was long, and I hoped to complete as many of those as possible before we left.  One chore -- repair of a ripped sail -- was a firm requirement do be done prior to departure.
 tags: animals
 id: 750
+ogImg: duckmasturbating.jpg
 ---
 I spent a good bit of time the last two weekends doing work on the boat.  Theskinnyonbenny family has been looking forward to our annual Easter voyage, but the list of boat chores was long, and I hoped to complete as many of those as possible before we left.  One chore -- repair of a ripped sail -- was a firm requirement do be done prior to departure.
 
 I didn't know until Sunday morning that I had an audience for most of my preparations.  On Sunday, I was headed down toward the boat when I noticed a mallard jump up into the cockpit.  I've never seen a duck board my boat before, so this gave me a chuckle.  Then, she disappeared, and as soon as she did, I got a sinking feeling in my gut.
 
-<span class="spanEndPreview">&nbsp;</span><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/duck.jpg"></td></tr><tr><td class="caption" width="250">Mama duck on her nest.  That's my speaker wire that drapes down in front of her.</td></tr></table>
+<a class="lightview alignright" href="/img/duck.jpg" data-lightview-caption="Mama duck on her nest.  That's my speaker wire that drapes down in front of her." data-lightview-group="group1" ><img src="/img/duck.jpg" alt="/img/duck.jpg"><br><span class="caption">Mama duck on her nest.  That's my speaker wire that drapes down in front of her.</span></a>
 
 I climbed into the cockpit, got down on my hands and knees, and confirmed my fear.  She was sitting on a nest of eggs, build in the middle of my anchor rode.
 
@@ -23,6 +24,6 @@ And isn't it true that something like 7 of 10 ducklings becomes food for a gator
 
 There are actually a lot of nesting ducks out there.  I know of two others who had the sense to nest in bushes instead of in my boat.  In fact, my mother is bringing one of the nesting mothers a small bowl of dog food every day, which the duck seems to enjoy.
 
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/duckmasturbating.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">Masturbation is very awkward for the male ducks.</td></tr></table>
+<a class="lightview alignright" href="/img/duckmasturbating.jpg" data-lightview-caption="Masturbation is very awkward for the male ducks." data-lightview-group="group1" ><img src="/img/duckmasturbating.jpg" alt="/img/duckmasturbating.jpg"><br><span class="caption">Masturbation is very awkward for the male ducks.</span></a>
 
 Meanwhile, the male mallards swim around with each other.  They're probably stupid too, and I assume that they're asking each other why they find themselves in the middle of one sausage fest after another.  "A month ago, I was getting laid every time I turned around.  Now, all the females have disappeared.  I guess I'll just take care of number one by myself again."

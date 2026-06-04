@@ -1,7 +1,7 @@
 ---
 title: Adoption Flap
 date: 2010-04-13 10:18
-description: A description of my post.
+description: Perhaps you've seen the news about the dumb bitch in Tennessee who put her son on a plane to Russia with a note saying that she's punting on being a parent from now on.  I'm naturally a biased observer of this bit of news, but I the only reaction I can fathom is a strong desire to put a fist in her face.
 tags: current-events
 id: 766
 ---
@@ -31,12 +31,12 @@ The articles I saw Friday and Saturday suggested that the US borders are already
 
 Russian President Vladimir Medvedev spoke about it with George Stephanopoulos on ABC.  The adotopion question was at the end of the interview.
 
-<blockquote>STEPHANOPOULOS: I have to ask you about a case that has shocked people both in the United States and here in Russia. The case of the seven-year-old boy. Si-- Siberian boy. Ardev Siveliev (PH) who was adopted-- in the United States, returned back alone with a note pinned to his chest saying, I can't keep him anymore. You're shaking your head. You know about this.
-
-MEDVEDEV: Certainly I know and that's terrible and that young boy, Artyom Savyelyev, he simply fell into a very bad family. You know I would not like to finish the interview with the conversation on such a complicated topic, but I would like to say couple of things. first of all , it is a monstrous deed on the part of his adoptive parents, to take the kid and virtually throw him out with the airplane in the opposite direction and to say, I'm sorry I could not cope with it, take everything back is not only immoral but also against the law. And secondly what is now of my special concern, is the fact that the quantity of such cases in America is on the rise. We did have a couple of deaths of the kids which were adopted by American parents recently. That case thank God was without a fatal end, and without any bodily injury or trauma. Our agency responsible for kids' rights did react already to that. And even the minister of the department.
-
-STEPHANOPOULOS: Your minister has suggested freezing-- freezing adoptions. Is that a good idea?
-
+<blockquote>STEPHANOPOULOS: I have to ask you about a case that has shocked people both in the United States and here in Russia. The case of the seven-year-old boy. Si-- Siberian boy. Ardev Siveliev (PH) who was adopted-- in the United States, returned back alone with a note pinned to his chest saying, I can't keep him anymore. You're shaking your head. You know about this.<br>
+<br>
+MEDVEDEV: Certainly I know and that's terrible and that young boy, Artyom Savyelyev, he simply fell into a very bad family. You know I would not like to finish the interview with the conversation on such a complicated topic, but I would like to say couple of things. first of all , it is a monstrous deed on the part of his adoptive parents, to take the kid and virtually throw him out with the airplane in the opposite direction and to say, I'm sorry I could not cope with it, take everything back is not only immoral but also against the law. And secondly what is now of my special concern, is the fact that the quantity of such cases in America is on the rise. We did have a couple of deaths of the kids which were adopted by American parents recently. That case thank God was without a fatal end, and without any bodily injury or trauma. Our agency responsible for kids' rights did react already to that. And even the minister of the department.<br>
+<br>
+STEPHANOPOULOS: Your minister has suggested freezing-- freezing adoptions. Is that a good idea?<br>
+<br>
 MEDVEDEV: You know any harsh decision is never either totally wrong or totally good. I believe considering that negative experience which has been accumulated in that department we should think with our American colleagues about some agreement between us about where the expectations which would outline very strongly the responsibilities of the parents which are taking the children from Russia, which will provide the monitoring opportunities of such a family. We should understand what is going on with our children, or we will totally refrain from the practice of adopting Russian children by American adoptive parents. I can only say we are alarmed by the tendency. This is very sad and I would like after the conversation with you, we would attract attention to that problem by American authorities. </blockquote>
 
 I can't say that I disagree with Medvedev there.  But really, there's already a process in place for that too.  At 6 months, 1 year, 2 years, and 3 years after a Russian adoption, you're required to have your same social worker visit, check up on things, and write up a report that gets sent back to Russia.  We just finished the visit for our 3-year report a couple of weeks ago.

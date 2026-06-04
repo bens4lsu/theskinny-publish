@@ -1,7 +1,7 @@
 ---
 title: Superbowl Numbers
 date: 2010-02-10 10:35
-description: A description of my post.
+description: You can read the boxscore for yourself, and you've seen about the TV ratings already.  Here are some stats that you'll only see on theskinny.
 tags: sports
 id: 719
 ---

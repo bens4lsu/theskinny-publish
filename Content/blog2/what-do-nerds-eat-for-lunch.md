@@ -1,7 +1,7 @@
 ---
 title: What do Nerds Eat for Lunch?
 date: 2010-02-02 10:16
-description: A description of my post.
+description: I just received this invite to a lunch today.  The emphasis in the message is mine.
 tags: the-office
 id: 713
 ---

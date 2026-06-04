@@ -1,7 +1,7 @@
 ---
 title: Rat a Tat
 date: 2010-04-28 11:54
-description: A description of my post.
+description: Here are the ideas that I had for blog posts this week.  I couldn't really make a go of any of them, so I'll just fire the topics out in a flurry of bullets.
 tags: uncategorized
 id: 787
 ---

@@ -1,19 +1,20 @@
 ---
 title: Wedding Wrapup
 date: 2010-05-29 08:55
-description: A description of my post.
+description: Until I got a text message reminding me, I completely forgot that I told my cousin's new husband, "I think it's great that you were willing to marry JJ, given her non-functioning male genitalia and all."
 tags: my-stories
 id: 805
+ogImg: gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100521_2832.JPG
 ---
 Until I got a text message reminding me, I completely forgot that I told my cousin's new husband, "I think it's great that you were willing to marry JJ, given her non-functioning male genitalia and all."
 
-So I think that makes up for the fact that I didn't take a picture of my junk with the disposable cameras at the reception.  But if this bothers you, it might be best to stop reading the recap now.  You can safely check out my pictures <a href="http://theskinnyonbenny.com/pgHome.php" onclick="window.open(&#39;http://theskinnyonbenny.com/pg3.php?spgmGal=061%20-%20JJ%20Wedding%20Weekend&#39;,&#39;061JJWeddingWeekend&#39;,&#39;width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no&#39;);">here</a>.
+So I think that makes up for the fact that I didn't take a picture of my junk with the disposable cameras at the reception.  But if this bothers you, it might be best to stop reading the recap now.  You can safely check out my pictures <a href="/gal/061%20-%20JJ%20Wedding%20Weekend/">here</a>.
 
-We had a good weekend up in beautiful West Monroe, Louisiana.  We arrived late Friday afternoon, and I complained about the 3 1/2 hour drive, realizing mid-complaint that everyone else in the conversation had driven for 8 or 10 or more hours, and with more kids.  I was really complaining about having to slow down to 45 and pass through one shitty little North Louisiana town after another, but I couldn't choke that part out.  So I just mentioned that my 3 1/2 hours felt more like 4, and that we hadn't even stopped at <a href="http://www.fattyscracklins.com/Home.html" target="_blank">Fatty's Cracklins</a> in Mississippi, despite the allure of the cartoon pig on their sign.
+We had a good weekend up in beautiful West Monroe, Louisiana.  We arrived late Friday afternoon, and I complained about the 3 1/2 hour drive, realizing mid-complaint that everyone else in the conversation had driven for 8 or 10 or more hours, and with more kids.  I was really complaining about having to slow down to 45 and pass through one shitty little North Louisiana town after another, but I couldn't choke that part out.  So I just mentioned that my 3 1/2 hours felt more like 4, and that we hadn't even stopped at <a href="https://web.archive.org/web/20100513182303/http://www.fattyscracklins.com/Home.html" target="_blank">Fatty's Cracklins</a> in Mississippi, despite the allure of the cartoon pig on their sign.
 
 (Just typing Fatty's Cracklins makes me need to go poop.  Hang on, and I'll come finish this post in a few minutes....)
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100521_2832.JPG" width="350px"></td></tr><tr><td class="caption" width="250">Just another afternoon at the compound.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100521_2832.JPG" data-lightview-caption="Just another afternoon at the compound." data-lightview-group="group1" ><img src="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100521_2832.JPG" alt="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100521_2832.JPG"><br><span class="caption">Just another afternoon at the compound.</span></a>
 
 Once upon a time, my grandparents bought this lot in West Monroe.  Back then, it was out in the country.  My mother finished her childhood there with her four sisters, and there's some dispute about who was responsible for taking the one-legged grandmother who also lived there to the bathroom.
 
@@ -35,7 +36,7 @@ Yes, my mother and aunts make pickles out of different pickles.  And now, I gues
 
 I think that there's a cookbook idea there, and I assigned my cousins the homework of coming up with recipes for snacks made out of other snacks.  I'm going to try to make pudding out of Chips Ahoy.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100522_2907.JPG"width="350px"></td></tr><tr><td class="caption" width="250">This is what happens when you bring babies to weddings.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100522_2907.JPG" data-lightview-caption="This is what happens when you bring babies to weddings." data-lightview-group="group1" ><img src="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100522_2907.JPG" alt="/img/gal/061%20-%20JJ%20Wedding%20Weekend/resIMG_20100522_2907.JPG"><br><span class="caption">This is what happens when you bring babies to weddings.</span></a>
 
 Saturday morning was more of the same.  After a long nap, we dressed, and went to the park for the wedding.  It was very nice, and then I sweated through my shirt dancing and drank the bar out of gin, which is usually a sign of a good reception.
 

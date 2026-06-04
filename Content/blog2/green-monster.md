@@ -1,7 +1,7 @@
 ---
 title: Green Monster
 date: 2010-05-04 17:17
-description: A description of my post.
+description: ALately, Vanya has been afraid to be on his own after dark, expressing fear of "The Green Monster."  Of course, I can't help but think of Fenway, and the part of my brain that thinks I'm raising a Yankees fan bothers me a great deal.
 tags: young-ruski
 id: 792
 ---

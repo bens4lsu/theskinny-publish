@@ -1,7 +1,7 @@
 ---
-title: Simon says try to make up a post about squirrels that uses the words "stinking ass"
+title: Simon Says Try to Make Up a Post about Squirrels That Uses the Words "Stinking Ass"
 date: 2010-05-27 23:14
-description: A description of my post.
+description: When you adopt a child, especially one from an orphanage in another country, you have an expectation of watching your sort of weak, sickly kid bat last in the batting order and get playing time only when the game is out of hand.  And that's a fine way to go through a sporting life.  I played baseball for many, many years before working my way out of the nine hole and right field, and I had fun all along the way.
 tags: animals,young-ruski
 id: 799
 ---

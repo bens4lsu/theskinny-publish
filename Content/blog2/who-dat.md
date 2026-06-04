@@ -1,7 +1,7 @@
 ---
 title: Who Dat
 date: 2010-01-26 23:45
-description: A description of my post.
+description: I have to admit, the Saints conference championship has been very moving to me.  I'm surprised to find myself a lot more affected than when LSU won either of their football championships.  Perhaps, in my mind, the Tigers were always a good team that would one day find their way back, while the Saints seemed to anyone to be one of those franchises destined to muddle through in mediocrity.
 tags: sports
 id: 702
 ---

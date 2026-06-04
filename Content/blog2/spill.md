@@ -1,7 +1,7 @@
 ---
 title: Spill
 date: 2010-05-14 23:00
-description: A description of my post.
+description: Every day, the headline on my local paper gives me an update on how the geologists and engineers are going to stem the flow of oil gushing into the Gulf of Mexico.  I know the engineers and the geologists brainstorming in a Houston conference room are smarter about these things than me, but when they're down to stuffing the hole full of tennis balls and used baby diapers, I think that maybe I could have come up with that suggestion in a shorter time span than three weeks.
 tags: current-events
 id: 795
 ---

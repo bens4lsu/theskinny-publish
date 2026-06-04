@@ -1,7 +1,7 @@
 ---
 title: Pants on the Ground
 date: 2010-01-28 14:26
-description: A description of my post.
+description: Did everyone get a gander at the giant hog on Greg Oden?
 tags: current-events
 id: 710
 ---

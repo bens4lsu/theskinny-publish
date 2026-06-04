@@ -1,15 +1,16 @@
 ---
 title: St. Patty's Wrapup
 date: 2010-03-19 08:55
-description: A description of my post.
+description: Hopefully, you all had a wonderful St. Patrick's Day.  After last year's cold rainy Saturday, God back around to loving the St. Patrick's Day parade in Baton Rouge.  We got our usual beautiful Saturday, where you can be cold in the morning and sunburned by evening.
 tags: my-stories
 id: 746
+ogImg: tomatillomary.jpg
 ---
 Hopefully, you all had a wonderful St. Patrick's Day.  After last year's cold rainy Saturday, God back around to loving the St. Patrick's Day parade in Baton Rouge.  We got our usual beautiful Saturday, where you can be cold in the morning and sunburned by evening.
 
 The only downside to the day was that Vanya came up sick, leading to a day spent mostly asleep and mostly miserable.  Because of this, I got not so much as a picture of his annual custom shirt, which this year read, "Irish sober people had adopted me."  It was further decorated with a couple of shamrocks, one of which was frowning.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/tomatillomary.jpg"></td></tr><tr><td class="caption" width="250">Tomatillo Marys are similar to a Bloody Mary, but they use fresh tomatillos instead of tomato juice.  With Mrs. theskinnyonbenny's, you can taste fresh cilantro and limes, and the pepper infused vodka gives it a kick.  I started my day with four of these.</td></tr></table>
+<a class="lightview alignright" href="/img/tomatillomary.jpg" data-lightview-caption="Tomatillo Marys are similar to a Bloody Mary, but they use fresh tomatillos instead of tomato juice.  With Mrs. theskinnyonbenny's, you can taste fresh cilantro and limes, and the pepper infused vodka gives it a kick.  I started my day with four of these." data-lightview-group="group1" ><img src="/img/tomatillomary.jpg" alt="/img/tomatillomary.jpg"><br><span class="caption">Tomatillo Marys are similar to a Bloody Mary, but they use fresh tomatillos instead of tomato juice.  With Mrs. theskinnyonbenny's, you can taste fresh cilantro and limes, and the pepper infused vodka gives it a kick.  I started my day with four of these.</span></a>
 
 I also came up with a t-shirt for myself:  "Irish you drunk motherfuckers would go home."  And for Mrs. theskinnyonbenny:  "Irish I was as clever as my husband."  Alas, the division of duties put her in charge of T-shirts, and she chose to forgo custom shirts for the adults.
 

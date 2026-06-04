@@ -211,7 +211,7 @@ struct Menu: Component {
                     }.class("li-pagelink todo")
                     ListItem {
                         Link("On Michael Jackson", url: "/x/michaelJackson")
-                    }.class("li-pagelink todo")
+                    }.class("li-pagelink")
                     ListItem {
                         Link("Daisy On Honor", url: "/x/daisyOnHonor")
                     }.class("li-pagelink todo")

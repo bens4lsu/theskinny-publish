@@ -1,7 +1,7 @@
 ---
 title: Crime Fighters
 date: 2010-02-18 16:08
-description: A description of my post.
+description: When I left for work today, Vanya was in the den, still in his pajamas, watching a Batman cartoon.  When I came by the house at lunchtime, the same episode of Batman was blaring, the volume through the stereo turned up to full blast.  I could hear the noisy action from the driveway as I got out of the car.  I may never know how the same episode got turned on hours later or how the volume got cranked to the max.
 tags: young-ruski
 id: 721
 ---

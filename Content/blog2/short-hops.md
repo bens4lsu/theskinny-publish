@@ -13,7 +13,7 @@ I don't know if <a href="/dailyphoto/2009/20090708/">today's pic</a> will do it 
 <p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 All Michael Jackson, all the time coverage continues.  I noticed that the top selling songs on Itunes have been all MJ songs for two weeks now.  I bet he's making more than he has in years.  His creditors will be grateful.
 
-Shelly wrote him <a href="/x/michaeljackson">an interesting obit right after the face</a>, which I've just gotten around to posting.
+Shelly wrote him <a href="/x/michaeljackson">an interesting obit right after the fact</a>, which I've just gotten around to posting.
 
 A wierd and fascinating dude, for sure.
 

@@ -1,8 +1,8 @@
 ---
 title: Good Dogs vs. Bad Dogs
 date: 2010-04-20 14:21
-description: A description of my post.
-tags: uncategorized
+description: On Thursday, Lily and Blossom bolted out the front door, as they are apt to do.  Several hours later, Blossom had returned, but Lily had not.  It was odd for Lily to not make it home, and a little distressing, as she was without her tags since her last bath.
+tags: animals
 id: 784
 ---
 On Thursday, Lily and Blossom bolted out the front door, as they are apt to do.  Several hours later, Blossom had returned, but Lily had not.  It was odd for Lily to not make it home, and a little distressing, as she was without her tags since her last bath.
@@ -13,7 +13,7 @@ Blossom spent Friday whining for her friend, and then we left for a weekend at t
 
 "Yeah, why?"
 
-"'Cause I'm a member of Lost and Found Hounds on Facebook, and there's a <a href="http://www.facebook.com/home.php?#!/group.php?gid=9064382809&v=wall&ref= mf" target="_blank">beagle there</a> who was caught running around Baton Rouge with a Basset Hound sidekick.  It says that the Basset Hound 'Was not detained.'"
+"'Cause I'm a member of Lost and Found Hounds on Facebook, and there's a beagle there who was caught running around Baton Rouge with a Basset Hound sidekick.  It says that the Basset Hound 'Was not detained.'"
 
 "Hmm, yeah, that sounds like Lily."
 

@@ -1,9 +1,10 @@
 ---
 title: I Guess I'll Go Clean the Yard Now
 date: 2010-01-21 10:23
-description: A description of my post.
-tags: my-stories
+description: Sunday night, I went outside to feed Blossom, and as I reached for her bowl, I stepped in a pile of dog poo.  I hit a big pile, and my foot landed on it so squarely that it sunk down into the poo, surrounding the bottom edge of the shoe, and threatening to suck it off of my foot as I tried to raise my leg.
+tags: my-stories, animals
 id: 694
+ogImg: 
 ---
 Sunday night, I went outside to feed Blossom, and as I reached for her bowl, I stepped in a pile of dog poo.
 

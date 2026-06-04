@@ -1,7 +1,7 @@
 ---
 title: The Night We Went to a Hot Dog Place
 date: 2010-05-20 17:03
-description: A description of my post.
+description: Last night, Mrs. theskinnyonbenny told Vanya to stop doing something or other.  He ran over to me, crying, and sobbed, "Mama, you don't love me anymore!"  That's how I'm feeling about my blog this month.  I've got nothing -- and I mean absolutely nothing -- new going on that would be at all interesting to anyone.  Not that this stops me from writing most other months, but for some reason, it is right now.
 tags: travel
 id: 797
 ---
@@ -31,4 +31,4 @@ There's a large menu with drinks that taste like anything you can imagine.  If y
 
 The night ended very, very late.  2:00?  3:00?  I'm not sure.  I know that Mary Ann freaked out that the cab driver had taken us to a different borough on the way back to our hotel (he had not), and I know that Mary Ann's alarm went off at 4:30 so that she could jump up, leave, and make it to the parade (she did not -- at least not for another hour or two).  
 
-It would have been nice to use this story to introduce a new site.  Mrs. theskinnyonbenny has promised to start publishing a blog about cocktails and bar/restaurant experiences on <a href="http://therotgutfiles.com">therotgutfiles.com</a>.  As you'll see if you follow the link, it just gets you back to my home page.  Please let her know that you want to start reading her work.
+It would have been nice to use this story to introduce a new site.  Mrs. theskinnyonbenny has promised to start publishing a blog about cocktails and bar/restaurant experiences on <a href="https://web.archive.org/web/20110208010123/http://therotgutfiles.com">therotgutfiles.com</a>.  As you'll see if you follow the link, it just gets you back to my home page.  Please let her know that you want to start reading her work.
