@@ -1,11 +1,11 @@
 ---
 title:  Be Like Mike
 date: 2010-10-14 10:19
-description: A description of my post.
+description: There's this old picture that used to sit in a frame in our house growing up.  I'm about five, my sister two or three.  We're in front of Mike the Tiger's cage wearing 70s winter coats that might look stylish again by now, but were certainly ugly while the picture was displayed through the 1980s.
 tags: animals
 id: 887
 ---
-There's this old picture that used to sit in a frame in our house growing up.  I'm about five, <a href="http://princesssparklepants.com" target="_blank">my sister</a> two or three.  We're in front of Mike the Tiger's cage wearing 70s winter coats that might look stylish again by now, but were certainly ugly while the picture was displayed through the 1980s.
+There's this old picture that used to sit in a frame in our house growing up.  I'm about five, <a href="https://web.archive.org/web/20100527234625/http://blog.princesssparklepants.com" target="_blank">my sister</a> two or three.  We're in front of Mike the Tiger's cage wearing 70s winter coats that might look stylish again by now, but were certainly ugly while the picture was displayed through the 1980s.
 
 The photographer tried to get us to face the camera, but young Sarah wouldn't stop looking at the tiger.  So to be helpful, I grabbed her head and twisted it nearly 180 degrees.  When the picture was snapped, her chubby little hands have a death grip on the chain link fence while her neck and torso are twisted around for the picture.
 
@@ -23,6 +23,6 @@ He stood up, waled away from me to a spot near a tree, and pissed about a quart 
 
 By then, there were a few moms with kids showing up to see the tiger.  Mike went for a swim in his pond, and he went up to each window to greet the kids.  In most spots, he even stood still behind the children for long enough that the moms could get pictures.  I started an iphone video and captured when he came up to greet me.  (This one is a lot better than the one that I posted to facebook.)
 
-<iframe src="http://player.vimeo.com/video/15808491?title=0&amp;portrait=0&amp;color=666698" width="600" height="337" frameborder="0"></iframe>
+<iframe width="664" height="374" src="https://www.youtube.com/embed/4NHisUwozEI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I watched him for a little while longer, and then it was time to go home.

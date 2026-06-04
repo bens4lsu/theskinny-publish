@@ -1,9 +1,10 @@
 ---
 title: Let Me Be a Grouchy Old Man in Peace
 date: 2010-10-05 16:37
-description: A description of my post.
+description: Unlike when I was a student, today's kids set up tailgate parties out amongst the fans and families spread all over campus.  It's a little ironic that the kids today don't have a good place to go drink without legal hassle, other than right out in the open next to traffic-directing policemen.
 tags: my-stories
 id: 883
+ogImg: blossom-tg.jpg
 ---
 Unlike when I was a student, today's kids set up tailgate parties out amongst the fans and families spread all over campus.  It's a little ironic that the kids today don't have a good place to go drink without legal hassle, other than right out in the open next to traffic-directing policemen.
 
@@ -11,7 +12,7 @@ In years past, I might complain about the music.  If it were me setting up the p
 
 For some reason, tailgaters love that "Calling Baton Rouge" song.  How I wish they had written "Calling Knoxville" or "Calling Tuscaloosa" so that it could blare throughout their campuses on Saturdays instead of ours.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td><img src="/img/blossom-tg.jpg"></td></tr><tr><td class="caption" width="250">Blossom sweats it out during a hot first weekend tailgate.</td></tr></table>
+<a class="lightview alignright" href="/img/blossom-tg.jpg" data-lightview-caption="Blossom sweats it out during a hot first weekend tailgate." data-lightview-group="group1" ><img src="/img/blossom-tg.jpg" alt="/img/blossom-tg.jpg"><br><span class="caption">Blossom sweats it out during a hot first weekend tailgate.</span></a>
 
 In all honesty, the music blaring around us this year hasn't been too bad.  But since I'm an old guy on a rocket-blast-screaming-full-tilt-shot toward grouchy old guy, they bug me by, well, bugging me.
 
@@ -23,7 +24,7 @@ On the other hand, lots of other people wanted to come talk to me about dogs.  I
 
 WHO CARES?  You'll never see this dog again.  Give her the piece of gristle that you got from your cheapo pre-made Piggly Wiggly hamburger patties and move along.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td><img src="/img/chickenwings.jpg"></td></tr><tr><td class="caption" width="250">Cheapo chicken wings from Piggly Wiggly.</td></tr></table>
+<a class="lightview alignright" href="/img/chickenwings.jpg" data-lightview-caption="Cheapo chicken wings from Piggly Wiggly." data-lightview-group="group1" ><img src="/img/chickenwings.jpg" alt="/img/chickenwings.jpg"><br><span class="caption">Cheapo chicken wings from Piggly Wiggly.</span></a>
 
 Even worse are the ones who want to tell me about their dogs.  I heard about current dogs.  I heard about dogs they had growing up.  Labs, beagles, breeds I can't picture.  And over and over, my brain was saying, "WHAT MAKES YOU THINK I GIVE TWO HAIRS FROM A SQUIRREL SCROTUM ABOUT YOUR DOG?"  I really could not have cared any less about their dogs.  I just wanted to eat my cheapo Piggly Wiggly meat and watch the football game that was on TV.
 
