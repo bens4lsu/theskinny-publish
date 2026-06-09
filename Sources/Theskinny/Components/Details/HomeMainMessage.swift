@@ -59,10 +59,10 @@ struct HomeMainMessage: Component {
     
     var body: Component {
         Div {
-//            mdContent
+            mdContent
 //            pgComponentGroup
 //            vgComponentGroup
-            boatComponentGroup
+//            boatComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")
     }
