@@ -1,7 +1,7 @@
 ---
 title: Tri
 date: 2010-06-17 15:40
-description: A description of my post.
+description: You may have noticed that a very high percentage of the blogs out there have turned into parents writing about their kids.  I know it's just not that interesting, but when you have a little kid, you just don't get out that much and find other amusing things to write about.  I don't think it's a stretch to say that the quality of American writing is worse just because it's such a pain in the ass getting a babysitter.
 tags: young-ruski
 id: 830
 ---
@@ -29,4 +29,4 @@ My favorite part was at the beginning of the run.  One of the volunteers handed 
 
 He stopped, drank it at leisure, and then carefully set the cup neatly and upright on the ground.
 
-<a onclick="window.open('/pg3.php?spgmGal=062%20-%20RocketKidz%20Triathlon%202010','062RocketKidzTriathlon2010','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');">My pics are here.</a>  Race results for the little kids are <a href="http://www.rocketkidzfoundation.com/results/2010%20ROCKET%20KIDZ%20ROOKIES%20TRI%203-4%20Overall%20RESULTS.HTM" target="_blank">here</a>.  Nice showing by the girls at the top of the heap, I noticed.
+[My pics are here](http://localhost:8000/gal/062%20-%20RocketKidz%20Triathlon%202010/).  Race results for the little kids are <a href="http://www.rocketkidzfoundation.com/results/2010%20ROCKET%20KIDZ%20ROOKIES%20TRI%203-4%20Overall%20RESULTS.HTM" target="_blank">here</a>.  Nice showing by the girls at the top of the heap, I noticed.

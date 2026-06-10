@@ -1,9 +1,10 @@
 ---
 title: Hooray for Dollywood! 
 date: 2010-08-10 22:24
-description: A description of my post.
-tags: travel
+description: On Tuesday, July 28, theskinnyonbenny family found ourselves in a rental house on a lake just West of Knoxville, Tennessee.  We were with the Linkin family, and it was this particular day that we had chosen to load four adults and four children into a single mini van, and take the scenic route to the east.  Our ultimate destination:  Dollywood.
+tags: travel, tennessee
 id: 847
+ogImg: dollywoodrain.jpg
 ---
 On Tuesday, July 28, theskinnyonbenny family found ourselves in a rental house on a lake just West of Knoxville, Tennessee.  We were with the Linkin family, and it was this particular day that we had chosen to load four adults and four children into a single mini van, and take the scenic route to the east.  Our ultimate destination:  Dollywood.
 
@@ -15,7 +16,7 @@ The directions that they gave were precise, but unfortunately, they were wrong. 
 
 We ended up with a wiz-bang parking spot, right by the bus station for the ride to the gate.  The man talking over the loud speaker reminded us that we were at station D/E, "LAK DI-MONDE EAR-RING."  (It will be tempting for me to continue to type words in Tennessee twang, but if you promise to read it in their accent, I'll stop with the typing.)
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/dollywoodrain.jpg"></td></tr><tr><td class="caption" width="250">Jake plays in the rainstorm while the rest of us wait under cover.</td></tr></table>
+<a class="lightview alignright" href="/img/dollywoodrain.jpg" data-lightview-caption="Jake plays in the rainstorm while the rest of us wait under cover." data-lightview-group="group1" ><img src="/img/dollywoodrain.jpg" alt="/img/dollywoodrain.jpg"><br><span class="caption">Jake plays in the rainstorm while the rest of us wait under cover.</span></a>
 
 At the gate, I gave the lady an American Express card for the first of about 600 times that day.  And each and every time, I was informed that they don't take that card.  Throughout the day, I kept handing it over, just to cause them a similar inconvenience to the one that they had caused me.
 
@@ -33,7 +34,7 @@ Yes friends, I actually went to Dollywood when I was nineteen.  Mrs. theskinnyon
 
 As we passed into the park, someone asked the kids if they knew who Dolly Parton was.  The oldest one is only ten, so naturally, they did not.  I chimed in to tell the kids that she is an entertainer, most famous for her country music singing and her big boobies.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/dollywoodkids2.jpg"></td></tr><tr><td class="caption" width="250">The kids after the day at the park.</td></tr></table>
+<a class="lightview alignright" href="/img/dollywoodkids2.jpg" data-lightview-caption="The kids after the day at the park." data-lightview-group="group1" ><img src="/img/dollywoodkids2.jpg" alt="/img/dollywoodkids2.jpg"><br><span class="caption">The kids after the day at the park.</span></a>
 
 Before we went on a ride, we stopped to feed everyone.  Be careful of ordering a large drink in Dollywood.  It's pretty close to a gallon of fluid.  Picture carrying a gallon milk jug all over the park, and you'll have some idea about what you're in for.
 
@@ -45,7 +46,7 @@ After the rain stopped, the badness went out of the day.  It was still only arou
 
 Brent and I spent the afternoon looking for the largest ankles on a woman that we could find.  Have you ever watched a football show where they show a rather close up view of a trainer wrapping a player's giant ankle?  We're talking about a 300 pound player, with an ankle that's swollen.  Those ankles wouldn't have made the top 20 biggest ankles of Dollywood on July 28, 2010.  We saw ankles with *rolls*.  Not just on one lady, but on several.  I don't think we could declare a firm winner, but there were four or five women whose ankles were the size of one of our kids' waists.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/dollywoodkids3.jpg"></td></tr><tr><td class="caption" width="250">The drive home.  Because of a critically low camera battery, I only got a handful of pictures from this day.  And only one of those includes any of the grown ups.  It didn't make the cut for this post, but when I get the whole photo set up on the <a href="/pgHome.php" target="_blank">photo gallery page</a>, it will be there.</td></tr></table>
+<a class="lightview alignright" href="/img/dollywoodkids3.jpg" data-lightview-caption="The drive home.  Because of a critically low camera battery, I only got a handful of pictures from this day.  And only one of those includes any of the grown ups.  It didn't make the cut for this post, but when I get the whole photo set up on the photo gallery page<, it will be there." data-lightview-group="group1" ><img src="/img/dollywoodkids3.jpg" alt="/img/dollywoodkids3.jpg"><br><span class="caption">The drive home.  Because of a critically low camera battery, I only got a handful of pictures from this day.  And only one of those includes any of the grown ups.  It didn't make the cut for this post, but when I get the whole photo set up on the photo gallery page<, it will be there.</span></a>
   
 On our way out of town, we stopped to eat, and I started to think.  If the population of the United States was replaced with just the population of Dollywood on July 29, 2010, the eight of us would be among the country's top one percent in both intelligence and beauty.  What a combo!  In that scenario, any of us could be president, Hollywood moguls, leaders of industry, or perhaps we would even be looked at as super heroes.  On the other hand, it would be a sad day for national diversity, as almost everyone there fit into the white protestant demographic.
 

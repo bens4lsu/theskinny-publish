@@ -1,8 +1,8 @@
 ---
 title: Quick Hello
 date: 2010-08-05 10:19
-description: A description of my post.
-tags: uncategorized
+description: So what happened?  The world isn't still making fun of Mel Gibson?  But I wasn't tired of it yet!
+tags: meta
 id: 845
 ---
 So what happened?  The world isn't still making fun of Mel Gibson?  But I wasn't tired of it yet!
