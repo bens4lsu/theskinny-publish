@@ -1,7 +1,7 @@
 ---
 title: Pecanland
 date: 2010-10-27 21:25
-description: A description of my post.
+description: I took the dogs for a walk today, and I wasn't the least bit surprised to see Lily poop out a pecan loaf.  Last night, when everyone had gone to bed, I flopped down on the couch to watch some bad college football, and I noticed that my two canine sidekicks weren't there with me.  I found them outside, shelling and eating a pecan feast.
 tags: animals
 id: 899
 ---

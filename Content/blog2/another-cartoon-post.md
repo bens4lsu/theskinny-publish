@@ -1,9 +1,10 @@
 ---
 title: Another Cartoon Post
 date: 2010-06-14 11:31
-description: A description of my post.
+description: Vanya is all-in on an initiative to talk like Looney Tunes.  For a couple of weeks, he's been known to throw out a "What's up Doc?" as he eats something that requires bringing hand to mouth.  It doesn't have to be a carrot.  A pretzel, slice of apple, or even a sandwich will do.
 tags: pop-culture,young-ruski
 id: 824
+ogImg: lameactionfigure.jpg
 ---
 Vanya is all-in on an initiative to talk like Looney Tunes.  For a couple of weeks, he's been known to throw out a "What's up Doc?" as he eats something that requires bringing hand to mouth.  It doesn't have to be a carrot.  A pretzel, slice of apple, or even a sandwich will do.
 
@@ -13,7 +14,9 @@ I'm looking forward to the inevitable "Sufferin Succatash", as well as Foghorn L
 
 While we're on the topic of cartoons, you may have seen this action figure on Mrs. theskinnyonbenny's Facebook page.  We took Vanya to Target on his Gotcha Day, with the mandate that we would get him any one toy that he wanted.  We played in there for probably an hour.  There were dozens of Toy Story toys (including a giant $100 Buzz who walked and talked via remote control), but we also played with all kinds of superheroes and robots.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/lameactionfigure.jpg"></td></tr><tr><td class="caption" width="250">Lamest Action Figure ever.  She's not even weighted in a way where it's possible to make her stand up.</td></tr></table>
+<a class="lightview alignright" href="/img/lameactionfigure.jpg" data-lightview-caption="Lamest Action Figure ever.  She's not even weighted in a way where it's possible to make her stand up.
+" data-lightview-group="group1" ><img src="/img/lameactionfigure.jpg" alt="/img/lameactionfigure.jpg"><br><span class="caption">Lamest Action Figure ever.  She's not even weighted in a way where it's possible to make her stand up.
+</span></a>
 
 There were several packs of three action figures called "DC Universe."  Except for one, all of those had three super heros.  The one that Vanya chose had Batman, a general, and an overweight black woman in a business suit.  It is perhaps the oddest package of action figures ever marketed.
 

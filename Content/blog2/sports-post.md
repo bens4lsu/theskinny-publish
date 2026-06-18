@@ -1,7 +1,7 @@
 ---
 title: Sports Post
 date: 2010-10-25 14:40
-description: A description of my post.
+description: The two NFL quaterbacks with the most interceptions are Favre and Brees.  Not such a surprise for Old Man Favre (and from now on, everyone with a four inch penis should refer to it as "Old Man Favre"), but it's just shocking to see Brees play so poorly.  Blame the Madden curse, blame the new baby with the terrible name (Bowen Brees sounds like a too-sweet fruity rum drink that you would order at a horrible all inclusive resort), but whatever it is, it's not so much fun to watch.
 tags: sports
 id: 897
 ---
