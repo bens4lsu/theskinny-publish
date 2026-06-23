@@ -1,7 +1,7 @@
 ---
 title: Hard Boiled Egg
 date: 2011-01-14 15:42
-description: A description of my post.
+description: One day, when I was in my early teens, I got a hankering for a hard-boiled egg.  Not sure why, but that's what I wanted.  Being the mollycoddled child that I was, I asked my mom to boil an egg for me.  I was rebuffed.
 tags: food,my-youth
 id: 980
 ---

@@ -16,7 +16,7 @@ Later, he asked to go again.  I gave him an okay, and in the course of climbing 
 
 Then I turned around, and he was standing right behind me with the Spiderman outfit on the floor, just watching the proceedings from mid-restaurant while standing their in his little drawers.  That's my boy, I suppose.
 
-The bug museum was as fun as I remembered it being, although the â€œtouch for yourselfâ€� part was a bowl full of maggots rather than the hissing cockroaches this time.  The spot where a huge spider comes out of the wall and scares people is always great fun, and I could have stood there and watched people startle all day long.
+The bug museum was as fun as I remembered it being, although the "touch for yourself" part was a bowl full of maggots rather than the hissing cockroaches this time.  The spot where a huge spider comes out of the wall and scares people is always great fun, and I could have stood there and watched people startle all day long.
 
 After the museum, we went  back to Slidell, locked the kids in a closet, and went for a delightful sail.  *Velvet Elvis* has been missing me.  I need to get out there and give her some love.  Hopefully, it will be a warm winter, and we'll get to voyage a lot.
 

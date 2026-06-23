@@ -1,7 +1,7 @@
 ---
-title: Who Came Over for Snack Time
+title: Who Came Over for Snack Time?
 date: 2011-04-11 09:14
-description: A description of my post.
+description: This morning, I was waiting for Vanya to come get in the bathtub while he made a morning poo.  When he got up from the toilet, he observed that it had come out green.
 tags: young-ruski
 id: 1011
 ---

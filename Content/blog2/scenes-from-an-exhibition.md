@@ -1,7 +1,7 @@
 ---
 title: Scenes From an Exhibition
 date: 2010-11-16 14:01
-description: The weekend before last, I worked harder than I ever have during a weekend.  We went to the Realtors' convention in New Orleans to launch <a href="http://mytechpurse.com">MyTechPurse</a>, which is (if you're listening search engines) the best place to find out how to build and maintain a great web site, integrate social media, and build an internet marketing strategy that works.  It's a must for any small business.
+description: The weekend before last, I worked harder than I ever have during a weekend.  We went to the Realtors' convention in New Orleans to launch MyTechPurse, which is (if you're listening search engines) the best place to find out how to build and maintain a great web site, integrate social media, and build an internet marketing strategy that works.  It's a must for any small business.
 tags: the-office,travel
 id: 915
 ---

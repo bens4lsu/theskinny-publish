@@ -1,7 +1,7 @@
 ---
 title: Primary Colors
 date: 2011-01-06 09:44
-description: A description of my post.
+description: If you have a little kid, you've probably suffered through little kid music.  It's part of the price of raising a child.  But there are degrees of bad little kid music, and I'm with you today to warn you away from the worst of the worst.
 tags: young-ruski,music-pop-culture
 id: 969
 ---
@@ -25,16 +25,16 @@ If you'd like to hear it, you can click the play button below.  But I'm warning 
 
 The lyrical laziness is unforgivable to me.  Verses jump from thought to thought with no reason at all.  There's no attempt to make the lines rhyme where they should.  And in one especially crappy case, they ignore an obvious rhyme in order to spit out garbage.  Here's what the song says:
 
-<blockquote>Red is the color found everywhere we look.
-Fruits and vehicles, even clothes we wear.
-Yellow is the color of the big, bright sun.
+<blockquote>Red is the color found everywhere we look.<br>
+Fruits and vehicles, even clothes we wear.<br>
+Yellow is the color of the big, bright sun.<br>
 Yellow bananas, and yellow hair too.</blockquote>
 
 Who says "yellow hair" anyway?  But disregarding that, they could have easily sang,
 
-<blockquote>Red is the color found everywhere we look.
-Fruits and vehicles, even clothes we wear.
-Yellow is the color of the big, bright sun.
+<blockquote>Red is the color found everywhere we look.<br>
+Fruits and vehicles, even clothes we wear.<br>
+Yellow is the color of the big, bright sun.<br>
 Yellow bananas, and also yellow hair.</blockquote>
 
 See how my alternative has the same crappy ideas, but at least the lines rhyme?

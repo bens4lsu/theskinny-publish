@@ -1,7 +1,7 @@
 ---
 title: Worst College Football Traditions
 date: 2011-01-11 16:57
-description: A description of my post.
+description: After last night's national championship game, ESPN went to Auburn, AL, to show us live footage of the fans covering the trees of Toomer's corner with toilet paper.
 tags: sports
 id: 977
 ---
@@ -21,7 +21,7 @@ Toomer's corner is the worst of the worst.  Here are the best and the worst coll
 		<td>Dogs on the field (Georgia, Texas A&M)</td>
 	</tr>
 	<tr>
-		<td>Dotting the I at Ohio State, LSU's pregame.  I know, it's hard to give credit to any nerdy band stuff, but these are the exceptions.  (And this isn't a tradition, but you should see <a href="http://www.youtube.com/watch?v=MREKsMPUdcg" target="_blank">Hawaii's stick figure performance</a>.)</td>
+		<td>Dotting the I at Ohio State, LSU's pregame.  I know, it's hard to give credit to any nerdy band stuff, but these are the exceptions.  (And this isn't a tradition, but you should see <a href="https://www.youtube.com/watch?v=HZ2dVKbAUIs" target="_blank">Hawaii's stick figure performance</a>.)</td>
 		<td>A band that plays anything from the Star Wars score.</td>
 	</tr>
 	<tr>
@@ -30,7 +30,7 @@ Toomer's corner is the worst of the worst.  Here are the best and the worst coll
 	</tr>
 	<tr>
 		<td>Calling the Hogs.  Best cheer in football, without a close second.</td>
-		<td><a href="http://www.youtube.com/watch?v=Nvyknw4VClE" target="_blank">Roll Tide</a></td>
+		<td><a href="https://www.youtube.com/watch?v=rTdXQyhjifY&pp=ygUJcm9sbCB0aWRl" target="_blank">Roll Tide</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>

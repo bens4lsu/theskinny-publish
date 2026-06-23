@@ -1,7 +1,7 @@
 ---
 title: Cox Sucks, Volume 1026
 date: 2011-02-15 10:28
-description: A description of my post.
+description: About six months ago, we got a letter from Cox telling us to come to their office and pick up some new gadgets that attach to our TIVO boxes.  The letter said we would need them in order to receive new features.  I dutifully went to the office, picked up the gadgets, and attached the first one to our TV.
 tags: my-stories
 id: 987
 ---

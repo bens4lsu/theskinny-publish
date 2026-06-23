@@ -1,15 +1,16 @@
 ---
 title: Mardi Gras Season
 date: 2011-03-03 11:13
-description: A description of my post.
+description: As I type this, I'm almost all the way through Carnival without having actually gone to a parade.  Tonight is Mrs. theskinnyonbenny's parade, so we will go catch that one along with whatever is rolling beforehand.  But that's not to say that it hasn't been busy.  This is the time of year where I'm all giddy and loving life, because the weather is warm but not too humid, the flowers are starting to bloom, and I can work, eat, and play entirely outside.
 tags: animals,my-stories
 id: 991
+ogImg: mutts2011.jpg
 ---
 As I type this, I'm almost all the way through Carnival without having actually gone to a parade.  Tonight is Mrs. theskinnyonbenny's parade, so we will go catch that one along with whatever is rolling beforehand.
 
 But that's not to say that it hasn't been busy.  This is the time of year where I'm all giddy and loving life, because the weather is warm but not too humid, the flowers are starting to bloom, and I can work, eat, and play entirely outside.
 
-Our season started with the Spanish Town ball, which <a onclick="window.open('/pg3.php?spgmGal=070%20-%20Spanish%20Town%20Ball%202011','070SpanishTownBall2011','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >you may have seen pictured</a>.  It is always a lot of fun, and this year was no exception.  We brought a full ice chest of booze down that afternoon, and left with a much lighter ice chest in a period of time that felt like about an hour but was probably closer to four.  Sharples and I probably took fifty pictures with strangers who liked our mermaid costumes on fat men.
+Our season started with the Spanish Town ball, which [you may have seen pictured](/gal/070%20-%20Spanish%20Town%20Ball%202011/).  It is always a lot of fun, and this year was no exception.  We brought a full ice chest of booze down that afternoon, and left with a much lighter ice chest in a period of time that felt like about an hour but was probably closer to four.  Sharples and I probably took fifty pictures with strangers who liked our mermaid costumes on fat men.
 
 We were smart that night and took a cab downtown.  Because mermaid costumes don't come with pockets, we carried no money or ID.  Amanda had one of our credit cards in case of some unthinkable emergency.  Then, many hours into the party, Sharples and Amanda were outside smoking.  Without warning, Amanda was outside smoking and Sharples was ass-over-head in a giant potted plant.  
 
@@ -22,7 +23,11 @@ Mrs. theskinnyonbenny and I waited around for a while.  When it was clear that t
 
 The next weekend was the dog parade.  We recycled the costume from a few years ago where Vanya was Tom Cruise and the dogs were hookers from Risky Business.  We went unrewarded on our first go-round, but V charmed <a href="http://www.wafb.com/Global/story.asp?S=469746" target="_blank">Diane Deaton</a>, and we took home the hardware for first place in the costumes this year.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/mutts2011.jpg"></td></tr><tr><td class="caption" width="250">Risky Business.  <a onclick="window.open('/pg3.php?spgmGal=071%20-%20Krewe%20of%20Mutts%202011','071KreweofMutts2011','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >There's a 30-pic gallery of all different pictures from Mutts this year.</a></td></tr></table>
+<a class="lightview alignright" href="/img/mutts2011.jpg" data-lightview-caption="Risky Business
+" data-lightview-group="group1" ><img src="/img/mutts2011.jpg" alt="/img/mutts2011.jpg"><br><span class="caption">Risky Business
+</span></a>
+
+[There's a 30-pic gallery of all different pictures from Mutts this year](/gal/071%20-%20Krewe%20of%20Mutts%202011/).
 
 We actually jumped the official parade and walked the route a few minutes ahead of the actual paraders.  After that, the humans in our group headed to one car while the dogs and I walked back to my Jeep.  Mrs. theskinnyonbenny had taken our bag of junk and our first prize back to the Jeep, so I had no scoop bag when Lily left a soft, stinking, giant turd in one of the yards.  We were too far to easily get to the Jeep and back, and there were a lot of other people around, so I didn't feel like I could leave it.  All I could think to do was to use one of my socks.  I figured it was ruined from walking the streets anyway, so I pulled it off and used it to scoop the hot pile of poo.
 

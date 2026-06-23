@@ -11,7 +11,7 @@ We continued with a fun day â€“ drinks, music, craft tents â€“ all tha
 
 <table class="alignright" width="340px"><tr><td><img src="/img/festival_face.jpg" alt="benny - the link to this image is f" width="320px" /></td></tr><tr><td class="caption">Festival Face</td></tr></table>
 
-On the way out of town, I mused, â€œIf we weren't filthy, I'd say let's go down to New Iberia for that place with the soft shell crab poboys that are so good.â€�  
+On the way out of town, I mused, "If we weren't filthy, I'd say let's go down to New Iberia for that place with the soft shell crab poboys that are so good."  
 
 This peaked Mrs. theskinnyonbenny's interest, but I didn't know the name of the place, whether it was open at night, or whether they even had soft shell crabs right now.  (Once, I went there and had to settle for an oyster po-boy.  Poor me.)
 
@@ -23,7 +23,7 @@ I came back to the table after a diaper change, and Vanya and Mrs. theskinnyonbe
 
 The impact was enough to knock over two full soft drinks, so ice and liquid gushed everywhere.  In short order, an employee showed up to mop, while I used napkins to brush ice and liquid into a giant trash can.  This process took forever.
 
-About that time, a stranger passed behind me and said, â€œExcuse me, I don't know if you're aware, but you're bleeding.â€�  Sure enough, my elbow was moving fast enough to break skin, and in the process of wiping up ice, I had smeared blood along the back of my arm from shirt sleeve to mid-forearm.  There were even a couple of puddles near the edge of the table near me.  I guess that's where I rested my elbow to reach across to the far side.  So the table cleanup continued.
+About that time, a stranger passed behind me and said, "Excuse me, I don't know if you're aware, but you're bleeding."  Sure enough, my elbow was moving fast enough to break skin, and in the process of wiping up ice, I had smeared blood along the back of my arm from shirt sleeve to mid-forearm.  There were even a couple of puddles near the edge of the table near me.  I guess that's where I rested my elbow to reach across to the far side.  So the table cleanup continued.
 
 <table class="alignright" width="340px"><tr><td><img src="/img/fanofshame.jpg" alt="benny - the link to this image is f" width="320px" /></td></tr><tr><td class="caption">The fan of shame blows under the table.</td></tr></table>
 

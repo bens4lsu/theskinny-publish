@@ -58,6 +58,7 @@ struct VEPegasusHome: Component {
                 H2("2026")
                 BlogPost(fullPath: "/velvet-elvis/pegasus/2026-spring-work.md").postShortBox
                 BlogPost(slug:"the-ditch").postShortBox
+                BlogPost(slug:"most-stressful-not-at-all-stressful-passage").postShortBox
             }
         }
     }

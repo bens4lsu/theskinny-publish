@@ -1,8 +1,8 @@
 ---
 title: Charmed
 date: 2011-03-24 10:28
-description: A description of my post.
-tags: uncategorized
+description: One time, I witnessed from a distance as my sister was riding her bike and got hit by a car, on her birthday.  I went home and enjoyed another piece of birthday cake before going back to see the emergency vehicles lined up at the site of the accident.  (In my defense, I honestly thought she had swerved to miss the car, mishandled the curb, and fell into a yard.)
+tags: my-youth, my-stories
 id: 1004
 ---
 This comment will make me seem 100 years old, but I'll put it in writing anyway.
@@ -13,7 +13,7 @@ Update:  Old married people are funny.  They start sharing a brain.  <a href="ht
 
 <img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
 
-One time, I witnessed from a distance as she was riding her bike and got hit by a car, on her birthday.  I went home and enjoyed another piece of birthday cake before going back to see the emergency vehicles lined up at the site of the accident.  (In my defense, I honestly thought she had swerved to miss the car, mishandled the curb, and fell into a yard.)
+One time, I witnessed from a distance as my sister was riding her bike and got hit by a car, on her birthday.  I went home and enjoyed another piece of birthday cake before going back to see the emergency vehicles lined up at the site of the accident.  (In my defense, I honestly thought she had swerved to miss the car, mishandled the curb, and fell into a yard.)
 
 I've got nothing else to add to this story; it's just something I look back on from time to time, and my callous response makes me chuckle.
 
