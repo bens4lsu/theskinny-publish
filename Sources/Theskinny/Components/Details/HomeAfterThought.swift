@@ -81,7 +81,7 @@ struct HomeAfterThought: Component {
                     }.class("divPostStuff")
                     Div {
                         Image("/img/video-thumbnails/ve-log-tn.jpg")
-                    }
+                    }.class("divPostThumbnail")
                 }.class("divPostFlexbox")
                 TopNavLinks(rightLinkInfo: LinkInfo(text: "interact with the map yourself", url: "./velvet-elvis/pegasus/log")).class("divPostEndLink")
             }.class("divPostShort")

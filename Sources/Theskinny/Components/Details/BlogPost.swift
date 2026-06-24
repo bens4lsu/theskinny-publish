@@ -128,7 +128,7 @@ struct BlogPost: Component {
                 }.class("divPostStuff")
                 Div {
                     self.imgForShortBox
-                }
+                }.class("divPostThumbnail")
             }.class("divPostFlexbox")
             TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: self.linkToFull)).class("divPostEndLink")
         }.class("divPostShort")

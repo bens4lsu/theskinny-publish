@@ -35,7 +35,7 @@ struct VEPegasusHome: Component {
                         }.class("divPostStuff")
                         Div {
                             Image("/img/video-thumbnails/ve-log-tn.jpg")
-                        }
+                        }.class("divPostThumbnail")
                     }.class("divPostFlexbox")
                     TopNavLinks(rightLinkInfo: LinkInfo(text: "interact with the map yourself", url: "./log")).class("divPostEndLink")
                 }.class("divPostShort")
