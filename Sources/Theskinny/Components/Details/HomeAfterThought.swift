@@ -79,7 +79,9 @@ struct HomeAfterThought: Component {
 
                         Div("Yet another page for the Velvet Elvis enthusiasts.  This is an interactive look at all of the places we've logged.")
                     }.class("divPostStuff")
-                    Image("/img/video-thumbnails/ve-log-tn.jpg")
+                    Div {
+                        Image("/img/video-thumbnails/ve-log-tn.jpg")
+                    }
                 }.class("divPostFlexbox")
                 TopNavLinks(rightLinkInfo: LinkInfo(text: "interact with the map yourself", url: "./velvet-elvis/pegasus/log")).class("divPostEndLink")
             }.class("divPostShort")

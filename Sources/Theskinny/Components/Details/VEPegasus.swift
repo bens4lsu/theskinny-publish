@@ -33,7 +33,9 @@ struct VEPegasusHome: Component {
     
                             Div("An interactive look at all of the places we've logged.  Most log points have both boat and wind information.")
                         }.class("divPostStuff")
-                        Image("/img/video-thumbnails/ve-log-tn.jpg")
+                        Div {
+                            Image("/img/video-thumbnails/ve-log-tn.jpg")
+                        }
                     }.class("divPostFlexbox")
                     TopNavLinks(rightLinkInfo: LinkInfo(text: "interact with the map yourself", url: "./log")).class("divPostEndLink")
                 }.class("divPostShort")

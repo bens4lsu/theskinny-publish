@@ -126,7 +126,9 @@ struct BlogPost: Component {
                     H3(self.dateString)
                     Div(self.description)
                 }.class("divPostStuff")
-                self.imgForShortBox
+                Div {
+                    self.imgForShortBox
+                }
             }.class("divPostFlexbox")
             TopNavLinks(rightLinkInfo: LinkInfo(text: "read", url: self.linkToFull)).class("divPostEndLink")
         }.class("divPostShort")
