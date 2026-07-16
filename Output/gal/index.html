@@ -199,6 +199,10 @@ Benny Elsewhere
         var i = document.getElementsByName(imgName)[0];
         i.src = eval (newImg + ".src");
     }</script>
+<script>    img202Normal = new Image;
+    img202Red = new Image;
+    img202Normal.src = "/img/gal/202%20-%20Florida%202026//data/normal.jpg";
+    img202Red.src = "/img/gal/202%20-%20Florida%202026//data/red.jpg";</script>
 <script>    img201Normal = new Image;
     img201Red = new Image;
     img201Normal.src = "/img/gal/201%20-%20Spring%20Weekends%202026//data/normal.jpg";
@@ -1003,6 +1007,10 @@ Benny Elsewhere
     <h2>The Photo Collections...</h2>
     <p>Click on any of the pictures in this part of the page to open the whole set of photos for that collection.  If this is your first trip in, give it a minute.  It may take this page a little while to load all of the pictures, but I like having one big giant list of my photo albums in one place.</p>
     <div class="pg-grid">
+        <div>
+            <a href="/gal/202%20-%20Florida%202026" onmouseover="chgImg ('i202','img202Red')" onmouseout="chgImg ('i202','img202Normal')">
+                <img src="/img/gal/202 - Florida 2026//data/normal.jpg" name="i202" class="pgHome-image-link"/></a>
+            <p class="caption">Florida 2026</p></div>
         <div>
             <a href="/gal/201%20-%20Spring%20Weekends%202026" onmouseover="chgImg ('i201','img201Red')" onmouseout="chgImg ('i201','img201Normal')">
                 <img src="/img/gal/201 - Spring Weekends 2026//data/normal.jpg" name="i201" class="pgHome-image-link"/></a>
