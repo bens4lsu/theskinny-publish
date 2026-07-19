@@ -62,7 +62,7 @@ I tried to draw his reaction, but I can't do it.  So I described his reaction to
 
 <a class="lightview centered" href="/img/noooooo.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/noooooo.jpg" alt="/img/noooooo.jpg"><br><span class="caption"></span></a>
 
-The Hardy Boys were not looking on concerned in the background.  I don't know why it would have added them.
+(The Hardy Boys were not looking on, concerned in the background.  I don't know why Gemini would have added them.)
 
 That capped this particular night, but it wasn't the night I really went hard.  I must have had an empty stomach, because on the last night in town, I had a couple of margaritas, and declared myself to be the King of Conch.  
 
@@ -70,7 +70,7 @@ That was the night at the Green Parrot, but from there, we went to lots and lots
 
 <a class="lightview centered" href="/img/newbestfriend.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/newbestfriend.jpeg" alt="/img/newbestfriend.jpeg"><br><span class="caption"></span></a>
 
-My memory picks up at 3:00 where I lift my head up after what was probably a short nap.  I'm in a chair and holding a pizza.  A stranger comes by and excitedly shouts, "It's the King of Conch," while giving me a high five.  (Thank you to Annika for getting me home safely.)
+My memory picks up at 3:00 AM where I lift my head up after what was probably a short nap.  I'm in a chair and holding a pizza.  A stranger comes by and excitedly shouts, "It's the King of Conch," while giving me a high five.  (Thank you to Annika for getting me home safely.)
 
 That's the way to leave a town!
 
