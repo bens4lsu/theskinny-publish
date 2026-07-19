@@ -1,21 +1,21 @@
 ---
 title: Key West Highlights
-date: 2026-07-10 17:45
-description: 
+date: 2026-07-18 17:45
+description: It's been a few weeks since we were in Key West, and so far, I've been pretty silent on that trip when it comes to these pages.  That's not because it was uneventful.  Oh no, it was eventful in spades.
 tags: travel, florida, key-west
-id: 2535
-ogImg: 
+id: 2536
+ogImg: noooooo.jpg
 ---
 
-
-
-It's been a few weeks since we were in Key West, and so far, I've been pretty silent on that trip when it comes to these pages.  That's not because it was uneventful.  Oh no, it was eventful in spades.
+It's been at least a few weeks since we were in Key West, and so far, I've been pretty silent on that trip when it comes to these pages.  That's not because it was uneventful.  Oh no, it was eventful in spades.
 
 But the other day, I was thinking of something from our trip, and I started laughing to myself.  Ko asked what I was laughing at, and when I told him, he got mad.
 
 "You're 54 years old.  You'd think that you stop acting like that at some point in your life."
 
 It's a pattern at this point -- when I travel with the kids in their 20s, I might have a night when I party too hard like the kids in their 20s.
+
+<a class="lightview centered" href="/img/gal/202%20-%20Florida%202026/resIMG_20260619_113515_727799257_18595577593056139_878288965744106939_n.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/202%20-%20Florida%202026/resIMG_20260619_113515_727799257_18595577593056139_878288965744106939_n.jpg" alt="/img/gal/202%20-%20Florida%202026/resIMG_20260619_113515_727799257_18595577593056139_878288965744106939_n.jpg"><br><span class="caption"></span></a>
 
 <a class="lightview alignright" href="/img/gal/202%20-%20Florida%202026/resIMG_20260618_171400_IMG_6330.jpg" data-lightview-caption="Like the cup says..." data-lightview-group="group1" ><img src="/img/gal/202%20-%20Florida%202026/resIMG_20260618_171400_IMG_6330.jpg" alt="/img/gal/202%20-%20Florida%202026/resIMG_20260618_171400_IMG_6330.jpg"><br><span class="caption">Like the cup from Amigos says...</span></a>
 
@@ -38,7 +38,7 @@ I'm going to save the obligatory boat fiasco and its subsequent fallout for a fu
 
 So none of that seems too embarrassing.  How about these?
 
-<>One night, everyone had disappeared, leaving just Camilla and me out on Duvall Street.  We went in to Irish Kevin's and sat at the bar.  The band was bringing pretty young people up on stage and pouring a shot of either Irish Whiskey or Tequila right into mouths.  
+One night, everyone had disappeared, leaving just Camilla and me out on Duvall Street.  We went in to Irish Kevin's and sat at the bar.  The band was bringing pretty young people up on stage and pouring a shot of either Irish Whiskey or Tequila right into mouths.  
 
 I told Camilla about how my sister's band would give the drunks tambourines so they could dance around and feel part of the show.  
 
@@ -58,15 +58,19 @@ I went up to the table and complimented the song the guy had requested from the 
 
 So I lifted my shirt and demanded "motorboat these tittes!"
 
-I tried to draw his reaction, but I can't do it.  So I described his reaction to Gemini, and I got back something relatively close:
+I tried to draw his reaction, but I can't do it.  So I described his reaction to Gemini, and after a few attempts, I got back something relatively close:
 
-*******
+<a class="lightview centered" href="/img/noooooo.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/noooooo.jpg" alt="/img/noooooo.jpg"><br><span class="caption"></span></a>
+
+The Hardy Boys were not looking on concerned in the background.  I don't know why it would have added them.
 
 That capped this particular night, but it wasn't the night I really went hard.  I must have had an empty stomach, because on the last night in town, I had a couple of margaritas, and declared myself to be the King of Conch.  
 
 That was the night at the Green Parrot, but from there, we went to lots and lots of others.  I'm missing some memories.  Just this week, I found this exchange from that night with someone named Tristan, who I assume is my best friend now.
 
-My memory picks up at 3:00 where I lift my head up after what was probably a short nap.  I'm in a chair and holding a pizza.  A stranger comes by and excitedly shouts, "It's the King of Conch," while giving me a high five.
+<a class="lightview centered" href="/img/newbestfriend.jpeg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/newbestfriend.jpeg" alt="/img/newbestfriend.jpeg"><br><span class="caption"></span></a>
+
+My memory picks up at 3:00 where I lift my head up after what was probably a short nap.  I'm in a chair and holding a pizza.  A stranger comes by and excitedly shouts, "It's the King of Conch," while giving me a high five.  (Thank you to Annika for getting me home safely.)
 
 That's the way to leave a town!
 
