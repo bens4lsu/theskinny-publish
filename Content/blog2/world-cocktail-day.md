@@ -1,11 +1,11 @@
 ---
 title: World Cocktail Day
 date: 2011-05-18 12:47
-description: A description of my post.
+description: Friday night, we went to a fundraising event at the Museum of the American Cocktail.  Mrs. theskinnyonbenny has been a member of the museum for some time, and I was glad to get a chance to go.  On the way in, I asked what the fundraiser was for.
 tags: my-stories
 id: 1044
 ---
-Friday night, we went to a fundraising event at the <a href="http://www.museumoftheamericancocktail.org/" target="_blank">Museum of the American Cocktail</a>.  Mrs. theskinnyonbenny has been a member of the museum for some time, and I was glad to get a chance to go.
+Friday night, we went to a fundraising event at the <a href="https://en.wikipedia.org/wiki/The_Museum_of_the_American_Cocktail" target="_blank">Museum of the American Cocktail</a>.  Mrs. theskinnyonbenny has been a member of the museum for some time, and I was glad to get a chance to go.
 
 On the way in, I asked what the fundraiser was for.
 

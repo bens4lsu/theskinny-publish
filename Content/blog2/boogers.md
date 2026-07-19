@@ -1,8 +1,8 @@
 ---
 title: Boogers
 date: 2011-05-11 11:11
-description: A description of my post.
-tags: animals,young-ruski
+description: This morning, I blew my nose, and disposed of what came out.  Except for one giant booger which hitched itself to the coller of my t-shirt, where I couldn't see it.
+tags: animals,young-ruski, favorites
 id: 1042
 ---
 For the past week or so, I've been blowing giant boogers.

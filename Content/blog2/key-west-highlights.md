@@ -74,7 +74,7 @@ My memory picks up at 3:00 AM where I lift my head up after what was probably a 
 
 That's the way to leave a town!
 
-[More pics](http://localhost:8000/gal/202%20-%20Florida%202026/)
+[More pics](/gal/202%20-%20Florida%202026/)
 
 
 

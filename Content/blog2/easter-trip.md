@@ -1,7 +1,7 @@
 ---
 title: Easter Trip
 date: 2011-04-28 18:55
-description: A description of my post.
+description: This weekend, we set sail for what is an annual tradition.  We get on Velvet Elvis, and cruise for Easter.  Where we go is a function of wind and weather.  We sometimes anchor and enjoy the solitude of a quiet private marsh; we sometimes tie up in another town and enjoy their hospitality.
 tags: young-ruski,sailing
 id: 1030
 ---
@@ -11,9 +11,7 @@ On Saturday, we scrubbed the trip just an hour or so into it.  The wind was fier
 
 When we were far enough out into the lake to make a turn, pass under a bridge, and try to make toward a destination, the waves were huge and confused.  They rolled our little boat from side to side, and they pitched us back and forth.  I don't want our little one to think our Easter trip is a frightful experience to be dreaded like hellfire, so I brought us all back in.
 
-So, we had to do a shore-bound Easter.  The Easter bunny didn't necessarilly know where to find Vanya, so he left the basket aboard, as usual.  He found it very quickly after getting out of bed.  (Stick with this video for a little bit.  It gets better.)
-
-<iframe src="http://player.vimeo.com/video/22924722?title=0&amp;byline=0&amp;portrait=0&amp;color=666698" width="500" height="281" frameborder="0"></iframe>
+So, we had to do a shore-bound Easter.  The Easter bunny didn't necessarilly know where to find Vanya, so he left the basket aboard, as usual.  He found it very quickly after getting out of bed. 
 
 Sunday was calmer, and I sailed hard and long that day.  But we didn't leave overnight, because the Monday forecast was even worse that Saturday's.  If we had gone somewhere, we would have had no choice but to wait extra days, or go back through the bad stuff.
 

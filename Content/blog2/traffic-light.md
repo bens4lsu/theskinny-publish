@@ -4,13 +4,15 @@ date: 2011-05-27 14:39
 description: A description of my post.
 tags: my-stories
 id: 1046
+ogImg: light.jpg
 ---
 I'm sure that everyone has had the fantasy of a gadget that would change the traffic lights from red to green as they pulled up to the intersection.
 
 I didn't know it until today, but there actually is such a thing.
 
 I was the first car at a busy intersection.  I waited through the cycle, and my light turned green.  I took my foot off of the gas, and my Jeep started to lurch into the intersection.  When I looked up, the light was yellow.  I stopped, and then I noticed that an ambulance was making its way into the intersection.
-<table cellpadding="2" align="left"><tr><td width="250" ><img src="/img/light.jpg"></td><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td></tr><tr><td class="caption" width="250">What else is going on with all of this equipment at the top of the street light/traffic signal tower?</td></tr></table>
+
+<a class="lightview alignright" href="/img/light.jpg" data-lightview-caption="What else is going on with all of this equipment at the top of the street light/traffic signal tower?" data-lightview-group="group1" ><img src="/img/light.jpg" alt="/img/light.jpg"><br><span class="caption">What else is going on with all of this equipment at the top of the street light/traffic signal tower?</span></a>
 
 The light went from Go to left arrow go, and sure enough, the amulance was turning left.  So whatever they have is smart enough so that the ambulance people can indicate which way they want to go.
 

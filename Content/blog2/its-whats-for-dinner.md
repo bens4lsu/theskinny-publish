@@ -1,7 +1,7 @@
 ---
 title: It's What's for Dinner
 date: 2011-04-29 13:42
-description: A description of my post.
+description: So theskinnyonbenny.com hereby declares this a researched and factual statement:  Washington Redskins owner Dan Snyder eats the flesh of aborted fetuses.
 tags: sports
 id: 1035
 ---
@@ -11,18 +11,6 @@ All of this led to a huge amount of traffic that the paper would have never othe
 
 So theskinnyonbenny.com hereby declares this a researched and factual statement:
 
-<div style="padding-left:5em; font-weight:bold">Washington Redskins owner Dan Snyder eats the flesh of aborted fetuses.</div>
+**Washington Redskins owner Dan Snyder eats the flesh of aborted fetuses.**
 
-<div style="display:block; margin:auto, 0;"><script type="text/javascript"><!--
-google_ad_client = "pub-1497280171123826";
-/* 468x60, created 4/29/11 */
-google_ad_slot = "7818831644";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-<div style="padding-top:45px">{ok, Google, you botched my joke.  There should be an advertisement in the blank space above.  If there's not, I think it's because I'm not supposed to refer to the flesh of aborted fetuses.  Crap, now I've mentioned it twice.  Surely this will never work.  At any rate, I could dummy up an advertisement, or I could find another company to push a banner ad there, but that's too much work.  Sorry for the failed attempt. }</div>
+(Ok, Google, you botched my joke.  There should be an advertisement in the blank space above.  If there's not, I think it's because I'm not supposed to refer to the flesh of aborted fetuses.  Crap, now I've mentioned it twice.  Surely this will never work.  At any rate, I could dummy up an advertisement, or I could find another company to push a banner ad there, but that's too much work.  Sorry for the failed attempt. )
