@@ -21,6 +21,6 @@ Now for my proposal, and this one is going to make the whole calendar a lot bett
 
 I've got four baseball games on the screen.  T-Mobile had a promotion where they pay for the MLB.com subscription, so I've never watched so much baseball.  I catch the Reds about once a week.  I watch LSU players go when I find them.  I like to watch Ohtani when he's on the mound.  Get that knee better soon, Shohei.
 
-But I don't care 1/10th as much as I would if say Navy and Rice were getting ready to kick off.  My plan gives those smaller conferences the chip to bargain for much increased TV rights contracts, which would give those programs and those players much needed funding.  Most importantly, it gives us something to watch in August.
+But I don't care 1/10th as much as I would if, say, Navy and Rice were getting ready to kick off.  My plan gives those smaller conferences the chip to bargain for much increased TV rights contracts, which would give those programs and those players much needed funding.  Most importantly, it gives us something to watch in August.
 
 Let's make this happen.
