@@ -1,7 +1,7 @@
 ---
 title: The "Louisiana Science Education Act" mandated the removal of science from Science classes
 date: 2011-04-26 14:53
-description: A description of my post.
+description: This is a rally at the Louisiana State Capitol in support of SB 70, a bill sponsored by Senator Karen Carter Peterson to repeal the creationist Louisiana Science Education Act, which was passed in 2008. Come show your support!
 tags: current-events
 id: 1026
 ---
@@ -13,8 +13,8 @@ LA State Capitol
 
 This is a rally at the Louisiana State Capitol in support of SB 70, a bill sponsored by Senator Karen Carter Peterson to repeal the creationist Louisiana Science Education Act, which was passed in 2008. Come show your support!
 
-Visit <a href="http://www.repealcreationism.com/" target="_blank">www.repealcreationism.com</a> for more information about this effort. 
-Click <a href="https://www.facebook.com/event.php?eid=209023669116019&index=1" target="_blank">here</a> for more information about this event.</blockquote>
+Visit <a href="http://web.archive.org/web/20110515132539/http://www.repealcreationism.com/" target="_blank">www.repealcreationism.com</a> for more information about this effort. 
+</blockquote>
 
 If you've read for long, you understand that I'm not particularly interested in politics.  And I'm especially uninterested in *your* politics.  But we should agree that it's shameful that a high school student feels the need to petition his state legislature so that his science class can be free to teach, uhm, actual science.
 

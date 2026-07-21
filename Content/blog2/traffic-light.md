@@ -1,7 +1,7 @@
 ---
 title: Traffic Light
 date: 2011-05-27 14:39
-description: A description of my post.
+description: I'm sure that everyone has had the fantasy of a gadget that would change the traffic lights from red to green as they pulled up to the intersection.  I didn't know it until today, but there actually is such a thing.
 tags: my-stories
 id: 1046
 ogImg: light.jpg
