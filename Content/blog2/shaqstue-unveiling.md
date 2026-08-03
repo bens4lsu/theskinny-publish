@@ -1,9 +1,10 @@
 ---
 title: Shaqstue Unveiling
 date: 2011-09-12 13:50
-description: A description of my post.
-tags: my-stories
+description: Gymnastics was at 6:00 on Thursday, and that coincided with the time of the unveiling of the Shaqstue, which was happening in the parking lot shared by the Field House (location of gymnastics) and the basketball practice building.  I went outside to watch the unveiling.
+tags: sports, young-ruski, favorites
 id: 1128
+ogImg: shaqstue2.jpg
 ---
 Thursday afternoon of last week, I was set to take V to his gymnastics class.  He was stir crazy, so we left early, taking his bike to the park to ride around for a bit before class.
 
@@ -35,12 +36,13 @@ Gymnastics was at 6:00 on Thursday, and that coincided with the time of the unve
 
 LSU has some official photos and video of the event that are better than mine, but I had a pretty good spot.
 
-<img src="/img/shaqstue1.jpg" alt="shaqstue1" />
+<a class="lightview centered" href="/img/haqstue1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/haqstue1.jpg" alt="/img/haqstue1.jpg"><br><span class="caption"></span></a>
 
-<img src="/img/shaqstue2.jpg" alt="shaqstue1" />
+<a class="lightview centered" href="/img/shaqstue2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/shaqstue2.jpg" alt="/img/shaqstue2.jpg"><br><span class="caption"></span></a>
 
 Shaq, with his mother and Dale Brown.
-<img src="/img/shaqstue3.jpg" alt="shaqstue1" />
+
+<a class="lightview centered" href="/img/shaqstue3.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/shaqstue3.jpg" alt="/img/shaqstue3.jpg"><br><span class="caption"></span></a>
 
 There were all kinds of former players at the event, especially Shaq's teammates, who are my favorites, being the team that played when I was a student.  (I don't think Chris Jackson made it, though.)
 

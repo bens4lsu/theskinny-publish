@@ -1,8 +1,8 @@
 ---
 title: Teaser
 date: 2011-08-03 10:47
-description: A description of my post.
-tags: travel
+description: Have you ever come back from a nice dinner to find a friend in the pool out back, naked as a jaybird, and both hands over his head, one holding a rusty machete and the other holding an open bottle of Patron?
+tags: travel, bahamas
 id: 1098
 ---
 Have you ever come back from a nice dinner to find a friend in the pool out back, naked as a jaybird, and both hands over his head, one holding a rusty machete and the other holding an open bottle of Patron?

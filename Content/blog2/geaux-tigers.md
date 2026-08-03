@@ -1,7 +1,7 @@
 ---
 title: Geaux Tigers
 date: 2011-08-25 17:52
-description: A description of my post.
+description: Willie Lyles, Parkinson's, star receiver makes himself ineligible with some violation that we don't understand, probation because of a years-ago violation recruiting a player who LSU refused to take because of said violation, and oh yeah, I heard something about a fight at a bar.
 tags: sports
 id: 1119
 ---

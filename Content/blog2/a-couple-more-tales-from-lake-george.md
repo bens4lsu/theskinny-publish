@@ -2,10 +2,11 @@
 title: A Couple More Tales From Lake George
 date: 2011-08-19 11:50
 description: A description of my post.
-tags: travel
+tags: travel, lake-george, new-york
 id: 1100
+ogImg: /gal/075%20-%20Lake%20George%202011/resIMG_20110627_5908.JPG
 ---
-Last time I wrote about our trip to upstate New York, I concluded by saying that I had more videos, pictures, and stories.  You may have seen <a onclick="window.open('/pg3.php?spgmGal=075%20-%20Lake%20George%202011','075LakeGeorge2011','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >the pictures</a>, and <a href="http://theskinnyonbenny.com/vMain.php?albumID=1671571">videos are here</a> (although the best of them are embedded in this post).  That just leaves us with stories to tell.
+Last time I wrote about our trip to upstate New York, I concluded by saying that I had more videos, pictures, and stories.  You may have seen <a href="/gal/075%20-%20Lake%20George%202011/" >the pictures</a>, and <a href="/video-albums/lake-george-ny-june-2011/">videos are here</a> (although the best of them are embedded in this post).  That just leaves us with stories to tell.
 
 That just leaves us with stories, and one story is important for context before we get to the video.
 
@@ -19,17 +20,17 @@ One of the most memorable things we did is to go to these particular cliffs, and
 
 We went two different days.  Here's my jump the second time that we went.
 
-<iframe src="http://player.vimeo.com/video/26141649?title=0&amp;byline=0&amp;portrait=0" width="651" height="488" frameborder="0"></iframe>
+<iframe width="664" height="498" src="https://www.youtube.com/embed/OYN77UzxhNc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Crystal's jump was the funniest.  I think she was scared about drifting back into the face of the cliff, so she prevented that by just running down.  I don't know how to describe it, except to say that it's something you might see the Coyote in Looney Tunes do.  Watch for yourself.
 
-<iframe src="http://player.vimeo.com/video/26165295?title=0&amp;byline=0&amp;portrait=0" width="651" height="366" frameborder="0"></iframe>
+<iframe width="664" height="374" src="https://www.youtube.com/embed/LWHzQPLDHIw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 One day, we were all the way down at the far end of the lake -- probably 20-30 miles from home, and the boat wouldn't start.  Brent took the kids up into the town of Lake George to find a restroom.  They found a spot at an Italian restaurant, and he was nervous that they guy wouldn't let the kids go, because we weren't customers.
 
 Instead, he couldn't have been nicer.  "Come on in, my friend.  No worries.  I have kids too; I know how it is."  His kindness made a great impression, and one day, we tried to go back to his restaurant for lunch, but unfortunately, or day back was a day that they are closed for lunch.  
 
-And what happens to nice guys?  <a href="http://www.fox23news.com/mostpopular/story/Pizza-shop-owner-former-Siena-soccer-coach-arrest/M6gzgz8j2Um8WENC6guG7Q.cspx" target="_blank">This</a>.  No shit.  
+And what happens to nice guys?  <a href="https://www.timesunion.com/local/article/Ex-Siena-soccer-coach-hit-with-drug-charge-1471515.php" target="_blank">This</a>.  No shit.  
 
 I guess it's not entirely surprising to find drug dealers in upstate New York, but it did surprise me to find a healthy number of rednecks.  The most Louisiana-worthy was a guy who at 10:00 at night stumbled drunk out of a convenience store.  He saw that we saw him miss the step on the way out, so he came over to the car to chat.  The slurred coversation about what fish are biting would have been right out of North Louisiana Stereotype Casting.
 
@@ -47,4 +48,4 @@ It would have remained awkward, but there was too much laughing.  And it turned 
 
 I'll close with this last video of us trying to make our way up the lake to get home before darkness set in.
 
-<iframe src="http://player.vimeo.com/video/26167717?title=0&amp;byline=0&amp;portrait=0" width="651" height="366" frameborder="0"></iframe>
+<iframe width="664" height="374" src="https://www.youtube.com/embed/czIlk7CZ7IY" title="Evening Boat Tour of Lake George" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
