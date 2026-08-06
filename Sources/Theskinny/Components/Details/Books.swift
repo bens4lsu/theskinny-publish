@@ -21,7 +21,11 @@ struct Book: Component {
         guard let rating = grbook.myRating else {
             return ""
         }
-        return String(repeating: "⭐️", count: Int(rating))
+        var halfString = ""
+        if rating.truncatingRemainder(dividingBy: 1) == 0.5 {
+            halfString = "½"
+        }
+        return String(repeating: "⭐️", count: Int(rating)) + halfString
     }
     
     var audiobookIndicator: Component {

@@ -27,17 +27,17 @@ class GoodreadsData {
         }
     }
     
-    class GoodreadsBook: Comparable {
+    class GoodreadsBook: Comparable, CustomStringConvertible {
         
         let bookId: Int
         let title: String
         let author: String
-        let myRating: UInt8?
+        let myRating: Double?
         let dateRead: Date
         let howConsumed: GoodreadsHowConsumed
         let myReview: String?
         
-        init(bookId: Int, title: String, author: String, myRating: UInt8?, dateRead: Date, howConsumed: GoodreadsHowConsumed, myReview: String?) {
+        init(bookId: Int, title: String, author: String, myRating: Double?, dateRead: Date, howConsumed: GoodreadsHowConsumed, myReview: String?) {
             self.bookId = bookId
             self.title = title
             self.author = author
@@ -45,6 +45,10 @@ class GoodreadsData {
             self.dateRead = dateRead
             self.howConsumed = howConsumed
             self.myReview = myReview
+        }
+        
+        var description: String {
+            "{\(title)  (\(author))  \(dateRead)  \(String(myRating ?? -99.9))}"
         }
         
         static func < (lhs: GoodreadsData.GoodreadsBook, rhs: GoodreadsData.GoodreadsBook) -> Bool {
@@ -92,7 +96,7 @@ class GoodreadsData {
                 let book = GoodreadsBook(bookId: bookId,
                                          title: title,
                                          author: author,
-                                         myRating: UInt8(ratingString),
+                                         myRating: Double(ratingString),
                                          dateRead: date,
                                          howConsumed: howConsumed,
                                          myReview: row["My Review"]
@@ -100,6 +104,7 @@ class GoodreadsData {
                 books.append(book)
             }
         }
+        //print(books)
         return books.sorted()
     }()
 }
