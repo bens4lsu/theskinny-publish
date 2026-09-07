@@ -1,7 +1,7 @@
 ---
 title: A Couple More Tales From Lake George
 date: 2011-08-19 11:50
-description: A description of my post.
+description: I've got more stories about the New York Stat trip, plus lots of pictures and videos linked here.
 tags: travel, lake-george, new-york
 id: 1100
 ogImg: /gal/075%20-%20Lake%20George%202011/resIMG_20110627_5908.JPG

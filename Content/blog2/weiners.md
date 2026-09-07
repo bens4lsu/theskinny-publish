@@ -1,7 +1,7 @@
 ---
 title: Weiners
 date: 2011-06-11 06:45
-description: A description of my post.
+description: When I hear of a celebrity's texted/twittered penis pic, I usually check it out.  Sure, you can call me names, but I think you're probably checking too.  Greg Oden, Santonio Holmes, and now Anthony Weiner, covered though it was with stylish drawers.  I'm a lightweight-expert at public figures who are just a little too proud of their wangs.
 tags: current-events
 id: 1063
 ---

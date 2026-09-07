@@ -1,7 +1,7 @@
 ---
 title: From This Year's DC Trip
 date: 2011-08-11 09:00
-description: A description of my post.
+description: Theskinnyonbenny family had one long, full day to be tourists in Washington D.C this summer.  We did the normal wandering around of governmental buildings and monuments.  
 tags: travel,young-ruski
 id: 1103
 ogImg: gal/074%20-%20Washington%20DC%202011/resIMG_20110624_5768.JPG

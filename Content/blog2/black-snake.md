@@ -1,22 +1,18 @@
 ---
 title: Black Snake
 date: 2011-06-16 21:42
-description: A description of my post.
+description: Are we entering a new golden age of music?  For the past 10 years or so, I could count on one new album every 12-18 months that would really, really get me excited.  Albums that were new, creative, great, and instantly excellent.
 tags: music-pop-culture
 id: 1067
+ogImg: albumcovers/Scandalous.png
 ---
 Are we entering a new golden age of music?  For the past 10 years or so, I could count on one new album every 12-18 months that would really, really get me excited.  Albums that were new, creative, great, and instantly excellent.
 
-
-<div style="float:left;margin:0 2em 0 0;"><iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=theskinnyonbe-20&o=1&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B004Q8HJO2" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/scandalous-deluxe-version/1443290677"></iframe>
 
 But lately, I'm getting that excited every two or three months.  My latest purchase is the absolute cream of the crop.  I heard Black Joe Lewis and the Honeybears do a live session on one of the satellite channels a month or so ago.  I didn't catch it all, but it was one great song after another.  I made a mental note, and then forgot it for a while.
 
 But then, it came back to me, and am I ever glad it did.  My favorite track on the album I downloaded is "Black Snake."  Check it out before owner of the song makes me take it down.
-
-<script type="text/javascript" src="http://mediaplayer.yahoo.com/js"></script><a href="/sound/BlackSnake.mp3">Black Snake</a>
-
-(Also, if you don't see a link to the left of this text where you can buy the album, consider clicking on your ad-block button and showing the ads from theskinnyonbenny.com.  I promise they're rare, and that they're topical.)
 
 Let's consider a hypothetical situation.
 

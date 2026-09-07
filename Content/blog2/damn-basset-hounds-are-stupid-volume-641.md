@@ -1,7 +1,7 @@
 ---
 title: Damn, Basset Hounds are Stupid, Volume 641
 date: 2011-09-29 14:38
-description: A description of my post.
+description: This afternoon, I stepped outside to make a phone call.  Not because I needed to have a private conversation.  I was the only one home.  I went outside, because AT&T can't find a way to provide a wireless signal that reaches into my house.  I couldn't live in a more central, busy part of town, by the way.
 tags: animals
 id: 1139
 ---

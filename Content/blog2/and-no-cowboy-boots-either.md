@@ -1,8 +1,8 @@
 ---
 title: And No Cowboy Boots Either
 date: 2011-06-06 13:14
-description: A description of my post.
-tags: young-ruski
+description: Funny kid story.
+tags: young-ruski, short
 id: 1055
 ---
 I woke up Vanya this morning.  He started to talk on the way down the stairs.

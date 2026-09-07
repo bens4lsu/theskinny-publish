@@ -1,7 +1,7 @@
 ---
 title: Customer Service Email
 date: 2011-09-13 11:29
-description: A description of my post.
+description: I guess I'll fess up and admit that I've been blog cheating on you guys, but so far, I've only been doing it a little bit.  I've got two new blogs up, and neither of them is really meant to shed any insight on my life, or even to entertain.  So if you're a regular reader here, you won't be interested.  But still.
 tags: other-peoples-stories
 id: 1132
 ---
@@ -20,18 +20,18 @@ I bring this up today only because I want to reference a post called <a href="ht
 As I was writing that post, I visited <a href="http://ComplaintsBoard.com" target="_blank">ComplaintsBoard.com</a> and read some of the negative things posted about the terrible merchant.  There was a particular complaint that made me laugh, so I hereby clean up the formatting (and spelling -- not a necessary skill for a "marketing expert" apparently, and I know I have no room to talk) and re-post.
 
 <blockquote>
-While visiting the site DecorMyEyes.com a pop-up come on for a survey of what I liked and did not like about the site. As a marketing expert, I gave them a suggestion about their young girl that they have on the site that steps out to speak to you in cocktail dress. Not very professional. I suggested it would be more credible if the person came out in a lab coat, as a representation of someone that would be making their prescription glasses. This would give them more credibility. My suggestion was to assist them in succeeding. Their reply was to assist them in failing. 
-
-See the response I got. I am not ordering from them and I am posting to let you know... buyer beware!
-
-
-From: sales@decormyeyes.com
-To: XXXXX
-Date: Sat, 29 Aug 2009 15:05:45 -0400
-Subject: RE: Feedback - Suggestion
-
-How about if she came out and took her tits out?
-Would you order then?
+While visiting the site DecorMyEyes.com a pop-up come on for a survey of what I liked and did not like about the site. As a marketing expert, I gave them a suggestion about their young girl that they have on the site that steps out to speak to you in cocktail dress. Not very professional. I suggested it would be more credible if the person came out in a lab coat, as a representation of someone that would be making their prescription glasses. This would give them more credibility. My suggestion was to assist them in succeeding. Their reply was to assist them in failing. <br>
+<br>
+See the response I got. I am not ordering from them and I am posting to let you know... buyer beware!<br>
+<br>
+<br>
+From: sales@decormyeyes.com<br>
+To: XXXXX<br>
+Date: Sat, 29 Aug 2009 15:05:45 -0400<br>
+Subject: RE: Feedback - Suggestion<br>
+<br>
+How about if she came out and took her tits out?<br>
+Would you order then?<br>
 </blockquote>
 
 Original complaint copied from <a href="http://www.complaintsboard.com/complaints/nasty-email-from-them-c248605.html" target="_blank">www.complaintsboard.com/complaints/nasty-email-from-them-c248605.html</a>

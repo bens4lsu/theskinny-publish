@@ -1,8 +1,8 @@
 ---
 title: Glass On the Floor
 date: 2011-09-21 16:13
-description: A description of my post.
-tags: uncategorized
+description: This is the First Law of Broken Glass
+tags: short
 id: 1137
 ---
 I don't know why this is the case, but it's certainly true.
