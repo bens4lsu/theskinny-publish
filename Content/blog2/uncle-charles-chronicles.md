@@ -1,6 +1,6 @@
 ---
 title: Uncle Charles Chronicles
-date: 2026-09-10 16:32
+date: 2026-09-14 16:32
 description: One day last week, I was driving on one of those service road lanes where even though you're driving straight, you have to yield to the cars coming off of the interstate.  I had my head up my ass, and I got an angry hong when I failed to yield.  That made me think about some stories from back when I was young.
 tags: my-youth
 id: 2543
