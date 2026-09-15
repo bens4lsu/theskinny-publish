@@ -2,7 +2,6 @@
 title: Key West Lowlights
 date: 2026-09-04 14:21
 description: Way back in July, I had intended to follow the Key West Highlights with a post of lowlights.  It turns out that even though it often makes for a better story, it's not so fun typing out your fuckups.
-
 tags: travel, key-west, sailing
 id: 2542
 ogImg: fuelfilters.jpg
