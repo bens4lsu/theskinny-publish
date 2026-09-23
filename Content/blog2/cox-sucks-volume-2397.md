@@ -1,9 +1,10 @@
 ---
 title: Cox Sucks, Volume 2397
 date: 2012-01-29 06:49
-description: A description of my post.
+description: I start with this tweet from my feed for two reasons.  First, it's spot-on.  Second, it relates to the story that unfolds herein.  Although, come to think of it, if you've read the title of this post, and the tweet, you can pretty much fill in the rest of it all by yourself.
 tags: my-stories
 id: 1180
+ogImg: tuningadapatercable.jpg
 ---
 <a href="http://twitter.com/#!/matthewbaldwin/status/163002249084276736" target="_blank" style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="/img/matthewbaldwintweet.jpg" alt="image of the tweet"></a>
 
@@ -37,7 +38,7 @@ The woman who answered at least believed me about the tuning adapter.  She had m
 
 I was thinking hardware problem at that point.  But as the Cox woman held on the phone, I slid the cabinet out, looked in the back, and saw the end of the tuning adapter that plugs into the box dangling loose.  Yes, my friends, they spent 11 hours troubleshooting what I told them in the first place, and then didn't bother connecting the new adapter at all.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="315" ><img src="/img/tuningadapatercable.jpg"></td></tr><tr><td class="caption" width="315">Here is the DVR end of the tuning adapter cable.</td></tr></table>
+<a class="lightview alignright" href="/img/tuningadapatercable.jpg" data-lightview-caption="Here is the DVR end of the tuning adapter cable." data-lightview-group="group1" ><img src="/img/tuningadapatercable.jpg" alt="/img/tuningadapatercable.jpg"><br><span class="caption">Here is the DVR end of the tuning adapter cable.</span></a>
 
 When I relayed this to the woman on the phone, she had the only reaction that I could accept.  "I'm so sorry and embarrassed about this."  And she really did seem to be sorry and embarrassed.  It's hard to be mad when that's the case.
 

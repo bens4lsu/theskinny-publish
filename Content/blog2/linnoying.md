@@ -1,7 +1,7 @@
 ---
 title: Linnoying
 date: 2012-02-16 12:41
-description: A description of my post.
+description: The media is bound and determined to make me hate Jeremy Lin.  It's tough to do -- a great story, sure.  But I haven't even been watching 24-7 ESPN like I do during football season, and I'm tired of hearing about the guy.
 tags: sports
 id: 1220
 ---
@@ -19,6 +19,6 @@ Floyd Mayweather was criticized for saying that the hype is just because Lin is 
 
 I haven't watched the guy play.  And if all we see is highlight after highlight, I'll be rooting for the other team when I finally do catch a game.
 
-**Update:**  Kind of cool that <a href="http://feinsteinonthebrink.com/index.php?id=2843356311304035537" target="_blank">the best sportswriter in the country came up with the same argument</a>, albeit written much better.
+**Update:**  Kind of cool that <a href="https://web.archive.org/web/20120314100135/http://www.feinsteinonthebrink.com/index.php?id=2843356311304035537" target="_blank">the best sportswriter in the country came up with the same argument</a>, albeit written much better.
 
-Feinstein really is the best.  His latest book is one of my favorite reads in years.  <a href="http://www.amazon.com/gp/product/0316079049/ref=as_li_ss_tl?ie=UTF8&tag=theskinnyonbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316079049">You should use this link to buy it now</a><img src="http://www.assoc-amazon.com/e/ir?t=theskinnyonbe-20&l=as2&o=1&a=0316079049" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+Feinstein really is the best.  His latest book is one of my favorite reads in years.  <a href="https://www.amazon.com/gp/product/0316079049">You should use this link to buy it now</a>.

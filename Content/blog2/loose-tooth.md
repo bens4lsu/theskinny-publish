@@ -1,7 +1,7 @@
 ---
 title: Loose Tooth
 date: 2012-02-17 07:41
-description: A description of my post.
+description: He was a little worried, having heard that there might be blood involved.  I, on the other hand, felt like someone had punched me in the stomach.  This is really the worst blow to the illusion that he'll stay a little boy forever since the first day of Kindergarten, which similarly, made me want to cry.
 tags: young-ruski
 id: 1222
 ---
@@ -15,7 +15,7 @@ He's been somewhat intrigued by the fact that grown-ups get together, have a coc
 
 At any rate, today's loose teeth are timed so that they coincide with the first generation to have phone video recording cameras at the ready, complete with lighting.  Parents of time gone by are forced to remember loose teeth, while we can have reminders like this.
 
-<iframe src="http://player.vimeo.com/video/36880838?title=0&amp;byline=0&amp;portrait=0&amp;color=66698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<h3>2026 update: ironically, I have no idea what video used to be embedded here.</h3>
 
 See, yesteryear's parents would probably forget the chapped lips and yellow molars.  I'm also surprised that the loose tooth is blue.  It's obviously already dead.
 

@@ -1,13 +1,14 @@
 ---
 title: Country Kid
 date: 2012-02-28 14:48
-description: A description of my post.
+description: A couple of weeks ago, I thought it was really nice when Vanya told me that he had already fed the dogs for me.  He often does it at my request, but this time, he had done it on his own initiative.
 tags: young-ruski
 id: 1231
+ogImg: gatorfamily.jpg
 ---
 A couple of weeks ago, I thought it was really nice when Vanya told me that he had already fed the dogs for me.  He often does it at my request, but this time, he had done it on his own initiative.
 
-It didn't even cross my mind that something was amiss when I saw uneaten banana in a dog bowl.  I figured that someone started a bandanna, didn't want to finish it, and threw the rest in the bowl for a dog.  Heck, maybe I had even done that.
+It didn't even cross my mind that something was amiss when I saw uneaten banana in a dog bowl.  I figured that someone started a banana, didn't want to finish it, and threw the rest in the bowl for a dog.  Heck, maybe I had even done that.
 
 But then I heard Mrs. theskinnyonbenny ask what the dogs had eaten for dinner.  The answer was, "Biscuits, goldfish, and bananas."
 
@@ -19,8 +20,10 @@ Vanya wanted nothing more than to drive the Gator around the farm, and for a six
 
 I've got to get that kid out hiking and camping this spring.  He's definitely a country boy.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="country family photos" src="/img/gatorfamily.jpg"/></p>
-<p class="caption"  style="padding-left:50px;">This one of V looks posed, but he is, in fact, out and about wearing cowboy boots, and we did have to scale this fence, as neither the key nor <a href="http://theskinnyonbenny.com/blog2/archives/642">the Mexican who sometimes keeps the key</a> were readily available.</p>
+<a class="lightview centered" href="/img/A couple of weeks ago, I thought it was really nice when Vanya told me that he had already fed the dogs for me.  He often does it at my request, but this time, he had done it on his own initiative.
+" data-lightview-caption="This one of V looks posed, but he is, in fact, out and about wearing cowboy boots, and we did have to scale this fence, as neither the key nor the Mexican who sometimes keeps the key were readily available." data-lightview-group="group1"><img src="/img/A couple of weeks ago, I thought it was really nice when Vanya told me that he had already fed the dogs for me.  He often does it at my request, but this time, he had done it on his own initiative.
+" alt="/img/A couple of weeks ago, I thought it was really nice when Vanya told me that he had already fed the dogs for me.  He often does it at my request, but this time, he had done it on his own initiative.
+"><br><span class="caption">This one of V looks posed, but he is, in fact, out and about wearing cowboy boots, and we did have to scale this fence, as neither the key nor the Mexican who sometimes keeps the key were readily available.</span></a>
 
 I took a ton of pictures.  More than usual of scenes out and about on the farm.  I'll post a big collection of them soon.
 

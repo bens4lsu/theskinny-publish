@@ -1,9 +1,10 @@
 ---
 title: Mutts 2012
 date: 2012-01-31 07:00
-description: A description of my post.
+description: Those of you who are further removed from our lives probably saw this coming. We turned into some sort of crazy cousin parent offspring to pageant moms.  I thought of this as I made my mental checklist for stuff to take to the dog parade on Saturday:  string.  check.  safety pins.  check.  duct tape.  check.  makeup.
 tags: animals,young-ruski
 id: 1202
+ogImg: gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1489.JPG
 ---
 Those of you who are further removed from our lives probably saw this coming. We turned into some sort of crazy cousin parent offspring to pageant moms.
 
@@ -21,11 +22,11 @@ So yes, the baby was The Joker, and we went back to a set of costumes from a few
 
 I have the whole photo gallery posted <a href="/pgHome.php">here</a>, but there are a few pics that go into my folder of all-time favorites.
 
-<div style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="http://theskinnyonbenny.com/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" alt="bloss"></div>
+<a class="lightview centered" href="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" alt="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG"><br><span class="caption"></span></a>
 
-<div style="text-align:center; margin-left:auto;margin-right:auto;margin-top:3em;margin-bottom:3em; display:block;"><img src="http://theskinnyonbenny.com/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1489.JPG" alt="kid 1"></div>
+<a class="lightview centered" href="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1489.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1489.JPG" alt="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1489.JPG"><br><span class="caption"></span></a>
 
-<div style="text-align:center; margin-left:auto;margin-right:auto; display:block;"><img src="http://theskinnyonbenny.com/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1503.JPG" alt="kid 2"></div>
+<a class="lightview centered" href="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1503.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1503.JPG" alt="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1503.JPG"><br><span class="caption"></span></a>
 
 <div class="caption">The Joker couldn't make it through the whole parade without succumbing to the sandman.  Why won't he take a nap at home?</div>
 

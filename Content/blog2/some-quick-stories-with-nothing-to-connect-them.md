@@ -1,13 +1,14 @@
 ---
 title: Some Quick Stories With Nothing to Connect Them
 date: 2011-11-10 19:29
-description: A description of my post.
+description: A football rant, some Halloween info, and another little rant about local law enforcement.
 tags: my-stories,young-ruski
 id: 1157
+ogImg: gal/079%20-%20Kid%20Halloween%202011/resIMG_20111031_0391.JPG
 ---
 I'm  just a little bit tired of hearing/reading that the SEC is down this year.  Don't we have three teams in the top 10, including two teams that are clearly better than everyone except each other?  Isn't the current national champion trying to hang on to fourth place in their division?  Oregon is certainly in the top tier of teams, and they got clobbered by LSU.  Alabama handled Penn State with similar ease.  Just because Georgia and Florida are down doesn't mean that the conference is down.
 
-<img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 V goes to one of the only schools around that sends Kindergarteners home with homework.  One of the things we do each night is to work through sheets of reading words.  One night recently, he was sounding out the word "pit."
 
@@ -23,11 +24,11 @@ And then the word popped into his head.
 
 "Um, not quite *tit*, but really close.  Let's try it with the P in front."
 
-<img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Halloween night, V wore his balls-to-the-wall, fired up, enthusiastic personality.  We met up with our friends who had gotten a jump on trick-or-treat, and V got their oldest to see the folly in not sprinting door to door.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/079%20-%20Kid%20Halloween%202011/resIMG_20111031_0391.JPG" width="250></td></tr><tr><td class="caption" width="250">More Halloween pics on <a href="/pgHome.php">the photo gallery page</a>.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/079%20-%20Kid%20Halloween%202011/resIMG_20111031_0391.JPG" data-lightview-caption="More Halloween pics on the photo gallery page." data-lightview-group="group1" ><img src="/img/gal/079%20-%20Kid%20Halloween%202011/resIMG_20111031_0391.JPG" alt="/img/gal/079%20-%20Kid%20Halloween%202011/resIMG_20111031_0391.JPG"><br><span class="caption">More Halloween pics on the photo gallery page.</span></a>
 
 We had four adults, so we slipped into something like a cover-2 defense.  Mrs. theskinnyonbenny played free safety, making sure to stay out in front with the players who were sprinting downfield.  I played middle linebacker, dropping back to cover the intermediate zone, and the other two parents covered the kids who hung back to catch the outlet pass.
 
@@ -37,7 +38,7 @@ Later, I tousled his hair and he told me, "Don't do that, Papa.  I have pretty h
 
 At the end of the night, once the other kids had run out of gas, he ran up to a couple more tables of candy-givers.  A couple of times, I heard him ask, "Can I get one more for my friend?"  And he really did go offer the extra to Spiderman.  Spidey accepted one, but rejected the other.  V gave no thoughts to getting extras for the younger kids.
 
-<img src="/img/greenline.gif" class="greenline" alt="{{divider}}" />
+<p><img src="/img/greenline.gif" class="greenline" alt="{{divider}}" /></p>
 
 Last night, fairly late, we got a knock on the door.  I answered it, and a uniformed cop asked to speak to me.  He looked about thirteen.
 

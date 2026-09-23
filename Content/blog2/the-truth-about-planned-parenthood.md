@@ -1,9 +1,10 @@
 ---
 title: The Truth About Planned Parenthood
 date: 2012-02-02 22:58
-description: A description of my post.
+description: Here at theskinnyonbenny, we try to avoid politiacally sensitive topics.  Not because we shy away from controversy, but because we generally find political topics to be really, really boring.  But recent news got us to doing a little reading, and that led to a little research, so in the interest of reporting something that's not really out there, we present some facts here.  
 tags: current-events
 id: 1208
+ogImg: plannedparenthood1.jpg
 ---
 Here at theskinnyonbenny, we try to avoid politiacally sensitive topics.  Not because we shy away from controversy, but because we generally find political topics to be really, really boring.  But recent news got us to doing a little reading, and that led to a little research, so in the interest of reporting something that's not really out there, we present some facts here.  
 

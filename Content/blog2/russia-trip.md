@@ -1,7 +1,7 @@
 ---
 title: Russia Trip
 date: 2011-10-27 18:14
-description: A description of my post.
+description: Perhaps you heard (or maybe you caught it two posts ago) that we were recently in Russia. You can probably guess what we were doing, but unlike 2007, when we did something similar, we've been asked not to publicly share stories, details, or pictures.
 tags: travel
 id: 1149
 ---

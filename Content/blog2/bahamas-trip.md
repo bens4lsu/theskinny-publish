@@ -1,15 +1,16 @@
 ---
 title: Bahamas Trip
 date: 2011-10-21 10:36
-description: A description of my post.
-tags: travel
+description: The story of our trip has to revolve around Balls Alley. The spot where we stayed in Nassau had a road that runs from West to East, right along the coast. If you want to get from West to East, you take a parallel road a bit farther inland. Every quarter mile or so, there are roads perpendicular to the coast that let you go between the two directional streets. 
+tags: travel, bahamas
 id: 1145
+ogImg: gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110723_6648.JPG
 ---
 The story of our trip has to revolve around Balls Alley. The spot where we stayed in Nassau had a road that runs from West to East, right along the coast. If you want to get from West to East, you take a parallel road a bit farther inland. Every quarter mile or so, there are roads perpendicular to the coast that let you go between the two directional streets. 
 
 Balls Alley looks like it's one of these pass through roads. But it isn't. Early in the week, Mrs. theskinnyonbenny, Brent, and I turned down Balls Alley to make the jump. but instead of going through, it got more and more narrow, and finally, it ended in a jumble of shacks and wrecked cars. 
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="350" ><img src="http://theskinnyonbenny.com/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110727_6808.JPG" width="350px"></td></tr><tr><td class="caption" width="250">Looking down Balls Alley</td></tr></table>
+<a class="lightview alignright" href="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110727_6808.JPG" data-lightview-caption="Looking down Balls Alley" data-lightview-group="group1" ><img src="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110727_6808.JPG" alt="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110727_6808.JPG"><br><span class="caption">Looking down Balls Alley</span></a>
 
 We turned around and headed out.  Toward the start, the alley was lined with dudes, taking big fatties, trying to wave us over and take our orders. Or our lives. Could have gone either way, had we stopped. 
 
@@ -17,7 +18,7 @@ From then on, we got the same reaction from the native Bahamians when we would m
 
 We got that warning at the Greyclif, an expensive but good restaurant hosted by a pantywaist in a bow-tie who didn't want us drunks there at all.  That didn't stop his bar waitress from serving strait rum one on top of the other, getting me to the point where I loudly ate a ball of butter while waiting for the bread. 
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="http://theskinnyonbenny.com/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110723_6648.JPG" width="250px"></td></tr><tr><td class="caption" width="250">Too sexy to be 40.</td></tr></table>
+<a class="lightview alignright" href="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110723_6648.JPG" data-lightview-caption="Too sexy to be 40." data-lightview-group="group1" ><img src="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110723_6648.JPG" alt="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110723_6648.JPG"><br><span class="caption">Too sexy to be 40.</span></a>
 
 The bar features an excellent piano player by name of Pam, who has the ability to play, sing, and participate in your conversations simultaneously. We made serious plans to have her back to our house on an upcoming night to perform privately.
 
@@ -27,7 +28,7 @@ We followed the trip by adding to our tip with free drinks for captain and crew 
 
 From there, I went down to poolside, where the wife's were mixing it up at the bar by the pool with the guy who does some maintenance around the house. He was showing them a picture of his daughter, who despite being somewhere in the 6 to 9 year old range, looks quite a bit like Snoop Dog. 
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="350" ><img src="http://theskinnyonbenny.com/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110728_6873.JPG" width="350px"></td></tr><tr><td class="caption" width="250">Post fishing-trip drinks</td></tr></table>
+<a class="lightview alignright" href="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110728_6873.JPG" data-lightview-caption="Post fishing-trip drinks" data-lightview-group="group1" ><img src="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110728_6873.JPG" alt="/img/gal/077%20-%20Bahamas%2040th%20Birthday/resIMG_20110728_6873.JPG"><br><span class="caption">Post fishing-trip drinks</span></a>
 
 Mrs. theskinnyonbenny spotted me, groaned, and made it clear that this was to be girl time. So I went back to bed. 
 
@@ -45,7 +46,7 @@ Some other fun tidbits:
 
 </ul>
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="350" ><img src="http://theskinnyonbenny.com/img/gal/076%20-%20Bahamas%20-%20Pics%20from%20Stacie/res083.jpg" width="350px"></td></tr><tr><td class="caption" width="250">Who left their drawers out?</td></tr></table>
+<a class="lightview alignright" href="/img/gal/076%20-%20Bahamas%20-%20Pics%20from%20Stacie/res083.jpg" data-lightview-caption="Who left their drawers out?" data-lightview-group="group1" ><img src="/img/gal/076%20-%20Bahamas%20-%20Pics%20from%20Stacie/res083.jpg" alt="/img/gal/076%20-%20Bahamas%20-%20Pics%20from%20Stacie/res083.jpg"><br><span class="caption">Who left their drawers out?</span></a>
 
 I also see that I made notes to add these to my quote file:
 
@@ -57,4 +58,4 @@ I also see that I made notes to add these to my quote file:
 	<li>"What? Read?"  Stacie, in reply to Amanda's "I've never been able to do that before."  She was speaking of her ability to read while music was playing.</li>
 </ul>
 
-I posted lots more pictures, and many of them are hilarious.  Look <a href="/pgHome.php">at the photo gallery list</a>, or jump right in <a onclick="window.open('/pg3.php?spgmGal=077%20-%20Bahamas%2040th%20Birthday','077Bahamas40thBirthday','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >here</a> and <a onclick="window.open('/pg3.php?spgmGal=076%20-%20Bahamas%20-%20Pics%20from%20Stacie','076BahamasPicsfromStacie','width=1024, height=768, toolbar=no, location = no, directories=no, menubar=no, resizable=yes, scrollbars=no');" >here</a>.
+I posted lots more pictures, and many of them are hilarious.  Look <a href="/pgHome">at the photo gallery list</a>, or jump right in <a href="gal/077%20-%20Bahamas%2040th%20Birthday/">here</a> and <a href="http://localhost:8000/gal/076%20-%20Bahamas%20-%20Pics%20from%20Stacie/" >here</a>.
