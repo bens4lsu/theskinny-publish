@@ -1,7 +1,7 @@
 ---
 title: Too Clever for My Own Good
 date: 2012-01-27 09:47
-description: A description of my post.
+description: Sunday is the Krewe of Mutts, which regular readers will recognize as the Mardi Gras parade in Baton Rouge for dogs. This year's theme is "The Good, the Bad, and the Furry."  My best costume idea is to dress the dogs like WW2 American soldiers. Then, I'll have Vanya dressed as a Nazi, pulling the wagon with Kolya in there, wearing a gray suit and a Hitler mustache.
 tags: young-ruski
 id: 1178
 ---

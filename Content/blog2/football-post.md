@@ -1,9 +1,10 @@
 ---
 title: Football Post
 date: 2012-01-11 21:58
-description: A description of my post.
-tags: sports,my-stories
+description: Of late, I've been crippled with fear of posting to my blog.  The topic that came right to mind was the outrageously good football season that we were having, but when it comes to football fandom, I hold superstitions, and that ridiculous part of my brain doesn't allow me to deviate from whatever routine I was able to establish when the wins were coming.
+tags: sports,my-stories, favorites
 id: 1170
+ogImg: hat2011.jpg
 ---
 Of late, I've been crippled with fear of posting to my blog.  The topic that came right to mind was the outrageously good football season that we were having, but when it comes to football fandom, I hold superstitions, and that ridiculous part of my brain doesn't allow me to deviate from whatever routine I was able to establish when the wins were coming.
 
@@ -11,7 +12,9 @@ So I watched every game without a stitch of underwear on.  I went all season wit
 
 Of course, what was to be the best season in my lifetime, possibly the best season in school history disappeared.  
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/hat2011.jpg"></td></tr><tr><td class="caption" width="250">This season's lucky hat, as it looks today.  I bought this late this summer.</td></tr></table>
+<a class="lightview alignright" href="/img/hat2011.jpg" data-lightview-caption="This season's lucky hat, as it looks today.  I bought this late this summer.
+" data-lightview-group="group1" ><img src="/img/hat2011.jpg" alt="/img/hat2011.jpg"><br><span class="caption">This season's lucky hat, as it looks today.  I bought this late this summer.
+</span></a>
 
 My thought the next day was that every fan would have to identify what was different in his or her life on the day of the championship game as compared to the rest of the season.  One of the first things that occurred to me was that my friend Jeremy would have to have his new marriage annulled.  Wow, I'm sure that will be very disappointing to them both.
 
@@ -34,8 +37,6 @@ We started peppering her with questions.  "So did you come from the game?"
 "Yeah, I was sitting next to some old cunt in an Auburn shirt."
 
 "Well where are your friends?"
-
-<!--<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/passedout.jpg"></td></tr><tr><td class="caption" width="250">Does anyone recognize this girl?</td></tr></table>-->
 
 "They're masturbating.  In the stadium."
 
