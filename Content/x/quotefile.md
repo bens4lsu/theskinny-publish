@@ -142,6 +142,9 @@ id: -1
 
               <li><blockquote class="quotefile">I’m OK with the chicken!!</blockquote>
               <p>-- Also sent to me by Bob on March 23, who explained, "A boating officer to a girl we know who, when stopped for safety inspection out on a lake, offered a loud rubber chicken as a substitute for the horn the driver couldn’t find."</p></li>
+              
+              <li><blockquote class="quotefile">If you enjoy reading game recaps that tell you how long each quarter is, then by all means, keep spending all that money on AI.</blockquote>
+              <p>-- Andy Staples, College Football Enquirer podcast 2026-10-08</p></li>
 
         </ol>
         
