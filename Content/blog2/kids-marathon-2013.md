@@ -1,15 +1,16 @@
 ---
 title: Kids Marathon 2013
 date: 2013-01-22 20:57
-description: A description of my post.
+description: This morning, Vanya wore his new medal to school.  The medal was for completing the 2nd Louisiana Children's Marathon (1.2 miles), and this morning, he was proud of his achievement.  But let's rewind.
 tags: young-ruski
 id: 1541
+ogImg: kidmarathon1.JPG
 ---
 This morning, Vanya wore his new medal to school.  The medal was for completing the 2nd Louisiana Children's Marathon (1.2 miles), and this morning, he was proud of his achievement.  But let's rewind.
 
 I ran this year with Vanya's frield Pierce.  They ran around downtown like a couple of crazy chickens before the race, but they calmed down as we went into the starting chute.
 
-<table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/kidmaratho2.JPG" alt="benny - the link to this image is fucked" /></td></tr><tr><td caption">Clowning before the race.</td></tr></table>
+<a class="lightview alignright" href="/img/kidmaratho2.JPG" data-lightview-caption="Clowning before the race." data-lightview-group="group1" ><img src="/img/kidmaratho2.JPG" alt="/img/kidmaratho2.JPG"><br><span class="caption">Clowning before the race.</span></a>
 
 We started at the very back of the pack, so that the starting gun wouldn't freak anyone out.  Once we plodded up to where the pack started to spread out, the kids took off like a pair of frightened deer, and I had to turn on the juice to stay with them. 
 
@@ -21,7 +22,6 @@ About that time, Pierce tripped and fell, and just like that, we were behing eve
 
 It took me a few minutes, but I got them to buck up, and start jogging along the route again.  We ran to the turn around spot, said thanks to the cop who was directing traffic not to run over us (not sure where that came from, but ok), and then back up to the finish line without any real incident.
 
-<table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/kidmarathon1.JPG" alt="benny - the link to this image is fucked" /></td></tr><tr><td caption">Strong finishers.</td></tr></table>
-
+<a class="lightview alignright" href="/img/kidmarathon1.JPG" data-lightview-caption="Strong finishers." data-lightview-group="group1" ><img src="/img/kidmarathon1.JPG" alt="/img/kidmarathon1.JPG"><br><span class="caption">Strong finishers.</span></a>
 
 The kids were tired, and V, at least, had the appropriate reaction to finishing a run.  He told me very seriously, "Pappa, I never want to do that again!"

@@ -1,9 +1,10 @@
 ---
 title: Peak t' Dee?
 date: 2013-02-26 22:02
-description: A description of my post.
+description: The good thing about being a young adult prior to the advent of everyday technology is that the prank phone call wasn't quite extinguished.
 tags: my-youth
 id: 1601
+ogImg: mamadee.jpg
 ---
 Have I mentioned this before? The last time I had to set up a date with a girl, college students had neither email nor cell phones.
 
@@ -11,7 +12,7 @@ The good thing about being a young adult prior to the advent of everyday technol
 
 When Outback Steakhouse opened, I used to call and put on a cow voice, asking why they killed my mother.
 
-<table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/mamadee.jpg" alt="benny - the link to this image is fucked" width="320px" /></td></tr><tr><td caption">Mama Dee, in her Circle-the-Word heyday.</td></tr></table>
+<a class="lightview alignright" href="/img/mamadee.jpg" data-lightview-caption="Mama Dee, in her Circle-the-Word heyday." data-lightview-group="group1" ><img src="/img/mamadee.jpg" alt="/img/mamadee.jpg"><br><span class="caption">Mama Dee, in her Circle-the-Word heyday.</span></a>
 
 But I think my favorite activity was to call the house phone at the fraternity, imitating the cook's family asking for her.  We called her Mama Dee.  When you picked up the phone and heard "Peak t' Dee?" that meant it was for her.
 

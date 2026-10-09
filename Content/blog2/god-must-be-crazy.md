@@ -1,9 +1,10 @@
 ---
 title: God Must Be Crazy
 date: 2013-03-06 22:05
-description: A description of my post.
+description: On Friday night, we were out to dinner with another family.  I was seated next to an eight-year-old little girl.  I suggested that the Lenten prohibition of Friday flesh wasn't in effect, since there's not a seated pope.  She wasn't impressed.
 tags: animals,my-stories
 id: 1605
+ogImg: blossom-dogbed.jpg
 ---
 On Friday night, we were out to dinner with another family.  I was seated next to an eight-year-old little girl.
 
@@ -29,7 +30,7 @@ When I brought her home, she was the happiest dog ever.  She went to every human
 
 That was Friday night, and knock on wood, that was the last of them.  I guess this medicine is going to work.  She wouldn't leave my side Saturday, but now, she's back to her normal routine, which is pretty much just this:
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/blossom-dogbed.jpg" alt="benny - the link to this image is fucked"  /></td></tr></table>
+<a class="lightview centered" href="/img/blossom-dogbed.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/blossom-dogbed.jpg" alt="/img/blossom-dogbed.jpg"><br><span class="caption"></span></a>
 
 Hopefully, she'll be stinking up that dog bed for years to come.  It turns out that I kind of like her.
 

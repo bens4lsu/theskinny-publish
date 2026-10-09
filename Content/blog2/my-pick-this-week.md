@@ -1,8 +1,8 @@
 ---
 title: My Pick This Week
 date: 2012-11-02 09:15
-description: A description of my post.
-tags: uncategorized
+description: Every week, I carve out a little time to study college football lines.  If you've paid close attention, you might remember that I'm one of several who try to pick one upset each week.  When your upset hits, you get the number of points in the spread added to your total, and at the end of the season, you pocket a little extra coffee money and have bragging rights for the year.
+tags: football
 id: 1485
 ---
 Every week, I carve out a little time to study college football lines.  If you've paid close attention, you might remember that I'm one of several who try to pick one upset each week.  When your upset hits, you get the number of points in the spread added to your total, and at the end of the season, you pocket a little extra coffee money and have bragging rights for the year.

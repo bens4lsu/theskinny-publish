@@ -1,9 +1,10 @@
 ---
 title: Brad
 date: 2012-11-02 06:00
-description: A description of my post.
-tags: young-ruski
+description: This is Brad.
+tags: young-ruski, favorites
 id: 1477
+ogImg: brad.jpg
 ---
 This is Brad.
 

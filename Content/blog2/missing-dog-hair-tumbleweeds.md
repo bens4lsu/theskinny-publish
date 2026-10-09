@@ -1,9 +1,10 @@
 ---
 title: Missing Dog Hair Tumbleweeds
 date: 2013-04-02 10:52
-description: A description of my post.
+description: Hearts are heavy in theskinnyonbenny house today.  For a reason that can't be definitely determined, dumb sweet Blossom's lungs filled with fluid, and made breathing very difficult.  The vets did all they could, but there was nothing they could do to fix her, or even to offer any hope of real improvement.
 tags: animals
 id: 1615
+ogImg: gal/052%20-%20Mardi%20Gras%202009/resIMG_5648.JPG
 ---
 Hearts are heavy in theskinnyonbenny house today.  For a reason that can't be definitely determined, dumb sweet Blossom's lungs filled with fluid, and made breathing very difficult.  The vets did all they could, but there was nothing they could do to fix her, or even to offer any hope of real improvement.
 
@@ -13,18 +14,19 @@ Blossom was resting in an oxygen cabinet, connected to an IV, with the waveform/
 
 Rest in peace, sweet friend.
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/photo_photo010.jpg" alt="benny - the link to this image is fucked"  /></td></tr><tr><td caption">Puppy Bloss, 2006</td></tr></table>
+<a class="lightview centered" href="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/photo_photo010.jpg" data-lightview-caption="Puppy Bloss, 2006" data-lightview-group="group1"><img src="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/photo_photo010.jpg" alt="/img/gal/017%20-%20New%20Animals%20-%20Spring%202006/photo_photo010.jpg"><br><span class="caption">Puppy Bloss, 2006</span></a>
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/gal/087%20-%20Spring%20Again%20Means%20Farm%20Pics/resIMG_20120225_0189.JPG" alt="benny - the link to this image is fucked"  /></td></tr><tr><td caption"></td></tr></table>
+<a class="lightview centered" href="/img/gal/087%20-%20Spring%20Again%20Means%20Farm%20Pics/resIMG_20120225_0189.JPG" data-lightview-caption="" data-lightview-group="group1"><img src="/img/gal/087%20-%20Spring%20Again%20Means%20Farm%20Pics/resIMG_20120225_0189.JPG" alt="/img/gal/087%20-%20Spring%20Again%20Means%20Farm%20Pics/resIMG_20120225_0189.JPG"><br><span class="caption"></span></a>
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/gal/099%20-%20Krewe%20of%20Mutts%202013/resIMG_20130127_4056.JPG" alt="benny - the link to this image is fucked"  /></td></tr><tr><td caption">Daisy Duke</td></tr></table>
+<a class="lightview centered" href="/img/gal/099%20-%20Krewe%20of%20Mutts%202013/resIMG_20130127_4056.JPG" data-lightview-caption="Daisy Duke" data-lightview-group="group1"><img src="/img/gal/099%20-%20Krewe%20of%20Mutts%202013/resIMG_20130127_4056.JPG" alt="/img/gal/099%20-%20Krewe%20of%20Mutts%202013/resIMG_20130127_4056.JPG"><br><span class="caption">Daisy Duke</span></a>
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" alt="benny - the link to this image is fucked"  /></td></tr><tr><td caption">Wonder Woman, 2012</td></tr></table>
+<a class="lightview centered" href="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" data-lightview-caption="Wonder Woman, 2012" data-lightview-group="group1"><img src="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG" alt="/img/gal/085%20-%20Krewe%20of%20Mutts%202012/resIMG_20120129_1469.JPG"><br><span class="caption">Wonder Woman, 2012</span></a>
 
-<table class="centered" ><tr><td><img src="http://theskinnyonbenny.com/img/gal/052%20-%20Mardi%20Gras%202009/resIMG_5648.JPG" alt="benny - the link to this image is fucked"  /></td></tr><tr><td caption">A bull in 2009</td></tr></table>
+<a class="lightview centered" href="/img/gal/052%20-%20Mardi%20Gras%202009/resIMG_5648.JPG" data-lightview-caption="A bull in 2009" data-lightview-group="group1"><img src="/img/gal/052%20-%20Mardi%20Gras%202009/resIMG_5648.JPG" alt="/img/gal/052%20-%20Mardi%20Gras%202009/resIMG_5648.JPG"><br><span class="caption">A bull in 2009</span></a>
+
 
 A couple of old videos that made me laugh today...
 
-<iframe src="http://player.vimeo.com/video/646905?title=0&amp;byline=0&amp;portrait=0&amp;color=666698" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="664" height="498" src="https://www.youtube.com/embed/Pf07NvkAzVs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe src="http://player.vimeo.com/video/1434059?title=0&amp;byline=0&amp;portrait=0&amp;color=666698" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="664" height="443" src="https://www.youtube.com/embed/MgddvBRT3l4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

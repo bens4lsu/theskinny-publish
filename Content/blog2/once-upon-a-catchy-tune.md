@@ -1,14 +1,13 @@
 ---
 title: Once Upon a Catchy Tune
 date: 2013-01-07 22:21
-description: A description of my post.
+description: This is it!  My famous Sussudio story.
 tags: my-youth
 id: 1509
 ---
 This recent Facebook status reminded me of me.
 
-<skinny:nohome><p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="**************" src="/img/juliespost.jpg"/></p>
-<p class="caption">Recently posted on Facebook</p></skinny:nohome>
+<a class="lightview centered" href="/img/juliespost.jpg" data-lightview-caption="Recently posted on Facebook" data-lightview-group="group1"><img src="/img/juliespost.jpg" alt="/img/juliespost.jpg"><br><span class="caption">Recently posted on Facebook</span></a>
 
 No, I'm not compounding my bubble bath story by waxing poetic about Ingrid Michaelson, although I'll concede that it is a catchy little tune.  But it made me think of a different, but still sissified catchy tune many years ago.
 

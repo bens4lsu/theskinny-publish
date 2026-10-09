@@ -1,8 +1,8 @@
 ---
 title: Why I No Longer Get to Take Bubble Baths
 date: 2013-01-03 22:39
-description: A description of my post.
-tags: my-stories
+description: Bath time hasn't been the same lately.  I rather enjoy turning on some good music, finding a Sports Illustrated, and running a big, hot bubble bath.  Or I should say I did enjoy that, because it's ruined.
+tags: my-stories, halloween
 id: 1500
 ---
 Bath time hasn't been the same lately.

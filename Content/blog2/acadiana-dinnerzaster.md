@@ -1,15 +1,16 @@
 ---
 title: Acadiana Dinnerzaster
 date: 2013-05-01 12:15
-description: A description of my post.
-tags: things-i-just-dreamed-up
+description: We started Saturday by heading to Festival International bright and early.  We got out there in time to have a beer and a sandwich before the music even started blaring from the stages, and by 1:00, Kolya was covered in the juice of red snow cone melt.  Come to think of it, I had one shoe full of red snow cone melt too.
+tags: young-ruski
 id: 1629
+ogImg: festival_face.jpg
 ---
 We started Saturday by heading to Festival International bright and early.  We got out there in time to have a beer and a sandwich before the music even started blaring from the stages, and by 1:00, Kolya was covered in the juice of red snow cone melt.  Come to think of it, I had one shoe full of red snow cone melt too.
 
-We continued with a fun day â€“ drinks, music, craft tents â€“ all that good stuff.  In the early evening, it started to drizzle, and we headed out.
+We continued with a fun day "drinks, music, craft tents" all that good stuff.  In the early evening, it started to drizzle, and we headed out.
 
-<table class="alignright" width="340px"><tr><td><img src="/img/festival_face.jpg" alt="benny - the link to this image is f" width="320px" /></td></tr><tr><td class="caption">Festival Face</td></tr></table>
+<a class="lightview alignright" href="/img/festival_face.jpg" data-lightview-caption="Festival Face" data-lightview-group="group1" ><img src="/img/festival_face.jpg" alt="/img/festival_face.jpg"><br><span class="caption">Festival Face</span></a>
 
 On the way out of town, I mused, "If we weren't filthy, I'd say let's go down to New Iberia for that place with the soft shell crab poboys that are so good."  
 
@@ -25,7 +26,7 @@ The impact was enough to knock over two full soft drinks, so ice and liquid gush
 
 About that time, a stranger passed behind me and said, "Excuse me, I don't know if you're aware, but you're bleeding."  Sure enough, my elbow was moving fast enough to break skin, and in the process of wiping up ice, I had smeared blood along the back of my arm from shirt sleeve to mid-forearm.  There were even a couple of puddles near the edge of the table near me.  I guess that's where I rested my elbow to reach across to the far side.  So the table cleanup continued.
 
-<table class="alignright" width="340px"><tr><td><img src="/img/fanofshame.jpg" alt="benny - the link to this image is f" width="320px" /></td></tr><tr><td class="caption">The fan of shame blows under the table.</td></tr></table>
+<a class="lightview alignright" href="/img/fanofshame.jpg" data-lightview-caption="The fan of shame blows under the table." data-lightview-group="group1" ><img src="/img/fanofshame.jpg" alt="/img/fanofshame.jpg"><br><span class="caption">The fan of shame blows under the table.</span></a>
 
 Finally, the mop girl felt like her effort was good enough.  She explained that they would get it better after they close, and they moved a fan to the floor to blow beneath our table and help it dry out.
 

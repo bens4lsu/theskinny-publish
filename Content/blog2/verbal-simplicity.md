@@ -1,7 +1,7 @@
 ---
 title: Verbal Simplicity
 date: 2013-01-28 16:43
-description: A description of my post.
+description: V uses the word "yeah-honh" a lot lately.  At least I think that's how you would spell it.  The N is silent, but you have to make the short o with a nasal sound, as if an N were about to follow.
 tags: young-ruski
 id: 1548
 ---

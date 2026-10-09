@@ -1,9 +1,10 @@
 ---
 title: Mardi Gras Miracles
 date: 2013-02-11 15:01
-description: A description of my post.
+description: I've noticed that the Gods of Fat Tuesday have been good to us.  In fact, I can catalogue three outright miracles.  Let's jump right in.
 tags: uncategorized
 id: 1595
+ogImg: weather.jpg
 ---
 I've noticed that the Gods of Fat Tuesday have been good to us.
 
@@ -15,7 +16,7 @@ I've noticed that the Gods of Fat Tuesday have been good to us.
 
 <li>This:
 
-<table class="centered" ><tr><td><img src="/img/weather.jpg" alt="benny - the link to this image is fucked"  /></td></tr></table>
+<a class="lightview centered" href="/img/weather.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/weather.jpg" alt="/img/weather.jpg"><br><span class="caption"></span></a>
 
 All day in New Orleans on Sunday, and not a drop of rain on us.</li></ul>
 

@@ -1,7 +1,7 @@
 ---
 title: Election 
 date: 2012-11-07 10:29
-description: A description of my post.
+description: I get that a lot of you are disappointed that your guy lost, but can we cut out the "America is going to hell" and "I'm moving to Canada" bullshit?
 tags: current-events
 id: 1489
 ---

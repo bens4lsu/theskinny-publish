@@ -2,7 +2,6 @@
 title: Taking a Photo Dump
 date: 2026-10-08 11:07
 description: I have a handful of pics on my phone that will make good new daily photos, but I also have some that go together in logical sets.  Let's look at them together, in order of most boring topic to least boring topic.
-
 id: 2547
 ogImg: resIMG_20261001_172734_IMG_6559.jpg
 

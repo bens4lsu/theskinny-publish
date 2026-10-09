@@ -1,7 +1,7 @@
 ---
 title: Inaccuweather
 date: 2013-04-12 15:09
-description: A description of my post.
+description: Has anyone else noticed that Accuweather sucks now?  I remember once upon a time, they were the only ones with hourly forecasts.  Then those forecasts were really, really good.
 tags: my-stories, hurricanes
 id: 1624
 ---
@@ -13,12 +13,12 @@ Maybe they used to be lucky, but I really think they used to be better.  Hell, n
 
 Here's a screen cap from a few days ago.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img src="/img/accuweather1.jpg"></td><td width="5" rowspan="2"></p>
+<a class="lightview centered" href="/img/accuweather1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/accuweather1.jpg" alt="/img/accuweather1.jpg"><br><span class="caption"></span></a>
 
 And here's the actual weather at that exact time.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="accuweather2" src="/img/accuweather2.jpg"/></p>
+<a class="lightview centered" href="/img/accuweather2.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/accuweather2.jpg" alt="/img/accuweather2.jpg"><br><span class="caption"></span></a>
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="accuweather3" src="/img/accuweather3.jpg"/></p>
+<a class="lightview centered" href="/img/accuweather3.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/accuweather3.jpg" alt="/img/accuweather3.jpg"><br><span class="caption"></span></a>
 
 Anyone have a better weather service to recommend?

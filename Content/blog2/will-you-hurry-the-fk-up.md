@@ -1,7 +1,7 @@
 ---
 title: Will You Hurry the F&%k Up!
 date: 2013-01-16 15:09
-description: A description of my post.
+description: As we've discussed, I have a daily challenge trying to get V ready for school. I've used everything I know of to motivate him to get ready: a piece of cake before school (pretty good parenting); a swallow of coke (even better parenting); allowing not-too-outrageous attempts to subvert the school dress code.
 tags: young-ruski
 id: 1538
 ---

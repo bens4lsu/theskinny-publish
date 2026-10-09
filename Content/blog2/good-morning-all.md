@@ -1,7 +1,7 @@
 ---
 title: Good Morning All
 date: 2012-12-11 21:38
-description: A description of my post.
+description: I'm out of practice at this.  After a really busy October and November, I have some time to update my site.  (I haven't even looked at our Halloween pictures yet!)  But, alas, my less-than-one-year-old laptop had a hard drive crash last week, and everything I'm comfortable with is gone gone.
 tags: gear-and-gadgets,young-ruski
 id: 1492
 ---

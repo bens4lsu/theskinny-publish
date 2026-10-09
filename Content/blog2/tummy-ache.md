@@ -1,15 +1,16 @@
 ---
 title: Tummy Ache
 date: 2013-01-15 09:20
-description: A description of my post.
+description: Wouldn't any decent parent tell his sick child something like, "I would do anything for you to feel better right now?"  Be careful what you say, my friends.  On the weekend before Christmas, our cute little family went for a hot chocolate, dinner, and then to City Park in New Orleans to see the lights.
 tags: young-ruski
 id: 1524
+ogImg: gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG
 ---
 Wouldn't any decent parent tell his sick child something like, "I would do anything for you to feel better right now?"
 
 Be careful what you say, my friends.  On the weekend before Christmas, our cute little family went for a hot chocolate, dinner, and then to City Park in New Orleans to see the lights.  
 
-<table class="alignright" width="340px"><tr><td><img src="http://theskinnyonbenny.com/img/gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG" alt="benny - the link to this image is fucked" width="320px" /></td></tr><tr><td caption">Drinking hot chocolate</td></tr></table>
+<a class="lightview alignright" href="/img/gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG" data-lightview-caption="Drinking hot chocolate" data-lightview-group="group1" ><img src="/img/gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG" alt="/img/gal/097%20-%20Xmas%20Season%202012/resIMG_20121221_3875.JPG"><br><span class="caption">Drinking hot chocolate</span></a>
 
 By the way, the hot chocolate that they serve in the lobby of The Roosevelt is the best I ever had.  It's so think and creamy and chocolaty.  I promise that when I win the Powerball, I'm going to have them fill a bathtub with it and then go there for a soak.
 

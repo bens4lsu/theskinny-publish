@@ -1,8 +1,8 @@
 ---
 title: Music Friday: Rain, Gray, Cold, Rain
 date: 2013-01-25 05:17
-description: A description of my post.
-tags: music-pop-culture
+description: The rain, the rain, the rain.  Winter here means warm rain, followed by cold rain.  Then more cold rain.  Maybe a day or two of sunshine, and then it all starts again. 
+tags: music,pop-culture
 id: 1513
 ---
 The rain, the rain, the rain.  Winter here means warm rain, followed by cold rain.  Then more cold rain.  Maybe a day or two of sunshine, and then it all starts again. 
