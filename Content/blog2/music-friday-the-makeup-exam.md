@@ -1,7 +1,7 @@
 ---
 title: Music Friday: the Makeup Exam
 date: 2012-05-11 06:11
-description: A description of my post.
+description: Yeah, I missed our music edition last week.  Busy morning, Friday.  (But of course, you know these are written and post dated earlier in the week.) First of all, here's Florence and the Machine, as promised, along with some thoughts on tv and a different really cool tune.
 tags: music-pop-culture
 id: 1368
 ---
@@ -13,7 +13,7 @@ First of all, here's Florence and the Machine, as promised.
 
 My second selection this week is inspired again by the conversation about music on *Mad Men*.  This week, the news was about the show paying $250,000 to license The Beatles's "Tomorrow Never Knows."  It worked great in the episode, although I think "Eleanor Rigby" from the same album would have been better.  Aside from being a better tune by a long way, think about the lyrics:
 
-<blockquote>Eleanor Rigby, picks up the rice
+<blockquote><pre>Eleanor Rigby, picks up the rice
 In the church where a wedding has been
 Lives in a dream
 
@@ -24,7 +24,7 @@ Who is it for?
 All the lonely people
 Where do they all come from?
 All the lonely people
-Where do they all belong?</blockquote>
+Where do they all belong?</pre></blockquote>
 
 Does any of that sound like any characters on AMC that you've run into?
 

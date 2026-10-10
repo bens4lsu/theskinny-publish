@@ -1,11 +1,11 @@
 ---
 title: Music Friday:  Safe and Sound
 date: 2012-03-23 06:45
-description: A description of my post.
+description: There must have been some top-tier procrastination going on at my desk this week.  Because I've never once before heard a Taylor Swift song (although I know the name), and there's exactly a zero percent chance that I will see Hunger Games.  But somehow, I found this video, and I like it.
 tags: music-pop-culture
 id: 1278
 ---
-<skinny:nohome><iframe width="560" height="315" src="http://www.youtube.com/embed/RzhAS_GnJIc" frameborder="0" allowfullscreen></iframe></skinny:nohome>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/RzhAS_GnJIc" frameborder="0" allowfullscreen></iframe>
 
 There must have been some top-tier procrastination going on at my desk this week.  Because I've never once before heard a Taylor Swift song (although I know the name), and there's exactly a zero percent chance that I will see *Hunger Games*.  But somehow, I found this video, and I like it.
 

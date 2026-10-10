@@ -1,7 +1,7 @@
 ---
 title: Nice Kid, This One
 date: 2012-04-13 11:12
-description: A description of my post.
+description: A couple of weeks ago, we had a hellacious thunder storm come through during the middle of the night.  I was awake upstairs, in a small bed with Vanya and Lily.  We had a huge flash and bang.  I don't know if it was the lighning or the sound of the thunder, but I literally felt it shake me.  The inside of my mouth felt weird.
 tags: animals,young-ruski
 id: 1339
 ---

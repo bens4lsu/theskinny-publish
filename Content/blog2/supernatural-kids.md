@@ -1,7 +1,7 @@
 ---
 title: Supernatural Kids
 date: 2012-06-15 18:41
-description: A description of my post.
+description: I was on a long car trip with my family.  We saw a highway sign advertising a tourist attraction called "Supernatural Kids."  Intrigued to see kids levitating old phone books or conversing with the dead, we got off of the interstate and drove some distance into the country.
 tags: things-i-just-dreamed-up
 id: 1407
 ---

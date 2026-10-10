@@ -1,7 +1,7 @@
 ---
 title: You'll be Missed, Moose and Zee
 date: 2012-03-28 10:30
-description: A description of my post.
+description: As it true with so many things, I didn't realize that I was attached to Moose and Zee until they were gone.  And to be perfectly honest, I didn't even realize it then.  It had crossed my mind, "I think I missed the Moose and Zee thing between these cartoons.  I wonder how that happened," but I didn't actually know that the characters had been retired until I heard it between songs on Sirius/XM's Alt Nation channel (of all places).
 tags: uncategorized
 id: 1313
 ---
@@ -15,6 +15,6 @@ None of us like change, but I think they've made a bad move.  We don't need anot
 
 So here's one more Christmas candy cane for you, Moose.  Hope you have a happy retirement.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dNvgZvszGb0" frameborder="0" allowfullscreen></iframe>
+<iframe width="770" height="433" src="https://www.youtube.com/embed/IzTZod16FN0" title="Moose and Zee: Candy Cane Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 (If that was enjoyable, <a href="http://theskinnyonbenny.com/blog2/archives/383">here' my favorite Moose song from a post in '08</a>.)

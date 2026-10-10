@@ -1,7 +1,7 @@
 ---
 title: Music Friday: The View
 date: 2012-04-06 06:35
-description: A description of my post.
+description: It's difficult to google up a video from the Scottish band The View.  You get a lot of clips of politicians being falsely cordial with this group of bitchy old women who have a television show by that name.
 tags: music-pop-culture
 id: 1326
 ---

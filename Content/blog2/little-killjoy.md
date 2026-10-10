@@ -1,7 +1,7 @@
 ---
 title: Little Killjoy
 date: 2012-08-23 23:24
-description: A description of my post.
+description: On the way into school this morning, Vanya remembered an incident from the previous day.  "You know what Papa?  Marnie said that Power Rangers weren't real."
 tags: young-ruski
 id: 1430
 ---

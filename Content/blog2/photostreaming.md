@@ -1,9 +1,10 @@
 ---
 title: Photostreaming
 date: 2012-09-26 11:04
-description: A description of my post.
+description: So what does everyone think of their new iPhone OS?  The maps are getting hammered, but I think they're really cool.  Of course, they have some flaws, but Google's maps were pretty bad at first too, and they didn't have 3D buildings or turn-by-turn navigation.
 tags: gear-and-gadgets
 id: 1447
+ogImg: photostreamtest1.jpg
 ---
 So what does everyone think of their new iPhone OS?  The maps are getting hammered, but I think they're really cool.  Of course, they have some flaws, but Google's maps were pretty bad at first too, and they didn't have 3D buildings or turn-by-turn navigation.  Of course, I've only looked up <a href="http://theamazingios6maps.tumblr.com/post/32188754909/new-orleans-famously-misplaced-crescent-city" target="_blank">places I already know anyway</a>.  Maybe when the app takes me through a minefield when I'm just looking for a bowling alley, I'll think differently.
 
@@ -13,4 +14,4 @@ Working alone in what passes as my office, my options for test pics are pretty l
 
 I settled for this.
 
-<p style="margin-left: auto; margin-right: auto; text-align: center;"><img alt="pic of me" src="/img/photostreamtest1.jpg"/></p>
+<a class="lightview centered" href="/img/photostreamtest1.jpg" data-lightview-caption="" data-lightview-group="group1"><img src="/img/photostreamtest1.jpg" alt="/img/photostreamtest1.jpg"><br><span class="caption"></span></a>

@@ -1,7 +1,7 @@
 ---
 title: Bureaucracy
 date: 2012-07-20 16:07
-description: A description of my post.
+description: This is just... Just read this.  It's quick.
 tags: other-peoples-stories
 id: 1418
 ---

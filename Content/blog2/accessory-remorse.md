@@ -4,9 +4,11 @@ date: 2012-05-09 12:41
 description: A description of my post.
 tags: young-ruski
 id: 1375
+ogImg: vanya_violin.jpg
 ---
-<skinny:nohome><table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/vanya_violin.jpg"></td></tr><tr><td class="caption" width="250">This is the closest thing I could get to a smile before the recital started.</td></tr></table></skinny:nohome>
-
+<a class="lightview alignright" href="/img/vanya_violin.jpg" data-lightview-caption="This is the closest thing I could get to a smile before the recital started.
+" data-lightview-group="group1" ><img src="/img/vanya_violin.jpg" alt="/img/vanya_violin.jpg"><br><span class="caption">This is the closest thing I could get to a smile before the recital started.
+</span></a>
 This Sunday, Vanya had his first violin recital.  I didn't make a video, because I thought he might look up, see the camera, and quit playing in order to stare me down.  He was nervous, and to be honest, I thought that he wouldn't play that well, but I'm happy to report that he nailed it.
 
 I wasn't going to post about it at all, but it just dawned on me that I should have talked him into enhancing his wardrobe by one piece (although you can see that he did look great).

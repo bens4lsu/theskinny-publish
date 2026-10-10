@@ -10,7 +10,9 @@ In the past month, we've been to the French Quarter Festival, the Baton Rouge Bl
 
 At Jazz Fest last week, Mrs. theskinnyonbenny came up with the idea for the Jazz Fest Julep:  buy a mint-flavored sno-ball, add smuggled in whiskey.  It's actually pretty good.  Not as good as a real mint julep, but a long, long bit better than the canned Miller Lite that you can buy at the tents.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/jazzfestjulep.jpg"></td></tr><tr><td class="caption" width="250">A Jazz Fest Julep</td></tr></table>
+<a class="lightview alignright" href="/img/jazzfestjulep.jpg" data-lightview-caption="A Jazz Fest Julep
+" data-lightview-group="group1" ><img src="/img/jazzfestjulep.jpg" alt="/img/jazzfestjulep.jpg"><br><span class="caption">A Jazz Fest Julep
+</span></a>
 
 The smuggled in whiskey is a piece of cake when you're traveling with a baby.  Suff it in a bag covered with bibs and diapers and other random baby shit, then tuck that at the bottom of the stroller, where it's a pain to get to anyway.  They didn't even bother checking in there.
 
@@ -28,6 +30,5 @@ We sat down, and through a gate at the back of their patio, we hear and kind of 
 
 The video I made over there is one of my favorites.  And it explains better than I ever could why I wouldn't want to live too far from New Orleans.  I don't think a scene like this would happen anywhere else.
 
-<iframe src="http://player.vimeo.com/video/41733084" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<iframe width="664" height="374" src="https://www.youtube.com/embed/W8HbWkQ3GLc" title="Band in New Orleans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

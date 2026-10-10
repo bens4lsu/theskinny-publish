@@ -1,7 +1,7 @@
 ---
 title: Addict
 date: 2012-08-21 09:51
-description: A description of my post.
+description: Breaking Bad helps me understand addicts.  Not because of the content, but because wanting to watch the next episode makes me understand temptation to abandon job and family obligations to do something non-productive.  That is to say, in my case, it's hard to pass up the urge to binge watch all day.
 tags: pop-culture
 id: 1425
 ---

@@ -1,7 +1,7 @@
 ---
 title: Scene From Mad Men This Week
 date: 2012-04-05 09:19
-description: A description of my post.
+description: It seems to be a theme with a lot of the television that is good right now.  If you watch it, you like it, but you can't really describe anything that is particularly likeable.  Maybe I can look into that phenomenon for you in a future post, but now, I'm going to give you an example about what is so good about Mad Men.
 tags: pop-culture
 id: 1329
 ---

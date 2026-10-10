@@ -1,15 +1,16 @@
 ---
 title: A Short Post Wherein I Fix Mardi Gras
 date: 2012-03-06 22:42
-description: A description of my post.
+description: I think that ever since they moved to Thursday night, Muses has followed the Krewe of Chaos.  The contrast couldn't be more stark.  Chaos is a terrible parade.  Just terrible.  The bands aren't good.  The floats aren't clever.  They're pretty much out of throws by the time they get downtown.  It just couldn't be a whole lot worse.
 tags: my-stories
 id: 1266
+ogImg: kolya2.jpg
 ---
 I think that ever since they moved to Thursday night, Muses has followed the Krewe of Chaos.  The contrast couldn't be more stark.
 
 Chaos is a terrible parade.  Just terrible.  The bands aren't good.  The floats aren't clever.  They're pretty much out of throws by the time they get downtown.  It just couldn't be a whole lot worse.
 
-<table cellpadding="2" align="right"><tr><td width="5" rowspan="2"><spacer type="block" width="5" height="1"></td><td width="250" ><img src="/img/kolya2.jpg"></td></tr><tr><td class="caption" width="250">Kolya enjoys his first Muses parade.</td></tr></table>
+<a class="lightview alignright" href="/img/kolya2.jpg" data-lightview-caption="Kolya enjoys his first Muses parade." data-lightview-group="group1" ><img src="/img/kolya2.jpg" alt="/img/kolya2.jpg"><br><span class="caption">Kolya enjoys his first Muses parade.</span></a>
 
 I have a great idea about what they could do to generate some buzz.  Knowing that most everyone on the route is just biding time, waiting for Muses, they should do floats that spoof Muses.  One float makes fun of shoes, one float makes fun of the St. Aug band, one float makes fun of secret themes, one float makes fun of Elvi on scooters, one float makes fun of the 610 Stompers, one float makes fun of women in fake naked suits on horses, one float makes fun of fiber optic light up butterflies, ...  You get the idea.  
 

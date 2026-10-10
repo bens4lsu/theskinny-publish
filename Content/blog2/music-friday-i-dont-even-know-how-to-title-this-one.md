@@ -1,7 +1,7 @@
 ---
 title: Music Friday:  I Don't Even Know How to Title This One
 date: 2012-04-27 06:02
-description: A description of my post.
+description: What happens if you take crisp linen sheets, throw it out in a hailstorm, whack it with sticks made of rhino poo, and sprinkle that with awesomeness powder?
 tags: music-pop-culture
 id: 1349
 ---

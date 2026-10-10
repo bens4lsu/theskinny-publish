@@ -1,7 +1,7 @@
 ---
 title: Horses Down
 date: 2012-07-19 13:08
-description: A description of my post.
+description: I've been a fan of horse racing for pretty much my entire life. It's a great sport, featuring beautiful, amazing athletes that love what they do and never hold out for a better contract. 
 tags: sports
 id: 1416
 ---

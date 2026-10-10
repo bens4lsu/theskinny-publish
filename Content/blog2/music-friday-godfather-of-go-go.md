@@ -1,7 +1,8 @@
 ---
 title: Music Friday: Godfather of Go Go
 date: 2012-05-18 06:12
-description: A description of my post.
+description: A few years ago, I created a Pandora station, mixing Washington DC go go artists with New Orleans funk bands -- close musical cousins to be sure.  The first name I typed in to start the station was Chuck Brown.
+
 tags: music-pop-culture
 id: 1388
 ---

@@ -1,7 +1,7 @@
 ---
 title: Music Friday Returns to Penetrate the Foundations of Modern Philosophy
 date: 2012-09-27 05:24
-description: A description of my post.
+description: Here's a video that has more than 290,000,000 views, so I guess I'm the last person on the bandwagon.  i caught this while wishing I could go back to sleep at 5:15 this morning.  By 5:17, I was laughing out loud and wide awake.  
 tags: music-pop-culture
 id: 1451
 ---

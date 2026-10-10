@@ -1,7 +1,7 @@
 ---
 title: Seattle: Worst Place in the World
 date: 2012-04-24 13:46
-description: A description of my post.
+description: I just can't seem to bring myself to watch this week's episode of The Killing.  I haven't decided to make the step of "firing" it (which is when I delete the TIVO subscription for it to auto-record), but it's definitely on paid leave.
 tags: pop-culture
 id: 1352
 ---

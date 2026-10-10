@@ -1,7 +1,7 @@
 ---
 title: Music Friday:  Two for the Price of None
 date: 2012-03-31 07:00
-description: A description of my post.
+description: I saw this video on NME, and was then disappointed to find that Spotify had only two tracks by California X.  Amazon had just the same two, so maybe that's all they've written.  Doesn't exactly make me want to pin them as future break out monster stars, but this tune is a good one.  Reminds me of the first time I found My Chemical Romance on line.
 tags: music-pop-culture
 id: 1311
 ---

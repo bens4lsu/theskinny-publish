@@ -1,7 +1,7 @@
 ---
 title: Overheard at theskinnyonbenny Headquarters
 date: 2012-09-06 12:46
-description: A description of my post.
+description: One drawback of working from home, is the interruption that occurs at the end of the afternoon when the kids get home from school.  Yesterday, I heard Vanya at the bottom of the stairs saying this.
 tags: young-ruski
 id: 1434
 ---

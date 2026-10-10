@@ -1,7 +1,7 @@
 ---
 title: Batman in PHP
 date: 2012-03-04 21:25
-description: A description of my post.
+description: Here's how to sing the 60s Adam West Batman theme, written in php:
 tags: uncategorized
 id: 1243
 ---

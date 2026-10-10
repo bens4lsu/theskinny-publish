@@ -1,7 +1,7 @@
 ---
 title: Road Trip to Hades
 date: 2012-08-09 19:02
-description: A description of my post.
+description: On a recent Summer day, we had a plan to drive from Destin to Miami.  We had spent a couple of quick days in Destin to hang out with friends there, and we had a boat charter to start from Miami a couple of days later.  We planned one long, hard day of driving, which would give us a full day to see a little bit if Miami and to provision for the boat trip. 
 tags: travel,young-ruski
 id: 1421
 ---

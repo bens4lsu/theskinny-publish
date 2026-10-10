@@ -1,7 +1,7 @@
 ---
 title: Monday Weather Adventure
 date: 2012-04-02 19:36
-description: A description of my post.
+description: Today, I was working upstairs, and I heard it start to thunder.  I finished up what I was doing and went outside to put the roof on my Jeep.  It was quick and easy, and the rain started to fall just as I finished up.u
 tags: my-stories
 id: 1321
 ---
