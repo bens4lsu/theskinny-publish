@@ -40,9 +40,9 @@ struct HomeMainMessage: Component {
     // Video Galleries
     
     let vgComponentGroup = ComponentGroup {
-        H2("Someone help me out with this one...")
-        VideoGalleryLink(url: "/video/i-have-no-idea-what-to-do-with-this-striping/", image: "mq20260209.jpg", caption: "")
-        Text("The city painted some new street stripes on S. Harrlels Ferry Rd, which is kind of a major street.  I honestly have no idea when I'm supposed to go where as I approach Sherwood Forest Blvd.  Watch the vid and let me know.")
+        H2("Ro.... How did you do that?")
+        VideoGalleryLink(url: "/video/girls-got-hops/", image: "mq20261009.jpg", caption: "We closed this half door to keep the dogs off of the furniture and the rug in the front of the house while we were gone.")
+        //Text("The city painted some new street stripes on S. Harrlels Ferry Rd, which is kind of a major street.  I honestly have no idea when I'm supposed to go where as I approach Sherwood Forest Blvd.  Watch the vid and let me know.")
         
         
     }
@@ -61,7 +61,7 @@ struct HomeMainMessage: Component {
         Div {
             mdContent
 //            pgComponentGroup
-//            vgComponentGroup
+            vgComponentGroup
 //            boatComponentGroup
             EmptyComponent()
         }.class("div-home-main-mess")

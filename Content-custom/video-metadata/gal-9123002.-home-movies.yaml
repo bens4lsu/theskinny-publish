@@ -87,3 +87,15 @@ videos:
         tn: mq20260403.jpg
         duration: 3:41
         attribution:
+        
+    -
+        id: 912345054
+        dateRecorded: 2026-09-01
+        name: Girl's Got Hops
+        caption: |
+            We closed this half door to keep the dogs off of the furniture and the rug in the front of the house while we were gone.
+        url: https://www.youtu.be/2fZ16ZnCTlo
+        embed: <iframe width="1251" height="704" src="https://www.youtube.com/embed/2fZ16ZnCTlo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" re.ferrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        tn: mq20261009.jpg
+        duration: 0:14
+        attribution:        
