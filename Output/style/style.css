@@ -834,6 +834,14 @@ img.greenline {
     align-items: stretch;
 }
 
+.content .rating-badge {
+  display: inline-block;
+  height: 39px;
+  width: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  margin: 6px 0 10px 0;
+}
 
 @media (min-width: 650px) {
     .wrapper {
