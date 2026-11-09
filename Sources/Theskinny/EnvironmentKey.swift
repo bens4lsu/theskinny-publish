@@ -63,7 +63,7 @@ extension EnvironmentKey where Value == DateFormatter {
 extension EnvironmentKey where Value == Int {
     static let blogPostsPerPage = 12
     //static let styleAndScriptVersion = Int.random(in: Int.min...Int.max)
-    static let styleAndScriptVersion = 1049
+    static let styleAndScriptVersion = 1050
     
     static let currentYear: Int = Calendar.current.component(.year, from: Date())
 }

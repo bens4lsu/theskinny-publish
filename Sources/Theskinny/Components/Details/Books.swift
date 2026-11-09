@@ -25,6 +25,12 @@ struct Book: Component {
         if rating.truncatingRemainder(dividingBy: 1) == 0.5 {
             halfString = "½"
         }
+        else if rating.truncatingRemainder(dividingBy: 1) == 0.25 {
+            halfString = "¼"
+        }
+        else if rating.truncatingRemainder(dividingBy: 1) == 0.75 {
+            halfString = "¾"
+        }
         return String(repeating: "⭐️", count: Int(rating)) + halfString
     }
     
